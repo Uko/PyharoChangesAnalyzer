@@ -1,0 +1,99 @@
+BaselineOfQualityAssistant>>#unstallObsoletePlugin
+ConfigurationOfQualityAssistant>>#v1_3_0:
+ConfigurationOfRenraku>>#v0_5_0:
+HelpIcons class>>#iconNamed:
+QAFeedbackMorph
+QAFeedbackMorph>>#critic
+QAFeedbackMorph>>#critic:
+QAFeedbackMorph>>#finalizeFeedback:withComment:
+QAFeedbackMorph>>#fireDialogWithFeedback:
+QAFeedbackMorph>>#initialize
+QAFeedbackMorph>>#initializeNegativeFeedback
+QAFeedbackMorph>>#initializePositiveFeedback
+ThemeIcons>>#thumbsDownIcon
+ThemeIcons>>#thumbsUpIcon
+ThemeIcons>>#thumbsUpIconContents
+ThemeIcons>>#tumbsDownIconContents
+ReCritic>>#provideNegativeFeedback:
+ReCritic>>#providePositiveFeedback:
+ReFeedbacker class>>#negativeFeedback:About:
+ReFeedbacker class>>#positiveFeedback:About:
+ScriptLoader>>#update50262
+BaselineOfQualityAssistant>>#baseline:
+BaselineOfQualityAssistant>>#installPlugin
+ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant>>#pre1_3_0:
+ConfigurationOfRenraku>>#development:
+ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku>>#pre0_5_0:
+HelpIcons
+HelpIconsTest
+DelayMicrosecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
+DelayMillisecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
+QualityAssistantPlugin
+QualityAssistantPlugin>>#display
+QualityAssistantPluginMorph
+QualityAssistantPluginMorph>>#initializeList
+QualityAssistantPluginMorph>>#displayCritic:
+ReComplainer class>>#complainAbout:
+ReComplainer
+ScriptLoader>>#script50261
+ScriptLoader>>#commentForCurrentUpdate
+ConfigurationOfQualityAssistant>>#pre1_3_0:
+ConfigurationOfRenraku>>#pre0_5_0:
+HelpIcons class>>#icons
+HelpIcons class>>#blankIcon
+HelpIcons class>>#bookIcon
+HelpIcons class>>#packageIcon
+HelpIcons class>>#pageIcon
+HelpIcons class>>#refreshIcon
+HelpIcons class>>#reset
+HelpIcons
+HelpIconsTest
+HelpIconsTest>>#defaultTestClass
+HelpIconsTest>>#testIconCaching
+QualityAssistantPlugin class>>#pluginName
+QualityAssistantPlugin class>>#possiblePositions
+QualityAssistantPlugin class>>#install
+QualityAssistantPlugin class>>#uninstall
+QualityAssistantPlugin class>>#defaultPosition
+QualityAssistantPlugin
+QualityAssistantPlugin>>#selectionChanged:
+QualityAssistantPlugin>>#updateMorph
+QualityAssistantPlugin>>#display
+QualityAssistantPlugin>>#initialize
+QualityAssistantPlugin>>#criticSelected:
+QualityAssistantPlugin>>#currentEntity
+QualityAssistantPlugin>>#registerTo:
+QualityAssistantPluginMorph
+QualityAssistantPluginMorph>>#adoptPaneColor:
+QualityAssistantPluginMorph>>#entity
+QualityAssistantPluginMorph>>#entity:
+QualityAssistantPluginMorph>>#pluginDelegate
+QualityAssistantPluginMorph>>#pluginDelegate:
+QualityAssistantPluginMorph>>#fixAutomatically:
+QualityAssistantPluginMorph>>#updateList
+QualityAssistantPluginMorph>>#classCommented:
+QualityAssistantPluginMorph>>#methodModified:
+QualityAssistantPluginMorph>>#buildConfirmationCheckbox:
+QualityAssistantPluginMorph>>#buildConfirmationHeader:
+QualityAssistantPluginMorph>>#buildConfirmationMessage:
+QualityAssistantPluginMorph>>#initialize
+QualityAssistantPluginMorph>>#initializeList
+QualityAssistantPluginMorph>>#initializeProgress
+QualityAssistantPluginMorph>>#initializeUpdateTask
+QualityAssistantPluginMorph>>#subscribe
+QualityAssistantPluginMorph>>#allowToSelect
+QualityAssistantPluginMorph>>#getCritics
+QualityAssistantPluginMorph>>#iconFor:at:
+QualityAssistantPluginMorph>>#iconMaxSize
+QualityAssistantPluginMorph>>#selected:
+QualityAssistantPluginMorph>>#autofixButtonFor:
+QualityAssistantPluginMorph>>#displayCritic:
+QualityAssistantPluginMorph>>#infoButtonFor:
+QualityAssistantPluginMorph>>#skipButtonFor:
+ReComplainer class>>#complainAbout:
+ReComplainer class>>#uuid
+ReComplainer
+ScriptLoader>>#script50261

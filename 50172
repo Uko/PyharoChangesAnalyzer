@@ -1,0 +1,24 @@
+MCFileBasedRepository>>#notCachedVersionWithInfo:
+NBBufferWithOffset class>>#asNBExternalType:
+NBBufferWithOffset
+NBBufferWithOffset>>#buffer
+NBBufferWithOffset>>#buffer:
+NBBufferWithOffset>>#offset
+NBBufferWithOffset>>#offset:
+NBBufferWithOffsetType class>>#objectClass:
+NBBufferWithOffsetType
+NBBufferWithOffsetType>>#bufferIvarIndex
+NBBufferWithOffsetType>>#objectClass
+NBBufferWithOffsetType>>#objectClass:
+NBBufferWithOffsetType>>#offsetIvarIndex
+NBBufferWithOffsetType>>#valueSize
+NBBufferWithOffsetType>>#coerceReturn:
+NBBufferWithOffsetType>>#pushAsValue:
+NBBufferWithOffsetTests
+NBBufferWithOffsetTests>>#readByte:
+NBBufferWithOffsetTests>>#testConversionWorks
+ScriptLoader>>#update50172
+MCFileBasedRepository>>#closestAncestorVersionFor:ifNone:
+ScriptLoader>>#script50171
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50171

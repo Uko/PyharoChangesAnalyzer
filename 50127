@@ -1,0 +1,18 @@
+ReflectiveMethodTest>>#testReifyIvarVariable
+RFVariableReification class>>#key
+RFVariableReification class>>#nodes
+RFVariableReification
+RFVariableReification>>#genForRBVariableNode
+ScriptLoader>>#update50127
+SourceFileArray>>#reportString
+SourceFileArray>>#collect:
+SourceFileArray>>#do:
+ScriptLoader>>#script50126
+ScriptLoader>>#commentForCurrentUpdate
+SourceFileArray>>#changesFileStream
+SourceFileArray>>#sourcesFileStream
+SourceFileArray>>#writeSource:preamble:onSuccess:onFail:
+SystemReporter>>#reportSources:
+ScriptLoader>>#script50126
+SourceFileArray>>#at:
+SourceFileArray>>#at:put:

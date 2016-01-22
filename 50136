@@ -1,0 +1,36 @@
+Job class>>#exampleCurrentValue
+Job class>>#exampleProgress
+Job>>#lookup:ifNone:
+Job>>#parent
+JobAnnouncement class>>#on:
+JobAnnouncement>>#max
+JobAnnouncement>>#min
+JobAnnouncement>>#progress
+JobAnnouncement>>#title
+JobTest>>#testJobAnnouncements
+MetaLinkTest>>#testCotrolInstead
+ReflectiveMethodTest>>#testReplaceSimple
+RBProgramNode>>#hasMetalinkInstead
+RBProgramNode>>#insteadHooks
+RBProgramNode>>#insteadLinks
+ScriptLoader>>#update50136
+JobDetector
+Job class>>#current
+Job>>#prepareForRunning
+Job>>#progress:
+Job>>#run
+JobStartNotification
+JobChange
+JobEnd
+JobStart
+RFASTTranslator>>#visitNode:
+RFSemanticAnalyzer>>#analyseForLinks:
+ScriptLoader>>#script50135
+ScriptLoader>>#commentForCurrentUpdate
+Collection>>#do:displayingProgress:every:
+JobDetector
+Job>>#announcer
+JobStartNotification
+JobStartNotification>>#job
+JobStartNotification>>#job:
+ScriptLoader>>#script50135

@@ -1,0 +1,16 @@
+ConfigurationOfRubric>>#version1187:
+ScriptLoader>>#update50337
+ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version1214Moose51:
+SimpleBorder>>#initialize
+RBGuardClauseRule>>#name
+RBGuardClauseRule>>#rationale
+RBToDoCollectRule>>#name
+RubAbstractTextArea>>#textColor:
+RubSmalltalkEditor class>>#buildShortcutsOn:
+RubSmalltalkEditor>>#selectedSelector
+RubSmalltalkEditor>>#sendersOfIt
+RubTextSegmentMorph>>#from:to:
+ScriptLoader>>#script50336
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50336

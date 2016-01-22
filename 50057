@@ -1,0 +1,16 @@
+HookGeneratorTest
+HookGeneratorTest>>#testHookWithArguments
+HookGeneratorTest>>#testHookWithVirtualMeta
+HookGenerator>>#plugins
+HookGenerator>>#table
+HookGenerator>>#reificationsFor:
+RFCondition>>#reifications
+RFReification>>#optimize
+RFReification>>#genForRBMethodNode
+ScriptLoader>>#update50057
+HookGenerator>>#setupTable
+HookGenerator>>#hook
+ScriptLoader>>#script50056
+ScriptLoader>>#commentForCurrentUpdate
+MetaLinkTest>>#testHaltHook
+ScriptLoader>>#script50056

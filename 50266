@@ -1,0 +1,10 @@
+MCRepository>>#retryOnCredentialRequest:
+ScriptLoader>>#update50266
+BIConfigurableFormatter>>#needsMethodSignatureOnMultipleLinesFor:
+MCRepository>>#storeVersion:
+ScriptLoader>>#script50265
+ScriptLoader>>#commentForCurrentUpdate
+TemporaryVariableTest>>#testPropertyAtPutPersistent
+TemporaryVariableTest>>#testPropertyBlockPersistent
+TemporaryVariableTest>>#testPropertyContextPersistent
+ScriptLoader>>#script50265

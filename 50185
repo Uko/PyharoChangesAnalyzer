@@ -1,0 +1,171 @@
+BaselineOfQualityAssistant
+BaselineOfQualityAssistant>>#baseline:
+BaselineOfQualityAssistant>>#installPlugin
+BaselineOfRenraku
+BaselineOfRenraku>>#baseline:
+ConfigurationOfQualityAssistant class>>#catalogChangeLog
+ConfigurationOfQualityAssistant class>>#catalogContactInfo
+ConfigurationOfQualityAssistant class>>#catalogDescription
+ConfigurationOfQualityAssistant class>>#catalogKeyClassesAndExample
+ConfigurationOfQualityAssistant class>>#catalogKeywords
+ConfigurationOfQualityAssistant
+ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant>>#pre1_2_0:
+ConfigurationOfQualityAssistant>>#v0_1_0:
+ConfigurationOfQualityAssistant>>#v0_1_1:
+ConfigurationOfQualityAssistant>>#v0_1_2:
+ConfigurationOfQualityAssistant>>#v0_2_0:
+ConfigurationOfQualityAssistant>>#v0_2_1:
+ConfigurationOfQualityAssistant>>#v0_2_2:
+ConfigurationOfQualityAssistant>>#v0_2_3:
+ConfigurationOfQualityAssistant>>#v0_2_4:
+ConfigurationOfQualityAssistant>>#v0_2_5:
+ConfigurationOfQualityAssistant>>#v0_3_0:
+ConfigurationOfQualityAssistant>>#v0_4_0:
+ConfigurationOfQualityAssistant>>#v0_4_1:
+ConfigurationOfQualityAssistant>>#v0_4_2:
+ConfigurationOfQualityAssistant>>#v0_5_0:
+ConfigurationOfQualityAssistant>>#v0_5_1:
+ConfigurationOfQualityAssistant>>#v0_6_0:
+ConfigurationOfQualityAssistant>>#v0_6_1:
+ConfigurationOfQualityAssistant>>#v1_0_0:
+ConfigurationOfQualityAssistant>>#v1_1_0:
+ConfigurationOfQualityAssistant>>#v1_1_1:
+NonfocusablePluggableIconListMorph
+NonfocusablePluggableIconListMorph>>#takesKeyboardFocus
+QualityAssistantPlugin class>>#pluginName
+QualityAssistantPlugin class>>#possiblePositions
+QualityAssistantPlugin class>>#install
+QualityAssistantPlugin class>>#uninstall
+QualityAssistantPlugin class>>#defaultPosition
+QualityAssistantPlugin
+QualityAssistantPlugin>>#selectionChanged:
+QualityAssistantPlugin>>#updateMorph
+QualityAssistantPlugin>>#display
+QualityAssistantPlugin>>#initialize
+QualityAssistantPlugin>>#criticSelected:
+QualityAssistantPlugin>>#currentEntity
+QualityAssistantPlugin>>#registerTo:
+QualityAssistantPluginMorph
+QualityAssistantPluginMorph>>#adoptPaneColor:
+QualityAssistantPluginMorph>>#entity
+QualityAssistantPluginMorph>>#entity:
+QualityAssistantPluginMorph>>#pluginDelegate
+QualityAssistantPluginMorph>>#pluginDelegate:
+QualityAssistantPluginMorph>>#fixAutomatically:
+QualityAssistantPluginMorph>>#guardedReportUseless:andRemove:
+QualityAssistantPluginMorph>>#reportUseless:andRemove:
+QualityAssistantPluginMorph>>#revalidateEntity
+QualityAssistantPluginMorph>>#updateList
+QualityAssistantPluginMorph>>#qualityChanged:
+QualityAssistantPluginMorph>>#buildConfirmationCheckbox:
+QualityAssistantPluginMorph>>#buildConfirmationHeader:
+QualityAssistantPluginMorph>>#buildConfirmationMessage:
+QualityAssistantPluginMorph>>#createButton
+QualityAssistantPluginMorph>>#initialize
+QualityAssistantPluginMorph>>#initializeList
+QualityAssistantPluginMorph>>#initializeProgress
+QualityAssistantPluginMorph>>#initializeUpdateTask
+QualityAssistantPluginMorph>>#allowToSelect
+QualityAssistantPluginMorph>>#getCritics
+QualityAssistantPluginMorph>>#iconFor:at:
+QualityAssistantPluginMorph>>#iconMaxSize
+QualityAssistantPluginMorph>>#selected:
+QualityAssistantPluginMorph>>#autofixButtonFor:
+QualityAssistantPluginMorph>>#displayCritic:
+QualityAssistantPluginMorph>>#infoButtonFor:
+QualityAssistantPluginMorph>>#skipButtonFor:
+QualityAssistantPluginMorph>>#uselessButtonFor:
+QualityAssistantSettings class>>#reportWithoutAsking
+QualityAssistantSettings class>>#reportWithoutAsking:
+QualityAssistantSettings class>>#reportWithoutAskingSettingOn:
+QualityAssistantSettings
+CompiledMethod>>#gtInspectorCriticsIn:
+CompiledMethod>>#guidedSkip:
+CompiledMethod>>#spotterQACriticsFor:
+ReCritic>>#gtInspectorDescriptionIn:
+ReCritic>>#gtInspectorSourceCodeIn:
+ReCritic>>#guidedSkip
+ReCritic>>#icon
+ReCritic>>#popDescriptionUp
+ReCritic>>#spotterPreviewCodeIn:
+ReCritic>>#spotterPreviewRationaleIn:
+TBehavior>>#gtInspectorCriticsIn:
+TBehavior>>#guidedSkip:
+TBehavior>>#spotterQACriticsFor:
+ThemeIcons>>#repairIcon
+ThemeIcons>>#repairIconContents
+ThemeIcons>>#smallInformationIcon
+ThemeIcons>>#smallQAIcon
+ThemeIcons>>#smallQAIconContents
+ReCriticTest
+ReCriticTest>>#testDescription
+ReCriticTest>>#testIsAutoFixable
+ReCriticTest>>#testRule
+ReCriticTest>>#testSkip
+ReCriticTest>>#testSkip1
+ReCriticTest>>#testTarget
+ReCriticTest>>#testTitle
+RenrakuBaseTestCase
+RenrakuBaseTestCase>>#setUp
+RenrakuBaseTestCase>>#tearDown
+RenrakuTest
+RenrakuTest>>#testNoClassComment
+RenrakuTest>>#testSkip
+RenrakuTest>>#testSkip1
+RenrakuTest>>#testSkip2
+RenrakuTest>>#testUnclassifiedMethod
+RenrakuTest>>#testUnusedVar
+ReComplainer class>>#complainAbout:
+ReComplainer class>>#uuid
+ReComplainer
+ReCritic class>>#for:by:
+ReCritic class>>#for:by:at:
+ReCritic
+ReCritic>>#description
+ReCritic>>#rule
+ReCritic>>#selection
+ReCritic>>#target
+ReCritic>>#title
+ReCritic>>#fixAutomatically
+ReCritic>>#reportUselessness
+ReCritic>>#skip
+ReCritic>>#suggestedCode
+ReCritic>>#initializeRule:target:
+ReCritic>>#initializeRule:target:selection:
+ReCritic>>#hasSelection
+ReCritic>>#isAutofixable
+ReEngine class>>#initialize
+ReEngine class>>#uniqueInstance
+ReEngine
+ReEngine>>#rules
+ReEngine>>#resetCriticCache:
+ReEngine>>#classCommented:
+ReEngine>>#classDefinitionModified:
+ReEngine>>#classModified:
+ReEngine>>#methodModified:
+ReEngine>>#methodRecategorized:
+ReEngine>>#initialize
+ReEngine>>#subscribe
+ReEngine>>#unSubscribe
+ReQualityChanged class>>#of:
+ReQualityChanged
+ReQualityChanged>>#entity
+ReQualityChanged>>#entity:
+CompiledMethod>>#cachedCritics
+CompiledMethod>>#critics
+CompiledMethod>>#skip:
+CompiledMethod>>#wipeCritics
+RBTransformationRule>>#suggestedCode:
+SystemAnnouncer>>#qualityChanged:
+TBehavior>>#cachedCritics
+TBehavior>>#critics
+TBehavior>>#skip:
+TBehavior>>#wipeCritics
+TheManifestBuilder>>#skipRule:for:
+TheManifestBuilder>>#skipsRule:for:
+ScriptLoader>>#update50185
+ScriptLoader>>#script50184
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50184

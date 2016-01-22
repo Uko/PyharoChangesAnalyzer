@@ -1,0 +1,42 @@
+DebugSession class>>#named:on:startedAt:
+DebugSession class>>#logDebuggerStackToFile
+DebugSession>>#name
+DebugSession>>#name:
+DebugSession>>#stepIntoUntil:
+DebugSession>>#detectUIProcess
+DebugSession>>#logStackToFileIfNeeded
+DebugSession>>#signalDebuggerError:
+DebugSession>>#isAboutUIProcess
+Process>>#newDebugSessionNamed:startedAt:
+MorphicUIManager>>#openDebuggerOn:context:label:fullView:notification:
+ScriptLoader>>#update50461
+SpecDebugger class>>#on:
+SpecDebugger class>>#openOn:withFullView:
+SpecDebugger class>>#openOn:withFullView:andNotification:
+SpecDebugger>>#process:context:
+SpecDebugger>>#openWithFullView
+SpecDebugger>>#openWithFullViewAndTitle:
+SpecDebugger>>#openWithNotification:
+DummyUIManager>>#openDebuggerOn:context:label:fullView:notification:
+NonInteractiveUIManager>>#openDebuggerOn:context:label:fullView:notification:
+UIManager>>#openDebuggerOn:context:label:fullView:
+UIManager>>#openDebuggerOn:context:label:fullView:notification:
+DebugSession
+DebugSystemSettings class>>#debugSettingsOn:
+FuelOutStackDebugAction class>>#serializeTestFailureContext:toFileNamed:
+Context>>#cannotReturn:
+Exception>>#debug
+Process>>#debug:title:full:
+MorphicUIManager>>#warningDefaultAction:
+RubSmalltalkEditor>>#debug:receiver:in:
+ScriptLoader>>#script50460
+ScriptLoader>>#commentForCurrentUpdate
+SpecDebugger class>>#context:
+SpecDebugger class>>#openInterrupt:onProcess:
+SpecDebugger>>#session:
+SmalltalkEditor>>#debug:receiver:in:
+DebuggerTest>>#testBasic
+SyntaxErrorDebugger>>#debug
+CommandLineUIManager>>#debugProcess:context:title:full:
+ScriptLoader>>#script50460
+CommandLineUIManager>>#debugProcess:context:title:full:

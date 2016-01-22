@@ -1,0 +1,14 @@
+MethodContainsBreakAction
+MethodContainsBreakAction>>#actionOrder
+MethodContainsBreakAction>>#actionStateToCache
+MethodContainsBreakAction>>#isActionHandled
+MethodContainsBreakAction>>#privateActionIcon
+ScriptLoader>>#update50446
+TraitDescription>>#instVarNames
+WidgetExamples class>>#closeExampleDialogs
+MethodContainsHaltAction>>#isActionHandled
+AbstractPackageSelectedPlugin>>#registerTo:
+ScriptLoader>>#script50445
+ScriptLoader>>#commentForCurrentUpdate
+TClassDescription>>#instVarNames
+ScriptLoader>>#script50445

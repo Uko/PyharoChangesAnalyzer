@@ -1,0 +1,12 @@
+RBRefactoring>>#refactoringConfirmWarning:
+CoverageDemoTest>>#tearDown
+CoverageDemoTest>>#testCoverageAST
+RFReification>>#genForRBLiteralValueNode
+ScriptLoader>>#update50171
+ClassOrganizationChunk>>#accept:
+MCWorkingCopy>>#loadRemoteDependenciesIn:
+RBPullUpMethodRefactoring>>#removeDuplicatesOf:
+ScriptLoader>>#script50170
+ScriptLoader>>#commentForCurrentUpdate
+RingChunkImporter>>#createTraitNamed:
+ScriptLoader>>#script50170

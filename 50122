@@ -1,0 +1,21 @@
+FilteredMorphTreeModel class>>#example
+FilteredMorphTreeModel
+FilteredMorphTreeModel>>#ensureSafePattern:
+FilteredMorphTreeModel>>#pattern
+FilteredMorphTreeModel>>#updateList
+FilteredMorphTreeModel>>#whenPatternChanged:
+FilteredMorphTreeModel>>#ghostString
+FilteredMorphTreeModel>>#ghostString:
+FilteredMorphTreeModel>>#initialRootItems
+FilteredMorphTreeModel>>#patternModel
+FilteredMorphTreeModel>>#rootItems:
+FilteredMorphTreeModel>>#initialize
+FilteredMorphTreeModel>>#defaultDialogMorphIn:
+MorphTreeModel>>#defaultDialogMorphIn:
+ScriptLoader>>#update50122
+MorphTreeListManager>>#selectedItems:
+MorphTreeModel>>#dialogWindowIn:title:selectedtems:
+MorphTreeModel>>#selectItems:
+ScriptLoader>>#script50121
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50121

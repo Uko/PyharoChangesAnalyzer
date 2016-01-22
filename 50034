@@ -1,0 +1,22 @@
+ConfigurationOfRubric>>#version1214:
+ScriptLoader>>#update50034
+ConfigurationOfRubric>>#stable:
+RubPlainTextMode class>>#menuOn:
+RubSmalltalkCodeMode class>>#menuOn:
+RubSmalltalkEditor>>#doIt
+RubSmalltalkEditor>>#browseIt:
+RubSmalltalkEditor>>#debugIt:
+RubSmalltalkEditor>>#doIt:
+RubSmalltalkEditor>>#exploreIt:
+RubSmalltalkEditor>>#implementorsOfIt:
+RubSmalltalkEditor>>#inspectIt:
+RubSmalltalkEditor>>#methodNamesContainingIt:
+RubSmalltalkEditor>>#methodStringsContainingIt:
+RubSmalltalkEditor>>#pasteInitials:
+RubSmalltalkEditor>>#referencesToIt:
+RubSmalltalkEditor>>#save:
+RubSmalltalkEditor>>#sendersOfIt:
+RubSmalltalkEditor>>#spawnIt:
+ScriptLoader>>#script642
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script642

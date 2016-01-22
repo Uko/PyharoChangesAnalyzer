@@ -1,0 +1,17 @@
+ConfigurationOfQualityAssistant>>#v2_2_1:
+ConfigurationOfRenraku>>#v0_9_2:
+QAEventCollector>>#defaultCategory
+QAEventCollector>>#linkToReSystemAnnouncer:
+ReSystemAnnouncer class>>#cleanUp
+ScriptLoader>>#update50522
+TClassDescription>>#usesSpecialClassVariables
+BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfRenraku>>#stable:
+Class>>#definitionForNautilus
+ReSystemAnnouncer class>>#uniqueInstance
+ScriptLoader>>#script50521
+ScriptLoader>>#commentForCurrentUpdate
+TClassDescription>>#usesSpecialSlot
+TClassDescription>>#usesSpecialVariables
+ScriptLoader>>#script50521

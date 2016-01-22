@@ -1,0 +1,13 @@
+UndefinedObject>>#classInstaller
+ScriptLoader>>#update50084
+SmalltalkImage>>#classInstaller
+TClass>>#classInstaller
+UndefinedObject>>#classBuilder
+ScriptLoader>>#script50083
+ScriptLoader>>#commentForCurrentUpdate
+SmalltalkImage>>#classBuilder
+String>>#isLegalClassName
+Browser>>#copyClass
+Browser>>#renameClass
+TClass>>#classBuilder
+ScriptLoader>>#script50083

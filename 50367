@@ -1,0 +1,38 @@
+STCommandLineHandler>>#selectSourceFiles
+ConfigurationOfFastTable>>#version079:
+FTExamples class>>#exampleOutline1
+FTExamples class>>#exampleOutline2
+FTOutlineDataSource class>>#items:
+FTOutlineDataSource
+FTOutlineDataSource>>#cellColumn:row:
+FTOutlineDataSource>>#elementAt:
+FTOutlineDataSource>>#headerColumn:
+FTOutlineDataSource>>#items
+FTOutlineDataSource>>#items:
+FTOutlineDataSource>>#numberOfRows
+FTOutlineDataSource>>#searchText:
+FTOutlineDataSource>>#needSeparatorBefore:
+FTOutlineDataSource>>#toString:
+FTOutlineTableContainerMorph
+FTOutlineTableContainerMorph>>#drawOn:
+FTOutlineTableMorph
+FTOutlineTableMorph>>#initializeContainer
+FTTableMorph>>#mouseUp:
+FTTableMorph>>#selectRowIndex:event:
+ScriptLoader>>#update50367
+STCommandLineHandlerTest>>#testSelectSourceFiles
+STCommandLineHandler>>#activate
+ConfigurationOfFastTable>>#stable:
+FTSearchFunction>>#searchFor:
+FTSearchFunction>>#keyStroke:
+FTTableMorph
+FTTableMorph>>#click:
+FTTableMorph>>#keyStroke:
+FTTableMorph>>#mouseDown:
+FTTableMorph>>#initialize
+ScriptLoader>>#script50366
+ScriptLoader>>#commentForCurrentUpdate
+Author>>#checkAndSetFullNameWith:
+Author>>#fullName
+Author>>#requestFullName
+ScriptLoader>>#script50366

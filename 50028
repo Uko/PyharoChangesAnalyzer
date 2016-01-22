@@ -1,0 +1,12 @@
+ScriptLoader>>#update50028
+SequenceableCollection>>#combinationsAt:in:after:do:
+DynamicGroup>>#or:
+PackageTreeNautilusUI>>#groupsAreVisible
+Socket>>#initialize:
+Socket>>#acceptFrom:
+Pharo3DarkTheme>>#backgroundColor
+ScriptLoader>>#script636
+ScriptLoader>>#commentForCurrentUpdate
+AbstractTool>>#mergeGroups:
+DynamicGroup>>#or:
+ScriptLoader>>#script636

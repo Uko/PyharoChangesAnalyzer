@@ -1,0 +1,33 @@
+ScriptLoader>>#update50272
+EvaluateCommandLineHandler
+STCommandLineHandler
+PackageTreeNautilusUI>>#showHierarchy:
+ScriptLoader>>#script50271
+ScriptLoader>>#commentForCurrentUpdate
+TBehavior>>#whichSelectorsRead:
+TBehavior>>#thoroughHasSelectorReferringTo:
+TBehavior>>#thoroughWhichSelectorsReferTo:
+TBehavior>>#whichSelectorsReferTo:
+EvaluateCommandLineHandler class>>#commandName
+EvaluateCommandLineHandler class>>#description
+EvaluateCommandLineHandler class>>#isResponsibleFor:
+EvaluateCommandLineHandler
+EvaluateCommandLineHandler>>#activate
+EvaluateCommandLineHandler>>#argumentString
+EvaluateCommandLineHandler>>#evaluateArguments
+EvaluateCommandLineHandler>>#evaluateStdIn
+EvaluateCommandLineHandler>>#evaluate:
+STCommandLineHandler class>>#commandName
+STCommandLineHandler class>>#description
+STCommandLineHandler class>>#isResponsibleFor:
+STCommandLineHandler class>>#printCompilerWarning:
+STCommandLineHandler
+STCommandLineHandler>>#activate
+STCommandLineHandler>>#handleErrorsDuring:reference:
+STCommandLineHandler>>#installSourceFile:
+STCommandLineHandler>>#installSourceFiles
+STCommandLineHandler>>#loadSourceFiles:
+STCommandLineHandler>>#end
+STCommandLineHandler>>#handleError:
+STCommandLineHandler>>#handleError:reference:
+ScriptLoader>>#script50271

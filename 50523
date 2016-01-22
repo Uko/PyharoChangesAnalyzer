@@ -1,0 +1,30 @@
+ConfigurationOfFastTable>>#version082:
+FTBasicItem>>#getChildren
+FTFunction>>#disable
+FTFunctionWithField>>#disable
+FTNilFunction>>#disable
+ScriptLoader>>#update50523
+SugsGlamourCodeContext
+SugsGlamourCodeContext>>#sourceTextArea
+SugsGlamourCodeContext>>#selectedClass
+SugsGlamourCodeContext>>#selectedMethod
+GLMRubricSmalltalkTextModel>>#sugsContext
+SpecDebuggerTest>>#testBasic
+ConfigurationOfFastTable>>#stable:
+FTBasicItem>>#calculateChildren
+FTExamples class>>#exampleTree1
+FTExamples class>>#exampleTree2
+FTExamples class>>#exampleTreeWithAllItemsFilter
+FTExamples class>>#exampleTreeWithAllItemsSearch
+FTExamples class>>#exampleTreeWithRootFilter
+FTExamples class>>#exampleTreeWithRootSearch
+FTExamples class>>#exampleTreeWithVisibleItemsFilter
+FTExamples class>>#exampleTreeWithVisibleItemsSearch
+FTTableContainerMorph>>#drawOn:
+FTTableMorph>>#disableFunction
+FTTableMorph>>#extent:
+ScriptLoader>>#script50522
+ScriptLoader>>#commentForCurrentUpdate
+DebuggerTest
+ScriptLoader>>#script50522
+DebuggerTest

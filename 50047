@@ -1,0 +1,54 @@
+ConfigurationOfVersionner>>#version2131:
+ConfigurationOfVersionner>>#version2132:
+ConfigurationOfVersionner>>#version2133:
+ConfigurationOfVersionner>>#version213:
+DebugContext>>#checkSelectorUnchanged:
+DebugContext>>#confirmOnTraitOverwrite:inClass:
+ScriptLoader>>#update50047
+VSCommitAction>>#removeOn:
+VSCommitAction>>#validate
+VSCommitBrowser>>#actionRemove:
+VSCommitBrowser>>#informValidationError:
+VSCommitPackageAction>>#removeOn:
+VSCommitProjectAction>>#removeOn:
+VSCommitProjectAction>>#validate
+VSCommitProjectValidationError
+VSCommitProjectValidationError>>#issues
+VSCommitProjectValidationError>>#issues:
+VSCommitProjectValidationError>>#projectName
+VSCommitProjectValidationError>>#projectName:
+VSCommitProjectValidator class>>#basename:
+VSCommitProjectValidator class>>#new
+VSCommitProjectValidator class>>#project:
+VSCommitProjectValidator
+VSCommitProjectValidator>>#basename
+VSCommitProjectValidator>>#initializeBasename:
+VSCommitProjectValidator>>#validate
+VSCommitStrategy>>#shouldCommitNestedProjects
+VSCommitStrategy>>#shouldCommitNestedProjects:
+VSCommitUnit>>#removePackageAction:
+VSCommitUnit>>#removeProjectAction:
+VSCommitUnit>>#validate
+MTDependantProject>>#isPresent
+MetacelloAbstractPackageSpec>>#fixedUpdateForSpawnMethod:
+MetacelloProjectReferenceSpec>>#fixedUpdateForSpawnMethod:
+MetacelloToolBox>>#fixedEditVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated:
+MetacelloToolBox>>#fixedImportFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo:
+MetacelloToolBox>>#fixedImportFrom:updateProjects:updatePackages:versionSpecsDo:
+ConfigurationOfVersionner>>#stable:
+DebugContext>>#recompileCurrentMethodTo:notifying:
+ScriptLoader>>#script50046
+ScriptLoader>>#commentForCurrentUpdate
+BitBltDisplayScanner>>#displayString:from:to:at:
+VSCommitBrowser>>#commit
+VSCommitBrowser>>#buildBrowser
+VSCommitStrategy
+VSCommitStrategy>>#initialize
+VSCommitUnit>>#execute
+VSCommitUnit>>#collectCommitActions
+VSDirtyCollector>>#visitDependantProject:
+VSDirtyCollector>>#visitProject:
+MTPackage>>#isDirty
+MTPackage>>#workingCopy
+MetacelloToolBox class>>#createFixedDevelopment:for:importFromBaseline:description:
+ScriptLoader>>#script50046

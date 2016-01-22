@@ -1,0 +1,18 @@
+ConfigurationOfRubric>>#version1165:
+ConfigurationOfRubric>>#version1166:
+ScriptLoader>>#update50228
+MethodToolbar>>#usersModel
+MethodToolbar>>#setUsersModel
+MethodToolbar>>#usersMethod
+ConfigurationOfRubric>>#stable:
+RubPluggableTextMorph>>#hasUnacceptedEdits:
+RubScrolledTextMorph>>#basicHasUnacceptedEdits:
+RubSmalltalkEditor>>#internalCallToBrowse:
+ScriptLoader>>#script50227
+ScriptLoader>>#commentForCurrentUpdate
+MethodToolbar class>>#defaultSpec
+MethodToolbar
+MethodToolbar>>#initializeWidgets
+MethodToolbar>>#registerForChanges
+MethodToolbar>>#setFocusOrder
+ScriptLoader>>#script50227

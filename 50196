@@ -1,0 +1,37 @@
+ConfigurationOfRubric>>#version1162:
+RubHorizontalScrolled class>>#scrollValue:
+RubHorizontalScrolled
+RubHorizontalScrolled>>#scrollValue
+RubHorizontalScrolled>>#scrollValue:
+RubScrolledTextMorph>>#highlights
+RubScrolledTextMorph>>#highlights:
+RubScrolledTextMorph>>#drawOnAthensCanvas:
+RubScrolledTextMorph>>#drawOn:
+RubScrolledTextMorph>>#drawHighlightsOn:
+RubTextScrollPane>>#hScrollbarValueWithoutAnnouncement:
+RubTextScrollPane>>#vScrollbarValueWithoutAnnouncement:
+RubVerticalScrolled class>>#scrollValue:
+RubVerticalScrolled
+RubVerticalScrolled>>#scrollValue
+RubVerticalScrolled>>#scrollValue:
+ScriptLoader>>#update50196
+BooleanSlot>>#emitStore:
+BooleanSlot>>#emitValue:
+ConfigurationOfRubric>>#stable:
+SystemWindow>>#nextMorphAcrossInWindow
+RubAbstractTextArea>>#acceptContents
+RubParagraph>>#drawOn:using:at:
+RubScrolledTextModel>>#hasBindingOf:
+RubScrolledTextModel>>#text:
+RubScrolledTextMorph
+RubScrolledTextMorph>>#updateTextWith:
+RubScrolledTextMorph>>#drawSubmorphsOn:
+RubScrolledTextMorph>>#initialize
+RubTextScrollPane>>#hScrollbarValue:
+RubTextScrollPane>>#scrollByKeyboard:
+RubTextScrollPane>>#scrollBy:
+RubTextScrollPane>>#vScrollbarValue:
+ScriptLoader>>#script50195
+ScriptLoader>>#commentForCurrentUpdate
+BooleanSlot>>#todo
+ScriptLoader>>#script50195

@@ -1,0 +1,21 @@
+ClassOrganization>>#allCategories
+ClassOrganization>>#allProtocols
+ClassOrganization>>#allProtocolsNames
+ScriptLoader>>#update50054
+ClassOrganization>>#fileEntriesDo:
+ClassOrganization>>#categories
+ClassOrganizationTest>>#testRemoveCategory
+MCSnapshotBrowserTest>>#protocolsForClass:
+CategoryWidget>>#loadPackagesCategoriesInSystemEnvironmentFor:
+RPackage>>#removeClass:
+RPackage>>#basicImportClass:
+RPackage>>#coreCategoriesForClass:
+RPackage>>#extensionCategoriesForClass:
+RBBrowserEnvironment>>#protocolsFor:
+ScriptLoader>>#script50053
+ScriptLoader>>#commentForCurrentUpdate
+AbstractTool class>>#protocolSuggestionsFor:
+AbstractTool>>#categorizeMethods:of:from:
+TClassDescription>>#fileOutChangedMessages:on:moveSource:toFile:
+TClassDescription>>#fileOutOn:moveSource:toFile:
+ScriptLoader>>#script50053

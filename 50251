@@ -1,0 +1,26 @@
+Nautilus class>>#configurationPackages
+Nautilus class>>#configurationsGroupName
+ScriptLoader>>#update50251
+KomitClassNode>>#initialize
+KomitLeaf>>#initialize
+KomitNode>>#initialize
+KomitPackage
+KomitPackage>>#package:
+KomitPackage>>#patch
+KomitPackage>>#flush
+PackageGroup>>#elements
+AbstractNautilusUI class>>#buildBrowseShortcutsOn:
+AbstractNautilusUI class>>#buildExtraShortcutsOn:
+AbstractNautilusUI class>>#buildFindShortcutsOn:
+AbstractNautilusUI class>>#buildGotoNavigationShortcutsOn:
+AbstractNautilusUI class>>#buildRunTestKeymappingsOn:
+AbstractNautilusUI>>#packageRegistered:
+Nautilus class>>#maxSize:
+Nautilus class>>#cleanUp
+Nautilus class>>#buildGroupManager
+Nautilus
+Nautilus>>#selectedClass:
+PackageTreeModel>>#packagesAsNodes
+ScriptLoader>>#script50250
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50250

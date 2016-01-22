@@ -1,0 +1,11 @@
+ScriptLoader>>#update50482
+SlotTest>>#testAsSlotCollection
+String>>#asValidInstVarName
+NECContextTest>>#testCreateModel
+NECContext>>#createModel
+RBDeprecateMethodRefactoring>>#transform
+ScriptLoader>>#script50481
+ScriptLoader>>#commentForCurrentUpdate
+String>>#asSlotCollection
+RBDeprecateMethodRefactoring class>>#model:deprecateMethod:in:using:
+ScriptLoader>>#script50481

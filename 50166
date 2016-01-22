@@ -1,0 +1,117 @@
+ChangesBrowser>>#changes
+ChangesBrowserTest
+ChangesBrowserTest>>#setUp
+ChangesBrowserTest>>#testBuildDiffFor
+ChangesBrowserTest>>#testChanges
+ChangesBrowserTest>>#testInitializeWidgets
+ChangesBrowserTest>>#testPickedChanges
+ChangesBrowserTest>>#testPickedChangesAfterSelect
+LessonView>>#doItContext
+LessonView>>#doItReceiver
+LessonView>>#selectedClassOrMetaClass
+LessonView>>#sourceTextModel
+LessonView>>#buildText
+LessonView>>#buildWindow
+LessonView>>#initialize
+ProfStef class>>#default
+ProfStef class>>#aboutPharoZen
+ProfStef class>>#menuCommandOn:
+ScriptLoader>>#update50166
+ChangesBrowser class>>#defaultSpec
+ChangesBrowser
+ChangesBrowser>>#changes:
+ChangesBrowser>>#pickedChanges
+ChangesBrowser>>#scopeChooser
+ChangesBrowser>>#accept
+ChangesBrowser>>#cancel
+ChangesBrowser>>#initializePresenter
+ChangesBrowser>>#setFocus
+ChangesBrowser>>#open
+OCUndeclaredVariableWarning>>#defineClass:
+OCUndeclaredVariableWarning>>#openMenuIn:
+LessonView
+LessonView>>#shoutMorph
+LessonView>>#text
+LessonView>>#window
+LessonView>>#close
+LessonView>>#open
+LessonView>>#showLesson:withTitle:
+PharoSyntaxTutorial>>#divideTwoByZero
+PharoSyntaxTutorial>>#prepareDebuggerExample
+PharoSyntaxTutorial>>#basicTypesArray
+PharoSyntaxTutorial>>#basicTypesCharacters
+PharoSyntaxTutorial>>#basicTypesDynamicArray
+PharoSyntaxTutorial>>#basicTypesNumbers
+PharoSyntaxTutorial>>#basicTypesString
+PharoSyntaxTutorial>>#basicTypesSymbol
+PharoSyntaxTutorial>>#blocks
+PharoSyntaxTutorial>>#blocksAssignation
+PharoSyntaxTutorial>>#conditionals
+PharoSyntaxTutorial>>#doingVSPrinting
+PharoSyntaxTutorial>>#inspecting
+PharoSyntaxTutorial>>#instantiation
+PharoSyntaxTutorial>>#iterators
+PharoSyntaxTutorial>>#loops
+PharoSyntaxTutorial>>#mathematicalPrecedence
+PharoSyntaxTutorial>>#messageSyntaxBinary
+PharoSyntaxTutorial>>#messageSyntaxCascade
+PharoSyntaxTutorial>>#messageSyntaxCascadeShouldNotBeHere
+PharoSyntaxTutorial>>#messageSyntaxExecutionOrder
+PharoSyntaxTutorial>>#messageSyntaxExecutionOrderParentheses
+PharoSyntaxTutorial>>#messageSyntaxKeyword
+PharoSyntaxTutorial>>#messageSyntaxUnary
+PharoSyntaxTutorial>>#pharoEnvironment
+PharoSyntaxTutorial>>#printing
+PharoSyntaxTutorial>>#reflection
+PharoSyntaxTutorial>>#reflectionContinued
+PharoSyntaxTutorial>>#theEnd
+PharoSyntaxTutorial>>#welcome
+ProfStef
+PharoTutorialTestGo>>#tearDown
+PharoTutorialTestGo>>#testGoOnMockTutorial
+PharoTutorialTestGo>>#testGoOpenSmalltalkSyntaxTutorial
+PharoTutorialTestGo>>#testGoTwiceShowLessonViewIfNotVisible
+PharoTutorialTestGo>>#testGoTwiceUseSameLessonView
+PharoTutorialTestGoOnMockTutorial>>#setUp
+PharoTutorialTestGoOnMockTutorial>>#tearDown
+PharoTutorialTestGoOnMockTutorial>>#testFirstLessonShouldBeDisplayed
+PharoTutorialTestGoOnMockTutorial>>#testLastShouldGoToThirdLesson
+PharoTutorialTestGoOnMockTutorial>>#testLastThenFirstShouldGoToFirstLesson
+PharoTutorialTestGoOnMockTutorial>>#testLastThenPreviousShouldGoToSecondLesson
+PharoTutorialTestGoOnMockTutorial>>#testNextShouldGoToSecondLesson
+PharoTutorialTestNavigation>>#setUp
+ScriptLoader>>#script50165
+ScriptLoader>>#commentForCurrentUpdate
+ExternalChangesBrowser>>#initializePresenter
+PharoTutorial class>>#contents
+PharoTutorial class>>#reset
+PharoTutorial class>>#first
+PharoTutorial class>>#go
+PharoTutorial class>>#goOn:
+PharoTutorial class>>#last
+PharoTutorial class>>#next
+PharoTutorial class>>#previous
+PharoTutorial class>>#tutorial:lessonAt:
+PharoTutorial class>>#tutorial:lesson:
+PharoTutorial class>>#openPharoZenWorkspace
+PharoTutorial class>>#pharoZenValues
+PharoTutorial class>>#pharoZenValuesContents
+PharoTutorial>>#helpBrowserWindow
+PharoTutorial>>#lessonView
+PharoTutorial>>#lessonView:
+PharoTutorial>>#player
+PharoTutorial>>#player:
+PharoTutorial>>#tutorialPositionString
+PharoTutorial>>#tutorialSizeString
+PharoTutorial>>#close
+PharoTutorial>>#open
+PharoTutorial>>#showCurrentLesson
+PharoTutorial>>#first
+PharoTutorial>>#last
+PharoTutorial>>#next
+PharoTutorial>>#previous
+PharoTutorial>>#tutorial:lessonAt:
+PharoTutorial>>#tutorial:lesson:
+PharoTutorial>>#go
+PharoTutorial>>#goOn:
+ScriptLoader>>#script50165

@@ -1,0 +1,30 @@
+ConfigurationOfCatalog>>#version08:
+TEasilyThemed>>#fileSave:initialAnswer:extensions:path:
+ScriptLoader>>#update50312
+CatalogBrowser>>#defineAllRepositoriesInMCBrowser
+CatalogBrowser>>#defineCurrentVersionRepositoryInMCBrowser
+CatalogBrowser>>#defineAllRepositoriesInMCBrowserButton:
+CatalogBrowser>>#defineCurrentVersionRepositoryButton:
+CatalogBrowser>>#installStableVersionMenuItem:
+CatalogBrowser>>#loadConfigurationMenuItem:
+CatalogBrowser>>#availableRepositoryURLStrings
+CatalogBrowser>>#repositoryObjectFromURLString:
+CatalogProject class>>#repositoryURLToNameMappings
+CatalogProject class>>#availableRepositoryURLStrings
+CatalogProject class>>#createRepositoryURLtoNameMappings
+CatalogProject class>>#pharoCurrentDottedName
+CatalogProject class>>#pharoCurrentMajorName
+CatalogProject class>>#pharoDistributionRepository
+CatalogProject>>#repositoryName
+ConfigurationOfCatalog>>#stable:
+WorldState class>>#saveAs
+AbstractNautilusUI>>#runClassTests:notifying:
+AbstractNautilusUI>>#runTestsOfClass:notifying:
+ScriptLoader>>#script50311
+ScriptLoader>>#commentForCurrentUpdate
+CatalogBrowser>>#buildContextMenuOn:
+CatalogProject>>#allKeywords
+CatalogProject>>#isAvailableForCurrentPharo
+ScriptLoader>>#script50311
+CatalogBrowser>>#installStableVersionButton:
+CatalogBrowser>>#loadConfigurationButton:

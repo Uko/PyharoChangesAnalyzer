@@ -1,0 +1,13 @@
+UITheme>>#fileSaveIn:title:initialAnswer:extensions:path:
+Slot>>#clearReflectivityAnnotations
+Slot>>#links
+Slot>>#removeLink:
+ScriptLoader>>#update50237
+Slot>>#propertyAt:ifAbsentPut:
+UITheme>>#fileSaveIn:title:extensions:path:
+ReflectiveMethodTest>>#testSetLinkOnInstanceVariable
+ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
+Slot>>#link:
+ScriptLoader>>#script50236
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50236

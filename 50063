@@ -1,0 +1,16 @@
+ReflectiveMethodTest>>#tagExec:
+ReflectiveMethodTest>>#testLinkWithMetaArg
+RFReification>>#genForRBMessageNode
+RBProgramNode>>#afterHooks
+RBProgramNode>>#beforeHooks
+ScriptLoader>>#update50063
+OCASTTranslator>>#visitNode:
+ReflectiveMethodTest>>#tagExec
+HookGenerator>>#encloseInBlock:
+RFSemanticAnalyzer>>#visitNode:
+BlockClosure>>#ctxtEnsure:
+ScriptLoader>>#script50062
+ScriptLoader>>#commentForCurrentUpdate
+RFReification>>#node:
+RFReification>>#optimize
+ScriptLoader>>#script50062

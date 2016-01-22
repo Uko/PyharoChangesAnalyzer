@@ -1,0 +1,27 @@
+ReflectivityControlTest>>#testLinkOneShot
+MetaLink>>#optionCompileOnLinkInstallation
+MetaLink>>#optionCompileOnLinkInstallation:
+MetaLink>>#optionInlineMetaObject
+MetaLink>>#optionInlineMetaObject:
+MetaLink>>#optionOneShot
+MetaLink>>#optionOneShot:
+ScriptLoader>>#update50347
+MCPackageLoader>>#handleLoadErrorsDuring:
+MetaLink class>>#defaultOptions
+RFSemanticAnalyzer>>#declareVariableNode:
+RFSemanticAnalyzer>>#visitVariableNode:
+ScriptLoader>>#script50346
+ScriptLoader>>#commentForCurrentUpdate
+CircularHierarchyError
+SlotClassBuilderWarning
+SlotClassBuilderError
+DuplicatedSlotName
+IncompatibleLayoutConflict
+InvalidGlobalName
+InvalidPackageName
+InvalidSlotName
+InvalidSuperclass
+ScriptLoader>>#script50346
+SlotClassBuilderWarning
+SlotClassBuilderError
+SlotClassBuilderWarning>>#defaultAction

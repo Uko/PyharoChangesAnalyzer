@@ -1,0 +1,11 @@
+RBSentNotImplementedRule>>#implementorsCache
+RBSentNotImplementedRule>>#implementorsExists:
+RBSentNotImplementedRule>>#resetImplementorsCache
+RBSentNotImplementedRule>>#checkClass:
+ScriptLoader>>#update50293
+PackageTreeNautilusUI>>#showHierarchy:
+RBSentNotImplementedRule
+RBSentNotImplementedRule>>#checkMethod:
+ScriptLoader>>#script50292
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50292

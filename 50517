@@ -1,0 +1,22 @@
+ConfigurationOfShoreLineReporter>>#version022:
+ScriptLoader>>#update50517
+SlReporter>>#serializeFUEL:
+SlReporter>>#serializeSTON:
+ConfigurationOfShoreLineReporter>>#stable:
+RBCategoryEnvironment>>#packages
+RBVariableEnvironment>>#packages
+ScriptLoader>>#script50516
+ScriptLoader>>#commentForCurrentUpdate
+SlReportExtractor>>#extract
+SlReportExtractor>>#extractMetadata
+SlReportExtractor>>#extractPayload
+SlReportExtractor>>#extractVersion
+SlReporter class>>#mimeType
+SlReporter class>>#defaultExtractor
+SlReporter>>#serialize:
+SlReportWindow class>>#defaultSpec
+SlReportWindow
+SlReportWindow>>#reportSummary
+SlReportWindow>>#report:
+SlReportWindow>>#initializeWidgets
+ScriptLoader>>#script50516

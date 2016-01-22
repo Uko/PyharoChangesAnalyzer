@@ -1,0 +1,20 @@
+ScriptLoader>>#update50311
+NewVersionBrowser>>#setRGMethodFrom:
+CatalogProject class>>#repositoryNames
+CatalogProject class>>#createRepositoryNames
+CatalogProject>>#repository
+ClassWidget>>#dropInClass:inARow:
+NautilusUI>>#dropMethod:inARow:
+ScriptLoader>>#script50310
+ScriptLoader>>#commentForCurrentUpdate
+NewVersionBrowser>>#browseVersionsOf:
+NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector:
+NewVersionBrowser>>#revert:
+CatalogBrowser>>#buildContextMenuOn:
+CatalogProject>>#allKeywords
+CatalogProject>>#isAvailableForCurrentPharo
+ScriptLoader>>#script50310
+CatalogBrowser>>#installStableVersionButton:
+CatalogBrowser>>#installStableVersionMenuItem:
+CatalogBrowser>>#loadConfigurationButton:
+CatalogBrowser>>#loadConfigurationMenuItem:

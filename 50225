@@ -1,0 +1,85 @@
+ManifestASTCore class>>#manuallyResolvedDependencies
+ManifestAnnouncementsCore class>>#manuallyResolvedDependencies
+ManifestAnnouncementsCore
+ManifestCollectionsAbstract class>>#manuallyResolvedDependencies
+ManifestCollectionsAtomic class>>#manuallyResolvedDependencies
+ManifestCollectionsNative class>>#manuallyResolvedDependencies
+ManifestCollectionsSequenceable class>>#manuallyResolvedDependencies
+ManifestCollectionsStreams class>>#manuallyResolvedDependencies
+ManifestCollectionsStrings class>>#manuallyResolvedDependencies
+ManifestCollectionsSupport class>>#manuallyResolvedDependencies
+ManifestCollectionsWeak class>>#manuallyResolvedDependencies
+ManifestCompression class>>#manuallyResolvedDependencies
+ManifestCompression
+ManifestFileSystemCore class>>#manuallyResolvedDependencies
+ManifestFileSystemCore
+ManifestFiles class>>#manuallyResolvedDependencies
+ManifestFiles
+ManifestGraphicsPrimitives class>>#manuallyResolvedDependencies
+ManifestGraphicsPrimitives
+ManifestJobs class>>#manuallyResolvedDependencies
+ManifestJobs
+DeepCopier>>#basicCheckClass:
+DeepCopier>>#checkAllClasses
+DeepCopier>>#checkClass:
+DeepCopier>>#doesMethod:writeAllInstanceVariablesOfClass:
+DeepCopier>>#raiseWarningsIfAny:
+ManifestKernel class>>#manuallyResolvedDependencies
+ManifestMonticello class>>#manuallyResolvedDependencies
+ManifestMonticello
+ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
+ManifestMultilingualEncodings
+ManifestMultilingualTextConversion class>>#manuallyResolvedDependencies
+ManifestMultilingualTextConversion
+ManifestNetworkUUID class>>#manuallyResolvedDependencies
+ManifestNetworkUUID
+ManifestNewValueHolder class>>#manuallyResolvedDependencies
+ManifestNewValueHolder
+ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
+ManifestRPackageCore class>>#manuallyResolvedDependencies
+ManifestRPackageCore
+ManifestRegexCore class>>#manuallyResolvedDependencies
+ManifestRegexCore
+ScriptLoader>>#update50225
+ManifestSlot class>>#manuallyResolvedDependencies
+ManifestSlot
+ManifestSystemAnnouncements class>>#manuallyResolvedDependencies
+ManifestSystemAnnouncements
+ManifestSystemChanges class>>#manuallyResolvedDependencies
+ManifestSystemChanges
+ManifestSystemCommandLine class>>#manuallyResolvedDependencies
+ManifestSystemCommandLine
+ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
+ManifestSystemFileRegistry
+ManifestSystemFinalization
+ManifestSystemLocalization class>>#manuallyResolvedDependencies
+ManifestSystemLocalization
+ManifestSystemObjectEvents class>>#manuallyResolvedDependencies
+ManifestSystemObjectEvents
+ManifestSystemPlatforms class>>#manuallyResolvedDependencies
+ManifestSystemPlatforms
+ManifestSystemSources class>>#manuallyResolvedDependencies
+ManifestSystemSources
+ManifestSystemSupport class>>#manuallyResolvedDependencies
+ManifestSystemSupport
+ManifestSystemVMEvents class>>#manuallyResolvedDependencies
+ManifestSystemVMEvents
+ManifestTextCore class>>#manuallyResolvedDependencies
+ManifestTextCore
+ManifestToolBase
+ManifestToolTranscript class>>#manuallyResolvedDependencies
+ManifestToolTranscript
+ManifestTraits class>>#manuallyResolvedDependencies
+ManifestTraits
+ManifestTranscript class>>#manuallyResolvedDependencies
+ManifestTranscript
+ManifestUIManager class>>#manuallyResolvedDependencies
+ManifestUIManager
+DeepCopier>>#checkBasicClasses
+ScriptLoader>>#script50224
+ScriptLoader>>#commentForCurrentUpdate
+DeepCopier>>#checkBasicClasses
+ScriptLoader>>#script50224
+RGElementDefinition>>#browse
+RGBehaviorDefinition>>#browse
+RGMethodDefinition>>#browse

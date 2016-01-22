@@ -1,0 +1,11 @@
+NautilusRefactoring>>#requestImplementorToInline:
+ScriptLoader>>#update50131
+SourceFileArray>>#fileAt:
+SourceFileArray>>#fileAt:ifAbsent:
+NECController>>#setEditor:
+ScriptLoader>>#script50130
+ScriptLoader>>#commentForCurrentUpdate
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+SourceFileArray>>#localProcessReadStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
+SourceFileArray>>#readStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
+ScriptLoader>>#script50130

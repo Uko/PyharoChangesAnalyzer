@@ -1,0 +1,13 @@
+ReflectivityReificationTest>>#testReifyMethodArgsAfter
+RFASTClosureAnalyzer
+RFASTClosureAnalyzer>>#visitNode:
+RFArgumentsReification>>#varName
+RFSemanticAnalyzer>>#analyze:
+ScriptLoader>>#update50340
+RFASTTranslator>>#emitPrepareLinkAfter:
+RFArgumentsReification>>#genForRBMessageNode
+RFArgumentsReification>>#genForRBProgramNode
+RFSemanticAnalyzer>>#declareVariableNode:
+ScriptLoader>>#script50339
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50339

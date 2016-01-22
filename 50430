@@ -1,0 +1,15 @@
+Point>>#isIntegerPoint
+ScriptLoader>>#update50430
+Point>>#abs
+Point>>#max
+Point>>#min
+Point>>#reciprocal
+GTOpalScopeBrowser>>#treeIn:
+ScriptLoader>>#script50429
+ScriptLoader>>#commentForCurrentUpdate
+OCLiteralVariable>>#specialCommands
+Point>>#ceiling
+Point>>#floor
+Point>>#roundDownTo:
+Point>>#roundUpTo:
+ScriptLoader>>#script50429

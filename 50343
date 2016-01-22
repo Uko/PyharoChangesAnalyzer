@@ -1,0 +1,12 @@
+RBParserTest>>#testNegativeNumberError
+MetaLinkTest>>#testAvailableReifications
+ReflectivityControlTest>>#testAfterMethodWithTemps
+LiteralVariable>>#availableReifications
+RBProgramNode>>#availableReifications
+Slot>>#availableReifications
+ScriptLoader>>#update50343
+RBParser>>#parsePrimitiveObject
+RFASTTranslator>>#emitPrepareLinkAfter:
+ScriptLoader>>#script50342
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50342

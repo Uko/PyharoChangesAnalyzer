@@ -1,0 +1,20 @@
+ConfigurationOfTxText>>#version211:
+ScriptLoader>>#update50194
+TxSlider class>>#test
+TxTextStyler>>#addAttribute:startPosition:stopPosition:
+TxTextStyler>>#addAttributes:startPosition:stopPosition:
+TxTextStyler>>#addStyle:startPosition:stopPosition:
+SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
+SimulateMouseSpecification>>#testSimulateRightClick
+ScriptLoader>>#script50193
+ScriptLoader>>#commentForCurrentUpdate
+DropListExample>>#initializeWidgets
+StartupPreferencesLoader class>>#example
+SettingDeclaration>>#displayExportAction
+SettingBrowser class>>#viewAllSettings
+TxWorkspace>>#wireEvents
+TxScrollbarDecorator>>#setContainer:
+TxScrollbarDecorator>>#setupView:
+TxScrollbarDecorator>>#initScrollbar
+TxTextStyler>>#visitMessageNode:
+ScriptLoader>>#script50193

@@ -1,0 +1,94 @@
+ConfigurationOfRubric>>#version1184:
+BinaryFileStreamTest>>#killTestFile
+BinaryFileStreamTest>>#setUp
+FileTest>>#testFilesAreRegisteredInWeakRegistry
+FileTest>>#testOpeningForAppendSetsPositionAtEnd
+FileTest>>#testRegistryShouldBeCleaned
+AbstractBinaryFileStream class>>#handle:file:forWrite:
+AbstractBinaryFileStream>>#name
+AbstractBinaryFileStream>>#handle:file:forWrite:
+AbstractBinaryFileStream>>#primFlush:
+BinaryFileStream>>#size
+BinaryFileStream>>#finalize
+BinaryFileStream>>#register
+BinaryFileStream>>#unregister
+BinaryFileStream>>#closed
+BinaryFileStream>>#setAtEnd
+BinaryFileStream>>#truncate
+BinaryFileStream>>#truncate:
+File class>>#openAndTruncateForWriteFileNamed:
+File class>>#openForReadFileNamed:
+File class>>#openForWriteFileNamed:
+File>>#name
+ScriptLoader>>#update50274
+ConfigurationOfRubric>>#stable:
+BinaryFileStreamTest>>#fileStreamForFileNamed:
+BinaryFileStreamTest>>#tearDown
+BinaryFileStreamTest>>#testOpenFile
+BinaryFileStreamTest>>#testPeekDoesNotAdvanceTheStream
+BinaryFileStreamTest>>#testReadFullFileIsAtEnd
+BinaryFileStreamTest>>#testReadLessThanAvailableYieldsJustRead
+BinaryFileStreamTest>>#testReadMoreThanAvailableYieldsOnlyAvailable
+BinaryFileStreamTest>>#testReadMultipleBytes
+BinaryFileStreamTest>>#testSkipLecture
+BinaryFileStreamTest>>#testWriteMultipleBytes
+BinaryFileStreamTest>>#testWriteReadInt
+BinaryFileStreamTest>>#testWriteToClosedFileFails
+FileTest>>#testFileDelete
+FileTest>>#testFileExists
+FileTest>>#testOpenFileForReadDoesNotDeleteExistingFile
+FileTest>>#testOpeningFileNormallyDoesNotDeleteExistingFile
+FileTest>>#testOpeningFileObjectCreatesFile
+FileTest>>#testOpeningFileSetsPositionAtBeggining
+AbstractBinaryFileStream
+File>>#primWrite:from:startingAt:count:
+AbstractBinaryFileStream>>#next:into:
+AbstractBinaryFileStream>>#nextPutAll:
+AbstractBinaryFileStream>>#next:putAll:
+BinaryFileStream
+BinaryFileStream>>#close
+BinaryFileStream>>#atEnd
+BinaryFileStream>>#position
+BinaryFileStream>>#position:
+BinaryFileStream>>#reset
+BinaryFileStream>>#flush
+File>>#primClose:
+File class>>#retryWithGC:until:forFileNamed:
+File
+File>>#named:
+File>>#basicOpenForWrite:
+File>>#delete
+File>>#exists
+File>>#openForAppend
+File>>#openForRead
+File>>#openForWrite
+File>>#openForWrite:
+File>>#readStream
+File>>#readStreamDo:
+File>>#writeStream
+File>>#writeStreamDo:
+Stdio class>>#stderr
+Stdio class>>#standardIOStreamNamed:forWrite:
+StdioStream>>#next:
+FLUserGuidesTest>>#testPluggableSubstitution
+FLUserGuidesTest>>#testFileStream
+FLUserGuidesTest>>#testGZip
+FLUserGuidesTest>>#testShowingProgressBar
+FLUserGuidesTest>>#testConsiderGlobal
+PasteUpMorph class>>#isMenuOpenByLeftClick
+MultiByteFileStreamTest>>#writeChunkToFile
+MultiByteFileStreamTest>>#testBasicChunk
+RubSmalltalkScriptingMode>>#interactive
+ScriptLoader>>#script50273
+ScriptLoader>>#commentForCurrentUpdate
+File>>#primRead:into:startingAt:count:
+File>>#primTruncate:to:
+File>>#primWrite:from:startingAt:count:
+File>>#primAtEnd:
+File>>#primCloseNoError:
+File>>#primGetPosition:
+File>>#primSetPosition:to:
+File>>#primSizeNoError:
+File>>#primSize:
+File>>#primClose:
+ScriptLoader>>#script50273

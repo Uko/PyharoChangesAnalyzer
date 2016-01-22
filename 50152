@@ -1,0 +1,33 @@
+RBProgramNode>>#clearReflectivityAnnotations
+ScriptLoader>>#update50152
+RBExpandReferencedPoolsRefactoring>>#poolVariableNamesIn:
+RBRefactoring>>#poolVariableNamesFor:
+HookGenerator2
+RFSemanticAnalyzer>>#analyseForLinks:
+RBProgramNode>>#afterHooks
+RBProgramNode>>#insteadHooks
+RBProgramNode>>#link:
+RBProgramNode>>#preambles
+RBProgramNode>>#removeLink:
+ScriptLoader>>#script50151
+ScriptLoader>>#commentForCurrentUpdate
+MessageBrowser>>#selectedMethods
+SearchFacade class>>#classSearchInEnvironment:
+TClass>>#possibleVariablesFor:continuedFrom:
+HookGenerator2 class>>#node:
+HookGenerator2
+HookGenerator2>>#links
+HookGenerator2>>#plugins
+HookGenerator2>>#encloseInBlock:
+HookGenerator2>>#selectorForNode
+HookGenerator2>>#wrapCondition:link:
+HookGenerator2>>#wrapInContext:link:
+HookGenerator2>>#node:links:
+HookGenerator2>>#genReification:for:
+HookGenerator2>>#hookFor:
+HookGenerator2>>#afterHooks
+HookGenerator2>>#beforeHooks
+HookGenerator2>>#hook
+HookGenerator2>>#insteadHooks
+HookGenerator2>>#preamble
+ScriptLoader>>#script50151

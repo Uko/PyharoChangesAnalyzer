@@ -1,0 +1,36 @@
+RBIdentifierToken>>#isKeywordPattern
+RBScanner class>>#keywordPatternCharacter
+RBToken>>#isKeywordPattern
+ConfigurationOfRubric>>#version137:
+ConfigurationOfRubric>>#version141:
+ConfigurationOfRubric>>#version14:
+RubAbstractSmalltalkMode>>#isCodeCompletionAllowed
+RubAbstractTextArea>>#interactive
+RubEditingMode>>#interactive
+RubEditingMode>>#isCodeCompletionAllowed
+RubScrolledTextModel>>#interactionModel
+RubScrolledTextModel>>#selectedClassOrMetaClass
+RubScrolledTextModel>>#bindingOf:
+RubScrolledTextModel>>#guessTypeForName:
+RubScrolledTextModel>>#isCodeCompletionAllowed
+RubScrolledTextModel>>#formatSourceCodeInView
+RubScrolledTextMorph>>#withSourceCodeAnnotation
+RubScrolledTextMorph>>#formatSourceCode
+RubSmalltalkEditor class>>#menuOn:
+RubSmalltalkEditor>>#format
+RubSmalltalkScriptingMode>>#interactive
+ScriptLoader>>#update50132
+RBPatternParser>>#parseUnaryMessage
+RBScanner class>>#initializeClassificationTable
+RBScanner
+ConfigurationOfRubric>>#stable:
+DynamicClassGroup>>#classRemoved:
+DynamicClassGroup>>#addClasses:
+RubEditingArea>>#beForSmalltalkComment
+RubEditingMode>>#editorClass
+RubScrolledTextModel>>#acceptEditsInView
+RubScrolledTextModel>>#reconfigureViewWith:
+RubSmalltalkCodeMode>>#formatMethodCode
+ScriptLoader>>#script50131
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50131

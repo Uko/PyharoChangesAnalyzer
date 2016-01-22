@@ -1,0 +1,13 @@
+MCRepository>>#error:
+ScriptLoader>>#update50162
+BaseSlot>>#=
+BaseSlot>>#hash
+BaseSlot>>#default
+ExampleSlotWithDefaultValue>>#default
+ExampleSlotWithDefaultValue>>#=
+ExampleSlotWithDefaultValue>>#hash
+AbstractNautilusUI>>#addClass
+RPackageOrganizer>>#packageNamed:ifAbsent:
+ScriptLoader>>#script50161
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50161

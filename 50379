@@ -1,0 +1,23 @@
+ConfigurationOfGTSpotter>>#version1214:
+ConfigurationOfGlamourCore>>#version324:
+GLMPresentation>>#hasTransformation
+ScriptLoader>>#update50379
+ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGlamourCore>>#stable:
+GTSpotterEventRecorderSettings class>>#settingsOnSendUsageData:
+GLMPagerBarBrick>>#pagerModel:
+GLMPagerBrick>>#pagerModel:
+GLMPagerButtonsPaneBrick>>#pagerModel:
+GLMPagerButtonsPaneBrick>>#addButton:
+GLMPagerScrollSlidingBrick>>#pagerModel:
+GLMMorphicListingRenderer>>#textInputFor:withHelpMessage:
+GLMSmalltalkCodePresentation>>#installDefaultSelectionActions
+GLMAnnouncerTest>>#testNestedSuspendAllWhile
+GLMAnnouncerTest>>#testNestedSuspendParticularAnnouncementWhile
+GLMAnnouncerTest>>#testSimpleNestedSuspendParticularAnnouncementWhile
+GLMAnnouncerTest>>#testSuspendAllWhile
+GLMAnnouncerTest>>#testSuspendParticularAnnouncementWhile
+GLMAnnouncerTest>>#testSuspendParticularAnnouncementWithInheritanceWhile
+ScriptLoader>>#script50378
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50378

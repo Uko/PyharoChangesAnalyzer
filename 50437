@@ -1,0 +1,24 @@
+MethodWidget class>>#methodsIconsCache
+MethodWidget class>>#resetMethodIconCache
+ScriptLoader>>#update50437
+ClassWidget
+AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
+MethodWidget
+MethodWidget>>#initialize
+PackageWidget
+ScriptLoader>>#script50436
+ScriptLoader>>#commentForCurrentUpdate
+AbstractClassWidget>>#dragPassengersFor:inMorph:
+AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
+AbstractMethodWidget>>#dragPassengersFor:inMorph:
+AbstractMethodWidget>>#buildUpAndDownArrowIcon:
+AbstractMethodWidget>>#methodIconFor:
+AbstractMethodWidget>>#rebuildUpAndDownArrowIconFrom:
+AbstractMethodWidget>>#elementsMenu:shifted:
+AbstractMethodWidget>>#methodsIconsCache
+AbstractMethodWidget>>#okToChange
+AbstractMethodWidget>>#selectedMethod
+AbstractMethodWidget>>#selectedMethod:
+AbstractMethodWidget>>#setIcon:for:
+AbstractMethodWidget>>#showInstance
+ScriptLoader>>#script50436

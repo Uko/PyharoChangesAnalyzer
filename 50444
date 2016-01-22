@@ -1,0 +1,143 @@
+BaselineOfQualityAssistant>>#preLoadDoIt
+BaselineOfQualityAssistant>>#removeRenrakuCrap
+ConfigurationOfQualityAssistant>>#v1_4_3:
+ConfigurationOfQualityAssistant>>#v1_5_0:
+ConfigurationOfQualityAssistant>>#v2_0_0_rc1:
+ConfigurationOfQualityAssistant>>#v2_0_0_rc2:
+ConfigurationOfQualityAssistant>>#v2_0_0_rc3:
+ConfigurationOfQualityAssistant>>#v2_0_0_rc4:
+ConfigurationOfQualityAssistant>>#v2_0_0:
+ConfigurationOfQualityAssistant>>#v2_0_1:
+ConfigurationOfRenraku>>#v0_7_0:
+ConfigurationOfRenraku>>#v0_8_0:
+ConfigurationOfRenraku>>#v0_8_1:
+ConfigurationOfRenraku>>#v0_8_2:
+QANautilusPlugin>>#classSelected:
+QANautilusPlugin>>#methodSelected:
+QANautilusPlugin>>#otherSelected:
+QASettings class>>#uniqueInstance
+QASettings class>>#cleanUp
+QASettings class>>#inspectorPluggin
+QASettings class>>#inspectorPluggin:
+QASettings class>>#spotterPlugin
+QASettings class>>#spotterPlugin:
+QASettings class>>#inspectorPlugginSettingsOn:
+QASettings class>>#qaGroupSettingsOn:
+QASettings class>>#spotterPluginSettingsOn:
+QASettings
+QASettings>>#inspectorPluggin
+QASettings>>#inspectorPluggin:
+QASettings>>#spotterPlugin
+QASettings>>#spotterPlugin:
+QASettings>>#initialize
+RBRefactoryChange>>#diffedText
+ReAbstractCritic>>#gtInspectorSourceCodeIn:
+ReAbstractCritic>>#guidedSkip
+ReAbstractCritic
+ReAbstractCritic>>#change
+ReAbstractCritic>>#selection
+ReAbstractCritic>>#providesChange
+ReAbstractCritic>>#providesSelection
+ReEngine>>#classRules
+ReEngine>>#excludedRuleNames
+ReEngine>>#methodRules
+ReEngine>>#reset
+ReEngine>>#classAdded:
+ReEngine>>#classRemoved:
+ReEngine>>#initializeRules
+ReEngine>>#subscribe
+ReMissingMethodCritic class>>#for:by:class:selector:
+ReMissingMethodCritic
+ReMissingMethodCritic>>#change
+ReMissingMethodCritic>>#selection
+ReMissingMethodCritic>>#title
+ReMissingMethodCritic>>#beShouldBeImplemented
+ReMissingMethodCritic>>#beSubclassResponsibility
+ReMissingMethodCritic>>#initialize
+ReMissingMethodCritic>>#initializeRule:target:class:selector:
+ReMissingMethodCritic>>#providesChange
+ReMissingMethodCritic>>#providesSelection
+ReStringSearchCritic class>>#for:by:badSubstring:
+ReStringSearchCritic
+ReStringSearchCritic>>#change
+ReStringSearchCritic>>#selection
+ReStringSearchCritic>>#title
+ReStringSearchCritic>>#initializeRule:target:badSubstring:
+ReStringSearchCritic>>#providesChange
+ReStringSearchCritic>>#providesSelection
+ReTransformationCritic class>>#for:by:tree:
+ReTransformationCritic
+ReTransformationCritic>>#change
+ReTransformationCritic>>#selection
+ReTransformationCritic>>#initializeRule:target:tree:
+ReTransformationCritic>>#providesChange
+ReTransformationCritic>>#providesSelection
+ReTrivialCritic
+ReTrivialCritic>>#change
+ReTrivialCritic>>#selection
+ReTrivialCritic>>#providesChange
+ReTrivialCritic>>#providesSelection
+RBLintRule>>#check:
+RBLintRule>>#check:forCriticsDo:
+RBLintRule>>#check:forCriticsDo:ifNone:
+RBLintRule>>#check:ifNoCritics:
+RBMissingSubclassResponsibilityRule>>#check:forCriticsDo:ifNone:
+RBOnlyReadOrWrittenVariableRule>>#check:forCriticsDo:ifNone:
+RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
+RBSubclassResponsibilityNotDefinedRule>>#check:forCriticsDo:ifNone:
+RBTransformationRule>>#check:forCriticsDo:ifNone:
+RBUnreferencedVariablesRule>>#check:forCriticsDo:ifNone:
+ScriptLoader>>#update50444
+BaselineOfQualityAssistant>>#baseline:
+BaselineOfQualityAssistant>>#unstallObsoletePlugin
+ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant>>#pre1_5_0:
+ConfigurationOfRenraku>>#development:
+ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku>>#pre0_7_0:
+QANautilusPlugin
+QANautilusPlugin>>#criticSelected:
+QANautilusPlugin>>#currentEntity
+QANautilusPlugin>>#registerTo:
+QANautilusPluginMorph>>#fixAutomatically:
+QANautilusPluginMorph>>#displayCritic:
+CompiledMethod>>#gtInspectorCriticsIn:
+CompiledMethod>>#spotterQACriticsFor:
+ReCritic>>#gtInspectorDescriptionIn:
+ReCritic>>#spotterPreviewCodeIn:
+ReCritic>>#spotterPreviewRationaleIn:
+TBehavior>>#gtInspectorCriticsIn:
+TBehavior>>#spotterQACriticsFor:
+ReCriticTest>>#testDescription
+ReCriticTest>>#testRule
+ReCriticTest>>#testTarget
+ReCriticTest>>#testTitle
+ReCritic class>>#for:by:
+ReCritic>>#initializeRule:target:
+ReEngine class>>#reset
+ReEngine
+ReEngine>>#initialize
+CompiledMethod>>#critics
+TBehavior>>#critics
+ScriptLoader>>#script50443
+ScriptLoader>>#commentForCurrentUpdate
+BaselineOfQualityAssistant>>#unstallObsoletePlugin
+ConfigurationOfQualityAssistant>>#pre1_5_0:
+ConfigurationOfRenraku>>#pre0_7_0:
+ReCritic>>#gtInspectorDescriptionIn:
+ReCritic>>#icon
+ReCritic>>#popDescriptionUp
+ReCritic>>#spotterPreviewCodeIn:
+ReCritic>>#spotterPreviewRationaleIn:
+ReEngine>>#notifyCritic:AutoFixedFor:
+ReCritic class>>#for:by:
+ReCritic>>#description
+ReCritic>>#rule
+ReCritic>>#target
+ReCritic>>#title
+ReCritic>>#ban
+ReCritic>>#provideNegativeFeedback:
+ReCritic>>#providePositiveFeedback:
+ReCritic>>#initializeRule:target:
+ScriptLoader>>#script50443

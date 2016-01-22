@@ -1,0 +1,25 @@
+GG
+TT
+ReflectiveMethodTest>>#testLinkWithMeta
+ReflectiveMethodTest>>#testLinkWithMetaDisabled
+RFObjectReification class>>#key
+RFObjectReification class>>#nodes
+RFObjectReification
+RFObjectReification>>#genForRBProgramNode
+RFReification class>>#allKeys
+RFReification class>>#for:
+RFReification class>>#key
+RFReification class>>#nodes
+RFReification
+ScriptLoader>>#update50022
+MetaLinkTest>>#testHaltHook
+ReflectivityExamples>>#exampleMethod
+MetaLink>>#encloseInBlock:
+MetaLink>>#hook
+MetaLink>>#metaAwareHook
+ScriptLoader>>#script630
+ScriptLoader>>#commentForCurrentUpdate
+RelationSlot>>#emitStore:
+Slot>>#emitStore:
+MetaLink>>#metaAwareHook
+ScriptLoader>>#script630

@@ -1,0 +1,11 @@
+ScriptLoader>>#update50480
+MCVersion>>#loadCompletePackageSnapshot
+MCVersion>>#loadCompleteSnapshot
+MCWorkingCopy>>#completeSnapshot
+AbstractNautilusUI>>#classIconFor:
+Nautilus class>>#nautilusSettingsOn:
+ScriptLoader>>#script50479
+ScriptLoader>>#commentForCurrentUpdate
+SettingDeclaration>>#inputWidget
+SystemNavigation>>#browseAllImplementorsOf:
+ScriptLoader>>#script50479

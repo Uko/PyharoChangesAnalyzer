@@ -1,0 +1,23 @@
+BehaviorTest>>#testIsUsed
+Class>>#hasSubclasses
+ReflectivityControlTest>>#testAfterSlot
+ReflectivityControlTest>>#testInsteadClassVariable
+LiteralVariable>>#insteadHooks
+RGMethodDefinition>>#variableNodes
+Slot>>#afterHooks
+ScriptLoader>>#update50350
+ClassVariable>>#astNodes
+GlobalVariable>>#astNodes
+Slot>>#astNodes
+TemporaryVariable>>#astNodes
+TApplyingOnClassSide>>#isUsed
+Trait>>#hasSubclasses
+TraitBehavior>>#isUsed
+BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
+ReflectivityControlTest>>#testAfterClassVariable
+RFASTTranslator>>#visitVariableValue:
+ScriptLoader>>#script50349
+ScriptLoader>>#commentForCurrentUpdate
+PolymorphSystemSettings class>>#setDesktopLogoWith:
+TBehavior>>#isUsed
+ScriptLoader>>#script50349

@@ -1,0 +1,10 @@
+ConfigurationOfRubric>>#version136:
+ScriptLoader>>#update50124
+ConfigurationOfRubric>>#stable:
+RubMethodEditingExample>>#textModel
+RubWorkspaceExample>>#initialize
+ScriptLoader>>#script50123
+ScriptLoader>>#commentForCurrentUpdate
+RubSmalltalkScriptEditorModel>>#hasBindingOf:
+RubSmalltalkScriptEditorModel>>#hasBindingThatBeginsWith:
+ScriptLoader>>#script50123

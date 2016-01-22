@@ -1,0 +1,13 @@
+ConfigurationOfUnifiedFFI>>#v0_10_1:
+ScriptLoader>>#update50538
+FFIExternalObject>>#resourceData
+ConfigurationOfUnifiedFFI>>#stable:
+RestartDebugAction>>#defaultKeyText
+ResumeDebugAction>>#defaultKeyText
+StepOverDebugAction>>#defaultKeyText
+SVColorSelectorMorph>>#hideLocation
+SVColorSelectorMorph>>#showLocation
+ScriptLoader>>#script50537
+ScriptLoader>>#commentForCurrentUpdate
+FFIExternalType class>>#sizeOf:
+ScriptLoader>>#script50537

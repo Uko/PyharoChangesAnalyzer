@@ -1,0 +1,33 @@
+RPackage>>#isEmpty
+MetalinkIconStyler>>#iconFor:
+WatchpointTests>>#testAddSameWatchpointSameNode
+WatchpointTests>>#testAddWatchpointsSameNode
+WatchpointTests>>#testWatchpointTwice
+WatchpointTests>>#testStopRecording
+AbstractIconStyler>>#iconFor:
+BreakpointIconStyler>>#iconFor:
+Watchpoint>>#isRecording
+Watchpoint>>#start
+Watchpoint>>#stop
+WatchpointIconStyler>>#iconFor:
+ScriptLoader>>#update50469
+ImageCleaner>>#removeEmptyCategories
+ImageCleaner>>#removeEmptyPackages
+AbstractIconStyler>>#addIconStyle:from:to:color:
+Watchpoint class>>#in:named:
+Watchpoint
+Watchpoint>>#initialize
+Watchpoint>>#install
+Watchpoint>>#uninstall
+ScriptLoader>>#script50468
+ScriptLoader>>#commentForCurrentUpdate
+SugsMenuBuilder class>>#showMenuFor:
+SugsSuggestionFactory class>>#cleanUp
+SugsSuggestionFactory class>>#createBreakCommand
+SugsSuggestionFactory class>>#createBreakConditionCommand
+SugsSuggestionFactory class>>#createBreakOnceCommand
+ImageCleaner>>#cleanUpForRelease
+ImageCleaner>>#examplePackages
+ImageCleaner>>#helpPackages
+WatchpointTests>>#testAddWatchpoint
+ScriptLoader>>#script50468

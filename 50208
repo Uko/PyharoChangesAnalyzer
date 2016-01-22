@@ -1,0 +1,218 @@
+AGroupContentHasBeenModified
+Group class>>#new
+Group
+Group>>#addClass:
+Group>>#initialize
+Group>>#printOn:
+Group>>#hasClassNamed:
+GroupHolder>>#addAMethodGroupSilentlyNamed:methods:
+GroupHolder>>#addAPackageGroupSilentlyNamed:packages:
+GroupHolder>>#addAnEmptyDynamicGroupNamed:
+MethodGroup class>>#named:methods:
+MethodGroup
+MethodGroup>>#elements
+MethodGroup>>#methods
+MethodGroup>>#methods:
+MethodGroup>>#methodAdded:
+MethodGroup>>#methodModified:
+MethodGroup>>#initialize
+MethodGroup>>#classes
+MethodGroup>>#methodsFor:
+MethodGroup>>#methodsFor:categorised:
+MethodGroup>>#hasClassNamed:
+PackageGroup class>>#named:packages:
+PackageGroup
+PackageGroup>>#browsedEnvironment
+PackageGroup>>#elements
+PackageGroup>>#packages:
+PackageGroup>>#addPackages:
+PackageGroup>>#removeAllPackages
+PackageGroup>>#removePackages:
+PackageGroup>>#packageRemoved:
+PackageGroup>>#initialize
+PackageGroup>>#classes
+PackageGroup>>#hasClassNamed:
+DialogGroupManagerUI>>#groupTree
+DialogGroupManagerUI>>#text
+DialogGroupManagerUI>>#textModel
+DialogGroupManagerUI>>#buildTextMorph
+DialogGroupManagerUI>>#groupTreeBox
+DialogGroupManagerUI>>#groupTreeModelClass
+DialogGroupManagerUI>>#groupTreeModel
+DialogGroupManagerWithPackagesSelectionUI
+DialogGroupManagerWithPackagesSelectionUI>>#selectedElements
+DialogGroupManagerWithPackagesSelectionUI>>#addSelectedPackageInSelectedGroup
+DialogGroupManagerWithPackagesSelectionUI>>#emptySelectedGroup
+DialogGroupManagerWithPackagesSelectionUI>>#removeSelectedPackageFromSelectedGroup
+DialogGroupManagerWithPackagesSelectionUI>>#centering
+DialogGroupManagerWithPackagesSelectionUI>>#initialExtent
+DialogGroupManagerWithPackagesSelectionUI>>#openInWorld
+DialogGroupManagerWithPackagesSelectionUI>>#itemSelected:
+DialogGroupManagerWithPackagesSelectionUI>>#buildAddButton
+DialogGroupManagerWithPackagesSelectionUI>>#buildAddSelectedPackageInSelectedGroupButton
+DialogGroupManagerWithPackagesSelectionUI>>#buildEmptyGroupButton
+DialogGroupManagerWithPackagesSelectionUI>>#buildPackageTree
+DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveButton
+DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveSelectedPackageFromSelectedGroupButton
+DialogGroupManagerWithPackagesSelectionUI>>#buildRenameButton
+DialogGroupManagerWithPackagesSelectionUI>>#groupTreeBox
+DialogGroupManagerWithPackagesSelectionUI>>#newContentMorph
+DialogGroupManagerWithPackagesSelectionUI>>#packageTreeBox
+DialogGroupRemover
+DialogGroupRemover>>#elementsToRemove
+DialogGroupRemover>>#elementsToRemove:
+DialogGroupRemover>>#uiClass
+DialogGroupRemover>>#remove:from:
+DialogGroupRemoverUI
+DialogGroupRemoverUI>>#groups
+DialogGroupRemoverUI>>#elementsToRemove
+DialogGroupRemoverUI>>#text
+DialogGroupRemoverUI>>#elementBox
+DialogGroupRemoverUI>>#groupTreeBox
+DialogGroupRemoverUI>>#valid
+GroupCreatorTreeModel>>#acceptDroppingMorph:event:inMorph:
+GroupCreatorTreeModel>>#dropEnabled
+GroupCreatorTreeModel>>#wantsDroppedMorph:event:inMorph:
+GroupIcon class>>#current
+GroupIcon class>>#reset
+GroupIcon
+GroupIcon>>#downArrowIcon
+GroupIcon>>#emptyGroupIcon
+GroupIcon>>#groupAddIcon
+GroupIcon>>#groupEditIcon
+GroupIcon>>#groupIcon
+GroupIcon>>#groupRemoveIcon
+GroupIcon>>#upRedArrowIcon
+GroupIcon>>#initialize
+GroupIcon>>#downArrowIconContents
+GroupIcon>>#emptyGroupIconContents
+GroupIcon>>#groupAddIconContents
+GroupIcon>>#groupEditIconContents
+GroupIcon>>#groupIconContents
+GroupIcon>>#groupRemoveIconContents
+GroupIcon>>#upRedArrowIconContents
+GroupIcon>>#formForSelector:
+GroupNode>>#icon
+ItemNode>>#icon
+PackageCreatorTreeModel
+PackageCreatorTreeModel>>#groups
+PackageCreatorTreeModel>>#groups:
+PackageCreatorTreeModel>>#patternModel
+PackageCreatorTreeModel>>#selectedElements
+PackageCreatorTreeModel>>#selectedElements:
+PackageCreatorTreeModel>>#open
+PackageCreatorTreeModel>>#acceptDroppingMorph:event:inMorph:
+PackageCreatorTreeModel>>#dragTransferType
+PackageCreatorTreeModel>>#dragTransferTypeForMorph:
+PackageCreatorTreeModel>>#wantsDroppedMorph:event:inMorph:
+PackageCreatorTreeModel>>#initialize
+PackageCreatorTreeModel>>#add:into:
+PackageCreatorTreeModel>>#remove:from:
+PackageCreatorTreeModel>>#defaultTreeMorph
+AbstractNautilusUI>>#openGroupManager
+AbstractNautilusUI>>#aGroupContentHasBeenModified:
+AbstractNautilusUI>>#alertGroupExisting:
+AbstractNautilusUI>>#removeFromGroupPackages:
+ManifestNautilus class>>#ruleRBClassNotReferencedRuleV1FalsePositive
+MethodWidget>>#handleGroupWrappingFor:and:in:
+Nautilus class>>#methodGroupManager
+Nautilus class>>#buildGroupManager
+Nautilus class>>#buildMethodGroupManager
+Nautilus class>>#lastModifiedMethods
+Nautilus class>>#lastModifiedMethodsGroupName
+PackageTreeGroupModel
+PackageTreeGroupModel>>#rowMorphForColumn:
+PackageTreeGroupModel>>#asNautilusSelection
+PackageTreeMethodGroupNodeModel
+PackageTreeMethodGroupNodeModel>>#icon
+PackageTreeModel>>#doubleClick
+PackageTreeModel>>#methodGroupAsNode
+PackageTreeNodeModel>>#doubleClick
+PackageTreePackageGroupNodeModel
+PackageTreePackageGroupNodeModel>>#childNodeClassFromItem:
+PackageTreePackageGroupNodeModel>>#childrenItems
+PackageTreePackageGroupNodeModel>>#icon
+PackageTreePackageGroupNodeModel>>#doubleClick
+PackageWidget>>#doubleClick
+Group>>#asNautilusSelection
+ScriptLoader>>#update50208
+AbstractGroup>>#categoryName
+GroupHolder>>#renameAGroup:
+GroupHolder>>#openRemoveDialogOn:
+DialogGroupAdder>>#add:into:
+DialogGroupAdderUI>>#text
+DialogGroupAdderUI>>#newContentMorph
+DialogGroupAdderUI>>#valid
+DialogGroupManagerUI
+DialogGroupManagerUI>>#removeAction
+DialogGroupManagerUI>>#renameAction
+DialogGroupManagerUI>>#newContentMorph
+DialogGroupManagerUI>>#addAGroup
+DialogGroupManagerUI>>#removeAGroup
+DialogGroupManagerUI>>#renameGroup
+DialogGroupManagerUI>>#selectedNode
+DialogGroupManagerUI>>#buildGroupsTree
+DialogGroupManagerUI>>#groups
+DialogGroupManagerUI>>#setSelectedNodeItem:
+GroupCreatorTreeModel>>#selection:
+AbstractNautilusUI class>>#groupsMenu:
+AbstractNautilusUI class>>#packagesMenu:
+AbstractNautilusUI class>>#buildClassShortcutsOn:
+AbstractNautilusUI class>>#buildGroupShortcutsOn:
+AbstractNautilusUI class>>#buildPackageShortcutsOn:
+AbstractNautilusUI class>>#buildAddShortcutsOn:
+AbstractNautilusUI class>>#buildButtonsShortcutsOn:
+AbstractNautilusUI
+AbstractNautilusUI>>#registerToGroupAnnouncements
+AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+AbstractNautilusUI>>#doubleClickOnGroup
+AbstractNautilusUI>>#doubleClickOnPackage
+AbstractNautilusUI>>#aGroupHasBeenAdded:
+AbstractNautilusUI>>#aGroupHasBeenRenamed:
+AbstractNautilusUI>>#addNewGroup
+AbstractNautilusUI>>#addPackagesInGroup:
+AbstractNautilusUI>>#removeGroups
+AbstractNautilusUI>>#extensionColor
+CategoryWidget class>>#categoriesMenu:
+CategoryWidget class>>#buildProtocolShortcutsOn:
+MethodWidget class>>#elementsMenu:
+MethodWidget class>>#buildMethodShortcutsOn:
+MethodWidget>>#methodWrapper:
+Nautilus class>>#recentClassesElements
+Nautilus>>#selectedCategory:
+Nautilus>>#selectedClass:
+Nautilus>>#selectedGroup:
+Nautilus>>#selectedMethod:
+Nautilus>>#selectedPackage:
+NautilusAnnotationDisplayer
+NautilusUI>>#initialize
+PackageTreeGroupSelection class>>#group:
+PackageTreeModel>>#rootNodes
+PackageTreeModel>>#groupsAsNodes
+PackageTreeNautilusUI>>#defaultClassDescriptor
+PackageWidget>>#buildPackagesList
+ScriptLoader>>#script50207
+ScriptLoader>>#commentForCurrentUpdate
+AbstractGroup class>>#cleanUp
+AbstractGroup class>>#named:
+AbstractGroup class>>#unsubscribeExistingGroups
+AbstractGroup>>#beReadOnly
+AbstractGroup>>#categoryName
+AbstractGroup>>#elements
+AbstractGroup>>#isFillable
+AbstractGroup>>#isFillable:
+AbstractGroup>>#name
+AbstractGroup>>#name:
+AbstractGroup>>#removable:
+AbstractGroup>>#ifAllowed:
+AbstractGroup>>#ifAllowed:ifNot:
+AbstractGroup>>#classes
+AbstractGroup>>#packages
+AbstractGroup>>#isReadOnly
+AbstractGroup>>#removable
+GroupHolder>>#removeAGroupSilently:
+GroupHolder>>#removeAGroup:
+GroupHolder>>#renameAGroup:
+DynamicClassGroup>>#protocolsFor:
+AbstractGroup>>#asNautilusItemPath
+ScriptLoader>>#script50207

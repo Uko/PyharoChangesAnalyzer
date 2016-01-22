@@ -1,0 +1,80 @@
+CollectionsAssembly class>>#description
+CollectionsAssembly class>>#packageName
+CollectionsAssembly class>>#parts
+CollectionsAssembly class>>#version
+CollectionsAssembly
+ManifestCollectionsAbstract class>>#dependencies
+ManifestCollectionsAbstract class>>#packageName
+ManifestCollectionsAbstract
+ManifestCollectionsArithmetic class>>#dependencies
+ManifestCollectionsArithmetic class>>#description
+ManifestCollectionsArithmetic class>>#packageName
+ManifestCollectionsArithmetic
+ManifestCollectionsAtomic class>>#dependencies
+ManifestCollectionsAtomic class>>#packageName
+ManifestCollectionsAtomic
+ManifestCollectionsNative class>>#dependencies
+ManifestCollectionsNative class>>#description
+ManifestCollectionsNative class>>#packageName
+ManifestCollectionsNative
+ManifestCollectionsSequenceable class>>#dependencies
+ManifestCollectionsSequenceable class>>#description
+ManifestCollectionsSequenceable class>>#packageName
+ManifestCollectionsSequenceable
+ManifestCollectionsStack class>>#dependencies
+ManifestCollectionsStack class>>#description
+ManifestCollectionsStack class>>#packageName
+ManifestCollectionsStack
+ManifestCollectionsStreams class>>#dependencies
+ManifestCollectionsStreams class>>#description
+ManifestCollectionsStreams class>>#packageName
+ManifestCollectionsStreams
+ManifestCollectionsStrings class>>#dependencies
+ManifestCollectionsStrings class>>#description
+ManifestCollectionsStrings class>>#packageName
+ManifestCollectionsStrings
+ManifestCollectionsSupport class>>#dependencies
+ManifestCollectionsSupport class>>#description
+ManifestCollectionsSupport class>>#packageName
+ManifestCollectionsSupport
+ManifestCollectionsUnordered class>>#dependencies
+ManifestCollectionsUnordered class>>#description
+ManifestCollectionsUnordered class>>#packageName
+ManifestCollectionsUnordered
+ManifestCollectionsWeak class>>#dependencies
+ManifestCollectionsWeak class>>#description
+ManifestCollectionsWeak class>>#packageName
+ManifestCollectionsWeak
+ManifestCollectionsTests class>>#dependencies
+ManifestCollectionsTests class>>#description
+ManifestCollectionsTests class>>#packageName
+ManifestCollectionsTests
+Job>>#owner
+JobTest>>#testOwner
+AssemblyManifest class>>#description
+AssemblyManifest class>>#packageName
+AssemblyManifest class>>#parts
+AssemblyManifest class>>#version
+AssemblyManifest class>>#manifestClassComment
+AssemblyManifest class>>#newNamed:category:
+AssemblyManifest
+ManifestKernel class>>#dependencies
+ManifestKernel class>>#description
+ManifestKernel class>>#packageName
+PharoKernelAssembly class>>#description
+PharoKernelAssembly class>>#packageName
+PharoKernelAssembly class>>#parts
+PharoKernelAssembly class>>#version
+PharoKernelAssembly
+ManifestKernelTests class>>#dependencies
+ManifestKernelTests class>>#description
+ManifestKernelTests class>>#packageName
+ScriptLoader>>#update50160
+NautilusAnnotationDisplayer>>#noteNewOwner:
+NautilusAnnotationDisplayer>>#toggleFormatAsYouRead
+ScriptLoader>>#script50159
+ScriptLoader>>#commentForCurrentUpdate
+ManifestKernel class>>#ruleConsistencyCheckRuleV1FalsePositive
+ManifestKernel class>>#ruleEqualsTrueRuleV1FalsePositive
+ManifestKernel class>>#ruleLongMethodsRuleV1FalsePositive
+ScriptLoader>>#script50159

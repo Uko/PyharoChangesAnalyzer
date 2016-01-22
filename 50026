@@ -1,0 +1,17 @@
+AbstractFileReference>>#basenameWithoutExtension:
+Path>>#basenameWithoutExtension:
+MustBeBooleanTests>>#testAnd
+MustBeBooleanTests>>#testOr
+MyBooleanObject>>#and:
+MyBooleanObject>>#or:
+MyBooleanObject>>#not
+ScriptLoader>>#update50026
+FileReferenceTest>>#testBasenameWithoutExtension
+PathTest>>#testBasenameWithoutExtension
+WorldState class>>#saveAs
+RBBlockNode>>#sourceNodeForPC:
+String>>#asPackage
+ScriptLoader>>#script634
+ScriptLoader>>#commentForCurrentUpdate
+MyBooleanObject>>#ifTrue:
+ScriptLoader>>#script634

@@ -1,0 +1,16 @@
+SortHierarchically class>>#buildHierarchyForClass:
+SortHierarchicallyIndentNode class>>#on:indentBy:
+SortHierarchicallyIndentNode
+SortHierarchicallyIndentNode>>#element
+SortHierarchicallyIndentNode>>#indent
+SortHierarchicallyIndentNode>>#setElement:
+SortHierarchicallyIndentNode>>#setIndent:
+SortHierarchicallyIndentNode>>#printOn:
+TBehavior>>#hierarchyClassTree
+ScriptLoader>>#update50363
+TClass>>#hasSubclasses
+ClassWidget>>#setCachedHierarchyClass:
+BlockClosure>>#sourceNode
+ScriptLoader>>#script50362
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50362

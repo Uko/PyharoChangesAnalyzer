@@ -1,0 +1,48 @@
+RFLinkReification class>>#key
+RFLinkReification class>>#nodes
+RFLinkReification
+RFLinkReification>>#genForRBProgramNode
+RFNewValueReification class>>#key
+RFNewValueReification class>>#nodes
+RFNewValueReification
+RFNewValueReification>>#genForRBAssignmentNode
+RFNodeReification class>>#key
+RFNodeReification class>>#nodes
+RFNodeReification
+RFNodeReification>>#genForRBProgramNode
+RFReification>>#genForRBAssignmentNode
+RFReification>>#genForRBBlockNode
+RFReification>>#genForRBCascadeNode
+RFReification>>#genForRBLiteralNode
+RFReification>>#genForRBProgramNode
+RFReification>>#genForRBReturnNode
+RFReification>>#genForRBSequenceNode
+RFReification>>#genForRBVariableNode
+RFSelectorReification class>>#key
+RFSelectorReification class>>#nodes
+RFSelectorReification
+RFSelectorReification>>#genForRBMessageNode
+RFSelectorReification>>#genForRBMethodNode
+RFTArgumentsReification class>>#key
+RFTArgumentsReification class>>#nodes
+RFTArgumentsReification
+RFTArgumentsReification>>#genForRBProgramNode
+RFThisContextReification class>>#key
+RFThisContextReification class>>#nodes
+RFThisContextReification
+RFThisContextReification>>#genForRBProgramNode
+RFValueReification class>>#key
+RFValueReification class>>#nodes
+RFValueReification
+RFValueReification>>#genForRBAssignmentNode
+RFValueReification>>#genForRBTempVariableNode
+RFValueReification>>#genForRBVariableNode
+ScriptLoader>>#update50065
+Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+ScriptLoader>>#script50064
+ScriptLoader>>#commentForCurrentUpdate
+TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+ScriptLoader>>#script50064

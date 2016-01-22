@@ -1,0 +1,17 @@
+RBParser>>#saveCommentsDuring:
+RBPragmaNode>>#initialize
+RBReturnNode>>#initialize
+RBVariableNode>>#initialize
+ScriptLoader>>#update50392
+RBBlockNode>>#initialize
+RBParser>>#parseCascadeMessage
+RBParser>>#parsePrimitiveObject
+RBPatternBlockNode>>#createBlockFor:
+RBReturnNode class>>#value:
+RBReturnNode>>#stop
+MCVersionReader class>>#fileReaderServicesForFile:suffix:
+MorphTreeListManager>>#basicKeyPressed:
+RBSequenceNode>>#transformLastToReturn
+ScriptLoader>>#script50391
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50391

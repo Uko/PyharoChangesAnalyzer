@@ -1,0 +1,9 @@
+ScriptLoader>>#update50417
+SystemWindow
+UTF8InvalidText
+SystemWindow>>#initialize
+SystemWindow>>#isActive
+ScriptLoader>>#script50416
+ScriptLoader>>#commentForCurrentUpdate
+MethodFinder>>#initialize
+ScriptLoader>>#script50416

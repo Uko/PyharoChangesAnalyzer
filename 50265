@@ -1,0 +1,19 @@
+Object>>#displayString
+WorldMorph>>#buildMetaMenu:
+ScriptLoader>>#update50265
+TemporaryVariableTest>>#testPropertyAtPutPersistent
+TemporaryVariableTest>>#testPropertyBlockPersistent
+TemporaryVariableTest>>#testPropertyContextPersistent
+TemporaryVariable class>>#name:context:
+TemporaryVariable>>#yourselfOrSaved
+CompiledMethod>>#removeSavedTemp:
+CompiledMethod>>#saveTemp:
+CompiledMethod>>#savedTemps
+ScriptLoader>>#script50264
+ScriptLoader>>#commentForCurrentUpdate
+TemporaryVariable class>>#name:block:
+TemporaryVariable class>>#name:method:
+BlockClosure>>#temporaryVariableNamed:
+CompiledMethod>>#temporaryVariableNamed:
+Context>>#temporaryVariableNamed:
+ScriptLoader>>#script50264

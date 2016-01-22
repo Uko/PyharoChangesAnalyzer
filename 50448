@@ -1,0 +1,147 @@
+ConfigurationOfFastTable>>#version080:
+FTAllItemsStrategy
+FTAllItemsStrategy>>#filter
+FTAllItemsStrategy>>#initializeNewSearch
+FTAllItemsStrategy>>#matchingFilter:
+FTAllItemsStrategy>>#newStaticItemFrom:
+FTAllItemsStrategy>>#optionalOperations
+FTAllItemsStrategy>>#realSearch
+FTAllItemsStrategy>>#searchIn:
+FTAllItemsStrategy>>#unexpandAllChildOf:
+FTBasicItem
+FTBasicItem>>#children
+FTBasicItem>>#data:
+FTBasicItem>>#expand
+FTBasicItem>>#expandAndRefresh
+FTBasicItem>>#isRootItem
+FTBasicItem>>#unexpand
+FTBasicItem>>#unexpandAndRefresh
+FTBasicItem>>#expandAll
+FTBasicItem>>#expandAllTo:
+FTBasicItem>>#updateData
+FTDataSource>>#realElementAt:
+FTDataSource>>#readyToBeDisplayed
+FTExamples class>>#exampleTree1
+FTExamples class>>#exampleTree2
+FTExamples class>>#exampleTreeWithAllItemsFilter
+FTExamples class>>#exampleTreeWithAllItemsSearch
+FTExamples class>>#exampleTreeWithRootFilter
+FTExamples class>>#exampleTreeWithRootSearch
+FTExamples class>>#exampleTreeWithVisibleItemsFilter
+FTExamples class>>#exampleTreeWithVisibleItemsSearch
+FTExamples class>>#exampleexampleOneSubLevelTree
+FTRootItem
+FTRootItem>>#children
+FTRootItem>>#children:
+FTRootItem>>#dataSource:
+FTRootItem>>#data:
+FTRootItem>>#isExpanded
+FTRootItem>>#expandAll
+FTRootItem>>#expandAllTo:
+FTRootItem>>#updateData
+FTRootItemsStrategy
+FTRootItemsStrategy>>#filter
+FTRootItemsStrategy>>#realSearch
+FTStaticBasicItem
+FTStaticBasicItem>>#calculateChildren
+FTStaticBasicItem>>#children
+FTStaticBasicItem>>#children:
+FTStaticBasicItem>>#dataSource:
+FTStaticBasicItem>>#updateData
+FTTableMorph>>#themeChanged
+FTTreeDataSource class>>#defaultSearchStrategies
+FTTreeDataSource class>>#rootItemFor:
+FTTreeDataSource class>>#searchStrategies
+FTTreeDataSource class>>#searchStrategies:
+FTTreeDataSource class>>#initialize
+FTTreeDataSource class>>#root:children:
+FTTreeDataSource>>#buttonFor:
+FTTreeDataSource>>#maxDepth
+FTTreeDataSource>>#realElementAt:
+FTTreeDataSource>>#rootItem
+FTTreeDataSource>>#rootItem:
+FTTreeDataSource>>#rootsItems
+FTTreeDataSource>>#searchStrategy
+FTTreeDataSource>>#searchStrategy:
+FTTreeDataSource>>#expandAll
+FTTreeDataSource>>#expandAllTo:
+FTTreeDataSource>>#expandRoots
+FTTreeDataSource>>#canDisplayChildrenOf:
+FTTreeDataSource>>#addSourceToRootItem
+FTTreeDataSource>>#updateData
+FTTreeFunctionStrategy class>>#filterWith:dataSource:
+FTTreeFunctionStrategy class>>#searchWith:dataSource:
+FTTreeFunctionStrategy
+FTTreeFunctionStrategy>>#dataSource:
+FTTreeFunctionStrategy>>#isMatching:
+FTTreeFunctionStrategy>>#pattern:
+FTTreeFunctionStrategy>>#filter
+FTTreeFunctionStrategy>>#optionalOperations
+FTTreeFunctionStrategy>>#realSearch
+FTTreeFunctionStrategy>>#search
+FTTreeItem class>>#data:from:
+FTTreeItem>>#numberOfChildren
+FTTreeItem>>#expandAll
+FTTreeItem>>#expandAllTo:
+FTTreeItem>>#hasChildren
+FTTreeItem>>#isExpanded
+FTTreeItem>>#updateData
+FTVisibleItemsStrategy
+FTVisibleItemsStrategy>>#filter
+FTVisibleItemsStrategy>>#matchingFilter:
+FTVisibleItemsStrategy>>#newStaticItemFrom:
+FTVisibleItemsStrategy>>#realSearch
+ScriptLoader>>#update50448
+ConfigurationOfFastTable>>#stable:
+FTTreeItem>>#calculateChildren
+FTTreeItem>>#expandedButton
+FTTreeItem>>#unexpandedButton
+FTFilterFunction>>#filter
+FTFilterFunctionWithAction>>#execute
+FTSearchFunction>>#search
+FTSearchFunction>>#searchFor:
+FTTableContainerMorph>>#drawOn:
+FTTableMorph>>#keyStrokeArrowDown:
+FTTableMorph>>#keyStrokeArrowUp:
+FTTableMorph>>#showMenuForRowIndex:columnIndex:
+FTTableMorph>>#isVerticalScrollBarVisible
+FTTableMorph>>#recalculateVerticalScrollBarVisibilityIfHidden:
+FTTableMorph>>#resizeVerticalScrollBar
+FTTableMorph>>#rowIndexToVerticalScrollBarValue:
+FTTableMorph>>#selectRowIndex:event:
+FTTableMorph>>#verticalScrollBarValue:
+FTTreeDataSource class>>#roots:children:
+FTTreeDataSource
+FTTreeDataSource>>#cellColumn:row:
+FTTreeDataSource>>#elementAt:
+FTTreeDataSource>>#newDataSourceMatching:
+FTTreeDataSource>>#numberOfRows
+FTTreeDataSource>>#searchText:
+FTTreeItem
+FTTreeItem>>#children
+FTTreeItem>>#data:
+FTTreeItem>>#numberOfVisibleChildren
+RBVariableNotDefinedRule>>#basicCheck:
+RBVariableNotDefinedRule>>#checkMethod:
+ScriptLoader>>#script50447
+ScriptLoader>>#commentForCurrentUpdate
+FTTreeItem class>>#expandedForm
+FTTreeItem class>>#unexpandedForm
+FTTreeItem>>#calculateChildren
+FTTreeItem>>#data
+FTTreeItem>>#depth
+FTTreeItem>>#depth:
+FTTreeItem>>#isExpanded
+FTTreeItem>>#expandedButton
+FTTreeItem>>#generateButton
+FTTreeItem>>#unexpandedButton
+FTTreeItem>>#asString
+FTTreeItem>>#initialize
+FTTreeItem>>#printOn:
+FTTreeItem>>#refreshTable
+FTExamples class>>#exampleListWithExplicitFilter
+FTExamples class>>#exampleListWithExplicitFilterAndActionButton
+FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
+FTExamples class>>#exampleListWithExplicitSearch
+FTSearchFunction>>#search
+ScriptLoader>>#script50447

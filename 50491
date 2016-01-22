@@ -1,0 +1,722 @@
+BaselineOfFileTree
+BaselineOfFileTree>>#baseline:
+BaselineOfMetacello
+BaselineOfMetacello>>#baseline:
+BaselineOfMetacello>>#gemstone10beta311PostLoadDoIt
+BaselineOfMetacello>>#reprimeRegistryIssue197
+BaselineOfMetacello>>#testResourcePostLoadDoIt
+ConfigurationOfGofer class>>#project
+ConfigurationOfGofer class>>#compareVersions
+ConfigurationOfGofer class>>#createNewDevelopmentVersion
+ConfigurationOfGofer class>>#updateToLatestPackageVersions:
+ConfigurationOfGofer class>>#load
+ConfigurationOfGofer class>>#isMetacelloConfig
+ConfigurationOfGofer class>>#lastMetacelloVersionLoad
+ConfigurationOfGofer class>>#metacelloVersion:loads:
+ConfigurationOfGofer class>>#bootstrapPackage:from:
+ConfigurationOfGofer class>>#ensureMetacello
+ConfigurationOfGofer
+ConfigurationOfGofer>>#project
+ConfigurationOfGofer>>#baseline100:
+ConfigurationOfGofer>>#baseline1021:
+ConfigurationOfGofer>>#baseline1051:
+ConfigurationOfGofer>>#baseline1052:
+ConfigurationOfGofer>>#baseline105:
+ConfigurationOfGofer>>#development:
+ConfigurationOfGofer>>#stable:
+ConfigurationOfGofer>>#version100:
+ConfigurationOfGofer>>#version101:
+ConfigurationOfGofer>>#version1021:
+ConfigurationOfGofer>>#version1022:
+ConfigurationOfGofer>>#version102:
+ConfigurationOfGofer>>#version103:
+ConfigurationOfGofer>>#version104:
+ConfigurationOfGofer>>#version1051:
+ConfigurationOfGofer>>#version1052:
+ConfigurationOfGofer>>#version1053:
+ConfigurationOfGofer>>#version1054:
+ConfigurationOfGofer>>#version105:
+ConfigurationOfPharoMetacello class>>#project
+ConfigurationOfPharoMetacello class>>#DevelopmentSupport
+ConfigurationOfPharoMetacello class>>#validate
+ConfigurationOfPharoMetacello class>>#load
+ConfigurationOfPharoMetacello class>>#isMetacelloConfig
+ConfigurationOfPharoMetacello class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfPharoMetacello class>>#ensureMetacello
+ConfigurationOfPharoMetacello class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfPharoMetacello
+ConfigurationOfPharoMetacello>>#customProjectAttributes
+ConfigurationOfPharoMetacello>>#project
+ConfigurationOfPharoMetacello>>#pharo50:
+ConfigurationOfPharoMetacello>>#stable:
+BaselineOf class>>#validate
+Metacello>>#register
+Metacello>>#unregister
+Metacello>>#onConflictUseIncoming
+Metacello>>#onConflictUseIncoming:useLoaded:
+Metacello>>#onConflictUseLoaded
+Metacello>>#onDowngradeUseIncoming
+Metacello>>#onDowngradeUseIncoming:
+Metacello>>#onLockBreak
+Metacello>>#onLockBreak:
+Metacello>>#onUpgradeUseLoaded
+Metacello>>#onUpgradeUseLoaded:
+Metacello>>#onWarningLog
+Metacello>>#bitbucketUser:project:commitish:path:
+Metacello>>#swa:
+Metacello>>#swasource:
+Metacello>>#execute:args:
+MCBitbucketRepository class>>#basicDescription
+MCBitbucketRepository class>>#cacheDirectoryPath
+MCBitbucketRepository class>>#projectTagsUrlFor:
+MCBitbucketRepository class>>#projectZipUrlFor:versionString:
+MCBitbucketRepository class>>#isEnabled
+MCBitbucketRepository
+MCBitbucketRepository>>#normalizeTagsData:
+MetacelloAbstractPackageSpec>>#includeSpecNamesForPackageOrdering:
+MetacelloAbstractPackageSpec>>#requiredSpecNamesForPackageOrdering:
+MetacelloAbstractPackageSpec>>#requiredSpecsForPackageOrdering:
+MetacelloAbstractPackageSpec>>#requiresSpecsForPackageOrdering:
+MetacelloAbstractPackageSpec>>#resolveSpecsForPackageOrdering:
+MetacelloAbstractPackageSpec>>#specs:forPackageOrdering:
+MetacelloAbstractVersionConstructor>>#importForVersion:provides:
+MetacelloAbstractVersionConstructor>>#import:provides:
+MetacelloAllowLockedProjectChange>>#break
+MetacelloAllowLockedProjectChange>>#honor
+MetacelloAllowProjectDowngrade>>#defaultAction
+MetacelloBaselineOfMethodSpec
+MetacelloBaselineOfMethodSpec>>#versionString
+MetacelloBaselineOfMethodSpec>>#methodSelectorAndPragma:imports:on:
+MetacelloBaselineOfMethodSpec>>#methodSource
+MetacelloGenericProjectSpec>>#mergeRepositoriesSpec:
+MetacelloGroupSpec>>#includeSpecNamesForPackageOrdering:
+MetacelloGroupSpec>>#requiredSpecsForPackageOrdering:
+MetacelloGroupSpec>>#requiresSpecsForPackageOrdering:
+MetacelloGroupSpec>>#resolveSpecsForPackageOrdering:
+MetacelloIgnorePackageLoaded class>>#signal:
+MetacelloIgnorePackageLoaded
+MetacelloIgnorePackageLoaded>>#defaultAction
+MetacelloIgnorePackageLoaded>>#packageSpec
+MetacelloIgnorePackageLoaded>>#packageSpec:
+MetacelloNameNotDefinedError
+MetacelloNameNotDefinedError>>#isResumable
+MetacelloPackageSpecResolutionError>>#signal
+MetacelloPackagesSpec>>#applyIncludesTo:for:firstTime:for:
+MetacelloPackagesSpec>>#packageSpecsInLoadOrderFor:
+MetacelloPackagesSpec>>#slideIn:spec:baseIndex:seen:firstTime:for:
+MetacelloPackagesSpec>>#sortPackageSpecs:packageSpec:groupLoops:for:
+MetacelloPlatform>>#gitBranchNameFor:
+MetacelloPlatform>>#gitCommitShaFor:
+MetacelloPlatform>>#downloadErrorFileNameFor:
+MetacelloPlatform>>#downloadJSON:eTagsCache:eTagsKey:username:pass:
+MetacelloPlatform>>#downloadJSON:username:pass:
+MetacelloPlatform>>#downloadZipArchive:to:
+MetacelloPlatform>>#fileDirectoryClass
+MetacelloPlatform>>#processPID
+MetacelloPlatform>>#clearPackageCache
+MetacelloPlatform>>#defaultPackageCache
+MetacelloPlatform>>#registerPackageNamed:
+MetacelloProjectRegistration class>>#classRemoved:
+MetacelloProjectRegistration>>#currentBranchName
+MetacelloProjectRegistration>>#currentVersionString
+MetacelloProjectRegistration>>#projectVersion
+MetacelloProjectRegistration>>#validate
+MetacelloProjectRegistration>>#versionInfo
+MetacelloProjectRegistration>>#versionInfo:
+MetacelloProjectRegistrationVersionInfo
+MetacelloProjectRegistrationVersionInfo>>#projectVersion
+MetacelloProjectRegistrationVersionInfo>>#projectVersion:
+MetacelloProjectRegistrationVersionInfo>>#setVersionString:
+MetacelloProjectRegistrationVersionInfo>>#versionString
+MetacelloProjectRegistrationVersionInfo>>#versionString:
+MetacelloProjectRegistry>>#primeRegistryFromImage:
+MetacelloProjectRegistry>>#primeRegistryFromImage:baselineClasses:prioritizeConfiguration:
+MetacelloProjectRegistry>>#primeRegistryProjectSpecRegistered:
+MetacelloProjectRegistry>>#registrationForExactClassNamed:ifAbsent:
+MetacelloProjectSpec>>#configHasVersionString
+MetacelloProjectSpec>>#configMethodBodyOn:indent:fromShortCut:
+MetacelloResolveProjectUpgrade>>#useExisting
+MetacelloResolveProjectUpgrade>>#useIncoming
+MetacelloResolveProjectUpgrade>>#useLoaded
+MetacelloResolveProjectUpgrade>>#useNew
+MetacelloScriptEngine class>>#defaultRepositoryDescription:
+MetacelloScriptEngine>>#register
+MetacelloScriptEngine>>#unregister
+MetacelloScriptExecutor>>#register
+MetacelloScriptExecutor>>#unregister
+MetacelloScriptGitBasedDownloadNotification
+MetacelloSemanticVersionNumber>>#postCopy
+MetacelloSemanticVersionNumber>>#decrementMajorVersion
+MetacelloSemanticVersionNumber>>#decrementMinorVersion
+MetacelloSemanticVersionNumber>>#decrementPatchVersion
+MetacelloSemanticVersionNumber>>#incrementMajorVersion
+MetacelloSemanticVersionNumber>>#incrementMinorVersion
+MetacelloSemanticVersionNumber>>#incrementPatchVersion
+MetacelloSemanticVersionNumber>>#decrementNormalVersionAt:
+MetacelloSemanticVersionNumber>>#incrementNormalVersionAt:
+MetacelloVersionDoesNotExistError>>#signal
+MetacelloVersionNumber>>#decrementMajorVersion
+MetacelloVersionNumber>>#decrementMinorVersion
+MetacelloVersionNumber>>#decrementPatchVersion
+MetacelloVersionNumber>>#incrementMajorVersion
+MetacelloVersionNumber>>#incrementMinorVersion
+MetacelloVersionNumber>>#incrementPatchVersion
+MetacelloVersionNumber>>#decrementVersionAt:
+MetacelloVersionNumber>>#incrementVersionAt:
+MetacelloVersionSpec>>#importArray
+MetacelloVersionSpec>>#import:provides:
+MetacelloVersionSpec>>#setImport:
+MetacelloVersionSpec>>#import:provides:constructor:
+MetacelloVersionValidator class>>#validateBaseline:
+MetacelloVersionValidator class>>#validateBaseline:debug:recurse:
+MetacelloVersionValidator class>>#validateBaseline:recurse:
+MetacelloVersionValidator>>#validateBaselineProject
+MetacelloVersionValidator>>#validateBaselineOf
+MetacelloVersionValidator>>#validateBaselineProject:
+Collection>>#setImportInVersionSpec:
+MCRepository>>#repositoryBranchName
+MCRepository>>#repositoryDescription
+MCRepository>>#repositoryVersionString
+String>>#setImportInVersionSpec:
+MCFileTreeRepository>>#repositoryBranchName
+MCFileTreeRepository>>#repositoryDescription
+MCFileTreeRepository>>#repositoryVersionString
+MCGitBasedNetworkRepository class>>#basicDescription
+MCGitBasedNetworkRepository class>>#cacheDirectoryPath
+MCGitBasedNetworkRepository class>>#cacheDirectoryPath:
+MCGitBasedNetworkRepository class>>#description
+MCGitBasedNetworkRepository class>>#downloadCache
+MCGitBasedNetworkRepository class>>#flushDownloadCache
+MCGitBasedNetworkRepository class>>#cacheDirectory
+MCGitBasedNetworkRepository class>>#cacheDirectory:
+MCGitBasedNetworkRepository class>>#parseLocation:version:
+MCGitBasedNetworkRepository class>>#parseProjectVersionField:desc:versionDelim:
+MCGitBasedNetworkRepository class>>#projectTagsUrlFor:
+MCGitBasedNetworkRepository class>>#projectZipUrlFor:versionString:
+MCGitBasedNetworkRepository class>>#resetCacheDirectoryIfInvalid
+MCGitBasedNetworkRepository class>>#sitePassword
+MCGitBasedNetworkRepository class>>#sitePassword:
+MCGitBasedNetworkRepository class>>#siteUsername
+MCGitBasedNetworkRepository class>>#siteUsername:
+MCGitBasedNetworkRepository class>>#siteUsername:sitePassword:
+MCGitBasedNetworkRepository class>>#isEnabled
+MCGitBasedNetworkRepository class>>#projectVersionFromString:
+MCGitBasedNetworkRepository
+MCGitBasedNetworkRepository>>#asRepositorySpecFor:
+MCGitBasedNetworkRepository>>#projectVersionEscaped
+MCGitBasedNetworkRepository>>#projectVersionPattern
+MCGitBasedNetworkRepository>>#projectVersionPattern:
+MCGitBasedNetworkRepository>>#projectVersion:
+MCGitBasedNetworkRepository>>#repoPath
+MCGitBasedNetworkRepository>>#repositoryBranchName
+MCGitBasedNetworkRepository>>#repositoryVersionString
+MCGitBasedNetworkRepository>>#description
+MCGitBasedNetworkRepository>>#canUpgradeTo:
+MCGitBasedNetworkRepository>>#flushCache
+MCGitBasedNetworkRepository>>#hasNoLoadConflicts:
+MCGitBasedNetworkRepository>>#projectPath:projectVersion:repoPath:
+MCGitBasedNetworkRepository>>#downloadJSONTags
+MCGitBasedNetworkRepository>>#normalizeTagsData:
+MCGitBasedNetworkRepository>>#projectTagsUrlFor:
+MCGitBasedNetworkRepository>>#resolveProjectVersionPattern:
+MCGitHubRepository class>>#basicDescription
+MCGitHubRepository class>>#cacheDirectoryPath
+MCGitHubRepository class>>#eTagsCache
+MCGitHubRepository class>>#flushETagsCache
+MCGitHubRepository class>>#projectTagsUrlFor:
+MCGitHubRepository class>>#projectZipUrlFor:versionString:
+MCGitHubRepository class>>#isEnabled
+MCGitHubRepository>>#downloadJSONTags
+MCGitHubRepository>>#normalizeTagsData:
+MetacelloGoferPackage>>#matchesMetacelloGoferPackage:
+MetacelloMCBaselineOfProjectSpec>>#ensureLoadUsing:
+MetacelloMCBaselineOfProjectSpec>>#mergeRepositoriesSpec:
+MetacelloMCBaselineOfProjectSpec>>#configHasVersionString
+MetacelloMCBaselineOfProjectSpec>>#repositoryBranchName
+MetacelloMCBaselineOfProjectSpec>>#repositoryVersionString
+MetacelloMCBaselineOfProjectSpec>>#hasConflictWithConfigurationSpec:
+MetacelloMCBaselineOfProjectSpec>>#hasConflictWithProjectSpec:
+MetacelloMCBaselineOfProjectSpec>>#isBaselineOfProjectSpec
+MetacelloMCConfigurationOfProjectSpec>>#hasConflictWithBaselineSpec:
+MetacelloMCConfigurationOfProjectSpec>>#hasConflictWithProjectSpec:
+MetacelloMCConfigurationOfProjectSpec>>#isConfigurationOfProjectSpec
+MetacelloMCNamelessProjectSpec
+MetacelloMCNamelessProjectSpec>>#copyForRegistration:onWrite:
+MetacelloMCNamelessProjectSpec>>#asProjectSpecForVersion:
+MetacelloMCProjectSpec class>>#new
+MetacelloMCProjectSpec>>#baseName
+MetacelloMCProjectSpec>>#workingCopy
+MetacelloMCProjectSpec>>#asProjectSpecForVersion:
+MetacelloMCProjectSpec>>#hasConflictWithBaselineSpec:
+MetacelloMCProjectSpec>>#hasConflictWithConfigurationSpec:
+MetacelloMCProjectSpec>>#hasConflictWithProjectSpec:
+MetacelloMCProjectSpec>>#isBaselineOfProjectSpec
+MetacelloMCProjectSpec>>#isConfigurationOfProjectSpec
+MetacelloRepositoriesSpec>>#canUpgradeTo:
+MetacelloRepositorySpec>>#canUpgradeTo:
+GoferReference>>#matchesMetacelloGoferPackage:
+GoferVersionReference>>#matchesMetacelloGoferPackage:
+MetacelloAbstractPackageSpec>>#resolveToPackagesIn:andProjects:visited:
+MetacelloGroupSpec>>#resolveToPackagesIn:andProjects:into:visited:
+MetacelloGroupSpec>>#resolveToPackagesIn:andProjects:visited:
+MetacelloProjectReferenceSpec>>#resolveToPackagesIn:andProjects:visited:
+MetacelloPharoCommonPlatform>>#downloadBasicFile:to:username:pass:
+MetacelloPharoCommonPlatform>>#downloadZipArchive:to:
+MetacelloPharoCommonPlatform>>#downloadJSON:username:pass:
+MetacelloPharoCommonPlatform>>#compiler
+MetacelloPharo30Platform>>#downloadZipArchive:to:
+MetacelloPharo30Platform>>#downloadJSON:username:pass:
+MetacelloPharo30Platform>>#registerPackageNamed:
+MetacelloPharo30Platform>>#defaultRepositoryDescription
+MetacelloPharo30Platform>>#compiler
+MetacelloTestsMCPackage>>#species
+MetacelloCommonVersionNumberTestCase>>#defaultVersion1
+MetacelloCommonVersionNumberTestCase>>#testIncrementDecrementVersion
+MetacelloCommonVersionNumberTestCase>>#testIncrementDecrementVersionNumber
+MetacelloVersionNumberTestCase>>#testIncrementDecrementVersionNumber
+MetacelloBasicScriptingTestCase
+MetacelloBasicScriptingTestCase>>#configurationRepositoryContents
+MetacelloBasicScriptingTestCase>>#externalRepositoryContents
+MetacelloBasicScriptingTestCase>>#setUpRepositoryContents
+MetacelloBasicScriptingTestCase>>#tearDownPackageList
+MetacelloExternalScriptingTestCase
+MetacelloExternalScriptingTestCase>>#setUpRepositoryContents
+MetacelloExternalScriptingTestCase>>#tearDownRepositories
+MetacelloIssueTestCase
+MetacelloIssueTestCase>>#monticelloRepository
+MetacelloIssueTestCase>>#project
+MetacelloIssueTestCase>>#projectClass
+MetacelloIssueTestCase>>#projectName
+MetacelloIssueTestCase>>#projectWith:
+MetacelloIssueTestCase>>#configurationRepository
+MetacelloIssueTestCase>>#runCase
+MetacelloIssueTestCase>>#setUp
+MetacelloIssueTestCase>>#tearDown
+MetacelloIssueTestCase>>#tearDownPackageNames
+MetacelloIssueTestCase>>#hasPackage:
+MetacelloScriptingStdTstHarness
+MetacelloScriptingStdTstHarness>>#defaultTimeout
+MetacelloScriptingStdTstHarness>>#doSilently
+MetacelloScriptingStdTstHarness>>#runCase
+MetacelloScriptingStdTstHarness>>#setUp
+MetacelloScriptingStdTstHarness>>#setUpRepositories
+MetacelloScriptingStdTstHarness>>#setUpRepositoryContents
+MetacelloScriptingStdTstHarness>>#tearDown
+MetacelloScriptingStdTstHarness>>#tearDownPackageList
+MetacelloScriptingStdTstHarness>>#tearDownPackages
+MetacelloScriptingStdTstHarness>>#tearDownRepositories
+MetacelloScriptingStdTstHarness>>#unloadPackage:
+MetacelloScriptingStdTstHarness>>#hasPackage:
+MetacelloScriptingStdTstHarness>>#validateProjects:
+MetacelloScriptingStdTstHarness>>#validate:expConfigVersion:expConfigRepo:expBaselineClassName:expBaselineVersion:expBaselineRepo:
+MetacelloScriptingStdTstHarness>>#verifyPackageNotLoaded:
+MetacelloScriptingStdTstHarness>>#verify:loadedFrom:
+MetacelloScriptingStdTstHarness>>#verify:version:
+MetacelloScriptingTestCase
+MetacelloScriptingTestCase>>#configurationPath
+MetacelloScriptingTestCase>>#externalPath
+MetacelloScriptingTestCase>>#samplePath
+MetacelloScriptingTestCase>>#setUpRepositories
+MetacelloScriptingTestCase>>#setUpRepositoryContents:sourceRepo:targetRepo:
+MetacelloScriptingTestCase>>#tearDownRepositories
+MCRepositoryGroup>>#removeIdenticalRepository:
+MetacelloConfigurationResource>>#bleedingEdge206A:
+MetacelloConfigurationResource>>#bleedingEdge206B:
+MetacelloConfigurationResource>>#projectVersion10Issue283:
+MetacelloConfigurationResource>>#projectVersion20Issue283:
+MetacelloConfigurationResource>>#setUpConfigurationOfProjectConfigIssue283dkh1
+MetacelloConfigurationResource>>#setUpConfigurationOfProjectIssue283
+MetacelloConfigurationResource>>#setUpConfigurationOfProjectIssue283dkh1
+MetacelloConfigurationResource>>#setUpConfigurationOfProjectIssue283dkh2:
+MetacelloConfigurationResource>>#stableVersion283A:
+MetacelloConfigurationResource>>#stableVersion283B:
+MetacelloConfigurationResource>>#version20Issue283:
+MetacelloConfigurationResource>>#version21Issue283:
+MetacelloScriptingResource class>>#externalCustomIssue234ShortMasterSHA
+MetacelloScriptingResource class>>#externalCustomIssue234ShortSHA
+MetacelloScriptingResource>>#configurationExternalRef092:
+MetacelloScriptingResource>>#setUpConfigurationExternalRefdkh1
+MetacelloScriptingResource>>#setUpConfigurationExternalRefdkh2:
+MetacelloScriptingResource>>#conflictOf20:
+MetacelloScriptingResource>>#conflictOf21:
+MetacelloScriptingResource>>#unstableVersionOfX:
+MetacelloScriptingResource>>#baselineIssue215:
+MetacelloScriptingResource>>#configuration098Issue215:
+MetacelloScriptingResource>>#setUpBaselineIssue215
+MetacelloScriptingResource>>#setUpConfigurationIssue339
+MetacelloScriptingResource>>#version100Issue339:
+MetacelloScriptingResource>>#lockConfiguration12:
+MetacelloScriptingResource>>#lockConfiguration13:
+MetacelloScriptingResource>>#lockConfiguration14:
+MetacelloScriptingResource>>#lockConfiguration15:
+MetacelloReferenceTestCase
+MetacelloReferenceTestCase>>#conditionResult:
+MetacelloReferenceTestCase>>#expectedPrintString
+MetacelloReferenceTestCase>>#testReferenceConfig
+MetacelloReferenceTestCase>>#testReferenceConfigPrintString
+MetacelloToolBox class>>#createBaselineOf:requiredProjects:packages:repositories:dependencies:groups:
+MetacelloToolBox class>>#validateBaseline:
+MetacelloToolBox class>>#validateBaseline:debug:recurse:
+MetacelloToolBox>>#addBaselineOfSection:requiredProjects:packages:dependencies:groups:versionSpecsDo:
+MetacelloToolBox>>#addBaselineOfSection:requiredProjects:packages:dependencies:includes:files:repositories:preLoadDoIts:postLoadDoIts:supplyingAnswers:groups:versionSpecsDo:
+MetacelloToolBox>>#addBaselineOfSection:requiredProjects:packages:repositories:dependencies:groups:versionSpecsDo:
+MetacelloToolBox>>#commitBaselineOfMethod
+MetacelloToolBox>>#createBaselineOfMethod:inCategory:
+MetacelloToolBox>>#methodSectionsFrom:do:
+MetacelloToolBox>>#classicCreateProjectReferenceSpec:
+MCFileTreeRepository class>>#urlAsFileReference:
+MCFileTreeRepository>>#goferVersionFrom:
+MCFileTreeStCypressReader>>#addMethodDefinitionsForClass:methodProperties:in:extensionMethod:
+MCFileTreeStCypressReader>>#validateClassCategory:for:
+MCFileTreeStCypressReader>>#validateExtensionMethodCategory:for:selector:
+MCFileTreeStCypressReader>>#verifyCategory:matches:
+MCFileTreeStCypressWriter class>>#fileNameForSelector:
+MCFileRepositoryInspector>>#refresh
+String>>#cypressEscapeCharacter:on:
+String>>#cypressEscapeCharactersOn:
+ScriptLoader>>#update50491
+Metacello>>#fetch
+Metacello>>#fetch:
+Metacello>>#get
+Metacello>>#list
+Metacello>>#load
+Metacello>>#load:
+Metacello>>#lock
+Metacello>>#record
+Metacello>>#record:
+Metacello>>#unlock
+MetacelloAbstractConstructor>>#extractPragmas:for:into:
+MetacelloAbstractConstructor>>#extractPragmas:into:
+MetacelloAbstractPackageSpec>>#postCopy
+MetacelloAbstractPackageSpec>>#mergeSpec:
+MetacelloAbstractPackageSpec>>#configMethodBodyOn:hasName:cascading:indent:
+MetacelloAbstractPackageSpec>>#configMethodCascadeOn:member:last:indent:
+MetacelloAbstractPackageSpec>>#configMethodOn:for:selector:cascading:cascade:indent:
+MetacelloAbstractPackageSpec>>#includesForPackageOrdering
+MetacelloAbstractVersionConstructor>>#setPackage:withString:
+MetacelloAbstractVersionConstructor>>#setProject:withString:
+MetacelloAbstractVersionConstructor>>#import:
+MetacelloAbstractVersionConstructor>>#loads:
+MetacelloAbstractVersionConstructor>>#validateDoItSelector:
+MetacelloAllowConflictingProjectUpgrade>>#defaultAction
+MetacelloAllowLockedProjectChange>>#checkAllowed
+MetacelloGenericProjectSpec>>#mergeSpec:
+MetacelloGroupSpec>>#configMethodCascadeOn:member:last:indent:
+MetacelloGroupSpec>>#configMethodOn:indent:
+MetacelloMemberListSpec>>#addMember:
+MetacelloMemberSpec>>#applyAdd:copy:merge:remove:
+MetacelloMergeMemberSpec>>#applyAdd:copy:merge:remove:
+MetacelloPackagesSpec>>#copy:to:
+MetacelloPlatform class>>#initialize
+MetacelloPlatform>>#defaultPlatformAttributes
+MetacelloPlatform>>#createRepository:
+MetacelloPlatform>>#extractTypeFromDescription:
+MetacelloPlatform>>#packageInfoFor:
+MetacelloPlatform>>#suspendSystemUpdateEventsDuring:
+MetacelloProject>>#symbolicVersionMap
+MetacelloProject>>#symbolicVersionMap:
+MetacelloProject>>#load:
+MetacelloProject>>#attributes
+MetacelloProject>>#excludeFromLatestVersion
+MetacelloProject>>#sortedAndFilteredVersions
+MetacelloProject>>#latestVersionMatching:
+MetacelloProject>>#latestVersionMatching:excludedBlessings:
+MetacelloProject>>#latestVersionMatching:includedBlessings:
+MetacelloProjectReferenceSpec>>#postCopy
+MetacelloProjectRegistration class>>#copyRegistryRestoreOnErrorWhile:
+MetacelloProjectRegistration
+MetacelloProjectRegistration>>#baseName
+MetacelloProjectRegistration>>#baselineProjectSpecIfAbsent:
+MetacelloProjectRegistration>>#baselineProjectSpecIfPresent:ifAbsent:
+MetacelloProjectRegistration>>#baselineProjectSpec:
+MetacelloProjectRegistration>>#configurationProjectSpec:
+MetacelloProjectRegistration>>#merge:
+MetacelloProjectRegistration>>#projectSpec
+MetacelloProjectRegistration>>#lookupBaselineSpec
+MetacelloProjectRegistration>>#lookupConfigurationSpec
+MetacelloProjectRegistration>>#printOn:
+MetacelloProjectRegistration>>#currentlyLoadedClassesInProject
+MetacelloProjectRegistration>>#canUpgradeTo:
+MetacelloProjectRegistration>>#hasLoadConflicts:
+MetacelloProjectRegistration>>#isValid
+MetacelloProjectRegistry>>#primeRegistryFromImage
+MetacelloProjectRegistry>>#primeRegistryFromImage:baselineClasses:
+MetacelloProjectRegistry>>#registrationForClassNamed:ifAbsent:
+MetacelloProjectRegistry>>#registerProjectRegistration:
+MetacelloProjectSpec>>#addToMetacelloPackages:
+MetacelloProjectSpec>>#configMethodBodyOn:indent:
+MetacelloProjectSpec>>#configShortCutMethodOn:member:indent:
+MetacelloProjectSpec>>#versionOrNil
+MetacelloProjectSpec>>#hasNoLoadConflicts:
+MetacelloProjectSpecForLoad>>#performLoad
+MetacelloRemoveMemberSpec>>#applyAdd:copy:merge:remove:
+MetacelloScriptApiExecutor>>#executeString:do:
+MetacelloScriptEngine>>#get
+MetacelloScriptEngine>>#getBaselineUnconditionalLoad:
+MetacelloScriptEngine>>#lookupProjectSpecFor:
+MetacelloScriptExecutor>>#singleRoot
+MetacelloScriptExecutor>>#singleRoot:
+MetacelloScriptExecutor>>#list
+MetacelloScriptExecutor>>#executeString:do:
+MetacelloScriptExecutor>>#execute:
+MetacelloScriptRegistryExecutor>>#prime
+MetacelloScriptRegistryExecutor>>#remove
+MetacelloScriptRegistryExecutor>>#reset
+MetacelloSemanticVersionNumber>>#decrementMinorVersionNumber
+MetacelloSemanticVersionNumber>>#incrementMinorVersionNumber
+MetacelloSpec>>#postCopy
+MetacelloSpec>>#doItBlock:
+MetacelloSpec>>#postLoadDoItBlock
+MetacelloSpec>>#preLoadDoItBlock
+MetacelloSpec>>#aboutToCopy
+MetacelloSpec>>#mergeMap
+MetacelloSpec>>#configMethodOn:
+MetacelloSpec>>#configMethodOn:indent:
+MetacelloSpec>>#printOn:
+MetacelloToolBoxConstructor>>#methodSectionsDo:
+MetacelloToolBoxConstructor>>#extractMethodSectionsFor:
+MetacelloToolBoxConstructor>>#extractSymbolicVersionSpecsFor:
+MetacelloVersion>>#printOn:
+MetacelloVersion>>#groups
+MetacelloVersion>>#packageNamed:
+MetacelloVersion>>#projects
+MetacelloVersionConstructor>>#spawnPackageMethodIn:category:named:sourceVersion:targetVersion:blessing:
+MetacelloVersionConstructor>>#updatePackageMethodIn:sourceVersion:
+MetacelloVersionConstructor>>#collectAllVersionsFromVersionImportPragmasInto:using:satisfiedPragmas:
+MetacelloVersionConstructor>>#commonDefaultSymbolicVersionResolverBlock
+MetacelloVersionConstructor>>#defaultSymbolicVersionResolverBlock
+MetacelloVersionConstructor>>#validateVersionString:againstSpec:
+MetacelloVersionNumber>>#hash
+MetacelloVersionNumber>>#match:
+MetacelloVersionNumber>>#printOn:
+MetacelloVersionNumber>>#compareLessThan:
+MetacelloVersionSpec
+MetacelloVersionSpec>>#import:
+MetacelloVersionSpec>>#expandToLoadableSpecNames:
+MetacelloVersionSpec>>#resolveToLoadableSpecs:
+MetacelloVersionSpec>>#resolveToLoadableSpecs:forLoad:map:
+MetacelloVersionSpec>>#configPackagesSpecMethodOn:indent:
+MetacelloVersionSpec>>#configSpawnMethodOn:indent:
+MetacelloVersionSpec>>#packageNamed:forLoad:forMap:ifAbsent:
+MetacelloVersionSpec>>#packageSpecsInLoadOrder
+MetacelloVersionValidator class>>#validateProject:version:
+MetacelloVersionValidator class>>#validateProject:version:debug:
+MetacelloVersionValidator>>#recordValidationCriticalWarning:callSite:reasonCode:
+MetacelloVersionValidator>>#recordValidationError:callSite:reasonCode:
+MetacelloVersionValidator>>#recordValidationWarning:callSite:reasonCode:
+Collection>>#addToMetacelloPackages:
+Collection>>#mergeIntoMetacelloPackages:
+Collection>>#removeFromMetacelloPackages:
+MCRepository>>#flushForScriptGet
+String>>#mergeIntoMetacelloPackages:
+MCGitHubRepository class>>#downloadCacheKey:version:
+MCGitHubRepository class>>#defaultCacheDirectory
+MCGitHubRepository class>>#projectDirectoryFrom:version:
+MCGitHubRepository>>#directory
+MCGitHubRepository class>>#downloadCache
+MCGitHubRepository class>>#flushDownloadCache
+MCGitHubRepository class>>#cacheDirectory
+MCGitHubRepository class>>#cacheDirectory:
+MCGitHubRepository class>>#resetCacheDirectoryIfInvalid
+MCGitHubRepository
+MetacelloAtomicLoadDirective>>#loadAtomicLoadDirective:gofer:
+MetacelloAtomicLoadDirective>>#loadUsing:gofer:
+MetacelloAtomicLoadDirective>>#directivesDo:
+MetacelloAtomicLoadDirective>>#prepostLoadsDo:
+MetacelloCommonMCSpecLoader>>#load
+MetacelloCommonMCSpecLoader>>#loadPackageDirective:gofer:
+MetacelloCommonMCSpecLoader>>#loadPackageDirectives:gofer:
+MetacelloCommonMCSpecLoader>>#linearLoadPackageSpecs:repositories:
+MetacelloCommonMCSpecLoader>>#resolvePackageSpec:gofer:
+MetacelloCommonMCSpecLoader>>#repositoriesFrom:ignoreOverrides:
+MetacelloCommonMCSpecLoader>>#ancestorsFor:
+MetacelloCommonMCSpecLoader>>#currentVersionInfoFor:
+MetacelloConfigTemplate class>>#DevelopmentSupport
+MetacelloConfigTemplate class>>#baseConfigurationClassIfAbsent:
+MetacelloConfigTemplate class>>#ensureMetacelloBaseConfiguration
+MetacelloConfigTemplate>>#customProjectAttributes
+MetacelloConfigTemplate>>#project
+MetacelloConfigTemplateExample class>>#DevelopmentSupport
+MetacelloConfigTemplateExample class>>#baseConfigurationClassIfAbsent:
+MetacelloConfigTemplateExample>>#development:
+MetacelloConfigTemplateExample>>#stable:
+MetacelloDirective>>#packageDo:
+MetacelloDirective>>#postLoadDo:
+MetacelloDirective>>#versionDo:
+MetacelloDirective>>#packageDirectivesDo:
+MetacelloDirective>>#prepostLoadDirectivesDo:
+MetacelloDirective>>#prepostLoadDo:
+MetacelloDirective>>#versionDirectivesDepthFirstDo:
+MetacelloDirective>>#versionDirectivesDo:
+MetacelloDirective>>#printOn:indent:
+MetacelloEnsureFetchingMCSpecLoader>>#scheduleFetchFor:cachedReference:
+MetacelloEnsureFetchingMCSpecLoader>>#scheduleFetchFor:nearestReference:
+MetacelloExplicitLoadDirective>>#explicitLoadUsing:gofer:
+MetacelloExplicitLoadDirective>>#loadUsing:gofer:
+MetacelloFetchingMCSpecLoader>>#linearLoadPackageSpec:gofer:
+MetacelloFetchingMCSpecLoader>>#postLoad:
+MetacelloFetchingMCSpecLoader>>#preLoad:
+MetacelloFetchingMCSpecLoader>>#atomicLoadPackageSpecs:repositories:
+MetacelloFetchingMCSpecLoader>>#resolveDependencies:nearest:into:
+MetacelloFetchingMCSpecLoader>>#resolvePackageSpec:cachedGofer:
+MetacelloFetchingMCSpecLoader>>#scheduleFetchFor:externalReference:
+MetacelloGoferLoad>>#updateRepositories
+MetacelloGoferPackage class>>#packageFileName:matchesPackageName:
+MetacelloGoferPackage>>#matchesWorkingCopy:
+MetacelloGoferPackage>>#matches:
+MetacelloLinearLoadDirective>>#loadUsing:gofer:
+MetacelloLoaderPolicy class>>#overrideRepositories:
+MetacelloLoaderPolicy>>#loadData
+MetacelloLoaderPolicy>>#pushAtomicLoadDirectivesDuring:for:
+MetacelloLoaderPolicy>>#pushLinearLoadDirectivesDuring:for:
+MetacelloLoaderPolicy>>#initialize
+MetacelloLoaderPolicy>>#pushLoadDirective:during:
+MetacelloLoadingMCSpecLoader>>#latestPackage:fromRepository:
+MetacelloLoadingMCSpecLoader>>#linearLoadPackageSpec:gofer:
+MetacelloMCBaselineOfProjectSpec>>#copyForRegistration:onWrite:
+MetacelloMCBaselineOfProjectSpec>>#canUpgradeTo:
+MetacelloMCBaselineProject>>#projectForScriptEngine:unconditionalLoad:
+MetacelloMCConfigurationOfProjectSpec>>#copyForRegistration:onWrite:
+MetacelloMCProject>>#setBaselineRepositoryDescription:
+MetacelloMCProject>>#fetchProject:
+MetacelloMCProject>>#projectPackage
+MetacelloMCProject>>#projectSpecClass
+MetacelloMCProjectSpec>>#packageFileSpecFor:
+MetacelloMCProjectSpec>>#ensureConfigurationLoaded:ensured:
+MetacelloMCProjectSpec>>#ensureLoadUsing:
+MetacelloMCProjectSpec>>#asProjectRegistration
+MetacelloMCProjectSpec>>#compareRelativeCurrentVersion:targetVersionStatus:using:
+MetacelloMCVersion>>#fetch:
+MetacelloMCVersion>>#load:
+MetacelloMCVersion>>#record:
+MetacelloMCVersion>>#allPackagesForSpecs:visited:
+MetacelloMCVersion>>#doFetchRequiredFromArray:
+MetacelloMCVersion>>#doLoadRequiredFromArray:
+MetacelloMCVersion>>#allPackagesForSpecNamed:ifAbsent:
+MetacelloMCVersion>>#packages
+MetacelloMCVersionSpec>>#packagesNeedSavingVisited:into:
+MetacelloMCVersionSpec>>#updateForSpawnMethod:
+MetacelloMCVersionSpec>>#packageSpecsInLoadOrderForMap:
+MetacelloMCVersionSpec>>#isSomethingLoadedAgainst:
+MetacelloMCVersionSpecLoader>>#load
+MetacelloMCVersionValidator class>>#validateConfigurationLoad:version:
+MetacelloMCVersionValidator>>#validateVersionSpec:
+MetacelloNullRecordingMCSpecLoader>>#doingLoads:
+MetacelloNullRecordingMCSpecLoader>>#resolveRecordingPackageSpecReference:gofer:
+MetacelloNullRecordingMCSpecLoader>>#currentVersionInfoFor:
+MetacelloPackageSpec>>#postCopy
+MetacelloPackageSpec>>#goferCommitPackage:
+MetacelloPackageSpec>>#savePackage
+MetacelloPackageSpec>>#updatePackageRepositoriesFor:
+MetacelloPackageSpec>>#updatePackageRepositories:
+MetacelloPackageSpec>>#explicitLoadUsing:
+MetacelloPackageSpec>>#fetchUsing:
+MetacelloPackageSpec>>#loadUsing:
+MetacelloPackageSpec>>#includesForPackageOrdering
+MetacelloPackageSpec>>#resolveToPackagesIn:visited:
+MetacelloPackageSpec>>#file
+MetacelloPackageSpec>>#compareCurrentVersion:targetVersionStatus:using:
+MetacelloPackageSpec>>#compareRelativeCurrentVersion:targetVersionStatus:using:
+MetacelloPostLoadDirective>>#loadUsing:gofer:
+MetacelloPreLoadDirective>>#loadUsing:gofer:
+MetacelloRepositoriesSpec>>#hasNoLoadConflicts:
+MetacelloRepositorySpec>>#createRepository
+MetacelloRepositorySpec>>#hasNoLoadConflicts:
+MetacelloRepositorySpec>>#configMethodCascadeOn:lastCascade:
+MetacelloVersionLoadDirective>>#versionDirectivesDepthFirstDo:
+MetacelloVersionLoadDirective>>#versionDo:
+Collection>>#addToMetacelloRepositories:
+Collection>>#mergeIntoMetacelloRepositories:
+Collection>>#removeFromMetacelloRepositories:
+MCFileBasedRepository>>#versionInfoFromVersionNamed:
+MCRepository>>#projectVersion:
+MetacelloAbstractPackageSpec>>#packagesNeedSavingVisited:using:into:
+MetacelloAbstractPackageSpec>>#resolveToAllPackagesIn:visited:
+MetacelloAbstractPackageSpec>>#updatePackageRepositoriesFor:
+MetacelloAbstractPackageSpec>>#updatePackageSpec:using:
+MetacelloGroupSpec>>#resolveToPackagesIn:into:visited:
+MetacelloGroupSpec>>#resolveToPackagesIn:visited:
+MetacelloMemberSpec>>#mergeIntoMetacelloRepositories:
+MetacelloMemberSpec>>#removeFromMetacelloRepositories:
+MetacelloProjectReferenceSpec>>#updateForSpawnMethod:
+String>>#mergeIntoMetacelloRepositories:
+String>>#packageFileSpecFor:
+MetacelloPharoCommonPlatform>>#extractRepositoryFrom:to:
+MetacelloPharoCommonPlatform>>#copyClass:as:inCategory:
+MetacelloTestsPackageSet
+MetacelloDictionaryRepositoryTest
+MetacelloDictionaryRepositoryTest>>#setUp
+MetacelloDictionaryRepositoryTest>>#tearDown
+MetacelloMCVersionSpecTestCase>>#testMCVersionSpec
+MetacelloConfigurationResource>>#baseline15ProjectFie:
+MetacelloConfigurationResource>>#baseline25ProjectFie:
+MetacelloConfigurationResource>>#setUp
+MetacelloMonticelloResource>>#setUpVersionReferences
+MetacelloScriptingResource>>#setUpConfigurationExternalRef
+MetacelloScriptingResource>>#setUpConfigurationOfConflict
+MetacelloScriptingResource>>#setUpConfigurationOfExternalXdkh1
+MetacelloScriptingResource>>#setUpConfigurationOfExternalXdkh2:
+MetacelloScriptingResource>>#setUpConfiguration181
+MetacelloScriptingResource>>#lockConfiguration11:
+MetacelloScriptingResource>>#setUpLockConfigurations
+MetacelloScriptingResource>>#setUp
+MetacelloRepositorySqueakCommonTestCase>>#testAsRepositorySpecFor
+MetacelloRepositorySqueakCommonTestCase>>#testDirectoryRepository
+MetacelloRepositorySqueakCommonTestCase>>#testFileTreeRepository
+MetacelloToolBox class>>#createDevelopment:for:importFromBaseline:description:
+MetacelloToolBox class>>#saveModifiedDevelopmentPackages:for:description:
+MetacelloToolBox>>#baselineNamed:
+MetacelloToolBox>>#configurationNamed:
+MetacelloToolBox>>#createConfiguration:
+MetacelloToolBox>>#createProjectReferenceSpec:
+MCFileTreeAbstractReader>>#packageProperties
+MCFileTreeAbstractReader>>#hasMonticelloMetadata
+MCFileTreeAbstractReader>>#definitionFromFile:inDirectory:
+MCFileTreeJsonParser>>#parseCharacter
+MCFileTreePackageStructureStWriter>>#writeMethodPreamble:
+MCFileTreeRepository class>>#urlSchemes
+MCFileTreeRepository class>>#basicFromUrl:
+MCFileTreeStCypressReader>>#addClassDefinitionFrom:comment:
+MCFileTreeStCypressReader>>#addExtensionClassAndMethodDefinitionsFromEntry:
+MCFileTreeStCypressReader>>#addMethodDefinitionsForClass:methodProperties:in:
+MCFileTreeStCypressWriter>>#fileNameForSelector:
+String>>#writeCypressJsonOn:forHtml:indent:
+ScriptLoader>>#script50490
+ScriptLoader>>#commentForCurrentUpdate
+MetacelloPharoCommonPlatform>>#tempFileFor:suffix:
+MetacelloPlatform>>#extractRepositoryFrom:to:
+MetacelloProjectSpec>>#hasLoadConflicts:
+MetacelloScriptGitHubDownloadNotification>>#projectPath
+MetacelloScriptGitHubDownloadNotification>>#projectPath:
+MetacelloScriptGitHubDownloadNotification>>#versionString
+MetacelloScriptGitHubDownloadNotification>>#versionString:
+MCGitHubRepository class>>#downloadCacheKey:version:
+MCGitHubRepository class>>#isAbstract
+MCGitHubRepository class>>#initialize
+MCGitHubRepository class>>#location:
+MCGitHubRepository class>>#location:version:
+MCGitHubRepository class>>#cacheDirectoryFor:
+MCGitHubRepository class>>#defaultCacheDirectory
+MCGitHubRepository class>>#startUp:
+MCGitHubRepository class>>#flushProjectEntry:version:
+MCGitHubRepository class>>#projectDirectoryFrom:version:
+MCGitHubRepository>>#directory
+MCGitHubRepository>>#metacelloProjectClassFor:
+MCGitHubRepository>>#projectPath
+MCGitHubRepository>>#projectPath:
+MCGitHubRepository>>#projectVersion
+MCGitHubRepository>>#repoPath:
+MCGitHubRepository>>#hash
+MCGitHubRepository>>#directoryDescription
+MCGitHubRepository>>#flushForScriptGet
+MCGitHubRepository>>#initialize
+MCGitHubRepository>>#isValid
+MCVersionLoader>>#versions
+MetacelloTestsPackageSet
+MetacelloTestsPackageSet>>#extensionMethods
+MetacelloTestsPackageSet>>#overriddenMethods
+MetacelloTestsMCPackage>>#packageInfo
+MetacelloTestsMCPackage>>#packageSet
+MCFileTreeRepository>>#writeRepositoryProperties
+MCMethodDefinition>>#setTimeStamp:
+ScriptLoader>>#script50490

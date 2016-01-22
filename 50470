@@ -1,0 +1,14 @@
+Date class>>#dayNames
+Date class>>#daysInMonth
+Date class>>#monthNames
+ScriptLoader>>#update50470
+SugsWatchpointSuggestion>>#selectedNodeHasWatchpoint
+Year>>#daysInMonth
+MCFileTreeAbstractReader>>#hasMonticelloMetadata
+WatchpointWindow>>#setupMenu
+ScriptLoader>>#script50469
+ScriptLoader>>#commentForCurrentUpdate
+SugsMockContext>>#message:
+SugsWatchpointSuggestion>>#label
+SugsWatchpointSuggestion>>#isValidForContext
+ScriptLoader>>#script50469

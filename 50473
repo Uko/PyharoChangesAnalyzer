@@ -1,0 +1,15 @@
+NautilusUI>>#toggleBreakConditionOnEntryIn:
+NautilusUI>>#toggleBreakOnceOnEntryIn:
+NautilusUI>>#toggleBreakpointCondition
+NautilusUI>>#toggleBreakpointOnce
+ScriptLoader>>#update50473
+AbstractNautilusUI>>#selectedClassOrMetaClass
+MethodContainsBreakAction>>#privateActionIcon
+MethodWidget class>>#elementsMenu:
+NautilusUI>>#toggleBreakPoint
+RFASTTranslator>>#visitAssignmentNode:
+ScriptLoader>>#script50472
+ScriptLoader>>#commentForCurrentUpdate
+AbstractTool>>#defineTrait:notifying:
+NautilusUI>>#toggleBreakPoint
+ScriptLoader>>#script50472

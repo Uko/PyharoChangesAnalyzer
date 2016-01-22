@@ -1,0 +1,14 @@
+AthensCairoMatrix>>#postCopy
+AthensCairoMatrixTest
+AthensCairoMatrixTest>>#testCopy
+AthensCairoMatrixTest>>#testInverted
+TestCase class>>#hasTestSelectors
+ScriptLoader>>#update50511
+AthensCairoMatrix>>#copyFromMatrix:
+AthensCairoMatrix>>#restoreAfter:
+NativeBoost class>>#isEnabled
+AbstractNautilusUI>>#classIconFor:
+ScriptLoader>>#script50510
+ScriptLoader>>#commentForCurrentUpdate
+MorphicLabelAdapter>>#buildWidget
+ScriptLoader>>#script50510

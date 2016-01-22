@@ -1,0 +1,17 @@
+ConfigurationOfRubric>>#version1217:
+RubSmalltalkEditorModel>>#interactionModel:
+ScriptLoader>>#update50108
+ExternalChangesBrowser class>>#browseRecentLog
+ConfigurationOfRubric>>#stable:
+RubMethodEditingExample>>#textModel
+RubSmalltalkEditorModel
+RubSmalltalkEditorModel>>#shoutAboutToStyle:
+RubSmalltalkScriptEditorModel>>#hasBindingOf:
+RubSmalltalkScriptEditorModel>>#hasBindingThatBeginsWith:
+RubTextEditor class>>#buildShortcutsOn:
+RubTextEditor>>#compareToClipboard
+RubWorkspaceExample>>#initialize
+ScriptLoader>>#script50107
+ScriptLoader>>#commentForCurrentUpdate
+WorldMorph>>#startSteppingSubmorphsOf:
+ScriptLoader>>#script50107

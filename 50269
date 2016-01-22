@@ -1,0 +1,10 @@
+ScriptLoader>>#update50269
+RecentMessageList>>#open
+RBModifiesCollectionRule>>#modifiesTree:in:
+ScriptLoader>>#script50268
+ScriptLoader>>#commentForCurrentUpdate
+TemporaryVariable>>#hash
+TemporaryVariable>>#ensureProperties
+TemporaryVariable>>#removePropertiesIfEmpty
+MessageBrowser>>#selectedMethod
+ScriptLoader>>#script50268

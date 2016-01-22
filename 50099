@@ -1,0 +1,7 @@
+ClassTest>>#testSuperclassOrder
+ClassTest>>#testSuperclassOrderPreservingOrder
+ScriptLoader>>#update50099
+ScriptLoader>>#script50098
+ScriptLoader>>#commentForCurrentUpdate
+TClass class>>#superclassOrder:
+ScriptLoader>>#script50098

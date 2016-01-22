@@ -1,0 +1,49 @@
+Random>>#next:into:
+Random>>#seed:
+Random>>#privateNextSeed
+Random>>#privateNextValue
+Random>>#seed
+RandomTest>>#testIfCompletelyBroken
+RandomTest>>#testNext
+SharedRandom class>>#globalGenerator
+SharedRandom class>>#initialize
+SharedRandom
+SharedRandom>>#next
+SharedRandom>>#nextInt:
+SharedRandom>>#next:into:
+SharedRandom>>#initialize
+ScriptLoader>>#update50381
+Context class>>#basicNew:
+Context>>#shortDebugStack
+Context>>#debugStackOn:
+Context>>#debugStack:on:
+Context>>#printOn:
+Exception>>#freeze
+Random
+Random>>#next
+Random>>#nextInt:
+Random>>#initialize
+RandomTest
+Collection>>#atRandom
+Integer>>#atRandom
+ScriptLoader>>#script50380
+ScriptLoader>>#commentForCurrentUpdate
+Random class>>#seed:
+Random class>>#bucketTest:
+Random
+Random>>#next
+Random>>#nextInt:
+Random>>#next:
+Random>>#initialize
+RandomTest
+RandomTest>>#setUp
+Collection>>#atRandom
+Collection>>#atRandom:
+Integer>>#atRandom
+Integer>>#atRandom:
+Matrix>>#atRandom
+Matrix>>#atRandom:
+SequenceableCollection>>#atRandom:
+Set>>#atRandom:
+SetTest>>#testAtRandom
+ScriptLoader>>#script50380

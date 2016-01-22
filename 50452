@@ -1,0 +1,17 @@
+MorphTest>>#testHaloIsDisable
+ScriptLoader>>#update50452
+ExternalBrowser>>#showClassDefinition
+Morph>>#addHalo:
+NautilusUI>>#metaLinkModified:
+ReflectiveMethod>>#installLink:
+ReflectiveMethod>>#removeLink:
+ScriptLoader>>#script50451
+ScriptLoader>>#commentForCurrentUpdate
+SugsBreakAlwaysSuggestion>>#label
+SugsBreakConditionSuggestion>>#label
+SugsBreakOnceSuggestion>>#label
+ExternalBrowser>>#wireClasses
+ReflectiveMethod>>#decreaseLinkCount
+ReflectiveMethod>>#increaseLinkCount
+ReflectiveMethod>>#installLink:
+ScriptLoader>>#script50451

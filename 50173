@@ -1,0 +1,28 @@
+ConfigurationOfCatalog>>#version06:
+AbstractNautilusUI>>#navigationAreaProportion
+ReflectivityLinkTest>>#testUninstallLinkAndRunOptionNoJIT
+MetaLink>>#options:
+ReflectiveMethod>>#compileAndInstallCompiledMethod
+ReflectiveMethod>>#installLink:
+CompiledMethod>>#installLink:
+ScriptLoader>>#update50173
+CatalogCommandLineHandler class>>#commandName
+CatalogCommandLineHandler class>>#description
+CatalogCommandLineHandler
+CatalogCommandLineHandler>>#projectName
+CatalogCommandLineHandler>>#version
+CatalogCommandLineHandler>>#activate
+CatalogCommandLineHandler>>#getProject
+CatalogCommandLineHandler>>#warning:
+CatalogProject>>#installVersion:
+ConfigurationOfCatalog>>#stable:
+AbstractNautilusUI>>#addAll:
+AbstractNautilusUI>>#buildColumns:height:
+NautilusWindow>>#initialExtent
+MetaLinkTest>>#testLinkOption
+ReflectiveMethod>>#run:with:in:
+RBProgramNode>>#link:
+ScriptLoader>>#script50172
+ScriptLoader>>#commentForCurrentUpdate
+MetaLink>>#option:
+ScriptLoader>>#script50172

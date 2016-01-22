@@ -1,0 +1,7 @@
+ScriptLoader>>#update50011
+RBEquivalentSuperclassMethodsRule>>#ignoredSelectors
+RBEquivalentSuperclassMethodsRule>>#checkMethod:
+ClassTestCase>>#testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses
+ScriptLoader>>#script619
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script619

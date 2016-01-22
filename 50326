@@ -1,0 +1,14 @@
+ScriptLoader>>#update50326
+Slot>>#scope:
+SourceFileArray>>#changeRecordsFor:
+AnnotationRequest>>#priorVersionsCount
+RecentMessageList>>#revertLastMethodSubmission
+ReflectivityControlTest>>#testAfterBlockSequence
+RFASTTranslatorForValue>>#visitSequenceNode:
+ScriptLoader>>#script50325
+ScriptLoader>>#commentForCurrentUpdate
+LayoutAbstractScope>>#extend:as:
+NewVersionBrowser>>#buildChangeList
+SourceFileArray>>#changeRecordsFor:do:
+MethodFinder>>#initialize
+ScriptLoader>>#script50325

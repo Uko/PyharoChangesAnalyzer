@@ -1,0 +1,167 @@
+ScriptLoader>>#homeRepositoryUrlString
+ScriptLoader>>#inboxRepositoryUrlString
+ScriptLoader>>#update50001
+ScriptLoader>>#commentForCurrentUpdate
+PharoShortcuts>>#copySelectionShortcut
+PharoShortcuts>>#cursorEndShortcut
+PharoShortcuts>>#cursorHomeShortcut
+PharoShortcuts>>#cutShortcut
+PharoShortcuts>>#findAgainShortcut
+PharoShortcuts>>#findShortcut
+PharoShortcuts>>#pasteShortcut
+PharoShortcuts>>#redoShortcut
+PharoShortcuts>>#selectAllShortcut
+PharoShortcuts>>#setSearchStringShortcut
+PharoShortcuts>>#toggleCommentOnSelectionOrLine
+PharoShortcuts>>#undoShortcut
+KomitNewSlice>>#remote
+MCHttpRepository class>>#pharoLocations
+MCHttpRepository class>>#pharoInboxRepository
+MCHttpRepository class>>#pharoRepository
+Loader
+ScriptLoader class>>#initialize
+ScriptLoader
+ScriptLoader>>#loadLatestScriptloader
+ScriptLoader>>#script609
+SmalltalkImage>>#metacelloPlatformAttributes
+TextEditor class>>#buildTextEditorShortcutsOn:
+PharoShortcuts>>#cancelShortcut
+Loader class>>#packageToBeTestedFolderName
+Loader class>>#waitingCacheFolder
+Loader
+Loader>>#currentMajorVersionNumber
+Loader>>#currentMajorVersionNumberWithoutDot
+Loader>>#currentChangedPackages
+Loader>>#currentVersionsToBeSaved
+Loader>>#diffPackages
+Loader>>#initialize
+Loader>>#allCurrentVersions
+Loader>>#markPackagesBeforeNewCodeIsLoaded
+Loader>>#packagesNotToSavePatternNames
+Loader>>#resetPackagesBeforeLastLoad
+Loader>>#theScriptLoaderPackageName
+ScriptLoader class>>#gofer
+ScriptLoader class>>#initialize
+ScriptLoader class>>#currentlyIntegratingChanges
+ScriptLoader class>>#hideIntegrationMenu
+ScriptLoader class>>#menuCommandOn:
+ScriptLoader class>>#showIntegrationMenu
+ScriptLoader class>>#theme
+ScriptLoader class>>#defaultMCWaitingFolder
+ScriptLoader class>>#loadLatestPackage:fromHub:
+ScriptLoader class>>#loadLatestPackage:fromRepository:
+ScriptLoader class>>#loadLatestPackage:from:
+ScriptLoader class>>#rootURLString
+ScriptLoader class>>#checkImageInSyncWithUpdate
+ScriptLoader class>>#checkImageInSyncWithUpdate:
+ScriptLoader class>>#currentMajorVersionNumber
+ScriptLoader class>>#currentMajorVersionNumber:
+ScriptLoader class>>#releaseMenu
+ScriptLoader class>>#latestSource:location:
+ScriptLoader class>>#latestVersionOf:location:
+ScriptLoader
+ScriptLoader>>#allManagers
+ScriptLoader>>#diffServerRootString
+ScriptLoader>>#gofer
+ScriptLoader>>#inboxRepository
+ScriptLoader>>#inboxRepositoryDefault
+ScriptLoader>>#repository
+ScriptLoader>>#repositoryTaskForces
+ScriptLoader>>#repository:
+ScriptLoader>>#checkImageIsUptodateSilently
+ScriptLoader>>#compileNewUpdateMethodSilentlyConfigurations:preLoad:postLoad:
+ScriptLoader>>#decodeFromPrint:
+ScriptLoader>>#doneApplyingChangesSilentlyComment:configurations:preLoad:postLoad:
+ScriptLoader>>#doneApplyingChangesSilentlyIssues:preLoad:postLoad:
+ScriptLoader>>#generateScriptAndUpdateMethodForNewVersionSilentlyConfigurations:preLoad:postLoad:
+ScriptLoader>>#launchUpdateSilently
+ScriptLoader>>#loadLatestUpdateListSilently
+ScriptLoader>>#newGenerateNewUpdateMethodSilentlyConfigurations:preLoad:postLoad:
+ScriptLoader>>#prepareNewUpdateSilently
+ScriptLoader>>#publicChangesSilently:user:password:
+ScriptLoader>>#cleanRepositories
+ScriptLoader>>#flushCaches
+ScriptLoader>>#copyPackagesFromWaitingFolderToHomeRepository
+ScriptLoader>>#csForLastUpdateAndPatchUpdatesList:
+ScriptLoader>>#csForLastUpdate:
+ScriptLoader>>#generateScriptAndUpdateMethodForNewVersion
+ScriptLoader>>#loadLatestScriptloader
+ScriptLoader>>#loadPackageFromWaitingFolder
+ScriptLoader>>#mergePackageFromWaitingFolder
+ScriptLoader>>#saveChangedPackagesIntoWaitingFolder
+ScriptLoader>>#saveLatestScriptLoaderToHome
+ScriptLoader>>#saveLatestScriptLoaderToWaitingFolder
+ScriptLoader>>#updateStageList:
+ScriptLoader>>#updateUpdatesList:
+ScriptLoader>>#installVersionInfo
+ScriptLoader>>#unloadPackageNamed:
+ScriptLoader>>#workingCopyFromPackageName:
+ScriptLoader>>#compileNewUpdateMethod
+ScriptLoader>>#compileScriptMethodWithCurrentPackages:
+ScriptLoader>>#currentScriptVersionNumber
+ScriptLoader>>#currentUpdateVersionNumber
+ScriptLoader>>#generateCS:fromUpdate:on:
+ScriptLoader>>#generateScriptTemplateWithAllCurrentPackages
+ScriptLoader>>#generateScriptTemplateWithCurrentPackages:
+ScriptLoader>>#getLatestScriptNumber
+ScriptLoader>>#getLatestUpdateNumber
+ScriptLoader>>#rootURLString
+ScriptLoader>>#setUpdateAndScriptVersionNumbers
+ScriptLoader>>#taskForcesRepositoryUrlString
+ScriptLoader>>#writeCS:forUpdate:
+ScriptLoader>>#writeCS:forUpdate:withName:
+ScriptLoader>>#loadConfiguration:version:
+ScriptLoader>>#loadOneAfterTheOther:merge:
+ScriptLoader>>#loadTogether:merge:
+ScriptLoader>>#newerVersionsIn:
+ScriptLoader>>#withUpdateLog:
+ScriptLoader>>#deletePackage:
+ScriptLoader>>#unloadPackage:
+ScriptLoader>>#unregisterPackage:
+ScriptLoader>>#addHomeRepositoryToAllPackages
+ScriptLoader>>#addHomeRepositoryToPackageNamed:
+ScriptLoader>>#addPackage:
+ScriptLoader>>#addRepositoryTaskForcesToAllPackages
+ScriptLoader>>#addRepositoryToPackageNamed:
+ScriptLoader>>#allCurrentDirtyPackages
+ScriptLoader>>#allCurrentPackages
+ScriptLoader>>#currentPackages
+ScriptLoader>>#currentVersions
+ScriptLoader>>#getSliceIssuesNumbers
+ScriptLoader>>#installRepository:for:
+ScriptLoader>>#latestScriptLoaderPackageIdentificationString
+ScriptLoader>>#removeAllHTTPRepositories:
+ScriptLoader>>#removeAllRepositories
+ScriptLoader>>#saveInToReloadCachePackage:with:
+ScriptLoader>>#savePackage:in:with:
+ScriptLoader>>#checkImageIsUptodate
+ScriptLoader>>#doneApplyingChanges
+ScriptLoader>>#prepareNewUpdate
+ScriptLoader>>#publishChanges
+ScriptLoader>>#saveImageForRunningTests
+ScriptLoader>>#verifyNewUpdate
+ScriptLoader>>#newGenerateNewUpdateMethod
+ScriptLoader>>#newGenerateScriptTemplateWithCurrentPackages:
+ScriptLoader>>#script609
+ScriptLoader>>#addRepositoryDefaultToAllPackages
+ScriptLoader>>#announceOnMailingList
+ScriptLoader>>#buildConfigurationMapFor:
+ScriptLoader>>#launchUpdate
+ScriptLoader>>#loadLatestUpdateList
+ScriptLoader>>#loadVersionFromFileNamed:
+ScriptLoader>>#packagesNotToSavePatternNames
+ScriptLoader>>#produceDiffLinksForPackages
+ScriptLoader>>#saveAsImageAsTestImage
+ScriptLoader>>#saveAsNewImageWithCurrentReleaseName
+ScriptLoader>>#saveAsNewImageWithCurrentReleaseNameToPublish
+ScriptLoader>>#setToRepositoriesPassword:to:
+ScriptLoader>>#stagedListFile
+ScriptLoader>>#stagedListFileName
+ScriptLoader>>#updatesListFile
+ScriptLoader>>#updatesListFileName
+ScriptLoader>>#waitingFolderMCZFiles
+ScriptLoader>>#commentForIssues:
+ScriptLoader>>#generateCommentForCurrentUpdate
+ScriptLoader>>#removeScriptMethods
+ScriptLoader>>#removeUpdateMethods
+ScriptLoader>>#shortImageName

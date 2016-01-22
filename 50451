@@ -1,0 +1,41 @@
+ButtonClicked
+ScriptLoader>>#update50451
+SugsBreakAlwaysSuggestion
+SugsBreakAlwaysSuggestion>>#label
+SugsBreakAlwaysSuggestion>>#execute
+SugsBreakConditionSuggestion
+SugsBreakConditionSuggestion>>#label
+SugsBreakConditionSuggestion>>#execute
+SugsBreakConditionSuggestion>>#isValidForContext
+SugsBreakOnceSuggestion
+SugsBreakOnceSuggestion>>#label
+SugsBreakOnceSuggestion>>#execute
+SugsBreakOnceSuggestion>>#isValidForContext
+SugsBreakpointSuggestion>>#selectedNodeHasBreakpoint
+SugsSuggestionFactory class>>#cleanUp
+SugsSuggestionFactory class>>#createBreakConditionCommand
+SugsSuggestionFactory class>>#createBreakOnceCommand
+MultistateButtonMorph>>#addUpAction:
+MultistateButtonMorph>>#mouseDown:
+MultistateButtonMorph>>#mouseUp:
+ScriptLoader>>#script50450
+ScriptLoader>>#commentForCurrentUpdate
+SugsBreakpointSuggestion>>#label
+SugsSuggestionFactory class>>#createBreakAtLineCommand
+MultistateButtonMorph>>#addUpAction:
+MultistateButtonMorph>>#handlesMouseDown:
+MultistateButtonMorph>>#handlesMouseOverDragging:
+MultistateButtonMorph>>#mouseDown:
+MultistateButtonMorph>>#mouseEnterDragging:
+MultistateButtonMorph>>#mouseEnter:
+MultistateButtonMorph>>#mouseLeaveDragging:
+MultistateButtonMorph>>#mouseLeave:
+MultistateButtonMorph>>#mouseUp:
+MultistateButtonMorph>>#extent:
+MultistateButtonMorph>>#handlesMouseOver:
+MultistateButtonMorph>>#privateMoveBy:
+MultistateButtonMorph>>#activate
+MultistateButtonMorph>>#passivate
+ScriptLoader>>#script50450
+SugsBreakpointSuggestion>>#breakpointForCondition
+SugsSuggestionFactory class>>#createBreakAtLineCommand

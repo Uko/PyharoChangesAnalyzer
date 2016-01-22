@@ -1,0 +1,11 @@
+ScriptLoader>>#update50222
+SlotAnnouncementsTest>>#testCreateAndChangeWithoutCommentDoesNotAnnounce
+SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce
+SlotAnnouncementsTest>>#testEmptyCommentDoesNotAnnounce
+SlotAnnouncementsTest>>#testSameCommentDoesNotAnnounce
+MCTool>>#textMorph:
+ScriptLoader>>#script50221
+ScriptLoader>>#commentForCurrentUpdate
+VTermOutputDriver
+TClassDescription>>#classComment:stamp:
+ScriptLoader>>#script50221

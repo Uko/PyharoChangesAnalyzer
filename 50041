@@ -1,0 +1,13 @@
+ScriptLoader>>#update50041
+SugsAbstractContext>>#selectedNode
+SugsBreakpointSuggestion
+SugsBreakpointSuggestion>>#breakpointForCondition
+SugsBreakpointSuggestion>>#breakpointSelectionMenu
+SugsBreakpointSuggestion>>#execute
+SugsBreakpointSuggestion>>#label
+SugsBreakpointSuggestion>>#selectedNodeHasMetalink
+SugsSuggestionFactory class>>#createBreakAtLineCommand
+ScriptLoader>>#script649
+ScriptLoader>>#commentForCurrentUpdate
+OCSlotVariable>>#specialCommands
+ScriptLoader>>#script649

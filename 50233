@@ -1,0 +1,35 @@
+ConfigurationOfNautilusGroupAutoBuilder class>>#project
+ConfigurationOfNautilusGroupAutoBuilder class>>#DevelopmentSupport
+ConfigurationOfNautilusGroupAutoBuilder class>>#validate
+ConfigurationOfNautilusGroupAutoBuilder class>>#load
+ConfigurationOfNautilusGroupAutoBuilder class>>#loadBleedingEdge
+ConfigurationOfNautilusGroupAutoBuilder class>>#loadDevelopment
+ConfigurationOfNautilusGroupAutoBuilder class>>#isMetacelloConfig
+ConfigurationOfNautilusGroupAutoBuilder class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfNautilusGroupAutoBuilder class>>#ensureMetacello
+ConfigurationOfNautilusGroupAutoBuilder class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfNautilusGroupAutoBuilder
+ConfigurationOfNautilusGroupAutoBuilder>>#customProjectAttributes
+ConfigurationOfNautilusGroupAutoBuilder>>#project
+ConfigurationOfNautilusGroupAutoBuilder>>#baseline01:
+ConfigurationOfNautilusGroupAutoBuilder>>#development:
+ConfigurationOfNautilusGroupAutoBuilder>>#stable:
+ConfigurationOfNautilusGroupAutoBuilder>>#version10:
+Morph>>#shouldGetStepsFrom:
+PasteUpMorph>>#shouldGetStepsFrom:
+LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
+LoadedPackagesGroupCreatingCodeProvider
+VSLoadAndCreateNautilusGroupCommand
+VSLoadAndCreateNautilusGroupCommand>>#title
+VSLoadAndCreateNautilusGroupCommand>>#createGroupWithLoadedPackages
+VSLoadAndCreateNautilusGroupCommand>>#execute
+CatalogBrowser>>#createGroupWithLoadedPackagesFrom:
+CatalogBrowser>>#installAndCreateGroupMenuItem:
+CatalogBrowser>>#onInstallAndCreateGroupFrom:
+MBAbstractVersionInfo>>#cmdLoadAndCreateGroup
+MetacelloMCVersion>>#loadAndCreateGroupInNautilus
+ScriptLoader>>#update50233
+WorldState>>#runLocalStepMethodsIn:
+ScriptLoader>>#script50232
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50232

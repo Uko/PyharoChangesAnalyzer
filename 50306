@@ -1,0 +1,15 @@
+ReflectivityControlTest>>#testAfterReturn
+RBReturnNode>>#link:
+ScriptLoader>>#update50306
+Nautilus>>#selectedPackage:
+PackageTreeNautilusUI>>#registerSelectionPackage:
+ReflectivityControlTest>>#testInsteadBlock
+ReflectivityControlTest>>#testInsteadReturn
+RFASTTranslator>>#visitBlockNode:
+RFASTTranslator>>#visitReturnNode:
+ScriptLoader>>#script50305
+ScriptLoader>>#commentForCurrentUpdate
+SlotEnvironmentTest>>#testBasicEnvironment
+PharoClassInstaller>>#classAdded:inCategory:
+SystemDictionary>>#organization
+ScriptLoader>>#script50305

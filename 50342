@@ -1,0 +1,35 @@
+ReflectivityReificationTest>>#testReifyGlobalVariableName
+ReflectivityReificationTest>>#testReifyGlobalVariableValue
+HookGeneratorForVariables
+RFNameReification>>#genForLiteralVariable
+RFReification>>#genForClassVariable
+RFReification>>#genForLiteralVariable
+RFSemanticAnalyzer>>#analyseForLinksForNodes:
+RFSemanticAnalyzer>>#analyseForLinksForVariables:
+RFSemanticAnalyzer>>#analyseForLinks:generator:
+RFValueReification>>#genForLiteralVariable
+ScriptLoader>>#update50342
+ReflectivityControlTest>>#testBeforeClassVariable
+ReflectivityExamples>>#initialize
+ReflectivityReificationTest>>#tearDown
+HookGenerator
+HookGenerator>>#genReification:for:
+RFNameReification class>>#nodes
+RFSemanticAnalyzer>>#visitMethodNode:
+RFSemanticAnalyzer>>#visitNode:
+RFSemanticAnalyzer>>#visitVarWrite:
+RFSemanticAnalyzer>>#visitVariableNode:
+RFValueReification class>>#nodes
+RFValueReification>>#preamble:
+ScriptLoader>>#script50341
+ScriptLoader>>#commentForCurrentUpdate
+ReflectivityReificationTest>>#testReifyGlobalName
+ReflectivityReificationTest>>#testReifyGlobalValue
+ReflectivityReificationTest>>#testReifyGlobalVariable
+ReflectivityReificationTest>>#testReifyIvarName
+ReflectivityReificationTest>>#testReifyIvarValue
+ReflectivityReificationTest>>#testReifyIvarVariable
+ReflectivityReificationTest>>#testReifyTempName
+ReflectivityReificationTest>>#testReifyTempNewValue
+ReflectivityReificationTest>>#testReifyTempValue
+ScriptLoader>>#script50341

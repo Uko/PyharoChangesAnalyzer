@@ -1,0 +1,11 @@
+ConfigurationOfNautilusGroupAutoBuilder>>#version11:
+ScriptLoader>>#update50249
+ConfigurationOfNautilusGroupAutoBuilder>>#stable:
+FBDDecompiler>>#skipTemps:
+CompiledMethod class>>#initialize
+Date>>#addMonths:
+LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
+CatalogBrowser>>#onInstallAndCreateGroupFrom:
+ScriptLoader>>#script50248
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50248

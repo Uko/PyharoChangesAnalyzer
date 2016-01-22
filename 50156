@@ -1,0 +1,24 @@
+ReflectiveMethodTest>>#testReplaceAssign
+ReflectiveMethodTest>>#testReplaceReturn
+ReflectiveMethodTest>>#testReplaceSend
+ReflectiveMethodTest>>#testReplaceVariableReadGlobal
+ReflectiveMethodTest>>#testReplaceVariableReadIvar
+ReflectiveMethodTest>>#testReplaceVariableReadTemp
+ReflectiveMethodTest>>#testReplaceVariableWrite
+RFClassReification class>>#key
+RFClassReification class>>#nodes
+RFClassReification
+RFClassReification>>#genForRBProgramNode
+RFNameReification>>#genForRBAssignmentNode
+ScriptLoader>>#update50156
+MorphicWindowAdapter>>#extent:
+Rectangle>>#intersect:
+RFASTTranslator>>#emitMessageNode:
+RFASTTranslator>>#visitAssignmentNode:
+RFASTTranslator>>#visitNode:
+RFASTTranslator>>#visitReturnNode:
+RFASTTranslator>>#visitVariableNode:
+RFNameReification class>>#nodes
+ScriptLoader>>#script50155
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50155

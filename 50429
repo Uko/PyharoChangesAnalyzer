@@ -1,0 +1,12 @@
+VirtualMachine>>#metaLinkOptions
+ScriptLoader>>#update50429
+SystemOrganizer>>#fileOutCategory:on:initializing:
+ReflectiveMethod>>#flushCache
+ScriptLoader>>#script50428
+ScriptLoader>>#commentForCurrentUpdate
+SystemNavigation>>#allMethodsWithSourceString:matchCase:
+TClass class>>#rootsOfTheWorld
+TClass>>#duplicateClassWithNewName:
+ScriptLoader>>#script50428
+ByteString>>#asClassVariable
+ByteString>>#asSlot

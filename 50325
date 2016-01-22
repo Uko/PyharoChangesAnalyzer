@@ -1,0 +1,16 @@
+MCMethodDefinition>>#overridenMethodOrNil
+ReflectivityControlTest>>#testAfterMethodPrimitive
+ReflectivityControlTest>>#testInsteadPrimitiveMethod
+ScriptLoader>>#update50325
+MCMethodDefinitionTest>>#testRevertOldMethod
+MCMethodDefinition>>#unload
+MCWorkingCopyBrowser>>#addWorkingCopy
+MenuMorph>>#addItem
+MenuMorph>>#addTitle
+ReflectivityControlTest>>#testBeforeMethodPrimitive
+ReflectivityExamples>>#examplePrimitiveMethod
+ReflectivityLinkTest>>#testPrimitiveWithLinkExecuteWrapper
+ScriptLoader>>#script50324
+ScriptLoader>>#commentForCurrentUpdate
+WorkingCopyToolBar>>#createPackage
+ScriptLoader>>#script50324

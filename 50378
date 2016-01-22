@@ -1,0 +1,37 @@
+FTSearchFunction>>#showSearchFieldFromKeystrokeEvent:
+ReflectiveMethodTest>>#testInvalidateNoJit
+RubFloatingEditorBuilder>>#autoAccept:
+RubFloatingEditorBuilder>>#whenEditorEscapedDo:
+RubScrolledTextMorph>>#font
+ScriptLoader>>#update50378
+FTOutlineDataSource>>#searchText:
+FTPluggableIconListMorphAdaptorDataSource>>#searchText:
+FTSearchFunction class>>#table:
+FTSearchFunction
+FTSearchFunction>>#searchFor:
+FTSearchFunction>>#keyStroke:
+FTSearchFunction>>#initializeTable:
+FTSimpleDataSource>>#searchText:
+CompiledMethod>>#installLink:
+CompiledMethod>>#invalidate
+RubFloatingEditorBuilder class>>#exampleCommandLauncher
+RubFloatingEditorBuilder class>>#exampleEditableStringMorph
+RubFloatingEditorBuilder
+RubFloatingEditorBuilder>>#announcerDo:
+RubFloatingEditorBuilder>>#customizeEditorWith:
+RubFloatingEditorBuilder>>#editorDo:
+RubFloatingEditorBuilder>>#initialContents:
+RubFloatingEditorBuilder>>#withEditedContentsDo:
+RubFloatingEditorBuilder>>#closeEditor
+RubFloatingEditorBuilder>>#whenEditorLostFocus:
+RubFloatingEditorBuilder>>#whenKeystroke:
+RubFloatingEditorBuilder>>#whenReturnEntered:
+RubFloatingEditorBuilder>>#whenTextAccepted:
+RubFloatingEditorBuilder>>#handleListenEvent:
+RubFloatingEditorBuilder>>#initialize
+RubFloatingEditorBuilder>>#buildEditor
+RubFloatingEditorBuilder>>#openEditor
+RubFloatingEditorBuilder>>#openEditorWithContents:
+ScriptLoader>>#script50377
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50377

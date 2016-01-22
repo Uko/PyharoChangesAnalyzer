@@ -1,0 +1,48 @@
+ReflectivityControlTest>>#return3
+ReflectivityControlTest>>#testInsteadBlock
+ReflectivityControlTest>>#testInsteadLiteral
+ReflectivityControlTest>>#testInsteadLiteralArray
+ScriptLoader>>#update50270
+FileStream class>>#initialize
+ManifestFiles class>>#manuallyResolvedDependencies
+CompiledMethod>>#hasLiteralThorough:
+ReflectivityControlTest>>#testReplaceAssign
+ReflectivityControlTest>>#testReplaceReturn
+ReflectivityControlTest>>#testReplaceSend
+ReflectivityControlTest>>#testReplaceVariableReadGlobal
+ReflectivityControlTest>>#testReplaceVariableReadIvar
+ReflectivityControlTest>>#testReplaceVariableReadTemp
+ReflectivityControlTest>>#testReplaceVariableWrite
+RFASTTranslator>>#visitLiteralArrayNode:
+RFASTTranslator>>#visitLiteralNode:
+ScriptLoader>>#script50269
+ScriptLoader>>#commentForCurrentUpdate
+ChangesLog
+FileStream class>>#writeSourceCodeFrom:baseName:isSt:
+Character class>>#euro
+ReflectivityControlTest>>#testReplaceAssign
+ReflectivityControlTest>>#testReplaceReturn
+ReflectivityControlTest>>#testReplaceSend
+ReflectivityControlTest>>#testReplaceVariableReadGlobal
+ReflectivityControlTest>>#testReplaceVariableReadIvar
+ReflectivityControlTest>>#testReplaceVariableReadTemp
+ReflectivityControlTest>>#testReplaceVariableWrite
+ScriptLoader>>#script50269
+Object>>#release
+ChangesLog class>>#default
+ChangesLog class>>#reset
+ChangesLog
+ChangesLog>>#recordStartupStamp
+ChangesLog>>#logClassRemoved:
+ChangesLog>>#logClassRenamed:
+ChangesLog>>#logExpressionEvaluated:
+ChangesLog>>#logMethodRemoved:
+ChangesLog>>#registerToAnnouncements
+ChangesLog>>#logChange:
+ChangesLog>>#logSnapshot:andQuit:
+ChangesLog>>#assureStartupStampLogged
+MacOSPlatform>>#potentialLocationsOfSourcesFile
+OSPlatform>>#potentialLocationsOfSourcesFile
+UnixPlatform>>#potentialLocationsOfSourcesFile
+Win32Platform>>#potentialLocationsOfSourcesFile
+String>>#asFileName

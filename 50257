@@ -1,0 +1,107 @@
+MCOldDataStreamExtensions class>>#initialize
+MCOldDataStreamExtensions
+ManifestMonticelloOldDataStreamCompatibility
+WordArray class>>#newFromStream:
+MCDataStream class>>#initializeTypeMap
+MCDataStream class>>#readSelectors
+MCDataStream class>>#registerClass:atIndex:usingReadSelector:usingWriteSelector:
+MCDataStream class>>#registerReaderSelector:atIndex:
+MCDataStream class>>#registerWriterSelector:atIndex:
+MCDataStream class>>#typeMap
+MCDataStream class>>#writeSelectors
+ScriptLoader>>#update50257
+OSEnvironment class>>#current
+OSEnvironment class>>#default
+OSEnvironment class>>#initialize
+OSEnvironment class>>#shutDown:
+OSPlatform>>#environment
+MatrixTransform2x3 class>>#newFromStream:
+MCDataStream>>#readBitmap
+MCDataStream>>#readReference
+MCDataStream>>#readUser
+MCDataStream>>#readWordArray
+MCDataStream class>>#initialize
+MCDataStream
+MCDataStream>>#next
+MCDataStream>>#nextPut:
+MCDataStream>>#typeIDFor:
+ScriptLoader>>#script50256
+ScriptLoader>>#commentForCurrentUpdate
+ChangeSet>>#fileOut
+OSEnvironment
+PlatformIndependentEnvironment
+UnixEnvironment
+Win32Environment
+OSPlatform
+MCDataStream>>#readBitmap
+MCDataStream>>#readByteArray
+MCDataStream>>#readClass
+MCDataStream>>#readFloat
+MCDataStream>>#readMethod
+MCDataStream>>#readRectangle
+MCDataStream>>#readReference
+MCDataStream>>#readShortInst
+MCDataStream>>#readShortRef
+MCDataStream>>#readStringOld
+MCDataStream>>#readUser
+MCDataStream>>#readWordArray
+MCDataStream>>#readWordLike
+MCDataStream>>#writeBitmap:
+MCDataStream>>#writeByteArray:
+MCDataStream>>#writeClass:
+MCDataStream>>#writeFloat:
+MCDataStream>>#writeRectangle:
+MCDataStream>>#writeStringOld:
+MCDataStream>>#writeUser:
+MCDataStream>>#writeWordLike:
+ScriptLoader>>#script50256
+OSEnvironment class>>#environmentFor:
+OSEnvironment class>>#platform:
+OSEnvironment class>>#isAvailable
+OSEnvironment class>>#isDefaultFor:
+OSEnvironment
+OSEnvironment>>#associations
+OSEnvironment>>#at:
+OSEnvironment>>#at:ifAbsentPut:
+OSEnvironment>>#at:ifAbsent:
+OSEnvironment>>#at:ifPresent:
+OSEnvironment>>#at:ifPresent:ifAbsent:
+OSEnvironment>>#at:put:
+OSEnvironment>>#keys
+OSEnvironment>>#platform
+OSEnvironment>>#removeKey:
+OSEnvironment>>#values
+OSEnvironment>>#asDictionary
+OSEnvironment>>#associationsDo:
+OSEnvironment>>#do:
+OSEnvironment>>#keysAndValuesDo:
+OSEnvironment>>#keysAndValuesDo:withAssociationString:
+OSEnvironment>>#keysDo:
+OSEnvironment>>#valuesDo:
+OSEnvironment>>#initializeWith:
+OSEnvironment>>#getEnv:
+OSEnvironment>>#unsetEnv:
+OSEnvironment>>#includesKey:
+OSEnvironment>>#includes:
+PlatformIndependentEnvironment class>>#isAvailable
+PlatformIndependentEnvironment class>>#isDefaultFor:
+PlatformIndependentEnvironment
+PlatformIndependentEnvironment>>#keysAndValuesDo:
+PlatformIndependentEnvironment>>#getEnv:
+PlatformIndependentEnvironment>>#setEnv:value:
+PlatformIndependentEnvironment>>#unsetEnv:
+UnixEnvironment class>>#isDefaultFor:
+UnixEnvironment
+UnixEnvironment>>#environ
+UnixEnvironment>>#keysAndValuesDo:
+UnixEnvironment>>#environAt:
+UnixEnvironment>>#setEnv:value:
+Win32Environment class>>#isDefaultFor:
+Win32Environment
+Win32Environment>>#environmentStrings
+Win32Environment>>#keysAndValuesDo:
+Win32Environment>>#getEnvSize:
+Win32Environment>>#getEnv:
+Win32Environment>>#getEnv:buffer:size:
+Win32Environment>>#setEnv:value:
+Win32Environment>>#unsetEnv:

@@ -1,0 +1,16 @@
+RFASTTranslator>>#visitLiteralVariableNode:
+RFLiteralVariableNode class>>#value:
+RFLiteralVariableNode
+RFLiteralVariableNode>>#binding
+RFLiteralVariableNode>>#binding:
+RFLiteralVariableNode>>#start
+RFLiteralVariableNode>>#stop
+RFLiteralVariableNode>>#isFaulty
+RFLiteralVariableNode>>#acceptVisitor:
+TRBProgramNodeVisitor>>#visitLiteralVariableNode:
+ScriptLoader>>#update50398
+MorphicUIManager>>#debugProcess:context:title:full:
+HookGenerator>>#hookFor:
+ScriptLoader>>#script50397
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50397

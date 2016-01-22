@@ -1,0 +1,11 @@
+MCPatchOperation>>#source
+ScriptLoader>>#update50263
+CustomHelp class>>#icon
+Halt class>>#ifShiftPressed
+Object>>#haltIfShiftPressed
+MCPatchOperation>>#initialize
+ScriptLoader>>#script50262
+ScriptLoader>>#commentForCurrentUpdate
+ExternalBrowser class>>#serviceBrowseCode
+MCPatchOperation>>#sourceText
+ScriptLoader>>#script50262

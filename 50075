@@ -1,0 +1,22 @@
+FT2Handle class>>#shutDown:
+AbstractNautilusUI>>#buildNewCommentText
+AbstractNautilusUI>>#newCommentTextModel
+AbstractNautilusUI>>#updateCommentWith:
+AbstractNautilusUI>>#whenTextUpdatedInCommentPane:
+ScriptLoader>>#update50075
+FT2Handle class>>#initialize
+FT2Handle class>>#startUp:
+PackageTreeNautilusTest>>#assertSelectedCompiledMethod
+AbstractNautilusUI
+AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
+NautilusUI>>#selectedClassWithoutChangingSelection:
+NautilusUI>>#unselectClass
+NautilusUI>>#updateOnClassSelection
+ScriptLoader>>#script50074
+ScriptLoader>>#commentForCurrentUpdate
+SimpleEditor class>>#initializeCmdKeyShortcuts
+SimpleEditor class>>#initializeShiftCmdKeyShortcuts
+SmalltalkEditor class>>#initializeCmdKeyShortcuts
+TextEditor class>>#initializeBasicCmdKeyShortcuts
+TextEditor class>>#initializeBasicShiftCmdKeyShortcuts
+ScriptLoader>>#script50074

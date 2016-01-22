@@ -1,0 +1,65 @@
+AbstractNautilusUI>>#buildVariableReferencesMenuFrom:withIcon:contentBy:
+ThemeSettings>>#menuColor
+ReflectivityReificationTest>>#testReifyClassVariableClass
+ReflectivityReificationTest>>#testReifyClassVariableContext
+ReflectivityReificationTest>>#testReifyClassVariableLink
+ReflectivityReificationTest>>#testReifyClassVariableObject
+ReflectivityReificationTest>>#testReifyClassVariableValue
+ReflectivityReificationTest>>#testReifyClassVariableVariable
+RFClassReification>>#genForLiteralVariable
+RFLinkReification>>#genForLiteralVariable
+RFObjectReification>>#genForLiteralVariable
+RFReification>>#genForGlobalVariable
+RFThisContextReification>>#genForLiteralVariable
+RFVariableReification>>#genForLiteralVariable
+ScriptLoader>>#update50344
+AbstractNautilusUI>>#browseVariableReferences
+ReflectivityReificationTest>>#testReifyGlobalVariableName
+ReflectivityReificationTest>>#testReifyGlobalVariableValue
+RFClassReification class>>#nodes
+RFLinkReification class>>#nodes
+RFNameReification class>>#nodes
+RFObjectReification class>>#nodes
+RFThisContextReification class>>#nodes
+RFValueReification class>>#nodes
+RFVariableReification class>>#nodes
+RFVariableReification>>#genForRBVariableNode
+ScriptLoader>>#script50343
+ScriptLoader>>#commentForCurrentUpdate
+ThemeSettings>>#balloonHelpDelayTime
+ThemeSettings>>#balloonHelpDelayTime:
+ThemeSettings>>#balloonHelpEnabled
+ThemeSettings>>#balloonHelpEnabled:
+ThemeSettings>>#maxBalloonHelpLineLength
+ThemeSettings>>#maxBalloonHelpLineLength:
+ThemeSettings>>#buttonColor
+ThemeSettings>>#buttonColor:
+ThemeSettings>>#defaultButtonColor
+ThemeSettings>>#autoMenuColor
+ThemeSettings>>#autoMenuColor:
+ThemeSettings>>#derivedMenuColor
+ThemeSettings>>#fallbackMenuColor
+ThemeSettings>>#flatMenu
+ThemeSettings>>#flatMenu:
+ThemeSettings>>#menuBorderColor
+ThemeSettings>>#menuBorderWidth
+ThemeSettings>>#menuColor:
+ThemeSettings>>#menuKeyboardControl
+ThemeSettings>>#menuKeyboardFocusColor
+ThemeSettings>>#menuSelectionColor
+ThemeSettings>>#menuSelectionColor:
+ThemeSettings>>#menuSelectionTextColor
+ThemeSettings>>#menuSelectionTextColor:
+ThemeSettings>>#menuShadowColor
+ThemeSettings>>#menuTitleBorderColor
+ThemeSettings>>#menuTitleColor
+ThemeSettings>>#menuTitleColor:
+ThemeSettings>>#progressBarColor
+ThemeSettings>>#progressBarColor:
+ThemeSettings>>#progressBarProgressColor
+ThemeSettings>>#progressBarProgressColor:
+ThemeSettings>>#applySettingsFrom:
+ThemeSettings>>#fromConfiguration:
+ThemeSettings>>#toConfiguration:
+ReflectivityReificationTest>>#testReifyGlobalVariableName
+ScriptLoader>>#script50343

@@ -1,0 +1,35 @@
+ScriptLoader>>#update50494
+AbstractWidgetModel>>#transferFor:from:
+TransferModel class>>#adapterName
+TransferModel
+TransferModel>>#from:
+TransferModel>>#passenger
+TransferModel>>#source
+TransferModel>>#transfer:
+TransferModel>>#initialize
+MorphicTransferAdapter
+MorphicTransferAdapter>>#buildWidget
+MorphicTransferAdapter>>#passenger
+MorphicTransferAdapter>>#source
+SpecTransferMorph
+SpecTransferMorph>>#model
+SpecTransferMorph>>#model:
+SpecTransferMorph>>#passenger:
+SpecTransferMorph>>#shouldCopy
+SpecTransferMorph>>#source:
+SpecTransferMorph>>#initialize
+Morph>>#removeDropShadow
+Morph>>#shadowOffset:
+DockingBarMenuItemMorph>>#wantsRoundedCorners
+DockingBarToggleMenuItemMorph>>#wantsRoundedCorners
+ScriptLoader>>#script50493
+ScriptLoader>>#commentForCurrentUpdate
+AbstractWidgetModel>>#initialize
+SpecAdapterBindings>>#initializeBindings
+TreeModel class>>#example
+AbstractMorphicAdapter>>#acceptDroppingMorph:event:inMorph:
+AbstractMorphicAdapter>>#transferFor:from:
+MorphicAdapterBindings>>#initializeBindings
+MorphicListAdapter>>#acceptDroppingMorph:event:inMorph:
+MorphicTreeAdapter>>#acceptDroppingMorph:event:inMorph:
+ScriptLoader>>#script50493

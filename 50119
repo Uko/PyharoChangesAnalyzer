@@ -1,0 +1,56 @@
+CompiledMethod>>#putSource:class:category:withStamp:priorMethod:
+CompiledMethod>>#putSource:withPreamble:
+RubAbstractSmalltalkMode
+RubAbstractSmalltalkMode>>#updateTextAreaWhenPlugged
+RubAbstractSmalltalkMode>>#updateTextAreaWhenUnplugged
+RubEditingArea>>#beForSmalltalkComment
+RubScrolledTextModel>>#doItContext
+RubScrolledTextModel>>#doItReceiver
+RubScrolledTextMorph>>#beForSmalltalkComment
+RubSmalltalkCommentMode class>>#label
+RubSmalltalkCommentMode class>>#menuKeyword
+RubSmalltalkCommentMode class>>#menuOn:
+RubSmalltalkCommentMode
+RubSmalltalkCommentMode>>#updateTextAreaWhenPlugged
+RubSmalltalkCommentMode>>#updateTextAreaWhenUnplugged
+ScriptLoader>>#update50119
+RemoteString class>>#newString:
+RemoteString>>#string:
+SourceFileArray>>#flushChangesFile
+SourceFileArray>>#forceChangesToDisk
+SourceFileArray>>#changesWriteStreamDo:
+SourceFileArray>>#writeSource:preamble:onSuccess:onFail:
+ClassOrganization>>#comment:
+CompiledMethod>>#putSource:class:category:withStamp:inFile:priorMethod:
+CompiledMethod>>#putSource:inFile:withPreamble:
+CompiledMethod>>#setSourcePosition:inFile:
+MCPackageLoader>>#basicLoad
+MCPackageLoader>>#flushChangesFile
+MCPackageManager>>#modified:
+AbstractNautilusUI>>#buildNewCommentText
+AbstractNautilusUI>>#classCommentTextModel
+TBehavior>>#compile:notifying:
+RubEditingMode>>#editorClass
+RubScrolledTextModel
+RubSmalltalkCodeMode
+RubSmalltalkEditor>>#evaluate:andDo:
+RubSmalltalkEditorModel
+ScriptLoader>>#script50118
+ScriptLoader>>#commentForCurrentUpdate
+SourceFileArray>>#changesFileStream
+SourceFileArray>>#sourcesFileStream
+ChangesLog>>#logChange:
+ChangesLog>>#logSnapshot:andQuit:
+ChangesLog>>#assureStartupStampLogged
+ChangesLog>>#forceChangesToDisk
+SmalltalkImage>>#assureStartupStampLogged
+SmalltalkImage>>#forceChangesToDisk
+SmalltalkImage>>#logChange:
+TBehavior>>#addTraitSelector:withMethod:
+TClassDescription>>#logMethodSource:forMethod:inCategory:withStamp:
+TClassDescription>>#classComment:stamp:
+AbstractNautilusUI>>#shiftedTextPaneMenuRequest
+RubSmalltalkCodeMode>>#editorClass
+RubSmalltalkEditorModel>>#interactionModel:
+ScriptLoader>>#script50118
+SourceFileArray>>#initialize:

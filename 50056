@@ -1,0 +1,27 @@
+HookGenerator
+HookGenerator>>#link
+HookGenerator>>#link:
+HookGenerator>>#selectorForNode
+HookGenerator>>#initForNode:
+HookGenerator>>#setupTable
+HookGenerator>>#hook
+MetaLink>>#hookOn:
+RFReification class>>#node:link:
+RFReification>>#link:
+RFReification>>#node:
+ScriptLoader>>#update50056
+Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+SingleCodeCriticResultList>>#setTextModelForTransformationRule:
+OCASTTranslator>>#visitNode:
+MetaLinkTest>>#testHaltHook
+MetaLink>>#wrapCondition:
+MetaLink>>#wrapInContext:
+MetaLink>>#valueInContext:
+ScriptLoader>>#script50055
+ScriptLoader>>#commentForCurrentUpdate
+TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Breakpoint>>#break:withArguments:
+MetaLink>>#encloseInBlock:
+MetaLink>>#wrapCondition:
+MetaLink>>#wrapInContext:
+ScriptLoader>>#script50055

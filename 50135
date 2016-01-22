@@ -1,0 +1,13 @@
+ReflectiveMethodTest>>#testReifyGlobalVariable
+RFASTTranslator>>#visitNode:
+RFVariableReification>>#genForGlobal
+RFVariableReification>>#genForSlot
+ScriptLoader>>#update50135
+OCASTTranslator>>#visitMethodNode:
+OCASTTranslator>>#visitNode:
+OCASTTranslator>>#visitReturnNode:
+OCASTTranslator>>#visitVariableNode:
+RFVariableReification>>#genForRBVariableNode
+ScriptLoader>>#script50134
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50134

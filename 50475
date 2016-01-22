@@ -1,0 +1,25 @@
+DebugAction>>#notifyDebuggingActionExecuted
+DebugActionExecuted>>#action
+DebugActionExecuted>>#action:
+ScriptLoader>>#update50475
+DebugAction>>#postAction
+DebugActionExecuted class>>#forDebuggingAction:
+DebugActionExecuted
+KomitClass class>>#trackedClass:
+KomitClass class>>#trackedClass:forExtension:
+KomitClass>>#initialize
+KomitClass>>#flush
+KomitDefinition class>>#definition:
+KomitMethod class>>#method:
+KomitPackage class>>#package:
+KomitableObject>>#entities:
+KomitableObject>>#initialize
+Komitter>>#initialize
+MenuItemMorph>>#activateOwnerMenu:
+OCASTSemanticAnalyzer>>#uninitializedVariable:
+ScriptLoader>>#script50474
+ScriptLoader>>#commentForCurrentUpdate
+SugsMenuBuilderTest>>#testNoSuggestionForSelfNode
+SugsMenuBuilderTest>>#testNoSuggestionForSuperNode
+KomitPackage class>>#removePackage:
+ScriptLoader>>#script50474

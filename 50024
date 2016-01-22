@@ -1,0 +1,228 @@
+ConfigurationOfVersionner>>#baseline28:
+ConfigurationOfVersionner>>#version210:
+ConfigurationOfVersionner>>#version2110:
+ConfigurationOfVersionner>>#version2111:
+ConfigurationOfVersionner>>#version2112:
+ConfigurationOfVersionner>>#version2113:
+ConfigurationOfVersionner>>#version2114:
+ConfigurationOfVersionner>>#version2115:
+ConfigurationOfVersionner>>#version2116:
+ConfigurationOfVersionner>>#version2121:
+ConfigurationOfVersionner>>#version2122:
+ConfigurationOfVersionner>>#version212:
+ScriptLoader>>#update50024
+VSCommitAction
+VSCommitAction>>#nextVersionOn:
+VSCommitAction>>#nextVersion:
+VSCommitAction>>#repository
+VSCommitAction>>#executeOn:
+VSCommitAction>>#commitPackage:comment:
+VSCommitAction>>#remoteRepository
+VSCommitAction>>#retryOnCredentialRequest:
+VSCommitAction>>#workingCopy
+VSCommitAction>>#isPackage
+VSCommitAction>>#isProject
+VSCommitBrowser class>>#commentCache
+VSCommitBrowser class>>#maxCommentCache
+VSCommitBrowser class>>#cleanUp
+VSCommitBrowser class>>#openOn:
+VSCommitBrowser
+VSCommitBrowser>>#commitVersionKind
+VSCommitBrowser>>#configurationName
+VSCommitBrowser>>#oldComments
+VSCommitBrowser>>#title
+VSCommitBrowser>>#unit
+VSCommitBrowser>>#actionBrowse:
+VSCommitBrowser>>#action:nextVersion:
+VSCommitBrowser>>#browsePackage:
+VSCommitBrowser>>#browseProject:
+VSCommitBrowser>>#comment:
+VSCommitBrowser>>#commit
+VSCommitBrowser>>#configure
+VSCommitBrowser>>#refresh
+VSCommitBrowser>>#buildBrowser
+VSCommitBrowser>>#buildCommentOn:
+VSCommitBrowser>>#openOn:
+VSCommitMajorVersion class>>#label
+VSCommitMajorVersion
+VSCommitMajorVersion>>#nextVersionOf:
+VSCommitMinorVersion class>>#label
+VSCommitMinorVersion
+VSCommitMinorVersion>>#nextVersionOf:
+VSCommitPackageAction class>>#new
+VSCommitPackageAction class>>#package:
+VSCommitPackageAction
+VSCommitPackageAction>>#package
+VSCommitPackageAction>>#packageName
+VSCommitPackageAction>>#repository
+VSCommitPackageAction>>#executeOn:
+VSCommitPackageAction>>#initializePackage:
+VSCommitPackageAction>>#workingCopy
+VSCommitPackageAction>>#isPackage
+VSCommitPatchVersion class>>#label
+VSCommitPatchVersion
+VSCommitPatchVersion>>#nextVersionOf:
+VSCommitProjectAction class>>#project:
+VSCommitProjectAction
+VSCommitProjectAction>>#configurationClass
+VSCommitProjectAction>>#nextVersionOn:
+VSCommitProjectAction>>#nextVersion:
+VSCommitProjectAction>>#packageName
+VSCommitProjectAction>>#project
+VSCommitProjectAction>>#repository
+VSCommitProjectAction>>#executeOn:
+VSCommitProjectAction>>#initializeProject:
+VSCommitProjectAction>>#workingCopy
+VSCommitProjectAction>>#isProject
+VSCommitStrategy
+VSCommitStrategy>>#shouldCommitDirtyPackages
+VSCommitStrategy>>#shouldCommitDirtyPackages:
+VSCommitStrategy>>#shouldCommitProjects
+VSCommitStrategy>>#shouldCommitProjects:
+VSCommitStrategy>>#shouldNestProjects
+VSCommitStrategy>>#shouldNestProjects:
+VSCommitStrategy>>#initialize
+VSCommitUnit class>>#configurationClass:version:
+VSCommitUnit class>>#major:
+VSCommitUnit class>>#minor:
+VSCommitUnit class>>#new
+VSCommitUnit class>>#patch:
+VSCommitUnit
+VSCommitUnit>>#allActions
+VSCommitUnit>>#comment
+VSCommitUnit>>#comment:
+VSCommitUnit>>#commitStrategy
+VSCommitUnit>>#commitStrategy:
+VSCommitUnit>>#commitVersion
+VSCommitUnit>>#configurationClass
+VSCommitUnit>>#packageActions
+VSCommitUnit>>#project
+VSCommitUnit>>#projectActions
+VSCommitUnit>>#projectVersion
+VSCommitUnit>>#refresh
+VSCommitUnit>>#repository
+VSCommitUnit>>#repository:
+VSCommitUnit>>#execute
+VSCommitUnit>>#initialize
+VSCommitUnit>>#initializeConfigurationClass:version:
+VSCommitUnit>>#collectCommitActions
+VSCommitUnit>>#open
+VSCommitVersion class>>#label
+VSCommitVersion class>>#major
+VSCommitVersion class>>#minor
+VSCommitVersion class>>#parseSemanticVersionFor:ifError:
+VSCommitVersion class>>#patch
+VSCommitVersion class>>#versions
+VSCommitVersion class>>#new
+VSCommitVersion class>>#uniqueInstance
+VSCommitVersion
+VSCommitVersion>>#label
+VSCommitVersion>>#nextVersionOf:
+VSCommitVersion>>#latestVersion:
+VSCommitVersion>>#semanticVersionFor:
+VSDirtyCollector class>>#new
+VSDirtyCollector class>>#strategy:
+VSDirtyCollector
+VSDirtyCollector>>#commitStrategy
+VSDirtyCollector>>#packages
+VSDirtyCollector>>#projects
+VSDirtyCollector>>#initialize
+VSDirtyCollector>>#initializeStrategy:
+VSDirtyCollector>>#packageVisited:
+VSDirtyCollector>>#projectVisited:
+VSDirtyCollector>>#visitDependantProject:
+VSDirtyCollector>>#visitGroup:
+VSDirtyCollector>>#visitPackage:
+VSDirtyCollector>>#visitProject:
+VSUnloadUnit class>>#configurationClass:
+VSUnloadUnit class>>#new
+VSUnloadUnit
+VSUnloadUnit>>#configurationClass
+VSUnloadUnit>>#execute
+VSUnloadUnit>>#initializeConfigurationClass:
+GLMTablePresentation>>#column:evaluated:modified:width:
+MCWorkingCopyBrowser>>#commitNewMajor
+MCWorkingCopyBrowser>>#commitNewMinor
+MCWorkingCopyBrowser>>#commitNewPatch
+MCWorkingCopyBrowser>>#configurationClass
+MCWorkingCopyBrowser>>#openWithVersionner
+MCWorkingCopyBrowser>>#versionCommitMenuSpec
+MTDevelopmentWorkfow>>#releaseFixedDevelopment:
+MTDevelopmentWorkfow>>#releaseFixedDevelopment:description:
+MTPackage>>#asCommitAction
+MTPackage>>#isDirty
+MTPackage>>#repository
+MTPackage>>#workingCopy
+MTProject>>#asCommitAction
+MTProject>>#stableVersion
+MTProject>>#workingCopy
+MetacelloToolBox class>>#createFixedDevelopment:for:importFromBaseline:description:
+MetacelloToolBox class>>#createFixedVersion:for:from:description:
+MBCommand>>#executeWithDevWorkflow:
+MBCommand>>#canBeApplied
+VSCatalogAdderCommand>>#configurationMetaclass
+VSCommand>>#executeWithDevWorkflow:
+VSCommand>>#canBeApplied
+VSCommitMajorCommand
+VSCommitMajorCommand>>#title
+VSCommitMajorCommand>>#execute
+VSCommitMajorCommand>>#order
+VSCommitMinorCommand
+VSCommitMinorCommand>>#title
+VSCommitMinorCommand>>#execute
+VSCommitMinorCommand>>#order
+VSCommitPatchCommand
+VSCommitPatchCommand>>#title
+VSCommitPatchCommand>>#execute
+VSCommitPatchCommand>>#order
+VSMakeDevelopmentCommand
+VSMakeDevelopmentCommand>>#symbolicVersion
+VSMakeDevelopmentCommand>>#title
+VSMakeDevelopmentCommand>>#canBeApplied
+VSMakeStableCommand
+VSMakeStableCommand>>#symbolicVersion
+VSMakeStableCommand>>#title
+VSMakeStableCommand>>#execute
+VSMakeStableCommand>>#canBeApplied
+VSMakeVersionCommand
+VSMakeVersionCommand>>#symbolicVersion
+VSMakeVersionCommand>>#execute
+VSRemoveCommand>>#versions
+MBAbstractVersionInfo>>#cmdMakeDevelopment
+MBAbstractVersionInfo>>#cmdMakeStable
+MBAbstractVersionInfo>>#isBaseline
+MBConfigurationInfo>>#cmdCommitMajorVersion
+MBConfigurationInfo>>#cmdCommitMinorVersion
+MBConfigurationInfo>>#cmdCommitPatchVersion
+ConfigurationOfVersionner>>#development:
+ConfigurationOfVersionner>>#stable:
+ScriptLoader>>#script632
+ScriptLoader>>#commentForCurrentUpdate
+VSCatalogAdderCommand>>#defineCatalogDescriptionTemplate
+VSCatalogAdderCommand>>#defineChangeLogTemplate
+VSCatalogAdderCommand>>#defineContactInfoTemplate
+VSCatalogAdderCommand>>#defineKeyClassesTemplate
+VSCatalogAdderCommand>>#defineKeywordsTemplate
+VSCommand
+VSDevCycleCommand>>#ensureDevelopmentVersionExists
+VSDevCycleCommand>>#ensureDevelopmentVersionIsBaseline
+VSDevCycleCommand>>#createDevelopmentVersion
+VSReleaseDevelopmentVersionCommand>>#mcVersionFor:
+VSReleaseDevelopmentVersionCommand>>#release:andSolveSymbolic:
+VSReleaseDevelopmentVersionCommand>>#execute
+VSRemoveCommand>>#execute
+VSUpdateDevelopmentVersionCommand>>#execute
+MTDependency>>#=
+MTDevelopmentWorkfow>>#standardizeDevVersionString:
+VersionnerProjectBrowser>>#configuration:
+VersionnerProjectBrowser>>#loadMenuFor:in:
+VersionnerProjectToolBar>>#executeWithDevWorkflow:
+VersionnerReleasePanel>>#initialExtent
+VersionnerSpecBrowser>>#loadMenuFor:in:
+MCModel2MTModelVisitorTest>>#testVisitXMLParserConfigurationWithVersion101
+ScriptLoader>>#script632
+VSCatalogAdderCommand>>#ensureCatalogDescription
+VSCatalogAdderCommand>>#ensureChangeLog
+VSCatalogAdderCommand>>#ensureContactInfo
+VSCatalogAdderCommand>>#ensureKeyClasses
+VSCatalogAdderCommand>>#ensureKeywords

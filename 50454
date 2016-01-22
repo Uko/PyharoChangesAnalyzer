@@ -1,0 +1,21 @@
+IRClosureStackCount class>>#newOn:
+IRClosureStackCount
+IRClosureStackCount>>#length
+IRClosureStackCount>>#numMethodTempVars
+IRClosureStackCount>>#numMethodTempVars:
+IRClosureStackCount>>#initialize
+IRStackCount class>>#newOn:
+ScriptLoader>>#update50454
+AbstractNautilusUI>>#open
+IRBytecodeGenerator>>#label:
+IRBytecodeGenerator>>#pushClosureCopyNumCopiedValues:numArgs:to:
+IRBytecodeGenerator>>#pushNClosureTemps:
+IRStackCount>>#linkTo:
+ScriptLoader>>#script50453
+ScriptLoader>>#commentForCurrentUpdate
+SugsBreakAlwaysSuggestion>>#label
+SugsBreakAlwaysSuggestion>>#execute
+SugsBreakConditionSuggestion>>#breakpointForCondition
+SugsBreakOnceSuggestion>>#label
+SugsBreakOnceSuggestion>>#execute
+ScriptLoader>>#script50453

@@ -1,0 +1,40 @@
+ScriptLoader>>#update50111
+FileList class>>#newOnDirectory:
+FileList class>>#newOnDirectory:baseLabel:
+FileList class>>#newOnDirectory:baseLabel:contents:
+FileList class>>#modalFolderSelector:
+FileList class>>#openEditorOn:editString:
+FileList class>>#openMorphOn:editString:
+FileList class>>#openOn:titled:
+FileList>>#baseLabel:
+FileList>>#configuredServices
+FileList>>#contents:
+FileList>>#morphicViewFolderSelector:
+FileList>>#morphicView
+FileList>>#morphicViewOnDirectory:
+FileList>>#morphicViewOnDirectory:baseLabel:
+FileList>>#morphicViewOnFile:
+FileList>>#addFullPanesTo:from:
+FileList>>#addServiceOn:entitled:doing:describedAs:
+FileList>>#addServiceTitled:doing:describedAs:
+FileList>>#addService:
+SimpleTextGlyphInfo>>#loadFrom:
+ScriptLoader>>#script50110
+ScriptLoader>>#commentForCurrentUpdate
+FileDialogWindow>>#selectPathName:
+FileList class>>#initialize
+FileList class>>#open
+FileList class>>#openOn:
+FileList
+FileList>>#itemsForDirectory:
+FileList>>#readOnlyStream
+FileList>>#initialize
+FileList>>#labelString
+FileList>>#updateDirectory
+FileList>>#perform:orSendTo:
+FileList>>#addPath:
+FileList>>#updateFileList
+FileList>>#volumeMenu:
+ScriptLoader>>#script50110
+FileList class>>#open
+FileList class>>#openOn:

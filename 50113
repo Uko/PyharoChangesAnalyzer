@@ -1,0 +1,11 @@
+ConfigurationOfRubric>>#version133:
+ScriptLoader>>#update50113
+RubFindReplaceDialogWindow
+RubFindReplaceDialogWindow>>#findTextFieldMorph
+RubFindReplaceDialogWindow>>#newFindTextEntryMorph
+ScriptLoader>>#script50112
+ScriptLoader>>#commentForCurrentUpdate
+EditorFindReplaceDialogWindow
+EditorFindReplaceDialogWindow>>#findTextFieldMorph
+EditorFindReplaceDialogWindow>>#newFindTextEntryMorph
+ScriptLoader>>#script50112

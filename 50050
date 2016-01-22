@@ -1,0 +1,17 @@
+ScriptLoader>>#update50050
+SpecTreeNodeModel>>#content
+MethodQueryTest
+MethodQueryTest>>#testReferencedClasses
+CompiledMethod>>#referencedClasses
+AbstractTool>>#confirmAndRemoveCategory:inClass:
+ScriptLoader>>#script50049
+ScriptLoader>>#commentForCurrentUpdate
+ClassQueryTest
+ClassQueryTest>>#testReferencedClasses
+TBehavior>>#referencedClasses
+AbstractTool>>#removeCategory:inClass:
+ScriptLoader>>#script50049
+ClassQueryTest
+ClassQueryTest>>#testAllCallsOn
+ClassQueryTest>>#testAllCallsOnASymbol
+ClassQueryTest>>#testReferencedClasses

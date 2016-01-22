@@ -1,0 +1,11 @@
+MCWorkingCopyBrowser>>#collectConfigurationMenuSpecs
+HandMorph>>#removeHaloAround:
+ScriptLoader>>#update50018
+MCWorkingCopyBrowser>>#workingCopyListMenu:
+HandMorph>>#removeHalo
+Morph>>#halo
+Morph>>#removeHalo
+NECMenuMorph class>>#convertToSHSymbol:
+ScriptLoader>>#script626
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script626

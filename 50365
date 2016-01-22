@@ -1,0 +1,27 @@
+String>>#asValidSelector
+MCTool>>#accept
+MCTool>>#menu
+MCTool>>#summary:
+RubEditingMode>>#acceptAllowed
+RubEditingMode>>#acceptAllowed:
+RubEditingMode>>#initialize
+RubScrolledTextMorph>>#allowMenu
+RubScrolledTextMorph>>#forbidMenu
+RubScrolledTextMorph>>#menuAllowed:
+ScriptLoader>>#update50365
+String>>#asLegalSelector
+MCTool>>#textMorph:
+RubAbstractTextArea>>#acceptContents
+RubAbstractTextArea>>#lookupMenu
+RubEditingMode class>>#menuKeyword
+RubEditingMode
+RubFloatingEditorBuilder>>#buildEditor
+RubPlainTextMode class>>#menuOn:
+RubScrolledTextMorph>>#on:text:accept:readSelection:menu:
+RubTextEditor>>#dispatchCommandOn:return:
+ScriptLoader>>#script50364
+ScriptLoader>>#commentForCurrentUpdate
+SyntaxErrorDebugger class>>#buildMorphicViewOn:
+SyntaxErrorDebugger>>#contents:notifying:
+RubEditingMode>>#isCodeCompletionAllowed
+ScriptLoader>>#script50364

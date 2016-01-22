@@ -1,0 +1,12 @@
+ScriptLoader>>#update50318
+PragmaCollector
+PragmaCollector>>#noMoreAnnounceWhile:
+ReflectivityControlTest>>#testAfterBlockSequence
+ReflectivityControlTest>>#testAfterSequence
+RFASTTranslator>>#emitMetaLinkAfter:
+RFASTTranslatorForEffect>>#visitSequenceNode:
+ScriptLoader>>#script50317
+ScriptLoader>>#commentForCurrentUpdate
+SourceFileArray>>#writeSource:preamble:onSuccess:onFail:
+CompiledMethod>>#putSource:withPreamble:
+ScriptLoader>>#script50317

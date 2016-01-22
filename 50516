@@ -1,0 +1,16 @@
+AbstractMethodIconAction>>#iconExtent
+ScriptLoader>>#update50516
+WorldState>>#interCyclePause:
+MethodClassInitializeAction>>#privateActionIcon
+MethodContainsBreakAction>>#privateActionIcon
+MethodFromTraitAction>>#privateActionIcon
+MethodIsATraitExplicitRequirementAction>>#privateActionIcon
+MethodIsExampleAction>>#privateActionIcon
+MethodIsScriptAction>>#privateActionIcon
+MethodIsTestAction>>#privateActionIcon
+MethodOveridesAction>>#privateActionIcon
+MethodOveridesAction>>#buildUpAndDownArrowIcon:
+MethodWidget>>#rebuildUpAndDownArrowIconFrom:
+ScriptLoader>>#script50515
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50515

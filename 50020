@@ -1,0 +1,17 @@
+ConfigurationOfRubric>>#version1211:
+ConfigurationOfRubric>>#version1212:
+RubTextFieldArea>>#handleReturnKey
+RubTextFieldArea>>#sanitize:
+ScriptLoader>>#update50020
+ConfigurationOfRubric>>#baseline20:
+ConfigurationOfRubric>>#stable:
+RubAbstractTextArea>>#findNextString:startingAt:
+RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
+RubSmalltalkEditor>>#keystroke:
+RubTextEditor>>#findNextString:startingAt:
+RubTextEditor>>#keystroke:
+RubTextFieldArea>>#keyStroke:
+RubTextFieldArea>>#privateReplaceFrom:to:with:
+ScriptLoader>>#script628
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script628

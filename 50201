@@ -1,0 +1,12 @@
+RBPatternBlockNode>>#isPatternNode
+ConfigurationOfRubric>>#version1164:
+ScriptLoader>>#update50201
+ConfigurationOfRubric>>#stable:
+RubAbstractTextArea class>>#editorFont
+RubScrolledTextMorph>>#beForSmalltalkCode
+ScriptLoader>>#script50200
+ScriptLoader>>#commentForCurrentUpdate
+RBLintRule>>#category
+SmalltalkImage>>#imageName
+SmalltalkImage>>#imageName:
+ScriptLoader>>#script50200

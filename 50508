@@ -1,0 +1,9 @@
+ScriptLoader>>#update50508
+ProtoObject>>#pointersToExcept:
+ScriptLoader>>#script50507
+ScriptLoader>>#commentForCurrentUpdate
+SmalltalkImage>>#newSpecialObjectsArray
+SystemNavigation>>#allObjectsDo:
+MethodFinderTest>>#testPointY
+Behavior>>#largeIdentityHash
+ScriptLoader>>#script50507

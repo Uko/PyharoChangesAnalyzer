@@ -1,0 +1,27 @@
+HookGenerator2 class>>#node:
+HookGenerator2
+HookGenerator2>>#links
+HookGenerator2>>#wrapInContext:link:
+HookGenerator2>>#genReification:for:
+HookGenerator2>>#hookFor:
+HookGenerator2>>#afterHooks
+HookGenerator2>>#beforeHooks
+HookGenerator2>>#hook
+HookGenerator2>>#insteadHooks
+HookGenerator2>>#preamble
+ScriptLoader>>#update50151
+HookGenerator>>#wrapCondition:
+HookGenerator>>#node:link:
+RFASTTranslator>>#emitMetaLinkInstead:
+RFSemanticAnalyzer>>#analyseForLinks:
+RBProgramNode>>#afterHooks
+RBProgramNode>>#beforeHooks
+RBProgramNode>>#preambles
+ScriptLoader>>#script50150
+ScriptLoader>>#commentForCurrentUpdate
+HookGenerator>>#plugins
+HookGenerator>>#encloseInBlock:
+HookGenerator>>#selectorForNode
+HookGenerator>>#wrapCondition:
+HookGenerator>>#node:link:
+ScriptLoader>>#script50150

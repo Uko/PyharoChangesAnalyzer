@@ -1,0 +1,662 @@
+ConfigurationOfGTInspectorCore>>#version2022:
+ConfigurationOfGTPlaygroundCore>>#version2111:
+ConfigurationOfGTSpotter>>#baseline13:
+ConfigurationOfGTSpotter>>#version1215:
+ConfigurationOfGToolkitCore>>#version308:
+ConfigurationOfGlamourCore>>#version325:
+GTDummyExampleProvider class>>#gtExamplesProvider
+GTDummyExampleProvider class>>#gtExamplesSource
+GTDummyExampleProvider
+GTDummyExampleProvider>>#a
+GTDummyExampleProvider>>#b
+GTDummyExampleProvider>>#c:c:
+GTDummyExampleSource class>>#gtExamplesProvider
+GTDummyExampleSource
+GTDummyExampleSource>>#a
+GTDummyExampleSource>>#b
+GTDummyExampleWithAssertions class>>#gtExamplesProvider
+GTDummyExampleWithAssertions
+GTDummyExampleWithAssertions>>#a
+GTDummyExampleWithAssertions>>#b
+GTDummyExampleWithAssertions>>#c:c:
+GTDummyExamples class>>#h:
+GTDummyExamples class>>#s:
+GTDummyExamples class>>#t:
+GTDummyExamples class>>#u:
+GTDummyExamples class>>#v:
+GTDummyExamples class>>#w:
+GTDummyExamples class>>#x:
+GTDummyExamples class>>#y:y:
+GTDummyExamples class>>#z:
+GTDummyExamples class>>#a
+GTDummyExamples class>>#b:
+GTDummyExamples class>>#c:
+GTDummyExamples class>>#d:
+GTDummyExamples class>>#e:
+GTDummyExamples class>>#f:
+GTDummyExamples class>>#g:
+GTDummyExamples class>>#i
+GTDummyExamples class>>#j
+GTDummyExamples class>>#k
+GTDummyExamples class>>#l
+GTDummyExamples class>>#m
+GTDummyExamples class>>#n
+GTDummyExamples class>>#o
+GTDummyExamples class>>#p:p:p:
+GTDummyExamples class>>#q:
+GTDummyExamples class>>#r:r:
+GTDummyExamples
+GTDummyExamplesInvalid class>>#a:
+GTDummyExamplesInvalid class>>#b
+GTDummyExamplesInvalid class>>#c:c:
+GTDummyExamplesInvalid class>>#d
+GTDummyExamplesInvalid
+GTDummyExamplesPragmas class>>#a
+GTDummyExamplesPragmas class>>#b
+GTDummyExamplesPragmas class>>#c
+GTDummyExamplesPragmas class>>#d
+GTDummyExamplesPragmas class>>#e
+GTDummyExamplesPragmas class>>#f
+GTDummyExamplesPragmas class>>#g
+GTDummyExamplesPragmas class>>#h
+GTDummyExamplesPragmas class>>#i
+GTDummyExamplesPragmas class>>#iconForG
+GTDummyExamplesPragmas class>>#iconForJ
+GTDummyExamplesPragmas class>>#j
+GTDummyExamplesPragmas class>>#k
+GTDummyExamplesPragmas class>>#l
+GTDummyExamplesPragmas class>>#m
+GTDummyExamplesPragmas
+GTDummyExamplesRecursive class>>#a:
+GTDummyExamplesRecursive class>>#b:
+GTDummyExamplesRecursive class>>#c:
+GTDummyExamplesRecursive class>>#d:
+GTDummyExamplesRecursive class>>#e:
+GTDummyExamplesRecursive class>>#f:
+GTDummyExamplesRecursive class>>#g:g:
+GTDummyExamplesRecursive class>>#h
+GTDummyExamplesRecursive class>>#i:i:
+GTDummyExamplesRecursive class>>#j:
+GTDummyExamplesRecursive class>>#k:k:
+GTDummyExamplesRecursive class>>#l:l:
+GTDummyExamplesRecursive class>>#m:m:
+GTDummyExamplesRecursive class>>#n:
+GTDummyExamplesRecursive class>>#o:
+GTDummyExamplesRecursive class>>#p:
+GTDummyExamplesRecursive class>>#q:q:
+GTDummyExamplesRecursive class>>#r:
+GTDummyExamplesRecursive class>>#s:
+GTDummyExamplesRecursive class>>#t:t:
+GTDummyExamplesRecursive class>>#u:u:
+GTDummyExamplesRecursive class>>#v:
+GTDummyExamplesRecursive class>>#w:w:
+GTDummyExamplesRecursive class>>#x:
+GTDummyExamplesRecursive class>>#y:
+GTDummyExamplesRecursive class>>#z:
+GTDummyExamplesRecursive
+GTDummyExamplesWithDependencies class>>#a
+GTDummyExamplesWithDependencies class>>#b:
+GTDummyExamplesWithDependencies class>>#c:c:
+GTDummyExamplesWithDependencies class>>#d:d:d:
+GTDummyExamplesWithDependencies class>>#e:e:e:e:
+GTDummyExamplesWithDependencies class>>#f:f:f:
+GTDummyExamplesWithDependencies class>>#g:g:g:
+GTDummyExamplesWithDependencies
+GTDummyExamplesWithExceptions class>>#a
+GTDummyExamplesWithExceptions class>>#b
+GTDummyExamplesWithExceptions class>>#c
+GTDummyExamplesWithExceptions class>>#d
+GTDummyExamplesWithExceptions class>>#e
+GTDummyExamplesWithExceptions class>>#f:
+GTDummyExamplesWithExceptions class>>#g:
+GTDummyExamplesWithExceptions class>>#h
+GTDummyExamplesWithExceptions
+GTDummyExamplesWithExternalDependencies class>>#a:
+GTDummyExamplesWithExternalDependencies class>>#b:b:
+GTDummyExamplesWithExternalDependencies class>>#c:c:c:
+GTDummyExamplesWithExternalDependencies
+GTExample>>#description
+GTExample>>#exceptions
+GTExample>>#finder
+GTExample>>#icon
+GTExample>>#label
+GTExample>>#pragma
+GTExample>>#source
+GTExample>>#subjects
+GTExample>>#initializeFromFinder:withPragma:
+GTExample>>#dependsAll:
+GTExample>>#dependsClass:selector:
+GTExample>>#depends:
+GTExample>>#description:
+GTExample>>#gtExample
+GTExample>>#iconBase64:
+GTExample>>#iconBytes:
+GTExample>>#iconClass:selector:
+GTExample>>#iconSelector:
+GTExample>>#iconThemeSelector:
+GTExample>>#icon:
+GTExample>>#label:
+GTExample>>#noTest
+GTExample>>#notTestReport
+GTExample>>#raisesAny:
+GTExample>>#raises:
+GTExample>>#subject:
+GTExample>>#subjectsAll:
+GTExample>>#children
+GTExample>>#classNamed:
+GTExample>>#classNamed:do:
+GTExample>>#classNamed:do:ifNone:
+GTExample>>#dependenciesOrErrors
+GTExample>>#detachFromSystem
+GTExample>>#detachResultFromSystem
+GTExample>>#parents
+GTExample>>#resultCached:
+GTExample>>#result:
+GTExample>>#run
+GTExample>>#substrings:do:
+GTExample>>#allDependencies
+GTExample>>#allDependents
+GTExample>>#arguments
+GTExample>>#debug
+GTExample>>#debugger
+GTExample>>#dependencies
+GTExample>>#dependents
+GTExample>>#evaluator
+GTExample>>#example
+GTExample>>#hash
+GTExample>>#method
+GTExample>>#propertyAt:
+GTExample>>#propertyAt:ifAbsentPut:
+GTExample>>#propertyAt:ifAbsent:
+GTExample>>#propertyAt:put:
+GTExample>>#removeFromSystem
+GTExample>>#returnValue
+GTExample>>#sourceCode
+GTExample>>#traverser
+GTExample>>#=
+GTExample>>#equalsExample:
+GTExample>>#exists
+GTExample>>#hasDependencies
+GTExample>>#hasDependency:
+GTExample>>#hasDependent
+GTExample>>#hasDependent:
+GTExample>>#hasDependents
+GTExample>>#hasRelationships
+GTExample>>#hasSubject:
+GTExample>>#hasValidArguments
+GTExample>>#hasValidDependencies
+GTExample>>#ignoreTest
+GTExample>>#ignoreTestReport
+GTExample>>#isValid
+GTExample>>#matchesMethod:
+GTExample>>#gtDebuggerSourceIn:
+GTExample>>#gtDisplayOn:
+GTExample>>#gtDisplaySummaryOn:
+GTExample>>#gtInspectorActionEvaluateResultAndGo
+GTExample>>#gtInspectorDependenciesIn:
+GTExample>>#gtInspectorDependentsIn:
+GTExample>>#gtSpotterDependenciesFor:
+GTExample>>#gtSpotterDependentsFor:
+GTExample>>#gtSpotterPreviewIn:
+GTExample>>#spotterPreviewIn:inContext:
+GTExampleArgumentError
+GTExampleArgumentError>>#defined
+GTExampleArgumentError>>#defined:
+GTExampleArgumentError>>#evaluated
+GTExampleArgumentError>>#evaluated:
+GTExampleArgumentError>>#expected
+GTExampleArgumentError>>#expected:
+GTExampleDebugger
+GTExampleDebugger>>#do:on:do:
+GTExampleDeclaredClassMissing
+GTExampleDeclaredClassMissing>>#classNamed
+GTExampleDeclaredClassMissing>>#classNamed:
+GTExampleDeclaredMethodMissing
+GTExampleDeclaredMethodMissing>>#methodClass
+GTExampleDeclaredMethodMissing>>#methodClass:
+GTExampleDeclaredMethodMissing>>#selector
+GTExampleDeclaredMethodMissing>>#selector:
+GTExampleDependencyError
+GTExampleDependencyError>>#exception
+GTExampleDependencyError>>#exception:
+GTExampleDependencyError>>#isExampleError
+GTExampleError
+GTExampleError>>#example
+GTExampleError>>#example:
+GTExampleError>>#isExampleError
+GTExampleEvaluator
+GTExampleEvaluator>>#initialize
+GTExampleEvaluator>>#do:on:do:
+GTExampleEvaluator>>#process:withArguments:
+GTExampleEvaluator>>#result
+GTExampleExpectedExceptionNotRaised
+GTExampleExpectedExceptionNotRaised>>#exception
+GTExampleExpectedExceptionNotRaised>>#exception:
+GTExampleExpectedExceptionNotRaised>>#expectedError
+GTExampleExpectedExceptionNotRaised>>#expectedError:
+GTExampleFinder class>>#myExamples
+GTExampleFinder class>>#myExamplesTo:
+GTExampleFinder class>>#gtExampleInstance
+GTExampleFinder class>>#allGTExamples
+GTExampleFinder class>>#allGTExamplesTo:
+GTExampleFinder class>>#gtExamplesContained
+GTExampleFinder class>>#gtExamplesContainedTo:
+GTExampleFinder
+GTExampleFinder>>#myExamples
+GTExampleFinder>>#myExamplesTo:
+GTExampleFinder>>#provider
+GTExampleFinder>>#provider:
+GTExampleFinder>>#source
+GTExampleFinder>>#source:
+GTExampleFinder>>#subjects
+GTExampleFinder>>#subjects:
+GTExampleFinder>>#class:selector:method:pragma:
+GTExampleFinder>>#remove:ifPresent:
+GTExampleFinder>>#class:selector:method:to:
+GTExampleFinder>>#class:selector:to:
+GTExampleFinder>>#class:to:
+GTExampleFinder>>#example:to:
+GTExampleFinder>>#method:to:
+GTExampleFinder>>#newExample
+GTExampleFinder>>#newExampleFromPragma:
+GTExampleFinder>>#newImpostorPragma:
+GTExampleFinder>>#proxyExists:
+GTExampleFinder>>#proxy:
+GTExampleFinder>>#proxy:matchesMethod:
+GTExampleFinder>>#gtExamplesContained
+GTExampleFinder>>#gtExamplesContainedTo:
+GTExampleFinder>>#gtSpotterExamplesFor:
+GTExampleImpostorPragma
+GTExampleImpostorPragma>>#arguments
+GTExampleImpostorPragma>>#keyword
+GTExampleImpostorPragma>>#method
+GTExampleImpostorPragma>>#methodClass
+GTExampleImpostorPragma>>#method:
+GTExampleImpostorPragma>>#selector
+GTExampleImpostorPragma>>#=
+GTExampleImpostorPragma>>#hash
+GTExampleImpostorPragma>>#isGTExamplePragma
+GTExampleNautilus class>>#methodChanged:
+GTExampleNautilus
+GTExampleNautilus>>#examples:
+GTExampleNautilus>>#examples:do:
+GTExampleNautilus>>#onExamples:builder:
+GTExampleNautilus>>#onClass:
+GTExampleNautilus>>#onCompiledMethod:
+GTExampleNautilus>>#onPackage:
+GTExampleNautilus>>#onReferences:builder:
+GTExampleNautilusAction
+GTExampleNautilusAction>>#actionOrder
+GTExampleNautilusAction>>#isActionHandled
+GTExampleNautilusAction>>#privateActionIcon
+GTExampleNautilusAction>>#run:
+GTExampleNautilusAction>>#iconForMethod:
+GTExampleNautilusAction>>#resultForMethod:
+GTExampleOrganizer class>>#gtExampleInstance
+GTExampleOrganizer class>>#instance
+GTExampleOrganizer class>>#new
+GTExampleOrganizer class>>#restart
+GTExampleOrganizer class>>#start
+GTExampleOrganizer class>>#stop
+GTExampleOrganizer
+GTExampleOrganizer>>#atMethod:ifAbsentPut:
+GTExampleOrganizer>>#removeAtMethod:ifPresent:
+GTExampleOrganizer>>#initialize
+GTExampleOrganizer>>#reset
+GTExampleOrganizer>>#resetResults
+GTExampleOrganizer>>#checkForDependenciesUsing:
+GTExampleOrganizer>>#checkForMissingClasses
+GTExampleOrganizer>>#checkForMissingClasses:
+GTExampleOrganizer>>#checkForMissingDependencies
+GTExampleOrganizer>>#checkForMissingDependencies:
+GTExampleOrganizer>>#checkForNumberOfArguments:
+GTExampleOrganizer>>#categoryRemoved:
+GTExampleOrganizer>>#classRemoved:
+GTExampleOrganizer>>#classRenamed:
+GTExampleOrganizer>>#jobEnded:
+GTExampleOrganizer>>#jobStarted:
+GTExampleOrganizer>>#methodAdded:
+GTExampleOrganizer>>#methodModified:
+GTExampleOrganizer>>#methodRemoved:
+GTExampleOrganizer>>#notifyForDependencyUsing:example:
+GTExampleOrganizer>>#notifyForMissingClasses:
+GTExampleOrganizer>>#notifyForMissingDependency:example:
+GTExampleOrganizer>>#notifyForNumberOfArguments:
+GTExampleOrganizer>>#notify:exception:
+GTExampleOrganizer>>#cachedExamplesDo:
+GTExampleOrganizer>>#examples
+GTExampleOrganizer>>#withCleanupDo:
+GTExampleOrganizer>>#notifying
+GTExampleOrganizer>>#running
+GTExampleOrganizer>>#start
+GTExampleOrganizer>>#stop
+GTExampleOrganizer>>#gtSpotterGTExamplesFor:
+GTExampleProcessor
+GTExampleProcessor>>#defaultOnArgumentError
+GTExampleProcessor>>#defaultOnDependencyError
+GTExampleProcessor>>#defaultOnProcess
+GTExampleProcessor>>#defaultOnRecursionError
+GTExampleProcessor>>#example
+GTExampleProcessor>>#example:
+GTExampleProcessor>>#onArgumentError
+GTExampleProcessor>>#onArgumentError:
+GTExampleProcessor>>#onDependencyError
+GTExampleProcessor>>#onDependencyError:
+GTExampleProcessor>>#onProcess
+GTExampleProcessor>>#onProcess:
+GTExampleProcessor>>#onRecursionError
+GTExampleProcessor>>#onRecursionError:
+GTExampleProcessor>>#initialize
+GTExampleProcessor>>#basicProcess:
+GTExampleProcessor>>#handleArgumentErrorFor:withArguments:
+GTExampleProcessor>>#handleDependencyErrorFor:withException:
+GTExampleProcessor>>#handleRecursionErrorFor:
+GTExampleProcessor>>#process:
+GTExampleProcessor>>#process:withArguments:
+GTExampleProcessor>>#process:withoutLoopsDo:
+GTExampleProcessor>>#value
+GTExampleProcessor>>#canProcess
+GTExampleProxy
+GTExampleProxy>>#example
+GTExampleProxy>>#example:
+GTExampleProxy>>#owner
+GTExampleProxy>>#owner:
+GTExampleProxy>>#provider
+GTExampleProxy>>#provider:
+GTExampleProxy>>#selector
+GTExampleProxy>>#selector:
+GTExampleProxy>>#detachFromSystem
+GTExampleProxy>>#resolve
+GTExampleProxy>>#withExampleDo:
+GTExampleProxy>>#withExampleDo:ifAbsent:
+GTExampleProxy>>#hash
+GTExampleProxy>>#=
+GTExampleProxy>>#equalsExample:
+GTExampleProxy>>#exists
+GTExampleProxy>>#isValid
+GTExampleProxy>>#matchesMethod:
+GTExampleProxy>>#gtDebuggerSourceIn:
+GTExampleProxy>>#gtDisplayOn:
+GTExampleProxy>>#gtDisplaySummaryOn:
+GTExampleProxy>>#gtInspectorDependenciesIn:
+GTExampleProxy>>#gtInspectorSourceIn:
+GTExampleProxy>>#gtSpotterDependenciesFor:
+GTExampleProxy>>#gtSpotterDependentsFor:
+GTExampleProxy>>#gtSpotterPreviewIn:
+GTExampleRecursionDetected
+GTExampleRecursionDetected>>#next
+GTExampleRecursionDetected>>#next:
+GTExampleRecursionDetected>>#resolved
+GTExampleRecursionDetected>>#resolved:
+GTExampleResult
+GTExampleResult>>#example
+GTExampleResult>>#example:
+GTExampleResult>>#expectedError
+GTExampleResult>>#expectedError:
+GTExampleResult>>#returnValue
+GTExampleResult>>#returnValue:
+GTExampleResult>>#unexpectedError
+GTExampleResult>>#unexpectedError:
+GTExampleResult>>#debug
+GTExampleResult>>#run
+GTExampleResult>>#detachFromSystem
+GTExampleResult>>#isError
+GTExampleResult>>#isExpectedError
+GTExampleResult>>#isFailure
+GTExampleResult>>#isSuccess
+GTExampleResult>>#isUnexpectedError
+GTExampleResult>>#gtDisplayOn:
+GTExampleResult>>#gtDisplaySummaryOn:
+GTExampleTestCase class>>#isAbstract
+GTExampleTestCase
+GTExampleTestCase>>#packageNames
+GTExampleTestCase>>#packages:
+GTExampleTestCase>>#runCase
+GTExampleTestCase>>#runExampleContainers:
+GTExampleTestCase>>#runExample:fromContainer:
+GTExampleTestCase>>#run:
+GTExampleTestCase>>#testExamples
+GTExampleTraverser
+GTExampleTraverser>>#action
+GTExampleTraverser>>#action:
+GTExampleTraverser>>#reversed
+GTExampleTraverser>>#process:withArguments:
+GTExampleUnexpectedExceptionRaised
+GTExampleUnexpectedExceptionRaised>>#unexpectedError
+GTExampleUnexpectedExceptionRaised>>#unexpectedError:
+AbstractNautilusUI class>>#examplesClassMenu:
+AbstractNautilusUI class>>#examplesMethodMenu:
+AbstractNautilusUI class>>#examplesPackageMenu:
+CompiledMethod>>#gtExample
+CompiledMethod>>#gtExamples
+Error>>#isExamplesFailure
+Exception>>#isExampleError
+ExceptionSet>>#copyWithAll:
+ExceptionSet>>#copyWith:
+ExceptionSet>>#signaledBy:
+Object>>#detachFromSystem
+Object>>#equalsExample:
+Object>>#gtExamples
+Object>>#gtExamplesContained
+Pragma>>#isGTExamplePragma
+RPackage>>#gtExamplesContained
+RPackage>>#matchesPackagePattern:
+RPackageTag>>#gtExamplesContained
+SystemNavigation>>#examplesReferencesTo:
+TClass>>#gtInspectorGTExamplesIn:
+TClass>>#gtSpotterGTExamplesFor:
+TClassDescription>>#gtExamplesFinder
+TClassDescription>>#gtExamplesProvider
+TClassDescription>>#gtExamplesSource
+TClassDescription>>#gtExamplesSubjects
+AbstractMorphicAdapter>>#gtInspectorPreviewIn:
+GLMPresentation>>#gtInspectorBrowserIn:
+MetacelloDirective>>#gtInspectorChildren
+MetacelloVersionLoadDirective>>#gtInspectorChildren
+MetacelloVersionLoadDirective>>#gtInspectorLoadDirectivesIn:
+MorphicTreeNodeAdapter>>#gtInspectorPreviewIn:
+Socket class>>#gtExampleTCPSocket
+Socket class>>#gtExampleUDPSocket
+Socket>>#gtInspectorSocketInfo:
+SocketStream class>>#gtExampleOnTCPSocket
+SocketStream class>>#gtExampleOnUDPSocket
+SocketStream>>#gtInspectorSocketInfo:
+GTPlayground class>>#contextMenuBasicActionsFor:
+GTPlayground>>#codePresentation
+GTPlayground>>#contextMenuPragma
+GTPlayground>>#contextMenuActions
+GTSpotter class>>#gtExamplesProvider
+GTSpotter>>#filterByMethods:
+GTSpotter>>#gtDisplaySpotterMorphOn:
+GTSpotterExamples class>>#gtExampleBasic
+GTSpotterExamples class>>#gtExampleOnCompliedMethod
+GTSpotterExamples class>>#gtExampleCustomImplementorsSearchOn:
+GTSpotterExamples class>>#gtExampleCustomImplementorsSearchWithNavigationOn:
+GTSpotterExamples class>>#gtExampleHelpSearchOn:
+GTSpotterExamples class>>#gtExampleImplementorsSearchOn:
+GTSpotterExamples class>>#gtExampleWorldMenuSearchOn:
+GTSpotterExamples class>>#gtExamplesSource
+GTSpotterExamples
+GTSpotterMethodListProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
+GTSpotterMethodListProcessorFilter>>#nullConfigurationBlock
+GTSpotterMethodListProcessorFilter>>#allowProcessorsFrom:configuredWith:
+GTSpotterNullProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
+GTSpotterProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
+GTSpotterStep>>#configureProcessorsStartingAt:with:
+GTSpotter>>#gtSpotterExamplesFor:
+ThemeIcons class>>#gtExampleThemeIcons
+GTInspectorDummyExamplesTest
+GTInspectorDummyExamplesTest>>#allExamplesDummiesProviders
+GTInspectorDummyExamplesTest>>#invalidExamplesDummiesProviders
+GTInspectorDummyExamplesTest>>#recursiveExamplesDummiesProviders
+GTInspectorDummyExamplesTest>>#testExists
+GTInspectorDummyExamplesTest>>#testInvalidDefinitions
+GTInspectorDummyExamplesTest>>#testIsEquals
+GTInspectorDummyExamplesTest>>#testIsGTExample
+GTInspectorDummyExamplesTest>>#testMatchesMethod
+GTInspectorDummyExamplesTest>>#testRecursiveDefinitions
+GTInspectorDummyExamplesTest>>#testResult
+GTInspectorDummyExamplesTest>>#testRun
+GTInspectorDummyExamplesTest>>#examplesInClasses:do:
+GTToolkitExampleTestCase
+GTToolkitExampleTestCase>>#testExamplesDebugger
+GTToolkitExampleTestCase>>#testExamplesInspector
+GTToolkitExampleTestCase>>#testExamplesPlayground
+GTToolkitExampleTestCase>>#testExamplesSpotter
+GTSpotterProcessorsForExamplesTest>>#tearDown
+GTSpotterStepFilteringTest
+GTSpotterStepFilteringTest>>#setUp
+GTSpotterStepFilteringTest>>#testProcessorsFiltering
+GLMPharoPlaygroundPresentation>>#defaultSelectionActions
+GLMPharoPlaygroundPresentation>>#goAction
+ScriptLoader>>#update50390
+ConfigurationOfGTInspectorCore>>#stable:
+ConfigurationOfGTPlaygroundCore>>#stable:
+ConfigurationOfGTSpotter>>#development:
+ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGTSpotter>>#version102:
+ConfigurationOfGToolkitCore>>#stable:
+ConfigurationOfGlamourCore>>#stable:
+GTExample
+GTExample>>#provider
+GTExample>>#result
+GTExample>>#isGTExample
+GTExample>>#gtInspectorSourceIn:
+GTObjectVariablesBrowser>>#evaluatorIn:
+GTSimpleMethodsBrowser>>#sourceOf:for:in:
+TClassDescription>>#gtExamples
+GTSimpleRBTreeBrowser>>#sourceIn:
+Announcer class>>#gtExampleEmptyAnnouncer
+Announcer class>>#gtExampleSystemAnnouncer
+Bitmap class>>#gtExampleIconBits
+BlockClosure class>>#gtExampleEmpty
+BlockClosure class>>#gtExampleOneArgument
+BlockClosure class>>#gtExampleTwoArguments
+Canvas class>>#gtExampleNullCanvas
+Canvas class>>#gtExampleWorldCanvas
+Canvas class>>#gtExampleWorldCanvasWithAlpha
+Canvas class>>#gtExampleWorldCanvasWithShadow
+CompiledMethod>>#gtInspectorSourceIn:
+ComposableModel>>#gtInspectorPreviewIn:
+Context class>>#gtExampleTthisContext
+Date class>>#gtExampleToday
+DateAndTime class>>#gtExampleNow
+Dictionary class>>#gtExampleEmptyDictionary
+Dictionary class>>#gtExampleOneElementDictionaryFrom:
+Dictionary class>>#gtExampleRemoveElementFrom:
+Dictionary class>>#gtExampleTwoElementsDictionaryFrom:
+FileReference>>#gtInspectorStScriptIn:
+FileSystem class>>#gtExampleZip
+Float class>>#gtExampleE
+Float class>>#gtExampleNegativeE
+Float class>>#gtExampleZero
+Form class>>#gtExampleEmptyForm32x32
+KMDispatcher class>>#gtExampleDispatcherWithTarget
+KMDispatcher class>>#gtExampleDispatcherWithTargetAndShortcuts
+KMDispatcher class>>#gtExampleEmptyDispatcher
+KMKeymap class>>#gtExampleKeymapA
+KMKeymap class>>#gtExampleKeymapFOO
+MessageTally class>>#gtExampleSimplePrintString
+MetacelloProjectReferenceSpec class>>#gtExampleProjectReferenceSpec
+MetacelloProjectSpec class>>#gtExampleMetacelloSpec
+MetacelloSpec class>>#gtExampleMetacelloSpec
+MethodModified class>>#gtExampleMethodModified
+Morph class>>#gtExampleEmpty
+Morph class>>#gtExampleSubmorphs
+Number class>>#gtExampleFourtyTwo
+OCAbstractScope class>>#gtExampleMethodScope
+Pragma class>>#gtExamplePragma
+RBMethod class>>#gtExampleThisMethod
+RBProgramNode class>>#gtExampleRBProgramNode
+RBProgramNode>>#gtInspectorSourceCodeIn:
+RGMethodDefinition class>>#gtExampleMethod
+RGMethodDefinition>>#gtInspectorSourceIn:
+RPackage class>>#gtExampleEmpty
+ReadStream class>>#gtExampleReadStream
+ReadStream class>>#gtExampleReadStreamAtEnd
+ReadStream class>>#gtExampleReadStreamEmpty
+ReadStream class>>#gtExampleReadStreamWithPosition
+Set class>>#gtExampleSimple
+String>>#gtInspectorTextIn:
+SymbolicBytecode class>>#gtExampleSymbolicBytecode
+Text class>>#gtExampleSimple
+Time class>>#gtExampleNow
+ZnHeaders class>>#gtExampleDefaultRequestHeaders
+ZnHeaders class>>#gtExampleDefaultResponseHeaders
+ZnMimePart class>>#gtExampleEmptyField
+ZnMimePart class>>#gtExampleField
+ZnMimePart class>>#gtExampleFile
+ZnRequest class>>#gtExampleGetEmpty
+ZnRequest class>>#gtExampleGetLocalhost8080
+ZnRequest class>>#gtExampleGetPharo
+ZnRequest class>>#gtExampleGetRoot
+ZnRequestLine class>>#gtExampleGetEmpty
+ZnRequestLine class>>#gtExampleGetLocalhost8080
+ZnRequestLine class>>#gtExampleGetPharo
+ZnRequestLine class>>#gtExampleGetRoot
+ZnResponse class>>#gtExampleGetEmpty
+ZnResponse class>>#gtExampleGetLocalhost8080
+ZnResponse class>>#gtExampleGetPharo
+ZnResponse class>>#gtExampleGetRoot
+ZnStatusLine class>>#gtExampleForbidden
+ZnStatusLine class>>#gtExampleNotFound
+ZnStatusLine class>>#gtExampleOk
+ZnStringEntity class>>#gtExampleEmptyHtml
+ZnStringEntity class>>#gtExampleEmptyText
+ZnStringEntity class>>#gtExampleEmptyXml
+ZnStringEntity class>>#gtExampleHtml
+ZnStringEntity class>>#gtExampleText
+ZnStringEntity class>>#gtExampleXml
+GTPlayBook class>>#gtExampleEmpty
+GTPlayPage class>>#gtExampleEmpty
+GTPlayPage>>#gtInspectorContentIn:
+GTPlayground>>#currentBindings
+GTPlayground>>#codeIn:
+GTSpotter class>>#gtExampleWithOneStepFrom:
+GTSpotterMethodListProcessorFilter
+GTSpotterMethodListProcessorFilter>>#addSignatureFor:
+GTSpotterMethodListProcessorFilter>>#initialize
+GTSpotterPrivacyAgreementNotificationBrick class>>#gtExample
+Object>>#spotterProcessorsFor:
+GTSpotter>>#spotterWorldMenuFor:
+MCPackage class>>#gtExampleNoPackage
+MCPackage class>>#gtExamplePackage
+MCVersionInfo class>>#gtExampleVersionInfo
+MCWorkingCopy class>>#gtExampleWorkingCopy
+MenuItemMorph class>>#gtExampleMenuItemMorphWithSubitems
+MenuItemMorph class>>#gtExampleMenuItemMorphWithoutSubitems
+MenuMorph>>#spotterItemsFor:
+MetacelloAbstractPackageSpec class>>#gtExamplePackageSpec
+MetacelloProject class>>#gtExampleMetacelloProject
+MetacelloVersion class>>#gtExampleMetacelloVersion
+RPackageTag class>>#gtExamplePackageTag
+SettingNode class>>#gtExampleSettingNode
+SettingTree class>>#gtExampleSettingTree
+TBehavior class>>#gtExampleAllSubclasses
+TBehavior class>>#gtExampleClassVariables
+TBehavior class>>#gtExampleInstanceVariables
+TBehavior class>>#gtExampleSuperclasses
+TBehavior class>>#gtExampleTraitComposition
+TBehavior class>>#gtExampleTraitUsers
+TBehavior class>>#gtExampleTraits
+TClassDescription class>>#gtExamplePackage
+GTInspectorExamplesTest
+GTInspectorExamplesTest>>#tearDown
+GTInspectorExamplesTest>>#checkAllPresentationsOf:
+GTInspectorExamplesTest>>#testAllExamples
+GTSpotterProcessorsForExamplesTest>>#testEachProcessor
+GTSpotterStepTest>>#setUp
+GLMBasicExamples>>#watcher
+GLMBasicExamples>>#smalltalkCode
+GLMExamplesBrowser>>#exampleIn:
+GLMMorphicPharoMethodRenderer>>#morph
+GLMMorphicPharoPlaygroundRenderer>>#morph
+GLMMorphicRubricTextRenderer>>#render:
+GLMWhitespaceTheme class>>#importGlamorousIcons
+ScriptLoader>>#script50389
+ScriptLoader>>#commentForCurrentUpdate
+GTExample>>#gtInspectorSourceIn:
+GTPlayground>>#actionsForPreviousContents
+GTSpotter class>>#gtExampleWithOneStepFrom:
+GTSpotterMethodListProcessorFilter>>#addSignatureFor:
+ScriptLoader>>#script50389

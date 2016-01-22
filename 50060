@@ -1,0 +1,16 @@
+HookGeneratorTest>>#testConditionWithArguments
+ManifestReflectivity
+ManifestReflectivity>>#ruleRBBadMessageRuleV1FalsePositive
+RFCondition>>#valueSelector
+BlockClosure>>#valueSelector
+Boolean>>#valueSelector
+ScriptLoader>>#update50060
+HookGenerator>>#wrapCondition:
+ScriptLoader>>#script50059
+ScriptLoader>>#commentForCurrentUpdate
+SugsAccessesToInstVar>>#execute
+SugsBrowseClassReferences>>#execute
+SugsFindImplementors>>#execute
+SugsFindSenders>>#execute
+SugsStoresIntoInstVar>>#execute
+ScriptLoader>>#script50059

@@ -1,0 +1,156 @@
+ConfigurationOfSessionManager class>>#project
+ConfigurationOfSessionManager class>>#DevelopmentSupport
+ConfigurationOfSessionManager class>>#validate
+ConfigurationOfSessionManager class>>#load
+ConfigurationOfSessionManager class>>#loadBleedingEdge
+ConfigurationOfSessionManager class>>#loadDevelopment
+ConfigurationOfSessionManager class>>#isMetacelloConfig
+ConfigurationOfSessionManager class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfSessionManager class>>#ensureMetacello
+ConfigurationOfSessionManager class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfSessionManager
+ConfigurationOfSessionManager>>#customProjectAttributes
+ConfigurationOfSessionManager>>#project
+ConfigurationOfSessionManager>>#baseline01:
+ConfigurationOfSessionManager>>#development:
+ConfigurationOfSessionManager>>#stable:
+ConfigurationOfSessionManager>>#version10:
+ScriptLoader>>#update50533
+SessionCreationTest
+SessionCreationTest>>#testNewSession
+SessionCreationTest>>#testShutdown
+SessionCreationTest>>#testStartup
+SessionErrorHandlingTest
+SessionErrorHandlingTest>>#setUp
+SessionErrorHandlingTest>>#testErrorCaughtAndDefferedIfExceptionSignaledAtStartupWhenStartupUiManagerActive
+SessionErrorHandlingTest>>#testErrorCaughtIfExceptionSignaledAtShutdownWhenDefaultUiManagerActive
+SessionErrorHandlingTest>>#testErrorHandledIfExceptionSignaledAtShutdownWhenStartupUiManagerActive
+SessionErrorHandlingTest>>#testErrorHandledIfExceptionSignaledAtStartupWhenDefaultUiManagerActive
+SessionErrorHandlingTest>>#newTestSessionfor:
+SessionManagerRegistrationOrderTest
+SessionManagerRegistrationOrderTest>>#register:atSystemPriority:
+SessionManagerRegistrationOrderTest>>#setUp
+SessionManagerRegistrationOrderTest>>#testCategoriesPriorityOrder
+SessionManagerRegistrationOrderTest>>#testCreateCategoryFailsIfAfterUnexistentCategory
+SessionManagerRegistrationOrderTest>>#testCustomCategoryGoesAfterSystemCategoryByDefault
+SessionManagerRegistrationOrderTest>>#testCustomCategoryOrderIsPreserved
+SessionManagerRegistrationOrderTest>>#testPriorityOrderInTheSameCategoryIsRespected
+SessionManagerRegistrationOrderTest>>#testRegisterElementByDefault
+SessionManagerRegistrationOrderTest>>#testRegisterSystemElement
+SessionManagerRegistrationOrderTest>>#testSubscriptionReverseOrder
+SessionManagerUnregistrationTest
+SessionManagerUnregistrationTest>>#setUp
+SessionManagerUnregistrationTest>>#testCanUnregisterClass
+SessionManagerUnregistrationTest>>#testUnregisterUnknownClassDoesNotFail
+TestSessionHandler class>>#onShutdown:
+TestSessionHandler class>>#onStartup:
+TestSessionHandler
+TestSessionHandler>>#handledId
+TestSessionHandler>>#shutdownHandler:
+TestSessionHandler>>#startupHandler:
+TestSessionHandler>>#shutdown:
+TestSessionHandler>>#startup:
+TestSessionHandler>>#printOn:
+TestStartupUIManager
+TestStartupUIManager>>#sessionManager
+TestStartupUIManager>>#sessionManager:
+TestWorkingSession
+TestWorkingSession>>#errorHandler
+TestWorkingSession>>#errorHandler:
+TestWorkingSession>>#errors
+TestWorkingSession>>#executeDeferredStartupActions:
+TestWorkingSession>>#handleError:
+TestWorkingSession>>#initialize
+TestWorkingSession>>#start:
+AbstractSessionHandler
+AbstractSessionHandler>>#handledId
+AbstractSessionHandler>>#shutdown:
+AbstractSessionHandler>>#startup:
+AbstractSessionHandler>>#printOn:
+ClassSessionHandler class>>#forClassNamed:
+ClassSessionHandler
+ClassSessionHandler>>#handledId
+ClassSessionHandler>>#registeredClassName:
+ClassSessionHandler>>#registeredClass
+ClassSessionHandler>>#shutdown:
+ClassSessionHandler>>#startup:
+SessionCategory
+SessionCategory>>#defaultPriority
+SessionCategory>>#name
+SessionCategory>>#name:
+SessionCategory>>#prioritizedList
+SessionCategory>>#initialize
+SessionCategory>>#printOn:
+SessionCategory>>#listAtPriority:
+SessionCategory>>#register:
+SessionCategory>>#register:atPriority:
+SessionCategory>>#unregisterClassNamed:
+SessionManager class>>#default
+SessionManager class>>#default:
+SessionManager class>>#forCompatibility
+SessionManager class>>#initializedSessionManager
+SessionManager
+SessionManager>>#categoryNamed:
+SessionManager>>#currentSession
+SessionManager>>#defaultPriority
+SessionManager>>#shutdownList
+SessionManager>>#startupList
+SessionManager>>#basicCreateCategory:
+SessionManager>>#createCategory:
+SessionManager>>#createCategory:after:
+SessionManager>>#addDeferredStartupAction:
+SessionManager>>#initialize
+SessionManager>>#registerGuiClassNamed:
+SessionManager>>#registerGuiClassNamed:atPriority:
+SessionManager>>#registerNetworkClassNamed:
+SessionManager>>#registerSystemClassNamed:
+SessionManager>>#registerSystemClassNamed:atPriority:
+SessionManager>>#registerToolClassNamed:
+SessionManager>>#register:
+SessionManager>>#register:inCategory:
+SessionManager>>#register:inCategory:atPriority:
+SessionManager>>#unregisterClassNamed:
+SessionManager>>#installNewSession
+SessionManager>>#installSession:
+SessionManager>>#newSession
+SessionManager>>#uninstallSession:
+SessionManager>>#snapshot:andQuit:
+SessionManager>>#guiCategory
+SessionManager>>#networkCategory
+SessionManager>>#systemCategory
+SessionManager>>#toolsCategory
+SessionManager>>#userCategory
+StartupUIManager>>#sessionManager
+StartupUIManager>>#uiManager
+UIManagerSessionHandler class>>#uniqueInstance
+UIManagerSessionHandler class>>#initialize
+UIManagerSessionHandler class>>#release
+UIManagerSessionHandler
+UIManagerSessionHandler>>#handledId
+UIManagerSessionHandler>>#shutdown:
+UIManagerSessionHandler>>#startup:
+WorkingSession
+WorkingSession>>#creationTime
+WorkingSession>>#errorHandler
+WorkingSession>>#id
+WorkingSession>>#manager:
+WorkingSession>>#sid
+WorkingSession>>#addDeferredStartupAction:
+WorkingSession>>#executeDeferredStartupActions:
+WorkingSession>>#initialize
+WorkingSession>>#install
+WorkingSession>>#runList:do:
+WorkingSession>>#runShutdown:
+WorkingSession>>#runStartup:
+WorkingSession>>#start:
+WorkingSession>>#stop:
+WorkingSession>>#uninstall
+ScriptLoader>>#script50532
+ScriptLoader>>#commentForCurrentUpdate
+StartupUIManager
+ScriptLoader>>#script50532
+StartupUIManager class>>#isValidForCurrentSystemConfiguration
+StartupUIManager
+StartupUIManager>>#handleError:log:
+StartupUIManager>>#activate
+StartupUIManager>>#inform:

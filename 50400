@@ -1,0 +1,26 @@
+DictionaryTest>>#testNewFrom
+DictionaryTest>>#testNewFromPairs
+PluggableDictionaryTest>>#testEqualBlock
+PluggableDictionaryTest>>#testEqualBlockEquality
+PluggableDictionaryTest>>#testHashBlock
+PluggableDictionaryTest>>#testHashBlockEquality
+PluggableDictionaryTest>>#testCopyEmpty
+TDictionaryValueAccessTest>>#supportsNilKey
+PluggableDictionary>>#=
+PluggableDictionary>>#hash
+SmallDictionary class>>#newFromPairs:
+SmallDictionary class>>#newFrom:
+OCCompilerASTPlugin>>#transform
+ScriptLoader>>#update50400
+TDictionaryValueAccessTest>>#testAtPutNil
+WeakKeyDictionaryTest>>#classToBeTested
+PluggableDictionary>>#hashBlock
+ZipFileMember>>#uncompressDataTo:
+AbstractNautilusUI>>#buildFirstColumn:
+AbstractNautilusUI>>#buildSecondColumn:
+AbstractNautilusUI>>#buttonsBarHeight
+PackageTreeNautilusUI>>#buildFirstColumn:
+ScriptLoader>>#script50399
+ScriptLoader>>#commentForCurrentUpdate
+WeakIdentityKeyDictionaryTest>>#supportsNilKey
+ScriptLoader>>#script50399

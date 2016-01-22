@@ -1,0 +1,51 @@
+RBArgumentNode>>#adaptToSemanticNode
+RBParseErrorNode>>#adaptToSemanticNode
+RBVariableNode>>#adaptToSemanticNode
+OCASTSemanticAnalyzer>>#declareArgumentNode:
+OCASTSemanticAnalyzer>>#declareVariableNode:as:
+OCAbstractMethodScope>>#addTemp:withName:
+OCAbstractVariable class>>#semanticNodeClass
+OCAbstractVariable>>#semanticNodeClass
+OCArgumentVariable class>>#semanticNodeClass
+OCArgumentVariable
+OCArgumentVariable>>#isArg
+OCArgumentVariable>>#isUninitialized
+OCArgumentVariable>>#isWritable
+OCLiteralVariable class>>#semanticNodeClass
+OCSelfVariable class>>#semanticNodeClass
+OCSelfVariable
+OCSelfVariable>>#initialize
+OCSelfVariable>>#isSelf
+OCSlotVariable class>>#semanticNodeClass
+OCSpecialVariable>>#isThisContext
+OCSuperVariable class>>#semanticNodeClass
+OCSuperVariable
+OCSuperVariable>>#initialize
+OCSuperVariable>>#isSuper
+OCTempVariable class>>#semanticNodeClass
+OCThisContextVariable class>>#semanticNodeClass
+OCThisContextVariable
+OCThisContextVariable>>#emitValue:
+OCThisContextVariable>>#initialize
+OCThisContextVariable>>#isThisContext
+OCUndeclaredVariable class>>#semanticNodeClass
+ScriptLoader>>#update50518
+OCASTClosureAnalyzer>>#visitArgumentNode:
+OCASTClosureAnalyzer>>#visitVariableNode:
+OCASTSemanticAnalyzer>>#declareVariableNode:
+OCASTSemanticAnalyzer>>#visitBlockNode:
+OCASTSemanticAnalyzer>>#visitInlinedBlockNode:
+OCASTSemanticAnalyzer>>#visitMethodNode:
+OCAbstractLocalVariable>>#isUninitialized
+OCAbstractMethodScope>>#initialize
+OCAbstractMethodScope>>#addTemp:
+OCAbstractVariable>>#isRead
+OCInstanceScope>>#initialize
+OCSpecialVariable>>#emitValue:
+OCASTCheckerTest>>#testExampleThisContext
+RFSemanticAnalyzer>>#visitMethodNode:
+ScriptLoader>>#script50517
+ScriptLoader>>#commentForCurrentUpdate
+OCAbstractVariable>>#asString
+OCAbstractVariable>>#isArg
+ScriptLoader>>#script50517

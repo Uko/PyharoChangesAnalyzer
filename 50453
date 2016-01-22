@@ -1,0 +1,44 @@
+PasteUpMorph>>#nextVisibleWindow
+AbstractNautilusUI>>#removeIconStyle
+AbstractNautilusUI>>#resetIconStyle
+ScriptLoader>>#update50453
+HaloMorph>>#doGrow:with:
+WorldState class>>#windowsOn:
+Morph>>#initialExtent
+PasteUpMorph>>#wantsHaloFromClick
+PasteUpMorph>>#deleteAllHalos
+PasteUpMorph>>#fitAll
+Nautilus>>#addIconStyle
+Nautilus>>#package:class:protocol:method:
+RubSmalltalkEditor class>>#menuOn:
+ScriptLoader>>#script50452
+ScriptLoader>>#commentForCurrentUpdate
+SmalltalkEditor>>#smartSuggestions
+SmalltalkEditor class>>#smalltalkEditorMenuOn:
+Morph>>#beginsWith:fromList:
+Morph>>#handlesMouseOver:
+Morph>>#mouseWheel:
+PasteUpMorph>>#backgroundMorph
+PasteUpMorph>>#backgroundMorph:
+PasteUpMorph>>#acceptDroppingMorph:event:
+WorldMorph>>#taskList
+Morph>>#isWindowActive:
+Morph>>#openModal:
+PasteUpMorph>>#fitAll
+PasteUpMorph>>#isWindowActive:
+PasteUpMorph>>#modalLockTo:
+PasteUpMorph>>#modalUnlockFrom:
+PasteUpMorph>>#modelWakeUp
+PasteUpMorph>>#navigateVisibleWindowForward
+PasteUpMorph>>#navigateWindowBackward
+PasteUpMorph>>#navigateWindowForward
+PasteUpMorph>>#nextWindow
+PasteUpMorph>>#openModal:
+PasteUpMorph>>#previousWindow
+PasteUpMorph>>#systemWindows
+PasteUpMorph>>#visibleSystemWindows
+Nautilus>>#addIconStyle
+ScriptLoader>>#script50452
+Morph>>#heightToDisplayInTree:
+Morph>>#treeRenderOn:bounds:color:font:from:
+Morph>>#widthToDisplayInTree:

@@ -1,0 +1,14 @@
+RubAbstractTextArea>>#appendText:
+RubScrolledTextMorph>>#appendText:
+RubSmalltalkCommentMode>>#editorClass
+RubTextScrollPane>>#appendText:
+ScriptLoader>>#update50366
+ThreadSafeTranscript>>#interactionModel
+ThreadSafeTranscript>>#menu
+RubEditingMode>>#editorClass
+RubPluggableTextMorph>>#update:
+RubScrolledTextMorph>>#acceptTextInModel
+ScriptLoader>>#script50365
+ScriptLoader>>#commentForCurrentUpdate
+ThreadSafeTranscript>>#openLabel:
+ScriptLoader>>#script50365

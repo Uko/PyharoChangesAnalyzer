@@ -1,0 +1,23 @@
+MustBeBooleanTests>>#testWhile
+ScriptLoader>>#update50177
+TabExample
+IRJumpIf>>#nextBytecodeOffsetAfterJump
+ScriptLoader>>#script50176
+ScriptLoader>>#commentForCurrentUpdate
+TabExample class>>#open
+TabExample
+TabExample>>#window
+TabExample>>#initialize
+TabExample>>#open
+TabExample>>#addTabs
+TabExample>>#delete
+TabExample>>#tabs
+TabExample>>#blueMorphTab
+TabExample>>#freshListTab
+TabExample>>#redMorphTab
+TabExample>>#storedListTab
+MustBeBooleanTests>>#testAnd
+MustBeBooleanTests>>#testIfTrueEffect
+MustBeBooleanTests>>#testIfTrueValue
+MustBeBooleanTests>>#testOr
+ScriptLoader>>#script50176

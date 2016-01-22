@@ -1,0 +1,21 @@
+GlobalForTesting
+ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
+ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
+ScriptLoader>>#update50231
+NECPreferences class>>#initialize
+ReflectivityControlTest>>#testAfterVariable
+ReflectivityControlTest>>#testBeforeVariable
+ReflectivityControlTest>>#testReplaceVariableReadGlobal
+ReflectivityExamples>>#exampleGlobalRead
+ReflectivityReificationTest>>#testReifyGlobalName
+ReflectivityReificationTest>>#testReifyGlobalValue
+ReflectivityReificationTest>>#testReifyGlobalVariable
+LinkWrapperGlobal>>#uninstall
+ScriptLoader>>#script50230
+ScriptLoader>>#commentForCurrentUpdate
+NECPreferences class>>#initialize
+NECPreferences class>>#defaultPopupDelay
+NECPreferences class>>#defaultPopupShortcut
+NECPreferences class>>#defaultPopupShowAutomatic
+NECPreferences class>>#defaultSpaceAfterCompletion
+ScriptLoader>>#script50230

@@ -1,0 +1,41 @@
+ConfigurationOfTxText>>#development:
+ConfigurationOfTxText>>#stable:
+ConfigurationOfTxText>>#version285:
+ConfigurationOfTxText>>#version29:
+ScriptLoader>>#update50031
+TxBasicViewMorph class>>#fontFamilyForExamples
+TxBasicViewMorph class>>#openInWindowWithString:
+TxTextEditorMorph class>>#exampleHugeText
+TxBasicSpan>>#style
+TxCharacterSpan>>#canMerge:
+TxSpanWithStyle>>#printContentsOn:
+TxSpanWithStyle>>#printOn:
+ConfigurationOfTxText>>#baseline101:
+ScriptLoader>>#script639
+ScriptLoader>>#commentForCurrentUpdate
+TxApplicationWithToolbar>>#openWithSpec
+TxAthensLayoutView>>#scrollBy:
+TxTextEditorMorph class>>#exampleTextMultiSizeFont
+TxTextEditorMorph class>>#exampleWithCustomClickAction
+TxTextEditorMorph class>>#exampleWithCustomCursor
+TxTextEditorMorph class>>#exampleWithEmbeddedObject
+TxTextEditorMorph class>>#initialize
+TxCharacterSpan>>#mergeUpTo:
+TxEmbeddedObjectSpan>>#printContentsOn:
+TxEndSpan>>#printOn:
+TxLineSeparator>>#mergeUpTo:
+TxLineSeparator>>#printContentsOn:
+TxModel class>>#fromString:
+TxModel
+TxModel>>#mergeFrom:to:
+TxStartSpan>>#style
+TxStartSpan>>#printOn:
+TxStyle>>#removeAll
+TxTextStyles>>#addStyle:
+TxTextStyles>>#extend:with:
+TxTextStyler>>#addAttribute:forNode:
+TxTextStyler>>#addAttributes:forNode:
+TxTextStyler>>#visitMethodNode:
+ScriptLoader>>#script639
+TxTextEditorMorph class>>#openInWindowWithText:
+TxLayoutViewMorph class>>#text:

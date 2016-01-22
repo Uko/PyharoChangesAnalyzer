@@ -1,0 +1,19 @@
+ManifestCollectionsStreams class>>#ignoredDependencies
+MCTool>>#interactionModel
+ScriptLoader>>#update50313
+ManifestCollectionsStreams class>>#manuallyResolvedDependencies
+FileReference>>#nextVersion
+FontChooser
+ManifestKernel class>>#ignoredDependencies
+MCTool
+WorldState class>>#saveAs
+MorphTreeModel
+PragmaCollector
+PragmaCollector>>#initialize
+PragmaCollector>>#announce:
+ScriptLoader>>#script50312
+ScriptLoader>>#commentForCurrentUpdate
+MTProject
+MBConfigurationRoot
+PragmaCollector>>#reset
+ScriptLoader>>#script50312

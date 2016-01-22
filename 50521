@@ -1,0 +1,33 @@
+MenuItemMorph>>#countingMenu
+MenuItemMorph>>#insistMenu
+ShortcutReminderMorph class>>#countingMenu
+ShortcutReminderMorph class>>#initialize
+ShortcutReminderMorph class>>#with:
+ShortcutReminderMorph class>>#enableShortcutReminder
+ShortcutReminderMorph class>>#enableShortcutReminder:
+ShortcutReminderMorph class>>#settingsOn:
+ShortcutReminderMorph class>>#timesShortcutReminder
+ShortcutReminderMorph class>>#timesShortcutReminder:
+ShortcutReminderMorph class>>#startUp:
+ShortcutReminderMorph
+ShortcutReminderMorph>>#alpha
+ShortcutReminderMorph>>#text:
+ShortcutReminderMorph>>#countingMenu
+ShortcutReminderMorph>>#initialize
+ShortcutReminderMorph>>#alpha:
+ShortcutReminderMorph>>#resetAlpha
+ShortcutReminderMorph>>#step
+ShortcutReminderMorph>>#stepTime
+ShortcutReminderMorph>>#wantsSteps
+ToggleMenuItemMorph>>#itemShortcut
+ToggleMenuItemShortcutWithSymbol>>#text
+ToggleMenuItemShortcutWithText>>#text
+ScriptLoader>>#update50521
+MenuItemMorph>>#invokeWithEvent:
+ToggleMenuItemMorph>>#drawKeyTextOn:
+ToggleMenuItemShortcutWithSymbol>>#drawOn:
+ScriptLoader>>#script50520
+ScriptLoader>>#commentForCurrentUpdate
+MenuItemMorph>>#deselectItem
+MenuItemMorph>>#isEnabled:
+ScriptLoader>>#script50520

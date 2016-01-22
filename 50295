@@ -1,0 +1,45 @@
+ManifestJobs class>>#ignoredDependencies
+ManifestOpalCompilerCore class>>#ignoredDependencies
+ScriptLoader>>#update50295
+ManifestUIManager class>>#ignoredDependencies
+ManifestASTCore class>>#manuallyResolvedDependencies
+ManifestCompression class>>#manuallyResolvedDependencies
+JobTest
+ManifestMonticello class>>#manuallyResolvedDependencies
+ManifestRingMonticello class>>#manuallyResolvedDependencies
+ScriptLoader>>#script50294
+ScriptLoader>>#commentForCurrentUpdate
+ManifestSlot class>>#manuallyResolvedDependencies
+ManifestSystemChanges class>>#manuallyResolvedDependencies
+ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
+ManifestSystemSources class>>#manuallyResolvedDependencies
+ManifestSystemSupport class>>#manuallyResolvedDependencies
+ClassQueryTest
+MethodQueryTest
+ManifestTraits class>>#manuallyResolvedDependencies
+ManifestTranscript class>>#manuallyResolvedDependencies
+ManifestUIManager class>>#manuallyResolvedDependencies
+JobTest
+JobTest>>#tearDown
+JobTest>>#testChildJob
+JobTest>>#testCurrentJob
+JobTest>>#testJobAnnouncements
+JobTest>>#testLookupJob
+JobTest>>#testOwner
+JobTest>>#testProgress
+JobTest>>#testProgressChangeByCurrentValue
+JobTest>>#testSingleJob
+ManifestOpalCompilerCore class>>#rejectRules
+ManifestOpalCompilerCore class>>#ruleAssignmentInIfTrueRuleV1TruePositive
+ManifestOpalCompilerCore class>>#ruleBadMessageRuleV1FalsePositive
+ManifestOpalCompilerCore class>>#ruleMethodHasNoTimeStampRuleV1TruePositive
+ManifestOpalCompilerCore class>>#ruleTempsReadBeforeWrittenRuleV1FalsePositive
+ManifestOpalCompilerCore class>>#ruleToDoCollectRuleV1FalsePositive
+ManifestOpalCompilerCore class>>#ruleVariableAssignedLiteralRuleV1FalsePositive
+ScriptLoader>>#script50294
+ClassQueryTest
+ClassQueryTest>>#testAllCallsOn
+ClassQueryTest>>#testAllCallsOnASymbol
+ClassQueryTest>>#testReferencedClasses
+MethodQueryTest
+MethodQueryTest>>#testReferencedClasses

@@ -1,0 +1,35 @@
+ScriptLoader>>#update50068
+WorldState class>>#mostUsedToolsOn:
+WorldState class>>#quitItemsOn:
+TextMorphForFieldView
+ScriptLoader>>#script50067
+ScriptLoader>>#commentForCurrentUpdate
+SettingBrowser class>>#menuCommandOn:
+ThreadSafeTranscript class>>#menuCommandOn:
+InfiniteForm>>#fillRectangle:on:
+TextMorphForFieldView
+TextMorphForFieldView>>#maxLength
+TextMorphForFieldView>>#maxLength:
+TextMorphForFieldView>>#minExtent
+TextMorphForFieldView>>#keyboardFocusChange:
+TextMorphForFieldView>>#keyStroke:
+TextMorphForFieldView>>#mouseMove:
+TextMorphForFieldView>>#localHandleKeystroke:
+TextMorphForFieldView>>#sharesFindReplace
+TextMorphForFieldView>>#minimumExtent
+TextMorphForFieldView>>#minHeight
+TextMorphForFieldView>>#minWidth
+TextMorphForFieldView>>#editorClass
+TextMorphForFieldView>>#paragraph
+TextMorphForFieldView>>#useFindReplaceSelection
+TextMorphForFieldView>>#useSecondarySelection
+TextMorphForFieldView>>#useSelectionBar
+TextMorphForFieldView>>#isEditEvent:
+ScriptLoader>>#script50067
+Object>>#basicInspect
+Object>>#explore
+Object>>#inspect
+Object>>#inspectOnce
+Object>>#inspectWithLabel:
+Object>>#inspector
+Object>>#inspectorClass

@@ -1,0 +1,17 @@
+RBFormatterTests>>#testShouldNotParenthesizeDynamicArrayStatements
+ConfigurationOfCatalog>>#version051:
+ScriptLoader>>#update50107
+ChangeSorterApplication>>#createRingMethodForRemovedSelector:inClass:
+ChangeSorterApplication>>#createRingMethodForSelector:inClass:
+NewVersionBrowser class>>#browseVersionsForMethod:
+RBConfigurableFormatter>>#needsParenthesisFor:
+ConfigurationOfCatalog>>#stable:
+AbstractNautilusUI>>#textMorphClass
+AbstractNautilusUI>>#buildNewSourceTextArea
+AbstractNautilusUI>>#sourceCode
+ScriptLoader>>#script50106
+ScriptLoader>>#commentForCurrentUpdate
+ChangeSorterApplication>>#browseVersions
+AbstractTool>>#browseVersionsFrom:
+GTSpotter>>#spotterCatalogProjectsFor:
+ScriptLoader>>#script50106

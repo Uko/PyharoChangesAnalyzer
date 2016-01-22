@@ -1,0 +1,62 @@
+HookGenerator class>>#node:link:
+RFArgumentsReification
+RFSenderReification class>>#key
+RFSenderReification class>>#nodes
+RFSenderReification
+RFSenderReification>>#genForRBMessageNode
+RFSenderReification>>#genForRBMethodNode
+ScriptLoader>>#update50069
+DoubleLinkedList>>#firstLink
+DoubleLinkedList>>#lastLink
+DoubleLinkedList>>#linksDo:
+DoubleLinkedList>>#reverseLinksDo:
+DoubleLinkedList>>#emptyCheck
+DoubleLinkedListTests>>#testFirstAndLastLink
+DoubleLinkedListTests>>#testLinksDo
+DoubleLinkedListTests>>#testReverseLinksDo
+PharoShortcuts>>#openKomitterShortcut
+ToolShortcutsCategory>>#openKomitter
+Komitter class>>#komitterMenuOn:
+HookGeneratorTest>>#testConditionWithArguments
+HookGeneratorTest>>#testHookWithArguments
+HookGeneratorTest>>#testHookWithVirtualMeta
+HookGenerator>>#initForNode:
+MetaLink>>#hookOn:
+RFTArgumentsReification>>#genForRBProgramNode
+RFNewValueReification>>#genForRBAssignmentNode
+RFSemanticAnalyzer>>#visitNode:
+ScriptLoader>>#script50068
+ScriptLoader>>#commentForCurrentUpdate
+DoubleLinkedList>>#first
+DoubleLinkedList>>#last
+DoubleLinkedList>>#addAll:
+DoubleLinkedList>>#addFirst:
+DoubleLinkedList>>#addLast:
+DoubleLinkedList>>#add:
+DoubleLinkedList>>#add:afterLink:
+DoubleLinkedList>>#add:beforeLink:
+DoubleLinkedList>>#asArray
+DoubleLinkedList>>#collect:
+DoubleLinkedList>>#do:
+DoubleLinkedList>>#reject:
+DoubleLinkedList>>#reverseDo:
+DoubleLinkedList>>#select:
+DoubleLinkedList>>#removeAll
+DoubleLinkedList>>#removeFirst
+DoubleLinkedList>>#removeLast
+DoubleLinkedList>>#removeLink:
+DoubleLinkedList>>#includes:
+DoubleLinkedList>>#isEmpty
+Breakpoint>>#initialize
+HookGenerator>>#initForNode:
+MetaLink class>>#uninstallAll
+RFTArgumentsReification class>>#key
+RFTArgumentsReification class>>#nodes
+RFTArgumentsReification>>#genForRBProgramNode
+RFLinkReification>>#genForRBProgramNode
+RFNodeReification>>#genForRBProgramNode
+RFObjectReification>>#genForRBProgramNode
+RFReification class>>#node:link:
+RFReification class>>#allKeys
+RFReification class>>#for:
+ScriptLoader>>#script50068

@@ -1,0 +1,15 @@
+OCASTClosureAnalyzer>>#changeVariableClass:
+OCVariableSpecialisatioTest
+OCVariableSpecialisatioTest>>#testVarTemp
+ScriptLoader>>#update50190
+CompiledMethod>>#parseTree
+WorldState>>#runLocalStepMethodsIn:
+CCompilationContext>>#parserClass
+CompilationContext>>#parserClass
+OCASTClosureAnalyzer>>#visitVariableNode:
+OpalCompiler>>#parseLiterals:
+OpalCompiler>>#parseSelector:
+OCASTCheckerTest>>#testSemanticAnalysisOnNonMethodNode
+ScriptLoader>>#script50189
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50189

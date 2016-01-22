@@ -1,0 +1,59 @@
+ScriptLoader>>#update50092
+EndianDetector class>>#initialize
+EndianDetector class>>#calcEndianness
+EndianDetector class>>#startUp:
+EndianDetector class>>#isBigEndian
+EndianDetector class>>#isLittleEndian
+EndianDetector
+SimpleTextGlyphInfo>>#loadFrom:
+ShortIntegerArray>>#restoreEndianness
+ShortIntegerArray>>#write:on:
+FT2GlyphSlot>>#loadFrom:
+FT2Handle>>#printOn:
+FLEncoder>>#encodeYourself
+FLWordObjectCluster>>#materializeInstanceWith:
+Form>>#readResourceFrom:
+Form>>#storeResourceOn:
+PNGReadWriter>>#nextImage
+PNGReadWriter>>#nextPutImage:interlace:filter:
+Bitmap>>#copyFromByteArray:
+Bitmap>>#asByteArray
+ArrayedCollection>>#restoreEndianness
+MatrixTransform2x3>>#restoreEndianness
+DefaultExternalDropHandler
+ExternalDropHandler class>>#unwantedSelectors
+DefaultExternalDropHandler>>#unwantedSelectors
+ExternalDropHandler
+ScriptLoader>>#script50091
+ScriptLoader>>#commentForCurrentUpdate
+SmalltalkImage
+SmalltalkImage>>#processShutDownList:
+ChangeList class>>#fileReaderServicesForFile:suffix:
+ChangeList class>>#services
+DefaultExternalDropHandler class>>#initialize
+DefaultExternalDropHandler class>>#unload
+DefaultExternalDropHandler
+DefaultExternalDropHandler>>#chooseServiceFrom:
+DefaultExternalDropHandler>>#servicesForFileNamed:
+ExternalDropHandler class>>#unwantedSelectors
+ExternalDropHandler class>>#defaultHandler
+ExternalDropHandler class>>#defaultHandler:
+ExternalDropHandler class>>#lookupExternalDropHandler:
+ExternalDropHandler class>>#lookupServiceBasedHandler:
+ExternalDropHandler class>>#registerHandler:
+ExternalDropHandler class>>#cleanUp
+ExternalDropHandler class>>#initialize
+ExternalDropHandler class>>#type:extension:action:
+ExternalDropHandler class>>#chooseServiceFrom:
+ExternalDropHandler class>>#registeredHandlers
+ExternalDropHandler class>>#resetRegisteredHandlers
+DefaultExternalDropHandler>>#unwantedSelectors
+ExternalDropHandler
+ExternalDropHandler>>#extension
+ExternalDropHandler>>#handle:in:dropEvent:
+ExternalDropHandler>>#type
+ExternalDropHandler>>#type:extension:action:
+ExternalDropHandler>>#matchesExtension:
+ExternalDropHandler>>#matchesTypes:
+ScriptLoader>>#script50091
+SmalltalkImage>>#endianness

@@ -1,0 +1,19 @@
+Collection>>#asOrderedDictionary
+OrderedDictionary>>#atRandom:
+OrderedDictionaryTest>>#testAtRandom
+ScriptLoader>>#update50408
+TClass>>#private_subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Trait>>#private_subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+NautilusRefactoring>>#privateMoveMethodFor:
+RBMoveMethodRefactoring class>>#model:selector:class:variable:
+RBMoveMethodRefactoring class>>#selector:class:variable:
+RBMoveMethodRefactoring>>#checkAssignmentsToVariable
+RBMoveMethodRefactoring>>#getClassForGlobalOrClassVariable
+RingChunkImporter>>#removedMethod:with:
+ScriptLoader>>#script50407
+ScriptLoader>>#commentForCurrentUpdate
+TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+ScriptLoader>>#script50407

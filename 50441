@@ -1,0 +1,23 @@
+NautilusUI>>#toggleBreakOnEntryIn:
+NautilusUI>>#toggleBreakPoint
+Breakpoint2 class>>#break
+Breakpoint2 class>>#installOn:
+Breakpoint2 class>>#removeAll
+Breakpoint2 class>>#removeFrom:
+Breakpoint2
+BreakpointManager
+ReflectiveMethod>>#removeLink:
+CompiledMethod>>#hasBreakpoint
+CompiledMethod>>#removeLink:
+RGMethodDefinition>>#removeLink:
+ScriptLoader>>#update50441
+MethodContainsHaltAction>>#isActionHandled
+MethodWidget class>>#elementsMenu:
+ReflectiveMethod>>#metaLinkOptions
+LiteralVariable>>#removeLink:
+RBProgramNode>>#removeLink:
+Slot>>#removeLink:
+TemporaryVariable>>#removeLink:
+ScriptLoader>>#script50440
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50440

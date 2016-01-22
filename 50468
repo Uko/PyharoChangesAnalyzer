@@ -1,0 +1,25 @@
+RBScanner class>>#cascadePatternCharacter
+Watchpoint>>#compiledMethod
+WatchpointWindow>>#menu
+WatchpointWindow>>#menu:
+WatchpointWindow>>#lessItems
+WatchpointWindow>>#moreItems
+WatchpointWindow>>#setupMenu
+ScriptLoader>>#update50468
+RBIdentifierToken>>#isKeywordPattern
+RBScanner class>>#initializeClassificationTable
+RBScanner
+WatchpointWindow class>>#defaultSpec
+WatchpointWindow
+WatchpointWindow>>#extent
+WatchpointWindow>>#title
+WatchpointWindow>>#initializePresenter
+WatchpointWindow>>#initializeWidgets
+WatchpointWindow>>#refreshItems
+ScriptLoader>>#script50467
+ScriptLoader>>#commentForCurrentUpdate
+SugsMenuBuilder class>>#findSuggestionsFor:
+SugsSuggestionFactory class>>#createWatchpointCommand
+SugsSuggestionFactory class>>#createWatchpointDeleteHistoryCommand
+SugsWatchpointSuggestion>>#isValidForContext
+ScriptLoader>>#script50467

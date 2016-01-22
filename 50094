@@ -1,0 +1,258 @@
+BinaryFileStreamTest
+BinaryFileStreamTest>>#fileStreamClass
+BinaryFileStreamTest>>#fileStreamForFileNamed:
+BinaryFileStreamTest>>#tearDown
+BinaryFileStreamTest>>#testEmptyFileIsAtEnd
+BinaryFileStreamTest>>#testFileWithSomeBytesSizeIsNotZero
+BinaryFileStreamTest>>#testFullFileIsAtEnd
+BinaryFileStreamTest>>#testOpenFile
+BinaryFileStreamTest>>#testPeekDoesNotAdvanceTheStream
+BinaryFileStreamTest>>#testReadFullFileIsAtEnd
+BinaryFileStreamTest>>#testReadLessThanAvailableYieldsJustRead
+BinaryFileStreamTest>>#testReadMoreThanAvailableYieldsOnlyAvailable
+BinaryFileStreamTest>>#testReadMultipleBytes
+BinaryFileStreamTest>>#testReadWhenNothingAvailableYieldsNil
+BinaryFileStreamTest>>#testSkipLecture
+BinaryFileStreamTest>>#testWriteMultipleBytes
+BinaryFileStreamTest>>#testWriteReadInt
+BinaryFileStreamTest>>#testWriteToClosedFileFails
+FileTest
+FileTest>>#tearDown
+FileTest>>#testCannotOpenFileTwice
+FileTest>>#testCreateFileObjectDoesNotCreateFile
+FileTest>>#testEmptyFileSizeIsZero
+FileTest>>#testFileAtEnd
+FileTest>>#testFileBufferedRead
+FileTest>>#testFileDelete
+FileTest>>#testFileExists
+FileTest>>#testFileWriteBufferedString
+FileTest>>#testFileWriteFullString
+FileTest>>#testForceNewFileDeletesExistingFile
+FileTest>>#testOpenFileForReadDoesNotDeleteExistingFile
+FileTest>>#testOpeningFileNormallyDoesNotDeleteExistingFile
+FileTest>>#testOpeningFileObjectCreatesFile
+FileTest>>#testOpeningFileSetsPositionAtBeggining
+FileTest>>#testSeekAbsoluteCannotBeNegative
+FileTest>>#testSeekAbsoluteChangesPositionAbsolutely
+FileTest>>#testSeekRelativeMovesFromCurrentPosition
+AbstractBinaryFileStream class>>#on:
+AbstractBinaryFileStream
+AbstractBinaryFileStream>>#file
+AbstractBinaryFileStream>>#file:
+AbstractBinaryFileStream>>#cr
+AbstractBinaryFileStream>>#crlf
+AbstractBinaryFileStream>>#lf
+AbstractBinaryFileStream>>#peek
+AbstractBinaryFileStream>>#atEnd
+AbstractBinaryFileStream>>#position
+AbstractBinaryFileStream>>#printOn:
+AbstractBinaryFileStream>>#onPositionDo:
+AbstractBinaryFileStream>>#next
+AbstractBinaryFileStream>>#next:
+AbstractBinaryFileStream>>#skip:
+AbstractBinaryFileStream>>#upToAnyOf:
+AbstractBinaryFileStream>>#upTo:
+AbstractBinaryFileStream>>#nextPutAll:
+AbstractBinaryFileStream>>#nextPut:
+BinaryFileStream
+BinaryFileStream>>#initialize
+BinaryFileStream>>#peek
+BinaryFileStream>>#atEnd
+BinaryFileStream>>#position
+BinaryFileStream>>#position:
+BinaryFileStream>>#onPositionDo:
+BinaryFileStream>>#skip:
+BinaryFileStream>>#upToEnd
+File class>>#forceNewFileNamed:
+File class>>#named:
+File class>>#openFileNamed:
+File class>>#openReadOnlyFileNamed:
+File class>>#register:
+File class>>#registry
+File class>>#retryWithGC:until:forFileNamed:
+File class>>#unregister:
+File
+File>>#position
+File>>#position:
+File>>#size
+File>>#named:
+File>>#basicOpenForWrite:
+File>>#close
+File>>#delete
+File>>#exists
+File>>#open
+File>>#openForAppend
+File>>#openForRead
+File>>#openForWrite
+File>>#openForWrite:
+File>>#openOnHandle:name:forWrite:
+File>>#primAtEnd:
+File>>#primCloseNoError:
+File>>#primClose:
+File>>#primDelete:
+File>>#primFlush:
+File>>#primGetPosition:
+File>>#primOpen:writable:
+File>>#primRead:into:startingAt:count:
+File>>#primSetPosition:to:
+File>>#primSizeNoError:
+File>>#primSize:
+File>>#primTruncate:to:
+File>>#primWrite:from:startingAt:count:
+File>>#readInto:startingAt:count:
+File>>#read:
+File>>#read:into:startingAt:
+File>>#register
+File>>#unregister
+File>>#seekAbsolute:
+File>>#seekRelative:
+File>>#readStream
+File>>#atEnd
+File>>#closed
+File>>#truncate
+File>>#truncate:
+File>>#flush
+File>>#writeAll:
+File>>#writeAmount:from:startingAt:
+File>>#write:
+FileException>>#messageText
+Stdio class>>#stderr
+Stdio class>>#stdin
+Stdio class>>#stdout
+Stdio class>>#initialize
+Stdio class>>#standardIOStreamNamed:forWrite:
+Stdio class>>#stdioHandles
+Stdio class>>#cleanStdioHandles
+Stdio class>>#startUp:
+Stdio
+StdioStream
+StdioStream>>#peek
+StdioStream>>#atEnd
+StdioStream>>#position
+StdioStream>>#onPositionDo:
+StdioStream>>#next:
+ScriptLoader>>#update50094
+AsyncFile
+CannotDeleteFileException
+FileDoesNotExistException
+FileStreamException
+FileExistsException
+FileStream
+FileWriteError
+MultiByteFileStream
+StandardFileStream
+UUIDGenerator>>#makeUnixSeed
+ScriptLoader>>#script50093
+ScriptLoader>>#commentForCurrentUpdate
+PharoChangesCondenser
+PharoFilesOpener
+PharoSourcesCondenser
+RemoteString
+SourceFileArray
+FileStreamException class>>#fileName:
+FileStreamException
+FileStreamException>>#fileName:
+FileStreamException>>#fileName
+FileStreamException>>#isResumable
+ScriptLoader>>#script50093
+PharoChangesCondenser class>>#condense
+PharoChangesCondenser
+PharoChangesCondenser>>#fileIndex
+PharoChangesCondenser>>#originalFile
+PharoChangesCondenser>>#temporaryFile
+PharoChangesCondenser>>#nextChunkDo:
+PharoChangesCondenser>>#nextCommentChunkDo:
+PharoChangesCondenser>>#initialize
+PharoChangesCondenser>>#reset
+PharoChangesCondenser>>#sourceCodeOfMethod:
+PharoChangesCondenser>>#sourceStreamOfMethod:
+PharoChangesCondenser>>#stampOfMethod:
+PharoChangesCondenser>>#writeClassComment:
+PharoChangesCondenser>>#writeMethodSource:
+PharoChangesCondenser>>#writeRemoteString:for:
+PharoChangesCondenser>>#swapClassComment:
+PharoChangesCondenser>>#swapSourcePointerOfClassOrTrait:
+PharoChangesCondenser>>#swapSourcePointerOfMethod:
+PharoChangesCondenser>>#swapSourcePointers
+PharoChangesCondenser>>#backupOldChanges
+PharoChangesCondenser>>#installNewChangesFile
+PharoChangesCondenser>>#updateQuitPosition
+PharoChangesCondenser>>#shouldCondenseMethod:
+PharoChangesCondenser>>#basicCondense
+PharoChangesCondenser>>#condenseClassOrTrait:
+PharoChangesCondenser>>#condenseClassesAndTraits
+PharoChangesCondenser>>#condense
+PharoFilesOpener class>>#default
+PharoFilesOpener class>>#reset
+PharoFilesOpener
+PharoFilesOpener>>#changesName
+PharoFilesOpener>>#lastImagePath
+PharoFilesOpener>>#sourcesName
+PharoFilesOpener>>#ignoreIfFail:
+PharoFilesOpener>>#badContentMsg
+PharoFilesOpener>>#cannotLocateMsg
+PharoFilesOpener>>#cannotWriteMsg
+PharoFilesOpener>>#openChanges:
+PharoFilesOpener>>#informCannotLocateSources
+PharoFilesOpener>>#openSources
+PharoFilesOpener>>#openSources:forImage:
+PharoFilesOpener>>#changesFileOrNil
+PharoFilesOpener>>#setInformAboutReadOnlyChanges
+PharoFilesOpener>>#shouldInformAboutReadOnlyChanges
+PharoFilesOpener>>#sourcesFileOrNil
+PharoFilesOpener>>#unsetInformAboutReadOnlyChanges
+PharoFilesOpener>>#informProblemInChanges:
+PharoFilesOpener>>#inform:withChangesRef:
+PharoFilesOpener>>#inform:withRef:
+PharoFilesOpener>>#inform:withSourceRef:
+PharoSourcesCondenser class>>#condenseNewSources
+PharoSourcesCondenser
+PharoSourcesCondenser>>#fileIndex
+PharoSourcesCondenser>>#originalFile
+PharoSourcesCondenser>>#temporaryFile
+PharoSourcesCondenser>>#writeClassComment:
+PharoSourcesCondenser>>#backupOldChanges
+PharoSourcesCondenser>>#installFreshChangesFile
+PharoSourcesCondenser>>#updateQuitPosition
+PharoSourcesCondenser>>#shouldCondenseMethod:
+PharoSourcesCondenser>>#newSourceVersion:
+RemoteString class>>#newFileNumber:position:
+RemoteString class>>#newString:onFileNumber:
+RemoteString class>>#newString:onFileNumber:toFile:
+RemoteString
+RemoteString>>#fileStream
+RemoteString>>#last
+RemoteString>>#position
+RemoteString>>#setSourcePointer:
+RemoteString>>#sourceFileNumber
+RemoteString>>#sourcePointer
+RemoteString>>#string
+RemoteString>>#text
+RemoteString>>#string:onFileNumber:toFile:
+RemoteString>>#fileNumber:position:
+RemoteString>>#string:onFileNumber:
+SourceFileArray class>>#install
+SourceFileArray class>>#new:
+SourceFileArray
+SourceFileArray>>#at:
+SourceFileArray>>#at:put:
+SourceFileArray>>#readOnlyDo:
+SourceFileArray>>#size
+SourceFileArray>>#close
+SourceFileArray>>#ensureOpen
+SourceFileArray>>#initialize
+SourceFileArray>>#initialize:
+SourceFileArray>>#sourceDataPointers
+SourceFileArray>>#changeRecordsFor:detect:
+SourceFileArray>>#changeRecordsFor:do:
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+SourceFileArray>>#getPreambleFrom:at:
+SourceFileArray>>#protocolAt:
+SourceFileArray>>#protocolAt:for:
+SourceFileArray>>#sourceCodeAt:
+SourceFileArray>>#sourcedDataAt:
+SourceFileArray>>#timeStampAt:
+SourceFileArray>>#timeStampAt:for:
+SourceFileArray>>#fileIndexFromSourcePointer:
+SourceFileArray>>#filePositionFromSourcePointer:
+SourceFileArray>>#sourcePointerFromFileIndex:andPosition:

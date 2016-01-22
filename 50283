@@ -1,0 +1,16 @@
+CodeSearchingRule class>>#uniqueIdentifierName
+RBExplicitRequirementMethodsRule class>>#uniqueIdentifierName
+RBRemoveAssignmentWithoutEffectRule class>>#uniqueIdentifierName
+RBRuleIfNotEmptyDo class>>#uniqueIdentifierName
+RBRuleIfNotNilDo class>>#uniqueIdentifierName
+RBUnaryAccessingMethodWithoutReturnRule class>>#uniqueIdentifierName
+RBSmalllintTest>>#testUniqueIdentifierName
+ScriptLoader>>#update50283
+PackageTreeNautilusUI>>#showHierarchy:
+RBSmalltalkGlobalsRule class>>#uniqueIdentifierName
+RBkeysDoRule class>>#uniqueIdentifierName
+ScriptLoader>>#script50282
+ScriptLoader>>#commentForCurrentUpdate
+DiffMorph>>#calibrateScrollbar
+DiffMorph>>#verticalScroll:
+ScriptLoader>>#script50282

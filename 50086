@@ -1,0 +1,35 @@
+MethodIsScriptAction>>#isScriptMethod
+MethodIsScriptAction>>#runScript
+MethodIsScriptWithArgumentAction
+MethodIsScriptWithArgumentAction>>#actionOrder
+MethodIsScriptWithArgumentAction>>#isActionHandled
+MethodIsScriptWithArgumentAction>>#privateActionIcon
+MethodIsScriptWithArgumentAction>>#runScript
+MethodOveridesAction>>#isOverridden
+MethodOveridesAction>>#isOverride
+ScriptLoader>>#addHomeRepositoryToAllPackagesExcept:
+ScriptLoader>>#addRepositoryToPackagesWithConfiguration
+ScriptLoader>>#update50086
+KeymapBrowser class>>#taskbarIcon
+ThemeIcons>>#keymapBrowserIcon
+ThemeIcons>>#keymapBrowserIconContents
+AbstractNautilusUI
+AbstractNautilusUI>>#buildNewCommentText
+AbstractNautilusUI>>#okToChangeComment
+MethodClassInitializeAction>>#isActionHandled
+MethodContainsFlagsAction>>#isActionHandled
+MethodContainsHaltAction>>#isActionHandled
+MethodIsExampleAction>>#isActionHandled
+MethodIsScriptAction>>#isActionHandled
+MethodIsScriptAction>>#privateActionIcon
+CompiledMethod>>#isScriptMethodWithScript
+MethodOveridesAction>>#isActionHandled
+NautilusUI class>>#initializeCache
+ScriptLoader>>#cleanRepositories
+ScriptLoader>>#flushCaches
+ScriptLoader>>#script50085
+ScriptLoader>>#commentForCurrentUpdate
+KeymapBrowser class>>#keymapBrowserMenuOn:
+CompiledMethod>>#containsHalt
+CompiledMethod>>#isScriptMethodWithScript
+ScriptLoader>>#script50085

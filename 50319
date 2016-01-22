@@ -1,0 +1,25 @@
+ConfigurationOfRubric>>#version1185:
+ConfigurationOfRubric>>#version1186:
+ConfigurationOfRubric>>#version1214Moose51:
+RubScrolledTextMorph>>#whenLostFocus:
+ScriptLoader>>#update50319
+ConfigurationOfRubric>>#stable:
+RubAbstractTextArea>>#plugFindReplace
+RubCursor>>#noteNewOwner:
+RubFindReplaceService>>#textArea:
+RubFindReplaceService>>#newDialog
+RubFloatingEditorBuilder>>#withEditedContentsDo:
+RubFloatingEditorBuilder>>#buildEditor
+RubGhostTextDisplayer>>#noteNewOwner:
+RubHighlightSegmentMorph>>#registerTextArea
+RubPluggableTextMorphExample>>#open
+RubPrimarySelectionMorph>>#registerTextArea
+RubScrolledTextMorph>>#model:
+RubScrolledTextMorph>>#initialize
+RubShoutStylerDecorator>>#next:
+RubTextAreaExamples class>>#textFieldWithCRAction
+RubTextFieldMorph>>#initialize
+RubTextSegmentMorph>>#registerTextArea
+ScriptLoader>>#script50318
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50318

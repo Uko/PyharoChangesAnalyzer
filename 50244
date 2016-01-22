@@ -1,0 +1,15 @@
+GZipReadStream class>>#unload
+ZipArchive class>>#initialize
+ZipArchive class>>#unload
+NautilusPluginManager>>#textModel
+ScriptLoader>>#update50244
+ManifestCompression class>>#manuallyResolvedDependencies
+MCSnapshotBrowserTest>>#assertTextIs:
+MCSnapshotBrowserTest>>#textMorph
+NautilusPluginManager
+NautilusPluginManager>>#buildDescriptionTextArea
+NautilusPluginManager>>#pluginClassesSelectedIndex:
+ScriptLoader>>#script50243
+ScriptLoader>>#commentForCurrentUpdate
+ZipArchive class>>#initialize
+ScriptLoader>>#script50243

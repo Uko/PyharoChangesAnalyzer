@@ -1,0 +1,38 @@
+EncoderForSistaV1 class>>#markerOrNilFor:
+EncoderForSistaV1 class>>#prepareMethod:forSimulationWith:
+EncoderForSistaV1 class>>#sendsToSuperFor:
+EncoderForV3PlusClosures class>>#markerOrNilFor:
+EncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith:
+EncoderForV3PlusClosures class>>#sendsToSuperFor:
+Object>>#halt
+Object>>#haltIfShiftPressed
+Object>>#haltIf:
+Object>>#haltOnCount:
+Object>>#haltOnce
+Object>>#halt:
+RBAbstractClassRule>>#severity
+RBAbstractClassRule>>#checkMethod:
+RBCodeCruftLeftInMethodsRule>>#addRuleRemoving:
+RBCodeCruftLeftInMethodsRule>>#debuggingPatterns
+RBCodeCruftLeftInMethodsRule>>#debuggingSelectors
+RBCodeCruftLeftInMethodsRule>>#haltPatterns
+RBCodeCruftLeftInMethodsRule>>#haltSelectors
+RBCodeCruftLeftInMethodsRule>>#patternForKeywordSelector:
+RBCodeCruftLeftInMethodsRule>>#patternFor:
+RBCodeCruftLeftInMethodsRule>>#patterns
+RBSmalllintTestObject>>#debbuggingMessageSent
+RBSmalllintTestObject>>#flagged
+RBSmalllintTestObject>>#haltClassMentioned
+RBSmalllintTestObject>>#transcriptMentioned
+ScriptLoader>>#update50053
+Symbol>>#separateKeywords
+Association class>>#key:value:
+CompiledMethod>>#prepareForSimulationWith:
+CompiledMethod>>#markerOrNil
+CompiledMethod>>#sendsToSuper
+RBCodeCruftLeftInMethodsRule>>#initialize
+RBSmalllintTest>>#testCodeCruftLeftInMethods
+RBSmalllintTestObject>>#codeCruftLeftInMethods
+ScriptLoader>>#script50052
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50052

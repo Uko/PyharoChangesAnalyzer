@@ -1,0 +1,19 @@
+MCLazyVersionInfo>>#setAncestors:
+MCLazyVersionInfo>>#setStepChildren:
+MCVersionInfo>>#loadAncestorsAndStepChildren
+MCVersionInfo>>#setAncestors:
+MCVersionInfo>>#setStepChildren:
+MCTool class>>#mcVersionCache
+MCTool class>>#flushMCVersionCache
+MCTool class>>#initMCVersionCache
+MCLazyVersionInfo>>#loadAncestorsAndStepChildren
+ScriptLoader>>#update50415
+MCTool
+AbstractNautilusUI
+AbstractNautilusUI>>#classIconFor:
+AbstractNautilusUI>>#initialize
+Nautilus
+Nautilus>>#uiClass
+ScriptLoader>>#script50414
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50414

@@ -1,0 +1,24 @@
+HDTestReport>>#suiteErrors
+HDTestReport>>#suiteFailures
+HDTestReport>>#suitePassing
+HDTestReport>>#suiteTotal
+HDTestReport>>#initialize
+HDTestReport>>#hasFailuresOrErrors
+TestCommandLineHandler>>#informResults:
+TestCommandLineHandler>>#runPackages
+CommandLineTestRunner>>#printError:of:
+ScriptLoader>>#update50277
+HDReport class>>#runPackages:
+HDTestReport class>>#runClasses:named:
+HDTestReport class>>#runSuite:
+HDTestReport>>#initializeOn:
+CommandLineTestRunner>>#handleFailure:of:
+CommandLineTestRunner>>#printFailure:of:
+ScriptLoader>>#script50276
+ScriptLoader>>#commentForCurrentUpdate
+TestCommandLineHandler>>#addPackagesMatchingGlob:to:
+TestCommandLineHandler>>#addPackagesMatchingRegex:to:
+TestCommandLineHandler>>#addPackagesMatching:to:
+TestCommandLineHandler>>#packages
+TestCommandLineHandler>>#testRunner
+ScriptLoader>>#script50276

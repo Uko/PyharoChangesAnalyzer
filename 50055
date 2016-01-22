@@ -1,0 +1,53 @@
+DailyNonInteractiveTranscript class>>#defaultLogFileName
+DailyNonInteractiveTranscript
+DailyNonInteractiveTranscript>>#fileNameWithDate
+DailyNonInteractiveTranscript>>#stream
+DailyNonInteractiveTranscript>>#initialize
+DailyNonInteractiveTranscript>>#initializeStream
+NonInteractiveTranscript>>#critical:
+ScriptLoader>>#update50055
+BitsLayout>>#extendWeak:
+SpecDebuggerStack class>>#linkMessagesFilter
+SpecDebuggerStack class>>#filterLinkSelectors
+SpecDebuggerStack class>>#filterLinkSelectors:
+TTranscript
+TTranscript>>#%3C%3C
+TTranscript>>#clear
+TTranscript>>#close
+TTranscript>>#cr
+TTranscript>>#crShow:
+TTranscript>>#critical:
+TTranscript>>#endEntry
+TTranscript>>#flush
+TTranscript>>#nextPutAll:
+TTranscript>>#nextPut:
+TTranscript>>#print:
+TTranscript>>#show:
+TTranscript>>#space
+TTranscript>>#tab
+ThreadSafeTranscript>>#critical:
+DebugSystemSettings class>>#addDebugFilterSessingsOn:
+NonInteractiveTranscript
+NonInteractiveTranscript>>#close
+NonInteractiveTranscript>>#flush
+NonInteractiveTranscript>>#nextPutAll:
+NonInteractiveTranscript>>#nextPut:
+ScriptLoader>>#script50054
+ScriptLoader>>#commentForCurrentUpdate
+OldClassBuilderAdapter>>#superclass:variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+SpecDebuggerStack class>>#enabledFilters
+SpecDebuggerStack
+TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+ThreadSafeTranscript
+ThreadSafeTranscript>>#clear
+ThreadSafeTranscript>>#close
+ThreadSafeTranscript>>#endEntry
+ThreadSafeTranscript>>#nextPutAll:
+ThreadSafeTranscript>>#nextPut:
+ThreadSafeTranscript>>#stepGlobal
+NonInteractiveTranscript>>#initialize
+NonInteractiveTranscript>>#close
+ScriptLoader>>#script50054
+ThreadSafeTranscript>>#black
+ThreadSafeTranscript>>#characterLimit
+ThreadSafeTranscript>>#white

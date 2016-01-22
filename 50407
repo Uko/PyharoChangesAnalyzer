@@ -1,0 +1,10 @@
+HandMorph>>#releaseAllFocus
+ScriptLoader>>#update50407
+HandMorph>>#releaseCachedState
+HandMorph>>#keyboardFocus:
+HandMorph>>#newKeyboardFocus:
+HandMorph>>#interrupted
+RBRefersToClassRule>>#basicCheck:
+ScriptLoader>>#script50406
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50406

@@ -1,0 +1,22 @@
+ScriptLoader>>#update50410
+MessageBrowser>>#classModified:
+MessageBrowser>>#classRenamed:
+MessageBrowser>>#handleClassRenamed:
+MessageBrowser>>#handleMethodAdded:
+MessageBrowser>>#handleMethodModified:
+MessageBrowser>>#handleMethodRemoved:
+MessageBrowser>>#shouldRefreshItem:fromAnnouncement:
+MessageBrowser>>#intervalOf:inCode:of:
+MessageBrowser>>#intervalOf:inCommentText:
+StartupPreferencesLoader class>>#startupGeneralPrefererencesFolderMenuOn:
+StartupPreferencesLoader class>>#startupPreferencesVersionFolderMenuOn:
+StartupPreferencesLoader class>>#systemStartupMenuOn:
+ScriptLoader>>#script50409
+ScriptLoader>>#commentForCurrentUpdate
+MessageBrowser>>#registerToAnnouncements
+MessageBrowser>>#methodAdded:
+MessageBrowser>>#methodModified:
+MessageBrowser>>#methodRemoved:
+MessageBrowser>>#autoSelect:
+StartupPreferencesLoader class>>#startupLoaderMenuOn:
+ScriptLoader>>#script50409

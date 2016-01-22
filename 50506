@@ -1,0 +1,9 @@
+ScriptLoader>>#update50506
+MailMessageTest>>#testSimpleCreate
+RGClassDefinitionTest>>#testAddingMethods
+RGClassDefinitionTest>>#testRemovingMethods
+ScriptLoader>>#script50505
+ScriptLoader>>#commentForCurrentUpdate
+EndianDetector class>>#initialize
+SmalltalkImage>>#compactClassesArray
+ScriptLoader>>#script50505

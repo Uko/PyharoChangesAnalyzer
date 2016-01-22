@@ -1,0 +1,98 @@
+ConfigurationOfGTInspectorCore>>#version2018:
+ConfigurationOfGTPlaygroundCore>>#version218:
+ConfigurationOfGTSpotter>>#version129:
+ConfigurationOfGToolkitCore>>#version305:
+ConfigurationOfGlamourCore>>#version319:
+Dictionary>>#gtInspectorKeysIn:
+GTPlayground>>#actOnBrowserClosing:
+GTPlayground>>#codePresentationIn:
+GTFilter>>#defaultFilteredItems
+GTFilter>>#filteredItems
+GTFilter>>#filteredItems:
+GTFilter>>#hasFilteredItems
+GTSpotterMorph>>#bindingDictionnary
+GLMMorphicWidgetRenderer>>#scrollMorphFor:
+ScriptLoader>>#update50229
+ConfigurationOfGTInspectorCore>>#stable:
+ConfigurationOfGTPlaygroundCore>>#stable:
+ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGToolkitCore>>#development:
+ConfigurationOfGToolkitCore>>#stable:
+ConfigurationOfGlamourCore>>#stable:
+GTSimpleMethodsBrowser>>#classesIn:
+GTSimpleMethodsBrowser>>#methodsIn:
+GTSimpleMethodsBrowser>>#sourceOf:for:in:
+Canvas class>>#gtExampleWorldCanvasWithAlpha
+Canvas class>>#gtExampleWorldCanvasWithShadow
+HelpTopic>>#gtInspectorActionOpenHelpBrowser
+Morph>>#gtInspectorMappingsIn:
+Morph>>#gtInspectorMorphIn:
+Morph>>#gtInspectorSubmorphsIn:
+RBProgramNode>>#gtInspectorSourceCodeIn:
+SettingNode>>#gtInspectorLiveIn:
+GTPlayground>>#codeIn:
+GTPlayground>>#compose
+GTFilter
+GTFilter>>#itemFilterNameFor:
+GTFilter>>#applyFilter
+GTFilter>>#applyFilterInContext:error:
+GTFilter>>#prepareFilterInContext:
+GTFilter>>#value:
+GTFilterAlike>>#applyFilterWithQuery
+GTFilterSubstring>>#applyFilterWithQuery
+GTNullFilter>>#applyFilterWithQuery
+GTSpotter>>#setText:from:
+GTSpotterMorph>>#initializeListeners
+GTStringFilter>>#applyFilter
+GTStringFilter>>#applyFilterWithoutQuery
+GTUnorderedFilter>>#applyFilterWithQuery
+HelpTopic>>#gtTopicIcon
+GLMExamplesBrowser>>#exampleIn:
+GLMRubEditingAreaBrick class>>#gtExampleBand
+GLMRubEditingAreaBrick class>>#gtExampleBasic
+GLMRubEditingAreaBrick class>>#gtExampleScrollPane
+GLMMorphicMorphRenderer
+GLMMorphicMorphRenderer>>#actOnPresentationUpdated:
+GLMMorphicMorphRenderer>>#render:
+GLMErrorPopper>>#initializeTextMorph
+GLMPopper>>#withString:from:
+GLMPopper>>#computeOriginFor:
+GLMPrintPopper>>#initializeTextMorph
+MCHttpRepository>>#user
+MCHttpRepository>>#password
+Morph>>#addHalo:
+Morph>>#color:
+Morph>>#invokeMetaMenu:
+Morph>>#fillStyle:
+PasteUpMorph>>#dropFiles:
+WorldState class>>#quitSession
+PluggableTextMorph>>#accept
+PluggableTextMorph>>#doIt
+PluggableTextMorph>>#basicHasUnacceptedEdits:
+NBFFICallbackType>>#pushAsValue:
+ScriptLoader>>#script50228
+ScriptLoader>>#commentForCurrentUpdate
+SpecDebugger class>>#openOn:context:label:contents:fullView:
+StartupPreferencesLoader>>#load:
+PharoCommandLineHandler class>>#activateWith:
+Author class>>#reset
+Author>>#fullNamePerSe
+Author>>#fullName:
+SmalltalkImage>>#handleStartupErrors:
+SmalltalkEditor class>>#smalltalkEditorMenuOn:
+SmalltalkEditor>>#doIt
+SmalltalkEditor>>#browseIt:
+SmalltalkEditor>>#debugIt:
+SmalltalkEditor>>#doIt:
+SmalltalkEditor>>#exploreIt:
+SmalltalkEditor>>#fileItIn:
+SmalltalkEditor>>#implementorsOfIt:
+SmalltalkEditor>>#inspectIt:
+SmalltalkEditor>>#methodNamesContainingIt:
+SmalltalkEditor>>#methodStringsContainingIt:
+SmalltalkEditor>>#pasteInitials:
+SmalltalkEditor>>#referencesToIt:
+SmalltalkEditor>>#save:
+SmalltalkEditor>>#sendersOfIt:
+SmalltalkEditor>>#spawnIt:
+ScriptLoader>>#script50228

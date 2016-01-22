@@ -1,0 +1,27 @@
+RPackage>>#mcWorkingCopy
+RPackageTest>>#testMcPackage
+RPackageTest>>#testMcWorkingCopy
+ScriptLoader>>#update50037
+RPackage>>#spotterActDefault
+RPackage>>#mcPackage
+MCSliceInfo>>#makeSlice
+PackageTreeNautilusTest>>#testOpen
+PackageTreeNautilusTest>>#testOpenLastValueIsNil
+PackageTreeNautilusTest>>#testOpenLastValueNotNil
+PackageTreeNautilusTest>>#testOpenOnMethod
+PackageTreeNautilusTest>>#testPackagePatternString
+PackageTreeNautilusTest>>#testPackagePatternStringRootPackageTag
+Nautilus class>>#parentOfClass:
+Nautilus class>>#nautilusSettingsOn:
+Nautilus
+PackageTreeModel>>#rootNodes
+PackageTreeNautilusUI>>#groupsAreVisible
+ScriptLoader>>#script645
+ScriptLoader>>#commentForCurrentUpdate
+TClassDescription>>#classCommentBlank
+PackageTreeNautilus class>>#registerToolsOn:
+PackageTreeNautilus class>>#showGroupsOnTop
+PackageTreeNautilus class>>#showGroupsOnTop:
+PackageTreeNautilus>>#defaultUIClass
+PackageTreeNautilus>>#packagePatternString:
+ScriptLoader>>#script645

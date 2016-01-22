@@ -1,0 +1,12 @@
+MCHttpRepository>>#storeVersion:
+RBLintRule class>>#isUsed
+TestCase class>>#isUsed
+ScriptLoader>>#update50291
+MCRepository>>#storeVersion:
+MCWorkingCopyBrowser>>#storeDependencies:in:
+MCWorkingCopyBrowser>>#storeVersion:in:
+ScriptLoader>>#script50290
+ScriptLoader>>#commentForCurrentUpdate
+TBehavior>>#isUsed
+MCRepository>>#retryOnCredentialRequest:
+ScriptLoader>>#script50290

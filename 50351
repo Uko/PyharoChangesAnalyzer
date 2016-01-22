@@ -1,0 +1,60 @@
+MenuMorph>>#toggleStayUp
+MenuTitleMorph>>#bigTitle:
+MenuTitleMorph>>#onlyCloseAndPinable
+MenuTitleMorph>>#pinColor
+MenuTitleMorph>>#pinForm
+MenuTitleMorph>>#updatePinForm
+MenuTitleMorph>>#boxExtent
+ReflectivityReificationTest>>#testReifySlotClass
+ReflectivityReificationTest>>#testReifySlotValue
+ReflectivityReificationTest>>#testReifySlotVariable
+RFClassReification>>#genForInstanceVariableSlot
+RFClassReification>>#generate
+RFEntityReification>>#genForInstanceVariableSlot
+RFLinkReification>>#genForInstanceVariableSlot
+RFObjectReification>>#genForInstanceVariableSlot
+RFThisContextReification>>#genForInstanceVariableSlot
+RFValueReification>>#genForInstanceVariableSlot
+RFVariableReification>>#genForInstanceVariableSlot
+ScriptLoader>>#update50351
+RBScanner>>#scanLiteral
+RBParserTest>>#testSymbolLiteral
+KeyedTreeTest>>#testMerge
+KeyedTreeTest>>#testSubtrees
+FallbackMenu>>#menu
+HaloMorph>>#doDebug:with:
+MenuMorph class>>#example
+MenuMorph>>#stayUp:
+MenuMorph>>#addTitle:icon:
+MenuMorph>>#createTitleMorph
+MenuTitleMorph>>#withPinBox
+MenuTitleMorph>>#pinBoxClicked
+MenuTitleMorph>>#iconButtonCalling:withForm:helpText:
+PluggableMenuSpec>>#asMenuMorph
+WorldState class>>#windowsOn:
+BorderedMorph>>#addBorderStyleMenuItems:hand:
+Morph>>#buildDebugMenu:
+Morph>>#addTitleForHaloMenu:
+Morph>>#addYellowButtonMenuItemsTo:event:
+Morph>>#addHaloActionsTo:
+Morph>>#buildHandleMenu:
+Morph>>#buildMetaMenu:
+Morph>>#invokeMetaMenu:
+PasteUpMorph>>#popUpContentsMenu:
+WorldMorph>>#contentsMenu:
+WorldMorph>>#buildMetaMenu:
+RFClassReification class>>#nodes
+RFClassReification>>#genForLiteralVariable
+RFClassReification>>#genForRBProgramNode
+RFEntityReification class>>#nodes
+RFLinkReification class>>#nodes
+RFObjectReification class>>#nodes
+RFThisContextReification class>>#nodes
+RFValueReification class>>#nodes
+RFVariableReification class>>#nodes
+ScriptLoader>>#script50350
+ScriptLoader>>#commentForCurrentUpdate
+LRUCacheTests>>#testRemoveAll
+SelectPackageBrowser class>>#defaultSpec
+VSReleaseDevelopmentVersionCommandTest>>#generateTestVersion
+ScriptLoader>>#script50350

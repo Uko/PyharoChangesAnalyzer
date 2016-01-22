@@ -1,0 +1,21 @@
+ConfigurationOfCatalog>>#version091:
+ConfigurationOfGTInspectorCore>>#version2020:
+ConfigurationOfGTInspectorCore>>#version2021:
+ConfigurationOfGTPlaygroundCore>>#version2110:
+ConfigurationOfGTSpotter>>#version1213:
+ScriptLoader>>#update50358
+ConfigurationOfCatalog>>#stable:
+ConfigurationOfGTInspectorCore>>#development:
+ConfigurationOfGTInspectorCore>>#stable:
+ConfigurationOfGTPlaygroundCore>>#development:
+ConfigurationOfGTPlaygroundCore>>#stable:
+ConfigurationOfGTSpotter>>#development:
+ConfigurationOfGTSpotter>>#stable:
+Bitmap class>>#gtExampleIconBits
+FileReference class>>#gtExampleGif
+FileReference class>>#gtExamplePng
+GTPlayground>>#codeIn:
+ScriptLoader>>#script50357
+ScriptLoader>>#commentForCurrentUpdate
+ThemeIcons class>>#gtExampleThemeIcons
+ScriptLoader>>#script50357

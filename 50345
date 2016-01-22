@@ -1,0 +1,21 @@
+PharoCriticRules class>>#pharoIntegrationLintRule
+PharoCriticRules
+ScriptLoader>>#update50345
+SelectRuleBrowser>>#isSelected:
+ThemeSettings>>#menuColor
+RBCompositeLintRule class>>#pharoHardLintRules
+RBCompositeLintRule class>>#pharoSoftLintRules
+ScriptLoader>>#script50344
+ScriptLoader>>#commentForCurrentUpdate
+SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
+SelectRuleBrowser
+SelectRuleBrowser>>#items:
+SelectRuleBrowser>>#addAllItems
+SelectRuleBrowser>>#addItems
+SelectRuleBrowser>>#nextAction
+SelectRuleBrowser>>#removeAllItems
+SelectRuleBrowser>>#removeItems
+SelectRuleBrowser>>#initialize
+RBCompositeLintRule class>>#pharoHardLintRules
+RBCompositeLintRule class>>#pharoSoftLintRules
+ScriptLoader>>#script50344

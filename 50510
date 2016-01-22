@@ -1,0 +1,35 @@
+GTInspectorHelp class>>#bookName
+GTInspectorHelp class>>#pages
+GTInspectorHelp class>>#contact
+GTInspectorHelp class>>#overview
+GTInspectorHelp class>>#roassal
+GTInspectorHelp class>>#table
+GTInspectorHelp
+ScriptLoader>>#update50510
+ImportingResourceHelp class>>#importingIcon
+MetacelloPharo30Platform
+ScriptLoader>>#script50509
+ScriptLoader>>#commentForCurrentUpdate
+MetacelloPharo30Platform class>>#initialize
+MetacelloPharo30Platform
+MetacelloPharo30Platform>>#defaultDirectory
+MetacelloPharo30Platform>>#directoryFromPath:relativeTo:
+MetacelloPharo30Platform>>#ensureDirectoryExists:
+MetacelloPharo30Platform>>#fileDirectoryClass
+MetacelloPharo30Platform>>#fileFromPath:relativeTo:
+MetacelloPharo30Platform>>#fileHandleOn:
+MetacelloPharo30Platform>>#parentDirectoryOf:
+MetacelloPharo30Platform>>#readStreamOn:do:
+MetacelloPharo30Platform>>#recursiveDelete:
+MetacelloPharo30Platform>>#tempFileFor:suffix:
+MetacelloPharo30Platform>>#downloadZipArchive:to:
+MetacelloPharo30Platform>>#extractRepositoryFrom:to:
+MetacelloPharo30Platform>>#downloadJSON:username:pass:
+MetacelloPharo30Platform>>#newVersionForWorkingCopy:
+MetacelloPharo30Platform>>#packageInfoFor:
+MetacelloPharo30Platform>>#registerPackageNamed:
+MetacelloPharo30Platform>>#defaultRepositoryDescription
+MetacelloPharo30Platform>>#suspendSystemUpdateEventsDuring:
+MetacelloPharo30Platform>>#compiler
+MetacelloPharo30Platform>>#string:includesSubstring:
+ScriptLoader>>#script50509

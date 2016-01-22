@@ -1,0 +1,13 @@
+MailComposition>>#textModel
+ScriptLoader>>#update50168
+MailComposition
+MailComposition>>#submit
+MailComposition>>#addAttachment
+MailComposition>>#openInMorphic
+CoverageStyler
+ScriptLoader>>#script50167
+ScriptLoader>>#commentForCurrentUpdate
+CoverageStyler
+CoverageStyler>>#addStyle:attribute:forNode:
+CoverageStyler>>#addStyle:forNode:
+ScriptLoader>>#script50167

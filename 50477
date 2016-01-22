@@ -1,0 +1,11 @@
+LogicalFont>>#lineGrid
+FreeTypeFont>>#familyName
+ScriptLoader>>#update50477
+TabsExample>>#dynamicTab
+NECPreferences class>>#overrideModel:
+ScriptLoader>>#script50476
+ScriptLoader>>#commentForCurrentUpdate
+DynamicWidgetChange>>#change
+TabsExample>>#populateManager
+ScriptLoader>>#script50476
+TabsExample>>#title

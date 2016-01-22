@@ -1,0 +1,65 @@
+WPDummy>>#exampleMessageSend
+WPDummy>>#exampleOperation
+WatchpointTests>>#testSendMessage
+WatchpointWindow class>>#new
+WatchpointWindow class>>#on:
+WatchpointWindow class>>#openOn:
+WatchpointWindow class>>#defaultSpec
+WatchpointWindow
+WatchpointWindow>>#defaultWindowModelClass
+WatchpointWindow>>#inspectIt
+WatchpointWindow>>#inspectIt:
+WatchpointWindow>>#label
+WatchpointWindow>>#label:
+WatchpointWindow>>#list
+WatchpointWindow>>#list:
+WatchpointWindow>>#watchpoint
+WatchpointWindow>>#watchpoint:
+WatchpointWindow>>#extent
+WatchpointWindow>>#title
+WatchpointWindow>>#initializePresenter
+WatchpointWindow>>#initializeWidgets
+WatchpointWindow>>#refreshItems
+WatchpointWindow>>#step
+ScriptLoader>>#update50467
+DebugSession>>#terminate
+DropFilesEvent>>#sentTo:
+DropEvent>>#sentTo:
+WatchpointTests>>#testTimestamp
+Break
+Breakpoint
+BreakpointIconStyler
+Watchpoint>>#install
+WatchpointIconStyler>>#iconBlock:
+ScriptLoader>>#script50466
+ScriptLoader>>#commentForCurrentUpdate
+SyntaxErrorDebugger>>#release
+Break class>>#break
+Break
+Breakpoint class>>#initialize
+Breakpoint class>>#cleanUp
+Breakpoint class>>#removeAll
+Breakpoint class>>#removeFrom:
+Breakpoint
+Breakpoint>>#level
+Breakpoint>>#level:
+Breakpoint>>#link
+Breakpoint>>#link:
+Breakpoint>>#node
+Breakpoint>>#node:
+Breakpoint>>#always
+Breakpoint>>#condition:
+Breakpoint>>#once
+Breakpoint>>#install
+Breakpoint>>#remove
+Breakpoint>>#breakLink
+Breakpoint>>#breakLinkConditional
+Breakpoint>>#breakLinkOneShot
+BreakpointIconStyler
+BreakpointIconStyler>>#highlightColor
+BreakpointIconStyler>>#icon
+BreakpointIconStyler>>#iconBlock:
+BreakpointIconStyler>>#iconLabel
+BreakpointIconStyler>>#iconLabel:
+BreakpointIconStyler>>#shouldStyleNode:
+ScriptLoader>>#script50466

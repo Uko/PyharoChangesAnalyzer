@@ -1,0 +1,39 @@
+ManifestFileSystemDisk class>>#manuallyResolvedDependencies
+ManifestFileSystemDisk
+ManifestGraphicsDisplayObjects class>>#manuallyResolvedDependencies
+ManifestGraphicsDisplayObjects
+ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
+ManifestMultilingualLanguages
+ManifestMultilingualTextConverterOtherLanguages
+ManifestNonInteractiveTranscript class>>#manuallyResolvedDependencies
+ManifestNonInteractiveTranscript
+EclipseUIThemeIcons>>#hierarchyIcon
+ThemeIcons>>#hierarchyIcon
+ManifestRingCoreKernel class>>#manuallyResolvedDependencies
+ManifestRingCoreKernel
+ManifestRingMonticello class>>#manuallyResolvedDependencies
+ManifestRingMonticello
+ManifestSUnitCore
+ScriptLoader>>#update50226
+SlotAnnouncementsTest>>#testCreateAndChangeWithCommentDoesAnnounceBoth
+ManifestTextScanning
+ManifestToolDiff
+ManifestToolExternalBrowser
+ManifestUnicodeInitialization class>>#manuallyResolvedDependencies
+ManifestUnicodeInitialization
+ManifestUserManagerCore
+AbstractNautilusUI>>#buildButtonsBar
+AbstractNautilusUI>>#buildColumns:height:
+ThemeIcons>>#hierarchyIcon
+EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
+ThemeIcons>>#commentsIcon
+ScriptLoader>>#script50225
+ScriptLoader>>#commentForCurrentUpdate
+SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce
+ClassCommented>>#oldStamp
+TClassDescription>>#classComment:stamp:
+ThemeIcons>>#hierarchyIcon
+ThemeIcons>>#commentsIconContents
+ThemeIcons>>#hierarchyIconContents
+EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
+ScriptLoader>>#script50225

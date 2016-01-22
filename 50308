@@ -1,0 +1,11 @@
+ReflectiveMethodTest>>#testSetLinkInPrimitive
+ReflectivityLinkTest>>#testPrimitiveWithLinkExecuteWrapper
+ReflectiveMethod>>#generatePrimitiveWrapper
+ScriptLoader>>#update50308
+ReflectiveMethodTest>>#testSetLinkOnPrimitive
+RFASTTranslator>>#visitMethodNode:
+ReflectiveMethod>>#compileAndInstallCompiledMethod
+ScriptLoader>>#script50307
+ScriptLoader>>#commentForCurrentUpdate
+SystemSystemSettings class>>#systemSettingOn:
+ScriptLoader>>#script50307

@@ -1,0 +1,11 @@
+ScriptLoader>>#update50121
+SourceFileArrayTest>>#ensureChangesFileOpenedInProcess
+SourceFileArrayTest>>#testForkedRead
+SourceFileArrayTest>>#testForkedWrite
+SimpleHierarchicalListMorph>>#selectionIndex:
+RubAbstractTextArea>>#takesKeyboardFocus
+ScriptLoader>>#script50120
+ScriptLoader>>#commentForCurrentUpdate
+RemoteString>>#fileStreamDo:
+TBehavior>>#classesComposedWithMe
+ScriptLoader>>#script50120

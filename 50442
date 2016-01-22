@@ -1,0 +1,30 @@
+ConfigurationOfRubric>>#version23:
+Breakpoint class>>#removeFrom:
+Breakpoint>>#condition:
+RubWorkspaceExample class>>#exampleWindowWithScrolledText
+RubWorkspaceExample class>>#exampleWithCustomShortcut
+ScriptLoader>>#update50442
+ConfigurationOfRubric>>#stable:
+AbstractNautilusUI>>#showSourceCode:
+NautilusUI>>#debugTest:
+NautilusUI>>#toggleBreakOnEntryIn:
+Breakpoint2
+Breakpoint class>>#inNode:
+Breakpoint>>#initialize
+Breakpoint>>#haltLink
+Breakpoint>>#haltLinkOneShot
+CompiledMethod>>#hasBreakpoint
+RubWorkspaceExample class>>#open
+ScriptLoader>>#script50441
+ScriptLoader>>#commentForCurrentUpdate
+SugsBreakpointSuggestion>>#breakpointForCondition
+SugsBreakpointSuggestion>>#execute
+EyeInspectorTest>>#testErrorRaised
+Breakpoint2 class>>#break
+Breakpoint2
+Breakpoint class>>#inNode:
+RubWorkspaceExample class>>#open
+RubWorkspaceExample class>>#spyAnnouncer
+RubWorkspaceExample class>>#title
+RubWorkspaceExample class>>#windowWithScrolledText:
+ScriptLoader>>#script50441

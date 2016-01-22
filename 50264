@@ -1,0 +1,26 @@
+ConfigurationOfRubric>>#version1183:
+RubTextAreaExamples class>>#interactionModel
+ScriptLoader>>#update50264
+TemporaryVariable class>>#name:block:
+TemporaryVariable class>>#name:method:
+TemporaryVariable>>#method
+TemporaryVariable>>#method:
+TemporaryVariable>>#startpc
+TemporaryVariable>>#startpc:
+TemporaryVariable>>#=
+TemporaryVariable>>#hash
+TemporaryVariable>>#isFromBlock
+ConfigurationOfRubric>>#stable:
+TemporaryVariable>>#link:
+RubMethodEditingExample>>#textModel
+RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
+RubPluggableTextMorphExample
+RubTextAreaExamples class>>#simplestEmptyTextField
+RubTextAreaExamples class>>#textFieldWithCRAction
+RubTextFieldExample>>#newScrolledText
+ScriptLoader>>#script50263
+ScriptLoader>>#commentForCurrentUpdate
+TemporaryVariable class>>#initialize
+TemporaryVariable
+StandardFileStream>>#nextWordsInto:
+ScriptLoader>>#script50263

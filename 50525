@@ -1,0 +1,16 @@
+ConfigurationOfQualityAssistant>>#v2_2_2:
+ConfigurationOfRenraku>>#v0_9_3:
+QAEventCollector class>>#initialize
+QAEventCollector class>>#recordAnnouncement:
+QAEventCollector class>>#unload
+QAEventCollector class>>#uniqueInstance
+QAEventCollector>>#initialize
+ScriptLoader>>#update50525
+BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfRenraku>>#stable:
+ThreePhaseButtonMorph>>#wantsSteps
+ReSystemAnnouncer class>>#uniqueInstance
+ScriptLoader>>#script50524
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50524

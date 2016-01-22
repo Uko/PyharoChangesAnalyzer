@@ -1,0 +1,8 @@
+ReflectiveMethodTest>>#testSetLinkOnPrimitive
+ReflectivityExamples>>#examplePrimitiveMethod
+ScriptLoader>>#update50183
+RFASTTranslator>>#visitMethodNode:
+CompiledMethod>>#installLink:
+ScriptLoader>>#script50182
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50182

@@ -1,0 +1,14 @@
+MCMerger>>#hasConflicts
+FTSearchFunction>>#reset
+ProtoObject>>#metaLinkOptions
+ScriptLoader>>#update50380
+NonInteractiveUIManager>>#merge:informing:
+MCMergeResolutionRequest>>#hasConflicts
+FTSearchFunction>>#showSearchFieldFromKeystrokeEvent:
+MetaLink>>#condition:
+MetaLink>>#metaObject:
+ReflectiveMethod>>#installCompiledMethod
+ScriptLoader>>#script50379
+ScriptLoader>>#commentForCurrentUpdate
+CommandLineUIManager>>#merge:informing:
+ScriptLoader>>#script50379

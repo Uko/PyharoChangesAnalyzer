@@ -1,0 +1,41 @@
+ConfigurationOfFFINB class>>#project
+ConfigurationOfFFINB class>>#DevelopmentSupport
+ConfigurationOfFFINB class>>#validate
+ConfigurationOfFFINB class>>#load
+ConfigurationOfFFINB class>>#loadBleedingEdge
+ConfigurationOfFFINB class>>#loadDevelopment
+ConfigurationOfFFINB class>>#isMetacelloConfig
+ConfigurationOfFFINB class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfFFINB class>>#ensureMetacello
+ConfigurationOfFFINB class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfFFINB
+ConfigurationOfFFINB>>#customProjectAttributes
+ConfigurationOfFFINB>>#project
+ConfigurationOfFFINB>>#baseline0_9:
+ConfigurationOfFFINB>>#alien:
+ConfigurationOfFFINB>>#ffi:
+ConfigurationOfFFINB>>#development:
+ConfigurationOfFFINB>>#stable:
+ConfigurationOfFFINB>>#v0_9_0:
+ConfigurationOfFFINB>>#v0_9_1:
+ConfigurationOfFFINB>>#v0_9_2:
+Object>>#nbCall:module:options:
+Object>>#nbCall:options:
+FFICalloutTests>>#testParseOptions
+FFICallout>>#optionAt:
+FFICallout>>#options
+FFICallout>>#options:
+FFICallout>>#parseOptions:
+FFICallout>>#initialize
+OSPlatform>>#ffiAlignment
+Win32Platform>>#ffiAlignment
+ScriptLoader>>#update50513
+FFICallout
+FFICallout>>#indirectLoader:byIndex:
+FFICalloutMethodBuilder>>#createFFICallout
+FFIExternalStructure class>>#structureSize
+ScriptLoader>>#script50512
+ScriptLoader>>#commentForCurrentUpdate
+SystemNavigation>>#confirmRemovalOfSelectors:on:
+TClass>>#duplicateClassWithNewName:
+ScriptLoader>>#script50512

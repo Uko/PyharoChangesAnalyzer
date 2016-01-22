@@ -1,0 +1,16 @@
+ScriptLoader>>#update50336
+ManifestSystemAnnouncements class>>#ignoredDependencies
+Dictionary>>#at:ifPresent:ifAbsent:
+SmallDictionary>>#at:ifPresent:ifAbsent:
+ContributingToTheCatalogHelp class>>#pages
+ContributingToTheCatalogHelp class>>#AddingYourProject
+ContributingToTheCatalogHelp class>>#introduction
+FLLargeIdentityDictionary>>#at:ifPresent:ifAbsent:
+ScriptLoader>>#script50335
+ScriptLoader>>#commentForCurrentUpdate
+SHA1>>#initializeTotalsArray
+SHA1>>#processBufferUsingPrimitives:
+SHA256>>#initializeTotalsArray
+OSEnvironment>>#at:ifPresent:ifAbsent:
+ContributingToTheCatalogHelp class>>#AddingYourProject
+ScriptLoader>>#script50335

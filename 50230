@@ -1,0 +1,44 @@
+ScriptLoader>>#update50230
+DeepCopier
+MessageSend
+WeakMessageSend
+MethodWidget>>#selectNextMethod
+ScriptLoader>>#script50229
+ScriptLoader>>#commentForCurrentUpdate
+WeakActionSequence
+ScriptLoader>>#script50229
+ChangeSet class>>#fileReaderServicesForFile:suffix:
+ChangeSet class>>#serviceFileIntoNewChangeSet
+ChangeSet class>>#services
+WeakActionSequence
+WeakActionSequence>>#asActionSequence
+WeakActionSequence>>#asMinimalRepresentation
+WeakActionSequence>>#value
+WeakActionSequence>>#valueWithArguments:
+WeakActionSequence>>#printOn:
+Object class>>#flushEvents
+Object>>#actionForEvent:
+Object>>#actionForEvent:ifAbsent:
+Object>>#actionMap
+Object>>#actionSequenceForEvent:
+Object>>#actionsDo:
+Object>>#asActionSequence
+Object>>#createActionMap
+Object>>#hasActionForEvent:
+Object>>#hasActionsWithReceiver:
+Object>>#releaseActionMap
+Object>>#removeAction:forEvent:
+Object>>#removeActionsForEvent:
+Object>>#removeActionsSatisfying:
+Object>>#removeActionsSatisfying:forEvent:
+Object>>#removeActionsWithReceiver:
+Object>>#removeActionsWithReceiver:forEvent:
+Object>>#setActionSequence:forEvent:
+Object>>#triggerEvent:
+Object>>#triggerEvent:withArguments:
+Object>>#triggerEvent:with:
+Object>>#updateableActionMap
+Object>>#when:evaluate:
+Object>>#when:send:to:
+Object>>#when:send:to:withArguments:
+Object>>#when:send:to:with:

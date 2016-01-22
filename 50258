@@ -1,0 +1,39 @@
+ScriptLoader>>#update50258
+TBehavior>>#thoroughHasSelectorReferringTo:
+TBehavior>>#thoroughWhichSelectorsReferTo:
+RBAbstractClass>>#existingMethodsThatReferTo:
+RBSelectorEnvironment class>>#referencesTo:in:
+RingChunkImporter
+ScriptLoader>>#script50257
+ScriptLoader>>#commentForCurrentUpdate
+SystemNavigation>>#allSendersOf:
+SystemNavigation>>#isUnsentMessage:
+SystemNavigation>>#allCallsOn:from:
+SystemNavigation>>#allLocalCallsOn:ofClass:
+SystemNavigation>>#allReferencesTo:
+TBehavior>>#whichSelectorsReferTo:
+RingChunkImporter class>>#fromFileNamed:
+RingChunkImporter class>>#fromStream:
+RingChunkImporter
+RingChunkImporter>>#classes
+RingChunkImporter>>#doIts
+RingChunkImporter>>#packages
+RingChunkImporter>>#initialize
+RingChunkImporter>>#classDefinition:with:
+RingChunkImporter>>#classNamed:
+RingChunkImporter>>#createClassNamed:
+RingChunkImporter>>#createTraitNamed:
+RingChunkImporter>>#metaClassDefinition:with:
+RingChunkImporter>>#metaTraitDefinition:with:
+RingChunkImporter>>#msgClassComment:with:
+RingChunkImporter>>#removedMethod:with:
+RingChunkImporter>>#scannedSource:
+RingChunkImporter>>#traitDefinition:with:
+RingChunkImporter>>#fileInFrom:
+RingChunkImporter>>#fromFileNamed:
+RingChunkImporter>>#visitClassCommentChunk:
+RingChunkImporter>>#visitClassOrganizationChunk:
+RingChunkImporter>>#visitDoItChunk:
+RingChunkImporter>>#visitMethodChunk:
+RingChunkImporter>>#visitStyleChunk:
+ScriptLoader>>#script50257

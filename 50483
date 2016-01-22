@@ -1,0 +1,15 @@
+Morph>>#handlesMouseMove:
+NECContext>>#completionTokenIsComment
+NECContext>>#completionTokenIsLiteralOrComment
+ScriptLoader>>#update50483
+FontChooserMorph>>#newFontPointSizeField
+Morph>>#handleMouseMove:
+NECContext>>#createModel
+NECContext>>#createRanges
+ScriptLoader>>#script50482
+ScriptLoader>>#commentForCurrentUpdate
+Behavior>>#classLayout
+Behavior>>#layout
+Behavior>>#layout:
+SugsMockContext>>#sourceTextArea
+ScriptLoader>>#script50482

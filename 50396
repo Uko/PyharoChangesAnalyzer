@@ -1,0 +1,50 @@
+Decompiler>>#doNop
+Context>>#doNop
+InstructionClient>>#doNop
+RFArgumentsReification class>>#entities
+RFClassReification class>>#entities
+RFEReceiverReification class>>#entities
+RFEntityReification class>>#entities
+RFLinkReification class>>#entities
+RFNameReification class>>#entities
+RFNewValueReification class>>#entities
+RFNodeReification class>>#entities
+RFObjectReification class>>#entities
+RFReification class>>#entity:link:
+RFReification class>>#entities
+RFReification>>#entity:
+RFSelectorReification class>>#entities
+RFSenderReification class>>#entities
+RFThisContextReification class>>#entities
+RFVariableReification class>>#entities
+ScriptLoader>>#update50396
+HookGenerator>>#entity:node:links:
+HookGenerator>>#genReification:for:
+HookGenerator>>#preamble
+MetaLink>>#checkForCompatibilityWith:
+RFEntityReification>>#genForInstanceVariableSlot
+RFEntityReification>>#genForLiteralVariable
+RFEntityReification>>#genForRBProgramNode
+RFNameReification>>#genForInstanceVariableSlot
+RFNameReification>>#genForLiteralVariable
+RFNameReification>>#genForRBAssignmentNode
+RFNameReification>>#genForRBVariableNode
+RFNodeReification>>#genForRBProgramNode
+RFReification
+RFSelectorReification>>#genForRBMessageNode
+RFSelectorReification>>#genForRBMethodNode
+RFValueReification class>>#nodes
+RFValueReification>>#genForInstanceVariableSlot
+RFValueReification>>#genForLiteralVariable
+RFValueReification>>#genForRBAssignmentNode
+RFValueReification>>#genForRBVariableNode
+RFVariableReification>>#genForInstanceVariableSlot
+RFVariableReification>>#genForLiteralVariable
+RFVariableReification>>#genForRBVariableNode
+LiteralVariable>>#availableReifications
+RBProgramNode>>#availableReifications
+Slot>>#availableReifications
+ScriptLoader>>#script50395
+ScriptLoader>>#commentForCurrentUpdate
+RFValueReification class>>#nodes
+ScriptLoader>>#script50395

@@ -1,0 +1,76 @@
+BIConfigurableFormatter class>>#useBasicCommentFormat
+BIConfigurableFormatter class>>#useBasicCommentFormat:
+BIConfigurableFormatter class>>#announceASettingChange
+BIConfigurableFormatter>>#useBasicCommentFormat
+BIConfigurableFormatter>>#useBasicCommentFormat:
+BIPrettyPrinterContext>>#useBasicCommentFormat
+BIPrettyPrinterContext>>#useBasicCommentFormat:
+BISettingsChanged
+BIInspector class>>#buildOpenBIInspectorButton
+BIInspector class>>#openBIInspectorButtonAction
+BIInspector class>>#openBIInspectorButtonLabel
+BIInspector class>>#openBIInspectorButtonState
+BIInspector class>>#dialogOpenBIInspector
+BIInspector class>>#settingsOn:
+BIInspector class>>#defaultSpec
+BIInspector
+BIInspector>>#classSearchField
+BIInspector>>#compiledMethodFromSearchFields
+BIInspector>>#formattedCheckBox
+BIInspector>>#methodSearchField
+BIInspector>>#settingsTree
+BIInspector>>#sourceCodePane
+BIInspector>>#formatSourceCode
+BIInspector>>#initialExtent
+BIInspector>>#title
+BIInspector>>#whenASettingChanged
+BIInspector>>#whenSelectorAccepted
+BIInspector>>#initializeWidgets
+BIInspector>>#buildClassSearchField
+BIInspector>>#buildFormattedCheckBox
+BIInspector>>#buildMethodSearchField
+BIInspector>>#buildSettingsTreeModel
+BIInspector>>#buildSourceCodePane
+BIInspector>>#displayNodeFor:
+BIInspector>>#selectorAndClassAreCorrect
+ScriptLoader>>#update50207
+BIConfigurableFormatter class>>#cascadedMessageInsideParentheses:
+BIConfigurableFormatter class>>#formatCommentWithStatements:
+BIConfigurableFormatter class>>#indentString:
+BIConfigurableFormatter class>>#indentsForKeywords:
+BIConfigurableFormatter class>>#keepBlockInMessage:
+BIConfigurableFormatter class>>#lineUpBlockBrackets:
+BIConfigurableFormatter class>>#maxLineLength:
+BIConfigurableFormatter class>>#methodSignatureOnMultipleLines:
+BIConfigurableFormatter class>>#minimumNewLinesBetweenStatements:
+BIConfigurableFormatter class>>#multiLineMessages:
+BIConfigurableFormatter class>>#newLineAfterCascade:
+BIConfigurableFormatter class>>#newLineBeforeFirstCascade:
+BIConfigurableFormatter class>>#newLineBeforeFirstKeyword:
+BIConfigurableFormatter class>>#newLinesAfterMethodComment:
+BIConfigurableFormatter class>>#newLinesAfterMethodPattern:
+BIConfigurableFormatter class>>#newLinesAfterTemporaries:
+BIConfigurableFormatter class>>#numberOfArgumentsForMultiLine:
+BIConfigurableFormatter class>>#oneLineMessages:
+BIConfigurableFormatter class>>#periodsAsTerminators:
+BIConfigurableFormatter class>>#periodsAtEndOfBlock:
+BIConfigurableFormatter class>>#periodsAtEndOfMethod:
+BIConfigurableFormatter class>>#retainBlankLinesBeforeComments:
+BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements:
+BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize:
+BIConfigurableFormatter class>>#stringFollowingReturn:
+BIConfigurableFormatter class>>#stringInsideBlocks:
+BIConfigurableFormatter class>>#stringInsideParentheses:
+BIConfigurableFormatter class>>#traditionalBinaryPrecedence:
+BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses:
+BIConfigurableFormatter class>>#settingsOn:
+BIConfigurableFormatter>>#formatCommentWithStatements:
+BIConfigurableFormatter>>#indentsForKeywords:
+BIConfigurableFormatter>>#formatMethodCommentFor:
+BIConfigurableFormatter>>#formatStatementCommentsFor:
+BIPrettyPrinterContext
+BIPrettyPrinterContext>>#initialize
+ScriptLoader>>#script50206
+ScriptLoader>>#commentForCurrentUpdate
+TextModel>>#registerEventsForShout
+ScriptLoader>>#script50206

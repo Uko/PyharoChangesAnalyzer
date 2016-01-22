@@ -1,0 +1,27 @@
+ManifestKernel class>>#ignoredDependencies
+PackageManifest class>>#ignoredDependencies
+PackageManifest class>>#manuallyResolvedDependencies
+ScriptLoader>>#update50281
+ThemeIcons>>#blankIconOfWidth:
+ManifestKernel class>>#manuallyResolvedDependencies
+KomitMethod class>>#method:
+EclipseUIThemeIcons>>#smallProfileIcon
+ScriptLoader>>#script50280
+ScriptLoader>>#commentForCurrentUpdate
+Exit
+ManifestSystemCommandLine class>>#manuallyResolvedDependencies
+ScriptLoader>>#script50280
+Exit class>>#failure
+Exit class>>#status:
+Exit class>>#success
+Exit class>>#signalFailure
+Exit class>>#signalFailure:
+Exit class>>#signalSuccess
+Exit class>>#signalSuccess:
+Exit
+Exit>>#defaultAction
+Exit>>#printMessage
+Exit>>#status
+Exit>>#status:
+Exit>>#printOn:
+Exit>>#isSuccess

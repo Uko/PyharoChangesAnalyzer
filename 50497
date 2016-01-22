@@ -1,0 +1,1895 @@
+RBFFICallPragma class>>#externalName:module:callType:returnType:argumentTypes:
+RBFFICallPragma
+RBFFICallPragma>>#asPrimitive
+RBFFICallPragma>>#cFunction
+RBFFICallPragma>>#initializeWithExternalName:module:callType:returnType:argumentTypes:
+RBFFICallPragma>>#isCompilerOption
+RBFFICallPragma>>#isFFICallPragma
+RBFFICallPragma>>#isPrimitive
+RBFFICallPragma>>#isPrimitiveError
+ShortRunArray class>>#initialize
+ShortRunArray
+IRTranslatorV2>>#visitMethod:
+OCASTTranslator>>#visitPragmaNode:
+RBParser>>#basicParsePragma
+RBParser>>#externalFunctionDeclaration
+RBParser>>#externalType:
+RBParser>>#ffiCallClass
+RBParser>>#matchToken:
+RBParser>>#match:
+RBProgramNode>>#isFFICallPragma
+Alien class>>#invokeCallbackContext:
+Alien class>>#invokeCallback:stack:registers:jmpbuf:
+Alien class>>#ensureInSpecialObjectsArray
+Alien class>>#ensureNotifiedAtStartup
+Alien class>>#ensureNotifiedAtStartupAfter:
+Alien class>>#initialize
+Alien class>>#exampleCqsort
+Alien class>>#exampleEnumFontFamiliesEx
+Alien class>>#exampleEnumWindows
+Alien class>>#exampleEnumWindowsCallbackPerformance
+Alien class>>#exampleEnumWindowsSimple
+Alien class>>#exampleGetOpenFileName
+Alien class>>#examplePrintf
+Alien class>>#exampleVarArgsEnumFontFamiliesEx
+Alien class>>#libcName
+Alien class>>#finalize:
+Alien class>>#atAddress:
+Alien class>>#atAddress:dataSize:
+Alien class>>#dataSize
+Alien class>>#forPointer:
+Alien class>>#new
+Alien class>>#newC
+Alien class>>#newCString:
+Alien class>>#newC:
+Alien class>>#newGC
+Alien class>>#newGC:
+Alien class>>#new:
+Alien class>>#rawNewC:
+Alien class>>#ensureLoaded:
+Alien class>>#lookupOrNil:inLibrary:
+Alien class>>#lookup:inLibrary:
+Alien class>>#primInLibrary:findSymbol:
+Alien class>>#primLoadLibrary:
+Alien class>>#Ccalloc:
+Alien class>>#Cmalloc:
+Alien class>>#primFree:
+Alien class>>#startUp:
+Alien
+Alien>>#address
+Alien>>#dataSize
+Alien>>#freeAfter:
+Alien>>#pointer
+Alien>>#strcpy
+Alien>>#strcpyFrom:
+Alien>>#strcpyUTF8
+Alien>>#strcpyUTF8From:
+Alien>>#strlen
+Alien>>#isPointer
+Alien>>#asAlien
+Alien>>#asSignedByte
+Alien>>#asSignedLong
+Alien>>#asSignedShort
+Alien>>#asUnsignedByte
+Alien>>#asUnsignedLong
+Alien>>#asUnsignedShort
+Alien>>#initialize
+Alien>>#free
+Alien>>#addressField
+Alien>>#addressFieldPut:
+Alien>>#copyInto:from:to:in:startingAt:
+Alien>>#doubleAt:
+Alien>>#doubleAt:put:
+Alien>>#floatAt:
+Alien>>#floatAt:put:
+Alien>>#replaceFrom:to:with:startingAt:
+Alien>>#signedByteAt:
+Alien>>#signedByteAt:put:
+Alien>>#signedLongAt:
+Alien>>#signedLongAt:put:
+Alien>>#signedLongLongAt:
+Alien>>#signedLongLongAt:put:
+Alien>>#signedShortAt:
+Alien>>#signedShortAt:put:
+Alien>>#sizeField
+Alien>>#sizeFieldPut:
+Alien>>#strlenStartingAt:
+Alien>>#strlenThroughPointerAt:
+Alien>>#unsignedByteAt:
+Alien>>#unsignedByteAt:put:
+Alien>>#unsignedLongAt:
+Alien>>#unsignedLongAt:put:
+Alien>>#unsignedLongLongAt:
+Alien>>#unsignedLongLongAt:put:
+Alien>>#unsignedShortAt:
+Alien>>#unsignedShortAt:put:
+Alien>>#primFFICallResult:
+Alien>>#primFFICallResult:withArguments:
+Alien>>#primFFICallResult:with:
+Alien>>#primFFICallResult:with:with:
+Alien>>#primFFICallResult:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:with:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:with:with:with:with:with:with:
+Alien>>#primFFICallResult:with:with:with:with:with:with:with:with:with:with:with:with:
+Alien>>#primFindSymbol:
+Alien>>#primFree
+Alien>>#storeOn:
+AlienSunit
+AlienSunit>>#testAccessing
+AlienSunit>>#testAtAddress
+AlienSunit>>#testByte
+AlienSunit>>#testByteAccessors
+AlienSunit>>#testDoubleAccessors
+AlienSunit>>#testFloatAccessors
+AlienSunit>>#testLong
+AlienSunit>>#testLongAccessors
+AlienSunit>>#testLongLong
+AlienSunit>>#testParser
+AlienSunit>>#testPointer
+AlienSunit>>#testShort
+AlienSunit>>#testShortAccessors
+AlienSunit>>#testasAlien
+AlienSunit>>#testnewC
+AlienSunit>>#teststrcpy
+AlienSunit>>#willCrashTheVMtestLibCExamples
+AlienWeakTable class>>#newForOwner:
+AlienWeakTable
+AlienWeakTable>>#add:finalizing:
+AlienWeakTable>>#finalizeValues
+AlienWeakTable>>#initializeWithOwner:
+AlienWeakTable>>#removeAll
+AlienWeakTable>>#remove:
+Callback class>>#initialize
+Callback class>>#setup:
+Callback class>>#evaluateCallbackForContext:
+Callback class>>#evaluateCallbackForThunk:stack:
+Callback class>>#finalizeValues
+Callback class>>#block:argsClass:
+Callback class>>#block:stdcallArgsClass:
+Callback class>>#signature:block:
+Callback
+Callback>>#thunk
+Callback>>#block:thunk:argsProxyClass:
+Callback>>#valueInContext:
+Callback>>#valueWithContext:
+Callback>>#valueWithStackPointer:
+Callback>>#signature:block:
+Callback>>#addToThunkTable
+Callback>>#evaluatorForSignature:
+Callback>>#intcharstarRetint:sp:
+Callback>>#intcharstarRetint:sp:intRegArgs:
+Callback>>#voidstarvoidstarRetint:sp:
+Callback>>#voidstarvoidstarRetint:sp:intRegArgs:
+ENUMLOGFONTEXA class>>#dataSize
+ENUMLOGFONTEXA
+ENUMLOGFONTEXA>>#elfFullName
+EnumFontFamExProc class>>#dataSize
+EnumFontFamExProc
+EnumFontFamExProc>>#FontType
+EnumFontFamExProc>>#lParam
+EnumFontFamExProc>>#logicalFontData
+EnumFontFamExProc>>#lpelfe
+EnumFontFamExProc>>#lpntme
+EnumWindowsProc class>>#dataSize
+EnumWindowsProc
+EnumWindowsProc>>#hwnd
+EnumWindowsProc>>#lParam
+FFICallbackReturnValue class>>#dataSize
+FFICallbackReturnValue
+FFICallbackReturnValue>>#typeOffset
+FFICallbackReturnValue>>#valueOffset
+FFICallbackReturnValue>>#returnDouble:
+FFICallbackReturnValue>>#returnInteger:
+FFICallbackReturnValue>>#primReturnFromContext:through:
+FFICallbackThunk class>>#ensureNotifiedAtStartup
+FFICallbackThunk class>>#initialize
+FFICallbackThunk class>>#startUp:
+FFICallbackThunk class>>#allocateExecutablePage
+FFICallbackThunk class>>#freeBlockInExecutablePage:
+FFICallbackThunk class>>#unusedBlockInExecutablePage
+FFICallbackThunk class>>#finalize:
+FFICallbackThunk class>>#dataSize
+FFICallbackThunk class>>#newCCall
+FFICallbackThunk class>>#newStdCall:
+FFICallbackThunk class>>#privateFinalizingNew
+FFICallbackThunk
+FFICallbackThunk>>#address
+FFICallbackThunk>>#initialize
+FFICallbackThunk>>#initializeStdcall:
+FFICallbackThunk>>#free
+FFICallbackThunk>>#primFree
+FFICallbackThunk>>#primThunkEntryAddress
+IntegerFlagAlien class>>#forInIoProcessEventsFlag
+IntegerFlagAlien class>>#primInIOProcessEventsFlagAddress
+IntegerFlagAlien
+IntegerFlagAlien>>#decrement
+IntegerFlagAlien>>#increment
+IntegerFlagAlien>>#value
+IntegerFlagAlien>>#value:
+LOGFONTA class>>#DEFAULTCHARSET
+LOGFONTA class>>#dataSize
+LOGFONTA
+LOGFONTA>>#lfCharset
+LOGFONTA>>#lfCharset:
+LOGFONTA>>#lfFaceName
+NotFoundError
+OPENFILENAME class>>#dataSize
+OPENFILENAME
+OPENFILENAME>>#fileName
+OPENFILENAME>>#MAXPATH
+OPENFILENAME>>#lStructSizeOffset
+OPENFILENAME>>#lpstrFileOffset
+OPENFILENAME>>#nMaxFileOffset
+OPENFILENAME>>#initialize
+OPENFILENAME>>#free
+UnsafeAlien class>>#ensureInSpecialObjectsArray
+UnsafeAlien class>>#initialize
+UnsafeAlien class>>#exampleSprintf
+UnsafeAlien class>>#forPointerTo:
+UnsafeAlien
+UnsafeAlien>>#object
+VMCallbackContext32 class>>#dataSize
+VMCallbackContext32
+VMCallbackContext32>>#rawStackp
+VMCallbackContext32>>#returnDouble:
+VMCallbackContext32>>#returnInteger:
+VMCallbackContext32>>#floatResult:
+VMCallbackContext32>>#floatregargsp
+VMCallbackContext32>>#intregargsp
+VMCallbackContext32>>#stackp
+VMCallbackContext32>>#thunkp
+VMCallbackContext32>>#wordResult:
+VMCallbackContext32>>#wordSize
+VMCallbackContext32>>#primReturnAs:fromContext:
+VMCallbackContext32>>#primSignal:andReturnAs:fromContext:
+VMCallbackContext64 class>>#dataSize
+VMCallbackContext64
+VMCallbackContext64>>#rawStackp
+VMCallbackContext64>>#returnDouble:
+VMCallbackContext64>>#returnInteger:
+VMCallbackContext64>>#floatResult:
+VMCallbackContext64>>#floatregargsp
+VMCallbackContext64>>#intregargsp
+VMCallbackContext64>>#stackp
+VMCallbackContext64>>#thunkp
+VMCallbackContext64>>#wordResult:
+VMCallbackContext64>>#wordSize
+VMCallbackContext64>>#primReturnAs:fromContext:
+VMCallbackContext64>>#primSignal:andReturnAs:fromContext:
+ByteArray>>#utf8ToIso
+False>>#asAlien
+Integer>>#%7C
+String>>#asAlien
+True>>#asAlien
+UndefinedObject>>#asAlien
+WeakArray class>>#hasWeakDependent:
+AthensCairoCanvas class>>#asExternalTypeOn:
+AthensCairoMatrix class>>#fieldsDesc
+AthensCairoMatrix>>#shx
+AthensCairoMatrix>>#shx:
+AthensCairoMatrix>>#shy
+AthensCairoMatrix>>#shy:
+AthensCairoMatrix>>#sx
+AthensCairoMatrix>>#sx:
+AthensCairoMatrix>>#sy
+AthensCairoMatrix>>#sy:
+AthensCairoMatrix>>#x
+AthensCairoMatrix>>#x:
+AthensCairoMatrix>>#y
+AthensCairoMatrix>>#y:
+AthensCairoSurface class>>#asExternalTypeOn:
+AthensCairoSurface class>>#ffiLibraryName
+AthensCairoSurface class>>#createGetSurfaceFormatFnOld
+AthensCairoSurface class>>#createLockSurfaceFnOld
+AthensCairoSurface class>>#createShowSurfaceFnOld
+AthensCairoSurface class>>#createUnlockSurfaceFnOld
+AthensCairoSurface class>>#get_data:
+AthensCairoSurface class>>#get_height:
+AthensCairoSurface class>>#get_stride:
+AthensCairoSurface class>>#get_width:
+CairoBackendCache class>>#new
+CairoBackendCache class>>#soleInstance
+CairoBackendCache class>>#checkSession
+CairoFontExtents class>>#fieldsDesc
+CairoFontExtents>>#ascent
+CairoFontExtents>>#ascent:
+CairoFontExtents>>#descent
+CairoFontExtents>>#descent:
+CairoFontExtents>>#height
+CairoFontExtents>>#height:
+CairoFontExtents>>#max_x_advance
+CairoFontExtents>>#max_x_advance:
+CairoFontExtents>>#max_y_advance
+CairoFontExtents>>#max_y_advance:
+CairoGlyph class>>#byteAlignment
+CairoGlyph>>#index
+CairoGlyph>>#index:
+CairoGlyph>>#x
+CairoGlyph>>#x:
+CairoGlyph>>#y
+CairoGlyph>>#y:
+CairoGlyphsArray class>>#externalNew:
+CairoGlyphsArray class>>#new
+CairoGlyphsArray class>>#new:
+CairoLibrary
+CairoLibrary>>#macModuleName
+CairoLibrary>>#unixModuleName
+CairoLibrary>>#win32ModuleName
+CairoTextExtents class>>#fieldsDesc
+CairoTextExtents>>#height
+CairoTextExtents>>#height:
+CairoTextExtents>>#width
+CairoTextExtents>>#width:
+CairoTextExtents>>#x_advance
+CairoTextExtents>>#x_advance:
+CairoTextExtents>>#x_bearing
+CairoTextExtents>>#x_bearing:
+CairoTextExtents>>#y_advance
+CairoTextExtents>>#y_advance:
+CairoTextExtents>>#y_bearing
+CairoTextExtents>>#y_bearing:
+SQSurfaceDispatch class>>#fieldsDesc
+SQSurfaceDispatch class>>#rebuildFieldAccessors
+SQSurfaceDispatch>>#getSurfaceFormatFn
+SQSurfaceDispatch>>#getSurfaceFormatFn:
+SQSurfaceDispatch>>#lockSurfaceFn
+SQSurfaceDispatch>>#lockSurfaceFn:
+SQSurfaceDispatch>>#majorVersion
+SQSurfaceDispatch>>#majorVersion:
+SQSurfaceDispatch>>#minorVersion
+SQSurfaceDispatch>>#minorVersion:
+SQSurfaceDispatch>>#showSurfaceFn
+SQSurfaceDispatch>>#showSurfaceFn:
+SQSurfaceDispatch>>#unlockSurfaceFn
+SQSurfaceDispatch>>#unlockSurfaceFn:
+TCairoLibrary class>>#ffiLibraryName
+TCairoLibrary>>#ffiLibraryName
+BaselineOfFFINB
+BaselineOfFFINB>>#alien:
+BaselineOfFFINB>>#baseline:
+BaselineOfFFINB>>#ffi:
+String>>#adaptToNumber:andSend:
+BytecodeEncoder>>#computeMethodHeaderForNumArgs:numTemps:numLits:primitive:
+EncoderForV3PlusClosures>>#genCallPrimitive:
+MethodNode>>#generate:using:
+MethodNode>>#generate:using:ifQuick:
+ConfigurationOfFFI class>>#project
+ConfigurationOfFFI class>>#catalogContactInfo
+ConfigurationOfFFI class>>#catalogDescription
+ConfigurationOfFFI class>>#catalogKeywords
+ConfigurationOfFFI class>>#load
+ConfigurationOfFFI class>>#isMetacelloConfig
+ConfigurationOfFFI class>>#lastMetacelloVersionLoad
+ConfigurationOfFFI class>>#metacelloVersion:loads:
+ConfigurationOfFFI class>>#bootstrapPackage:from:
+ConfigurationOfFFI class>>#ensureMetacello
+ConfigurationOfFFI
+ConfigurationOfFFI>>#project
+ConfigurationOfFFI>>#baseline10:
+ConfigurationOfFFI>>#baseline12:
+ConfigurationOfFFI>>#baseline13:
+ConfigurationOfFFI>>#baseline14:
+ConfigurationOfFFI>>#baseline15:
+ConfigurationOfFFI>>#ffiExampleInitialization10
+ConfigurationOfFFI>>#development:
+ConfigurationOfFFI>>#stable:
+ConfigurationOfFFI>>#version1_10_1:
+ConfigurationOfFFI>>#version1_10:
+ConfigurationOfFFI>>#version1_9_1:
+ConfigurationOfFFI>>#version10:
+ConfigurationOfFFI>>#version11:
+ConfigurationOfFFI>>#version12:
+ConfigurationOfFFI>>#version13:
+ConfigurationOfFFI>>#version14:
+ConfigurationOfFFI>>#version15:
+ConfigurationOfFFI>>#version16:
+ConfigurationOfFFI>>#version17:
+ConfigurationOfFFI>>#version18:
+ConfigurationOfFFI>>#version19:
+ConfigurationOfOldAlien class>>#project
+ConfigurationOfOldAlien class>>#catalogContactInfo
+ConfigurationOfOldAlien class>>#catalogDescription
+ConfigurationOfOldAlien class>>#catalogKeywords
+ConfigurationOfOldAlien class>>#DevelopmentSupport
+ConfigurationOfOldAlien class>>#validate
+ConfigurationOfOldAlien class>>#load
+ConfigurationOfOldAlien class>>#loadBleedingEdge
+ConfigurationOfOldAlien class>>#loadDevelopment
+ConfigurationOfOldAlien class>>#isMetacelloConfig
+ConfigurationOfOldAlien class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfOldAlien class>>#ensureMetacello
+ConfigurationOfOldAlien class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfOldAlien
+ConfigurationOfOldAlien>>#project
+ConfigurationOfOldAlien>>#baseline10:
+ConfigurationOfOldAlien>>#stable:
+ConfigurationOfOldAlien>>#version1_2:
+ConfigurationOfOldAlien>>#version10:
+ConfigurationOfOldAlien>>#version11:
+ExternalAddress class>>#startUp:
+ExternalAddress class>>#allocate:
+ExternalAddress class>>#gcallocate:
+ExternalAddress class>>#loadSymbol:module:
+ExternalAddress class>>#new
+ExternalAddress class>>#new:
+ExternalAddress
+ExternalAddress>>#byteAt:
+ExternalAddress>>#byteAt:put:
+ExternalAddress>>#isExternalAddress
+ExternalAddress>>#+
+ExternalAddress>>#asInteger
+ExternalAddress>>#fromInteger:
+ExternalAddress>>#clone
+ExternalAddress>>#shallowCopy
+ExternalAddress>>#beNull
+ExternalAddress>>#finalize
+ExternalAddress>>#free
+ExternalAddress>>#printOn:
+ExternalAddress>>#asByteArrayPointer
+ExternalAddress>>#asExternalPointer
+ExternalAddress>>#isNull
+ExternalData class>>#compileFields
+ExternalData class>>#fields
+ExternalData class>>#fromHandle:type:
+ExternalData class>>#new
+ExternalData
+ExternalData>>#fromCString
+ExternalData>>#fromCStrings
+ExternalData>>#setHandle:type:
+ExternalForm
+ExternalForm>>#pointer
+ExternalForm>>#allocateSpace
+ExternalForm>>#destroySurface
+ExternalForm>>#initialize
+ExternalForm>>#setExtent:depth:
+ExternalForm>>#setExtent:depth:bits:
+ExternalForm>>#setManualSurfacePointer:
+ExternalForm>>#primCreateManualSurfaceWidth:height:rowPitch:depth:isMSB:
+ExternalForm>>#primDestroyManualSurface:
+ExternalForm>>#primManualSurface:setPointer:
+ExternalFunction class>>#initialize
+ExternalFunction class>>#initializeErrorMessages
+ExternalFunction class>>#unload
+ExternalFunction class>>#atomicTypeNamed:
+ExternalFunction class>>#callingConventionFor:
+ExternalFunction class>>#callingConventionModifierFor:
+ExternalFunction class>>#forceTypeNamed:
+ExternalFunction class>>#isValidType:
+ExternalFunction class>>#structTypeNamed:
+ExternalFunction class>>#callTypeAPI
+ExternalFunction class>>#callTypeCDecl
+ExternalFunction class>>#errorMessageFor:
+ExternalFunction class>>#externalCallFailed
+ExternalFunction class>>#externalCallFailedWith:
+ExternalFunction class>>#getLastError
+ExternalFunction
+ExternalFunction>>#argTypes
+ExternalFunction>>#errorCodeName
+ExternalFunction>>#flags
+ExternalFunction>>#module
+ExternalFunction>>#name
+ExternalFunction>>#initialize
+ExternalFunction>>#invoke
+ExternalFunction>>#invokeWithArguments:
+ExternalFunction>>#invokeWith:
+ExternalFunction>>#invokeWith:with:
+ExternalFunction>>#invokeWith:with:with:
+ExternalFunction>>#invokeWith:with:with:with:
+ExternalFunction>>#invokeWith:with:with:with:with:
+ExternalFunction>>#invokeWith:with:with:with:with:with:
+ExternalFunction>>#tryInvokeWithArguments:
+ExternalFunction>>#callingConventionString
+ExternalFunction>>#printOn:
+ExternalLibrary class>>#moduleName
+ExternalLibrary
+ExternalLibrary>>#handle
+ExternalLibrary>>#name
+ExternalLibrary>>#forceLoading
+ExternalLibrary>>#initialize
+ExternalLibraryFunction class>>#name:module:callType:returnType:argumentTypes:
+ExternalLibraryFunction
+ExternalLibraryFunction>>#errorCodeName
+ExternalLibraryFunction>>#module
+ExternalLibraryFunction>>#name
+ExternalLibraryFunction>>#setErrorCodeName:
+ExternalLibraryFunction>>#setModule:
+ExternalLibraryFunction>>#analogousCodeTo:
+ExternalLibraryFunction>>#name:module:flags:argTypes:
+ExternalObject class>>#initialize
+ExternalObject class>>#install
+ExternalObject class>>#installSubclasses
+ExternalObject class>>#startUp:
+ExternalObject
+ExternalObject>>#getHandle
+ExternalObject>>#setHandle:
+ExternalObject>>#isExternalAddress
+ExternalObject>>#isNull
+ExternalStructure class>>#doneCompiling
+ExternalStructure class>>#fileOutInitializerOn:
+ExternalStructure class>>#fileOutOn:moveSource:toFile:initializing:
+ExternalStructure class>>#obsolete
+ExternalStructure class>>#rename:
+ExternalStructure class>>#externalType
+ExternalStructure class>>#byteSize
+ExternalStructure class>>#compileAlias:withAccessors:
+ExternalStructure class>>#compileAllFields
+ExternalStructure class>>#compileFields
+ExternalStructure class>>#compileFields:
+ExternalStructure class>>#compileFields:withAccessors:
+ExternalStructure class>>#compiledSpec
+ExternalStructure class>>#defineAliasAccessorsFor:type:
+ExternalStructure class>>#defineFieldAccessorsFor:startingAt:type:
+ExternalStructure class>>#defineFields
+ExternalStructure class>>#defineFields:
+ExternalStructure class>>#fields
+ExternalStructure class>>#externalNew
+ExternalStructure class>>#fromHandle:
+ExternalStructure class>>#new
+ExternalStructure
+ExternalStructure>>#free
+ExternalStructure>>#longPrintOn:
+ExternalType class>>#initialize
+ExternalType class>>#initializeAtomicTypes
+ExternalType class>>#initializeDefaultTypes
+ExternalType class>>#initializeFFIConstants
+ExternalType class>>#initializeStructureTypes
+ExternalType class>>#cleanupUnusedTypes
+ExternalType class>>#noticeModificationOf:
+ExternalType class>>#noticeRemovalOf:
+ExternalType class>>#noticeRenamingOf:from:to:
+ExternalType class>>#new
+ExternalType class>>#atomicTypeNamed:
+ExternalType class>>#forceTypeNamed:
+ExternalType class>>#newTypeNamed:force:
+ExternalType class>>#pointerSpec
+ExternalType class>>#structTypeNamed:
+ExternalType class>>#structureSpec
+ExternalType class>>#bool
+ExternalType class>>#byte
+ExternalType class>>#char
+ExternalType class>>#double
+ExternalType class>>#float
+ExternalType class>>#long
+ExternalType class>>#sbyte
+ExternalType class>>#schar
+ExternalType class>>#short
+ExternalType class>>#signedByte
+ExternalType class>>#signedChar
+ExternalType class>>#signedLong
+ExternalType class>>#signedLongLong
+ExternalType class>>#signedShort
+ExternalType class>>#string
+ExternalType class>>#ulong
+ExternalType class>>#unsignedByte
+ExternalType class>>#unsignedChar
+ExternalType class>>#unsignedLong
+ExternalType class>>#unsignedLongLong
+ExternalType class>>#unsignedShort
+ExternalType class>>#ushort
+ExternalType class>>#void
+ExternalType
+ExternalType>>#atomicType
+ExternalType>>#byteSize
+ExternalType>>#compiledSpec
+ExternalType>>#referentClass
+ExternalType>>#asNonPointerType
+ExternalType>>#asPointerType
+ExternalType>>#printOn:
+ExternalType>>#storeOn:
+ExternalType>>#compiledSpec:
+ExternalType>>#embeddedSpecWithSize:
+ExternalType>>#externalTypeName
+ExternalType>>#headerWord
+ExternalType>>#newReferentClass:
+ExternalType>>#readFieldAt:
+ExternalType>>#setReferencedType:
+ExternalType>>#writeFieldAt:with:
+ExternalType>>#isAtomic
+ExternalType>>#isIntegerType
+ExternalType>>#isPointerType
+ExternalType>>#isSigned
+ExternalType>>#isStructureType
+ExternalType>>#isUnsigned
+ExternalType>>#isVoid
+ByteArray>>#asExternalPointer
+ByteArray>>#booleanAt:
+ByteArray>>#booleanAt:put:
+ByteArray>>#doubleAt:
+ByteArray>>#doubleAt:put:
+ByteArray>>#floatAt:
+ByteArray>>#floatAt:put:
+ByteArray>>#integerAt:put:size:signed:
+ByteArray>>#integerAt:size:signed:
+ByteArray>>#isExternalAddress
+ByteArray>>#isNull
+ByteArray>>#pointerAt:
+ByteArray>>#pointerAt:put:
+ByteArray>>#signedByteAt:
+ByteArray>>#signedByteAt:put:
+ByteArray>>#signedCharAt:
+ByteArray>>#signedCharAt:put:
+ByteArray>>#signedLongAt:
+ByteArray>>#signedLongAt:put:
+ByteArray>>#signedLongLongAt:
+ByteArray>>#signedLongLongAt:put:
+ByteArray>>#signedShortAt:
+ByteArray>>#signedShortAt:put:
+ByteArray>>#structAt:length:
+ByteArray>>#structAt:put:length:
+ByteArray>>#unsignedByteAt:
+ByteArray>>#unsignedByteAt:put:
+ByteArray>>#unsignedCharAt:
+ByteArray>>#unsignedCharAt:put:
+ByteArray>>#unsignedLongAt:
+ByteArray>>#unsignedLongAt:put:
+ByteArray>>#unsignedLongLongAt:
+ByteArray>>#unsignedLongLongAt:put:
+ByteArray>>#unsignedShortAt:
+ByteArray>>#unsignedShortAt:put:
+ByteArray>>#voidAt:
+ByteArray>>#voidAt:put:
+Object>>#externalCallFailed
+MacOSShell class>>#escapeFileName:
+MacOSShell
+MacOSShell>>#getenv:
+MacOSShell>>#system:
+MacPixPatPtr class>>#fields
+MacPixPatPtr class>>#newPixPat
+MacPixPatPtr
+MacPixPatPtr>>#makeRGBPattern:
+MacPixPatPtr>>#apiDisposePixPat:
+MacPixPatPtr>>#apiMakeRGBPat:with:
+MacPixPatPtr>>#dispose
+MacPoint class>>#apiLineTo:with:
+MacPoint class>>#apiMoveTo:with:
+MacPoint class>>#lineTo:
+MacPoint class>>#macDraw
+MacPoint class>>#moveTo:
+MacPoint class>>#fields
+MacPoint
+MacPoint>>#getMousePoint
+MacPoint>>#h
+MacPoint>>#h:
+MacPoint>>#v
+MacPoint>>#v:
+MacPoint>>#x
+MacPoint>>#x:
+MacPoint>>#y
+MacPoint>>#y:
+MacPoint>>#apiGetMousePoint:
+MacRGBColor class>>#fields
+MacRGBColor class>>#fromColor:
+MacRGBColor
+MacRGBColor>>#blue
+MacRGBColor>>#blue:
+MacRGBColor>>#green
+MacRGBColor>>#green:
+MacRGBColor>>#red
+MacRGBColor>>#red:
+MacRect class>>#apiFillCOval:with:
+MacRect class>>#apiFillCRect:with:
+MacRect class>>#apiFrameOval:
+MacRect class>>#apiFrameRect:
+MacRect class>>#coloredEllipses
+MacRect class>>#coloredRectangles
+MacRect class>>#macDraw
+MacRect class>>#fields
+MacRect
+MacRect>>#bottom
+MacRect>>#bottom:
+MacRect>>#left
+MacRect>>#left:
+MacRect>>#right
+MacRect>>#right:
+MacRect>>#top
+MacRect>>#top:
+ByteArray>>#nbFloat32AtOffset:
+ByteArray>>#nbFloat32AtOffset:put:
+ByteArray>>#nbFloat64AtOffset:
+ByteArray>>#nbFloat64AtOffset:put:
+ByteArray>>#nbInt16AtOffset:
+ByteArray>>#nbInt16AtOffset:put:
+ByteArray>>#nbInt32AtOffset:
+ByteArray>>#nbInt32AtOffset:put:
+ByteArray>>#nbInt64AtOffset:
+ByteArray>>#nbInt64AtOffset:put:
+ByteArray>>#nbInt8AtOffset:
+ByteArray>>#nbInt8AtOffset:put:
+ByteArray>>#nbLongAt:
+ByteArray>>#nbLongAt:put:
+ByteArray>>#nbUInt16AtOffset:
+ByteArray>>#nbUInt16AtOffset:put:
+ByteArray>>#nbUInt32AtOffset:
+ByteArray>>#nbUInt32AtOffset:put:
+ByteArray>>#nbUInt64AtOffset:
+ByteArray>>#nbUInt64AtOffset:put:
+ByteArray>>#nbUInt8AtOffset:
+ByteArray>>#nbUInt8AtOffset:put:
+ByteArray>>#nbUlongAt:
+ByteArray>>#nbUlongAt:put:
+FFIExternalObject>>#handle
+FFIExternalObject>>#handle:
+Object>>#nbCall:
+Object>>#nbCall:module:
+FFICalloutAPITests
+FFICalloutAPITests>>#ffiLibraryName
+FFICalloutAPITests>>#method1
+FFICalloutAPITests>>#method2
+FFICalloutAPITests>>#ffiPrintString:
+FFICalloutAPITests>>#ffiTestChar:with:with:with:
+FFICalloutAPITests>>#ffiTestDoubles:with:
+FFICalloutAPITests>>#ffiTestFloats:with:
+FFICalloutAPITests>>#ffiTestInt:with:with:with:
+FFICalloutAPITests>>#ffiTestLongLong:with:
+FFICalloutAPITests>>#ffiTestShort:with:with:with:
+FFICalloutAPITests>>#ffiTestUlong:with:with:with:
+FFICalloutAPITests>>#ffiTestIntConstant
+FFICalloutAPITests>>#ffiTestIntConstantWith:
+FFICalloutAPITests>>#primMemMoveFrom:to:size:
+FFICalloutAPITests>>#primStr:cat:
+FFICalloutAPITests>>#runCase
+FFICalloutAPITests>>#testCharCall
+FFICalloutAPITests>>#testDoubleCall
+FFICalloutAPITests>>#testFloatCall
+FFICalloutAPITests>>#testIntCall
+FFICalloutAPITests>>#testLongLongs
+FFICalloutAPITests>>#testPrintString
+FFICalloutAPITests>>#testShortCall
+FFICalloutAPITests>>#testUlongRange
+FFICalloutAPITests>>#testIntCallWithAllConstParameter
+FFICalloutAPITests>>#testIntCallWithConstParameter
+FFICalloutAPITests>>#testCallWithObjectCreation
+FFICalloutAPITests>>#testCallWithObjectParameter
+FFICalloutAPITests>>#testCallWithSelfParameter
+FFICalloutAPITests>>#testCharPointer
+FFICalloutAPITests>>#testVoidPointer
+FFICalloutMethodBuilderTest
+FFICalloutMethodBuilderTest>>#builder
+FFICalloutMethodBuilderTest>>#testAllAtomicTypesCall
+FFICalloutMethodBuilderTest>>#testCallCreateObject
+FFICalloutMethodBuilderTest>>#testCallSimple
+FFICalloutMethodBuilderTest>>#testCallWithConstant
+FFICalloutMethodBuilderTest>>#testCallWithObject
+FFICalloutMethodBuilderTest>>#testCallWithPointer
+FFICalloutMethodBuilderTest>>#testCallWithSelf
+FFICalloutMethodBuilderTestContext
+FFICalloutMethodBuilderTestContext>>#argumentNames
+FFICalloutMethodBuilderTestContext>>#argumentNames:
+FFICalloutMethodBuilderTestContext>>#method
+FFICalloutMethodBuilderTestContext>>#methodClass
+FFICalloutMethodBuilderTestContext>>#methodClass:
+FFICalloutMethodBuilderTestContext>>#selector
+FFICalloutMethodBuilderTestContext>>#selector:
+FFICalloutMethodBuilderTestContext>>#trailer
+FFICalloutMethodBuilderTestRecuestor
+FFICalloutMethodBuilderTestRecuestor>>#loaderFromMethodArgsNamed:
+FFICalloutObjectForTest class>>#asExternalTypeOn:
+FFICalloutObjectForTest class>>#asNBExternalType:
+FFICalloutObjectForTest class>>#primCreate:
+FFICalloutObjectForTest class>>#primObject:strcpy:
+FFICalloutObjectForTest
+FFICalloutObjectForTest>>#free
+FFICalloutObjectForTest>>#handle
+FFICalloutObjectForTest>>#handle:
+FFICalloutObjectForTest>>#strcpy:
+FFICalloutObjectForTest>>#method1
+FFICalloutObjectForTest>>#primFree
+FFICalloutObjectForTest>>#primStrcpy:
+FFICalloutObjectForTest>>#primStrcpy:size:
+FFICalloutTests
+FFICalloutTests>>#ffiBindingOf:
+FFICalloutTests>>#checkTypeSelf:class:arity:
+FFICalloutTests>>#checkType:class:arity:argument:
+FFICalloutTests>>#checkType:class:value:
+FFICalloutTests>>#testBuildingFnSpec
+FFIExternalArrayTests
+FFIExternalArrayTests>>#testAt
+FFIExternalArrayTests>>#testAtPut
+FFIExternalArrayTests>>#testExternalAt
+FFIExternalArrayTests>>#testExternalAtPut
+FFIExternalArrayTests>>#testExternalAtPutFloat
+FFIExternalArrayTests>>#testResolveType
+FFIExternalStructureFieldParserTests
+FFIExternalStructureFieldParserTests>>#newParser
+FFIExternalStructureFieldParserTests>>#testParseFieldsStructure
+FFIExternalStructureTests
+FFIExternalStructureTests>>#testExternallyAllocatedNestedStructure
+FFIExternalStructureTests>>#testExternallyAllocatedStructure
+FFIExternalStructureTests>>#testNestedStructure
+FFIExternalStructureTests>>#testStructAccess
+FFIExternalStructureTests>>#testStructWithPointerAccess
+FFIFunctionParserTests
+FFIFunctionParserTests>>#newParser
+FFIFunctionParserTests>>#testParseAnonymousFunction
+FFIFunctionParserTests>>#testParseAnonymousFunctionNoArguments
+FFIFunctionParserTests>>#testParseFunction
+FFIFunctionParserTests>>#testParseFunctionNoArguments
+FFITestNestingStructure class>>#initialize
+FFITestNestingStructure class>>#fieldsDesc
+FFITestNestingStructure
+FFITestNestingStructure>>#nested
+FFITestNestingStructure>>#nested:
+FFITestNestingStructure>>#one
+FFITestNestingStructure>>#one:
+FFITestNestingStructure>>#two
+FFITestNestingStructure>>#two:
+FFITestPointerStructure class>>#initialize
+FFITestPointerStructure class>>#fieldsDesc
+FFITestPointerStructure
+FFITestPointerStructure>>#nestedPointer
+FFITestPointerStructure>>#nestedPointer:
+FFITestPointerStructure>>#one
+FFITestPointerStructure>>#one:
+FFITestPointerStructure>>#pointer
+FFITestPointerStructure>>#pointer:
+FFITestPointerStructure>>#two
+FFITestPointerStructure>>#two:
+FFITestStructure class>>#initialize
+FFITestStructure class>>#fieldsDesc
+FFITestStructure
+FFITestStructure>>#byte
+FFITestStructure>>#byte:
+FFITestStructure>>#double
+FFITestStructure>>#double:
+FFITestStructure>>#float
+FFITestStructure>>#float:
+FFITestStructure>>#int64
+FFITestStructure>>#int64:
+FFITestStructure>>#long
+FFITestStructure>>#long:
+FFITestStructure>>#short
+FFITestStructure>>#short:
+FFIBool
+FFIBool>>#externalType
+FFIBool>>#valueSize
+FFIBool>>#basicHandle:at:
+FFIBool>>#basicHandle:at:put:
+FFICallback class>>#asExternalTypeOn:
+FFICallback class>>#exampleCqsort
+FFICallback class>>#forAddress:
+FFICallback class>>#primQsort:with:with:with:
+FFICallback
+FFICallback>>#valueInContext:
+FFICallback>>#signature:block:
+FFICallback>>#ffiBindingOf:
+FFICallback>>#ffiInstVarArgument:generator:
+FFICallback>>#newParser
+FFICallbackType
+FFICallbackType>>#emitArgument:context:
+FFICallbackType>>#readFieldAt:
+FFICallbackType>>#writeFieldAt:with:
+FFICallout class>>#typeAliases
+FFICallout class>>#initialize
+FFICallout class>>#initializeTypeAliases
+FFICallout
+FFICallout>>#callType:
+FFICallout>>#fnSpec
+FFICallout>>#method
+FFICallout>>#methodArgs
+FFICallout>>#methodArgs:
+FFICallout>>#method:
+FFICallout>>#namedFnSpec:
+FFICallout>>#newSpecParser
+FFICallout>>#receiver
+FFICallout>>#receiver:
+FFICallout>>#requestor
+FFICallout>>#requestor:
+FFICallout>>#resolveExternalType:
+FFICallout>>#resolveType:
+FFICallout>>#sender:
+FFICallout>>#indirectLoader:byIndex:
+FFICallout>>#loaderForArgNamed:
+FFICallout>>#loaderForArgNamed:indirectIndex:
+FFICallout>>#loaderFromMethodArgsNamed:
+FFICallout>>#aliasForType:
+FFICallout>>#receiverArgumentLoader
+FFICallout>>#typeName:pointerArity:
+FFICallout>>#argName:indirectIndex:type:ptrArity:
+FFICallout>>#integerConstantArgument:
+FFICallout>>#returnType:
+FFICalloutAPI class>>#calloutAPIClass
+FFICalloutAPI class>>#calloutAPIClass:
+FFICalloutAPI class>>#defaultCalloutAPIClass
+FFICalloutAPI class>>#inContext:
+FFICalloutAPI class>>#new
+FFICalloutAPI
+FFICalloutAPI>>#context
+FFICalloutAPI>>#convention:
+FFICalloutAPI>>#options
+FFICalloutAPI>>#options:
+FFICalloutAPI>>#function:module:
+FFICalloutAPI>>#newBuilder
+FFICalloutAPI>>#cdecl
+FFICalloutAPI>>#stdcall
+FFICalloutAPI>>#initialize
+FFICalloutAPI>>#initializeContext:
+FFICalloutAPI>>#callingConvention
+FFICalloutMethodBuilder class>>#calloutAPI:
+FFICalloutMethodBuilder
+FFICalloutMethodBuilder>>#callType
+FFICalloutMethodBuilder>>#callingConvention
+FFICalloutMethodBuilder>>#calloutAPI
+FFICalloutMethodBuilder>>#createFFICallout
+FFICalloutMethodBuilder>>#method
+FFICalloutMethodBuilder>>#module
+FFICalloutMethodBuilder>>#moduleName
+FFICalloutMethodBuilder>>#module:
+FFICalloutMethodBuilder>>#requestor
+FFICalloutMethodBuilder>>#requestor:
+FFICalloutMethodBuilder>>#sender
+FFICalloutMethodBuilder>>#sender:
+FFICalloutMethodBuilder>>#signature
+FFICalloutMethodBuilder>>#signature:
+FFICalloutMethodBuilder>>#build:
+FFICalloutMethodBuilder>>#initializeCalloutAPI:
+FFICalloutMethodBuilder>>#createFFIMethodFrom:
+FFICalloutMethodBuilder>>#createFFIPragmaFromSpec:
+FFICalloutMethodBuilder>>#generateMethodFromSpecOld:
+FFICalloutMethodBuilder>>#createFFICalloutLiteralFromSpec:
+FFICalloutMethodBuilder>>#generate
+FFICalloutMethodBuilder>>#generateFFICallout:spec:
+FFICalloutMethodBuilder>>#generateMethodFromSpec:
+FFICalloutMethodBuilder>>#parseSignature:
+FFICharacterType
+FFICharacterType>>#externalType
+FFICharacterType>>#valueSize
+FFICharacterType>>#basicHandle:at:
+FFICharacterType>>#basicHandle:at:put:
+FFIConst class>>#value:
+FFIConst class>>#value:type:
+FFIConst
+FFIConst>>#externalType
+FFIConst>>#externalType:
+FFIConst>>#loader
+FFIConst>>#pointerArity:
+FFIConst>>#value
+FFIConst>>#value:
+FFIConst>>#emitArgument:context:
+FFIConst>>#emitReturn:resultTempVar:context:
+FFIExternalArray class>>#asExternalTypeOn:
+FFIExternalArray class>>#externalNewType:size:
+FFIExternalArray class>>#fromHandle:type:
+FFIExternalArray class>>#fromHandle:type:size:
+FFIExternalArray class>>#fromPointer:type:
+FFIExternalArray class>>#fromPointer:type:size:
+FFIExternalArray class>>#gcExternalNewType:size:
+FFIExternalArray class>>#new
+FFIExternalArray class>>#newType:size:
+FFIExternalArray
+FFIExternalArray>>#at:
+FFIExternalArray>>#at:put:
+FFIExternalArray>>#getHandle
+FFIExternalArray>>#type
+FFIExternalArray>>#typeSize
+FFIExternalArray>>#asArray
+FFIExternalArray>>#gcpointer
+FFIExternalArray>>#pointer
+FFIExternalArray>>#free
+FFIExternalArray>>#initializeExternalType:size:
+FFIExternalArray>>#initializeGcExternalType:size:
+FFIExternalArray>>#initializeHandle:type:size:
+FFIExternalArray>>#initializeType:size:
+FFIExternalArray>>#initializeType:size:handleProducer:
+FFIExternalArray>>#size
+FFIExternalArray>>#ffiBindingOf:
+FFIExternalArray>>#resolveType:
+FFIExternalArrayType
+FFIExternalObject class>>#asExternalTypeOn:
+FFIExternalObject class>>#null
+FFIExternalObject
+FFIExternalObject>>#registerAsExternalResource
+FFIExternalObject>>#initialize
+FFIExternalObject>>#printOn:
+FFIExternalObjectType class>>#objectClass:
+FFIExternalObjectType
+FFIExternalObjectType>>#externalType
+FFIExternalObjectType>>#objectClass
+FFIExternalObjectType>>#objectClass:
+FFIExternalObjectType>>#valueSize
+FFIExternalObjectType>>#emitArgument:context:
+FFIExternalObjectType>>#emitReturn:resultTempVar:context:
+FFIExternalObjectType>>#printOn:
+FFIExternalResourceExecutor
+FFIExternalResourceExecutor>>#finalize
+FFIExternalResourceExecutor>>#initialize
+FFIExternalResourceExecutor>>#resourceClass:data:
+FFIExternalResourceManager class>>#uniqueInstance
+FFIExternalResourceManager class>>#reset
+FFIExternalResourceManager class>>#addResource:
+FFIExternalResourceManager class>>#addResource:data:
+FFIExternalResourceManager
+FFIExternalResourceManager>>#addResource:
+FFIExternalResourceManager>>#addResource:data:
+FFIExternalResourceManager>>#initialize
+FFIExternalString
+FFIExternalString>>#externalType
+FFIExternalString>>#valueSize
+FFIExternalString>>#basicHandle:at:
+FFIExternalString>>#basicHandle:at:put:
+FFIExternalStructure class>>#structureSize
+FFIExternalStructure class>>#asExternalTypeOn:
+FFIExternalStructure class>>#fields
+FFIExternalStructure class>>#fieldsDesc
+FFIExternalStructure class>>#fromHandle:
+FFIExternalStructure class>>#gcExternalNew
+FFIExternalStructure class>>#compileFields:withAccessors:
+FFIExternalStructure class>>#defineFieldAccessorsFor:startingAt:type:
+FFIExternalStructure class>>#fieldSpec
+FFIExternalStructure class>>#generatedFieldProtocolName
+FFIExternalStructure class>>#rebuildFieldAccessors
+FFIExternalStructure class>>#removeAllMethodsInProtocol:
+FFIExternalStructure
+FFIExternalStructure>>#address
+FFIExternalStructure>>#pointer
+FFIExternalStructure>>#printOn:
+FFIExternalStructureFieldParser
+FFIExternalStructureFieldParser>>#fieldSpec
+FFIExternalStructureFieldParser>>#parseFields:structure:
+FFIExternalStructureFieldSpec
+FFIExternalStructureFieldSpec>>#addField:type:
+FFIExternalStructureFieldSpec>>#fieldNames
+FFIExternalStructureFieldSpec>>#fieldsAndTypesDo:
+FFIExternalStructureFieldSpec>>#typeFor:
+FFIExternalStructureFieldSpec>>#compileSpec
+FFIExternalStructureFieldSpec>>#initialize
+FFIExternalStructureReferenceHandle class>>#handle:offset:
+FFIExternalStructureReferenceHandle class>>#new
+FFIExternalStructureReferenceHandle
+FFIExternalStructureReferenceHandle>>#booleanAt:
+FFIExternalStructureReferenceHandle>>#booleanAt:put:
+FFIExternalStructureReferenceHandle>>#doubleAt:
+FFIExternalStructureReferenceHandle>>#doubleAt:put:
+FFIExternalStructureReferenceHandle>>#floatAt:
+FFIExternalStructureReferenceHandle>>#floatAt:put:
+FFIExternalStructureReferenceHandle>>#integerAt:put:size:signed:
+FFIExternalStructureReferenceHandle>>#integerAt:size:signed:
+FFIExternalStructureReferenceHandle>>#pointerAt:
+FFIExternalStructureReferenceHandle>>#pointerAt:put:
+FFIExternalStructureReferenceHandle>>#referenceStructAt:length:
+FFIExternalStructureReferenceHandle>>#signedByteAt:
+FFIExternalStructureReferenceHandle>>#signedByteAt:put:
+FFIExternalStructureReferenceHandle>>#signedCharAt:
+FFIExternalStructureReferenceHandle>>#signedCharAt:put:
+FFIExternalStructureReferenceHandle>>#signedLongAt:
+FFIExternalStructureReferenceHandle>>#signedLongAt:put:
+FFIExternalStructureReferenceHandle>>#signedLongLongAt:
+FFIExternalStructureReferenceHandle>>#signedLongLongAt:put:
+FFIExternalStructureReferenceHandle>>#signedShortAt:
+FFIExternalStructureReferenceHandle>>#signedShortAt:put:
+FFIExternalStructureReferenceHandle>>#structAt:length:
+FFIExternalStructureReferenceHandle>>#structAt:put:length:
+FFIExternalStructureReferenceHandle>>#unsignedByteAt:
+FFIExternalStructureReferenceHandle>>#unsignedByteAt:put:
+FFIExternalStructureReferenceHandle>>#unsignedCharAt:
+FFIExternalStructureReferenceHandle>>#unsignedCharAt:put:
+FFIExternalStructureReferenceHandle>>#unsignedLongAt:
+FFIExternalStructureReferenceHandle>>#unsignedLongAt:put:
+FFIExternalStructureReferenceHandle>>#unsignedLongLongAt:
+FFIExternalStructureReferenceHandle>>#unsignedLongLongAt:put:
+FFIExternalStructureReferenceHandle>>#unsignedShortAt:
+FFIExternalStructureReferenceHandle>>#unsignedShortAt:put:
+FFIExternalStructureReferenceHandle>>#voidAt:
+FFIExternalStructureReferenceHandle>>#voidAt:put:
+FFIExternalStructureReferenceHandle>>#asExternalPointer
+FFIExternalStructureReferenceHandle>>#initializeHandle:offset:
+FFIExternalStructureReferenceHandle>>#isExternalAddress
+FFIExternalStructureReferenceHandle>>#isNull
+FFIExternalStructureType class>>#objectClass:
+FFIExternalStructureType
+FFIExternalStructureType>>#externalType
+FFIExternalStructureType>>#objectClass
+FFIExternalStructureType>>#valueSize
+FFIExternalStructureType>>#readFieldAt:
+FFIExternalStructureType>>#readReferenceAt:
+FFIExternalStructureType>>#initializeObjectClass:
+FFIExternalStructureType>>#basicHandle:at:
+FFIExternalType class>>#pointerSize
+FFIExternalType class>>#asExternalTypeOn:
+FFIExternalType class>>#sizeOf:
+FFIExternalType
+FFIExternalType>>#handle:at:
+FFIExternalType>>#handle:at:put:
+FFIExternalType>>#callbackReturnOn:for:
+FFIExternalType>>#callbackValueFor:at:
+FFIExternalType>>#externalType
+FFIExternalType>>#externalTypeWithArity
+FFIExternalType>>#loader
+FFIExternalType>>#loader:
+FFIExternalType>>#pointerArity
+FFIExternalType>>#pointerArity:
+FFIExternalType>>#pointerSize
+FFIExternalType>>#typeSize
+FFIExternalType>>#valueSize
+FFIExternalType>>#emitArgument:context:
+FFIExternalType>>#emitReturn:resultTempVar:context:
+FFIExternalType>>#readFieldAt:
+FFIExternalType>>#writeFieldAt:with:
+FFIExternalType>>#initialize
+FFIExternalType>>#printOn:
+FFIExternalType>>#basicHandle:at:
+FFIExternalType>>#basicHandle:at:put:
+FFIExternalType>>#isPointer
+FFIExternalType>>#isVoid
+FFIFloat128
+FFIFloat128>>#externalType
+FFIFloat128>>#valueSize
+FFIFloat128>>#basicHandle:at:
+FFIFloat128>>#basicHandle:at:put:
+FFIFloat16
+FFIFloat16>>#externalType
+FFIFloat16>>#valueSize
+FFIFloat16>>#basicHandle:at:
+FFIFloat16>>#basicHandle:at:put:
+FFIFloat32
+FFIFloat32>>#externalType
+FFIFloat32>>#valueSize
+FFIFloat32>>#basicHandle:at:
+FFIFloat32>>#basicHandle:at:put:
+FFIFloat64
+FFIFloat64>>#externalType
+FFIFloat64>>#valueSize
+FFIFloat64>>#basicHandle:at:
+FFIFloat64>>#basicHandle:at:put:
+FFIFloatType
+FFIFloatType>>#callbackReturnOn:for:
+FFIFunctionArgument
+FFIFunctionArgument>>#emitArgument:context:
+FFIFunctionParser
+FFIFunctionParser>>#parseAnonymousFunction:
+FFIFunctionParser>>#parseNamedFunction:
+FFIFunctionParser>>#requestor:
+FFIFunctionParser>>#initialize
+FFIFunctionParser>>#parseArgument
+FFIFunctionParser>>#parseArguments
+FFIFunctionParser>>#parseInt
+FFIFunctionParser>>#parseType
+FFIFunctionParser>>#parseWord
+FFIFunctionParser>>#skipSpace
+FFIFunctionParser>>#argName:indirectIndex:type:ptrArity:
+FFIFunctionParser>>#integerConstantArgument:
+FFIFunctionParser>>#returnType:
+FFIFunctionSpec class>>#namedFunctionFrom:
+FFIFunctionSpec
+FFIFunctionSpec>>#addArgument:
+FFIFunctionSpec>>#arguments
+FFIFunctionSpec>>#arguments:
+FFIFunctionSpec>>#functionName
+FFIFunctionSpec>>#functionName:
+FFIFunctionSpec>>#returnType
+FFIFunctionSpec>>#returnType:
+FFIFunctionSpec>>#asArraySpec
+FFIFunctionSpec>>#asArraySpecArrayedArgs
+FFIFunctionSpec>>#asMethodSelectorAndArguments
+FFIFunctionSpec>>#asMethodSelectorAndArrayOfArguments
+FFIFunctionSpec>>#printType:on:
+FFIFunctionSpec>>#initialize
+FFIFunctionSpec>>#isAnonymous
+FFIInstVarArgument
+FFIInstVarArgument>>#argName
+FFIInstVarArgument>>#argName:
+FFIInstVarArgument>>#emitArgument:context:
+FFIInstVarArgument>>#emitArgument:context:objectClass:
+FFIInstVarArgument>>#emitArgument:context:objectClass:instVarName:
+FFIInt16
+FFIInt16>>#externalType
+FFIInt16>>#basicHandle:at:
+FFIInt16>>#basicHandle:at:put:
+FFIInt32
+FFIInt32>>#externalType
+FFIInt32>>#basicHandle:at:
+FFIInt32>>#basicHandle:at:put:
+FFIInt64
+FFIInt64>>#externalType
+FFIInt8
+FFIInt8>>#externalType
+FFIInt8>>#basicHandle:at:
+FFIInt8>>#basicHandle:at:put:
+FFIIntegerType
+FFILibrary class>>#asFFILibrary
+FFILibrary class>>#new
+FFILibrary class>>#uniqueInstance
+FFILibrary
+FFILibrary>>#macModuleName
+FFILibrary>>#unixModuleName
+FFILibrary>>#win32ModuleName
+FFILibrary>>#moduleName
+FFILibrary>>#ffiLibraryName
+FFILibrary>>#asFFILibrary
+FFIMethodArgument
+FFIMethodArgument>>#argName
+FFIMethodArgument>>#argName:
+FFIMethodArgument>>#index
+FFIMethodArgument>>#index:
+FFIMethodArgument>>#emitArgument:context:
+FFIMethodArgument>>#emitArgument:context:objectClass:
+FFIMethodArgument>>#emitArgument:context:objectClass:instVarName:
+FFIMethodRegistry class>>#initialize
+FFIMethodRegistry class>>#new
+FFIMethodRegistry class>>#uniqueInstance
+FFIMethodRegistry class>>#startUp:
+FFIMethodRegistry
+FFIMethodRegistry>>#checkPlatform
+FFIMethodRegistry>>#compiledMethods
+FFIMethodRegistry>>#lastActivePlatform
+FFIMethodRegistry>>#registerMethod:
+FFIMethodRegistry>>#initialize
+FFIOop
+FFIOop>>#externalType
+FFIOop>>#valueSize
+FFISelfArgument
+FFISelfArgument>>#emitArgument:context:
+FFISelfArgument>>#emitArgument:context:objectClass:
+FFISizeT class>>#asExternalTypeOn:
+FFISizeT class>>#asNBExternalType:
+FFISizeT
+FFISizeT>>#externalType
+FFISizeT>>#valueSize
+FFISizeT>>#basicHandle:at:
+FFISizeT>>#basicHandle:at:put:
+FFIUInt16
+FFIUInt16>>#externalType
+FFIUInt16>>#valueSize
+FFIUInt16>>#basicHandle:at:
+FFIUInt16>>#basicHandle:at:put:
+FFIUInt32
+FFIUInt32>>#externalType
+FFIUInt32>>#valueSize
+FFIUInt32>>#basicHandle:at:
+FFIUInt32>>#basicHandle:at:put:
+FFIUInt64
+FFIUInt64>>#externalType
+FFIUInt64>>#valueSize
+FFIUInt64>>#basicHandle:at:
+FFIUInt64>>#basicHandle:at:put:
+FFIUInt8
+FFIUInt8>>#externalType
+FFIUInt8>>#valueSize
+FFIUInt8>>#basicHandle:at:
+FFIUInt8>>#basicHandle:at:put:
+FFIUnknownLibrary class>>#name:
+FFIUnknownLibrary class>>#new
+FFIUnknownLibrary
+FFIUnknownLibrary>>#moduleName
+FFIUnknownLibrary>>#initializeName:
+FFIVoid
+FFIVoid>>#callbackReturnOn:for:
+FFIVoid>>#externalType
+FFIVoid>>#valueSize
+FFIVoid>>#emitPointerReturn:resultTempVar:context:
+FFIVoid>>#emitReturn:resultTempVar:context:
+FFIVoid>>#emitSelfReturn:
+FFIVoid>>#basicHandle:at:
+FFIVoid>>#basicHandle:at:put:
+FFIVoid>>#isVoid
+LibC class>>#memCopy:to:size:
+LibC
+LibC>>#macModuleName
+LibC>>#unixModuleName
+LibC>>#win32ModuleName
+LibC>>#memCopy:to:size:
+Behavior>>#ffiBindingOf:
+Behavior>>#ffiInstVarArgument:generator:
+Boolean class>>#asExternalTypeOn:
+Boolean>>#asExternalTypeOn:
+ByteArray>>#referenceStructAt:length:
+ExternalAddress class>>#loadSymbol:from:
+ExternalAddress>>#gcpointer
+ExternalAddress>>#pointer
+ExternalAddress>>#value
+ExternalData>>#+
+ExternalData>>#asInteger
+ExternalData>>#printOn:
+ExternalData>>#value
+ExternalType>>#isExternalType
+ExternalType>>#withPointerArity:
+Integer>>#asExternalTypeOn:
+MacOSPlatform>>#ffiModuleName:
+OSPlatform>>#ffiModuleName:
+Object>>#ffiCall:
+Object>>#ffiCall:module:
+Object>>#ffiCall:module:options:
+Object>>#ffiCall:options:
+Object>>#ffiCallingConvention
+Object>>#ffiCallout
+Object>>#ffiCalloutIn:
+Object>>#ffiLibraryName
+Object>>#isExternalType
+SmalltalkImage>>#getSystemAttribute:
+SmalltalkImage>>#platformName
+String class>>#asExternalTypeOn:
+String>>#asExternalTypeOn:
+String>>#asFFILibrary
+UnixPlatform>>#ffiModuleName:
+Win32Platform>>#ffiModuleName:
+FFIConstants class>>#initialize
+FFIConstants class>>#initializeCallingConventions
+FFIConstants class>>#initializeErrorConstants
+FFIConstants class>>#initializeTypeConstants
+FFIConstants
+FFIPluginTests
+FFIPluginTests>>#testBlitToAndFromExternalForm
+FFIPluginTests>>#testLoadSymbolFromModule
+FFIPluginTests>>#testConstructedCharCall
+FFIPluginTests>>#testConstructedDoubleCall
+FFIPluginTests>>#testConstructedFloatCall
+FFIPluginTests>>#testConstructedIntCall
+FFIPluginTests>>#testConstructedPrintString
+FFIPluginTests>>#testConstructedShortCall
+FFIPluginTests>>#testGenericCharCall
+FFIPluginTests>>#testGenericDoubleCall
+FFIPluginTests>>#testGenericDoubleCall2
+FFIPluginTests>>#testGenericFloatCall
+FFIPluginTests>>#testGenericIntCall
+FFIPluginTests>>#testGenericMixedDoublesIntAndStruct
+FFIPluginTests>>#testGenericMixedFloatsAndDouble
+FFIPluginTests>>#testGenericPrintString
+FFIPluginTests>>#testGenericShortCall
+FFIPluginTests>>#testLibraryCharCall
+FFIPluginTests>>#testLibraryDoubleCall
+FFIPluginTests>>#testLibraryFloatCall
+FFIPluginTests>>#testLibraryIntCall
+FFIPluginTests>>#testLibraryPrintString
+FFIPluginTests>>#testLongLongA1
+FFIPluginTests>>#testLongLongA3
+FFIPluginTests>>#testLongLongs
+FFIPluginTests>>#testUlongRange
+FFIPluginTests>>#testMixedIntAndStruct
+FFIPluginTests>>#testMixedIntAndStruct2
+FFIPluginTests>>#testMixedIntAndStruct3
+FFIPluginTests>>#testPoint2
+FFIPluginTests>>#testPoint4
+FFIPluginTests>>#testPointers
+FFIPluginTests>>#testSmallStructureReturn
+FFISmallStruct1 class>>#fields
+FFISmallStruct1
+FFISmallStruct1>>#x
+FFISmallStruct1>>#x:
+FFISmallStruct1>>#y
+FFISmallStruct1>>#y:
+FFITestLibrary class>>#moduleName
+FFITestLibrary class>>#ffiPrintString:
+FFITestLibrary class>>#ffiTestChar:with:with:with:
+FFITestLibrary class>>#ffiTestDoubles9:d:d:d:d:d:d:d:d:
+FFITestLibrary class>>#ffiTestDoubles:with:
+FFITestLibrary class>>#ffiTestFloats:with:
+FFITestLibrary class>>#ffiTestInt:with:with:with:
+FFITestLibrary class>>#ffiTestLongLongA1:with:with:
+FFITestLibrary class>>#ffiTestLongLongA3:with:with:
+FFITestLibrary class>>#ffiTestLongLong:with:
+FFITestLibrary class>>#ffiTestMixedDoublesIntAndStruct:d:d:d:d:d:d:d:d:i:s:
+FFITestLibrary class>>#ffiTestMixedFloatsAndDouble:with:with:with:
+FFITestLibrary class>>#ffiTestMixedIntAndStruct2:with:
+FFITestLibrary class>>#ffiTestMixedIntAndStruct3:with:
+FFITestLibrary class>>#ffiTestMixedIntAndStruct:with:with:
+FFITestLibrary class>>#ffiTestPoint2:with:
+FFITestLibrary class>>#ffiTestPoint4:with:
+FFITestLibrary class>>#ffiTestPointers:with:
+FFITestLibrary class>>#ffiTestShort:with:with:with:
+FFITestLibrary class>>#ffiTestSmallStructReturn
+FFITestLibrary class>>#ffiTestUlong:with:with:with:
+FFITestLibrary
+FFITestLibrary>>#ffiPrintString:
+FFITestLibrary>>#ffiTestChar:with:with:with:
+FFITestLibrary>>#ffiTestDoubles:with:
+FFITestLibrary>>#ffiTestFloats:with:
+FFITestLibrary>>#ffiTestInt:with:with:with:
+FFITestLibrary>>#ffiTestShort:with:with:with:
+FFITestPoint2 class>>#fields
+FFITestPoint2
+FFITestPoint2>>#x
+FFITestPoint2>>#x:
+FFITestPoint2>>#y
+FFITestPoint2>>#y:
+FFITestPoint4 class>>#fields
+FFITestPoint4
+FFITestPoint4>>#w
+FFITestPoint4>>#w:
+FFITestPoint4>>#x
+FFITestPoint4>>#x:
+FFITestPoint4>>#y
+FFITestPoint4>>#y:
+FFITestPoint4>>#z
+FFITestPoint4>>#z:
+X11Display class>>#coloredEllipses
+X11Display class>>#coloredRectangles
+X11Display class>>#x11Draw
+X11Display class>>#fields
+X11Display class>>#XOpenDisplay:
+X11Display class>>#new
+X11Display class>>#on:
+X11Display
+X11Display>>#displayString
+X11Display>>#getInputFocus
+X11Display>>#ourWindow
+X11Display>>#queryPointer:
+X11Display>>#warpPointerBy:
+X11Display>>#warpPointerFrom:in:To:in:
+X11Display>>#warpPointerTo:in:
+X11Display>>#closeDisplay
+X11Display>>#flush
+X11Display>>#sync
+X11Display>>#None
+X11Display>>#XCloseDisplay:
+X11Display>>#XDisplayString:
+X11Display>>#XFlush:
+X11Display>>#XGetInputFocus:with:with:
+X11Display>>#XQueryPointer:window:returnRoot:child:rootX:rootY:winX:winY:mask:
+X11Display>>#XSync:
+X11Display>>#XWarpPointer:sourceWindow:destWindow:sourceX:sourceY:sourceWidth:sourceHeight:destX:destY:
+X11Drawable class>>#fields
+X11Drawable class>>#display:
+X11Drawable class>>#none
+X11Drawable
+X11Drawable>>#display
+X11Drawable>>#display:
+X11Drawable>>#xid
+X11Drawable>>#xid:
+X11Drawable>>#printOn:
+X11GC class>>#fields
+X11GC class>>#on:
+X11GC class>>#XCreateGC:with:with:with:
+X11GC
+X11GC>>#display
+X11GC>>#drawable
+X11GC>>#drawable:
+X11GC>>#background:
+X11GC>>#drawLineFrom:to:
+X11GC>>#drawOval:
+X11GC>>#drawRectangle:
+X11GC>>#fillOval:
+X11GC>>#fillRectangle:
+X11GC>>#foreground:
+X11GC>>#free
+X11GC>>#XDrawArc:with:with:with:with:with:with:with:with:
+X11GC>>#XDrawLine:with:with:with:with:with:with:
+X11GC>>#XDrawRectangle:with:with:with:with:with:with:
+X11GC>>#XFillArc:with:with:with:with:with:with:with:with:
+X11GC>>#XFillRectangle:with:with:with:with:with:with:
+X11GC>>#XFreeGC:with:
+X11GC>>#XSetBackground:with:with:
+X11GC>>#XSetForeground:with:with:
+X11Window
+Win32Constants class>>#initialize
+Win32Constants class>>#initializeWindowConstants
+Win32Constants
+Win32Error class>>#initialize
+Win32Error class>>#lastError
+Win32Error class>>#win32GetLastError
+Win32Error
+Win32Error>>#errorCode
+Win32Error>>#errorMessage
+Win32Error>>#errorName
+Win32Error>>#initializeWithLastError
+Win32File class>>#setReadOnly:
+Win32File class>>#setReadWrite:
+Win32File
+Win32File>>#getFileAttributes:
+Win32File>>#setFileAttributes:lpAttrs:
+Win32File>>#setReadOnly:
+Win32File>>#setReadWrite:
+Win32HBrush class>>#apiCreateHatchBrush:with:
+Win32HBrush class>>#backwardDiagonalWithColor:
+Win32HBrush class>>#crossWithColor:
+Win32HBrush class>>#diagonalCrossWithColor:
+Win32HBrush class>>#forwardDiagonalWithColor:
+Win32HBrush class>>#horizontalWithColor:
+Win32HBrush class>>#verticalWithColor:
+Win32HBrush class>>#createHatchBrush:color:
+Win32HBrush class>>#createSolidBrush:
+Win32HBrush
+Win32HDC
+Win32HDC>>#apiDeleteDC:
+Win32HDC>>#apiDrawFocusRect:with:
+Win32HDC>>#apiDrawFrameControl:with:with:with:
+Win32HDC>>#apiEllipse:with:with:with:with:
+Win32HDC>>#apiExtFloodFill:with:with:with:with:
+Win32HDC>>#apiFillRect:with:with:
+Win32HDC>>#apiFrameRect:with:with:
+Win32HDC>>#apiLineTo:with:with:
+Win32HDC>>#apiMoveToEx:with:with:with:
+Win32HDC>>#apiRectangle:with:with:with:with:
+Win32HDC>>#apiRoundRect:with:with:with:with:with:with:
+Win32HDC>>#apiSelectObject:with:
+Win32HDC>>#drawFocusRectangle:
+Win32HDC>>#drawFrameControl:type:style:
+Win32HDC>>#ellipse:
+Win32HDC>>#fillRectangle:color:
+Win32HDC>>#floodFillAt:boundaryColor:fillColor:
+Win32HDC>>#frameRectangle:brush:
+Win32HDC>>#lineTo:
+Win32HDC>>#moveTo:
+Win32HDC>>#rectangle:
+Win32HDC>>#roundRectangle:width:height:
+Win32HDC>>#selectObject:
+Win32HDC>>#delete
+Win32HGDIObj
+Win32HGDIObj>>#apiDeleteObject:
+Win32HGDIObj>>#delete
+Win32Handle class>>#fields
+Win32Handle
+Win32Point class>>#fields
+Win32Point class>>#apiGetCursorPos:
+Win32Point class>>#getCursorPos
+Win32Point
+Win32Point>>#x
+Win32Point>>#x:
+Win32Point>>#y
+Win32Point>>#y:
+Win32Point>>#asPoint
+Win32Rectangle class>>#fields
+Win32Rectangle class>>#fromRectangle:
+Win32Rectangle
+Win32Rectangle>>#bottom
+Win32Rectangle>>#bottom:
+Win32Rectangle>>#left
+Win32Rectangle>>#left:
+Win32Rectangle>>#left:top:right:bottom:
+Win32Rectangle>>#right
+Win32Rectangle>>#right:
+Win32Rectangle>>#top
+Win32Rectangle>>#top:
+Win32Shell
+Win32Shell>>#shellExecute:lpOperation:lpFile:lpParameters:lpDirectory:nShowCmd:
+Win32Shell>>#shellExplore:
+Win32Shell>>#shellFind:
+Win32Shell>>#shellOpen:
+Win32Utils class>>#getEnvironmentVariable:
+Win32Utils class>>#getEnvironmentVariable:buffer:ifAbsent:
+Win32Utils class>>#getEnvironmentVariable:ifAbsent:
+Win32Utils class>>#getEnvironmentVariables
+Win32Utils class>>#apiFreeEnvironmentStrings:
+Win32Utils class>>#apiGetEnvironmentStrings
+Win32Utils class>>#apiGetEnvironmentVariable:buffer:size:
+Win32Utils class>>#apiSetCursorPosX:y:
+Win32Utils class>>#getCommonEnvironmentVariables
+Win32Utils
+Win32Window class>>#getDesktopWindow
+Win32Window class>>#getFocus
+Win32Window class>>#coloredEllipses
+Win32Window class>>#coloredRectangles
+Win32Window class>>#getMainWindowText:
+Win32Window class>>#setMainWindowText:
+Win32Window class>>#win32Draw
+Win32Window class>>#getWindowLong:index:
+Win32Window class>>#getWindowStyle
+Win32Window class>>#setNonResizable
+Win32Window class>>#setWindowLong:index:value:
+Win32Window
+Win32Window>>#getDC
+Win32Window>>#getHDCDuring:
+Win32Window>>#getParent
+Win32Window>>#messageBox:
+Win32Window>>#messageBox:title:
+Win32Window>>#messageBox:title:flags:
+Win32Window>>#releaseDC:
+Win32Window>>#screenToClient:
+Win32Window>>#apiGetDC:
+Win32Window>>#apiGetParent:
+Win32Window>>#apiGetWindowText:buffer:maxCount:
+Win32Window>>#apiMessageBox:text:title:flags:
+Win32Window>>#apiReleaseDC:with:
+Win32Window>>#apiScreenToClient:with:
+Win32Window>>#apiSetWindowPosition:insertAfter:x:y:cx:cy:flags:
+Win32Window>>#apiSetWindowText:text:
+Win32Window>>#getWindowText:
+FLCharacter32Cluster
+FLCharacter32Cluster>>#materializeInstanceWith:
+FLCharacter32Cluster>>#serializeInstance:with:
+Character>>#largeIdentityHash
+Behavior>>#allInstances
+Behavior>>#byteSizeOfInstance
+Behavior>>#byteSizeOfInstanceOfSize:
+Behavior>>#elementSize
+Behavior>>#typeOfClass
+Behavior>>#basicIdentityHash
+Behavior>>#largeIdentityHash
+Behavior>>#shouldNotBeRedefined
+Behavior>>#allInstancesDo:
+Behavior>>#allInstancesOrNil
+Behavior>>#handleFailingBasicNew
+Behavior>>#handleFailingBasicNew:
+Behavior>>#handleFailingFailingBasicNew
+Behavior>>#handleFailingFailingBasicNew:
+Behavior>>#indexIfCompact
+Behavior>>#kindOfSubclass
+Behavior>>#instSpec
+Behavior>>#isBits
+Behavior>>#isBytes
+Behavior>>#isCompiledMethodClass
+Behavior>>#isEphemeronClass
+Behavior>>#isImmediateClass
+Behavior>>#isVariable
+BoxedFloat64 class>>#basicNew
+BoxedFloat64 class>>#basicNew:
+BoxedFloat64
+Character>>#identityHash
+ClassDescription>>#updateInstancesFrom:
+ClassDescription>>#updateInstances:from:isMeta:
+CompiledMethod class>>#installPrimaryBytecodeSet:
+CompiledMethod class>>#installSecondaryBytecodeSet:
+CompiledMethod class>>#handleFailingFailingNewMethod:header:
+CompiledMethod class>>#handleFailingNewMethod:header:
+CompiledMethodTrailer>>#decodeTempsNamesQCompress
+CompiledMethodTrailer>>#decodeTempsNamesZip
+CompiledMethodTrailer>>#encodeTempsNamesQCompress
+CompiledMethodTrailer>>#encodeTempsNamesZip
+Context class>>#allInstances
+Context>>#objectClass:
+Context>>#send:to:with:lookupIn:
+Context>>#isPrimFailToken:
+Context>>#failPrimitiveWith:
+Float class>>#basicNew
+Float class>>#basicNew:
+Float class>>#negativeInfinity
+Float class>>#zero
+Float>>#basicNew
+Float>>#basicNew:
+InstructionStream>>#interpretV3ClosuresExtension:in:for:
+Object>>#clone
+Object>>#isPinned
+Object>>#pin
+Object>>#setPinned:
+Object>>#unpin
+SmallFloat64 class>>#basicNew
+SmallFloat64 class>>#basicNew:
+SmallFloat64
+SmallFloat64>>#%2A
+SmallFloat64>>#%2F
+SmallFloat64>>#+
+SmallFloat64>>#-
+SmallFloat64>>#%3C
+SmallFloat64>>#%3C=
+SmallFloat64>>#%3E
+SmallFloat64>>#%3E=
+SmallFloat64>>#=
+SmallFloat64>>#identityHash
+SmallFloat64>>#~=
+SmallFloat64>>#clone
+SmallFloat64>>#copy
+SmallFloat64>>#deepCopy
+SmallFloat64>>#shallowCopy
+SmallFloat64>>#veryDeepCopyWith:
+SmallFloat64>>#arcTan
+SmallFloat64>>#exp
+SmallFloat64>>#ln
+SmallFloat64>>#sin
+SmallFloat64>>#sqrt
+SmallFloat64>>#timesTwoPower:
+SmallFloat64>>#exponent
+SmallFloat64>>#fractionPart
+SmallFloat64>>#truncated
+SmallInteger>>#asCharacter
+OpalEncoderForV3PlusClosures>>#genCallPrimitive:
+ScriptLoader>>#script50497
+ScriptLoader>>#update50497
+AbstractLayout>>#extendImmediate
+ClassModification class>>#modify:extend:withLayoutType:slots:sharedVariables:sharedPools:traitComposition:
+ClassModification>>#layoutClass:slots:
+CompiledMethodLayout>>#instanceSpecification
+EphemeronLayout
+EphemeronLayout>>#instanceSpecification
+FixedLayout>>#instanceSpecification
+ImmediateLayout class>>#extending:scope:host:
+ImmediateLayout
+ImmediateLayout>>#instanceSpecification
+ObjectLayout>>#instanceSpecification
+PharoClassInstaller>>#updateInstancesFrom:to:
+SlotClassBuilder>>#computeFormat:instSize:forSuper:ccIndex:
+SlotClassBuilder>>#format:variable:words:pointers:weak:
+SlotClassBuilder>>#superclass:immediateSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+SlotClassBuilder>>#update:to:
+VariableLayout>>#instanceSpecification
+SmalltalkImage>>#growMemoryByAtLeast:
+SmalltalkImage>>#maxIdentityHash
+SystemDictionary>>#growMemoryByAtLeast:
+SystemDictionary>>#maxIdentityHash
+SystemNavigation>>#allObjects
+SystemNavigation>>#allObjectsOrNil
+SpaceTally>>#spaceForInstancesOf:
+TraitBehavior>>#allInstances
+TraitBehavior>>#isEphemeronClass
+TraitBehavior>>#isImmediateClass
+TraitBehavior>>#allInstancesDo:
+TraitBehavior>>#kindOfSubclass
+TraitBehavior>>#instSpec
+TraitBehavior>>#isBits
+TraitBehavior>>#isBytes
+TraitBehavior>>#isVariable
+WeakAnnouncementSubscription class>>#new
+AthensCairoCanvas
+AthensCairoCanvas>>#getCurrentPoint
+AthensCairoMatrix
+AthensCairoMatrix>>#initialize
+AthensCairoMatrix>>#copyFromMatrix:
+AthensCairoPath
+AthensCairoPath>>#initialize
+AthensCairoPatternPaint
+AthensCairoPatternPaint>>#initialize
+AthensCairoPatternSurfacePaint
+AthensCairoSurface class>>#finalizeResourceData:
+AthensCairoSurface class>>#createFromFile:ifFailed:
+AthensCairoSurface class>>#extent:
+AthensCairoSurface class>>#fromForm:
+AthensCairoSurface class>>#ioRegisterSurface:dispatch:surfaceId:
+AthensCairoSurface class>>#registerSurface:
+AthensCairoSurface class>>#checkSession
+AthensCairoSurface class>>#initializeForNewSession
+AthensCairoSurface class>>#createGetSurfaceFormatFn
+AthensCairoSurface class>>#createLockSurfaceFn
+AthensCairoSurface class>>#createShowSurfaceFn
+AthensCairoSurface class>>#createUnlockSurfaceFn
+AthensCairoSurface>>#getDataPtr
+AthensCairoSurface>>#initialize
+AthensCairoSurface>>#checkSession
+AthensQuartzSurface class>>#finalizeResourceData:
+CairoFontExtents
+CairoFontFace
+CairoFontOptions
+CairoFreetypeFontRenderer>>#glyphsOf:from:to:
+CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
+CairoFreetypeFontRenderer>>#renderCharacters:from:to:
+CairoFreetypeFontRenderer>>#renderGlyphs:
+CairoGlyph class>>#fieldsDesc
+CairoGlyph
+CairoGlyphsArray
+CairoScaledFont
+CairoScaledFont>>#initialize
+CairoTextExtents
+SQSurfaceDispatch
+SQSurfaceDispatch>>#initialize
+AthensSceneView>>#checkSession
+AthensSceneView>>#createSurface
+AthensSceneView>>#initializeForNewSession
+AthensWrapMorph>>#initializeForNewSession
+Array>>#elementsExchangeIdentityWith:
+Array>>#elementsForwardIdentityTo:
+Array>>#elementsForwardIdentityTo:copyHash:
+WideString>>#at:
+WideString>>#at:put:
+WeakRegistry>>#size
+EncoderForV3PlusClosures class>>#callPrimitiveCode
+MethodNode>>#generate:
+FLLargeIdentityDictionary>>#at:
+FLLargeIdentityDictionary>>#at:ifAbsent:
+FLLargeIdentityDictionary>>#at:put:
+FLLargeIdentityDictionary>>#removeKey:ifAbsent:
+FLLargeIdentityDictionary>>#includesKey:
+FLLargeIdentitySet>>#addIfNotPresent:ifPresentDo:
+FLLargeIdentitySet>>#add:
+FLLargeIdentitySet>>#remove:ifAbsent:
+FLLargeIdentitySet>>#includes:
+Character class>>#materializeFrom:
+Character>>#fuelAccept:
+Character>>#serializeOn:
+ProtoObject>>#largeIdentityHash
+FLBasicSerializationTest>>#testCharacter
+Behavior>>#basicNew
+Behavior>>#basicNew:
+Behavior>>#instSize
+BlockClosure>>#simulateValueWithArguments:caller:
+Character class>>#initialize
+Character class>>#digitValue:
+Character class>>#value:
+Character
+Character>>#asciiValue
+Character>>#charCode
+Character>>#codePoint
+Character>>#digitValue
+Character>>#leadingChar
+Character>>#=
+Character>>#hash
+Character>>#asInteger
+Character>>#asUnicode
+Character>>#basicSqueakToIso
+Character>>#copy
+Character>>#deepCopy
+Character>>#shallowCopy
+Character>>#veryDeepCopyWith:
+Character>>#hex
+Character>>#printOn:
+Character>>#printStringHex
+Character>>#storeBinaryOn:
+Character>>#storeOn:
+Character>>#setValue:
+Character>>#isOctetCharacter
+Character>>#isSeparator
+Character>>#shouldBePrintedAsLiteral
+CompiledMethod class>>#initialize
+CompiledMethod class>>#headerFlagForEncoder:
+CompiledMethod class>>#newBytes:trailerBytes:nArgs:nTemps:nStack:nLits:primitive:
+CompiledMethod class>>#newBytes:trailerBytes:nArgs:nTemps:nStack:nLits:primitive:flag:
+CompiledMethod class>>#newMethod:header:
+CompiledMethod class>>#toReturnConstant:trailerBytes:
+CompiledMethod class>>#toReturnField:trailerBytes:
+CompiledMethod class>>#toReturnSelfTrailerBytes:
+CompiledMethod>>#numLiterals
+CompiledMethod>>#primitive
+Context class>>#allInstancesDo:
+Context>>#doPrimitive:method:receiver:args:
+Float class>>#fromIEEE32Bit:
+Float
+InstructionClient>>#callPrimitive:
+LargeNegativeInteger>>#normalize
+LargePositiveInteger>>#normalize
+Object>>#actAsExecutor
+Object>>#instVarAt:
+Object>>#instVarAt:put:
+ProtoObject>>#identityHash
+SmallInteger
+SmallInteger>>#decimalDigitLength
+SmallInteger>>#digitLength
+MCClassDefinition>>#kindOfSubclass
+OpalEncoderForV3PlusClosures class>>#callPrimitiveCode
+ScriptLoader>>#commentForCurrentUpdate
+SlotIntegrationTest>>#testBecomeCompactAndUncompact
+ByteLayout>>#instanceSpecification
+LayoutClassScope>>#hash
+ObjectLayout class>>#layoutForType:
+ObjectLayout>>#extendSmallInteger
+ObjectLayout>>#format
+PharoClassInstaller>>#updateClass:to:
+SlotClassBuilder>>#build
+VariableLayout>>#extendAgain:with:
+WordLayout>>#instanceSpecification
+WeakFinalizationList class>>#hasNewFinalization
+OSEnvironment class>>#isAvailable
+OSEnvironment>>#getEnv:
+OSEnvironment>>#unsetEnv:
+UnixEnvironment>>#environ
+UnixEnvironment>>#environAt:
+UnixEnvironment>>#setEnv:value:
+Win32Environment>>#environmentStrings
+Win32Environment>>#keysAndValuesDo:
+Win32Environment>>#getEnvSize:
+Win32Environment>>#getEnv:buffer:size:
+Win32Environment>>#setEnv:value:
+SmalltalkImage>>#primBytesLeft
+SmalltalkImage>>#primitiveGarbageCollect
+SmalltalkImage>>#compactClassesArray
+SmalltalkImage>>#newSpecialObjectsArray
+SystemNavigation>>#allObjectsDo:
+VirtualMachine>>#setGCParameters
+VirtualMachine>>#isSpur
+AthensCairoCanvas class>>#asNBExternalType:
+AthensCairoCanvas class>>#primCreate:
+AthensCairoCanvas class>>#on:
+AthensCairoPDFSurface class>>#finalizeResourceData:
+AthensCairoPDFSurface class>>#extent:fileName:
+AthensCairoPDFSurface class>>#registerSurface:
+AthensCairoSurface class>>#asNBExternalType:
+AthensCairoSurface class>>#fnPtr:
+AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB:
+AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h:
+AthensCairoSurface class>>#testSurfacePluginCallbacks
+AthensCairoTransform class>>#for:
+CairoBackendCache>>#flush
+CairoBackendCache>>#nbSessionChanged
+AthensDisplayScanner class>>#for:on:
+AthensDisplayScanner class>>#on:
+Float>>#%2A
+Float>>#%2F
+Float>>#+
+Float>>#-
+Float>>#%3C
+Float>>#%3C=
+Float>>#%3E
+Float>>#%3E=
+Float>>#=
+Float>>#~=
+Float>>#arcTan
+Float>>#exp
+Float>>#ln
+Float>>#sin
+Float>>#sqrt
+Float>>#timesTwoPower:
+Float>>#exponent
+Float>>#fractionPart
+Float>>#truncated
+SmallIntegerLayout>>#extend:
+SmallIntegerLayout>>#initialize

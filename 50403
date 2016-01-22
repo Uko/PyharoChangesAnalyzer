@@ -1,0 +1,11 @@
+ScriptLoader>>#update50403
+MethodClassifier>>#classifyByKnownPragma:
+MethodClassifier>>#buildPragmaDictionary
+MethodWidget>>#selectNextMethod
+ScriptLoader>>#script50402
+ScriptLoader>>#commentForCurrentUpdate
+AbstractTool class>>#defineClassTemplate
+MethodClassifier
+MethodClassifier>>#classify:
+MethodClassifier>>#initialize
+ScriptLoader>>#script50402

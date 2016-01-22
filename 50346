@@ -1,0 +1,26 @@
+NECContext>>#currentRange
+NECContext>>#isPositionAtPatternArg
+NECContext>>#isStartOfMethodDefinition
+NECContext>>#tokenAtCurrentRange
+NECContext>>#tokenForMethodDefinition
+MetaLinkTest>>#testReificationError
+ReflectivityControlTest>>#testAfterClassVariable
+ReflectivityReificationTest>>#testReifyEntity
+ReflectivityReificationTest>>#testReifyClassVariableEntity
+RFEntityReification class>>#key
+RFEntityReification class>>#nodes
+RFEntityReification
+RFEntityReification>>#genForLiteralVariable
+RFEntityReification>>#genForRBProgramNode
+LiteralVariable>>#afterHooks
+ScriptLoader>>#update50346
+NECContext>>#completionToken
+NECContext>>#createModel
+ReflectivityControlTest>>#testAfterVariable
+LiteralVariable>>#link:
+Slot>>#link:
+TemporaryVariable>>#link:
+ScriptLoader>>#script50345
+ScriptLoader>>#commentForCurrentUpdate
+ReflectivityControlTest>>#testAfterVariable
+ScriptLoader>>#script50345

@@ -1,0 +1,12 @@
+HowToContributeHelp class>>#bookName
+HowToContributeHelp class>>#pages
+HowToContributeHelp class>>#introduction
+HowToContributeHelp
+ScriptLoader>>#update50315
+ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
+ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
+ScriptLoader>>#script50314
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50314
+LanguageEnvironment class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
+EncodedCharSet class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
