@@ -13,7 +13,6 @@ def clone_init_repo():
     repo = Repo.clone_from("https://github.com/pharo-project/pharo-core.git","pharo-repo")
 
 def analyze_tag(tag):
-    print(tag.name)
 
     if os.path.exists(tag.name):
         os.remove(tag.name)
@@ -23,7 +22,7 @@ def analyze_tag(tag):
         return
 
     diff = commit.parents[0].diff(commit)
-    log = ""
+    changed_entities = set()
 
     for change_type in INTERESTING_CHANGE_TYPES:
         for change in diff.iter_change_type(change_type):
@@ -31,22 +30,21 @@ def analyze_tag(tag):
             path_segments.reverse()
             if path_segments[0].endswith(".st"):
                 if path_segments[2] == "instance":
-                    log += inst_method_string_from_segments(path_segments)
+                    changed_entities.add(inst_method_string_from_segments(path_segments))
                 elif path_segments[2] == "class":
-                    log += cls_method_string_from_segments(path_segments)
+                    changed_entities.add(cls_method_string_from_segments(path_segments))
                 elif len(path_segments) >= 4 and path_segments[3] == "extension":
                     if path_segments[1] == "instance":
-                        log += ext_inst_method_string_from_segments(path_segments)
+                        changed_entities.add(ext_inst_method_string_from_segments(path_segments))
                     if path_segments[1] == "class":
-                        log += ext_cls_method_string_from_segments(path_segments)
+                        changed_entities.add(ext_cls_method_string_from_segments(path_segments))
                 else:
-                    log += class_string_from_segments(path_segments)
+                    changed_entities.add(class_string_from_segments(path_segments))
 
-                log += "\n"
-
-    print(log + "\n")
     with open(tag.name, "w") as version_file:
-        version_file.write(log)
+        for entity in sorted(changed_entities):
+            version_file.write(entity)
+            version_file.write("\n")
 
 def inst_method_string_from_segments(segments):
     return segments[3][:-6] + '>>#' + recoverSelector(segments[0])
