@@ -1,0 +1,174 @@
+BaselineOfQualityAssistant>>#baseline:
+BaselineOfQualityAssistant>>#preLoadDoIt
+BaselineOfQualityAssistant>>#removeExtensionMethods
+CompiledMethod>>#asCollectedEntity
+CompiledMethod>>#ban:
+CompiledMethod>>#critics
+CompiledMethod>>#gtInspectorCriticsIn:
+CompiledMethod>>#guidedBan:
+CompiledMethod>>#overriddenMethods
+CompiledMethod>>#spotterQACriticsFor:
+ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant>>#pre2_3_0:
+ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant>>#v2_2_2:
+ConfigurationOfQualityAssistant>>#v2_3_0:
+ConfigurationOfRenraku>>#development:
+ConfigurationOfRenraku>>#pre0_10_0:
+ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku>>#v0_10_0:
+ConfigurationOfRenraku>>#v0_11_0:
+ConfigurationOfRenraku>>#v0_11_1:
+Object>>#asCollectedEntity
+Object>>#externalProperties
+QANautilusPlugin class>>#install
+QANautilusPlugin class>>#isInstalled
+QANautilusPlugin>>#criticSelected:
+QANautilusPlugin>>#packageSelected:
+QANautilusPlugin>>#registerTo:
+QANautilusPluginMorph>>#displayCritic:
+QANautilusPluginMorph>>#initializeUpdateTask
+QANautilusPluginMorph>>#setTaskAction
+QARCriticEvent>>#fromAnnouncement:
+QASettings class>>#inspectorPlugginSettingsOn:
+QASettings class>>#nautilusPlugin
+QASettings class>>#nautilusPlugin:
+QASettings class>>#qaGroupSettingsOn:
+QASettings class>>#qaNautilusPlugginSettingOn:
+QASettings class>>#spotterPluginSettingsOn:
+RBBadMessageRule>>#check:forCriticsDo:ifNone:
+RBCascadeNode>>#leftmostChainReceiver
+RBDefineBasickCheckRule>>#check:forCriticsDo:ifNone:
+RBLintRule class>>#checksAST
+RBMessageNode>>#leftmostChainReceiver
+RBMethodNode>>#asCollectedEntity
+RBMethodNode>>#ban:
+RBMethodNode>>#critics
+RBMethodNode>>#guidedBan:
+RBOnlyReadOrWrittenVariableRule>>#check:forCriticsDo:ifNone:
+RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
+RBUndeclaredReferenceRule>>#check:forCriticsDo:ifNone:
+RBUnreferencedVariablesRule>>#check:forCriticsDo:ifNone:
+RBVariableNotDefinedRule>>#check:forCriticsDo:ifNone:
+RPackage>>#asCollectedEntity
+RPackage>>#ban:
+RPackage>>#critics
+RPackage>>#guidedBan:
+RPackage>>#package
+ReAbstractCritic
+ReAbstractCritic class>>#withAnchor:by:
+ReAbstractCritic>>#actions
+ReAbstractCritic>>#ban
+ReAbstractCritic>>#gtInspectorDescriptionIn:
+ReAbstractCritic>>#gtInspectorSourceCodeIn:
+ReAbstractCritic>>#guidedBan
+ReAbstractCritic>>#icon
+ReAbstractCritic>>#initializeRule:sourceAnchor:
+ReAbstractCritic>>#initializeRule:target:
+ReAbstractCritic>>#isCritic
+ReAbstractCritic>>#popDescriptionUp
+ReAbstractCritic>>#spotterPreviewRationaleIn:
+ReBasicMethodRule
+ReBasicMethodRule class>>#checksMethod
+ReBasicMethodRule class>>#isVisible
+ReBasicMethodRule class>>#uniqueIdentifierName
+ReBasicMethodRule>>#checkMethod:
+ReBasicMethodRule>>#resultClass
+ReBasicTreeRule
+ReBasicTreeRule class>>#checksAST
+ReBasicTreeRule class>>#isVisible
+ReBasicTreeRule class>>#uniqueIdentifierName
+ReBasicTreeRule>>#checkMethod:
+ReBasicTreeRule>>#resultClass
+ReCriticTest>>#testTarget
+ReFeedbacker
+ReFeedbacker class>>#feedback:positive:About:
+ReInspectorPresentationsNonBlockSetup
+ReInspectorPresentationsNonBlockSetup>>#basicCheck:
+ReInspectorPresentationsNonBlockSetup>>#check:forCriticsDo:ifNone:
+ReInspectorPresentationsNonBlockSetup>>#group
+ReInspectorPresentationsNonBlockSetup>>#name
+ReInspectorPresentationsNonBlockSetup>>#presentationScriptingMathods
+ReInspectorPresentationsNonlazyCode
+ReInspectorPresentationsNonlazyCode>>#basicCheck:
+ReInspectorPresentationsNonlazyCode>>#check:forCriticsDo:ifNone:
+ReInspectorPresentationsNonlazyCode>>#group
+ReInspectorPresentationsNonlazyCode>>#name
+ReInspectorPresentationsNonlazyCode>>#presentation:isTheLeftmostRecepientIn:
+ReIntervalSourceAnchor
+ReIntervalSourceAnchor class>>#entity:interval:
+ReIntervalSourceAnchor>>#gtInspectorSourceCodeIn:
+ReIntervalSourceAnchor>>#initializeEnitity:interval:
+ReIntervalSourceAnchor>>#interval
+ReIntervalSourceAnchor>>#providesInterval
+ReMissingMethodCritic
+ReMissingMethodCritic>>#change
+ReMissingMethodCritic>>#methodHeader
+ReMissingMethodCritic>>#title
+ReProperty
+ReProperty>>#actions
+ReProperty>>#icon
+ReProperty>>#initializeSourceAnchor:
+ReProperty>>#isCritic
+ReProperty>>#sourceAnchor
+ReProperty>>#title
+RePropertyAction
+RePropertyAction>>#actOnCritic:ofEntity:
+RePropertyAction>>#action
+RePropertyAction>>#action:
+RePropertyAction>>#description
+RePropertyAction>>#description:
+RePropertyAction>>#icon
+RePropertyAction>>#icon:
+RePropertyAction>>#initialize
+ReReturnMethodRule
+ReReturnMethodRule>>#basicCheck:
+ReReturnMethodRule>>#group
+ReReturnMethodRule>>#name
+ReReturnMethodRule>>#severity
+ReReuseBasickCkeck
+ReReuseBasickCkeck>>#basicCheck:
+ReReuseBasickCkeck>>#group
+ReReuseBasickCkeck>>#lintCheckSelectors
+ReReuseBasickCkeck>>#name
+ReReuseBasickCkeck>>#severity
+ReRuleManager
+ReRuleManager>>#astRules
+ReRuleManager>>#initializeRules
+ReRuleManager>>#packageRules
+ReSearchStringSourceAnchor
+ReSearchStringSourceAnchor class>>#entity:string:
+ReSearchStringSourceAnchor>>#gtInspectorSourceCodeIn:
+ReSearchStringSourceAnchor>>#initializeEnitity:searchString:
+ReSearchStringSourceAnchor>>#interval
+ReSearchStringSourceAnchor>>#providesInterval
+ReSearchStringSourceAnchor>>#searchString
+ReSourceAnchor
+ReSourceAnchor class>>#entity:
+ReSourceAnchor>>#entity
+ReSourceAnchor>>#gtInspectorSourceCodeIn:
+ReSourceAnchor>>#initializeEnitity:
+ReSourceAnchor>>#interval
+ReSourceAnchor>>#providesInterval
+ReSourceAnchor>>#sourceEntity
+ReStringBasedCritic class>>#for:by:badString:
+ReStringBasedCritic>>#change
+ReStringBasedCritic>>#initializeRule:target:badString:
+ReStringBasedCritic>>#title
+ReStringSearchCritic
+ReStringSearchCritic>>#providesChange
+ReSystemAnnouncer>>#notifyCritic:of:BannedOn:
+ReSystemAnnouncer>>#notifyEntity:CriticizedWith:
+ReTransformationCritic
+ReTransformationCritic>>#change
+ReTrivialCritic
+ReTrivialCritic>>#change
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50538
+ScriptLoader>>#update50539
+TBehavior>>#ban:
+TBehavior>>#critics
+TBehavior>>#gtInspectorCriticsIn:
+TBehavior>>#guidedBan:
+TBehavior>>#spotterQACriticsFor:
+TClassDescription>>#asCollectedEntity
