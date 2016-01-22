@@ -1,22 +1,21 @@
-ConfigurationOfRubric>>#version1182:
-RubScrolledTextMorph>>#editingModeClass
-ScriptLoader>>#update50254
 ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version1182:
+FileList class>>#initialize
 OCBytecodeGeneratorTest>>#newBytecodeGen
 RubAbstractSmalltalkMode
 RubPluggableTextMorphExample>>#codePaneMenu:shifted:
 RubPluggableTextMorphExample>>#newScrolledTextMorph
 RubSHTextStylerST80
+RubScrolledTextMorph>>#editingModeClass
 RubShoutStylerDecorator
 RubSmalltalkCodeMode
 RubSmalltalkCommentMode
-RubSmalltalkEditor class>>#buildShortcutsOn:
 RubSmalltalkEditor
+RubSmalltalkEditor class>>#buildShortcutsOn:
 RubSmalltalkScriptingMode
 RubTextClassLink
 RubTextMethodLink
 RubTextVariableLink
-ScriptLoader>>#script50253
 ScriptLoader>>#commentForCurrentUpdate
-FileList class>>#initialize
 ScriptLoader>>#script50253
+ScriptLoader>>#update50254

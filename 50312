@@ -1,30 +1,29 @@
-ConfigurationOfCatalog>>#version08:
-TEasilyThemed>>#fileSave:initialAnswer:extensions:path:
-ScriptLoader>>#update50312
+AbstractNautilusUI>>#runClassTests:notifying:
+AbstractNautilusUI>>#runTestsOfClass:notifying:
+CatalogBrowser>>#availableRepositoryURLStrings
+CatalogBrowser>>#buildContextMenuOn:
 CatalogBrowser>>#defineAllRepositoriesInMCBrowser
-CatalogBrowser>>#defineCurrentVersionRepositoryInMCBrowser
 CatalogBrowser>>#defineAllRepositoriesInMCBrowserButton:
 CatalogBrowser>>#defineCurrentVersionRepositoryButton:
+CatalogBrowser>>#defineCurrentVersionRepositoryInMCBrowser
+CatalogBrowser>>#installStableVersionButton:
 CatalogBrowser>>#installStableVersionMenuItem:
+CatalogBrowser>>#loadConfigurationButton:
 CatalogBrowser>>#loadConfigurationMenuItem:
-CatalogBrowser>>#availableRepositoryURLStrings
 CatalogBrowser>>#repositoryObjectFromURLString:
-CatalogProject class>>#repositoryURLToNameMappings
 CatalogProject class>>#availableRepositoryURLStrings
 CatalogProject class>>#createRepositoryURLtoNameMappings
 CatalogProject class>>#pharoCurrentDottedName
 CatalogProject class>>#pharoCurrentMajorName
 CatalogProject class>>#pharoDistributionRepository
-CatalogProject>>#repositoryName
-ConfigurationOfCatalog>>#stable:
-WorldState class>>#saveAs
-AbstractNautilusUI>>#runClassTests:notifying:
-AbstractNautilusUI>>#runTestsOfClass:notifying:
-ScriptLoader>>#script50311
-ScriptLoader>>#commentForCurrentUpdate
-CatalogBrowser>>#buildContextMenuOn:
+CatalogProject class>>#repositoryURLToNameMappings
 CatalogProject>>#allKeywords
 CatalogProject>>#isAvailableForCurrentPharo
+CatalogProject>>#repositoryName
+ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog>>#version08:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50311
-CatalogBrowser>>#installStableVersionButton:
-CatalogBrowser>>#loadConfigurationButton:
+ScriptLoader>>#update50312
+TEasilyThemed>>#fileSave:initialAnswer:extensions:path:
+WorldState class>>#saveAs

@@ -1,31 +1,30 @@
-KomitterUI>>#refreshDiffForItem:
-ScriptLoader>>#update50271
-SyntaxErrorDebugger>>#announcer
-SyntaxErrorDebugger>>#model
-KomitterUI>>#initializeLatelyPresenter
-KomitterUI>>#initializeWidgets
-GradientFillStyle>>#changeColorOf:rampIndex:
 AbstractNautilusUI>>#aGroupHasBeenAdded:
 AbstractNautilusUI>>#aGroupHasBeenRemoved:
-Nautilus class>>#resetGroups
+GradientFillStyle>>#changeColorOf:rampIndex:
+KomitterUI>>#initializeLatelyPresenter
+KomitterUI>>#initializeWidgets
+KomitterUI>>#refreshDiffForItem:
+ManifestUIManager class>>#manuallyResolvedDependencies
+Nautilus
+Nautilus class>>#nautilusSettingsOn:
 Nautilus class>>#openInEnvironment:
 Nautilus class>>#openOnClass:inEnvironment:
 Nautilus class>>#openOnClass:onProtocol:inEnvironment:
 Nautilus class>>#openOnMethod:inEnvironment:
-Nautilus class>>#nautilusSettingsOn:
-Nautilus
+Nautilus class>>#resetGroups
 Nautilus>>#spawnHierarchy
 Nautilus>>#spawnHierarchyForClass:selector:
 PackageTreeModel>>#rootNodes
-ScriptLoader>>#script50270
-ScriptLoader>>#commentForCurrentUpdate
 SHPreferences class>>#styleTableRow
-SyntaxErrorDebugger class>>#buildMorphicViewOn:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50270
+ScriptLoader>>#update50271
 SyntaxErrorDebugger
+SyntaxErrorDebugger class>>#buildMorphicViewOn:
+SyntaxErrorDebugger>>#announcer
 SyntaxErrorDebugger>>#codePaneMenu:shifted:
 SyntaxErrorDebugger>>#contents:notifying:
-ManifestUIManager class>>#manuallyResolvedDependencies
-UIManager>>#theme
+SyntaxErrorDebugger>>#model
 UIManager>>#chooseOrRequestFrom:title:
 UIManager>>#enterOrRequestFrom:title:
-ScriptLoader>>#script50270
+UIManager>>#theme

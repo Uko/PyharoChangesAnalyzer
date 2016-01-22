@@ -1,48 +1,50 @@
+AbstractNautilusUI>>#browseVariableReferences
 AbstractNautilusUI>>#buildVariableReferencesMenuFrom:withIcon:contentBy:
-ThemeSettings>>#menuColor
+RFClassReification class>>#nodes
+RFClassReification>>#genForLiteralVariable
+RFLinkReification class>>#nodes
+RFLinkReification>>#genForLiteralVariable
+RFNameReification class>>#nodes
+RFObjectReification class>>#nodes
+RFObjectReification>>#genForLiteralVariable
+RFReification>>#genForGlobalVariable
+RFThisContextReification class>>#nodes
+RFThisContextReification>>#genForLiteralVariable
+RFValueReification class>>#nodes
+RFVariableReification class>>#nodes
+RFVariableReification>>#genForLiteralVariable
+RFVariableReification>>#genForRBVariableNode
 ReflectivityReificationTest>>#testReifyClassVariableClass
 ReflectivityReificationTest>>#testReifyClassVariableContext
 ReflectivityReificationTest>>#testReifyClassVariableLink
 ReflectivityReificationTest>>#testReifyClassVariableObject
 ReflectivityReificationTest>>#testReifyClassVariableValue
 ReflectivityReificationTest>>#testReifyClassVariableVariable
-RFClassReification>>#genForLiteralVariable
-RFLinkReification>>#genForLiteralVariable
-RFObjectReification>>#genForLiteralVariable
-RFReification>>#genForGlobalVariable
-RFThisContextReification>>#genForLiteralVariable
-RFVariableReification>>#genForLiteralVariable
-ScriptLoader>>#update50344
-AbstractNautilusUI>>#browseVariableReferences
 ReflectivityReificationTest>>#testReifyGlobalVariableName
 ReflectivityReificationTest>>#testReifyGlobalVariableValue
-RFClassReification class>>#nodes
-RFLinkReification class>>#nodes
-RFNameReification class>>#nodes
-RFObjectReification class>>#nodes
-RFThisContextReification class>>#nodes
-RFValueReification class>>#nodes
-RFVariableReification class>>#nodes
-RFVariableReification>>#genForRBVariableNode
-ScriptLoader>>#script50343
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50343
+ScriptLoader>>#update50344
+ThemeSettings>>#applySettingsFrom:
+ThemeSettings>>#autoMenuColor
+ThemeSettings>>#autoMenuColor:
 ThemeSettings>>#balloonHelpDelayTime
 ThemeSettings>>#balloonHelpDelayTime:
 ThemeSettings>>#balloonHelpEnabled
 ThemeSettings>>#balloonHelpEnabled:
-ThemeSettings>>#maxBalloonHelpLineLength
-ThemeSettings>>#maxBalloonHelpLineLength:
 ThemeSettings>>#buttonColor
 ThemeSettings>>#buttonColor:
 ThemeSettings>>#defaultButtonColor
-ThemeSettings>>#autoMenuColor
-ThemeSettings>>#autoMenuColor:
 ThemeSettings>>#derivedMenuColor
 ThemeSettings>>#fallbackMenuColor
 ThemeSettings>>#flatMenu
 ThemeSettings>>#flatMenu:
+ThemeSettings>>#fromConfiguration:
+ThemeSettings>>#maxBalloonHelpLineLength
+ThemeSettings>>#maxBalloonHelpLineLength:
 ThemeSettings>>#menuBorderColor
 ThemeSettings>>#menuBorderWidth
+ThemeSettings>>#menuColor
 ThemeSettings>>#menuColor:
 ThemeSettings>>#menuKeyboardControl
 ThemeSettings>>#menuKeyboardFocusColor
@@ -58,8 +60,4 @@ ThemeSettings>>#progressBarColor
 ThemeSettings>>#progressBarColor:
 ThemeSettings>>#progressBarProgressColor
 ThemeSettings>>#progressBarProgressColor:
-ThemeSettings>>#applySettingsFrom:
-ThemeSettings>>#fromConfiguration:
 ThemeSettings>>#toConfiguration:
-ReflectivityReificationTest>>#testReifyGlobalVariableName
-ScriptLoader>>#script50343

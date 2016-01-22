@@ -1,11 +1,10 @@
-ConfigurationOfRubric>>#version1214:
-ScriptLoader>>#update50034
 ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version1214:
 RubPlainTextMode class>>#menuOn:
 RubSmalltalkCodeMode class>>#menuOn:
-RubSmalltalkEditor>>#doIt
 RubSmalltalkEditor>>#browseIt:
 RubSmalltalkEditor>>#debugIt:
+RubSmalltalkEditor>>#doIt
 RubSmalltalkEditor>>#doIt:
 RubSmalltalkEditor>>#exploreIt:
 RubSmalltalkEditor>>#implementorsOfIt:
@@ -17,6 +16,6 @@ RubSmalltalkEditor>>#referencesToIt:
 RubSmalltalkEditor>>#save:
 RubSmalltalkEditor>>#sendersOfIt:
 RubSmalltalkEditor>>#spawnIt:
-ScriptLoader>>#script642
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script642
+ScriptLoader>>#update50034

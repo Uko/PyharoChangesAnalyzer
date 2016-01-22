@@ -1,9 +1,8 @@
 DelayWaitTimeout>>#waitOnCompletion:onTimeout:
+RBProgramNode>>#doSemanticAnalysis
+SHTextStyler>>#styleInBackgroundProcess:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script631
+ScriptLoader>>#update50023
 Semaphore>>#waitTimeoutSeconds:onCompletion:onTimeout:
 SemaphoreTest>>#testWaitTimeoutSecondsOnCompletionOnTimeout
-ScriptLoader>>#update50023
-RBProgramNode>>#doSemanticAnalysis
-ScriptLoader>>#script631
-ScriptLoader>>#commentForCurrentUpdate
-SHTextStyler>>#styleInBackgroundProcess:
-ScriptLoader>>#script631

@@ -1,8 +1,7 @@
-ScriptLoader>>#update50460
-GTExampleNautilus class>>#methodChanged:
+Class>>#acceptSettings:
 ClassTest>>#testClassRespectsPolymorphismWithTrait
+GTExampleNautilus class>>#methodChanged:
 MCPackageManager class>>#registerInterestOnSystemChangesOnAnnouncer:
-ScriptLoader>>#script50459
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50459
-Class>>#acceptSettings:
+ScriptLoader>>#update50460

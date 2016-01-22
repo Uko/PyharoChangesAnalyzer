@@ -1,17 +1,16 @@
-RBParser>>#saveCommentsDuring:
-RBPragmaNode>>#initialize
-RBReturnNode>>#initialize
-RBVariableNode>>#initialize
-ScriptLoader>>#update50392
+MCVersionReader class>>#fileReaderServicesForFile:suffix:
+MorphTreeListManager>>#basicKeyPressed:
 RBBlockNode>>#initialize
 RBParser>>#parseCascadeMessage
 RBParser>>#parsePrimitiveObject
+RBParser>>#saveCommentsDuring:
 RBPatternBlockNode>>#createBlockFor:
+RBPragmaNode>>#initialize
 RBReturnNode class>>#value:
+RBReturnNode>>#initialize
 RBReturnNode>>#stop
-MCVersionReader class>>#fileReaderServicesForFile:suffix:
-MorphTreeListManager>>#basicKeyPressed:
 RBSequenceNode>>#transformLastToReturn
-ScriptLoader>>#script50391
+RBVariableNode>>#initialize
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50391
+ScriptLoader>>#update50392

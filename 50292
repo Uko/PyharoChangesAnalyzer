@@ -1,12 +1,11 @@
-ConfigurationOfFastTable>>#version078:
-FTTableContainerMorph>>#drawOnAthensCanvas:
-ScriptLoader>>#update50292
 Color>>#asHTMLColor
 Color>>#printHtmlString
 ColorTest>>#testAsHexString
 ColorTest>>#testColorFrom
 ColorTest>>#testFromString
-ScriptLoader>>#script50291
+ConfigurationOfFastTable>>#version078:
+FTTableContainerMorph>>#drawOnAthensCanvas:
 ScriptLoader>>#commentForCurrentUpdate
-SpecPreDebugWindow>>#createNotifierPaneWidgets
 ScriptLoader>>#script50291
+ScriptLoader>>#update50292
+SpecPreDebugWindow>>#createNotifierPaneWidgets

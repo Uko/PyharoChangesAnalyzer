@@ -1,10 +1,9 @@
-ScriptLoader>>#update50537
+DangerousClassNotifier class>>#shouldNotBeRedefined:
 ReleaseTest>>#testMethodsWithUnboundGlobals
-ScriptLoader>>#script50536
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50536
+ScriptLoader>>#update50537
 SlotErrorsTest>>#testDangerousClassesConditions
 SlotIntegrationTest>>#testSmallIntegerLayout
-DangerousClassNotifier class>>#shouldNotBeRedefined:
 SmalltalkImage>>#newSpecialObjectsArray
 SystemNavigation>>#methodsWithUnboundGlobals
-ScriptLoader>>#script50536

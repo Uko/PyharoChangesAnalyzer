@@ -1,26 +1,25 @@
+AbstractNautilusUI>>#buildFirstColumn:
+AbstractNautilusUI>>#buildSecondColumn:
+AbstractNautilusUI>>#buttonsBarHeight
 DictionaryTest>>#testNewFrom
 DictionaryTest>>#testNewFromPairs
+OCCompilerASTPlugin>>#transform
+PackageTreeNautilusUI>>#buildFirstColumn:
+PluggableDictionary>>#=
+PluggableDictionary>>#hash
+PluggableDictionary>>#hashBlock
+PluggableDictionaryTest>>#testCopyEmpty
 PluggableDictionaryTest>>#testEqualBlock
 PluggableDictionaryTest>>#testEqualBlockEquality
 PluggableDictionaryTest>>#testHashBlock
 PluggableDictionaryTest>>#testHashBlockEquality
-PluggableDictionaryTest>>#testCopyEmpty
-TDictionaryValueAccessTest>>#supportsNilKey
-PluggableDictionary>>#=
-PluggableDictionary>>#hash
-SmallDictionary class>>#newFromPairs:
-SmallDictionary class>>#newFrom:
-OCCompilerASTPlugin>>#transform
-ScriptLoader>>#update50400
-TDictionaryValueAccessTest>>#testAtPutNil
-WeakKeyDictionaryTest>>#classToBeTested
-PluggableDictionary>>#hashBlock
-ZipFileMember>>#uncompressDataTo:
-AbstractNautilusUI>>#buildFirstColumn:
-AbstractNautilusUI>>#buildSecondColumn:
-AbstractNautilusUI>>#buttonsBarHeight
-PackageTreeNautilusUI>>#buildFirstColumn:
-ScriptLoader>>#script50399
 ScriptLoader>>#commentForCurrentUpdate
-WeakIdentityKeyDictionaryTest>>#supportsNilKey
 ScriptLoader>>#script50399
+ScriptLoader>>#update50400
+SmallDictionary class>>#newFrom:
+SmallDictionary class>>#newFromPairs:
+TDictionaryValueAccessTest>>#supportsNilKey
+TDictionaryValueAccessTest>>#testAtPutNil
+WeakIdentityKeyDictionaryTest>>#supportsNilKey
+WeakKeyDictionaryTest>>#classToBeTested
+ZipFileMember>>#uncompressDataTo:

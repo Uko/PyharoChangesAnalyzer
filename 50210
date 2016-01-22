@@ -1,31 +1,30 @@
-EmbeddedFreeTypeFontInstaller>>#failedToOpen:index:
-FreeTypeSettings class>>#shutDown:
-GroupHolder>>#groups:
+AbstractNautilusUI class>>#buildPackageShortcutsOn:
+AbstractNautilusUI class>>#groupsMenu:
+AbstractNautilusUI class>>#packagesMenu:
 AbstractNautilusUI class>>#packagesMenuGroupsItems:
 AbstractNautilusUI>>#addPackages:inGroup:
 AbstractNautilusUI>>#parentOfSelectedPackage
-ScriptLoader>>#update50210
+AbstractNautilusUI>>#removeFromGroupPackages:
+DialogGroupManagerUI>>#removeAGroup
+DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveButton
 EmbeddedFreeTypeFontFontDescription class>>#installAllFontsIn:
+EmbeddedFreeTypeFontInstaller>>#failedToOpen:index:
+FreeTypeCache class>>#clearCacheOnShutdown
+FreeTypeCache class>>#shutDown:
 FreeTypeFace class>>#fromBytes:index:
 FreeTypeFontProvider>>#fontFor:familyName:
 FreeTypeFontProvider>>#updateEmbeddedFreeTypeFonts
+FreeTypeSettings class>>#shutDown:
+FreeTypeSettings class>>#startUp:
+FreeTypeSettings class>>#updateFreeType
+GroupHolder>>#groups:
 GroupHolder>>#remove:from:
-DialogGroupManagerUI>>#removeAGroup
-DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveButton
 GroupIcon
 GroupIcon>>#initialize
-AbstractNautilusUI class>>#groupsMenu:
-AbstractNautilusUI class>>#packagesMenu:
-AbstractNautilusUI class>>#buildPackageShortcutsOn:
-AbstractNautilusUI>>#removeFromGroupPackages:
 PackageTreeNautilusUI>>#basicShowHierarchy
 PackageTreePackageNodeModel>>#asNautilusSelection
 RPackage>>#asNautilusSelection
 RPackageTag>>#withClassesIn:createHierarchySorter:
-ScriptLoader>>#script50209
 ScriptLoader>>#commentForCurrentUpdate
-FreeTypeCache class>>#clearCacheOnShutdown
-FreeTypeCache class>>#shutDown:
-FreeTypeSettings class>>#startUp:
-FreeTypeSettings class>>#updateFreeType
 ScriptLoader>>#script50209
+ScriptLoader>>#update50210

@@ -1,61 +1,60 @@
-RBPackageEnvironment>>#smallLintCritics
-RPackage>>#criticNameOn:
-RBArchitectureLintRule class>>#uniqueIdentifierName
-RBArchitectureLintRule class>>#isVisible
+CriticBrowser>>#applyRules
+CriticBrowser>>#menu:shifted:
+PharoCriticRules class>>#pharoHardLintRules
+PharoKernelAssembly class>>#parts
 RBArchitectureLintRule
+RBArchitectureLintRule class>>#isVisible
+RBArchitectureLintRule class>>#uniqueIdentifierName
 RBArchitectureLintRule>>#group
-RBArchitectureLintRule>>#resultClass
 RBArchitectureLintRule>>#isArchitecturalRule
+RBArchitectureLintRule>>#resultClass
+RBBrowserEnvironment>>#withoutClasses:
 RBCompositeLintRule>>#checkPackage:
 RBLintRule>>#checkPackage:
 RBLintRule>>#isArchitecturalRule
-RBPharoBootstrapRule class>>#uniqueIdentifierName
-RBPharoBootstrapRule
-RBPharoBootstrapRule>>#bootstrapPackages
-RBPharoBootstrapRule>>#collectionsPackages
-RBPharoBootstrapRule>>#name
-RBPharoBootstrapRule>>#assertNoNewExternalDependency
-RBPharoBootstrapRule>>#checkPackage:
-RBPharoBootstrapRule>>#dependencyChecker
-RBSmalllintChecker>>#checkPackage:
+RBPackageEnvironment>>#smallLintCritics
 RBPharoBootstrapAnalyzerStubWithNewDependency
 RBPharoBootstrapAnalyzerStubWithNewDependency>>#dependenciesOf:
 RBPharoBootstrapAnalyzerStubWithNoNewDependency
 RBPharoBootstrapAnalyzerStubWithNoNewDependency>>#dependenciesOf:
+RBPharoBootstrapRule
+RBPharoBootstrapRule class>>#uniqueIdentifierName
+RBPharoBootstrapRule>>#assertNoNewExternalDependency
+RBPharoBootstrapRule>>#bootstrapPackages
+RBPharoBootstrapRule>>#checkPackage:
+RBPharoBootstrapRule>>#collectionsPackages
+RBPharoBootstrapRule>>#dependencyChecker
+RBPharoBootstrapRule>>#name
 RBPharoBootstrapRuleTest
 RBPharoBootstrapRuleTest>>#setUp
 RBPharoBootstrapRuleTest>>#tearDown
 RBPharoBootstrapRuleTest>>#testRuleDoesNotFailIfAppliedOnNonBootstrapPackage
 RBPharoBootstrapRuleTest>>#testRuleDoesNotFailIfNoNewExternalDependency
 RBPharoBootstrapRuleTest>>#testRuleFailsIfAnyNewExternalDependencyFound
-ScriptLoader>>#update50386
-RPackage>>#browse
-SelectPackageBrowser>>#sort:withAll:
-SelectPackageBrowser>>#sort:withoutAll:
-SingleCodeCriticResultList>>#browseDependencies
-PharoKernelAssembly class>>#parts
-SmalllintManifestChecker>>#criticsOf:
-SmalllintManifestChecker>>#runRules:onPackage:withoutTestCase:
-TheManifestBuilder>>#isFalsePositive:onRule:version:
-SystemWindow
-SystemWindow>>#announce:
-PharoCriticRules class>>#pharoHardLintRules
+RBSmalllintChecker>>#checkPackage:
 RBSmalllintChecker>>#run
 RBUnaryAccessingMethodWithoutReturnRule>>#basicCheck:
-RBBrowserEnvironment>>#withoutClasses:
-ScriptLoader>>#script50385
+RPackage>>#browse
+RPackage>>#criticNameOn:
 ScriptLoader>>#commentForCurrentUpdate
-CriticBrowser>>#menu:shifted:
-CriticBrowser>>#applyRules
+ScriptLoader>>#script50385
+ScriptLoader>>#update50386
 SelectPackageBrowser>>#addAllItems
 SelectPackageBrowser>>#addItems
 SelectPackageBrowser>>#removeAllItems
 SelectPackageBrowser>>#removeItems
 SelectPackageBrowser>>#sort:
+SelectPackageBrowser>>#sort:withAll:
+SelectPackageBrowser>>#sort:withoutAll:
 SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
 SelectRuleBrowser>>#removeItems
-SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel
 SingleCodeCriticResultList>>#addNavigationMenuItemsTo:
 SingleCodeCriticResultList>>#browseCritic
+SingleCodeCriticResultList>>#browseDependencies
 SingleCodeCriticResultList>>#menu:shifted:
-ScriptLoader>>#script50385
+SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel
+SmalllintManifestChecker>>#criticsOf:
+SmalllintManifestChecker>>#runRules:onPackage:withoutTestCase:
+SystemWindow
+SystemWindow>>#announce:
+TheManifestBuilder>>#isFalsePositive:onRule:version:

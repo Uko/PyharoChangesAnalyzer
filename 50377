@@ -1,11 +1,10 @@
-ScriptLoader>>#update50377
 FileList>>#confirmOverwriteOrCreateNewFileOrAbort
+FileList>>#put:
 FileList>>#requestNewFileNameAndSave
 FileList>>#truncatedAndOverwriteFilecontents
 FileList>>#updateFileContents
-ReflectiveMethod>>#installCompiledMethod
-ScriptLoader>>#script50376
-ScriptLoader>>#commentForCurrentUpdate
-FileList>>#put:
 FileList>>#whenTextAccepted:
+ReflectiveMethod>>#installCompiledMethod
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50376
+ScriptLoader>>#update50377

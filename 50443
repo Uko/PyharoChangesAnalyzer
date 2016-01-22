@@ -1,16 +1,15 @@
+AlphaImageMorph>>#extent:
+EyeMorphViewer>>#objectChanged
+ImageMorph>>#basicExtent:
+ImageMorph>>#extent:
+MCPackageManager class>>#classRemoved:
 MCPackageManagerTest
 MCPackageManagerTest>>#setUp
 MCPackageManagerTest>>#tearDown
 MCPackageManagerTest>>#testClassAdded
 MCPackageManagerTest>>#testClassRemoved
-ImageMorph>>#basicExtent:
-ScriptLoader>>#update50443
-MCPackageManager class>>#classRemoved:
-AlphaImageMorph>>#extent:
-ImageMorph>>#extent:
 NECMenuMorph>>#detailPosition:
 NECMenuMorph>>#initialize
-ScriptLoader>>#script50442
 ScriptLoader>>#commentForCurrentUpdate
-EyeMorphViewer>>#objectChanged
 ScriptLoader>>#script50442
+ScriptLoader>>#update50443

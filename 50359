@@ -4,28 +4,27 @@ ExecutionDisplayMorph>>#noteExecution
 ExecutionDisplayMorph>>#step
 ExecutionDisplayMorph>>#stepTime
 ExecutionDisplayMorph>>#wantsSteps
-ExecutionDisplayPlugin class>>#pluginName
-ExecutionDisplayPlugin class>>#description
-ExecutionDisplayPlugin class>>#possiblePositions
-ExecutionDisplayPlugin class>>#defaultPosition
 ExecutionDisplayPlugin
+ExecutionDisplayPlugin class>>#defaultPosition
+ExecutionDisplayPlugin class>>#description
+ExecutionDisplayPlugin class>>#pluginName
+ExecutionDisplayPlugin class>>#possiblePositions
 ExecutionDisplayPlugin>>#display
-ExecutionDisplayPlugin>>#noteExectuted:
 ExecutionDisplayPlugin>>#initialize
+ExecutionDisplayPlugin>>#noteExectuted:
 ExecutionDisplayPlugin>>#registerTo:
-MetaLinkTest>>#testLinkOptionMetaLevel
-ReflectivityControlTest>>#testLinkOptionDisabledLink
+HookGenerator>>#hookFor:
+MetaLink class>>#defaultOptions
+MetaLink>>#doesNotUnderstand:
+MetaLink>>#level
 MetaLink>>#optionDisabledLink
 MetaLink>>#optionDisabledLink:
 MetaLink>>#optionMetalevel
 MetaLink>>#optionMetalevel:
-ScriptLoader>>#update50359
+MetaLinkTest>>#testLinkOptionMetaLevel
+MorphSlot>>#write:to:
 NautilusPluginManager>>#pluginClassesSelectedIndex:
-HookGenerator>>#hookFor:
-MetaLink class>>#defaultOptions
-MetaLink>>#level
-MetaLink>>#doesNotUnderstand:
-ScriptLoader>>#script50358
+ReflectivityControlTest>>#testLinkOptionDisabledLink
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50358
-MorphSlot>>#write:to:
+ScriptLoader>>#update50359

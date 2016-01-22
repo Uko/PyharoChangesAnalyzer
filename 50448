@@ -1,3 +1,4 @@
+ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable>>#version080:
 FTAllItemsStrategy
 FTAllItemsStrategy>>#filter
@@ -12,15 +13,19 @@ FTBasicItem
 FTBasicItem>>#children
 FTBasicItem>>#data:
 FTBasicItem>>#expand
+FTBasicItem>>#expandAll
+FTBasicItem>>#expandAllTo:
 FTBasicItem>>#expandAndRefresh
 FTBasicItem>>#isRootItem
 FTBasicItem>>#unexpand
 FTBasicItem>>#unexpandAndRefresh
-FTBasicItem>>#expandAll
-FTBasicItem>>#expandAllTo:
 FTBasicItem>>#updateData
-FTDataSource>>#realElementAt:
 FTDataSource>>#readyToBeDisplayed
+FTDataSource>>#realElementAt:
+FTExamples class>>#exampleListWithExplicitFilter
+FTExamples class>>#exampleListWithExplicitFilterAndActionButton
+FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
+FTExamples class>>#exampleListWithExplicitSearch
 FTExamples class>>#exampleTree1
 FTExamples class>>#exampleTree2
 FTExamples class>>#exampleTreeWithAllItemsFilter
@@ -30,118 +35,107 @@ FTExamples class>>#exampleTreeWithRootSearch
 FTExamples class>>#exampleTreeWithVisibleItemsFilter
 FTExamples class>>#exampleTreeWithVisibleItemsSearch
 FTExamples class>>#exampleexampleOneSubLevelTree
+FTFilterFunction>>#filter
+FTFilterFunctionWithAction>>#execute
 FTRootItem
 FTRootItem>>#children
 FTRootItem>>#children:
-FTRootItem>>#dataSource:
 FTRootItem>>#data:
-FTRootItem>>#isExpanded
+FTRootItem>>#dataSource:
 FTRootItem>>#expandAll
 FTRootItem>>#expandAllTo:
+FTRootItem>>#isExpanded
 FTRootItem>>#updateData
 FTRootItemsStrategy
 FTRootItemsStrategy>>#filter
 FTRootItemsStrategy>>#realSearch
+FTSearchFunction>>#search
+FTSearchFunction>>#searchFor:
 FTStaticBasicItem
 FTStaticBasicItem>>#calculateChildren
 FTStaticBasicItem>>#children
 FTStaticBasicItem>>#children:
 FTStaticBasicItem>>#dataSource:
 FTStaticBasicItem>>#updateData
+FTTableContainerMorph>>#drawOn:
+FTTableMorph>>#isVerticalScrollBarVisible
+FTTableMorph>>#keyStrokeArrowDown:
+FTTableMorph>>#keyStrokeArrowUp:
+FTTableMorph>>#recalculateVerticalScrollBarVisibilityIfHidden:
+FTTableMorph>>#resizeVerticalScrollBar
+FTTableMorph>>#rowIndexToVerticalScrollBarValue:
+FTTableMorph>>#selectRowIndex:event:
+FTTableMorph>>#showMenuForRowIndex:columnIndex:
 FTTableMorph>>#themeChanged
+FTTableMorph>>#verticalScrollBarValue:
+FTTreeDataSource
 FTTreeDataSource class>>#defaultSearchStrategies
-FTTreeDataSource class>>#rootItemFor:
-FTTreeDataSource class>>#searchStrategies
-FTTreeDataSource class>>#searchStrategies:
 FTTreeDataSource class>>#initialize
 FTTreeDataSource class>>#root:children:
+FTTreeDataSource class>>#rootItemFor:
+FTTreeDataSource class>>#roots:children:
+FTTreeDataSource class>>#searchStrategies
+FTTreeDataSource class>>#searchStrategies:
+FTTreeDataSource>>#addSourceToRootItem
 FTTreeDataSource>>#buttonFor:
+FTTreeDataSource>>#canDisplayChildrenOf:
+FTTreeDataSource>>#cellColumn:row:
+FTTreeDataSource>>#elementAt:
+FTTreeDataSource>>#expandAll
+FTTreeDataSource>>#expandAllTo:
+FTTreeDataSource>>#expandRoots
 FTTreeDataSource>>#maxDepth
+FTTreeDataSource>>#newDataSourceMatching:
+FTTreeDataSource>>#numberOfRows
 FTTreeDataSource>>#realElementAt:
 FTTreeDataSource>>#rootItem
 FTTreeDataSource>>#rootItem:
 FTTreeDataSource>>#rootsItems
 FTTreeDataSource>>#searchStrategy
 FTTreeDataSource>>#searchStrategy:
-FTTreeDataSource>>#expandAll
-FTTreeDataSource>>#expandAllTo:
-FTTreeDataSource>>#expandRoots
-FTTreeDataSource>>#canDisplayChildrenOf:
-FTTreeDataSource>>#addSourceToRootItem
+FTTreeDataSource>>#searchText:
 FTTreeDataSource>>#updateData
+FTTreeFunctionStrategy
 FTTreeFunctionStrategy class>>#filterWith:dataSource:
 FTTreeFunctionStrategy class>>#searchWith:dataSource:
-FTTreeFunctionStrategy
 FTTreeFunctionStrategy>>#dataSource:
-FTTreeFunctionStrategy>>#isMatching:
-FTTreeFunctionStrategy>>#pattern:
 FTTreeFunctionStrategy>>#filter
+FTTreeFunctionStrategy>>#isMatching:
 FTTreeFunctionStrategy>>#optionalOperations
+FTTreeFunctionStrategy>>#pattern:
 FTTreeFunctionStrategy>>#realSearch
 FTTreeFunctionStrategy>>#search
+FTTreeItem
 FTTreeItem class>>#data:from:
-FTTreeItem>>#numberOfChildren
+FTTreeItem class>>#expandedForm
+FTTreeItem class>>#unexpandedForm
+FTTreeItem>>#asString
+FTTreeItem>>#calculateChildren
+FTTreeItem>>#children
+FTTreeItem>>#data
+FTTreeItem>>#data:
+FTTreeItem>>#depth
+FTTreeItem>>#depth:
 FTTreeItem>>#expandAll
 FTTreeItem>>#expandAllTo:
+FTTreeItem>>#expandedButton
+FTTreeItem>>#generateButton
 FTTreeItem>>#hasChildren
+FTTreeItem>>#initialize
 FTTreeItem>>#isExpanded
+FTTreeItem>>#numberOfChildren
+FTTreeItem>>#numberOfVisibleChildren
+FTTreeItem>>#printOn:
+FTTreeItem>>#refreshTable
+FTTreeItem>>#unexpandedButton
 FTTreeItem>>#updateData
 FTVisibleItemsStrategy
 FTVisibleItemsStrategy>>#filter
 FTVisibleItemsStrategy>>#matchingFilter:
 FTVisibleItemsStrategy>>#newStaticItemFrom:
 FTVisibleItemsStrategy>>#realSearch
-ScriptLoader>>#update50448
-ConfigurationOfFastTable>>#stable:
-FTTreeItem>>#calculateChildren
-FTTreeItem>>#expandedButton
-FTTreeItem>>#unexpandedButton
-FTFilterFunction>>#filter
-FTFilterFunctionWithAction>>#execute
-FTSearchFunction>>#search
-FTSearchFunction>>#searchFor:
-FTTableContainerMorph>>#drawOn:
-FTTableMorph>>#keyStrokeArrowDown:
-FTTableMorph>>#keyStrokeArrowUp:
-FTTableMorph>>#showMenuForRowIndex:columnIndex:
-FTTableMorph>>#isVerticalScrollBarVisible
-FTTableMorph>>#recalculateVerticalScrollBarVisibilityIfHidden:
-FTTableMorph>>#resizeVerticalScrollBar
-FTTableMorph>>#rowIndexToVerticalScrollBarValue:
-FTTableMorph>>#selectRowIndex:event:
-FTTableMorph>>#verticalScrollBarValue:
-FTTreeDataSource class>>#roots:children:
-FTTreeDataSource
-FTTreeDataSource>>#cellColumn:row:
-FTTreeDataSource>>#elementAt:
-FTTreeDataSource>>#newDataSourceMatching:
-FTTreeDataSource>>#numberOfRows
-FTTreeDataSource>>#searchText:
-FTTreeItem
-FTTreeItem>>#children
-FTTreeItem>>#data:
-FTTreeItem>>#numberOfVisibleChildren
 RBVariableNotDefinedRule>>#basicCheck:
 RBVariableNotDefinedRule>>#checkMethod:
-ScriptLoader>>#script50447
 ScriptLoader>>#commentForCurrentUpdate
-FTTreeItem class>>#expandedForm
-FTTreeItem class>>#unexpandedForm
-FTTreeItem>>#calculateChildren
-FTTreeItem>>#data
-FTTreeItem>>#depth
-FTTreeItem>>#depth:
-FTTreeItem>>#isExpanded
-FTTreeItem>>#expandedButton
-FTTreeItem>>#generateButton
-FTTreeItem>>#unexpandedButton
-FTTreeItem>>#asString
-FTTreeItem>>#initialize
-FTTreeItem>>#printOn:
-FTTreeItem>>#refreshTable
-FTExamples class>>#exampleListWithExplicitFilter
-FTExamples class>>#exampleListWithExplicitFilterAndActionButton
-FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
-FTExamples class>>#exampleListWithExplicitSearch
-FTSearchFunction>>#search
 ScriptLoader>>#script50447
+ScriptLoader>>#update50448

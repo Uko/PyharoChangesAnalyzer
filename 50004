@@ -1,11 +1,10 @@
-ScriptLoader>>#update50004
-MetacelloConfigurationBrowserPane class>>#reset
 MCConfigurationBrowser class>>#open
 MCWorkingCopyBrowser class>>#open
-ScriptLoader>>#script612
-ScriptLoader>>#commentForCurrentUpdate
-StartupPreferencesLoader class>>#example
-StartupPreferencesLoader>>#buildStreamFor:
 MetacelloConfigurationBrowserPane class>>#defaultAvailableRepositories
 MetacelloConfigurationBrowserPane class>>#example
+MetacelloConfigurationBrowserPane class>>#reset
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script612
+ScriptLoader>>#update50004
+StartupPreferencesLoader class>>#example
+StartupPreferencesLoader>>#buildStreamFor:

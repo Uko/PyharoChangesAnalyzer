@@ -1,9 +1,8 @@
-ImageReadWriter class>>#readerClassFromStream:
-ScriptLoader>>#update50048
 DebugContext>>#confirmOnTraitOverwrite:inClass:
 ImageReadWriter class>>#formFromStream:
-RBFutureDeprecationWarningRule>>#oldSelectors
+ImageReadWriter class>>#readerClassFromStream:
 RBFutureDeprecationWarningRule>>#checkMethod:
-ScriptLoader>>#script50047
+RBFutureDeprecationWarningRule>>#oldSelectors
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50047
+ScriptLoader>>#update50048

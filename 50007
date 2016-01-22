@@ -1,7 +1,6 @@
-SharedPackageFilterPatternsHolder class>>#cleanUp
-SharedPackageFilterPatternsHolder class>>#reset
-ScriptLoader>>#update50007
-TClass>>#name:
-ScriptLoader>>#script615
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script615
+ScriptLoader>>#update50007
+SharedPackageFilterPatternsHolder class>>#cleanUp
+SharedPackageFilterPatternsHolder class>>#reset
+TClass>>#name:

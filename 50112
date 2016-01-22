@@ -1,95 +1,197 @@
-ChunkReadStream
-ChunkReadStream>>#basicNext
-ChunkReadStream>>#position
-ChunkReadStream>>#reset
-ChunkReadStream>>#skipSeparators
-ChunkReadStream>>#isChunkEnd
-ChunkReadStream>>#isNextChunkMetaData
-ChunkWriteStream
-ChunkWriteStream>>#contents
-ChunkWriteStream>>#reset
-ChunkWriteStream>>#cr
-ChunkWriteStream>>#tab
-ChunkWriteStream>>#bang
-ChunkWriteStream>>#nextChunkPut:
-ChunkWriteStream>>#nextPut:
-ChunkWriteStream>>#terminatorMark
-DecoratorStream class>>#on:
-DecoratorStream
-DecoratorStream>>#next
-DecoratorStream>>#peek
-DecoratorStream>>#position
-DecoratorStream>>#on:
-DecoratorStream>>#store:
-DecoratorStream>>#atEnd
-ConfigurationOfRubric>>#version132:
+AbstractBinaryFileStream
+AbstractBinaryFileStream class>>#on:
+AbstractNautilusUI>>#addPackagesInGroup:
+AbstractNautilusUI>>#arrowDown:
+AbstractNautilusUI>>#restrictedBrowseGroups:
+AbstractNautilusUI>>#runPackagesTestsNotifying:
+AbstractNautilusUI>>#runTestsOfGroups:notifying:
+AbstractTool>>#selectorFromPattern:withCaption:startingFrom:
 BinaryFileStream>>#contents
 BinaryFileStream>>#reset
-CriticsCache>>#criticsOf:
-CriticsCache>>#toDosOf:
-MCStWriter>>#stream:
-MCStWriter>>#basicChunkContents:
-ScriptLoader>>#update50112
-ProcessAndSessionLocalSourcesFileArray
-RemoteString>>#fileStreamDo:
-SourceFileArray>>#changesFileStream
-SourceFileArray>>#localProcessReadOnlyCopy
-SourceFileArray>>#readOnlyCopy
-SourceFileArray>>#sourcesFileStream
-SourceFileArray>>#localProcessReadStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
-SourceFileArray>>#readStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
-SourceFileArray>>#readStreamAt:ifPresent:ifAbsent:
-ProcessAndSessionLocalVariable
-ProcessAndSessionLocalVariable>>#value
-ProcessAndSessionLocalVariable>>#value:
-FileList>>#serviceViewContents
-FileList>>#viewContents
-ChunkFileFormatParser>>#readStream:
+ChangesLog>>#assureStartupStampLogged
+ChangesLog>>#forceChangesToDisk
+ChangesLog>>#logChange:
+ChangesLog>>#logSnapshot:andQuit:
+ChunkFileFormatParser>>#isNextStyleChunk
+ChunkFileFormatParser>>#nextChunk
 ChunkFileFormatParser>>#parseClassOrganization:
 ChunkFileFormatParser>>#parseCommentDeclaration:
 ChunkFileFormatParser>>#parseMethodDeclarations:
 ChunkFileFormatParser>>#parseNextDeclaration
-ChunkFileFormatParser>>#nextChunk
+ChunkFileFormatParser>>#readStream:
 ChunkFileFormatParser>>#readUpToEndOfStyleChunk
-ChunkFileFormatParser>>#isNextStyleChunk
-ConfigurationOfRubric>>#stable:
-AbstractBinaryFileStream class>>#on:
-AbstractBinaryFileStream
-File>>#openForRead
-MultiByteFileStream>>#setConverterForCode
-FLClusterization>>#clusters
-DynamicClassGroup>>#methods
-DynamicGroup>>#elements
-HDCoverageReport>>#generateDataOn:
-HDCoverageReport>>#setUp
-CompiledMethod>>#sourceCode
-CompiledMethod>>#timeStamp
+ChunkFileFormatParser>>#terminatorMark
+ChunkImportTestCase>>#importAClass
+ChunkReadStream
+ChunkReadStream>>#basicNext
+ChunkReadStream>>#isChunkEnd
+ChunkReadStream>>#isNextChunkMetaData
+ChunkReadStream>>#position
+ChunkReadStream>>#reset
+ChunkReadStream>>#skipSeparators
+ChunkWriteStream
+ChunkWriteStream>>#bang
+ChunkWriteStream>>#contents
+ChunkWriteStream>>#cr
+ChunkWriteStream>>#nextChunkPut:
+ChunkWriteStream>>#nextPut:
+ChunkWriteStream>>#reset
+ChunkWriteStream>>#tab
+ChunkWriteStream>>#terminatorMark
+ClassTestCase>>#selectorsToBeTested
 CompiledMethod>>#fileIndex
 CompiledMethod>>#filePosition
 CompiledMethod>>#getSourceFromFile
-ProtocolOrganizer>>#allMethods
+CompiledMethod>>#sourceCode
+CompiledMethod>>#timeStamp
+ComposableModel class>>#specSelectors
+ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version132:
 CriticBrowser
+CriticBrowser class>>#criticsBrowserMenuOn:
+CriticBrowser class>>#defaultSpec
+CriticBrowser class>>#icon
+CriticBrowser class>>#open
+CriticBrowser class>>#openOnCurrentWorkingConfiguration
+CriticBrowser class>>#openOnRule:onEnvironment:
+CriticBrowser class>>#openOnWorkingConfiguration:
+CriticBrowser class>>#packagesMenu:
+CriticBrowser class>>#theme
+CriticBrowser>>#addModelItemsToWindowMenu:
+CriticBrowser>>#addRuleToFalsePositive
+CriticBrowser>>#applyRules
+CriticBrowser>>#browseRule
+CriticBrowser>>#classModified:
+CriticBrowser>>#colorForRule:
+CriticBrowser>>#criticModel
+CriticBrowser>>#environment
+CriticBrowser>>#environment:
+CriticBrowser>>#initialExtent
+CriticBrowser>>#initialize
+CriticBrowser>>#initializePresenter
+CriticBrowser>>#initializeWidgets
+CriticBrowser>>#logButton
+CriticBrowser>>#logInManifest
+CriticBrowser>>#menu:shifted:
+CriticBrowser>>#methodAdded:
+CriticBrowser>>#methodModified:
+CriticBrowser>>#methodRemoved:
+CriticBrowser>>#onWindowClosed
+CriticBrowser>>#open
+CriticBrowser>>#reapplyAllRules
+CriticBrowser>>#reapplyRule:
+CriticBrowser>>#reapplyThisRule
+CriticBrowser>>#registerToAnnouncements
+CriticBrowser>>#removeRuleToFalsePositive
+CriticBrowser>>#removeTestCase:
+CriticBrowser>>#resetButton
+CriticBrowser>>#rules:
+CriticBrowser>>#rulesModel
+CriticBrowser>>#setActionLogButtom
+CriticBrowser>>#setActionResetButtom
+CriticBrowser>>#setLogButton
+CriticBrowser>>#setResetButton
+CriticBrowser>>#setTitle:
+CriticBrowser>>#stringMorphForRule:
+CriticBrowser>>#taskbarIcon
+CriticBrowser>>#title
+CriticBrowser>>#updateTree
 CriticToolbar
+CriticToolbar class>>#defaultSpec
+CriticToolbar>>#browseCritic
+CriticToolbar>>#browseModel
+CriticToolbar>>#critic:
+CriticToolbar>>#falsepositiveModel
+CriticToolbar>>#initialize
+CriticToolbar>>#initializeWidgets
+CriticToolbar>>#registerForChanges
+CriticToolbar>>#rule:
+CriticToolbar>>#setBrowseModel
+CriticToolbar>>#setFalsepositiveModel
+CriticToolbar>>#setFocusOrder
+CriticToolbar>>#setTransformModel
+CriticToolbar>>#transformCritic
+CriticToolbar>>#transformModel
+CriticToolbar>>#whenFalsePositiveClickedDo:
 CriticWorkingConfiguration
+CriticWorkingConfiguration class>>#current
+CriticWorkingConfiguration class>>#exists
+CriticWorkingConfiguration class>>#new
+CriticWorkingConfiguration class>>#reset
+CriticWorkingConfiguration>>#environment
+CriticWorkingConfiguration>>#environment:
+CriticWorkingConfiguration>>#logInManifest
+CriticWorkingConfiguration>>#logInManifest:
+CriticWorkingConfiguration>>#removeTestCase
+CriticWorkingConfiguration>>#removeTestCase:
+CriticWorkingConfiguration>>#rule
+CriticWorkingConfiguration>>#rule:
 CriticsCache
+CriticsCache>>#addAllCriticToFalsePositive:forRule:on:
+CriticsCache>>#addAllCriticToToDo:forRule:on:
+CriticsCache>>#addCritic:forRule:
+CriticsCache>>#addFalsePositive:forRule:
+CriticsCache>>#addFalsePositiveClass:
+CriticsCache>>#addFalsePositiveRule:forPackage:
+CriticsCache>>#addToDo:forRule:
+CriticsCache>>#browser:
+CriticsCache>>#builderManifestClass
+CriticsCache>>#cacheChange
+CriticsCache>>#cacheChanged
+CriticsCache>>#cacheNotChanged
+CriticsCache>>#checker:
+CriticsCache>>#criticsOf:
 CriticsCache>>#falsePositiveOf:
-ManifestManifestCriticBrowser
-ResetWindow
-SelectBrowser
-SelectPackageBrowser
-SelectRuleBrowser
-SingleCodeCriticResultList
-MCStWriterTest>>#assertAllChunksAreWellFormed
-MCStWriterTest>>#setUp
-MCStWriterTest>>#testClassDefinitionA
-MCStWriterTest>>#testClassMethodDefinition
-MCStWriterTest>>#testInitializerDefinition
-MCStWriterTest>>#testMethodDefinition
-MCStWriterTest>>#testMethodDefinitionWithBangs
+CriticsCache>>#initCache
+CriticsCache>>#initialize
+CriticsCache>>#isFalsePositive:forRule:
+CriticsCache>>#isToDo:forRule:
+CriticsCache>>#itemRemoved:
+CriticsCache>>#logFalsePositiveClassInManifest
+CriticsCache>>#logFalsePositiveInManifest
+CriticsCache>>#logFalsePositiveRulesInManifest
+CriticsCache>>#logInManifest
+CriticsCache>>#logToDosInManifest
+CriticsCache>>#packageOf:
+CriticsCache>>#packages:
+CriticsCache>>#removeAllCriticToFalsePositive:forRule:on:
+CriticsCache>>#removeAllCriticToToDo:forRule:on:
+CriticsCache>>#removeCritic:forRule:
+CriticsCache>>#removeFalsePositive:forRule:
+CriticsCache>>#removeFalsePositiveClass:
+CriticsCache>>#removeFalsePositiveRule:forPackage:
+CriticsCache>>#removeToDo:forRule:
+CriticsCache>>#replaceAll:by:
+CriticsCache>>#toDosOf:
+CriticsCache>>#updateBrowser
+DecoratorStream
+DecoratorStream class>>#on:
+DecoratorStream>>#atEnd
+DecoratorStream>>#next
+DecoratorStream>>#on:
+DecoratorStream>>#peek
+DecoratorStream>>#position
+DecoratorStream>>#store:
+DiffMorph>>#applyHighlights
+DynamicClassGroup>>#methods
+DynamicGroup>>#elements
+ExternalChangesBrowser class>>#browseRecentLog
+FLClusterization>>#clusters
+File>>#openForRead
+FileList>>#itemsForAnyFile
+FileList>>#serviceViewContents
+FileList>>#viewContents
+FileList>>#viewContentsInWorkspace
+HDCoverageReport>>#generateDataOn:
+HDCoverageReport>>#setUp
 MCDependencySorter>>#externalRequirements
+MCFileTreePackageStructureStWriter>>#writeMethodPreamble:
 MCFrontier class>>#frontierOnAll:
 MCPackageLoader>>#flushChangesFile
+MCSnapshotBrowser>>#visibleCategories
+MCStWriter>>#basicChunkContents:
 MCStWriter>>#chunkContents:
+MCStWriter>>#stream:
 MCStWriter>>#writeClassComment:
 MCStWriter>>#writeClassDefinition:
 MCStWriter>>#writeDefinitions:
@@ -99,197 +201,15 @@ MCStWriter>>#writeMethodPostscript
 MCStWriter>>#writeMethodPreamble:
 MCStWriter>>#writeMethodSource:
 MCStWriter>>#writeScriptDefinition:
+MCStWriterTest>>#assertAllChunksAreWellFormed
+MCStWriterTest>>#setUp
+MCStWriterTest>>#testClassDefinitionA
+MCStWriterTest>>#testClassMethodDefinition
+MCStWriterTest>>#testInitializerDefinition
+MCStWriterTest>>#testMethodDefinition
+MCStWriterTest>>#testMethodDefinitionWithBangs
 MCVersionSorter>>#sortedVersionInfos
-MCFileTreePackageStructureStWriter>>#writeMethodPreamble:
-MCSnapshotBrowser>>#visibleCategories
-MorphicEventHandler>>#mouseSelectorsInclude:
-MultiByteFileStreamTest>>#testBasicChunk
-NBFnSpecParser>>#parseAnonFunction:
-NBFnSpecParser>>#parseNamedFunction:
-AbstractNautilusUI>>#addPackagesInGroup:
-AbstractNautilusUI>>#arrowDown:
-AbstractNautilusUI>>#restrictedBrowseGroups:
-AbstractNautilusUI>>#runTestsOfGroups:notifying:
-AbstractNautilusUI>>#runPackagesTestsNotifying:
-NautilusUI>>#methodsForCategoriesInGroup:
-NautilusUI>>#methodsForCategories:
-PackageTreeNautilusUI>>#runPackagesTestsNotifying:
-RBBrowserEnvironmentWrapper>>#packagesWithoutExtensions
-RBCompositeRefactoryChange>>#whatToDisplayIn:
-RBCreateAccessorsForVariableRefactoring>>#whatToDisplayIn:
-RBRefactoring>>#whatToDisplayIn:
-RBRenameVariableChange>>#whatToDisplayIn:
-RBSwapMethodRefactoring>>#whatToDisplayIn:
-NetNameResolver class>>#localHostName
-RBAddClassChange class>>#definitionPatterns
-RBRefactoryTyper>>#processCollectionMessagesFor:in:
-RBCompositeLintRule>>#changes
-RBCompositeLintRule>>#leaves
-RBBrowserEnvironmentWrapper>>#packages
-RGMethodDefinition>>#asMCMethodDefinition
-RGMethodDefinition>>#asMCMethodDefinitionFromFile:
-RGMethodDefinition>>#basicAsMCMethodDefinition
-RubAbstractTextArea>>#keyStroke:
-ClassTestCase>>#selectorsToBeTested
-TestRunner>>#selectSubclasses
-TestRunner>>#findClassesForPackages:
-ScriptLoader>>#script50111
-ScriptLoader>>#commentForCurrentUpdate
-SHPreferences class>>#applyStyle
-ComposableModel class>>#specSelectors
-PharoChangesCondenser>>#writeMethodSource:
-PharoChangesCondenser>>#installNewChangesFile
-PharoChangesCondenser>>#shouldCondenseMethod:
-RemoteString>>#sourceFileNumber
-RemoteString>>#sourcePointer
-RemoteString>>#string
-SourceFileArray>>#at:
-SourceFileArray>>#readOnlyDo:
-SourceFileArray>>#size
-SourceFileArray>>#sourceDataPointers
-SourceFileArray>>#getPreambleFrom:at:
-SourceFileArray>>#protocolAt:for:
-SourceFileArray>>#sourceCodeAt:
-SourceFileArray>>#sourcedDataAt:
-SourceFileArray>>#timeStampAt:
-SourceFileArray>>#timeStampAt:for:
-ChangesLog>>#logChange:
-ChangesLog>>#logSnapshot:andQuit:
-ChangesLog>>#assureStartupStampLogged
-ChangesLog>>#forceChangesToDisk
-SmalltalkImage>>#backupTo:
-SmalltalkImage>>#saveAs:
-SmalltalkImage>>#forceChangesToDisk
-ChunkImportTestCase>>#importAClass
-TraitTest>>#testTraitsMethodClassSanity
-AbstractTool>>#selectorFromPattern:withCaption:startingFrom:
-DiffMorph>>#applyHighlights
-ExternalChangesBrowser class>>#browseRecentLog
-FileList>>#itemsForAnyFile
-FileList>>#viewContentsInWorkspace
-TClassDescription>>#classComment:stamp:
-TClassDescription>>#fileOutChangedMessages:on:
-TClassDescription>>#fileOutChangedMessages:on:moveSource:toFile:
-TraitComposition>>#allTraits
-ChunkFileFormatParser>>#nextChunk
-ChunkFileFormatParser>>#readUpToEndOfStyleChunk
-ChunkFileFormatParser>>#terminatorMark
-ChunkFileFormatParser>>#isNextStyleChunk
-CriticBrowser class>>#open
-CriticBrowser class>>#openOnRule:onEnvironment:
-CriticBrowser class>>#openOnWorkingConfiguration:
-CriticBrowser class>>#packagesMenu:
-CriticBrowser class>>#criticsBrowserMenuOn:
-CriticBrowser class>>#icon
-CriticBrowser class>>#openOnCurrentWorkingConfiguration
-CriticBrowser class>>#theme
-CriticBrowser class>>#defaultSpec
-CriticBrowser
-CriticBrowser>>#criticModel
-CriticBrowser>>#environment
-CriticBrowser>>#environment:
-CriticBrowser>>#logButton
-CriticBrowser>>#removeTestCase:
-CriticBrowser>>#resetButton
-CriticBrowser>>#rulesModel
-CriticBrowser>>#rules:
-CriticBrowser>>#initialExtent
-CriticBrowser>>#onWindowClosed
-CriticBrowser>>#setTitle:
-CriticBrowser>>#title
-CriticBrowser>>#open
-CriticBrowser>>#initialize
-CriticBrowser>>#initializePresenter
-CriticBrowser>>#initializeWidgets
-CriticBrowser>>#setActionLogButtom
-CriticBrowser>>#setActionResetButtom
-CriticBrowser>>#setLogButton
-CriticBrowser>>#setResetButton
-CriticBrowser>>#menu:shifted:
-CriticBrowser>>#addRuleToFalsePositive
-CriticBrowser>>#applyRules
-CriticBrowser>>#browseRule
-CriticBrowser>>#colorForRule:
-CriticBrowser>>#logInManifest
-CriticBrowser>>#reapplyAllRules
-CriticBrowser>>#reapplyRule:
-CriticBrowser>>#reapplyThisRule
-CriticBrowser>>#removeRuleToFalsePositive
-CriticBrowser>>#stringMorphForRule:
-CriticBrowser>>#taskbarIcon
-CriticBrowser>>#classModified:
-CriticBrowser>>#methodAdded:
-CriticBrowser>>#methodModified:
-CriticBrowser>>#methodRemoved:
-CriticBrowser>>#registerToAnnouncements
-CriticBrowser>>#updateTree
-CriticBrowser>>#addModelItemsToWindowMenu:
-CriticToolbar class>>#defaultSpec
-CriticToolbar
-CriticToolbar>>#browseModel
-CriticToolbar>>#falsepositiveModel
-CriticToolbar>>#transformModel
-CriticToolbar>>#critic:
-CriticToolbar>>#rule:
-CriticToolbar>>#initialize
-CriticToolbar>>#initializeWidgets
-CriticToolbar>>#registerForChanges
-CriticToolbar>>#setBrowseModel
-CriticToolbar>>#setFalsepositiveModel
-CriticToolbar>>#setFocusOrder
-CriticToolbar>>#setTransformModel
-CriticToolbar>>#whenFalsePositiveClickedDo:
-CriticToolbar>>#browseCritic
-CriticToolbar>>#transformCritic
-CriticWorkingConfiguration class>>#current
-CriticWorkingConfiguration class>>#new
-CriticWorkingConfiguration class>>#reset
-CriticWorkingConfiguration class>>#exists
-CriticWorkingConfiguration
-CriticWorkingConfiguration>>#environment
-CriticWorkingConfiguration>>#environment:
-CriticWorkingConfiguration>>#logInManifest
-CriticWorkingConfiguration>>#logInManifest:
-CriticWorkingConfiguration>>#removeTestCase
-SelectRuleBrowser>>#removeTestCase:
-SingleCodeCriticResultList>>#rule
-CriticWorkingConfiguration>>#rule:
-CriticsCache
-CriticsCache>>#browser:
-CriticsCache>>#cacheChange
-CriticsCache>>#checker:
-CriticsCache>>#packages:
-CriticsCache>>#addCritic:forRule:
-CriticsCache>>#addFalsePositiveClass:
-CriticsCache>>#addFalsePositiveRule:forPackage:
-CriticsCache>>#addFalsePositive:forRule:
-CriticsCache>>#addToDo:forRule:
-CriticsCache>>#itemRemoved:
-CriticsCache>>#removeCritic:forRule:
-CriticsCache>>#removeFalsePositiveClass:
-CriticsCache>>#removeFalsePositiveRule:forPackage:
-CriticsCache>>#removeFalsePositive:forRule:
-CriticsCache>>#removeToDo:forRule:
-CriticsCache>>#initialize
-CriticsCache>>#initCache
-CriticsCache>>#addAllCriticToFalsePositive:forRule:on:
-CriticsCache>>#addAllCriticToToDo:forRule:on:
-CriticsCache>>#builderManifestClass
-CriticsCache>>#cacheChanged
-CriticsCache>>#cacheNotChanged
-CriticsCache>>#logFalsePositiveClassInManifest
-CriticsCache>>#logFalsePositiveInManifest
-CriticsCache>>#logFalsePositiveRulesInManifest
-CriticsCache>>#logToDosInManifest
-CriticsCache>>#packageOf:
-CriticsCache>>#removeAllCriticToFalsePositive:forRule:on:
-CriticsCache>>#removeAllCriticToToDo:forRule:on:
-CriticsCache>>#updateBrowser
-CriticsCache>>#falsePositiveOf:
-CriticsCache>>#logInManifest
-CriticsCache>>#replaceAll:by:
-CriticsCache>>#isFalsePositive:forRule:
-CriticsCache>>#isToDo:forRule:
+ManifestManifestCriticBrowser
 ManifestManifestCriticBrowser class>>#rejectClasses
 ManifestManifestCriticBrowser class>>#rejectRules
 ManifestManifestCriticBrowser class>>#ruleBadMessageRuleV1FalsePositive
@@ -306,81 +226,131 @@ ManifestManifestCriticBrowser class>>#ruleReturnsIfTrueRuleV1FalsePositive
 ManifestManifestCriticBrowser class>>#ruleSentNotImplementedRuleV1FalsePositive
 ManifestManifestCriticBrowser class>>#ruleSubclassResponsibilityNotDefinedRuleV1FalsePositive
 ManifestManifestCriticBrowser class>>#ruleTemporaryVariableCapitalizationRuleV1FalsePositive
-ManifestManifestCriticBrowser
+MorphicEventHandler>>#mouseSelectorsInclude:
+MultiByteFileStream>>#setConverterForCode
+MultiByteFileStreamTest>>#testBasicChunk
+NBFnSpecParser>>#parseAnonFunction:
+NBFnSpecParser>>#parseNamedFunction:
+NautilusUI>>#methodsForCategories:
+NautilusUI>>#methodsForCategoriesInGroup:
+NetNameResolver class>>#localHostName
+PackageTreeNautilusUI>>#runPackagesTestsNotifying:
+PharoChangesCondenser>>#installNewChangesFile
+PharoChangesCondenser>>#shouldCondenseMethod:
+PharoChangesCondenser>>#writeMethodSource:
+ProcessAndSessionLocalSourcesFileArray
+ProcessAndSessionLocalVariable
+ProcessAndSessionLocalVariable>>#value
+ProcessAndSessionLocalVariable>>#value:
+ProtocolOrganizer>>#allMethods
+RBAddClassChange class>>#definitionPatterns
+RBBrowserEnvironmentWrapper>>#packages
+RBBrowserEnvironmentWrapper>>#packagesWithoutExtensions
+RBCompositeLintRule>>#changes
+RBCompositeLintRule>>#leaves
+RBCompositeRefactoryChange>>#whatToDisplayIn:
+RBCreateAccessorsForVariableRefactoring>>#whatToDisplayIn:
+RBMultiEnvironment>>#isMultiEnvironment
+RBMultiEnvironment>>#removeClass:
+RBMultiEnvironment>>#smallLintCritics
+RBRefactoring>>#whatToDisplayIn:
+RBRefactoryTyper>>#processCollectionMessagesFor:in:
+RBRenameVariableChange>>#whatToDisplayIn:
+RBSwapMethodRefactoring>>#whatToDisplayIn:
+RGMethodDefinition>>#asMCMethodDefinition
+RGMethodDefinition>>#asMCMethodDefinitionFromFile:
+RGMethodDefinition>>#basicAsMCMethodDefinition
+RemoteString>>#fileStreamDo:
+RemoteString>>#sourceFileNumber
+RemoteString>>#sourcePointer
+RemoteString>>#string
+ResetWindow
 ResetWindow class>>#defaultSpec
 ResetWindow class>>#title
-ResetWindow
 ResetWindow>>#currentConfigurationModel
-ResetWindow>>#resetModel
 ResetWindow>>#initialExtent
 ResetWindow>>#initializeWidgets
+ResetWindow>>#resetModel
 ResetWindow>>#setCurrentConfigurationModel
 ResetWindow>>#setFocusOrder
 ResetWindow>>#setResetModel
-SelectBrowser class>>#defaultSpec
+RubAbstractTextArea>>#keyStroke:
+SHPreferences class>>#applyStyle
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50111
+ScriptLoader>>#update50112
 SelectBrowser
+SelectBrowser class>>#defaultSpec
 SelectBrowser>>#addAllButtonModel
 SelectBrowser>>#addButtonModel
+SelectBrowser>>#initialExtent
+SelectBrowser>>#initializeWidgets
 SelectBrowser>>#items:
+SelectBrowser>>#nextAction
 SelectBrowser>>#nextButtonModel
 SelectBrowser>>#removeAllButtonModel
 SelectBrowser>>#removeButtonModel
 SelectBrowser>>#selectedModel
-SelectBrowser>>#toSelectModel
-SelectBrowser>>#initialExtent
-SelectBrowser>>#nextAction
-SelectBrowser>>#initializeWidgets
 SelectBrowser>>#setAddAllButtonModel
 SelectBrowser>>#setAddButtonModel
 SelectBrowser>>#setFocusOrder
 SelectBrowser>>#setNextButtonModel
 SelectBrowser>>#setRemoveAllButtonModel
 SelectBrowser>>#setRemoveButtonModel
-SelectPackageBrowser class>>#open
-SelectPackageBrowser class>>#defaultSpec
-SelectPackageBrowser class>>#title
+SelectBrowser>>#toSelectModel
 SelectPackageBrowser
+SelectPackageBrowser class>>#defaultSpec
+SelectPackageBrowser class>>#open
+SelectPackageBrowser class>>#title
+SelectPackageBrowser>>#addAllItems
+SelectPackageBrowser>>#addItems
 SelectPackageBrowser>>#addTestCaseClasses
-SelectPackageBrowser>>#nextAction
 SelectPackageBrowser>>#initialize
 SelectPackageBrowser>>#initializeWidgets
+SelectPackageBrowser>>#nextAction
+SelectPackageBrowser>>#removeAllItems
+SelectPackageBrowser>>#removeItems
 SelectPackageBrowser>>#removeTestPackage
 SelectPackageBrowser>>#removeTestPackageModel
 SelectPackageBrowser>>#setRemoveTestPackageModel
-SelectPackageBrowser>>#addAllItems
-SelectPackageBrowser>>#addItems
-SelectPackageBrowser>>#removeAllItems
-SelectPackageBrowser>>#removeItems
 SelectPackageBrowser>>#sort:
+SelectRuleBrowser
 SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
 SelectRuleBrowser class>>#title
-SelectRuleBrowser
-SelectRuleBrowser>>#environment:
-SelectRuleBrowser>>#items:
-CriticWorkingConfiguration>>#removeTestCase:
 SelectRuleBrowser>>#addAllItems
 SelectRuleBrowser>>#addItems
+SelectRuleBrowser>>#defaultRulesRootName
+SelectRuleBrowser>>#environment:
+SelectRuleBrowser>>#initialize
+SelectRuleBrowser>>#items:
 SelectRuleBrowser>>#nextAction
 SelectRuleBrowser>>#removeAllItems
 SelectRuleBrowser>>#removeItems
+SelectRuleBrowser>>#removeTestCase:
 SelectRuleBrowser>>#updateTree
-SelectRuleBrowser>>#initialize
-SelectRuleBrowser>>#defaultRulesRootName
-SingleCodeCriticResultList class>>#initialize
+SingleCodeCriticResultList
+SingleCodeCriticResultList class>>#defaultSpec
 SingleCodeCriticResultList class>>#exclamationIcon
 SingleCodeCriticResultList class>>#exclamationIconContents
+SingleCodeCriticResultList class>>#initialize
+SingleCodeCriticResultList class>>#title
 SingleCodeCriticResultList class>>#wrenchOrangeIcon
 SingleCodeCriticResultList class>>#wrenchOrangeIconContents
-SingleCodeCriticResultList class>>#defaultSpec
-SingleCodeCriticResultList class>>#title
-SingleCodeCriticResultList
+SingleCodeCriticResultList>>#addCriticToFalsePositive
+SingleCodeCriticResultList>>#addCriticToToDo
+SingleCodeCriticResultList>>#addMarkingMenuItemsTo:
+SingleCodeCriticResultList>>#addNavigationMenuItemsTo:
+SingleCodeCriticResultList>>#addRuleToFalsePositive
+SingleCodeCriticResultList>>#browseCritic
 SingleCodeCriticResultList>>#cache:
 SingleCodeCriticResultList>>#criticsModel
-CriticWorkingConfiguration>>#rule
-SingleCodeCriticResultList>>#textInputFieldModel
-SingleCodeCriticResultList>>#textModel
-SingleCodeCriticResultList>>#toolbarModel
-SingleCodeCriticResultList>>#resetSelection
+SingleCodeCriticResultList>>#criticsModelContains:
+SingleCodeCriticResultList>>#criticsOf:
+SingleCodeCriticResultList>>#defaultColor
+SingleCodeCriticResultList>>#falsePositiveColor
+SingleCodeCriticResultList>>#formatCritic:
+SingleCodeCriticResultList>>#iconFor:
+SingleCodeCriticResultList>>#implementorsOfCritic
 SingleCodeCriticResultList>>#initialize
 SingleCodeCriticResultList>>#initializeActionToPerformOnTextModel
 SingleCodeCriticResultList>>#initializeDisplayCritic:forRule:
@@ -389,36 +359,49 @@ SingleCodeCriticResultList>>#initializeShortcuts
 SingleCodeCriticResultList>>#initializeTextInputFieldModel
 SingleCodeCriticResultList>>#initializeToolBar
 SingleCodeCriticResultList>>#initializeWidgets
-SingleCodeCriticResultList>>#rule:
-SingleCodeCriticResultList>>#setTextModelForClassOrMethod:
-SingleCodeCriticResultList>>#setTextModelForNil
-SingleCodeCriticResultList>>#setTextModelForTransformationRule:
-SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel
-SingleCodeCriticResultList>>#addCriticToFalsePositive
-SingleCodeCriticResultList>>#addCriticToToDo
-SingleCodeCriticResultList>>#addMarkingMenuItemsTo:
-SingleCodeCriticResultList>>#addNavigationMenuItemsTo:
-SingleCodeCriticResultList>>#addRuleToFalsePositive
-SingleCodeCriticResultList>>#browseCritic
-SingleCodeCriticResultList>>#implementorsOfCritic
 SingleCodeCriticResultList>>#menu:shifted:
 SingleCodeCriticResultList>>#removeCriticToFalsePositive
 SingleCodeCriticResultList>>#removeCriticToToDo
 SingleCodeCriticResultList>>#removeRuleToFalsePositive
-SingleCodeCriticResultList>>#sendersOfCritic
-SingleCodeCriticResultList>>#transformCritic
-SingleCodeCriticResultList>>#criticsModelContains:
-SingleCodeCriticResultList>>#criticsOf:
-SingleCodeCriticResultList>>#defaultColor
-SingleCodeCriticResultList>>#falsePositiveColor
-SingleCodeCriticResultList>>#formatCritic:
-SingleCodeCriticResultList>>#iconFor:
+SingleCodeCriticResultList>>#resetSelection
+SingleCodeCriticResultList>>#rule
+SingleCodeCriticResultList>>#rule:
 SingleCodeCriticResultList>>#selectionIntervalFor:
+SingleCodeCriticResultList>>#sendersOfCritic
+SingleCodeCriticResultList>>#setTextModelForClassOrMethod:
+SingleCodeCriticResultList>>#setTextModelForNil
+SingleCodeCriticResultList>>#setTextModelForTransformationRule:
+SingleCodeCriticResultList>>#textInputFieldModel
+SingleCodeCriticResultList>>#textModel
 SingleCodeCriticResultList>>#toDoColor
+SingleCodeCriticResultList>>#toolbarModel
+SingleCodeCriticResultList>>#transformCritic
 SingleCodeCriticResultList>>#updateList
-RBMultiEnvironment>>#isMultiEnvironment
-RBMultiEnvironment>>#removeClass:
-RBMultiEnvironment>>#smallLintCritics
-RGMethodDefinition>>#asMCMethodDefinitionFromFile:
-ScriptLoader>>#script50111
+SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel
+SmalltalkImage>>#backupTo:
+SmalltalkImage>>#forceChangesToDisk
+SmalltalkImage>>#saveAs:
+SourceFileArray>>#at:
+SourceFileArray>>#changesFileStream
+SourceFileArray>>#getPreambleFrom:at:
+SourceFileArray>>#localProcessReadOnlyCopy
+SourceFileArray>>#localProcessReadStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
+SourceFileArray>>#protocolAt:for:
+SourceFileArray>>#readOnlyCopy
+SourceFileArray>>#readOnlyDo:
+SourceFileArray>>#readStreamAt:ifPresent:ifAbsent:
+SourceFileArray>>#readStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
+SourceFileArray>>#size
+SourceFileArray>>#sourceCodeAt:
+SourceFileArray>>#sourceDataPointers
+SourceFileArray>>#sourcedDataAt:
+SourceFileArray>>#sourcesFileStream
+SourceFileArray>>#timeStampAt:
+SourceFileArray>>#timeStampAt:for:
+TClassDescription>>#classComment:stamp:
+TClassDescription>>#fileOutChangedMessages:on:
 TClassDescription>>#fileOutChangedMessages:on:moveSource:toFile:
+TestRunner>>#findClassesForPackages:
+TestRunner>>#selectSubclasses
+TraitComposition>>#allTraits
+TraitTest>>#testTraitsMethodClassSanity

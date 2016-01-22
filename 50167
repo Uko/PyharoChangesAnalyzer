@@ -1,8 +1,7 @@
-PasteUpMorph class>>#isMenuOpenByLeftClick
 PasteUpMorph class>>#initialize
-ScriptLoader>>#update50167
+PasteUpMorph class>>#isMenuOpenByLeftClick
 PasteUpMorph class>>#shouldSwapMenuOpenerButtons
 PasteUpMorph>>#mouseDown:
-ScriptLoader>>#script50166
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50166
+ScriptLoader>>#update50167

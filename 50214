@@ -1,6 +1,3 @@
-TEnumeratingTest>>#testFlatCollectAsWithEmptyCollection
-RBMessageNode>>#methodCompilationContextOrNil
-ScriptLoader>>#update50214
 Collection>>#flatCollect:as:
 NautilusUI>>#wrapHistory:
 RBMessageNode>>#isInlineAndOr
@@ -12,6 +9,8 @@ RBMessageNode>>#isInlineTimesRepeat
 RBMessageNode>>#isInlineToDo
 RBMessageNode>>#isInlineWhile
 RBMessageNode>>#isInlined
-ScriptLoader>>#script50213
+RBMessageNode>>#methodCompilationContextOrNil
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50213
+ScriptLoader>>#update50214
+TEnumeratingTest>>#testFlatCollectAsWithEmptyCollection

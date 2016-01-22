@@ -1,40 +1,37 @@
-ScriptLoader>>#update50111
+FileDialogWindow>>#selectPathName:
+FileList
+FileList class>>#initialize
+FileList class>>#modalFolderSelector:
 FileList class>>#newOnDirectory:
 FileList class>>#newOnDirectory:baseLabel:
 FileList class>>#newOnDirectory:baseLabel:contents:
-FileList class>>#modalFolderSelector:
+FileList class>>#open
 FileList class>>#openEditorOn:editString:
 FileList class>>#openMorphOn:editString:
+FileList class>>#openOn:
 FileList class>>#openOn:titled:
+FileList>>#addFullPanesTo:from:
+FileList>>#addPath:
+FileList>>#addService:
+FileList>>#addServiceOn:entitled:doing:describedAs:
+FileList>>#addServiceTitled:doing:describedAs:
 FileList>>#baseLabel:
 FileList>>#configuredServices
 FileList>>#contents:
-FileList>>#morphicViewFolderSelector:
+FileList>>#initialize
+FileList>>#itemsForDirectory:
+FileList>>#labelString
 FileList>>#morphicView
+FileList>>#morphicViewFolderSelector:
 FileList>>#morphicViewOnDirectory:
 FileList>>#morphicViewOnDirectory:baseLabel:
 FileList>>#morphicViewOnFile:
-FileList>>#addFullPanesTo:from:
-FileList>>#addServiceOn:entitled:doing:describedAs:
-FileList>>#addServiceTitled:doing:describedAs:
-FileList>>#addService:
-SimpleTextGlyphInfo>>#loadFrom:
-ScriptLoader>>#script50110
-ScriptLoader>>#commentForCurrentUpdate
-FileDialogWindow>>#selectPathName:
-FileList class>>#initialize
-FileList class>>#open
-FileList class>>#openOn:
-FileList
-FileList>>#itemsForDirectory:
-FileList>>#readOnlyStream
-FileList>>#initialize
-FileList>>#labelString
-FileList>>#updateDirectory
 FileList>>#perform:orSendTo:
-FileList>>#addPath:
+FileList>>#readOnlyStream
+FileList>>#updateDirectory
 FileList>>#updateFileList
 FileList>>#volumeMenu:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50110
-FileList class>>#open
-FileList class>>#openOn:
+ScriptLoader>>#update50111
+SimpleTextGlyphInfo>>#loadFrom:

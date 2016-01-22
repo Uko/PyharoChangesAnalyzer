@@ -1,10 +1,9 @@
-ReflectivityControlTest>>#testLinkoptionInlineMetaObject
-ScriptLoader>>#update50348
 AbstractNautilusUI>>#browseVariableReferences
 AbstractNautilusUI>>#buildVariableReferencesMenuFrom:withIcon:contentBy:
 HookGenerator>>#hookFor:
 MetaLink>>#metaObject:
-ScriptLoader>>#script50347
-ScriptLoader>>#commentForCurrentUpdate
 ReflectivityControlTest>>#testLinkOneShot
+ReflectivityControlTest>>#testLinkoptionInlineMetaObject
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50347
+ScriptLoader>>#update50348

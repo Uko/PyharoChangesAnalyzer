@@ -1,16 +1,15 @@
-ScriptLoader>>#update50280
+DummyUIManager>>#restoreDisplayAfter:
 SHRBTextStyler>>#currentClosedBracketStyleName
 SHRBTextStyler>>#currentClosedParenthesisStyleName
 SHRBTextStyler>>#currentOpenedBracketStyleName
 SHRBTextStyler>>#currentOpenedParenthesisStyleName
-TimeZone class>>#local
-SystemWindow>>#openInWorld:extent:
-ScriptLoader>>#script50279
-ScriptLoader>>#commentForCurrentUpdate
 SHRBTextStyler>>#styleCloseBracket:
 SHRBTextStyler>>#styleCloseParenthese:
 SHRBTextStyler>>#styleOpenBracket:
 SHRBTextStyler>>#styleOpenParenthese:
-DummyUIManager>>#restoreDisplayAfter:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50279
+ScriptLoader>>#update50280
 SimpleServiceEntry>>#addServiceFor:toMenu:
+SystemWindow>>#openInWorld:extent:
+TimeZone class>>#local

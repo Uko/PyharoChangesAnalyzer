@@ -1,11 +1,10 @@
 NautilusRefactoring>>#performRefactoringsFor:with:
-ScriptLoader>>#update50179
 NautilusRefactoring>>#swapMethodFor:
+OCCompileWithFailureTest>>#testEvalSimpleMethodWithError
 OpalCompiler class>>#defaultOptions
 OpalCompiler>>#parseExpression
 OpalCompiler>>#parseMethod
-OCCompileWithFailureTest>>#testEvalSimpleMethodWithError
-ScriptLoader>>#script50178
 ScriptLoader>>#commentForCurrentUpdate
-SugsMenuBuilder class>>#findBestNodeFor:
 ScriptLoader>>#script50178
+ScriptLoader>>#update50179
+SugsMenuBuilder class>>#findBestNodeFor:

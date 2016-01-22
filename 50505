@@ -1,9 +1,8 @@
-ScriptLoader>>#update50505
-TBehavior>>#isEphemeronClass
-TBehavior>>#isImmediateClass
 BehaviorTest>>#testCompactAndUncompactClass
 BehaviorTest>>#testUncompactClassNotAllowed
-SizeInMemoryTest>>#testSizeInMemoryCompactClasses
-ScriptLoader>>#script50504
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50504
+ScriptLoader>>#update50505
+SizeInMemoryTest>>#testSizeInMemoryCompactClasses
+TBehavior>>#isEphemeronClass
+TBehavior>>#isImmediateClass

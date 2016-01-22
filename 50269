@@ -1,10 +1,9 @@
-ScriptLoader>>#update50269
-RecentMessageList>>#open
-RBModifiesCollectionRule>>#modifiesTree:in:
-ScriptLoader>>#script50268
-ScriptLoader>>#commentForCurrentUpdate
-TemporaryVariable>>#hash
-TemporaryVariable>>#ensureProperties
-TemporaryVariable>>#removePropertiesIfEmpty
 MessageBrowser>>#selectedMethod
+RBModifiesCollectionRule>>#modifiesTree:in:
+RecentMessageList>>#open
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50268
+ScriptLoader>>#update50269
+TemporaryVariable>>#ensureProperties
+TemporaryVariable>>#hash
+TemporaryVariable>>#removePropertiesIfEmpty

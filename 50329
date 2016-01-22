@@ -1,18 +1,17 @@
-ManifestCodeImport class>>#manuallyResolvedDependencies
-ManifestCodeImport
+CatalogBrowser>>#installStableVersion:onSuccess:
+CatalogBrowser>>#onLoadFrom:
+CodeImporter>>#flushChangesFile
+ConfigurationOfCatalog>>#stable:
 ConfigurationOfCatalog>>#version09:
 ConfigurationOfCodeImporter>>#baseline112:
 ConfigurationOfCodeImporter>>#development:
 ConfigurationOfCodeImporter>>#stable:
 ConfigurationOfCodeImporter>>#version112:
-ReflectivityControlTest>>#testInsteadBlockSequence
-ScriptLoader>>#update50329
-CodeImporter>>#flushChangesFile
-ConfigurationOfCatalog>>#stable:
-RFASTTranslatorForValue>>#visitSequenceNode:
-ScriptLoader>>#script50328
-ScriptLoader>>#commentForCurrentUpdate
-CatalogBrowser>>#installStableVersion:onSuccess:
-CatalogBrowser>>#onLoadFrom:
 GTSpotter>>#spotterCatalogProjectsFor:
+ManifestCodeImport
+ManifestCodeImport class>>#manuallyResolvedDependencies
+RFASTTranslatorForValue>>#visitSequenceNode:
+ReflectivityControlTest>>#testInsteadBlockSequence
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50328
+ScriptLoader>>#update50329

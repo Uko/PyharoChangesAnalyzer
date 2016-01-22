@@ -1,24 +1,23 @@
+CommandLineTestRunner>>#handleFailure:of:
+CommandLineTestRunner>>#printError:of:
+CommandLineTestRunner>>#printFailure:of:
+HDReport class>>#runPackages:
+HDTestReport class>>#runClasses:named:
+HDTestReport class>>#runSuite:
+HDTestReport>>#hasFailuresOrErrors
+HDTestReport>>#initialize
+HDTestReport>>#initializeOn:
 HDTestReport>>#suiteErrors
 HDTestReport>>#suiteFailures
 HDTestReport>>#suitePassing
 HDTestReport>>#suiteTotal
-HDTestReport>>#initialize
-HDTestReport>>#hasFailuresOrErrors
-TestCommandLineHandler>>#informResults:
-TestCommandLineHandler>>#runPackages
-CommandLineTestRunner>>#printError:of:
-ScriptLoader>>#update50277
-HDReport class>>#runPackages:
-HDTestReport class>>#runClasses:named:
-HDTestReport class>>#runSuite:
-HDTestReport>>#initializeOn:
-CommandLineTestRunner>>#handleFailure:of:
-CommandLineTestRunner>>#printFailure:of:
-ScriptLoader>>#script50276
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50276
+ScriptLoader>>#update50277
+TestCommandLineHandler>>#addPackagesMatching:to:
 TestCommandLineHandler>>#addPackagesMatchingGlob:to:
 TestCommandLineHandler>>#addPackagesMatchingRegex:to:
-TestCommandLineHandler>>#addPackagesMatching:to:
+TestCommandLineHandler>>#informResults:
 TestCommandLineHandler>>#packages
+TestCommandLineHandler>>#runPackages
 TestCommandLineHandler>>#testRunner
-ScriptLoader>>#script50276

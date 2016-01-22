@@ -1,10 +1,9 @@
-ScriptLoader>>#update50154
-RBUnaryAccessingMethodWithoutReturnRule>>#group
-RBUnaryAccessingMethodWithoutReturnRule>>#checkMethod:
-ReflectiveMethodTest>>#testUninstallLinkAndRunAfter
 HookGenerator>>#afterHooks
+RBUnaryAccessingMethodWithoutReturnRule>>#checkMethod:
+RBUnaryAccessingMethodWithoutReturnRule>>#group
 RFASTTranslator>>#emitMetaLinkAfter:
 RFSemanticAnalyzer>>#analyseForLinks:
-ScriptLoader>>#script50153
+ReflectiveMethodTest>>#testUninstallLinkAndRunAfter
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50153
+ScriptLoader>>#update50154

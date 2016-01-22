@@ -1,15 +1,28 @@
-DailyNonInteractiveTranscript class>>#defaultLogFileName
+BitsLayout>>#extendWeak:
 DailyNonInteractiveTranscript
+DailyNonInteractiveTranscript class>>#defaultLogFileName
 DailyNonInteractiveTranscript>>#fileNameWithDate
-DailyNonInteractiveTranscript>>#stream
 DailyNonInteractiveTranscript>>#initialize
 DailyNonInteractiveTranscript>>#initializeStream
+DailyNonInteractiveTranscript>>#stream
+DebugSystemSettings class>>#addDebugFilterSessingsOn:
+NonInteractiveTranscript
+NonInteractiveTranscript>>#close
 NonInteractiveTranscript>>#critical:
+NonInteractiveTranscript>>#flush
+NonInteractiveTranscript>>#initialize
+NonInteractiveTranscript>>#nextPut:
+NonInteractiveTranscript>>#nextPutAll:
+OldClassBuilderAdapter>>#superclass:variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50054
 ScriptLoader>>#update50055
-BitsLayout>>#extendWeak:
-SpecDebuggerStack class>>#linkMessagesFilter
+SpecDebuggerStack
+SpecDebuggerStack class>>#enabledFilters
 SpecDebuggerStack class>>#filterLinkSelectors
 SpecDebuggerStack class>>#filterLinkSelectors:
+SpecDebuggerStack class>>#linkMessagesFilter
+TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 TTranscript
 TTranscript>>#%3C%3C
 TTranscript>>#clear
@@ -19,35 +32,20 @@ TTranscript>>#crShow:
 TTranscript>>#critical:
 TTranscript>>#endEntry
 TTranscript>>#flush
-TTranscript>>#nextPutAll:
 TTranscript>>#nextPut:
+TTranscript>>#nextPutAll:
 TTranscript>>#print:
 TTranscript>>#show:
 TTranscript>>#space
 TTranscript>>#tab
-ThreadSafeTranscript>>#critical:
-DebugSystemSettings class>>#addDebugFilterSessingsOn:
-NonInteractiveTranscript
-NonInteractiveTranscript>>#close
-NonInteractiveTranscript>>#flush
-NonInteractiveTranscript>>#nextPutAll:
-NonInteractiveTranscript>>#nextPut:
-ScriptLoader>>#script50054
-ScriptLoader>>#commentForCurrentUpdate
-OldClassBuilderAdapter>>#superclass:variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-SpecDebuggerStack class>>#enabledFilters
-SpecDebuggerStack
-TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 ThreadSafeTranscript
-ThreadSafeTranscript>>#clear
-ThreadSafeTranscript>>#close
-ThreadSafeTranscript>>#endEntry
-ThreadSafeTranscript>>#nextPutAll:
-ThreadSafeTranscript>>#nextPut:
-ThreadSafeTranscript>>#stepGlobal
-NonInteractiveTranscript>>#initialize
-NonInteractiveTranscript>>#close
-ScriptLoader>>#script50054
 ThreadSafeTranscript>>#black
 ThreadSafeTranscript>>#characterLimit
+ThreadSafeTranscript>>#clear
+ThreadSafeTranscript>>#close
+ThreadSafeTranscript>>#critical:
+ThreadSafeTranscript>>#endEntry
+ThreadSafeTranscript>>#nextPut:
+ThreadSafeTranscript>>#nextPutAll:
+ThreadSafeTranscript>>#stepGlobal
 ThreadSafeTranscript>>#white

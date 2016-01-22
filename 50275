@@ -1,13 +1,12 @@
 FileList class>>#registerFileReader
 FileServices class>>#registerFileReader
-ScriptLoader>>#update50275
 Locale class>>#current
 Locale>>#country
 Locale>>#encoder
 Locale>>#language
-ManifestFiles class>>#manuallyResolvedDependencies
-Unicode class>>#value:
-ScriptLoader>>#script50274
-ScriptLoader>>#commentForCurrentUpdate
 Locale>>#printOn:
+ManifestFiles class>>#manuallyResolvedDependencies
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50274
+ScriptLoader>>#update50275
+Unicode class>>#value:

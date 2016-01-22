@@ -1,18 +1,17 @@
-RBScannerTest>>#testNextLiteralCharacterWithAMissingCharacter
-ConfigurationOfRubric>>#version21:
-PackageManifest class>>#isUsed
-ReflectiveMethod>>#metaLinkOptions
 Behavior>>#metaLinkOptions
-ScriptLoader>>#update50384
-RBScanner>>#scanLiteralCharacter
+BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
 Collection>>#ifNotEmpty:
 ConfigurationOfRubric>>#stable:
-BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
+ConfigurationOfRubric>>#version21:
+PackageManifest class>>#isUsed
+RBScanner>>#scanLiteralCharacter
+RBScannerTest>>#testNextLiteralCharacterWithAMissingCharacter
+ReflectiveMethod>>#metaLinkOptions
 RubFloatingEditorBuilder class>>#exampleCommandLauncher
 RubFloatingEditorBuilder class>>#exampleEditableStringMorph
 RubFloatingEditorBuilder>>#whenReturnEntered:
-RubScrolledTextMorph>>#whenCancelEditRequestedInModel:
 RubScrolledTextMorph>>#whenCancelEditRequested:
-ScriptLoader>>#script50383
+RubScrolledTextMorph>>#whenCancelEditRequestedInModel:
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50383
+ScriptLoader>>#update50384

@@ -1,12 +1,11 @@
-ScriptLoader>>#update50248
-Rectangle>>#intersect:ifNone:
 KomitterUI>>#initializeWidgets
 KomitterUI>>#populateTreeFor:
-TheManifestBuilder>>#packageNameOf:
 MCWorkingCopyBrowser>>#defaultExtent
 Nautilus class>>#parentOfClass:
 RBRefersToClassRule>>#checkClass:
-ScriptLoader>>#script50247
+Rectangle>>#intersect:ifNone:
 ScriptLoader>>#commentForCurrentUpdate
-TBehavior>>#allCallsOn
 ScriptLoader>>#script50247
+ScriptLoader>>#update50248
+TBehavior>>#allCallsOn
+TheManifestBuilder>>#packageNameOf:

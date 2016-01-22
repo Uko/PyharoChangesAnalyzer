@@ -1,17 +1,8 @@
-ConfigurationOfFastTable>>#version082:
-FTBasicItem>>#getChildren
-FTFunction>>#disable
-FTFunctionWithField>>#disable
-FTNilFunction>>#disable
-ScriptLoader>>#update50523
-SugsGlamourCodeContext
-SugsGlamourCodeContext>>#sourceTextArea
-SugsGlamourCodeContext>>#selectedClass
-SugsGlamourCodeContext>>#selectedMethod
-GLMRubricSmalltalkTextModel>>#sugsContext
-SpecDebuggerTest>>#testBasic
 ConfigurationOfFastTable>>#stable:
+ConfigurationOfFastTable>>#version082:
+DebuggerTest
 FTBasicItem>>#calculateChildren
+FTBasicItem>>#getChildren
 FTExamples class>>#exampleTree1
 FTExamples class>>#exampleTree2
 FTExamples class>>#exampleTreeWithAllItemsFilter
@@ -20,11 +11,18 @@ FTExamples class>>#exampleTreeWithRootFilter
 FTExamples class>>#exampleTreeWithRootSearch
 FTExamples class>>#exampleTreeWithVisibleItemsFilter
 FTExamples class>>#exampleTreeWithVisibleItemsSearch
+FTFunction>>#disable
+FTFunctionWithField>>#disable
+FTNilFunction>>#disable
 FTTableContainerMorph>>#drawOn:
 FTTableMorph>>#disableFunction
 FTTableMorph>>#extent:
-ScriptLoader>>#script50522
+GLMRubricSmalltalkTextModel>>#sugsContext
 ScriptLoader>>#commentForCurrentUpdate
-DebuggerTest
 ScriptLoader>>#script50522
-DebuggerTest
+ScriptLoader>>#update50523
+SpecDebuggerTest>>#testBasic
+SugsGlamourCodeContext
+SugsGlamourCodeContext>>#selectedClass
+SugsGlamourCodeContext>>#selectedMethod
+SugsGlamourCodeContext>>#sourceTextArea

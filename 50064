@@ -1,10 +1,21 @@
-RubAbstractTextArea>>#restoreSelectionIndexesAfter:
+RubAbstractTextArea
+RubAbstractTextArea class>>#lineNumbersBackgroundColor
+RubAbstractTextArea>>#drawSubmorphsOnAthensCanvas:
+RubAbstractTextArea>>#getMenu:
 RubAbstractTextArea>>#lookupShiftMenu
+RubAbstractTextArea>>#restoreSelectionIndexesAfter:
+RubAbstractTextArea>>#textColor:
 RubAdornmentDisplayer>>#drawOnAthensCanvas:
 RubCodeSizeFeedback>>#drawOnAthensCanvas:
 RubColumnDisplayer>>#drawOnAthensCanvas:
+RubColumnDisplayer>>#tabLineDashes
+RubCursor>>#noteNewOwner:
 RubCursor>>#whenTextAreaExtentChanged:
+RubEditingArea>>#bindingOf:
 RubEditingMode>>#shiftMenu
+RubEditingMode>>#updateTextAreaWhenPlugged
+RubExtraSelectionDecorator>>#computeFindReplaceShapesFrom:to:
+RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
 RubGetMenuPolicy
 RubGetMenuPolicy>>#lookupMenu
 RubGetMenuPolicy>>#lookupShiftMenu
@@ -12,96 +23,81 @@ RubGetMenuPolicy>>#textArea
 RubGetMenuPolicy>>#textArea:
 RubGhostTextDisplayer>>#centered
 RubGhostTextDisplayer>>#leftFlush
+RubGhostTextDisplayer>>#noteNewOwner:
 RubGhostTextDisplayer>>#rightFlush
+RubGhostTextDisplayer>>#showHideGhostText
 RubGhostTextDisplayer>>#textAreaGotFocus:
 RubGhostTextDisplayer>>#textAreaLostFocus:
-RubGhostTextDisplayer>>#noteNewOwner:
 RubLineNumberDisplayer>>#drawOnAthensCanvas:
+RubParagraph>>#drawOnAthensCanvas:bounds:color:
+RubPlainTextMode>>#changeAlignment:
 RubPlainTextMode>>#changeAttribute:
+RubPlainTextMode>>#changeEmphasis:
 RubPluggableGetMenuPolicy
-RubPluggableGetMenuPolicy>>#lookupMenu
-RubPluggableGetMenuPolicy>>#lookupShiftMenu
 RubPluggableGetMenuPolicy>>#getMenuSelector
 RubPluggableGetMenuPolicy>>#getMenuSelector:
+RubPluggableGetMenuPolicy>>#lookupMenu
+RubPluggableGetMenuPolicy>>#lookupShiftMenu
 RubPluggableGetMenuPolicy>>#menuProvider
 RubPluggableGetMenuPolicy>>#menuProvider:
-RubPluggableTextMorph>>#selectionInterval:
+RubPluggableTextMorph
+RubPluggableTextMorph>>#formatSourceCode
 RubPluggableTextMorph>>#getEnabledSelector:
 RubPluggableTextMorph>>#getText
-RubPluggableTextMorph>>#formatSourceCode
-RubPluggableTextMorphExample>>#enabled:
-RubPluggableTextMorphExample>>#setSelection:
+RubPluggableTextMorph>>#initialize
+RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
+RubPluggableTextMorph>>#selectionInterval:
+RubPluggableTextMorphExample
+RubPluggableTextMorphExample class>>#example
+RubPluggableTextMorphExample>>#accept:notifying:
+RubPluggableTextMorphExample>>#autoAccept
 RubPluggableTextMorphExample>>#checkClassName
 RubPluggableTextMorphExample>>#checkMethodName
+RubPluggableTextMorphExample>>#classSelectorMorph
+RubPluggableTextMorphExample>>#editButton
+RubPluggableTextMorphExample>>#enabled
+RubPluggableTextMorphExample>>#enabled:
+RubPluggableTextMorphExample>>#metaSwitch
+RubPluggableTextMorphExample>>#method
+RubPluggableTextMorphExample>>#methodSelectorMorph
+RubPluggableTextMorphExample>>#newScrolledText
+RubPluggableTextMorphExample>>#open
+RubPluggableTextMorphExample>>#readSelection
+RubPluggableTextMorphExample>>#selectedClass
+RubPluggableTextMorphExample>>#selectedClassName
+RubPluggableTextMorphExample>>#selectedMethodName
+RubPluggableTextMorphExample>>#selector
+RubPluggableTextMorphExample>>#setSelection:
 RubPluggableTextMorphExample>>#whenClassNameChanged:
 RubPluggableTextMorphExample>>#whenMethodNameChanged:
-RubPluggableTextMorphExample>>#classSelectorMorph
-RubPluggableTextMorphExample>>#methodSelectorMorph
-RubScrolledTextModel>>#shiftMenu
 RubScrolledTextModel>>#getString
 RubScrolledTextModel>>#newTextField
-RubScrolledTextMorph>>#selectionInterval:
+RubScrolledTextModel>>#shiftMenu
+RubScrolledTextMorph
 RubScrolledTextMorph>>#beEditable
+RubScrolledTextMorph>>#enabled:
+RubScrolledTextMorph>>#initialize
 RubScrolledTextMorph>>#menuProvider:selector:
+RubScrolledTextMorph>>#selectionInterval:
 RubScrolledTextMorph>>#whenTextChangedInTextArea:
+RubScrolledTextMorph>>#whenTextUpdatedInModel:
 RubSegmentMorph>>#drawBorderOnAthensCanvas:
 RubSegmentMorph>>#drawBorderOnAthensCanvas:usingEnds:
 RubSegmentMorph>>#drawClippedBorderOnAthensCanvas:usingEnds:
 RubSegmentMorph>>#drawOnAthensCanvas:
 RubSmalltalkCodeMode>>#formatMethodCode
+RubSmalltalkCodeMode>>#shoutAboutToStyle:
+RubTextAreaExamples class>>#blueTextOnGrayBacgroundWrappedTo400
+RubTextAreaExamples class>>#centered
 RubTextAreaExamples class>>#menu
 RubTextAreaExamples class>>#nicolaiAttributeFix
+RubTextAreaExamples class>>#rightFlushed
+RubTextAreaExamples class>>#show:while:
+RubTextFieldArea>>#defaultMargins
 RubTextSegmentIconDisplayer>>#drawOnAthensCanvas:
 RubTextSegmentMorph>>#displayIconAt:onAthensCanvas:
 RubUnderlinedSegmentMorph>>#drawOnAthensCanvas:
 RubUnderlinedSegmentMorph>>#drawUnderlineOnAthensCanvas:
-ScriptLoader>>#update50064
-RubAbstractTextArea class>>#lineNumbersBackgroundColor
-RubAbstractTextArea
-RubAbstractTextArea>>#textColor:
-RubAbstractTextArea>>#drawSubmorphsOnAthensCanvas:
-RubAbstractTextArea>>#getMenu:
-RubColumnDisplayer>>#tabLineDashes
-RubCursor>>#noteNewOwner:
-RubEditingMode>>#updateTextAreaWhenPlugged
-RubExtraSelectionDecorator>>#computeFindReplaceShapesFrom:to:
-RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
-RubGhostTextDisplayer>>#showHideGhostText
-RubParagraph>>#drawOnAthensCanvas:bounds:color:
-RubPlainTextMode>>#changeAlignment:
-RubPlainTextMode>>#changeEmphasis:
-RubPluggableTextMorph
-RubPluggableTextMorph>>#initialize
-RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
-RubPluggableTextMorphExample class>>#example
-RubPluggableTextMorphExample
-RubPluggableTextMorphExample>>#autoAccept
-RubPluggableTextMorphExample>>#enabled
-RubPluggableTextMorphExample>>#method
-RubPluggableTextMorphExample>>#selector
-RubPluggableTextMorphExample>>#accept:notifying:
-RubPluggableTextMorphExample>>#editButton
-RubPluggableTextMorphExample>>#metaSwitch
-RubPluggableTextMorphExample>>#newScrolledText
-RubPluggableTextMorphExample>>#open
-RubPluggableTextMorphExample>>#selectedClass
-RubPluggableTextMorphExample>>#selectedClassName
-RubPluggableTextMorphExample>>#selectedMethodName
-RubScrolledTextMorph
-RubScrolledTextMorph>>#whenTextUpdatedInModel:
-RubScrolledTextMorph>>#initialize
-RubScrolledTextMorph>>#enabled:
-RubSmalltalkCodeMode>>#shoutAboutToStyle:
-RubTextAreaExamples class>>#blueTextOnGrayBacgroundWrappedTo400
-RubTextAreaExamples class>>#centered
-RubTextAreaExamples class>>#rightFlushed
-RubTextAreaExamples class>>#show:while:
-RubTextFieldArea>>#defaultMargins
-ScriptLoader>>#script50063
 ScriptLoader>>#commentForCurrentUpdate
-RubEditingArea>>#bindingOf:
-RubPluggableTextMorphExample>>#readSelection
-RubPluggableTextMorphExample>>#editButton
-RubPluggableTextMorphExample>>#metaSwitch
-RubPluggableTextMorphExample>>#newScrolledText
 ScriptLoader>>#script50063
+ScriptLoader>>#update50064

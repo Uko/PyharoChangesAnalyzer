@@ -1,12 +1,11 @@
 CompiledMethod>>#hasProperty:
-ReflectivityControlTest>>#testBeforeMethodPrimitive
-ScriptLoader>>#update50309
 CoverageDemoTest>>#testCoverageControlFlow
+ReflectiveMethod>>#destroyTwin
+ReflectiveMethod>>#generatePrimitiveWrapper
 ReflectiveMethodTest>>#testSetLinkInPrimitive
 ReflectiveMethodTest>>#testSetLinkOnPrimitive
+ReflectivityControlTest>>#testBeforeMethodPrimitive
 ReflectivityLinkTest>>#testPrimitiveWithLinkExecuteWrapper
-ReflectiveMethod>>#generatePrimitiveWrapper
-ReflectiveMethod>>#destroyTwin
-ScriptLoader>>#script50308
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50308
+ScriptLoader>>#update50309

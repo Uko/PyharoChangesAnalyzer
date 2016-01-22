@@ -1,56 +1,55 @@
-CompiledMethod>>#putSource:class:category:withStamp:priorMethod:
-CompiledMethod>>#putSource:withPreamble:
-RubAbstractSmalltalkMode
-RubAbstractSmalltalkMode>>#updateTextAreaWhenPlugged
-RubAbstractSmalltalkMode>>#updateTextAreaWhenUnplugged
-RubEditingArea>>#beForSmalltalkComment
-RubScrolledTextModel>>#doItContext
-RubScrolledTextModel>>#doItReceiver
-RubScrolledTextMorph>>#beForSmalltalkComment
-RubSmalltalkCommentMode class>>#label
-RubSmalltalkCommentMode class>>#menuKeyword
-RubSmalltalkCommentMode class>>#menuOn:
-RubSmalltalkCommentMode
-RubSmalltalkCommentMode>>#updateTextAreaWhenPlugged
-RubSmalltalkCommentMode>>#updateTextAreaWhenUnplugged
-ScriptLoader>>#update50119
-RemoteString class>>#newString:
-RemoteString>>#string:
-SourceFileArray>>#flushChangesFile
-SourceFileArray>>#forceChangesToDisk
-SourceFileArray>>#changesWriteStreamDo:
-SourceFileArray>>#writeSource:preamble:onSuccess:onFail:
+AbstractNautilusUI>>#buildNewCommentText
+AbstractNautilusUI>>#classCommentTextModel
+AbstractNautilusUI>>#shiftedTextPaneMenuRequest
+ChangesLog>>#assureStartupStampLogged
+ChangesLog>>#forceChangesToDisk
+ChangesLog>>#logChange:
+ChangesLog>>#logSnapshot:andQuit:
 ClassOrganization>>#comment:
 CompiledMethod>>#putSource:class:category:withStamp:inFile:priorMethod:
+CompiledMethod>>#putSource:class:category:withStamp:priorMethod:
 CompiledMethod>>#putSource:inFile:withPreamble:
+CompiledMethod>>#putSource:withPreamble:
 CompiledMethod>>#setSourcePosition:inFile:
 MCPackageLoader>>#basicLoad
 MCPackageLoader>>#flushChangesFile
 MCPackageManager>>#modified:
-AbstractNautilusUI>>#buildNewCommentText
-AbstractNautilusUI>>#classCommentTextModel
-TBehavior>>#compile:notifying:
+RemoteString class>>#newString:
+RemoteString>>#string:
+RubAbstractSmalltalkMode
+RubAbstractSmalltalkMode>>#updateTextAreaWhenPlugged
+RubAbstractSmalltalkMode>>#updateTextAreaWhenUnplugged
+RubEditingArea>>#beForSmalltalkComment
 RubEditingMode>>#editorClass
 RubScrolledTextModel
+RubScrolledTextModel>>#doItContext
+RubScrolledTextModel>>#doItReceiver
+RubScrolledTextMorph>>#beForSmalltalkComment
 RubSmalltalkCodeMode
+RubSmalltalkCodeMode>>#editorClass
+RubSmalltalkCommentMode
+RubSmalltalkCommentMode class>>#label
+RubSmalltalkCommentMode class>>#menuKeyword
+RubSmalltalkCommentMode class>>#menuOn:
+RubSmalltalkCommentMode>>#updateTextAreaWhenPlugged
+RubSmalltalkCommentMode>>#updateTextAreaWhenUnplugged
 RubSmalltalkEditor>>#evaluate:andDo:
 RubSmalltalkEditorModel
-ScriptLoader>>#script50118
+RubSmalltalkEditorModel>>#interactionModel:
 ScriptLoader>>#commentForCurrentUpdate
-SourceFileArray>>#changesFileStream
-SourceFileArray>>#sourcesFileStream
-ChangesLog>>#logChange:
-ChangesLog>>#logSnapshot:andQuit:
-ChangesLog>>#assureStartupStampLogged
-ChangesLog>>#forceChangesToDisk
+ScriptLoader>>#script50118
+ScriptLoader>>#update50119
 SmalltalkImage>>#assureStartupStampLogged
 SmalltalkImage>>#forceChangesToDisk
 SmalltalkImage>>#logChange:
-TBehavior>>#addTraitSelector:withMethod:
-TClassDescription>>#logMethodSource:forMethod:inCategory:withStamp:
-TClassDescription>>#classComment:stamp:
-AbstractNautilusUI>>#shiftedTextPaneMenuRequest
-RubSmalltalkCodeMode>>#editorClass
-RubSmalltalkEditorModel>>#interactionModel:
-ScriptLoader>>#script50118
+SourceFileArray>>#changesFileStream
+SourceFileArray>>#changesWriteStreamDo:
+SourceFileArray>>#flushChangesFile
+SourceFileArray>>#forceChangesToDisk
 SourceFileArray>>#initialize:
+SourceFileArray>>#sourcesFileStream
+SourceFileArray>>#writeSource:preamble:onSuccess:onFail:
+TBehavior>>#addTraitSelector:withMethod:
+TBehavior>>#compile:notifying:
+TClassDescription>>#classComment:stamp:
+TClassDescription>>#logMethodSource:forMethod:inCategory:withStamp:

@@ -1,15 +1,14 @@
+CompiledMethod>>#installLink:
+MetaLink>>#methods
+NECContext>>#createModel
+NECContextTest>>#testCreateModel
+NECPreferences class>>#initialize
 NECPreferences class>>#overrideModel
 NECPreferences class>>#overrideModel:
-MetaLink>>#methods
-ScriptLoader>>#update50450
-SugsMenuBuilder class>>#buildContextMenuOn:
-NECContextTest>>#testCreateModel
-NECContext>>#createModel
-NECPreferences class>>#initialize
 NECPreferences class>>#settingsOn:
 NautilusUI>>#metaLinkModified:
-CompiledMethod>>#installLink:
 RubSmalltalkEditor class>>#menuOn:
-ScriptLoader>>#script50449
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50449
+ScriptLoader>>#update50450
+SugsMenuBuilder class>>#buildContextMenuOn:

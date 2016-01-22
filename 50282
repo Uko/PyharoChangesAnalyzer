@@ -1,13 +1,11 @@
+OSSDL2Driver>>#createWindowWithAttributes:osWindow:
 OSSDL2Driver>>#registerWindow:
-ScriptLoader>>#update50282
-WorldState>>#menuBuilder
+OSSDL2Driver>>#unregisterWindow:
+OSSDL2WindowHandle>>#destroy
 OSWindow>>#destroy
 OSWindowAttributes class>>#initialize
 OSWindowTest>>#testSettingUpWindow
-OSSDL2Driver>>#createWindowWithAttributes:osWindow:
-OSSDL2Driver>>#unregisterWindow:
-OSSDL2WindowHandle>>#destroy
-ScriptLoader>>#script50281
 ScriptLoader>>#commentForCurrentUpdate
-OSSDL2Driver>>#unregisterWindow:
 ScriptLoader>>#script50281
+ScriptLoader>>#update50282
+WorldState>>#menuBuilder

@@ -1,6 +1,5 @@
 NumberParser class>>#isNumber:
 NumberParserTest>>#testIsNumber
-ScriptLoader>>#update50003
-ScriptLoader>>#script611
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script611
+ScriptLoader>>#update50003

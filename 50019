@@ -1,13 +1,24 @@
-String>>#findAnySubstring:startingAt:
+MIMEHeaderValue class>>#fromMIMEHeader:
+MetaLink>>#arguments:
+MetaLink>>#condition:
+MetaLink>>#control:
+MetaLink>>#invalidate
+MetaLink>>#level:
+MetaLink>>#metaObject:
+MetaLink>>#selector:
+MethodFinder>>#initialize2
+NECSymbols class>>#startsWith:caseSensitive:do:
+Paragraph>>#secondarySelection:
+RBFutureDeprecationWarningRule>>#plannedSelectorRenames
+RBProgramNode>>#invalidate
+ReflectiveMethodTest>>#testLinkWithConditionInvalidation
+ScriptLoader class>>#latestVersionOf:location:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script627
+ScriptLoader>>#update50019
 String>>#allRangesOfSubString:
 String>>#findAnySubStr:startingAt:
-String>>#findBetweenSubStrs:
-String>>#skipAnySubStr:startingAt:
-String>>#subStrings:
-ReflectiveMethodTest>>#testLinkWithConditionInvalidation
-MetaLink>>#invalidate
-RBProgramNode>>#invalidate
-ScriptLoader>>#update50019
+String>>#findAnySubstring:startingAt:
 String>>#findBetweenSubStrs:
 String>>#findLastOccurrenceOfString:startingAt:
 String>>#findString:
@@ -15,6 +26,7 @@ String>>#findString:startingAt:
 String>>#findTokens:includes:
 String>>#includesSubstring:
 String>>#skipAnySubStr:startingAt:
+String>>#subStrings:
 String>>#substrings:
 TAsStringCommaAndDelimiterSequenceableTest>>#testAsCommaStringMore
 TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterLastMore
@@ -22,6 +34,10 @@ TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterMore
 TAsStringCommaAndDelimiterTest>>#testAsCommaStringMore
 TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastMore
 TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterMore
+TAssertable>>#should:raise:whoseDescriptionDoesNotInclude:description:
+TAssertable>>#should:raise:whoseDescriptionIncludes:description:
+TAssertable>>#shouldnt:raise:whoseDescriptionDoesNotInclude:description:
+TAssertable>>#shouldnt:raise:whoseDescriptionIncludes:description:
 TPrintOnSequencedTest>>#testPrintElementsOn
 TPrintOnSequencedTest>>#testPrintOn
 TPrintOnSequencedTest>>#testPrintOnDelimiter
@@ -31,30 +47,9 @@ TPrintTest>>#testPrintOn
 TPrintTest>>#testPrintOnDelimiter
 TPrintTest>>#testPrintOnDelimiterLast
 TPrintTest>>#testStoreOn
-Paragraph>>#secondarySelection:
-TextMorphForEditView>>#findNextString:startingAt:
-TextMorphForEditView>>#refreshExtraSelection
-NECSymbols class>>#startsWith:caseSensitive:do:
-MIMEHeaderValue class>>#fromMIMEHeader:
-RBFutureDeprecationWarningRule>>#plannedSelectorRenames
-MetaLink>>#arguments:
-MetaLink>>#condition:
-MetaLink>>#control:
-MetaLink>>#level:
-MetaLink>>#metaObject:
-MetaLink>>#selector:
-TAssertable>>#should:raise:whoseDescriptionDoesNotInclude:description:
-TAssertable>>#should:raise:whoseDescriptionIncludes:description:
-TAssertable>>#shouldnt:raise:whoseDescriptionDoesNotInclude:description:
-TAssertable>>#shouldnt:raise:whoseDescriptionIncludes:description:
-ScriptLoader class>>#latestVersionOf:location:
-ScriptLoader>>#script627
-ScriptLoader>>#commentForCurrentUpdate
 Text>>#findString:startingAt:
 Text>>#findString:startingAt:caseSensitive:
-TextEditor>>#findNextString:startingAt:
 TextEditor>>#findAgain
-MethodFinder>>#initialize2
-String>>#findBetweenSubStrs:
-String>>#skipAnySubStr:startingAt:
-ScriptLoader>>#script627
+TextEditor>>#findNextString:startingAt:
+TextMorphForEditView>>#findNextString:startingAt:
+TextMorphForEditView>>#refreshExtraSelection

@@ -1,700 +1,91 @@
-ConfigurationOfGTDebugger class>>#project
+Collection>>#gtDebuggerSUnitPrint
+ConfigurationOfGTDebugger
 ConfigurationOfGTDebugger class>>#DevelopmentSupport
-ConfigurationOfGTDebugger class>>#validate
-ConfigurationOfGTDebugger class>>#load
-ConfigurationOfGTDebugger class>>#loadBleedingEdge
-ConfigurationOfGTDebugger class>>#loadDevelopment
-ConfigurationOfGTDebugger class>>#isMetacelloConfig
 ConfigurationOfGTDebugger class>>#baseConfigurationClassIfAbsent:
 ConfigurationOfGTDebugger class>>#ensureMetacello
 ConfigurationOfGTDebugger class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfGTDebugger
-ConfigurationOfGTDebugger>>#customProjectAttributes
-ConfigurationOfGTDebugger>>#project
+ConfigurationOfGTDebugger class>>#isMetacelloConfig
+ConfigurationOfGTDebugger class>>#load
+ConfigurationOfGTDebugger class>>#loadBleedingEdge
+ConfigurationOfGTDebugger class>>#loadDevelopment
+ConfigurationOfGTDebugger class>>#project
+ConfigurationOfGTDebugger class>>#validate
 ConfigurationOfGTDebugger>>#baseline01:
 ConfigurationOfGTDebugger>>#baseline02:
 ConfigurationOfGTDebugger>>#baseline03:
 ConfigurationOfGTDebugger>>#baseline04:
 ConfigurationOfGTDebugger>>#baseline05:
+ConfigurationOfGTDebugger>>#customProjectAttributes
 ConfigurationOfGTDebugger>>#development:
+ConfigurationOfGTDebugger>>#project
 ConfigurationOfGTDebugger>>#stable:
 ConfigurationOfGTDebugger>>#version100:
 ConfigurationOfGTDebugger>>#version101:
 ConfigurationOfGTDebugger>>#version11:
 ConfigurationOfGTDebugger>>#version12:
 ConfigurationOfGTDebugger>>#version13:
+ConfigurationOfGTEventRecorder>>#stable:
 ConfigurationOfGTEventRecorder>>#version04:
 ConfigurationOfGTEventRecorder>>#version05:
 ConfigurationOfGTEventRecorder>>#version06:
 ConfigurationOfGTEventRecorder>>#version07:
+ConfigurationOfGTInspectorCore>>#stable:
 ConfigurationOfGTInspectorCore>>#version23:
 ConfigurationOfGTInspectorCore>>#version24:
 ConfigurationOfGTInspectorCore>>#version25:
+ConfigurationOfGTPlaygroundCore>>#stable:
 ConfigurationOfGTPlaygroundCore>>#version24:
 ConfigurationOfGTPlaygroundCore>>#version25:
 ConfigurationOfGTPlaygroundCore>>#version26:
+ConfigurationOfGTSpotter>>#stable:
 ConfigurationOfGTSpotter>>#version15:
 ConfigurationOfGTSpotter>>#version16:
 ConfigurationOfGTSpotter>>#version17:
 ConfigurationOfGTSpotter>>#version18:
 ConfigurationOfGToolkitCore>>#baseline31:
+ConfigurationOfGToolkitCore>>#development:
+ConfigurationOfGToolkitCore>>#stable:
 ConfigurationOfGToolkitCore>>#version33:
 ConfigurationOfGToolkitCore>>#version34:
 ConfigurationOfGToolkitCore>>#version35:
 ConfigurationOfGToolkitCore>>#version36:
 ConfigurationOfGlamourCore>>#baseline33:
+ConfigurationOfGlamourCore>>#development:
+ConfigurationOfGlamourCore>>#stable:
 ConfigurationOfGlamourCore>>#version314Moose51:
 ConfigurationOfGlamourCore>>#version35:
 ConfigurationOfGlamourCore>>#version36:
 ConfigurationOfGlamourCore>>#version37:
+ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric>>#version242:
 ConfigurationOfRubric>>#version25:
-GTBytecodeDebugger class>>#defaultTitle
-GTBytecodeDebugger class>>#sessionClass
-GTBytecodeDebugger class>>#variablesBrowserClass
-GTBytecodeDebugger class>>#register
-GTBytecodeDebugger class>>#registerToolsOn:
-GTBytecodeDebugger
-GTBytecodeDebugger>>#bytecodePane
-GTBytecodeDebugger>>#bytecodePresentation
-GTBytecodeDebugger>>#bytecodeActionsPragmas
-GTBytecodeDebugger>>#bytecodeIn:forContext:
-GTBytecodeDebugger>>#decompiledCodeWidgetIn:forContext:
-GTBytecodeDebugger>>#methodBytecodeWidgetIn:forContext:
-GTBytecodeDebugger>>#methodCodeIn:forContext:
-GTBytecodeDebugger>>#debuggerStructureIn:
-GTBytecodeDebugger>>#debuggerTransmissionsIn:
-GTBytecodeDebugger>>#formatBytecode:
-GTBytecodeDebuggerSession
-GTBytecodeDebuggerSession>>#symbolicBytecodeForCurrentPCFrom:
-GTBytecodeDebuggerSession>>#runToBytecode:inContext:
-GTBytecodeDebuggerSession>>#stepToFirstInterestingBytecodeIn:
-GTBytecodeDebuggerVariablesBrowser
-GTBytecodeDebuggerVariablesBrowser>>#variableTypeOf:in:
-GTBytecodeDebuggerVariablesBrowser>>#variablesFromContext:
-GTBytecodeDebuggerVariablesBrowser>>#variablesIn:
-GTGoAndInspectBytecodeDebugAction class>>#gtBytecodeDebuggerActionFor:
-GTGoAndInspectBytecodeDebugAction
-GTGoAndInspectBytecodeDebugAction>>#defaultLabel
-GTGoAndInspectBytecodeDebugAction>>#id
-GTGoAndInspectBytecodeDebugAction>>#executeAction
-GTGoAndInspectBytecodeDebugAction>>#defaultKeyText
-GTGoAndInspectBytecodeDebugAction>>#initialize
-GTStepToBytecodeDebugAction class>>#gtBytecodeDebuggerActionFor:
-GTStepToBytecodeDebugAction
-GTStepToBytecodeDebugAction>>#defaultLabel
-GTStepToBytecodeDebugAction>>#defaultOrder
-GTStepToBytecodeDebugAction>>#id
-GTStepToBytecodeDebugAction>>#executeAction
-GTStepToBytecodeDebugAction>>#appliesToDebugger:
-Context>>#gtBytecodeDebuggerRetrieveContextValues
-SymbolicBytecode>>#=
-SymbolicBytecode>>#hash
-GTBrowseDebugAction class>>#gtDebugActionsFor:
-GTBrowseDebugAction
-GTBrowseDebugAction>>#receiver
-GTBrowseMethodDebuggerAction class>>#gtActionFor:
-GTBrowseMethodDebuggerAction
-GTBrowseMethodDebuggerAction>>#defaultLabel
-GTBrowseMethodDebuggerAction>>#defaultOrder
-GTBrowseMethodDebuggerAction>>#id
-GTBrowseMethodDebuggerAction>>#executeAction
-GTBrowseMethodDebuggerAction>>#initialize
-GTBrowsingActions
-GTBrowsingActions>>#currentClass
-GTBrowsingActions>>#currentClassOrMetaClass
-GTBrowsingActions>>#currentContext
-GTBrowsingActions>>#currentMessageCategoryName
-GTBrowsingActions>>#currentMessageName
-GTBrowsingActions>>#browseClassRefs
-GTBrowsingActions>>#browseClassVarRefs
-GTBrowsingActions>>#browseClassVariables
-GTBrowsingActions>>#browseInstVarRefs
-GTBrowsingActions>>#browseMessages
-GTBrowsingActions>>#browseMethodFull
-GTBrowsingActions>>#browseSendersOfMessages
-GTBrowsingActions>>#browseVersions
-GTBrowsingActions>>#fileOutMessage
-GTBrowsingActions>>#inspectInstances
-GTBrowsingActions>>#inspectSubInstances
-GTBrowsingActions>>#methodHierarchy
-GTChangeDebuggerAction class>>#changeDebuggerActionsForContext:excluding:
-GTChangeDebuggerAction class>>#debuggersForContext:excluding:
-GTChangeDebuggerAction class>>#gtChangeDebuggerActionsFor:
-GTChangeDebuggerAction
-GTChangeDebuggerAction>>#debuggerClass:
-GTChangeDebuggerAction>>#executeAction
-GTChangeDebuggerAction>>#defaultCategory
-GTChangeDebuggerAction>>#defaultOrder
-GTChangeDebuggerAction>>#initialize
-GTClearEditorDebugAction class>>#gtActionFor:
-GTClearEditorDebugAction
-GTClearEditorDebugAction>>#defaultIcon
-GTClearEditorDebugAction>>#defaultKeyText
-GTClearEditorDebugAction>>#defaultLabel
-GTClearEditorDebugAction>>#defaultOrder
-GTClearEditorDebugAction>>#id
-GTClearEditorDebugAction>>#executeAction
-GTClearEditorDebugAction>>#initialize
-GTCodeDebugAction
-GTCodeDebugAction>>#codePresentation
-GTCodeDebugAction>>#codePresentationSelector
-GTCodeDebugAction>>#codePresentationSelector:
-GTCodeDebugAction>>#initialize
-GTDebugSelectionDebugAction class>>#gtActionFor:
-GTDebugSelectionDebugAction
-GTDebugSelectionDebugAction>>#defaultKeyText
-GTDebugSelectionDebugAction>>#defaultLabel
-GTDebugSelectionDebugAction>>#defaultOrder
-GTDebugSelectionDebugAction>>#id
-GTDebugSelectionDebugAction>>#executeAction
-GTDebugSelectionDebugAction>>#initialize
-GTDebuggerContextPredicate
-GTDebuggerContextPredicate>>#result
-GTDebuggerContextPredicate>>#hasMatched
-GTDebuggerContextPredicate>>#matchContext:
-GTDebuggerContextPredicate>>#matches:
-GTDebuggerInspector
-GTDebuggerInspector>>#debugger
-GTDebuggerInspector>>#debugger:
-GTDebuggerInspector>>#notifyPaneRemoved
-GTDebuggerInspector>>#notifyPaneRemoved:
-GTDebuggerInspector>>#attachExtraBehaviourToPresentationsIn:
-GTDebuggerInspector>>#compose
-GTDebuggerInspector>>#isPresentation:inPane:
-GTDebuggerInspector>>#actOnPaneAdded:
-GTDebuggerInspector>>#actOnPaneRemoved:
-GTDebuggerSystemSettings class>>#debugSettingsOn:
-GTDebuggerSystemSettings
-GTDebuggerVariablesBrowser
-GTDebuggerVariablesBrowser>>#debugger
-GTDebuggerVariablesBrowser>>#debugger:
-GTDebuggerVariablesBrowser>>#compose
-GTDebuggerVariablesBrowser>>#selectedVariableForContext:
-GTDebuggerVariablesBrowser>>#variableTypeOf:in:
-GTDebuggerVariablesBrowser>>#tagsForVariable:from:
-GTDebuggerVariablesBrowser>>#variablesFromContext:
-GTDebuggerVariablesBrowser>>#variablesIn:
-GTDebuggerVariablesBrowser>>#compareVariableTypeOf:withVariable:in:
-GTExecuteSelectionDebugAction class>>#gtActionFor:
-GTExecuteSelectionDebugAction
-GTExecuteSelectionDebugAction>>#defaultKeyText
-GTExecuteSelectionDebugAction>>#defaultLabel
-GTExecuteSelectionDebugAction>>#defaultOrder
-GTExecuteSelectionDebugAction>>#id
-GTExecuteSelectionDebugAction>>#executeAction
-GTExecuteSelectionDebugAction>>#initialize
-GTGenericStackDebugger class>>#filterDoItSelectors:
-GTGenericStackDebugger class>>#filterKernelClasses:
-GTGenericStackDebugger class>>#filterLinkSelectors:
-GTGenericStackDebugger class>>#filterNilSelectors:
-GTGenericStackDebugger class>>#defaultTitle
-GTGenericStackDebugger class>>#sessionClass
-GTGenericStackDebugger class>>#variablesBrowserClass
-GTGenericStackDebugger class>>#alwaysOpenFullDebugger
-GTGenericStackDebugger class>>#alwaysOpenFullDebugger:
-GTGenericStackDebugger class>>#defaultLogFileName
-GTGenericStackDebugger class>>#filterCommonMessageSends
-GTGenericStackDebugger class>>#filterCommonMessageSends:
-GTGenericStackDebugger class>>#filterDoItSelectors
-GTGenericStackDebugger class>>#filterKernelClasses
-GTGenericStackDebugger class>>#filterLinkSelectors
-GTGenericStackDebugger class>>#filterNilSelectors
-GTGenericStackDebugger class>>#logDebuggerStackToFile
-GTGenericStackDebugger class>>#logDebuggerStackToFile:
-GTGenericStackDebugger class>>#logFileName
-GTGenericStackDebugger class>>#logFileName:
-GTGenericStackDebugger class>>#stackWidgetClass
-GTGenericStackDebugger class>>#handlesContext:
-GTGenericStackDebugger class>>#register
-GTGenericStackDebugger class>>#registerExtraToolsOn:
-GTGenericStackDebugger class>>#registerToolsOn:
-GTGenericStackDebugger class>>#closeAllDebuggers
-GTGenericStackDebugger
-GTGenericStackDebugger>>#contextToSelectFrom:
-GTGenericStackDebugger>>#selectedContext
-GTGenericStackDebugger>>#codePane
-GTGenericStackDebugger>>#codePresentation
-GTGenericStackDebugger>>#selectedText
-GTGenericStackDebugger>>#selectedVariableName
-GTGenericStackDebugger>>#selectedVariableName:
-GTGenericStackDebugger>>#selectionInterval
-GTGenericStackDebugger>>#selectionIntervalForPane:
-GTGenericStackDebugger>>#selectionInterval:
-GTGenericStackDebugger>>#sourceCode:
-GTGenericStackDebugger>>#stackPresentation
-GTGenericStackDebugger>>#window
-GTGenericStackDebugger>>#inspect:
-GTGenericStackDebugger>>#codeActionsPragmas
-GTGenericStackDebugger>>#debuggingActionsPragmas
-GTGenericStackDebugger>>#installCodeActionsFor:
-GTGenericStackDebugger>>#installDebuggingActionsFor:
-GTGenericStackDebugger>>#installStackDebuggingActionsFor:
-GTGenericStackDebugger>>#stackDebuggingActionsPragmas
-GTGenericStackDebugger>>#inspectorIn:
-GTGenericStackDebugger>>#inspectorIn:on:
-GTGenericStackDebugger>>#methodCodeIn:forContext:
-GTGenericStackDebugger>>#methodCodeWidgetIn:forContext:
-GTGenericStackDebugger>>#retrieveStackFrom:
-GTGenericStackDebugger>>#stackIn:
-GTGenericStackDebugger>>#stackWidgetIn:
-GTGenericStackDebugger>>#debuggerStructureIn:
-GTGenericStackDebugger>>#debuggerTransmissionsIn:
-GTGenericStackDebugger>>#actOnInspectorPaneRemoved:
-GTGenericStackDebugger>>#send
-GTGenericStackDebugger>>#sugsContext
-GTGenericStackDebugger>>#openWithFullView
-GTGenericStackDebugger>>#openWithNotification:
-GTGenericStackDebugger>>#formatStackEntry:
-GTGenericStackDebugger>>#printStackEntry:
-GTGenericStackDebugger>>#textAttributesForStackEntry:
-GTGenericStackDebugger>>#selectTopContext
-GTGenericStackDebugger>>#selectionChanged:
-GTGenericStackDebugger>>#updateBrowser
-GTGenericStackDebugger>>#updateCodeEditor
-GTGenericStackDebugger>>#updateSelectionInterval
-GTGlamourWrapperDebuggingAction class>>#gtActionFor:
-GTGlamourWrapperDebuggingAction
-GTGlamourWrapperDebuggingAction>>#glamourAction:
-GTGlamourWrapperDebuggingAction>>#asGlamourAction
-GTInspectSelectionDebugAction class>>#gtActionFor:
-GTInspectSelectionDebugAction class>>#gtBasicInspectActionFor:
-GTInspectSelectionDebugAction
-GTInspectSelectionDebugAction>>#defaultKeyText
-GTInspectSelectionDebugAction>>#defaultLabel
-GTInspectSelectionDebugAction>>#defaultOrder
-GTInspectSelectionDebugAction>>#id
-GTInspectSelectionDebugAction>>#executeAction
-GTInspectSelectionDebugAction>>#makeBasicInspect
-GTInspectSelectionDebugAction>>#initialize
-GTMoldableDebugger class>>#defaultTitle
-GTMoldableDebugger class>>#sessionClass
-GTMoldableDebugger class>>#spanNewSessionFrom:
-GTMoldableDebugger class>>#taskbarIcon
-GTMoldableDebugger class>>#on:
-GTMoldableDebugger class>>#debugSession:
-GTMoldableDebugger class>>#openOn:withFullView:
-GTMoldableDebugger class>>#openOn:withFullView:andNotification:
-GTMoldableDebugger class>>#spanNewSessionForContext:fromProcess:
-GTMoldableDebugger class>>#spanNewSessionLabeled:forContext:fromProcess:
-GTMoldableDebugger class>>#enableDebuggerWindowDistinctColor
-GTMoldableDebugger class>>#enableDebuggerWindowDistinctColor:
-GTMoldableDebugger class>>#enableStackColoring
-GTMoldableDebugger class>>#enableStackColoring:
-GTMoldableDebugger class>>#isGTDebuggerEnabled
-GTMoldableDebugger class>>#setGTDebuggerEnabledStatus:
-GTMoldableDebugger class>>#availableAutomatically
-GTMoldableDebugger class>>#handlesContext:
-GTMoldableDebugger class>>#patchworkUIThemeColor
-GTMoldableDebugger
-GTMoldableDebugger>>#currentContext
-GTMoldableDebugger>>#interruptedContext
-GTMoldableDebugger>>#selectedContext
-GTMoldableDebugger>>#browser
-GTMoldableDebugger>>#currentClass
-GTMoldableDebugger>>#currentClassOrMetaClass
-GTMoldableDebugger>>#currentMessageCategoryName
-GTMoldableDebugger>>#currentMessageName
-GTMoldableDebugger>>#interruptedProcess
-GTMoldableDebugger>>#session
-GTMoldableDebugger>>#session:
-GTMoldableDebugger>>#title
-GTMoldableDebugger>>#browseClassRefs
-GTMoldableDebugger>>#browseClassVarRefs
-GTMoldableDebugger>>#browseClassVariables
-GTMoldableDebugger>>#browseInstVarRefs
-GTMoldableDebugger>>#browseMessages
-GTMoldableDebugger>>#browseMethodFull
-GTMoldableDebugger>>#browseSendersOfMessages
-GTMoldableDebugger>>#browseVersions
-GTMoldableDebugger>>#close
-GTMoldableDebugger>>#debug:using:
-GTMoldableDebugger>>#detachSession
-GTMoldableDebugger>>#fileOutMessage
-GTMoldableDebugger>>#inspectInstances
-GTMoldableDebugger>>#inspectSubInstances
-GTMoldableDebugger>>#methodHierarchy
-GTMoldableDebugger>>#actionsForPragmas:
-GTMoldableDebugger>>#allActionsForPragmas:
-GTMoldableDebugger>>#installActionsForRootPragmas:in:
-GTMoldableDebugger>>#installDebuggingActionsFor:
-GTMoldableDebugger>>#compose
-GTMoldableDebugger>>#debuggerStructureIn:
-GTMoldableDebugger>>#debuggerTransmissionsIn:
-GTMoldableDebugger>>#registerActions
-GTMoldableDebugger>>#actOnBrowserClosing:
-GTMoldableDebugger>>#actOnInspectorPaneRemoved:
-GTMoldableDebugger>>#windowIsClosing
-GTMoldableDebugger>>#initialExtent
-GTMoldableDebugger>>#openOn:
-GTMoldableDebugger>>#updateBrowser
-GTMoldableDebugger>>#updateBrowserFrom:
-GTPrintSelectionDebugAction class>>#gtActionFor:
-GTPrintSelectionDebugAction
-GTPrintSelectionDebugAction>>#defaultKeyText
-GTPrintSelectionDebugAction>>#defaultLabel
-GTPrintSelectionDebugAction>>#defaultOrder
-GTPrintSelectionDebugAction>>#id
-GTPrintSelectionDebugAction>>#executeAction
-GTPrintSelectionDebugAction>>#initialize
-GTProfileSelectionDebugAction class>>#gtActionFor:
-GTProfileSelectionDebugAction
-GTProfileSelectionDebugAction>>#defaultLabel
-GTProfileSelectionDebugAction>>#defaultOrder
-GTProfileSelectionDebugAction>>#id
-GTProfileSelectionDebugAction>>#executeAction
-GTProfileSelectionDebugAction>>#initialize
-GTRunToSelectionDebugAction class>>#gtActionFor:
-GTRunToSelectionDebugAction
-GTRunToSelectionDebugAction>>#defaultOrder
-GTRunToSelectionDebugAction>>#id
-GTRunToSelectionDebugAction>>#executeAction
-GTSaveDebugAction class>>#gtActionFor:
-GTSaveDebugAction
-GTSaveDebugAction>>#defaultKeyText
-GTSaveDebugAction>>#id
-GTSaveDebugAction>>#executeAction
-GTSaveDebugAction>>#defaultLabel
-GTSaveDebugAction>>#defaultOrder
-GTSelectionGoDebugAction class>>#gtActionFor:
-GTSelectionGoDebugAction
-GTSelectionGoDebugAction>>#defaultKeyText
-GTSelectionGoDebugAction>>#defaultLabel
-GTSelectionGoDebugAction>>#defaultOrder
-GTSelectionGoDebugAction>>#id
-GTSelectionGoDebugAction>>#executeAction
-GTSelectionGoDebugAction>>#initialize
-GTTemporaryPreDebugChangeDebuggerAction class>>#actionType
-GTTemporaryPreDebugChangeDebuggerAction
-GTTemporaryPreDebugChangeDebuggerAction>>#defaultLabel
-GTTemporaryPreDebugChangeDebuggerAction>>#defaultOrder
-GTTemporaryPreDebugChangeDebuggerAction>>#id
-GTTemporaryPreDebugChangeDebuggerAction>>#preDebugWindow
-GTTemporaryPreDebugChangeDebuggerAction>>#preDebugWindow:
-GTTemporaryPreDebugChangeDebuggerAction>>#executeAction
-GTWhereIsDebugAction class>>#gtActionFor:
-GTWhereIsDebugAction
-GTWhereIsDebugAction>>#defaultOrder
-GTWhereIsDebugAction>>#id
-GTWhereIsDebugAction>>#executeAction
 Context>>#findContextMatchingPredicate:
+Context>>#gtBytecodeDebuggerRetrieveContextValues
 Context>>#gtConstructDebuggerInspectorIn:for:
 Context>>#gtDebuggerRetrieveVariableValuePairs
 Context>>#reservedNames
 CopyToClipboardDebugAction class>>#gtActionFor:
+DateAndTime>>#gtDebuggerSUnitPrint
 DebugAction>>#asGlamourAction
 DebugContext>>#gtDebuggerRetrieveVariableValuePairs
 DebugSession>>#isActive:
-DoesNotUnderstandDebugAction class>>#gtStackDebuggingActionFor:
-FuelOutStackDebugAction class>>#gtActionFor:
-Object>>#gtConstructDebuggerInspectorIn:for:
-Object>>#gtDebuggerEvaluatorIn:
-Object>>#gtDebuggerPresentationsIn:inContext:
-Object>>#gtDebuggerStateIn:
-PeelToFirstDebugAction class>>#gtActionType
-Pharo3DarkTheme>>#sameClassContextStyleFor:
-Pharo3DarkTheme>>#samePackageContextStyleFor:
-Pharo3DarkTheme>>#unrelatedContextStyleFor:
-RestartDebugAction class>>#gtGlobalDebuggingActionFor:
-RestartDebugAction class>>#gtStackDebuggingActionFor:
-ResumeDebugAction class>>#gtGlobalDebuggingActionFor:
-ResumeDebugAction class>>#gtStackDebuggingActionFor:
-ReturnValueDebugAction class>>#gtActionType
-RunToSelectionDebugAction class>>#gtActionFor:
-SpecDebugger class>>#availableAutomatically
-SpecDebugger class>>#handlesContext:
-SpecDebugger class>>#spanNewSessionFrom:
-StepIntoDebugAction class>>#gtGlobalDebuggingActionFor:
-StepIntoDebugAction class>>#gtStackDebuggingActionFor:
-StepOverDebugAction class>>#gtGlobalDebuggingActionFor:
-StepOverDebugAction class>>#gtStackDebuggingActionFor:
-StepThroughDebugAction class>>#gtGlobalDebuggingActionFor:
-StepThroughDebugAction class>>#gtStackDebuggingActionFor:
-SubclassResponsabilityDebugAction class>>#gtStackDebuggingActionFor:
-ToolRegistry>>#debuggerDispatcherFor:matching:
-ToolRegistry>>#debuggersForContext:
-ToolRegistry>>#debuggersMatching:
-ToolRegistry>>#debuggersWithRanksMatching:
-ToolRegistry>>#registerDebugger:withRank:
-ToolRegistry>>#registeredDebuggersWithRanks
-UITheme>>#sameClassContextStyleFor:
-UITheme>>#samePackageContextStyleFor:
-UITheme>>#styleContext:from:
-UITheme>>#unrelatedContextStyleFor:
-GTEventCollectorTest>>#testUpdateAnnouncement
-GTEventPackingTest>>#testNewAnnouncementFor
-GTEventPackingTest>>#testNewAnnouncementFor2
-GTEventCollector>>#addIfAvailable:
-GTEventCollector>>#updateAnnouncementBlock:
-GTEventCollector>>#updateAnnouncement:
-GTEventRecorder class>>#initializeUniqueInstance
-GTEventRecorder class>>#registerInterestToSystemAnnouncement
-GTEventRecorder>>#privacyChanged
-PrivacyChangedAnnoucement
-GTExample>>#initializeIconWith:
-GTExample>>#gtSpotterProviderFor:
-GTExample>>#gtSpotterSourceFor:
-GTExample>>#gtSpotterSubjectsFor:
-GTExampleFinder class>>#gtSpotterExamplesFor:
-GTExampleNautilus>>#onProvider:builder:
-GTExampleNautilus>>#onSource:builder:
-GTProtoObjectVariablesBrowser
-GTProtoObjectVariablesBrowser>>#printStringOf:
-GTProtoObjectVariablesBrowser>>#variableValuePairsFor:
-GTRawObjectVariablesBrowser
-GTRawObjectVariablesBrowser>>#compose
-GTRawObjectVariablesBrowser>>#printStringOf:
-GTRawObjectVariablesBrowser>>#variableValuePairsFor:
-ProtoObject>>#gtInspectorRawIn:
-ProtoObject class>>#gtExampleBasic
-TClass>>#gtInspectorDefinitionIn:
-GTSUnitActivationPredicate
-GTSUnitActivationPredicate>>#matchContext:
-GTSUnitDebugSession class>>#activationPredicate
-GTSUnitDebugSession
-GTSUnitDebugSession>>#actualResult
-GTSUnitDebugSession>>#expectedResult
-GTSUnitDebugSession>>#setUpMethod
-GTSUnitDebugSession>>#tearDownMethod
-GTSUnitDebugSession>>#testContext
-GTSUnitDebugSession>>#testObject
-GTSUnitDebugSession>>#process:context:
-GTSUnitDebugSession>>#isActive
-GTSUnitDebugSession>>#isActive:
-GTSUnitDebugger class>>#defaultTitle
-GTSUnitDebugger class>>#sessionClass
-GTSUnitDebugger class>>#availableAutomatically
-GTSUnitDebugger class>>#handlesContext:
-GTSUnitDebugger class>>#lookupStackSize
-GTSUnitDebugger class>>#register
-GTSUnitDebugger class>>#registerToolsOn:
-GTSUnitDebugger
-GTSUnitDebugger>>#contextToSelectFrom:
-GTSUnitDebugger>>#inspectorDiffIn:
-GTSUnitDebugger>>#inspectorIn:
-GTSUnitDebugger>>#setUpCodeIn:
-GTSUnitDebugger>>#tearDownCodeIn:
-GTSUnitDebugger>>#textualDiffIn:
-GTSUnitDebugger>>#debuggerStructureIn:
-GTSUnitDebugger>>#debuggerTransmissionsIn:
-GTSUnitDebugger>>#updateBrowser
-GTSUnitExampleFailingTest class>>#isAbstract
-GTSUnitExampleFailingTest class>>#isUnitTest
-GTSUnitExampleFailingTest
-GTSUnitExampleFailingTest>>#testArrays
-GTSUnitExampleFailingTest>>#testDictionary
-GTSUnitExampleFailingTest>>#testFailingDate
-GTSUnitExampleFailingTest>>#testFailingText
-GTSUnitExampleFailingTest>>#testMultiValuedStreaming
-Collection>>#gtDebuggerSUnitPrint
-DateAndTime>>#gtDebuggerSUnitPrint
 Dictionary>>#gtDebuggerSUnitPrint
-Object>>#gtDebuggerSUnitPrint
-String>>#gtDebuggerSUnitPrint
-GTSelectorImplementors class>>#gtExampleNew
-GTSelectorImplementors class>>#substring:filter:
-GTSelectorImplementors
-GTSelectorImplementors>>#addMethod:
-GTSelectorImplementors>>#name
-GTSelectorImplementors>>#name:
-GTSelectorImplementors>>#initialize
-GTSelectorImplementors>>#gtDisplayOn:
-GTSelectorImplementors>>#implementors
-GTSelectorImplementors>>#senders
-GTSelectorImplementors>>#spotterImplementorsFor:
-GTSelectorImplementors>>#spotterPreviewIn:
-GTSelectorImplementors>>#spotterSendersFor:
-PragmaType>>#spotterPreviewItemsIn:
-PragmaType>>#spotterSendersFor:
-GTSpotter>>#spotterForReferencesFor:
-GTSpotter>>#spotterForSelectorsFor:
-GTSpotter>>#spotterForSendersFor:
-SystemNavigation>>#allReferencesToSubstring:do:
-SystemNavigation>>#allReferencesTo:do:
-SystemNavigation>>#allSendersToSubstring:do:
-TBehavior>>#withMethodSender:do:
-TBehavior>>#withMethodsReferTo:do:
-TBehavior>>#withThorougMethodsReferTo:do:
-GTBytecodeDebuggerSmokeTest
-GTBytecodeDebuggerSmokeTest>>#contextToTest
-GTBytecodeDebuggerSmokeTest>>#debuggerToTest
-GTBytecodeDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
-GTDebuggerSmokeTest class>>#isAbstract
-GTDebuggerSmokeTest
-GTDebuggerSmokeTest>>#contextToTest
-GTDebuggerSmokeTest>>#debuggerToTest
-GTDebuggerSmokeTest>>#instantiateSession
-GTDebuggerSmokeTest>>#setUp
-GTDebuggerSmokeTest>>#tearDown
-GTDebuggerSmokeTest>>#testDebugger
-GTDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
-GTGenericStackDebuggerSmokeTest
-GTGenericStackDebuggerSmokeTest>>#contextToTest
-GTGenericStackDebuggerSmokeTest>>#debuggerToTest
-GTGenericStackDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
-GTGenericStackDebuggerTest
-GTGenericStackDebuggerTest>>#testBasic
-GTSUnitDebuggerSmokeTest
-GTSUnitDebuggerSmokeTest>>#contextToTest
-GTSUnitDebuggerSmokeTest>>#debuggerToTest
-GTSUnitDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
-GTInspectorProtoObjectTest
-GTInspectorProtoObjectTest>>#testInspectDoesNotCrash
-GLMDashboard>>#layoutOfPaneNamed:
-GLMDashboard>>#panesLayouts
-GLMDashboard>>#addPaneNamed:
-GLMDashboard>>#addPaneNamed:layout:
+DoesNotUnderstandDebugAction class>>#gtStackDebuggingActionFor:
+FileReference>>#gtInspectorActionMaterializeFuel
+FileReference>>#gtInspectorContentsIn:
+FileReference>>#gtInspectorFuelIn:
+FileReference>>#gtInspectorGifIn:
+FileReference>>#gtInspectorJpegIn:
+FileReference>>#gtInspectorPngIn:
+FileReference>>#gtInspectorStScriptIn:
+FuelOutStackDebugAction class>>#gtActionFor:
+GLMAction
 GLMAction>>#shouldShowTitle
 GLMAction>>#shouldShowTitle:
 GLMAction>>#showTitle
+GLMAllNotNilCondition>>#glamourValueWithArgs:
 GLMBasicExamples>>#actionsWithShowTitle
 GLMBasicExamples>>#dashboardWithSpecificLayouts
-GLMDataSourceUpdated class>>#newDataSource:
-GLMDataSourceUpdated
-GLMDataSourceUpdated>>#newDataSource
-GLMDataSourceUpdated>>#newDataSource:
-GLMFastListDataSource
-GLMFastListDataSource>>#actionColumn:
-GLMFastListDataSource>>#cellColumn:row:
-GLMFastListDataSource>>#elements
-GLMFastListDataSource>>#glamourPresentation
-GLMFastListDataSource>>#glamourPresentation:
-GLMFastListDataSource>>#headerColumn:
-GLMFastListDataSource>>#resetElements
-GLMFastListDataSource>>#tagsToFilterBy
-GLMFastListDataSource>>#announcer
-GLMFastListDataSource>>#dragTransferType
-GLMFastListDataSource>>#dropElements:index:
-GLMFastListDataSource>>#wantsDropElements:type:index:
-GLMFastListDataSource>>#rowMorphForElement:
-GLMFastListDataSource>>#viewRowMorphForColumn:element:
-GLMFastListDataSource>>#resetChildrenContent
-GLMFastListDataSource>>#selectTable:element:
-GLMFastListOutlineDataSource
-GLMFastListOutlineDataSource>>#basicItems
-GLMFastListOutlineDataSource>>#calculateItems
-GLMFastListOutlineDataSource>>#cellColumn:row:
-GLMFastListOutlineDataSource>>#glamourPresentation
-GLMFastListOutlineDataSource>>#glamourPresentation:
-GLMFastListOutlineDataSource>>#items
-GLMFastListOutlineDataSource>>#tagsToFilterBy
-GLMFastListOutlineDataSource>>#announcer
-GLMFastListOutlineDataSource>>#rowMorphForElement:
-GLMFastListOutlineDataSource>>#elementShouldBeDisplayed:
-GLMFastListOutlineDataSource>>#resetChildrenContent
-GLMFastListPresentation
-GLMFastListPresentation>>#parameters
-GLMFastListPresentation>>#initialize
-GLMFastListPresentation>>#withSeparators
-GLMFastListPresentation>>#renderGlamorouslyOn:
-GLMFastListPresentation>>#allowSeparators
-GLMFastTableColumn
-GLMFastTableColumn>>#glamourColumn
-GLMFastTableColumn>>#glamourColumn:
-GLMFastTableColumn>>#target:actionSelector:arguments:
-GLMFastTableColumn>>#execute
-GLMFastTableDataSource
-GLMFastTableDataSource>>#cellColumn:row:
-GLMFastTableDataSource>>#sortByColumn:
-GLMFastTableDataSource>>#editRowMorphForColumn:element:
-GLMFastTableDataSource>>#rowMorphForColumn:element:
-GLMFastTableDataSource>>#elementsSorted
-GLMFastTableDataSource>>#sortBlock
-GLMFastTablePresentation
-GLMFastTablePresentation>>#parameters
-GLMFastTablePresentation>>#initialize
-GLMFastTablePresentation>>#renderGlamorouslyOn:
-GLMFastTreeDataSource
-GLMFastTreeDataSource>>#announcer
-GLMFastTreeDataSource>>#cellColumn:row:
-GLMFastTreeDataSource>>#glamourPresentation
-GLMFastTreeDataSource>>#glamourPresentation:
-GLMFastTreeDataSource>>#resetElements
-GLMFastTreeDataSource>>#rootItem
-GLMFastTreeDataSource>>#tagsToFilterBy
-GLMFastTreeDataSource>>#newStaticItemFrom:
-GLMFastTreeDataSource>>#basicRoots
-GLMFastTreeDataSource>>#createRootItem
-GLMFastTreeDataSource>>#resetChildrenContent
-GLMFastTreeDataSource>>#rowMorphForItem:
-GLMFastTreeDataSource>>#explicitSelection:
-GLMFastTreeDataSource>>#selection:
-GLMFastTreeDataSource>>#strongSelection:
-GLMFastTreeDataSource>>#matchingTag:
-GLMFastTreePresentation
-GLMFastTreePresentation>>#maxDepth
-GLMFastTreePresentation>>#parameters
-GLMFastTreePresentation>>#strategy
-GLMFastTreePresentation>>#initialize
-GLMFastTreePresentation>>#expandedUntil:
-GLMFastTreePresentation>>#maxDepth:
-GLMFastTreePresentation>>#strategy:
-GLMFastTreePresentation>>#renderGlamorouslyOn:
-GLMMorphicFTRenderer
-GLMMorphicFTRenderer>>#addFastTableIn:
-GLMMorphicFTRenderer>>#setFastTableLayoutFrame:
-GLMMorphicFTRenderer>>#createDataSourceFrom:
-GLMMorphicFTRenderer>>#createFastTable
-GLMMorphicFTRenderer>>#initializeTableModel:
-GLMMorphicFTRenderer>>#initializeTableMorph
-GLMMorphicFTRenderer>>#specificDataSourceInitializiation
-GLMMorphicFTRenderer>>#specificTableMorphInitializiation
-GLMMorphicFTRenderer>>#dataSourceUpdated:
-GLMMorphicFTRenderer>>#initializeAnnoucementForPresentation:
-GLMMorphicFTRenderer>>#initializeAnnouncementForDataSource
-GLMMorphicFTRenderer>>#suspendedAnnouncements
-GLMMorphicFTRenderer>>#unsubscribeDataSource:
-GLMMorphicFTRenderer>>#actOnContextChanged:
-GLMMorphicFTRenderer>>#actOnUpdatedPresentation:
-GLMMorphicFTRenderer>>#render:
-GLMMorphicFastListRenderer
-GLMMorphicFastListRenderer>>#createDataSourceFrom:
-GLMMorphicFastTableRenderer
-GLMMorphicFastTableRenderer>>#createDataSourceFrom:
-GLMMorphicFastTableRenderer>>#specificTableMorphInitializiation
-GLMMorphicFastTreeRenderer
-GLMMorphicFastTreeRenderer>>#createDataSourceFrom:
-GLMMorphicFastTreeRenderer>>#specificDataSourceInitializiation
-GLMMorphicFastTreeRenderer>>#specificTableMorphInitializiation
-TGLMFastTable
-TGLMFastTable>>#allMenuActions
-TGLMFastTable>>#glamourPresentation
-TGLMFastTable>>#glamourPresentation:
-TGLMFastTable>>#announcer
-TGLMFastTable>>#when:do:
-TGLMFastTable>>#when:send:to:
-TGLMFastTable>>#newDataSourceMatching:
-TGLMFastTable>>#executeMenuAction:
-TGLMFastTable>>#menuColumn:row:
-TGLMFastTable>>#basicElements
-TGLMFastTable>>#calculateElements
-TGLMFastTable>>#collectionToDragPassenger:
-TGLMFastTable>>#elementOrZeroAt:
-TGLMFastTable>>#elementShouldBeDisplayed:
-TGLMFastTable>>#readyToBeDisplayed
-TGLMFastTable>>#explicitSelection:
-TGLMFastTable>>#selection:
-TGLMFastTable>>#strongSelection:
-TGLMFastTableFunctionsPresentation
-TGLMFastTableFunctionsPresentation>>#actionBlock
-TGLMFastTableFunctionsPresentation>>#actionName
-TGLMFastTableFunctionsPresentation>>#parameters
-TGLMFastTableFunctionsPresentation>>#enableFilter
-TGLMFastTableFunctionsPresentation>>#enableFilterWithAction:
-TGLMFastTableFunctionsPresentation>>#enableFilterWithAction:named:
-TGLMFastTableFunctionsPresentation>>#enableSearch
-TGLMFastTableFunctionsPresentation>>#filterOn:
-TGLMFastTableFunctionsPresentation>>#searchOn:
-TGLMFastTableFunctionsPresentation>>#isFilterable
-TGLMFastTableFunctionsPresentation>>#isSearchable
-TGLMFastTableFunctionsPresentation>>#needActionButton
-TGLMFastTableTag
-TGLMFastTableTag>>#shouldFilterByTag:
-TGLMFastTableTag>>#tagsToFilterBy
-TGLMFastTableTag>>#toggleFilteringByTag:
-TGLMFastTableTag>>#buttonForTag:filter:
-TGLMFastTableTag>>#tagMorphsFrom:for:
-TGLMFastTableTag>>#resetChildrenContent
 GLMBasicExamples>>#fastListDragAndDrop
 GLMBasicExamples>>#fastListDropDown
 GLMBasicExamples>>#fastListFunctions
@@ -711,65 +102,284 @@ GLMBasicExamples>>#tagBlockWith:
 GLMCompositePresentation>>#fastList
 GLMCompositePresentation>>#fastTable
 GLMCompositePresentation>>#fastTree
-GLMMorphicRenderer>>#renderFastListPresentation:
-GLMMorphicRenderer>>#renderFastTablePresentation:
-GLMMorphicRenderer>>#renderFastTreePresentation:
-GLMPager>>#minimumPageNumberForScrollbar
-GLMPager>>#minimumPageNumberForScrollbar:
-GLMPagerModel>>#minimumPageNumberForScrollbar
-GLMPagerModel>>#minimumPageNumberForScrollbar:
-GLMMorphicDashboardRenderer>>#render:
-GLMRubricSmalltalkTextModel>>#selectedMethod
-GLMDynamicPresentation>>#updateToolbar
-GLMTextEditorRequest>>#action
-GLMTextEditorRequest>>#action:
+GLMCompositePresentation>>#initialize
+GLMCompositePresentation>>#initializePresentation
+GLMDashboard
+GLMDashboard>>#addPaneNamed:
+GLMDashboard>>#addPaneNamed:layout:
+GLMDashboard>>#layoutOfPaneNamed:
+GLMDashboard>>#panesLayouts
 GLMDashboardTest>>#compareLayout:with:
 GLMDashboardTest>>#testDefaultLayouts
 GLMDashboardTest>>#testPanesAndLayouts
-RubAbstractTextArea>>#extendSelection:
-RubAbstractTextArea>>#modifySelection:
-RubAbstractTextArea>>#shrinkSelection:
-RubCharacterBlock>>#distance:
-ScriptLoader>>#update50524
-ConfigurationOfGTEventRecorder>>#stable:
-ConfigurationOfGTInspectorCore>>#stable:
-ConfigurationOfGTPlaygroundCore>>#stable:
-ConfigurationOfGTSpotter>>#stable:
-ConfigurationOfGToolkitCore>>#development:
-ConfigurationOfGToolkitCore>>#stable:
-ConfigurationOfGlamourCore>>#development:
-ConfigurationOfGlamourCore>>#stable:
-ConfigurationOfRubric>>#stable:
-GTEventCollectorTest>>#testCreationTime
-GTEventCollectorsTest>>#testDo
-GTEventCollectorsTest>>#testDo2
-GTEventRecorderTest>>#setUp
-GTEventBundle
-GTEventCollector
-GTEventCollector>>#bundle
-GTEventCollector>>#category:
-GTEventCollector>>#creationTime
-GTEventCollector>>#registry
-GTEventCollector>>#size
-GTEventCollector>>#url
-GTEventCollector>>#url:
-GTEventCollector>>#add:
-GTEventCollector>>#defaultCategory
-GTEventCollectors
-GTEventConsolidate
-GTEventDelivery
-GTEventMultiBundle
-GTEventMultiBundleFactory
-GTEventPacking
-GTEventPacking>>#newAnnouncementFor:
-GTEventRecorder class>>#reset
-GTEventRecorder class>>#uniqueInstance
-GTEventRecorder>>#initialize
-GTEventRegistry
-GTEventUnpacking
-GTFuelPacking
-GTStonPacking
-Privacy class>>#sendDiagnosticsAndUsageData:
+GLMDataSourceUpdated
+GLMDataSourceUpdated class>>#newDataSource:
+GLMDataSourceUpdated>>#newDataSource
+GLMDataSourceUpdated>>#newDataSource:
+GLMDynamicPresentation>>#outerPortEvent:
+GLMDynamicPresentation>>#updateToolbar
+GLMErrorPopper>>#initializeTextMorph
+GLMFastListDataSource
+GLMFastListDataSource>>#actionColumn:
+GLMFastListDataSource>>#announcer
+GLMFastListDataSource>>#cellColumn:row:
+GLMFastListDataSource>>#dragTransferType
+GLMFastListDataSource>>#dropElements:index:
+GLMFastListDataSource>>#elements
+GLMFastListDataSource>>#glamourPresentation
+GLMFastListDataSource>>#glamourPresentation:
+GLMFastListDataSource>>#headerColumn:
+GLMFastListDataSource>>#resetChildrenContent
+GLMFastListDataSource>>#resetElements
+GLMFastListDataSource>>#rowMorphForElement:
+GLMFastListDataSource>>#selectTable:element:
+GLMFastListDataSource>>#tagsToFilterBy
+GLMFastListDataSource>>#viewRowMorphForColumn:element:
+GLMFastListDataSource>>#wantsDropElements:type:index:
+GLMFastListOutlineDataSource
+GLMFastListOutlineDataSource>>#announcer
+GLMFastListOutlineDataSource>>#basicItems
+GLMFastListOutlineDataSource>>#calculateItems
+GLMFastListOutlineDataSource>>#cellColumn:row:
+GLMFastListOutlineDataSource>>#elementShouldBeDisplayed:
+GLMFastListOutlineDataSource>>#glamourPresentation
+GLMFastListOutlineDataSource>>#glamourPresentation:
+GLMFastListOutlineDataSource>>#items
+GLMFastListOutlineDataSource>>#resetChildrenContent
+GLMFastListOutlineDataSource>>#rowMorphForElement:
+GLMFastListOutlineDataSource>>#tagsToFilterBy
+GLMFastListPresentation
+GLMFastListPresentation>>#allowSeparators
+GLMFastListPresentation>>#initialize
+GLMFastListPresentation>>#parameters
+GLMFastListPresentation>>#renderGlamorouslyOn:
+GLMFastListPresentation>>#withSeparators
+GLMFastTableColumn
+GLMFastTableColumn>>#execute
+GLMFastTableColumn>>#glamourColumn
+GLMFastTableColumn>>#glamourColumn:
+GLMFastTableColumn>>#target:actionSelector:arguments:
+GLMFastTableDataSource
+GLMFastTableDataSource>>#cellColumn:row:
+GLMFastTableDataSource>>#editRowMorphForColumn:element:
+GLMFastTableDataSource>>#elementsSorted
+GLMFastTableDataSource>>#rowMorphForColumn:element:
+GLMFastTableDataSource>>#sortBlock
+GLMFastTableDataSource>>#sortByColumn:
+GLMFastTablePresentation
+GLMFastTablePresentation>>#initialize
+GLMFastTablePresentation>>#parameters
+GLMFastTablePresentation>>#renderGlamorouslyOn:
+GLMFastTreeDataSource
+GLMFastTreeDataSource>>#announcer
+GLMFastTreeDataSource>>#basicRoots
+GLMFastTreeDataSource>>#cellColumn:row:
+GLMFastTreeDataSource>>#createRootItem
+GLMFastTreeDataSource>>#explicitSelection:
+GLMFastTreeDataSource>>#glamourPresentation
+GLMFastTreeDataSource>>#glamourPresentation:
+GLMFastTreeDataSource>>#matchingTag:
+GLMFastTreeDataSource>>#newStaticItemFrom:
+GLMFastTreeDataSource>>#resetChildrenContent
+GLMFastTreeDataSource>>#resetElements
+GLMFastTreeDataSource>>#rootItem
+GLMFastTreeDataSource>>#rowMorphForItem:
+GLMFastTreeDataSource>>#selection:
+GLMFastTreeDataSource>>#strongSelection:
+GLMFastTreeDataSource>>#tagsToFilterBy
+GLMFastTreePresentation
+GLMFastTreePresentation>>#expandedUntil:
+GLMFastTreePresentation>>#initialize
+GLMFastTreePresentation>>#maxDepth
+GLMFastTreePresentation>>#maxDepth:
+GLMFastTreePresentation>>#parameters
+GLMFastTreePresentation>>#renderGlamorouslyOn:
+GLMFastTreePresentation>>#strategy
+GLMFastTreePresentation>>#strategy:
+GLMMorphicActionRenderer>>#render:
+GLMMorphicDashboardRenderer>>#render:
+GLMMorphicDashboardRenderer>>#renderPane:inUI:from:
+GLMMorphicFTRenderer
+GLMMorphicFTRenderer>>#actOnContextChanged:
+GLMMorphicFTRenderer>>#actOnUpdatedPresentation:
+GLMMorphicFTRenderer>>#addFastTableIn:
+GLMMorphicFTRenderer>>#createDataSourceFrom:
+GLMMorphicFTRenderer>>#createFastTable
+GLMMorphicFTRenderer>>#dataSourceUpdated:
+GLMMorphicFTRenderer>>#initializeAnnoucementForPresentation:
+GLMMorphicFTRenderer>>#initializeAnnouncementForDataSource
+GLMMorphicFTRenderer>>#initializeTableModel:
+GLMMorphicFTRenderer>>#initializeTableMorph
+GLMMorphicFTRenderer>>#render:
+GLMMorphicFTRenderer>>#setFastTableLayoutFrame:
+GLMMorphicFTRenderer>>#specificDataSourceInitializiation
+GLMMorphicFTRenderer>>#specificTableMorphInitializiation
+GLMMorphicFTRenderer>>#suspendedAnnouncements
+GLMMorphicFTRenderer>>#unsubscribeDataSource:
+GLMMorphicFastListRenderer
+GLMMorphicFastListRenderer>>#createDataSourceFrom:
+GLMMorphicFastTableRenderer
+GLMMorphicFastTableRenderer>>#createDataSourceFrom:
+GLMMorphicFastTableRenderer>>#specificTableMorphInitializiation
+GLMMorphicFastTreeRenderer
+GLMMorphicFastTreeRenderer>>#createDataSourceFrom:
+GLMMorphicFastTreeRenderer>>#specificDataSourceInitializiation
+GLMMorphicFastTreeRenderer>>#specificTableMorphInitializiation
+GLMMorphicPagerRenderer>>#render:
+GLMMorphicPharoMethodRenderer>>#morph
+GLMMorphicPharoScriptRenderer>>#morph
+GLMMorphicRenderer>>#renderFastListPresentation:
+GLMMorphicRenderer>>#renderFastTablePresentation:
+GLMMorphicRenderer>>#renderFastTreePresentation:
+GLMMorphicRubricTextRenderer>>#actOnTextEditorRequest:
+GLMMorphicTabulatorRenderer>>#margin
+GLMMorphicWidgetRenderer>>#renderToolbarForPresentation:inMorph:
+GLMPager
+GLMPager>>#minimumPageNumberForScrollbar
+GLMPager>>#minimumPageNumberForScrollbar:
+GLMPagerBrick>>#showOrHideScrollBar
+GLMPagerModel
+GLMPagerModel>>#minimumPageNumberForScrollbar
+GLMPagerModel>>#minimumPageNumberForScrollbar:
+GLMPresentation>>#transformation
+GLMRubricSmalltalkTextModel>>#selectedMethod
+GLMTextEditorRequest
+GLMTextEditorRequest class>>#for:
+GLMTextEditorRequest>>#action
+GLMTextEditorRequest>>#action:
+GLMTreeMorphicTest>>#testTreeAllowDeseletion
+GLMTreeMorphicTest>>#testTreeDefaultAllowDeseletion
+GLMTreeMorphicTest>>#testTreeMultipleSelection
+GLMTreeMorphicTest>>#testTreeMultipleSelectionWithCancellation
+GLMTreeMorphicTest>>#testTreeSelection
+GLMTreeMorphicTest>>#testTreeSelectionCancellation
+GLMTreeMorphicTest>>#testTreeWithTags
+GLMTreeMorphicTest>>#treeRoots
+GLMWatcherMorphicTest>>#testSimple
+GLMWatcherWindow>>#addContent:
+GTBrowseDebugAction
+GTBrowseDebugAction class>>#gtDebugActionsFor:
+GTBrowseDebugAction>>#receiver
+GTBrowseMethodDebuggerAction
+GTBrowseMethodDebuggerAction class>>#gtActionFor:
+GTBrowseMethodDebuggerAction>>#defaultLabel
+GTBrowseMethodDebuggerAction>>#defaultOrder
+GTBrowseMethodDebuggerAction>>#executeAction
+GTBrowseMethodDebuggerAction>>#id
+GTBrowseMethodDebuggerAction>>#initialize
+GTBrowsingActions
+GTBrowsingActions>>#browseClassRefs
+GTBrowsingActions>>#browseClassVarRefs
+GTBrowsingActions>>#browseClassVariables
+GTBrowsingActions>>#browseInstVarRefs
+GTBrowsingActions>>#browseMessages
+GTBrowsingActions>>#browseMethodFull
+GTBrowsingActions>>#browseSendersOfMessages
+GTBrowsingActions>>#browseVersions
+GTBrowsingActions>>#currentClass
+GTBrowsingActions>>#currentClassOrMetaClass
+GTBrowsingActions>>#currentContext
+GTBrowsingActions>>#currentMessageCategoryName
+GTBrowsingActions>>#currentMessageName
+GTBrowsingActions>>#fileOutMessage
+GTBrowsingActions>>#inspectInstances
+GTBrowsingActions>>#inspectSubInstances
+GTBrowsingActions>>#methodHierarchy
+GTBytecodeDebugger
+GTBytecodeDebugger class>>#defaultTitle
+GTBytecodeDebugger class>>#register
+GTBytecodeDebugger class>>#registerToolsOn:
+GTBytecodeDebugger class>>#sessionClass
+GTBytecodeDebugger class>>#variablesBrowserClass
+GTBytecodeDebugger>>#bytecodeActionsPragmas
+GTBytecodeDebugger>>#bytecodeIn:forContext:
+GTBytecodeDebugger>>#bytecodePane
+GTBytecodeDebugger>>#bytecodePresentation
+GTBytecodeDebugger>>#debuggerStructureIn:
+GTBytecodeDebugger>>#debuggerTransmissionsIn:
+GTBytecodeDebugger>>#decompiledCodeWidgetIn:forContext:
+GTBytecodeDebugger>>#formatBytecode:
+GTBytecodeDebugger>>#methodBytecodeWidgetIn:forContext:
+GTBytecodeDebugger>>#methodCodeIn:forContext:
+GTBytecodeDebuggerSession
+GTBytecodeDebuggerSession>>#runToBytecode:inContext:
+GTBytecodeDebuggerSession>>#stepToFirstInterestingBytecodeIn:
+GTBytecodeDebuggerSession>>#symbolicBytecodeForCurrentPCFrom:
+GTBytecodeDebuggerSmokeTest
+GTBytecodeDebuggerSmokeTest>>#contextToTest
+GTBytecodeDebuggerSmokeTest>>#debuggerToTest
+GTBytecodeDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
+GTBytecodeDebuggerVariablesBrowser
+GTBytecodeDebuggerVariablesBrowser>>#variableTypeOf:in:
+GTBytecodeDebuggerVariablesBrowser>>#variablesFromContext:
+GTBytecodeDebuggerVariablesBrowser>>#variablesIn:
+GTChangeDebuggerAction
+GTChangeDebuggerAction class>>#changeDebuggerActionsForContext:excluding:
+GTChangeDebuggerAction class>>#debuggersForContext:excluding:
+GTChangeDebuggerAction class>>#gtChangeDebuggerActionsFor:
+GTChangeDebuggerAction>>#debuggerClass:
+GTChangeDebuggerAction>>#defaultCategory
+GTChangeDebuggerAction>>#defaultOrder
+GTChangeDebuggerAction>>#executeAction
+GTChangeDebuggerAction>>#initialize
+GTClearEditorDebugAction
+GTClearEditorDebugAction class>>#gtActionFor:
+GTClearEditorDebugAction>>#defaultIcon
+GTClearEditorDebugAction>>#defaultKeyText
+GTClearEditorDebugAction>>#defaultLabel
+GTClearEditorDebugAction>>#defaultOrder
+GTClearEditorDebugAction>>#executeAction
+GTClearEditorDebugAction>>#id
+GTClearEditorDebugAction>>#initialize
+GTCodeDebugAction
+GTCodeDebugAction>>#codePresentation
+GTCodeDebugAction>>#codePresentationSelector
+GTCodeDebugAction>>#codePresentationSelector:
+GTCodeDebugAction>>#initialize
+GTDebugSelectionDebugAction
+GTDebugSelectionDebugAction class>>#gtActionFor:
+GTDebugSelectionDebugAction>>#defaultKeyText
+GTDebugSelectionDebugAction>>#defaultLabel
+GTDebugSelectionDebugAction>>#defaultOrder
+GTDebugSelectionDebugAction>>#executeAction
+GTDebugSelectionDebugAction>>#id
+GTDebugSelectionDebugAction>>#initialize
+GTDebuggerContextPredicate
+GTDebuggerContextPredicate>>#hasMatched
+GTDebuggerContextPredicate>>#matchContext:
+GTDebuggerContextPredicate>>#matches:
+GTDebuggerContextPredicate>>#result
+GTDebuggerInspector
+GTDebuggerInspector>>#actOnPaneAdded:
+GTDebuggerInspector>>#actOnPaneRemoved:
+GTDebuggerInspector>>#attachExtraBehaviourToPresentationsIn:
+GTDebuggerInspector>>#compose
+GTDebuggerInspector>>#debugger
+GTDebuggerInspector>>#debugger:
+GTDebuggerInspector>>#isPresentation:inPane:
+GTDebuggerInspector>>#notifyPaneRemoved
+GTDebuggerInspector>>#notifyPaneRemoved:
+GTDebuggerSmokeTest
+GTDebuggerSmokeTest class>>#isAbstract
+GTDebuggerSmokeTest>>#contextToTest
+GTDebuggerSmokeTest>>#debuggerToTest
+GTDebuggerSmokeTest>>#instantiateSession
+GTDebuggerSmokeTest>>#setUp
+GTDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
+GTDebuggerSmokeTest>>#tearDown
+GTDebuggerSmokeTest>>#testDebugger
+GTDebuggerSystemSettings
+GTDebuggerSystemSettings class>>#debugSettingsOn:
+GTDebuggerVariablesBrowser
+GTDebuggerVariablesBrowser>>#compareVariableTypeOf:withVariable:in:
+GTDebuggerVariablesBrowser>>#compose
+GTDebuggerVariablesBrowser>>#debugger
+GTDebuggerVariablesBrowser>>#debugger:
+GTDebuggerVariablesBrowser>>#selectedVariableForContext:
+GTDebuggerVariablesBrowser>>#tagsForVariable:from:
+GTDebuggerVariablesBrowser>>#variableTypeOf:in:
+GTDebuggerVariablesBrowser>>#variablesFromContext:
+GTDebuggerVariablesBrowser>>#variablesIn:
 GTDummyExamples class>>#d:
 GTDummyExamples class>>#e:
 GTDummyExamples class>>#g:
@@ -784,89 +394,469 @@ GTDummyExamplesWithExceptions class>>#h
 GTDummyExamplesWithExternalDependencies class>>#a:
 GTDummyExamplesWithExternalDependencies class>>#b:b:
 GTDummyExamplesWithExternalDependencies class>>#c:c:c:
+GTEventBundle
+GTEventCollector
+GTEventCollector>>#add:
+GTEventCollector>>#addIfAvailable:
+GTEventCollector>>#bundle
+GTEventCollector>>#category:
+GTEventCollector>>#creationTime
+GTEventCollector>>#defaultCategory
+GTEventCollector>>#registry
+GTEventCollector>>#size
+GTEventCollector>>#updateAnnouncement:
+GTEventCollector>>#updateAnnouncementBlock:
+GTEventCollector>>#url
+GTEventCollector>>#url:
+GTEventCollectorTest>>#testCreationTime
+GTEventCollectorTest>>#testUpdateAnnouncement
+GTEventCollectors
+GTEventCollectorsTest>>#testDo
+GTEventCollectorsTest>>#testDo2
+GTEventConsolidate
+GTEventDelivery
+GTEventMultiBundle
+GTEventMultiBundleFactory
+GTEventPacking
+GTEventPacking>>#newAnnouncementFor:
+GTEventPackingTest>>#testNewAnnouncementFor
+GTEventPackingTest>>#testNewAnnouncementFor2
+GTEventRecorder class>>#initializeUniqueInstance
+GTEventRecorder class>>#registerInterestToSystemAnnouncement
+GTEventRecorder class>>#reset
+GTEventRecorder class>>#uniqueInstance
+GTEventRecorder>>#initialize
+GTEventRecorder>>#privacyChanged
+GTEventRecorderTest>>#setUp
+GTEventRegistry
+GTEventUnpacking
+GTExample>>#gtSpotterProviderFor:
+GTExample>>#gtSpotterSourceFor:
+GTExample>>#gtSpotterSubjectsFor:
+GTExample>>#icon:
 GTExample>>#iconBase64:
 GTExample>>#iconBytes:
 GTExample>>#iconClass:selector:
-GTExample>>#iconSelectorBase64:
 GTExample>>#iconSelector:
+GTExample>>#iconSelectorBase64:
 GTExample>>#iconThemeSelector:
-GTExample>>#icon:
+GTExample>>#initializeIconWith:
+GTExampleFinder class>>#gtSpotterExamplesFor:
 GTExampleNautilus>>#onClass:
 GTExampleNautilus>>#onExamples:builder:
+GTExampleNautilus>>#onProvider:builder:
 GTExampleNautilus>>#onReferences:builder:
+GTExampleNautilus>>#onSource:builder:
 GTExampleNautilusAction>>#run:
+GTExecuteSelectionDebugAction
+GTExecuteSelectionDebugAction class>>#gtActionFor:
+GTExecuteSelectionDebugAction>>#defaultKeyText
+GTExecuteSelectionDebugAction>>#defaultLabel
+GTExecuteSelectionDebugAction>>#defaultOrder
+GTExecuteSelectionDebugAction>>#executeAction
+GTExecuteSelectionDebugAction>>#id
+GTExecuteSelectionDebugAction>>#initialize
+GTFuelPacking
+GTGenericStackDebugger
+GTGenericStackDebugger class>>#alwaysOpenFullDebugger
+GTGenericStackDebugger class>>#alwaysOpenFullDebugger:
+GTGenericStackDebugger class>>#closeAllDebuggers
+GTGenericStackDebugger class>>#defaultLogFileName
+GTGenericStackDebugger class>>#defaultTitle
+GTGenericStackDebugger class>>#filterCommonMessageSends
+GTGenericStackDebugger class>>#filterCommonMessageSends:
+GTGenericStackDebugger class>>#filterDoItSelectors
+GTGenericStackDebugger class>>#filterDoItSelectors:
+GTGenericStackDebugger class>>#filterKernelClasses
+GTGenericStackDebugger class>>#filterKernelClasses:
+GTGenericStackDebugger class>>#filterLinkSelectors
+GTGenericStackDebugger class>>#filterLinkSelectors:
+GTGenericStackDebugger class>>#filterNilSelectors
+GTGenericStackDebugger class>>#filterNilSelectors:
+GTGenericStackDebugger class>>#handlesContext:
+GTGenericStackDebugger class>>#logDebuggerStackToFile
+GTGenericStackDebugger class>>#logDebuggerStackToFile:
+GTGenericStackDebugger class>>#logFileName
+GTGenericStackDebugger class>>#logFileName:
+GTGenericStackDebugger class>>#register
+GTGenericStackDebugger class>>#registerExtraToolsOn:
+GTGenericStackDebugger class>>#registerToolsOn:
+GTGenericStackDebugger class>>#sessionClass
+GTGenericStackDebugger class>>#stackWidgetClass
+GTGenericStackDebugger class>>#variablesBrowserClass
+GTGenericStackDebugger>>#actOnInspectorPaneRemoved:
+GTGenericStackDebugger>>#codeActionsPragmas
+GTGenericStackDebugger>>#codePane
+GTGenericStackDebugger>>#codePresentation
+GTGenericStackDebugger>>#contextToSelectFrom:
+GTGenericStackDebugger>>#debuggerStructureIn:
+GTGenericStackDebugger>>#debuggerTransmissionsIn:
+GTGenericStackDebugger>>#debuggingActionsPragmas
+GTGenericStackDebugger>>#formatStackEntry:
+GTGenericStackDebugger>>#inspect:
+GTGenericStackDebugger>>#inspectorIn:
+GTGenericStackDebugger>>#inspectorIn:on:
+GTGenericStackDebugger>>#installCodeActionsFor:
+GTGenericStackDebugger>>#installDebuggingActionsFor:
+GTGenericStackDebugger>>#installStackDebuggingActionsFor:
+GTGenericStackDebugger>>#methodCodeIn:forContext:
+GTGenericStackDebugger>>#methodCodeWidgetIn:forContext:
+GTGenericStackDebugger>>#openWithFullView
+GTGenericStackDebugger>>#openWithNotification:
+GTGenericStackDebugger>>#printStackEntry:
+GTGenericStackDebugger>>#retrieveStackFrom:
+GTGenericStackDebugger>>#selectTopContext
+GTGenericStackDebugger>>#selectedContext
+GTGenericStackDebugger>>#selectedText
+GTGenericStackDebugger>>#selectedVariableName
+GTGenericStackDebugger>>#selectedVariableName:
+GTGenericStackDebugger>>#selectionChanged:
+GTGenericStackDebugger>>#selectionInterval
+GTGenericStackDebugger>>#selectionInterval:
+GTGenericStackDebugger>>#selectionIntervalForPane:
+GTGenericStackDebugger>>#send
+GTGenericStackDebugger>>#sourceCode:
+GTGenericStackDebugger>>#stackDebuggingActionsPragmas
+GTGenericStackDebugger>>#stackIn:
+GTGenericStackDebugger>>#stackPresentation
+GTGenericStackDebugger>>#stackWidgetIn:
+GTGenericStackDebugger>>#sugsContext
+GTGenericStackDebugger>>#textAttributesForStackEntry:
+GTGenericStackDebugger>>#updateBrowser
+GTGenericStackDebugger>>#updateCodeEditor
+GTGenericStackDebugger>>#updateSelectionInterval
+GTGenericStackDebugger>>#window
+GTGenericStackDebuggerSmokeTest
+GTGenericStackDebuggerSmokeTest>>#contextToTest
+GTGenericStackDebuggerSmokeTest>>#debuggerToTest
+GTGenericStackDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
+GTGenericStackDebuggerTest
+GTGenericStackDebuggerTest>>#testBasic
+GTGlamourWrapperDebuggingAction
+GTGlamourWrapperDebuggingAction class>>#gtActionFor:
+GTGlamourWrapperDebuggingAction>>#asGlamourAction
+GTGlamourWrapperDebuggingAction>>#glamourAction:
+GTGoAndInspectBytecodeDebugAction
+GTGoAndInspectBytecodeDebugAction class>>#gtBytecodeDebuggerActionFor:
+GTGoAndInspectBytecodeDebugAction>>#defaultKeyText
+GTGoAndInspectBytecodeDebugAction>>#defaultLabel
+GTGoAndInspectBytecodeDebugAction>>#executeAction
+GTGoAndInspectBytecodeDebugAction>>#id
+GTGoAndInspectBytecodeDebugAction>>#initialize
+GTInspectSelectionDebugAction
+GTInspectSelectionDebugAction class>>#gtActionFor:
+GTInspectSelectionDebugAction class>>#gtBasicInspectActionFor:
+GTInspectSelectionDebugAction>>#defaultKeyText
+GTInspectSelectionDebugAction>>#defaultLabel
+GTInspectSelectionDebugAction>>#defaultOrder
+GTInspectSelectionDebugAction>>#executeAction
+GTInspectSelectionDebugAction>>#id
+GTInspectSelectionDebugAction>>#initialize
+GTInspectSelectionDebugAction>>#makeBasicInspect
 GTInspector>>#closeActionFor:
+GTInspectorProtoObjectTest
+GTInspectorProtoObjectTest>>#testInspectDoesNotCrash
+GTMoldableDebugger
+GTMoldableDebugger class>>#availableAutomatically
+GTMoldableDebugger class>>#debugSession:
+GTMoldableDebugger class>>#defaultTitle
+GTMoldableDebugger class>>#enableDebuggerWindowDistinctColor
+GTMoldableDebugger class>>#enableDebuggerWindowDistinctColor:
+GTMoldableDebugger class>>#enableStackColoring
+GTMoldableDebugger class>>#enableStackColoring:
+GTMoldableDebugger class>>#handlesContext:
+GTMoldableDebugger class>>#isGTDebuggerEnabled
+GTMoldableDebugger class>>#on:
+GTMoldableDebugger class>>#openOn:withFullView:
+GTMoldableDebugger class>>#openOn:withFullView:andNotification:
+GTMoldableDebugger class>>#patchworkUIThemeColor
+GTMoldableDebugger class>>#sessionClass
+GTMoldableDebugger class>>#setGTDebuggerEnabledStatus:
+GTMoldableDebugger class>>#spanNewSessionForContext:fromProcess:
+GTMoldableDebugger class>>#spanNewSessionFrom:
+GTMoldableDebugger class>>#spanNewSessionLabeled:forContext:fromProcess:
+GTMoldableDebugger class>>#taskbarIcon
+GTMoldableDebugger>>#actOnBrowserClosing:
+GTMoldableDebugger>>#actOnInspectorPaneRemoved:
+GTMoldableDebugger>>#actionsForPragmas:
+GTMoldableDebugger>>#allActionsForPragmas:
+GTMoldableDebugger>>#browseClassRefs
+GTMoldableDebugger>>#browseClassVarRefs
+GTMoldableDebugger>>#browseClassVariables
+GTMoldableDebugger>>#browseInstVarRefs
+GTMoldableDebugger>>#browseMessages
+GTMoldableDebugger>>#browseMethodFull
+GTMoldableDebugger>>#browseSendersOfMessages
+GTMoldableDebugger>>#browseVersions
+GTMoldableDebugger>>#browser
+GTMoldableDebugger>>#close
+GTMoldableDebugger>>#compose
+GTMoldableDebugger>>#currentClass
+GTMoldableDebugger>>#currentClassOrMetaClass
+GTMoldableDebugger>>#currentContext
+GTMoldableDebugger>>#currentMessageCategoryName
+GTMoldableDebugger>>#currentMessageName
+GTMoldableDebugger>>#debug:using:
+GTMoldableDebugger>>#debuggerStructureIn:
+GTMoldableDebugger>>#debuggerTransmissionsIn:
+GTMoldableDebugger>>#detachSession
+GTMoldableDebugger>>#fileOutMessage
+GTMoldableDebugger>>#initialExtent
+GTMoldableDebugger>>#inspectInstances
+GTMoldableDebugger>>#inspectSubInstances
+GTMoldableDebugger>>#installActionsForRootPragmas:in:
+GTMoldableDebugger>>#installDebuggingActionsFor:
+GTMoldableDebugger>>#interruptedContext
+GTMoldableDebugger>>#interruptedProcess
+GTMoldableDebugger>>#methodHierarchy
+GTMoldableDebugger>>#openOn:
+GTMoldableDebugger>>#registerActions
+GTMoldableDebugger>>#selectedContext
+GTMoldableDebugger>>#session
+GTMoldableDebugger>>#session:
+GTMoldableDebugger>>#title
+GTMoldableDebugger>>#updateBrowser
+GTMoldableDebugger>>#updateBrowserFrom:
+GTMoldableDebugger>>#windowIsClosing
 GTObjectVariablesBrowser
-GTObjectVariablesBrowser>>#variableValuePairsFor:
-GTObjectVariablesBrowser>>#evaluatorIn:
-GTObjectVariablesBrowser>>#variablesIn:
-Object>>#gtInspectorRawIn:
-Object>>#gtInspectorActionBrowse
-Object>>#gtInspectorActions
-Object>>#gtInspectorPresentationsIn:inContext:
-FileReference>>#gtInspectorActionMaterializeFuel
-FileReference>>#gtInspectorContentsIn:
-FileReference>>#gtInspectorFuelIn:
-FileReference>>#gtInspectorGifIn:
-FileReference>>#gtInspectorJpegIn:
-FileReference>>#gtInspectorPngIn:
-FileReference>>#gtInspectorStScriptIn:
-ThemeIcons>>#gtInspectorIconsIn:
-GTSpotter class>>#cleanUp
-GTSpotterCategoryTitleBrick>>#on:category:
-GlobalVariable>>#spotterReferenceFor:
-GLMDashboard
-GLMAction
-GLMPresentation>>#transformation
-GLMAllNotNilCondition>>#glamourValueWithArgs:
-GLMMorphicPagerRenderer>>#render:
-GLMPager
-GLMPagerBrick>>#showOrHideScrollBar
-GLMPagerModel
-GLMMorphicActionRenderer>>#render:
-GLMMorphicDashboardRenderer>>#renderPane:inUI:from:
-GLMMorphicPharoMethodRenderer>>#morph
-GLMMorphicPharoScriptRenderer>>#morph
-GLMMorphicRubricTextRenderer>>#actOnTextEditorRequest:
-GLMMorphicTabulatorRenderer>>#margin
-GLMMorphicWidgetRenderer>>#renderToolbarForPresentation:inMorph:
-GLMErrorPopper>>#initializeTextMorph
-GLMWatcherWindow>>#addContent:
-LazyTabGroupMorph>>#updatePageAtIndex:withLabel:toolbar:action:
-GLMTextEditorRequest class>>#for:
-GLMTextEditorRequest
-GLMTreeMorphicTest>>#treeRoots
-GLMTreeMorphicTest>>#testTreeAllowDeseletion
-GLMTreeMorphicTest>>#testTreeDefaultAllowDeseletion
-GLMTreeMorphicTest>>#testTreeMultipleSelection
-GLMTreeMorphicTest>>#testTreeMultipleSelectionWithCancellation
-GLMTreeMorphicTest>>#testTreeSelection
-GLMTreeMorphicTest>>#testTreeSelectionCancellation
-GLMTreeMorphicTest>>#testTreeWithTags
-GLMWatcherMorphicTest>>#testSimple
-RubAbstractTextArea>>#mouseMove:
-ScriptLoader>>#script50523
-ScriptLoader>>#commentForCurrentUpdate
-GTExampleNautilus>>#onExamples:builder:
 GTObjectVariablesBrowser>>#evaluatorIn:
 GTObjectVariablesBrowser>>#iconFor:
 GTObjectVariablesBrowser>>#iconFor:error:
 GTObjectVariablesBrowser>>#stringWithoutInitialCommentFrom:
 GTObjectVariablesBrowser>>#updateInstanceVariable:from:basedOn:
+GTObjectVariablesBrowser>>#variableValuePairsFor:
 GTObjectVariablesBrowser>>#variablesIn:
+GTPrintSelectionDebugAction
+GTPrintSelectionDebugAction class>>#gtActionFor:
+GTPrintSelectionDebugAction>>#defaultKeyText
+GTPrintSelectionDebugAction>>#defaultLabel
+GTPrintSelectionDebugAction>>#defaultOrder
+GTPrintSelectionDebugAction>>#executeAction
+GTPrintSelectionDebugAction>>#id
+GTPrintSelectionDebugAction>>#initialize
+GTProfileSelectionDebugAction
+GTProfileSelectionDebugAction class>>#gtActionFor:
+GTProfileSelectionDebugAction>>#defaultLabel
+GTProfileSelectionDebugAction>>#defaultOrder
+GTProfileSelectionDebugAction>>#executeAction
+GTProfileSelectionDebugAction>>#id
+GTProfileSelectionDebugAction>>#initialize
+GTProtoObjectVariablesBrowser
+GTProtoObjectVariablesBrowser>>#printStringOf:
+GTProtoObjectVariablesBrowser>>#variableValuePairsFor:
+GTRawObjectVariablesBrowser
+GTRawObjectVariablesBrowser>>#compose
+GTRawObjectVariablesBrowser>>#printStringOf:
+GTRawObjectVariablesBrowser>>#variableValuePairsFor:
+GTRunToSelectionDebugAction
+GTRunToSelectionDebugAction class>>#gtActionFor:
+GTRunToSelectionDebugAction>>#defaultOrder
+GTRunToSelectionDebugAction>>#executeAction
+GTRunToSelectionDebugAction>>#id
+GTSUnitActivationPredicate
+GTSUnitActivationPredicate>>#matchContext:
+GTSUnitDebugSession
+GTSUnitDebugSession class>>#activationPredicate
+GTSUnitDebugSession>>#actualResult
+GTSUnitDebugSession>>#expectedResult
+GTSUnitDebugSession>>#isActive
+GTSUnitDebugSession>>#isActive:
+GTSUnitDebugSession>>#process:context:
+GTSUnitDebugSession>>#setUpMethod
+GTSUnitDebugSession>>#tearDownMethod
+GTSUnitDebugSession>>#testContext
+GTSUnitDebugSession>>#testObject
+GTSUnitDebugger
+GTSUnitDebugger class>>#availableAutomatically
+GTSUnitDebugger class>>#defaultTitle
+GTSUnitDebugger class>>#handlesContext:
+GTSUnitDebugger class>>#lookupStackSize
+GTSUnitDebugger class>>#register
+GTSUnitDebugger class>>#registerToolsOn:
+GTSUnitDebugger class>>#sessionClass
+GTSUnitDebugger>>#contextToSelectFrom:
+GTSUnitDebugger>>#debuggerStructureIn:
+GTSUnitDebugger>>#debuggerTransmissionsIn:
+GTSUnitDebugger>>#inspectorDiffIn:
+GTSUnitDebugger>>#inspectorIn:
+GTSUnitDebugger>>#setUpCodeIn:
+GTSUnitDebugger>>#tearDownCodeIn:
+GTSUnitDebugger>>#textualDiffIn:
+GTSUnitDebugger>>#updateBrowser
+GTSUnitDebuggerSmokeTest
+GTSUnitDebuggerSmokeTest>>#contextToTest
+GTSUnitDebuggerSmokeTest>>#debuggerToTest
+GTSUnitDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
+GTSUnitExampleFailingTest
+GTSUnitExampleFailingTest class>>#isAbstract
+GTSUnitExampleFailingTest class>>#isUnitTest
+GTSUnitExampleFailingTest>>#testArrays
+GTSUnitExampleFailingTest>>#testDictionary
+GTSUnitExampleFailingTest>>#testFailingDate
+GTSUnitExampleFailingTest>>#testFailingText
+GTSUnitExampleFailingTest>>#testMultiValuedStreaming
+GTSaveDebugAction
+GTSaveDebugAction class>>#gtActionFor:
+GTSaveDebugAction>>#defaultKeyText
+GTSaveDebugAction>>#defaultLabel
+GTSaveDebugAction>>#defaultOrder
+GTSaveDebugAction>>#executeAction
+GTSaveDebugAction>>#id
+GTSelectionGoDebugAction
+GTSelectionGoDebugAction class>>#gtActionFor:
+GTSelectionGoDebugAction>>#defaultKeyText
+GTSelectionGoDebugAction>>#defaultLabel
+GTSelectionGoDebugAction>>#defaultOrder
+GTSelectionGoDebugAction>>#executeAction
+GTSelectionGoDebugAction>>#id
+GTSelectionGoDebugAction>>#initialize
+GTSelectorImplementors
+GTSelectorImplementors class>>#gtExampleNew
+GTSelectorImplementors class>>#substring:filter:
+GTSelectorImplementors>>#addMethod:
+GTSelectorImplementors>>#gtDisplayOn:
+GTSelectorImplementors>>#implementors
+GTSelectorImplementors>>#initialize
+GTSelectorImplementors>>#name
+GTSelectorImplementors>>#name:
+GTSelectorImplementors>>#senders
+GTSelectorImplementors>>#spotterImplementorsFor:
+GTSelectorImplementors>>#spotterPreviewIn:
+GTSelectorImplementors>>#spotterSendersFor:
+GTSpotter class>>#cleanUp
+GTSpotter>>#spotterForReferencesFor:
+GTSpotter>>#spotterForSelectorsFor:
+GTSpotter>>#spotterForSendersFor:
+GTSpotterCategoryTitleBrick>>#on:category:
+GTStepToBytecodeDebugAction
+GTStepToBytecodeDebugAction class>>#gtBytecodeDebuggerActionFor:
+GTStepToBytecodeDebugAction>>#appliesToDebugger:
+GTStepToBytecodeDebugAction>>#defaultLabel
+GTStepToBytecodeDebugAction>>#defaultOrder
+GTStepToBytecodeDebugAction>>#executeAction
+GTStepToBytecodeDebugAction>>#id
+GTStonPacking
+GTTemporaryPreDebugChangeDebuggerAction
+GTTemporaryPreDebugChangeDebuggerAction class>>#actionType
+GTTemporaryPreDebugChangeDebuggerAction>>#defaultLabel
+GTTemporaryPreDebugChangeDebuggerAction>>#defaultOrder
+GTTemporaryPreDebugChangeDebuggerAction>>#executeAction
+GTTemporaryPreDebugChangeDebuggerAction>>#id
+GTTemporaryPreDebugChangeDebuggerAction>>#preDebugWindow
+GTTemporaryPreDebugChangeDebuggerAction>>#preDebugWindow:
+GTWhereIsDebugAction
+GTWhereIsDebugAction class>>#gtActionFor:
+GTWhereIsDebugAction>>#defaultOrder
+GTWhereIsDebugAction>>#executeAction
+GTWhereIsDebugAction>>#id
+GlobalVariable>>#spotterReferenceFor:
+LazyTabGroupMorph>>#newTabSelectorMorph
+LazyTabGroupMorph>>#updatePageAtIndex:withLabel:toolbar:action:
+Object>>#asGlamorousArray
+Object>>#asGlamorousMultiValue
+Object>>#glamourValue:
+Object>>#glamourValueWithArgs:
+Object>>#gtConstructDebuggerInspectorIn:for:
+Object>>#gtDebuggerEvaluatorIn:
+Object>>#gtDebuggerPresentationsIn:inContext:
+Object>>#gtDebuggerSUnitPrint
+Object>>#gtDebuggerStateIn:
 Object>>#gtInspectorActionBrowse
 Object>>#gtInspectorActions
 Object>>#gtInspectorMetaIn:
 Object>>#gtInspectorPresentationsIn:inContext:
-GlobalVariable>>#spotterReferenceFor:
-GLMCompositePresentation>>#initialize
-GLMCompositePresentation>>#initializePresentation
-Object>>#asGlamorousArray
-Object>>#asGlamorousMultiValue
-Object>>#glamourValueWithArgs:
-Object>>#glamourValue:
-LazyTabGroupMorph>>#newTabSelectorMorph
-LazyTabGroupMorph>>#updatePageAtIndex:withLabel:toolbar:action:
-GLMDynamicPresentation>>#outerPortEvent:
-GLMTreeMorphicTest>>#treeRoots
+Object>>#gtInspectorRawIn:
+PeelToFirstDebugAction class>>#gtActionType
+Pharo3DarkTheme>>#sameClassContextStyleFor:
+Pharo3DarkTheme>>#samePackageContextStyleFor:
+Pharo3DarkTheme>>#unrelatedContextStyleFor:
+PragmaType>>#spotterPreviewItemsIn:
+PragmaType>>#spotterSendersFor:
+Privacy class>>#sendDiagnosticsAndUsageData:
+PrivacyChangedAnnoucement
+ProtoObject class>>#gtExampleBasic
+ProtoObject>>#gtInspectorRawIn:
+RestartDebugAction class>>#gtGlobalDebuggingActionFor:
+RestartDebugAction class>>#gtStackDebuggingActionFor:
+ResumeDebugAction class>>#gtGlobalDebuggingActionFor:
+ResumeDebugAction class>>#gtStackDebuggingActionFor:
+ReturnValueDebugAction class>>#gtActionType
+RubAbstractTextArea>>#extendSelection:
+RubAbstractTextArea>>#modifySelection:
+RubAbstractTextArea>>#mouseMove:
+RubAbstractTextArea>>#shrinkSelection:
+RubCharacterBlock>>#distance:
+RunToSelectionDebugAction class>>#gtActionFor:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50523
+ScriptLoader>>#update50524
+SpecDebugger class>>#availableAutomatically
+SpecDebugger class>>#handlesContext:
+SpecDebugger class>>#spanNewSessionFrom:
+StepIntoDebugAction class>>#gtGlobalDebuggingActionFor:
+StepIntoDebugAction class>>#gtStackDebuggingActionFor:
+StepOverDebugAction class>>#gtGlobalDebuggingActionFor:
+StepOverDebugAction class>>#gtStackDebuggingActionFor:
+StepThroughDebugAction class>>#gtGlobalDebuggingActionFor:
+StepThroughDebugAction class>>#gtStackDebuggingActionFor:
+String>>#gtDebuggerSUnitPrint
+SubclassResponsabilityDebugAction class>>#gtStackDebuggingActionFor:
+SymbolicBytecode>>#=
+SymbolicBytecode>>#hash
+SystemNavigation>>#allReferencesTo:do:
+SystemNavigation>>#allReferencesToSubstring:do:
+SystemNavigation>>#allSendersToSubstring:do:
+TBehavior>>#withMethodSender:do:
+TBehavior>>#withMethodsReferTo:do:
+TBehavior>>#withThorougMethodsReferTo:do:
+TClass>>#gtInspectorDefinitionIn:
+TGLMFastTable
+TGLMFastTable>>#allMenuActions
+TGLMFastTable>>#announcer
+TGLMFastTable>>#basicElements
+TGLMFastTable>>#calculateElements
+TGLMFastTable>>#collectionToDragPassenger:
+TGLMFastTable>>#elementOrZeroAt:
+TGLMFastTable>>#elementShouldBeDisplayed:
+TGLMFastTable>>#executeMenuAction:
+TGLMFastTable>>#explicitSelection:
+TGLMFastTable>>#glamourPresentation
+TGLMFastTable>>#glamourPresentation:
+TGLMFastTable>>#menuColumn:row:
+TGLMFastTable>>#newDataSourceMatching:
+TGLMFastTable>>#readyToBeDisplayed
+TGLMFastTable>>#selection:
+TGLMFastTable>>#strongSelection:
+TGLMFastTable>>#when:do:
+TGLMFastTable>>#when:send:to:
+TGLMFastTableFunctionsPresentation
+TGLMFastTableFunctionsPresentation>>#actionBlock
+TGLMFastTableFunctionsPresentation>>#actionName
+TGLMFastTableFunctionsPresentation>>#enableFilter
+TGLMFastTableFunctionsPresentation>>#enableFilterWithAction:
+TGLMFastTableFunctionsPresentation>>#enableFilterWithAction:named:
+TGLMFastTableFunctionsPresentation>>#enableSearch
+TGLMFastTableFunctionsPresentation>>#filterOn:
+TGLMFastTableFunctionsPresentation>>#isFilterable
+TGLMFastTableFunctionsPresentation>>#isSearchable
+TGLMFastTableFunctionsPresentation>>#needActionButton
+TGLMFastTableFunctionsPresentation>>#parameters
+TGLMFastTableFunctionsPresentation>>#searchOn:
+TGLMFastTableTag
+TGLMFastTableTag>>#buttonForTag:filter:
+TGLMFastTableTag>>#resetChildrenContent
+TGLMFastTableTag>>#shouldFilterByTag:
+TGLMFastTableTag>>#tagMorphsFrom:for:
+TGLMFastTableTag>>#tagsToFilterBy
+TGLMFastTableTag>>#toggleFilteringByTag:
+ThemeIcons>>#gtInspectorIconsIn:
+ToolRegistry>>#debuggerDispatcherFor:matching:
+ToolRegistry>>#debuggersForContext:
+ToolRegistry>>#debuggersMatching:
+ToolRegistry>>#debuggersWithRanksMatching:
+ToolRegistry>>#registerDebugger:withRank:
+ToolRegistry>>#registeredDebuggersWithRanks
+UITheme>>#sameClassContextStyleFor:
+UITheme>>#samePackageContextStyleFor:
+UITheme>>#styleContext:from:
+UITheme>>#unrelatedContextStyleFor:

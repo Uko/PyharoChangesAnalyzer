@@ -1,17 +1,14 @@
-WorldMorph>>#truncatedMenuLabelFor:
-Nautilus class>>#emptyCommentWarning:
-ScriptLoader>>#update50397
-Locale class>>#defaultLocales
-GoferBrowseLocalChanges
-GoferBrowseRemoteChanges
-WorldMorph>>#contentsMenu:
-ScriptLoader>>#script50396
-ScriptLoader>>#commentForCurrentUpdate
-Locale class>>#initKnownLocales
-GoferBrowseLocalChanges
-GoferBrowseRemoteChanges>>#execute
-GoferBrowseRemoteChanges
-GoferBrowseLocalChanges>>#execute
 Gofer>>#browseLocalChanges
 Gofer>>#browseRemoteChanges
+GoferBrowseLocalChanges
+GoferBrowseLocalChanges>>#execute
+GoferBrowseRemoteChanges
+GoferBrowseRemoteChanges>>#execute
+Locale class>>#defaultLocales
+Locale class>>#initKnownLocales
+Nautilus class>>#emptyCommentWarning:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50396
+ScriptLoader>>#update50397
+WorldMorph>>#contentsMenu:
+WorldMorph>>#truncatedMenuLabelFor:

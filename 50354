@@ -1,9 +1,8 @@
-ConfigurationOfShoreLineReporter>>#version021:
-ScriptLoader>>#update50354
-MessageBrowser>>#sourceIntervalOf:in:
 ConfigurationOfShoreLineReporter>>#stable:
-ScriptLoader>>#script50353
-ScriptLoader>>#commentForCurrentUpdate
-SlReportWindow>>#initializeControls
+ConfigurationOfShoreLineReporter>>#version021:
 MessageBrowser>>#autoSelect:
+MessageBrowser>>#sourceIntervalOf:in:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50353
+ScriptLoader>>#update50354
+SlReportWindow>>#initializeControls

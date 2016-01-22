@@ -1,81 +1,77 @@
-MCFileBasedRepository>>#versionFrom:
-MCRepository>>#versionFrom:
-ScriptLoader>>#update50153
-RubWorkspaceBar class>>#key
-RubWorkspaceBar
-RubWorkspaceBar>>#backgroundColor
-RubWorkspaceBar>>#fontToUse
-RubWorkspaceBar>>#level
-RubWorkspaceBar>>#textColor
-RubWorkspaceBar>>#updateContents
-RubWorkspaceBar>>#computedHeightFrom:
-RubWorkspaceBar>>#computedWidthFrom:
-RubWorkspaceBar>>#manageLayoutInBounds:
-RubWorkspaceBar>>#initialize
-RubWorkspaceBar>>#chooseEditingMode:
-RubWorkspaceBar>>#editingModeLabel
-RubWorkspaceBar>>#editingModeLabelMorph
-RubWorkspaceBar>>#modeListMenu
-RubWorkspaceBar>>#switchToPlainTextMode
-RubWorkspaceBar>>#switchToSmalltalkScriptingMode
-RubWorkspaceBar>>#changeLineNumbersDisplay
-RubWorkspaceBar>>#lineNumbersDisplayLabel
-RubWorkspaceBar>>#lineNumbersDisplayLabelMorph
-RubWorkspaceBar>>#changeWrappingPolicy
-RubWorkspaceBar>>#wrappingPolicyLabel
-RubWorkspaceBar>>#wrappingPolicyLabelMorph
-RubWorkspaceBar>>#spacer:
-RubWorkspaceBar>>#noteNewOwner:
-Workspace class>>#lastContents
-Workspace class>>#maxKeptContents
-Workspace>>#doItContext
-Workspace>>#doItReceiver
-Workspace>>#maxKeptContents
-Workspace>>#defaultTextModel
-Workspace>>#selectedMethod
-Workspace>>#yellowButtonMenu
-Workspace>>#guessTypeForName:
-Workspace>>#hasBindingThatBeginsWith:
-Workspace>>#whenTextAccepted:
-Workspace>>#bindingOf:
-Workspace>>#openLabel:
-Workspace>>#textView
 GoferResolvedReference>>#version
 MCDictionaryRepository>>#goferVersionFrom:
+MCFileBasedRepository>>#versionFrom:
 MCFileBasedRepository>>#versionFromFileNamed:
 MCFileBasedRepository>>#versionFromRepositoryFromFileNamed:
 MCFileBasedRepository>>#versionInfoFromFileNamed:
 MCFileBasedRepository>>#versionNameFromFileName:
 MCFileTreeRepository>>#goferVersionFrom:
-ScriptLoader>>#script50152
+MCRepository>>#versionFrom:
+RubWorkspaceBar
+RubWorkspaceBar class>>#key
+RubWorkspaceBar>>#backgroundColor
+RubWorkspaceBar>>#changeLineNumbersDisplay
+RubWorkspaceBar>>#changeWrappingPolicy
+RubWorkspaceBar>>#chooseEditingMode:
+RubWorkspaceBar>>#computedHeightFrom:
+RubWorkspaceBar>>#computedWidthFrom:
+RubWorkspaceBar>>#editingModeLabel
+RubWorkspaceBar>>#editingModeLabelMorph
+RubWorkspaceBar>>#fontToUse
+RubWorkspaceBar>>#initialize
+RubWorkspaceBar>>#level
+RubWorkspaceBar>>#lineNumbersDisplayLabel
+RubWorkspaceBar>>#lineNumbersDisplayLabelMorph
+RubWorkspaceBar>>#manageLayoutInBounds:
+RubWorkspaceBar>>#modeListMenu
+RubWorkspaceBar>>#noteNewOwner:
+RubWorkspaceBar>>#spacer:
+RubWorkspaceBar>>#switchToPlainTextMode
+RubWorkspaceBar>>#switchToSmalltalkScriptingMode
+RubWorkspaceBar>>#textColor
+RubWorkspaceBar>>#updateContents
+RubWorkspaceBar>>#wrappingPolicyLabel
+RubWorkspaceBar>>#wrappingPolicyLabelMorph
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50152
+ScriptLoader>>#update50153
 SmalltalkEditor>>#selectedSelector
+Workspace
+Workspace class>>#cleanUp
+Workspace class>>#lastContents
+Workspace class>>#maxKeptContents
 Workspace class>>#open
 Workspace class>>#openContents:
+Workspace class>>#registerToolsOn:
 Workspace class>>#title
-Workspace
+Workspace>>#addModelItemsToWindowMenu:
+Workspace>>#bindingOf:
+Workspace>>#browseBindings
 Workspace>>#contents
 Workspace>>#contents:
+Workspace>>#defaultTextModel
+Workspace>>#doItContext
+Workspace>>#doItReceiver
+Workspace>>#guessTypeForName:
+Workspace>>#hasBindingOf:
+Workspace>>#hasBindingThatBeginsWith:
+Workspace>>#initialize
+Workspace>>#initializeBindings
 Workspace>>#label:
 Workspace>>#lastContents
-Workspace>>#selectedClassOrMetaClass
-Workspace>>#openFile:
-Workspace>>#readStringFromFile:
-Workspace>>#saveString:toFile:
-Workspace>>#suggestedFileName
-Workspace>>#initialize
-Workspace>>#addModelItemsToWindowMenu:
-Workspace>>#openMenuAction
-Workspace>>#saveAsMenuAction
-Workspace>>#useEncoding:
-MCDictionaryRepository>>#goferVersionFrom:
-MCFileTreeRepository>>#goferVersionFrom:
-ScriptLoader>>#script50152
-Workspace class>>#cleanUp
-Workspace class>>#registerToolsOn:
-Workspace>>#selectedClassOrMetaClass
-Workspace>>#initializeBindings
-Workspace>>#shiftedYellowButtonMenu
-Workspace>>#hasBindingOf:
-Workspace>>#browseBindings
+Workspace>>#maxKeptContents
 Workspace>>#open
+Workspace>>#openFile:
+Workspace>>#openLabel:
+Workspace>>#openMenuAction
+Workspace>>#readStringFromFile:
+Workspace>>#saveAsMenuAction
+Workspace>>#saveString:toFile:
+Workspace>>#selectedClassOrMetaClass
+Workspace>>#selectedMethod
+Workspace>>#shiftedYellowButtonMenu
+Workspace>>#suggestedFileName
+Workspace>>#textView
+Workspace>>#useEncoding:
+Workspace>>#whenTextAccepted:
+Workspace>>#yellowButtonMenu

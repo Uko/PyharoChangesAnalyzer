@@ -1,23 +1,34 @@
+AbstractNautilusUI>>#showInstance:
+BIConfigurableFormatter class>>#settingsOn:
+BIConfigurableFormatter class>>#traditionalBinaryPrecedence
+BIConfigurableFormatter>>#formattedSourceFor:
+BIConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
+BIConfigurableFormatter>>#precedenceOf:greaterThan:
 BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray
+BIConfigurableFormatter>>#visitBlockNode:
+BIConfigurableFormatterFormattingTest
+BIConfigurableFormatterFormattingTest class>>#shouldInheritSelectors
+BIConfigurableFormatterFormattingTest>>#formatterClass
+BIFormatterTests
+BIFormatterTests>>#formatClass:
+BIFormatterTests>>#formatClass:selector:
+BIFormatterTests>>#testCoreSystem
 BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray
+BISimpleFormatter
+BISimpleFormatter class>>#format:
+BISimpleFormatter class>>#format:withIndents:
 BISimpleFormatter class>>#formatAsYouReadPolicy
 BISimpleFormatter class>>#formatAsYouReadPolicy:
 BISimpleFormatter class>>#initialize
-BISimpleFormatter class>>#format:
-BISimpleFormatter class>>#format:withIndents:
-BISimpleFormatter
+BISimpleFormatter>>#basicFormatCommentFor:
+BISimpleFormatter>>#bracketWith:around:
 BISimpleFormatter>>#codeStream
 BISimpleFormatter>>#codeStream:
-BISimpleFormatter>>#indent
-BISimpleFormatter>>#indentString
-BISimpleFormatter>>#indent:
-BISimpleFormatter>>#lineStart
-BISimpleFormatter>>#lineStart:
-BISimpleFormatter>>#traditionalBinaryPrecedenceArray
-BISimpleFormatter>>#initialize
+BISimpleFormatter>>#containerWidth:
+BISimpleFormatter>>#format:
 BISimpleFormatter>>#formatArray:
-BISimpleFormatter>>#formatBlockArgumentsFor:
 BISimpleFormatter>>#formatBlock:
+BISimpleFormatter>>#formatBlockArgumentsFor:
 BISimpleFormatter>>#formatCommentsFor:
 BISimpleFormatter>>#formatMethodBodyFor:
 BISimpleFormatter>>#formatMethodCommentFor:
@@ -27,23 +38,24 @@ BISimpleFormatter>>#formatSelectorAndArguments:
 BISimpleFormatter>>#formatSelectorAndArguments:firstSeparator:restSeparator:
 BISimpleFormatter>>#formatSequenceNodeStatementsFor:
 BISimpleFormatter>>#formatStatementCommentsFor:
-BISimpleFormatter>>#basicFormatCommentFor:
-BISimpleFormatter>>#bracketWith:around:
 BISimpleFormatter>>#formatTemporariesFor:
 BISimpleFormatter>>#formattedSourceFor:
 BISimpleFormatter>>#handleLineForArgument:
-BISimpleFormatter>>#indentAround:
+BISimpleFormatter>>#indent
+BISimpleFormatter>>#indent:
 BISimpleFormatter>>#indent:around:
+BISimpleFormatter>>#indentAround:
+BISimpleFormatter>>#indentString
+BISimpleFormatter>>#initialize
+BISimpleFormatter>>#lineStart
+BISimpleFormatter>>#lineStart:
 BISimpleFormatter>>#needsParenthesisFor:
 BISimpleFormatter>>#newLine
 BISimpleFormatter>>#newLines:
 BISimpleFormatter>>#precedenceOf:greaterThan:
 BISimpleFormatter>>#privateFormatMethodPatternMonoLineFor:
 BISimpleFormatter>>#space
-BISimpleFormatter>>#writeString:
-BISimpleFormatter>>#containerWidth:
-BISimpleFormatter>>#format:
-BISimpleFormatter>>#with:and:do:separatedBy:
+BISimpleFormatter>>#traditionalBinaryPrecedenceArray
 BISimpleFormatter>>#visitArrayNode:
 BISimpleFormatter>>#visitAssignmentNode:
 BISimpleFormatter>>#visitBlockNode:
@@ -59,48 +71,33 @@ BISimpleFormatter>>#visitPragmaNode:
 BISimpleFormatter>>#visitReturnNode:
 BISimpleFormatter>>#visitSequenceNode:
 BISimpleFormatter>>#visitVariableNode:
-RBFormatterTest>>#formatterClass
-BIConfigurableFormatterFormattingTest class>>#shouldInheritSelectors
-BIConfigurableFormatterFormattingTest
-BIConfigurableFormatterFormattingTest>>#formatterClass
-ScriptLoader>>#update50216
+BISimpleFormatter>>#with:and:do:separatedBy:
+BISimpleFormatter>>#writeString:
+DummyUIManager>>#edit:label:accept:
+LabelModel>>#emphasis:
 LabelModel>>#emphasisDepractedFor:
 LabelModel>>#emphasisForCode:
+LabelModel>>#initialize
+MorphicLabelAdapter
+MorphicLabelAdapter>>#buildWidget
+MorphicLabelAdapter>>#emphasis:
 MorphicLabelAdapter>>#emphasisCodeFor:
 MorphicLabelAdapter>>#emphasisOptions
+MorphicTreeAdapter>>#buildWidget
 MorphicTreeAdapter>>#evenRowColor:
+MorphicTreeAdapter>>#oddRowColor:
 MorphicTreeAdapterTest
 MorphicTreeAdapterTest>>#modelClass
 MorphicTreeAdapterTest>>#setUp
 MorphicTreeAdapterTest>>#testDefaultRowColors
 MorphicTreeAdapterTest>>#testRowColorsAfterBuild
 MorphicTreeAdapterTest>>#testRowColorsBeforeBuild
-BIConfigurableFormatter class>>#traditionalBinaryPrecedence
-BIConfigurableFormatter class>>#settingsOn:
-BIConfigurableFormatter>>#formattedSourceFor:
-BIConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
-BIConfigurableFormatter>>#precedenceOf:greaterThan:
-BIConfigurableFormatter>>#visitBlockNode:
-RBNullFormatter
-BIFormatterTests
-BIFormatterTests>>#formatClass:selector:
-AbstractNautilusUI>>#showInstance:
 MorphicUIManager>>#edit:label:accept:
-ScriptLoader>>#script50215
-ScriptLoader>>#commentForCurrentUpdate
-LabelModel>>#emphasis:
-LabelModel>>#initialize
-TreeModel>>#registerEvents
-MorphicLabelAdapter
-MorphicLabelAdapter>>#buildWidget
-MorphicLabelAdapter>>#emphasis:
-MorphicTreeAdapter>>#buildWidget
-MorphicTreeAdapter>>#oddRowColor:
-DummyUIManager>>#edit:label:accept:
 NonInteractiveUIManager>>#edit:label:accept:
-UIManager>>#edit:label:accept:
-BIFormatterTests
-BIFormatterTests>>#formatClass:
-BIFormatterTests>>#formatClass:selector:
-BIFormatterTests>>#testCoreSystem
+RBFormatterTest>>#formatterClass
+RBNullFormatter
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50215
+ScriptLoader>>#update50216
+TreeModel>>#registerEvents
+UIManager>>#edit:label:accept:

@@ -1,8 +1,10 @@
+BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant>>#stable:
 ConfigurationOfQualityAssistant>>#v1_1_3:
 ConfigurationOfRenraku
 ConfigurationOfRenraku>>#development:
-ConfigurationOfRenraku>>#stable:
 ConfigurationOfRenraku>>#pre0_4_0:
+ConfigurationOfRenraku>>#stable:
 ConfigurationOfRenraku>>#v0_1_0:
 ConfigurationOfRenraku>>#v0_2_0:
 ConfigurationOfRenraku>>#v0_2_1:
@@ -16,26 +18,23 @@ ConfigurationOfRenraku>>#v0_3_3:
 ConfigurationOfRubric>>#version117:
 ConfigurationOfTxText>>#version212:
 MCRepositoryTest>>#homeDirectoryUrl
+MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
+QualityAssistantPluginMorph>>#initialize
+ReEngine>>#subscribe
+RubSHTextStylerST80
 RubSHTextStylerST80>>#resolveTextLinkFor:
 RubSHTextStylerST80>>#visitLiteralNode:
 RubSHTextStylerST80>>#visitMessageNode:
+RubShoutStylerDecorator>>#okToStyle
 RubShoutStylerDecorator>>#shoutEnabled
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50211
 ScriptLoader>>#update50212
+SystemWindow class>>#windowMenuOn:
 TxBasicViewMorph>>#initializeText:
+TxLayoutViewMorph>>#initialize
 TxTextStyler>>#visitArrayNode:
 TxTextStyler>>#visitGlobalNode:
 TxTextStyler>>#visitInstanceVariableNode:
 TxTextStyler>>#visitLiteralArrayNode:
 TxTextStyler>>#visitReturnNode:
-BaselineOfQualityAssistant>>#baseline:
-ConfigurationOfQualityAssistant>>#stable:
-MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
-SystemWindow class>>#windowMenuOn:
-QualityAssistantPluginMorph>>#initialize
-ReEngine>>#subscribe
-RubSHTextStylerST80
-RubShoutStylerDecorator>>#okToStyle
-ScriptLoader>>#script50211
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50211
-TxLayoutViewMorph>>#initialize

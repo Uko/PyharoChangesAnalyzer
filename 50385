@@ -1,127 +1,12 @@
+AbstractNautilusUI>>#model:
+AbstractNautilusUI>>#open
+AbstractNautilusUI>>#registerToAnnouncements
+AbstractNautilusUI>>#registerToSystemAnnouncements
+AbstractNautilusUI>>#registerToTestAnnouncements
 AbstractNautilusUI>>#unregisterToAnnouncements
 AbstractNautilusUI>>#unregisterToGroupAnnouncements
 AbstractNautilusUI>>#unregisterToSystemAnnouncements
 AbstractNautilusUI>>#unregisterToTestAnnouncements
-RBAddRemoveDependentsRule class>>#checksClass
-RBAddRemoveDependentsRule>>#basicCheck:
-RBAssignmentOnBlockArgumentRule class>>#checksMethod
-RBAssignmentOnBlockArgumentRule>>#basicCheck:
-RBBadMessageRule class>>#checksMethod
-RBBadMessageRule>>#basicCheck:
-RBClassInstVarNotInitializedRule class>>#checksClass
-RBClassInstVarNotInitializedRule>>#basicCheck:
-RBClassNameInSelectorRule class>>#checksMethod
-RBClassNameInSelectorRule>>#basicCheck:
-RBClassNotReferencedRule class>>#checksClass
-RBClassNotReferencedRule>>#basicCheck:
-RBClassVariableCapitalizationRule class>>#checksClass
-RBClassVariableCapitalizationRule>>#basicCheck:
-RBCollectionCopyEmptyRule class>>#checksClass
-RBCollectionCopyEmptyRule>>#basicCheck:
-RBCompositeLintRule>>#basicCheck:
-RBDefinesEqualNotHashRule class>>#checksClass
-RBDefinesEqualNotHashRule>>#basicCheck:
-RBEquivalentSuperclassMethodsRule class>>#checksMethod
-RBEquivalentSuperclassMethodsRule>>#basicCheck:
-RBExcessiveArgumentsRule class>>#checksMethod
-RBExcessiveArgumentsRule>>#basicCheck:
-RBExcessiveInheritanceRule class>>#checksClass
-RBExcessiveInheritanceRule>>#basicCheck:
-RBExcessiveMethodsRule class>>#checksClass
-RBExcessiveMethodsRule>>#basicCheck:
-RBExcessiveVariablesRule class>>#checksClass
-RBExcessiveVariablesRule>>#basicCheck:
-RBExplicitRequirementMethodsRule class>>#checksClass
-RBExplicitRequirementMethodsRule>>#basicCheck:
-RBImplementedNotSentRule class>>#checksMethod
-RBImplementedNotSentRule>>#basicCheck:
-RBInconsistentMethodClassificationRule class>>#checksMethod
-RBInconsistentMethodClassificationRule>>#basicCheck:
-RBInstVarInSubclassesRule class>>#checksClass
-RBInstVarInSubclassesRule>>#basicCheck:
-RBInstanceVariableCapitalizationRule class>>#checksClass
-RBInstanceVariableCapitalizationRule>>#basicCheck:
-RBJustSendsSuperRule class>>#checksMethod
-RBJustSendsSuperRule>>#basicCheck:
-RBLintRule class>>#checksClass
-RBLintRule class>>#checksMethod
-RBLintRule>>#basicCheck:
-RBLiteralArrayContainsCommaRule class>>#checksMethod
-RBLiteralArrayContainsCommaRule>>#basicCheck:
-RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule class>>#checksMethod
-RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule>>#basicCheck:
-RBLocalMethodsOfAClassNotInItsTraitComposition class>>#checksClass
-RBLocalMethodsOfAClassNotInItsTraitComposition>>#basicCheck:
-RBLongMethodsRule class>>#checksMethod
-RBLongMethodsRule>>#basicCheck:
-RBMethodHasNoTimeStampRule class>>#checksMethod
-RBMethodHasNoTimeStampRule>>#basicCheck:
-RBMethodSourceContainsLinefeedsRule class>>#checksMethod
-RBMethodSourceContainsLinefeedsRule>>#basicCheck:
-RBMissingSubclassResponsibilityRule class>>#checksClass
-RBMissingSubclassResponsibilityRule>>#basicCheck:
-RBMissingSuperSendsRule class>>#checksMethod
-RBMissingSuperSendsRule>>#basicCheck:
-RBNoClassCommentRule class>>#checksClass
-RBNoClassCommentRule>>#basicCheck:
-RBOnlyReadOrWrittenVariableRule class>>#checksClass
-RBOnlyReadOrWrittenVariableRule>>#basicCheck:
-RBOverridesSpecialMessageRule class>>#checksClass
-RBOverridesSpecialMessageRule>>#basicCheck:
-RBParseTreeLintRule class>>#checksMethod
-RBParseTreeLintRule>>#basicCheck:
-RBRefersToClassRule class>>#checksMethod
-RBRefersToClassRule>>#basicCheck:
-RBRefersToClassRule>>#checkMethod:
-RBReturnsBooleanAndOtherRule class>>#checksMethod
-RBReturnsBooleanAndOtherRule>>#basicCheck:
-RBSendsDifferentSuperRule class>>#checksMethod
-RBSendsDifferentSuperRule>>#basicCheck:
-RBSendsMethodDictRule class>>#checksMethod
-RBSendsMethodDictRule>>#basicCheck:
-RBSentNotImplementedRule class>>#checksMethod
-RBSentNotImplementedRule>>#basicCheck:
-RBSubclassResponsibilityNotDefinedRule class>>#checksClass
-RBSubclassResponsibilityNotDefinedRule>>#basicCheck:
-RBSuperSendsNewRule class>>#checksMethod
-RBSuperSendsNewRule>>#basicCheck:
-RBTempVarOverridesInstVarRule class>>#checksMethod
-RBTempVarOverridesInstVarRule>>#basicCheck:
-RBTemporaryVariableCapitalizationRule class>>#checksMethod
-RBTemporaryVariableCapitalizationRule>>#basicCheck:
-RBTempsReadBeforeWrittenRule class>>#checksMethod
-RBTempsReadBeforeWrittenRule>>#basicCheck:
-RBTransformationRule class>>#checksMethod
-RBTransformationRule>>#basicCheck:
-RBUnaryAccessingMethodWithoutReturnRule class>>#checksMethod
-RBUnaryAccessingMethodWithoutReturnRule>>#basicCheck:
-RBUnclassifiedMethodsRule class>>#checksMethod
-RBUnclassifiedMethodsRule>>#basicCheck:
-RBUncommonMessageSendRule class>>#checksMethod
-RBUncommonMessageSendRule>>#basicCheck:
-RBUndeclaredReferenceRule class>>#checksMethod
-RBUndeclaredReferenceRule>>#basicCheck:
-RBUnpackagedCodeRule class>>#checksClass
-RBUnpackagedCodeRule class>>#checksMethod
-RBUnpackagedCodeRule>>#basicCheck:
-RBUnreferencedVariablesRule class>>#checksClass
-RBUnreferencedVariablesRule>>#basicCheck:
-RBUsesTrueRule class>>#checksMethod
-RBUsesTrueRule>>#basicCheck:
-RBUtilityMethodsRule class>>#checksMethod
-RBUtilityMethodsRule>>#basicCheck:
-RBVariableAssignedLiteralRule class>>#checksClass
-RBVariableAssignedLiteralRule>>#basicCheck:
-RBVariableNotDefinedRule class>>#checksMethod
-RBVariableNotDefinedRule>>#basicCheck:
-RBVariableReferencedOnceRule class>>#checksClass
-RBVariableReferencedOnceRule>>#basicCheck:
-ScriptLoader>>#update50385
-AbstractNautilusUI>>#model:
-AbstractNautilusUI>>#registerToAnnouncements
-AbstractNautilusUI>>#registerToSystemAnnouncements
-AbstractNautilusUI>>#registerToTestAnnouncements
-AbstractNautilusUI>>#open
 GTBytecodeBrowser>>#sourceIn:
 GTIRBrowser>>#sourceIn:
 GTOpalScopeBrowser>>#sourceIn:
@@ -130,43 +15,157 @@ IRSequence>>#gtInspectorSourceCodeIn:
 OCAbstractScope>>#gtInspectorSourceCodeIn:
 OCClassScope>>#gtInspectorSourceCodeIn:
 OCInstanceScope>>#gtInspectorSourceCodeIn:
-SymbolicBytecode>>#gtInspectorSourceCodeIn:
+RBAddRemoveDependentsRule class>>#checksClass
+RBAddRemoveDependentsRule>>#basicCheck:
 RBAddRemoveDependentsRule>>#checkClass:
+RBAssignmentOnBlockArgumentRule class>>#checksMethod
+RBAssignmentOnBlockArgumentRule>>#basicCheck:
+RBBadMessageRule class>>#checksMethod
+RBBadMessageRule>>#basicCheck:
 RBBadMessageRule>>#checkMethod:
+RBClassInstVarNotInitializedRule class>>#checksClass
+RBClassInstVarNotInitializedRule>>#basicCheck:
 RBClassInstVarNotInitializedRule>>#checkClass:
+RBClassNameInSelectorRule class>>#checksMethod
+RBClassNameInSelectorRule>>#basicCheck:
 RBClassNameInSelectorRule>>#checkMethod:
+RBClassNotReferencedRule class>>#checksClass
+RBClassNotReferencedRule>>#basicCheck:
 RBClassNotReferencedRule>>#checkClass:
+RBClassVariableCapitalizationRule class>>#checksClass
+RBClassVariableCapitalizationRule>>#basicCheck:
+RBCollectionCopyEmptyRule class>>#checksClass
+RBCollectionCopyEmptyRule>>#basicCheck:
 RBCollectionCopyEmptyRule>>#checkClass:
+RBCompositeLintRule>>#basicCheck:
+RBDefinesEqualNotHashRule class>>#checksClass
+RBDefinesEqualNotHashRule>>#basicCheck:
 RBDefinesEqualNotHashRule>>#checkClass:
+RBEquivalentSuperclassMethodsRule class>>#checksMethod
+RBEquivalentSuperclassMethodsRule>>#basicCheck:
 RBEquivalentSuperclassMethodsRule>>#checkMethod:
+RBExcessiveArgumentsRule class>>#checksMethod
+RBExcessiveArgumentsRule>>#basicCheck:
 RBExcessiveArgumentsRule>>#checkMethod:
+RBExcessiveInheritanceRule class>>#checksClass
+RBExcessiveInheritanceRule>>#basicCheck:
 RBExcessiveInheritanceRule>>#checkClass:
+RBExcessiveMethodsRule class>>#checksClass
+RBExcessiveMethodsRule>>#basicCheck:
 RBExcessiveMethodsRule>>#checkClass:
+RBExcessiveVariablesRule class>>#checksClass
+RBExcessiveVariablesRule>>#basicCheck:
 RBExcessiveVariablesRule>>#checkClass:
+RBExplicitRequirementMethodsRule class>>#checksClass
+RBExplicitRequirementMethodsRule>>#basicCheck:
 RBExplicitRequirementMethodsRule>>#checkClass:
+RBImplementedNotSentRule class>>#checksMethod
+RBImplementedNotSentRule>>#basicCheck:
 RBImplementedNotSentRule>>#checkMethod:
+RBInconsistentMethodClassificationRule class>>#checksMethod
+RBInconsistentMethodClassificationRule>>#basicCheck:
 RBInconsistentMethodClassificationRule>>#checkMethod:
+RBInstVarInSubclassesRule class>>#checksClass
+RBInstVarInSubclassesRule>>#basicCheck:
+RBInstanceVariableCapitalizationRule class>>#checksClass
+RBInstanceVariableCapitalizationRule>>#basicCheck:
+RBJustSendsSuperRule class>>#checksMethod
+RBJustSendsSuperRule>>#basicCheck:
 RBJustSendsSuperRule>>#checkMethod:
+RBLintRule class>>#checksClass
+RBLintRule class>>#checksMethod
+RBLintRule>>#basicCheck:
+RBLiteralArrayContainsCommaRule class>>#checksMethod
+RBLiteralArrayContainsCommaRule>>#basicCheck:
 RBLiteralArrayContainsCommaRule>>#checkMethod:
+RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule class>>#checksMethod
+RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule>>#basicCheck:
 RBLiteralArrayContainsSuspiciousTrueFalseOrNilRule>>#checkMethod:
+RBLocalMethodsOfAClassNotInItsTraitComposition class>>#checksClass
+RBLocalMethodsOfAClassNotInItsTraitComposition>>#basicCheck:
+RBLongMethodsRule class>>#checksMethod
+RBLongMethodsRule>>#basicCheck:
 RBLongMethodsRule>>#checkMethod:
+RBMethodHasNoTimeStampRule class>>#checksMethod
+RBMethodHasNoTimeStampRule>>#basicCheck:
 RBMethodHasNoTimeStampRule>>#checkMethod:
+RBMethodSourceContainsLinefeedsRule class>>#checksMethod
+RBMethodSourceContainsLinefeedsRule>>#basicCheck:
 RBMethodSourceContainsLinefeedsRule>>#checkMethod:
+RBMissingSubclassResponsibilityRule class>>#checksClass
+RBMissingSubclassResponsibilityRule>>#basicCheck:
+RBMissingSuperSendsRule class>>#checksMethod
+RBMissingSuperSendsRule>>#basicCheck:
 RBMissingSuperSendsRule>>#checkMethod:
+RBNoClassCommentRule class>>#checksClass
+RBNoClassCommentRule>>#basicCheck:
 RBNoClassCommentRule>>#checkClass:
+RBOnlyReadOrWrittenVariableRule class>>#checksClass
+RBOnlyReadOrWrittenVariableRule>>#basicCheck:
+RBOverridesSpecialMessageRule class>>#checksClass
+RBOverridesSpecialMessageRule>>#basicCheck:
+RBParseTreeLintRule class>>#checksMethod
+RBParseTreeLintRule>>#basicCheck:
 RBParseTreeLintRule>>#checkMethod:
+RBRefersToClassRule class>>#checksMethod
+RBRefersToClassRule>>#basicCheck:
+RBRefersToClassRule>>#checkMethod:
+RBReturnsBooleanAndOtherRule class>>#checksMethod
+RBReturnsBooleanAndOtherRule>>#basicCheck:
 RBReturnsBooleanAndOtherRule>>#checkMethod:
+RBSendsDifferentSuperRule class>>#checksMethod
+RBSendsDifferentSuperRule>>#basicCheck:
+RBSendsMethodDictRule class>>#checksMethod
+RBSendsMethodDictRule>>#basicCheck:
 RBSendsMethodDictRule>>#checkMethod:
+RBSentNotImplementedRule class>>#checksMethod
+RBSentNotImplementedRule>>#basicCheck:
+RBSubclassResponsibilityNotDefinedRule class>>#checksClass
+RBSubclassResponsibilityNotDefinedRule>>#basicCheck:
 RBSubclassResponsibilityNotDefinedRule>>#checkClass:
+RBSuperSendsNewRule class>>#checksMethod
+RBSuperSendsNewRule>>#basicCheck:
 RBSuperSendsNewRule>>#checkMethod:
+RBTempVarOverridesInstVarRule class>>#checksMethod
+RBTempVarOverridesInstVarRule>>#basicCheck:
 RBTempVarOverridesInstVarRule>>#checkMethod:
+RBTemporaryVariableCapitalizationRule class>>#checksMethod
+RBTemporaryVariableCapitalizationRule>>#basicCheck:
+RBTempsReadBeforeWrittenRule class>>#checksMethod
+RBTempsReadBeforeWrittenRule>>#basicCheck:
+RBTransformationRule class>>#checksMethod
+RBTransformationRule>>#basicCheck:
 RBTransformationRule>>#checkMethod:
+RBUnaryAccessingMethodWithoutReturnRule class>>#checksMethod
+RBUnaryAccessingMethodWithoutReturnRule>>#basicCheck:
 RBUnaryAccessingMethodWithoutReturnRule>>#checkMethod:
+RBUnclassifiedMethodsRule class>>#checksMethod
+RBUnclassifiedMethodsRule>>#basicCheck:
 RBUnclassifiedMethodsRule>>#checkMethod:
+RBUncommonMessageSendRule class>>#checksMethod
+RBUncommonMessageSendRule>>#basicCheck:
+RBUndeclaredReferenceRule class>>#checksMethod
+RBUndeclaredReferenceRule>>#basicCheck:
+RBUnpackagedCodeRule class>>#checksClass
+RBUnpackagedCodeRule class>>#checksMethod
+RBUnpackagedCodeRule>>#basicCheck:
 RBUnpackagedCodeRule>>#checkClass:
 RBUnpackagedCodeRule>>#checkMethod:
+RBUnreferencedVariablesRule class>>#checksClass
+RBUnreferencedVariablesRule>>#basicCheck:
+RBUsesTrueRule class>>#checksMethod
+RBUsesTrueRule>>#basicCheck:
 RBUsesTrueRule>>#checkMethod:
+RBUtilityMethodsRule class>>#checksMethod
+RBUtilityMethodsRule>>#basicCheck:
 RBUtilityMethodsRule>>#checkMethod:
-ScriptLoader>>#script50384
+RBVariableAssignedLiteralRule class>>#checksClass
+RBVariableAssignedLiteralRule>>#basicCheck:
+RBVariableNotDefinedRule class>>#checksMethod
+RBVariableNotDefinedRule>>#basicCheck:
+RBVariableReferencedOnceRule class>>#checksClass
+RBVariableReferencedOnceRule>>#basicCheck:
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50384
+ScriptLoader>>#update50385
+SymbolicBytecode>>#gtInspectorSourceCodeIn:

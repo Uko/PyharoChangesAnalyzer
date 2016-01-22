@@ -1,30 +1,26 @@
-ConfigurationOfRubric>>#version23:
-Breakpoint class>>#removeFrom:
-Breakpoint>>#condition:
-RubWorkspaceExample class>>#exampleWindowWithScrolledText
-RubWorkspaceExample class>>#exampleWithCustomShortcut
-ScriptLoader>>#update50442
-ConfigurationOfRubric>>#stable:
 AbstractNautilusUI>>#showSourceCode:
-NautilusUI>>#debugTest:
-NautilusUI>>#toggleBreakOnEntryIn:
-Breakpoint2
 Breakpoint class>>#inNode:
-Breakpoint>>#initialize
+Breakpoint class>>#removeFrom:
+Breakpoint2
+Breakpoint2 class>>#break
+Breakpoint>>#condition:
 Breakpoint>>#haltLink
 Breakpoint>>#haltLinkOneShot
+Breakpoint>>#initialize
 CompiledMethod>>#hasBreakpoint
-RubWorkspaceExample class>>#open
-ScriptLoader>>#script50441
-ScriptLoader>>#commentForCurrentUpdate
-SugsBreakpointSuggestion>>#breakpointForCondition
-SugsBreakpointSuggestion>>#execute
+ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version23:
 EyeInspectorTest>>#testErrorRaised
-Breakpoint2 class>>#break
-Breakpoint2
-Breakpoint class>>#inNode:
+NautilusUI>>#debugTest:
+NautilusUI>>#toggleBreakOnEntryIn:
+RubWorkspaceExample class>>#exampleWindowWithScrolledText
+RubWorkspaceExample class>>#exampleWithCustomShortcut
 RubWorkspaceExample class>>#open
 RubWorkspaceExample class>>#spyAnnouncer
 RubWorkspaceExample class>>#title
 RubWorkspaceExample class>>#windowWithScrolledText:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50441
+ScriptLoader>>#update50442
+SugsBreakpointSuggestion>>#breakpointForCondition
+SugsBreakpointSuggestion>>#execute

@@ -1,11 +1,10 @@
 LessonView>>#hasBindingOf:
 LessonView>>#hasBindingThatBeginsWith:
+LessonView>>#showLesson:withTitle:
+LessonView>>#sourceTextModel
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50197
 ScriptLoader>>#update50198
 UnlimitedInstanceVariableSlot>>#emitStore:
 UnlimitedInstanceVariableSlot>>#emitValue:
-LessonView>>#sourceTextModel
-LessonView>>#showLesson:withTitle:
-ScriptLoader>>#script50197
-ScriptLoader>>#commentForCurrentUpdate
 UnlimitedInstanceVariableSlot>>#todo
-ScriptLoader>>#script50197

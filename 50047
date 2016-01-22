@@ -1,13 +1,29 @@
+BitBltDisplayScanner>>#displayString:from:to:at:
+ConfigurationOfVersionner>>#stable:
 ConfigurationOfVersionner>>#version2131:
 ConfigurationOfVersionner>>#version2132:
 ConfigurationOfVersionner>>#version2133:
 ConfigurationOfVersionner>>#version213:
 DebugContext>>#checkSelectorUnchanged:
 DebugContext>>#confirmOnTraitOverwrite:inClass:
+DebugContext>>#recompileCurrentMethodTo:notifying:
+MTDependantProject>>#isPresent
+MTPackage>>#isDirty
+MTPackage>>#workingCopy
+MetacelloAbstractPackageSpec>>#fixedUpdateForSpawnMethod:
+MetacelloProjectReferenceSpec>>#fixedUpdateForSpawnMethod:
+MetacelloToolBox class>>#createFixedDevelopment:for:importFromBaseline:description:
+MetacelloToolBox>>#fixedEditVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated:
+MetacelloToolBox>>#fixedImportFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo:
+MetacelloToolBox>>#fixedImportFrom:updateProjects:updatePackages:versionSpecsDo:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50046
 ScriptLoader>>#update50047
 VSCommitAction>>#removeOn:
 VSCommitAction>>#validate
 VSCommitBrowser>>#actionRemove:
+VSCommitBrowser>>#buildBrowser
+VSCommitBrowser>>#commit
 VSCommitBrowser>>#informValidationError:
 VSCommitPackageAction>>#removeOn:
 VSCommitProjectAction>>#removeOn:
@@ -17,38 +33,21 @@ VSCommitProjectValidationError>>#issues
 VSCommitProjectValidationError>>#issues:
 VSCommitProjectValidationError>>#projectName
 VSCommitProjectValidationError>>#projectName:
+VSCommitProjectValidator
 VSCommitProjectValidator class>>#basename:
 VSCommitProjectValidator class>>#new
 VSCommitProjectValidator class>>#project:
-VSCommitProjectValidator
 VSCommitProjectValidator>>#basename
 VSCommitProjectValidator>>#initializeBasename:
 VSCommitProjectValidator>>#validate
+VSCommitStrategy
+VSCommitStrategy>>#initialize
 VSCommitStrategy>>#shouldCommitNestedProjects
 VSCommitStrategy>>#shouldCommitNestedProjects:
+VSCommitUnit>>#collectCommitActions
+VSCommitUnit>>#execute
 VSCommitUnit>>#removePackageAction:
 VSCommitUnit>>#removeProjectAction:
 VSCommitUnit>>#validate
-MTDependantProject>>#isPresent
-MetacelloAbstractPackageSpec>>#fixedUpdateForSpawnMethod:
-MetacelloProjectReferenceSpec>>#fixedUpdateForSpawnMethod:
-MetacelloToolBox>>#fixedEditVersionSpecsForImport:projectAttributes:active:fullVersionSpec:updateProjects:updatePackages:visited:updated:
-MetacelloToolBox>>#fixedImportFrom:projectAttributes:inactiveAttributes:updateProjects:updatePackages:versionSpecsDo:
-MetacelloToolBox>>#fixedImportFrom:updateProjects:updatePackages:versionSpecsDo:
-ConfigurationOfVersionner>>#stable:
-DebugContext>>#recompileCurrentMethodTo:notifying:
-ScriptLoader>>#script50046
-ScriptLoader>>#commentForCurrentUpdate
-BitBltDisplayScanner>>#displayString:from:to:at:
-VSCommitBrowser>>#commit
-VSCommitBrowser>>#buildBrowser
-VSCommitStrategy
-VSCommitStrategy>>#initialize
-VSCommitUnit>>#execute
-VSCommitUnit>>#collectCommitActions
 VSDirtyCollector>>#visitDependantProject:
 VSDirtyCollector>>#visitProject:
-MTPackage>>#isDirty
-MTPackage>>#workingCopy
-MetacelloToolBox class>>#createFixedDevelopment:for:importFromBaseline:description:
-ScriptLoader>>#script50046

@@ -1,82 +1,116 @@
 ConfigurationOfFastTable>>#baseline03:
+ConfigurationOfFastTable>>#development:
+ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable>>#version0710:
 ConfigurationOfFastTable>>#version0711:
-FTCellMorph>>#withTopSeparator
+FTCellMorph
 FTCellMorph>>#drawOn:
+FTCellMorph>>#initialize
+FTCellMorph>>#withTopSeparator
 FTDataSource>>#newDataSourceMatching:
 FTDataSource>>#toString:
+FTEasyListDataSource>>#menuColumn:row:
+FTExampleMethodModel>>#createActionIconOn:
+FTExamples class>>#exampleEasyList1
 FTExamples class>>#exampleEditableList1
 FTExamples class>>#exampleFilterableList
 FTExamples class>>#exampleListWithExplicitFilter
 FTExamples class>>#exampleListWithExplicitFilterAndActionButton
 FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
 FTExamples class>>#exampleListWithExplicitSearch
+FTExamples class>>#exampleOutline1
+FTExamples class>>#exampleOutline2
 FTFilterFunction
-FTFilterFunction>>#reset
-FTFilterFunction>>#keyStroke:
-FTFilterFunction>>#initializeFilter
-FTFilterFunction>>#reinitializeTable
-FTFilterFunction>>#showFilterFieldFromKeystrokeEvent:
 FTFilterFunction>>#colorText:
 FTFilterFunction>>#filter
 FTFilterFunction>>#filterWith:
+FTFilterFunction>>#ghostText
+FTFilterFunction>>#initializeFilter
+FTFilterFunction>>#keyStroke:
 FTFilterFunction>>#patternFromString:
+FTFilterFunction>>#reinitializeTable
+FTFilterFunction>>#reset
+FTFilterFunction>>#showFilterFieldFromKeystrokeEvent:
 FTFilterFunction>>#spawnFilterUpdateThread
 FTFilterFunction>>#update:
-FTFilterFunction>>#ghostText
-FTFilterFunctionWithAction class>>#table:action:named:
 FTFilterFunctionWithAction
+FTFilterFunctionWithAction class>>#table:action:named:
+FTFilterFunctionWithAction>>#action:named:
 FTFilterFunctionWithAction>>#beExplicite
 FTFilterFunctionWithAction>>#execute
 FTFilterFunctionWithAction>>#initializeActionButtonNamed:
-FTFilterFunctionWithAction>>#action:named:
 FTFilterFunctionWithAction>>#resizeButton
 FTFilterFunctionWithAction>>#resizeField
 FTFilterFunctionWithAction>>#resizeWidget
-FTFunction class>>#table:
-FTFunction class>>#isAbstract
 FTFunction
+FTFunction class>>#isAbstract
+FTFunction class>>#table:
 FTFunction>>#beExplicite
-FTFunction>>#reset
-FTFunction>>#keyStroke:
 FTFunction>>#initializeTable:
+FTFunction>>#isExplicite
+FTFunction>>#keyStroke:
+FTFunction>>#reset
 FTFunction>>#resizeContainerFrom:to:
 FTFunction>>#resizeWidget
-FTFunction>>#isExplicite
-FTFunctionWithField class>>#isAbstract
 FTFunctionWithField
+FTFunctionWithField class>>#isAbstract
 FTFunctionWithField>>#beExplicite
 FTFunctionWithField>>#fieldHeigh
+FTFunctionWithField>>#ghostText
 FTFunctionWithField>>#initializeMorph
+FTFunctionWithField>>#isExplicite
 FTFunctionWithField>>#resizeContainerFrom:to:
 FTFunctionWithField>>#resizeWidget
-FTFunctionWithField>>#isExplicite
 FTFunctionWithField>>#update:
-FTFunctionWithField>>#ghostText
 FTNilFunction
 FTNilFunction>>#beExplicite
-FTNilFunction>>#reset
+FTNilFunction>>#isExplicite
 FTNilFunction>>#keyStroke:
+FTNilFunction>>#reset
 FTNilFunction>>#resizeContainerFrom:to:
 FTNilFunction>>#resizeWidget
-FTNilFunction>>#isExplicite
+FTOutlineDataSource>>#cellColumn:row:
+FTOutlineDataSource>>#needSeparatorBefore:
 FTOutlineDataSource>>#newDataSourceMatching:
+FTPluggableIconListMorphAdaptor>>#updateList
+FTPluggableIconListMorphAdaptorDataSource>>#cellColumn:row:
 FTPluggableIconListMorphAdaptorDataSource>>#newDataSourceMatching:
-FTSearchFunction>>#search
-FTSearchFunction>>#update:
+FTSearchFunction
+FTSearchFunction class>>#new
 FTSearchFunction>>#ghostText
+FTSearchFunction>>#reset
+FTSearchFunction>>#search
+FTSearchFunction>>#searchFor:
+FTSearchFunction>>#table
+FTSearchFunction>>#update:
+FTSelectionStrategy class>>#table:
+FTSelectionStrategy>>#initializeTable:
 FTSimpleDataSource>>#newDataSourceMatching:
+FTTableMorph
+FTTableMorph class>>#defaultRowHeight
 FTTableMorph class>>#with:
 FTTableMorph>>#defaultContainer
 FTTableMorph>>#disableFunction
 FTTableMorph>>#enableFilter
 FTTableMorph>>#enableFilterWithAction:
 FTTableMorph>>#enableFilterWithAction:named:
+FTTableMorph>>#enableSearch
 FTTableMorph>>#explicitFunction
+FTTableMorph>>#initializeContainer
+FTTableMorph>>#keyStroke:
+FTTableMorph>>#keyStrokeArrowDown:
+FTTableMorph>>#keyStrokeArrowUp:
+FTTableMorph>>#keyStrokeSearch:
+FTTableMorph>>#refresh
 FTTableMorph>>#resetFunction
-FTTreeDataSource class>>#roots:children:
-FTTreeDataSource class>>#emptyMorph
+FTTableMorph>>#resetPosition
+FTTableMorph>>#resizeAllSubviews
+FTTableMorph>>#resizeColumns
+FTTableMorph>>#resizeContainer
+FTTableMorph>>#wantsDroppedMorph:event:
 FTTreeDataSource
+FTTreeDataSource class>>#emptyMorph
+FTTreeDataSource class>>#roots:children:
 FTTreeDataSource>>#canDisplayChildrenOf:
 FTTreeDataSource>>#cellColumn:row:
 FTTreeDataSource>>#childrenBlock
@@ -88,67 +122,31 @@ FTTreeDataSource>>#maxDepth:
 FTTreeDataSource>>#newDataSourceMatching:
 FTTreeDataSource>>#numberOfRows
 FTTreeDataSource>>#searchText:
+FTTreeItem
+FTTreeItem class>>#data:from:
 FTTreeItem class>>#expandedForm
 FTTreeItem class>>#unexpandedForm
-FTTreeItem class>>#data:from:
-FTTreeItem
+FTTreeItem>>#asString
 FTTreeItem>>#calculateChildren
 FTTreeItem>>#childAt:
 FTTreeItem>>#children
 FTTreeItem>>#data
+FTTreeItem>>#data:
 FTTreeItem>>#dataSource
 FTTreeItem>>#dataSource:
-FTTreeItem>>#data:
 FTTreeItem>>#depth
 FTTreeItem>>#depth:
 FTTreeItem>>#expand
-FTTreeItem>>#isExpanded
-FTTreeItem>>#numberOfVisibleChildren
-FTTreeItem>>#selfOrChildAt:
-FTTreeItem>>#unexpand
 FTTreeItem>>#expandedButton
 FTTreeItem>>#generateButton
-FTTreeItem>>#unexpandedButton
-FTTreeItem>>#asString
 FTTreeItem>>#initialize
+FTTreeItem>>#isExpanded
+FTTreeItem>>#numberOfVisibleChildren
 FTTreeItem>>#printOn:
 FTTreeItem>>#refreshTable
-ScriptLoader>>#update50414
-ConfigurationOfFastTable>>#development:
-ConfigurationOfFastTable>>#stable:
-FTCellMorph
-FTCellMorph>>#initialize
-FTEasyListDataSource>>#menuColumn:row:
-FTExampleMethodModel>>#createActionIconOn:
-FTExamples class>>#exampleEasyList1
-FTExamples class>>#exampleOutline1
-FTExamples class>>#exampleOutline2
-FTOutlineDataSource>>#cellColumn:row:
-FTOutlineDataSource>>#needSeparatorBefore:
-FTPluggableIconListMorphAdaptor>>#updateList
-FTPluggableIconListMorphAdaptorDataSource>>#cellColumn:row:
-FTSearchFunction
-FTSearchFunction>>#searchFor:
-FTSearchFunction>>#reset
-FTSelectionStrategy class>>#table:
-FTSelectionStrategy>>#initializeTable:
-FTTableMorph class>>#defaultRowHeight
-FTTableMorph
-FTTableMorph>>#enableSearch
-FTTableMorph>>#wantsDroppedMorph:event:
-FTTableMorph>>#keyStrokeArrowDown:
-FTTableMorph>>#keyStrokeArrowUp:
-FTTableMorph>>#keyStrokeSearch:
-FTTableMorph>>#keyStroke:
-FTTableMorph>>#initializeContainer
-FTTableMorph>>#resetPosition
-FTTableMorph>>#resizeAllSubviews
-FTTableMorph>>#resizeColumns
-FTTableMorph>>#resizeContainer
-FTTableMorph>>#refresh
-ScriptLoader>>#script50413
+FTTreeItem>>#selfOrChildAt:
+FTTreeItem>>#unexpand
+FTTreeItem>>#unexpandedButton
 ScriptLoader>>#commentForCurrentUpdate
-FTSearchFunction class>>#new
-FTSearchFunction>>#table
-FTOutlineDataSource>>#needSeparatorBefore:
 ScriptLoader>>#script50413
+ScriptLoader>>#update50414

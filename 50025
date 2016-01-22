@@ -1,15 +1,13 @@
-ScriptLoader>>#update50025
-RadioButtonGroup>>#selectedButton
-RadioButtonGroupExample>>#on:show:
-ScriptLoader>>#script633
-ScriptLoader>>#commentForCurrentUpdate
-SHRBTextStyler>>#visitClassReferenceNode:
 RadioButtonGroup
-RadioButtonGroup>>#initialize
 RadioButtonGroup>>#addRadioButton:
+RadioButtonGroup>>#initialize
+RadioButtonGroup>>#selectedButton
 RadioButtonGroupExample class>>#example
 RadioButtonGroupExample>>#initialize
-RadioButtonGroupExample>>#instantiateMorphs
 RadioButtonGroupExample>>#initializePresenter
-ScriptLoader>>#script633
 RadioButtonGroupExample>>#instantiateMorphs
+RadioButtonGroupExample>>#on:show:
+SHRBTextStyler>>#visitClassReferenceNode:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script633
+ScriptLoader>>#update50025

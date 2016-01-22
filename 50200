@@ -1,6 +1,5 @@
-ScriptLoader>>#update50200
-RBProgramNode class>>#formatterClass
 RBParserTest>>#exampleClasses
-ScriptLoader>>#script50199
+RBProgramNode class>>#formatterClass
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50199
+ScriptLoader>>#update50200

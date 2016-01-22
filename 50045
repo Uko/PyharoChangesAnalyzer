@@ -1,15 +1,14 @@
-KMNamedCharKeyCombination class>>#specialKeys
-KMNamedCharKeyCombination class>>#newSpecialKeys
-KMNamedCharKeyCombination class>>#key:name:
-KMNamedCharKeyCombination class>>#space
-KMNamedCharKeyCombination class>>#ifSpecialKey:do:
+FileContentsBrowser class>>#serviceBrowseCode
 KMNamedCharKeyCombination
+KMNamedCharKeyCombination class>>#ifSpecialKey:do:
+KMNamedCharKeyCombination class>>#key:name:
+KMNamedCharKeyCombination class>>#newSpecialKeys
+KMNamedCharKeyCombination class>>#space
+KMNamedCharKeyCombination class>>#specialKeys
 KMNamedCharKeyCombination>>#name
 KMNamedCharKeyCombination>>#name:
-ScriptLoader>>#update50045
-Path class>>#absoluteWindowsPathRegex
 Object class>>#newFrom:
-ScriptLoader>>#script50044
+Path class>>#absoluteWindowsPathRegex
 ScriptLoader>>#commentForCurrentUpdate
-FileContentsBrowser class>>#serviceBrowseCode
 ScriptLoader>>#script50044
+ScriptLoader>>#update50045

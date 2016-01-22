@@ -1,39 +1,4 @@
-BIConfigurableFormatter class>>#useBasicCommentFormat
-BIConfigurableFormatter class>>#useBasicCommentFormat:
 BIConfigurableFormatter class>>#announceASettingChange
-BIConfigurableFormatter>>#useBasicCommentFormat
-BIConfigurableFormatter>>#useBasicCommentFormat:
-BIPrettyPrinterContext>>#useBasicCommentFormat
-BIPrettyPrinterContext>>#useBasicCommentFormat:
-BISettingsChanged
-BIInspector class>>#buildOpenBIInspectorButton
-BIInspector class>>#openBIInspectorButtonAction
-BIInspector class>>#openBIInspectorButtonLabel
-BIInspector class>>#openBIInspectorButtonState
-BIInspector class>>#dialogOpenBIInspector
-BIInspector class>>#settingsOn:
-BIInspector class>>#defaultSpec
-BIInspector
-BIInspector>>#classSearchField
-BIInspector>>#compiledMethodFromSearchFields
-BIInspector>>#formattedCheckBox
-BIInspector>>#methodSearchField
-BIInspector>>#settingsTree
-BIInspector>>#sourceCodePane
-BIInspector>>#formatSourceCode
-BIInspector>>#initialExtent
-BIInspector>>#title
-BIInspector>>#whenASettingChanged
-BIInspector>>#whenSelectorAccepted
-BIInspector>>#initializeWidgets
-BIInspector>>#buildClassSearchField
-BIInspector>>#buildFormattedCheckBox
-BIInspector>>#buildMethodSearchField
-BIInspector>>#buildSettingsTreeModel
-BIInspector>>#buildSourceCodePane
-BIInspector>>#displayNodeFor:
-BIInspector>>#selectorAndClassAreCorrect
-ScriptLoader>>#update50207
 BIConfigurableFormatter class>>#cascadedMessageInsideParentheses:
 BIConfigurableFormatter class>>#formatCommentWithStatements:
 BIConfigurableFormatter class>>#indentString:
@@ -58,19 +23,53 @@ BIConfigurableFormatter class>>#periodsAtEndOfMethod:
 BIConfigurableFormatter class>>#retainBlankLinesBeforeComments:
 BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements:
 BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize:
+BIConfigurableFormatter class>>#settingsOn:
 BIConfigurableFormatter class>>#stringFollowingReturn:
 BIConfigurableFormatter class>>#stringInsideBlocks:
 BIConfigurableFormatter class>>#stringInsideParentheses:
 BIConfigurableFormatter class>>#traditionalBinaryPrecedence:
+BIConfigurableFormatter class>>#useBasicCommentFormat
+BIConfigurableFormatter class>>#useBasicCommentFormat:
 BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses:
-BIConfigurableFormatter class>>#settingsOn:
 BIConfigurableFormatter>>#formatCommentWithStatements:
-BIConfigurableFormatter>>#indentsForKeywords:
 BIConfigurableFormatter>>#formatMethodCommentFor:
 BIConfigurableFormatter>>#formatStatementCommentsFor:
+BIConfigurableFormatter>>#indentsForKeywords:
+BIConfigurableFormatter>>#useBasicCommentFormat
+BIConfigurableFormatter>>#useBasicCommentFormat:
+BIInspector
+BIInspector class>>#buildOpenBIInspectorButton
+BIInspector class>>#defaultSpec
+BIInspector class>>#dialogOpenBIInspector
+BIInspector class>>#openBIInspectorButtonAction
+BIInspector class>>#openBIInspectorButtonLabel
+BIInspector class>>#openBIInspectorButtonState
+BIInspector class>>#settingsOn:
+BIInspector>>#buildClassSearchField
+BIInspector>>#buildFormattedCheckBox
+BIInspector>>#buildMethodSearchField
+BIInspector>>#buildSettingsTreeModel
+BIInspector>>#buildSourceCodePane
+BIInspector>>#classSearchField
+BIInspector>>#compiledMethodFromSearchFields
+BIInspector>>#displayNodeFor:
+BIInspector>>#formatSourceCode
+BIInspector>>#formattedCheckBox
+BIInspector>>#initialExtent
+BIInspector>>#initializeWidgets
+BIInspector>>#methodSearchField
+BIInspector>>#selectorAndClassAreCorrect
+BIInspector>>#settingsTree
+BIInspector>>#sourceCodePane
+BIInspector>>#title
+BIInspector>>#whenASettingChanged
+BIInspector>>#whenSelectorAccepted
 BIPrettyPrinterContext
 BIPrettyPrinterContext>>#initialize
-ScriptLoader>>#script50206
+BIPrettyPrinterContext>>#useBasicCommentFormat
+BIPrettyPrinterContext>>#useBasicCommentFormat:
+BISettingsChanged
 ScriptLoader>>#commentForCurrentUpdate
-TextModel>>#registerEventsForShout
 ScriptLoader>>#script50206
+ScriptLoader>>#update50207
+TextModel>>#registerEventsForShout

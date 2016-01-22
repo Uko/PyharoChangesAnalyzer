@@ -1,4 +1,3 @@
-RBVariableNode>>#hasIncompleteIdentifier
 RBRemoveClassRefactoring class>>#cannotRemoveTopLevelClassErrorMesssage
 RBRemoveClassRefactoring>>#environmentWithReferencesTo:
 RBRemoveClassRefactoring>>#environmentWithUsersOf:
@@ -6,17 +5,16 @@ RBRemoveClassRefactoring>>#preconditionHasNoReferences:
 RBRemoveClassRefactoring>>#preconditionHasNoSubclasses:
 RBRemoveClassRefactoring>>#preconditionHasNoUsers:
 RBRemoveClassRefactoring>>#preconditionIsNotMetaclass:
-RBRemoveClassTest>>#testRemoveClassWithReferencesRaisesRBRefactoringError
-RBRemoveClassTest>>#resumeOnCannotRemoveTopLevelClassError:
-RBRemoveClassTest>>#testRaisesRBRefactoringErrorWhenRemovingClassWithSubclasses
-ScriptLoader>>#update50070
 RBRemoveClassRefactoring>>#preconditions
+RBRemoveClassTest>>#resumeOnCannotRemoveTopLevelClassError:
 RBRemoveClassTest>>#testBadName
+RBRemoveClassTest>>#testRaisesRBRefactoringErrorWhenRemovingClassWithSubclasses
 RBRemoveClassTest>>#testRemoveClass
-ScriptLoader>>#script50069
-ScriptLoader>>#commentForCurrentUpdate
+RBRemoveClassTest>>#testRemoveClassWithReferencesRaisesRBRefactoringError
+RBVariableNode>>#hasIncompleteIdentifier
 SHRBTextStyler>>#resolveStyleFor:
 SHRBTextStyler>>#visitVariableNode:
-TTLCache>>#removeStaleValues
-RBRemoveClassTest>>#testBadName
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50069
+ScriptLoader>>#update50070
+TTLCache>>#removeStaleValues

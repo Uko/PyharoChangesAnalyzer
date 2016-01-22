@@ -1,48 +1,190 @@
-ConfigurationOfGTEventRecorder class>>#project
+ConfigurationOfGTEventRecorder
 ConfigurationOfGTEventRecorder class>>#DevelopmentSupport
-ConfigurationOfGTEventRecorder class>>#validate
-ConfigurationOfGTEventRecorder class>>#load
-ConfigurationOfGTEventRecorder class>>#loadBleedingEdge
-ConfigurationOfGTEventRecorder class>>#loadDevelopment
-ConfigurationOfGTEventRecorder class>>#isMetacelloConfig
 ConfigurationOfGTEventRecorder class>>#baseConfigurationClassIfAbsent:
 ConfigurationOfGTEventRecorder class>>#ensureMetacello
 ConfigurationOfGTEventRecorder class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfGTEventRecorder
-ConfigurationOfGTEventRecorder>>#customProjectAttributes
-ConfigurationOfGTEventRecorder>>#project
+ConfigurationOfGTEventRecorder class>>#isMetacelloConfig
+ConfigurationOfGTEventRecorder class>>#load
+ConfigurationOfGTEventRecorder class>>#loadBleedingEdge
+ConfigurationOfGTEventRecorder class>>#loadDevelopment
+ConfigurationOfGTEventRecorder class>>#project
+ConfigurationOfGTEventRecorder class>>#validate
 ConfigurationOfGTEventRecorder>>#baseline01:
+ConfigurationOfGTEventRecorder>>#customProjectAttributes
 ConfigurationOfGTEventRecorder>>#development:
+ConfigurationOfGTEventRecorder>>#project
 ConfigurationOfGTEventRecorder>>#stable:
 ConfigurationOfGTEventRecorder>>#version01:
 ConfigurationOfGTEventRecorder>>#version02:
 ConfigurationOfGTEventRecorder>>#version031:
 ConfigurationOfGTEventRecorder>>#version03:
+ConfigurationOfGTInspectorCore>>#stable:
 ConfigurationOfGTInspectorCore>>#version21:
 ConfigurationOfGTInspectorCore>>#version221:
 ConfigurationOfGTInspectorCore>>#version22:
+ConfigurationOfGTPlaygroundCore>>#stable:
 ConfigurationOfGTPlaygroundCore>>#version22:
 ConfigurationOfGTPlaygroundCore>>#version231:
 ConfigurationOfGTPlaygroundCore>>#version23:
+ConfigurationOfGTSpotter>>#development:
+ConfigurationOfGTSpotter>>#stable:
 ConfigurationOfGTSpotter>>#version13:
 ConfigurationOfGTSpotter>>#version141:
 ConfigurationOfGTSpotter>>#version14:
+ConfigurationOfGToolkitCore>>#development:
+ConfigurationOfGToolkitCore>>#stable:
 ConfigurationOfGToolkitCore>>#version31:
 ConfigurationOfGToolkitCore>>#version321:
 ConfigurationOfGToolkitCore>>#version32:
+ConfigurationOfGlamourCore>>#stable:
 ConfigurationOfGlamourCore>>#version33:
 ConfigurationOfGlamourCore>>#version341:
 ConfigurationOfGlamourCore>>#version34:
+ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric>>#version24:
+FileReference>>#gtInspectorContentsIn:
+FileReference>>#gtInspectorItemsIn:
+FileReference>>#gtInspectorPngIn:
+FileReference>>#gtInspectorStScriptIn:
+GLMAnnouncingCollection>>#asOrderedCollection
+GLMBasicExamples>>#onChangeOfPortAction
+GLMBasicExamples>>#smalltalkCode
+GLMBasicExamples>>#smalltalkEditorWithBindings
+GLMBasicExamples>>#textPortAction
+GLMBasicExamples>>#textPortsExamples
+GLMBasicExamples>>#updateableBrowser
+GLMCompositePresentation>>#pharoPlayground
+GLMCompositePresentation>>#pharoScript
+GLMCompositePresentation>>#rubricText
+GLMCompositePresentation>>#smalltalkCode
+GLMCompositePresentation>>#text
+GLMCompositePresentationMorphicTest>>#testTabsLastActivePresentation
+GLMDynamicMorphicTest>>#testSurroundingPanel
+GLMDynamicMorphicTest>>#testUpdate
+GLMDynamicPresentationTest>>#testCachedPresentation
+GLMDynamicPresentationTest>>#testDefaultPresentation
+GLMDynamicPresentationTest>>#testDirectEventsPropagationTransformation
+GLMDynamicPresentationTest>>#testIndirectEventsPropagationTransformation
+GLMEmptyPopupBrick>>#isInsideOfContentBrick:
+GLMEmptyPopupBrick>>#isInsideOfTriggerBrick:
+GLMExpanderTest>>#testPresentations
+GLMFinderMorphicTest>>#testEmbeddedBrowserRefreshesRendering
+GLMFlexiblePresentation>>#currentPresentation
+GLMItemChanged
+GLMLipsumWithSegmentsExample>>#presentation
+GLMMorphicPharoCodeRenderer>>#evaluateAndPopPrintHighlight
+GLMMorphicPharoCodeRenderer>>#popupPrint
+GLMMorphicPharoCodeRendererTest>>#testCodeExecutionWithBindings
+GLMMorphicPharoPlaygroundRenderer>>#actOnVariableBindingsAccessRequest:
+GLMMorphicPharoPlaygroundRenderer>>#actOnVariableBindingsUpdated:
+GLMMorphicPharoPlaygroundRenderer>>#modelFor:
+GLMMorphicPharoPlaygroundRenderer>>#morph
+GLMMorphicPharoPlaygroundRenderer>>#registerEventsForPresentation:
+GLMMorphicPharoPlaygroundRenderer>>#workspaceBindingsStrategy
+GLMMorphicPharoScriptRenderer
+GLMMorphicRenderer>>#renderPharoScriptPresentation:
+GLMPharoPlaygroundPresentation class>>#pharoPlaygroundPresentationExample
+GLMPharoPlaygroundPresentation>>#currentBindings
+GLMPharoPlaygroundPresentation>>#defaultSelectionActions
+GLMPharoPlaygroundPresentation>>#goAction
+GLMPharoPlaygroundPresentation>>#renderGlamorouslyOn:
+GLMPharoPlaygroundPresentation>>#resetBindings
+GLMPharoPlaygroundPresentation>>#updateVariableBindings
+GLMPharoPlaygroundPresentation>>#variableBindings
+GLMPharoPlaygroundPresentation>>#variableBindings:
+GLMPharoPlaygroundPresentation>>#withBindingsDo:
+GLMPharoScriptMorphicTest
+GLMPharoScriptMorphicTest>>#testForSmalltalkWorkspace
+GLMPharoScriptPresentation
+GLMPopper class>>#installAlarm:for:
+GLMPopper class>>#installAlarm:for:withArguments:
+GLMPopper class>>#installAlarmFor:
+GLMPopperNotificationStrategy>>#notify:at:in:
+GLMPopperNotificationStrategy>>#popupError:
+GLMPortEventTest>>#testCreation
+GLMPortEventTest>>#testCreationWithTransmissionContext
+GLMPortEventTest>>#testPortName
+GLMPresentation>>#sendOneOrMultiple
+GLMPresentation>>#sendOneOrMultipleAs:
+GLMPresentation>>#sendOneOrMultipleAs:updatedBy:
+GLMRubricTextModel>>#shiftMenu
+GLMRubricTextMorphicTest>>#expectedFailures
+GLMRubricTextMorphicTest>>#testAcceptKeyCanBeOverriden
+GLMRubricTextMorphicTest>>#testEnteringTextInPort
+GLMRubricTextMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
+GLMRubricTextMorphicTest>>#testMultipleSelectionWithChange
+GLMRubricTextMorphicTest>>#testOKeyCanBeOverriden
+GLMRubricTextMorphicTest>>#testPastingUpdatesTextPort
+GLMRubricTextMorphicTest>>#testResettingTheSelection
+GLMRubricTextMorphicTest>>#testTextPortPopulatedByDefault
+GLMRubricTextMorphicTest>>#testUnregisterFromAnnouncementsWhenUpdating
+GLMRubricTextMorphicTest>>#testUpdatingTextPortUpdatesTheMorph
+GLMScriptingTest>>#testConditionalPresentation
+GLMScrollPaneBandBrick>>#layoutMorphs:
+GLMScrollPaneBandBrick>>#onChildrenLayouted
+GLMSegmentWithHelpAndMouseUpActionExample>>#presentation
+GLMSimpleRubricExample>>#presentation
+GLMSmalltalkCodeMorphicTest>>#testDefault
+GLMSmalltalkCodeMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
+GLMSmalltalkCodePresentation>>#renderGlamorouslyOn:
+GLMTextMorphicTest>>#simulateOnlyOneClickOn:
+GLMTextMorphicTest>>#testAcceptKeyCanBeOverriden
+GLMTextMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
+GLMTextMorphicTest>>#testMultipleSelectionWithChange
+GLMTextMorphicTest>>#testPastingUpdatesTextPort
+GLMTextPresentation>>#renderGlamorouslyOn:
+GLMTextPresentationTest>>#testSelectedText
+GLMTextPresentationTest>>#testSelectionIntervalInitialization
+GLMTreeMorphNodeModel>>#menu:shifted:
+GLMUpdateInterdependentPanesTest>>#testAllowNil
+GLMWatcherMorphicTest>>#testWithDynamicPresentation
+GLMWrapperTest>>#testPresentationsAreInstalled
 GTDummyEvent
+GTDummyEvent>>#=
 GTDummyEvent>>#data
 GTDummyEvent>>#data:
-GTDummyEvent>>#=
 GTDummyEvent>>#hash
+GTEventAnnouncement
+GTEventAnnouncement>>#migrationRules
+GTEventAnnouncement>>#migrationRules:
+GTEventAnnouncement>>#safeUnpackedData
+GTEventAnnouncement>>#serializedBy
+GTEventAnnouncement>>#serializedBy:
+GTEventAnnouncement>>#sessionUUID
+GTEventAnnouncement>>#sessionUUID:
+GTEventAnnouncement>>#unpackedData
+GTEventBundle
+GTEventBundle>>#accept:
+GTEventBundle>>#category
+GTEventBundle>>#category:
+GTEventBundle>>#data
+GTEventBundle>>#data:
+GTEventBundle>>#entity
+GTEventBundle>>#url
+GTEventBundle>>#url:
 GTEventBundleTest
 GTEventBundleTest>>#setUp
 GTEventBundleTest>>#testData
 GTEventBundleTest>>#testEntity
+GTEventCollector
+GTEventCollector>>#add:
+GTEventCollector>>#bundle
+GTEventCollector>>#bundle:
+GTEventCollector>>#category
+GTEventCollector>>#category:
+GTEventCollector>>#creationTime
+GTEventCollector>>#defaultCategory
+GTEventCollector>>#flush
+GTEventCollector>>#initialize
+GTEventCollector>>#isLiberated
+GTEventCollector>>#liberate
+GTEventCollector>>#occupant:
+GTEventCollector>>#printOn:
+GTEventCollector>>#register
+GTEventCollector>>#registry
+GTEventCollector>>#size
+GTEventCollector>>#url
+GTEventCollector>>#url:
 GTEventCollectorTest
 GTEventCollectorTest>>#setUp
 GTEventCollectorTest>>#testBundle
@@ -56,6 +198,16 @@ GTEventCollectorTest>>#testLiberate
 GTEventCollectorTest>>#testLiberate2
 GTEventCollectorTest>>#testPrintOn
 GTEventCollectorTest>>#testUrl
+GTEventCollectors
+GTEventCollectors>>#add:
+GTEventCollectors>>#do:
+GTEventCollectors>>#gtInspectorItemsIn:
+GTEventCollectors>>#initialize
+GTEventCollectors>>#numberOfEvents
+GTEventCollectors>>#printOn:
+GTEventCollectors>>#remove:
+GTEventCollectors>>#removeLiberatedCollectors
+GTEventCollectors>>#size
 GTEventCollectorsTest
 GTEventCollectorsTest>>#setUp
 GTEventCollectorsTest>>#testAdd
@@ -65,20 +217,67 @@ GTEventCollectorsTest>>#testDefault
 GTEventCollectorsTest>>#testDo
 GTEventCollectorsTest>>#testDo2
 GTEventCollectorsTest>>#testPrintOn
+GTEventConsolidate
+GTEventConsolidate>>#collectors:
+GTEventConsolidate>>#consolidated
 GTEventConsolidateTest
 GTEventConsolidateTest>>#setUp
 GTEventConsolidateTest>>#testConsolidated
 GTEventConsolidateTest>>#testConsolidated2
 GTEventConsolidateTest>>#testConsolidated3
 GTEventConsolidateTest>>#testConsolidated4
+GTEventDelivery
+GTEventDelivery>>#activate
+GTEventDelivery>>#add:
+GTEventDelivery>>#announceSuspendingDelivery
+GTEventDelivery>>#announcer
+GTEventDelivery>>#bundles
+GTEventDelivery>>#deactivate
+GTEventDelivery>>#deliver:
+GTEventDelivery>>#deliver:signalProgress:
+GTEventDelivery>>#deliveryCycle
+GTEventDelivery>>#hasPermission
+GTEventDelivery>>#initialize
+GTEventDelivery>>#initializeProcess
+GTEventDelivery>>#isActive
+GTEventDelivery>>#isGlobalRecorder
+GTEventDelivery>>#isInactive
+GTEventDelivery>>#now
+GTEventDelivery>>#offerPermission
+GTEventDelivery>>#packAndDeliver:
+GTEventDelivery>>#preSuspendingAction:
+GTEventDelivery>>#printOn:
+GTEventDelivery>>#printProcessName
+GTEventDelivery>>#printProcessNameOn:
+GTEventDelivery>>#recorder
+GTEventDelivery>>#recorder:
+GTEventDelivery>>#size
+GTEventDelivery>>#withdrawPermission
 GTEventDeliveryTest
 GTEventDeliveryTest>>#assertSemaphore
+GTEventDeliveryTest>>#isGlobalRecorder
 GTEventDeliveryTest>>#setUp
 GTEventDeliveryTest>>#tearDown
-GTEventDeliveryTest>>#isGlobalRecorder
 GTEventDeliveryTest>>#testPrintOn
 GTEventDeliveryTest>>#testPrintOn2
 GTEventDeliveryTest>>#testPrintProcessName
+GTEventInitializationError
+GTEventMultiBundle
+GTEventMultiBundle>>#accept:
+GTEventMultiBundle>>#add:
+GTEventMultiBundle>>#bundles
+GTEventMultiBundle>>#entity
+GTEventMultiBundle>>#updateEntity:
+GTEventMultiBundle>>#url
+GTEventMultiBundle>>#url:
+GTEventMultiBundleFactory
+GTEventMultiBundleFactory class>>#default
+GTEventMultiBundleFactory class>>#fromBundles:
+GTEventMultiBundleFactory>>#fromBundles:
+GTEventMultiBundleFactory>>#multiBundles
+GTEventMultiBundleFactory>>#synthetize:
+GTEventMultiBundleFactory>>#visitMultiBundle:
+GTEventMultiBundleFactory>>#visitSingleBundle:
 GTEventMultiBundleFactoryTest
 GTEventMultiBundleFactoryTest>>#allBundles
 GTEventMultiBundleFactoryTest>>#detectEvents
@@ -93,26 +292,70 @@ GTEventMultiBundleTest>>#testEntity
 GTEventMultiBundleTest>>#testEntity2
 GTEventMultiBundleTest>>#testEntity3
 GTEventMultiBundleTest>>#testEntity4
-GTEventPackingTest class>>#isAbstract
+GTEventPacking
+GTEventPacking class>>#all
+GTEventPacking class>>#default
+GTEventPacking class>>#fuel
+GTEventPacking class>>#ston
+GTEventPacking>>#materialize:
+GTEventPacking>>#migrations:
+GTEventPacking>>#newAnnouncement
+GTEventPacking>>#newAnnouncementFor:
+GTEventPacking>>#pack:
+GTEventPacking>>#packCollector:
+GTEventPacking>>#serialize:
+GTEventPacking>>#technologyName
+GTEventPacking>>#unpack:
+GTEventPacking>>#updateAnnouncement:withData:
+GTEventPacking>>#version
 GTEventPackingTest
-GTEventPackingTest>>#packingClass
+GTEventPackingTest class>>#isAbstract
 GTEventPackingTest>>#assertBundle
 GTEventPackingTest>>#assertUnpackedData
+GTEventPackingTest>>#packingClass
 GTEventPackingTest>>#setUp
 GTEventPackingTest>>#testPack
 GTEventPackingTest>>#testUnpackBinaryBinaryStream
 GTEventPackingTest>>#testUnpackBinaryUnspecifiedStream
 GTEventPackingTest>>#testUnpackUnspecifiedBinaryStream
 GTEventPackingTest>>#testUnpackUnspecifiedUnspecifiedStream
+GTEventRecorder
+GTEventRecorder class>>#cleanUp
+GTEventRecorder class>>#isGlobalRecorder:
+GTEventRecorder class>>#uniqueInstance
+GTEventRecorder>>#activateDelivery
+GTEventRecorder>>#addCollector:
+GTEventRecorder>>#canSendDiagnosticsAndUsageData
+GTEventRecorder>>#deactivateDelivery
+GTEventRecorder>>#deliverNow
+GTEventRecorder>>#delivery
+GTEventRecorder>>#deliveryPreSuspendingAction:
+GTEventRecorder>>#flush
+GTEventRecorder>>#gtInspectorItemsIn:
+GTEventRecorder>>#initialize
+GTEventRecorder>>#isDeliveryActive
+GTEventRecorder>>#isGlobalRecorder
+GTEventRecorder>>#numberOfCollectors
+GTEventRecorder>>#numberOfDeliveryData
+GTEventRecorder>>#offerDeliveryPermission
+GTEventRecorder>>#offerPrivacy
+GTEventRecorder>>#pack
+GTEventRecorder>>#removeCollector:
+GTEventRecorder>>#removeLiberatedCollectors
+GTEventRecorder>>#withdrawDeliveryPermission
+GTEventRecorder>>#withdrawPrivacy
+GTEventRecorderError
+GTEventRecorderSettings
+GTEventRecorderSettings class>>#cleanUp
+GTEventRecorderSettings class>>#urlSettingsOn:
 GTEventRecorderTest
 GTEventRecorderTest>>#assertReceiverSemaphore
 GTEventRecorderTest>>#assertSemaphore
 GTEventRecorderTest>>#denyReceiverSemaphore
-GTEventRecorderTest>>#waitForDelivery
+GTEventRecorderTest>>#handleRequest:response:
 GTEventRecorderTest>>#setUp
 GTEventRecorderTest>>#setUpServer
 GTEventRecorderTest>>#tearDown
-GTEventRecorderTest>>#handleRequest:response:
 GTEventRecorderTest>>#testAddCollector
 GTEventRecorderTest>>#testAddCollector2
 GTEventRecorderTest>>#testAddCollector3
@@ -130,18 +373,56 @@ GTEventRecorderTest>>#testPack2
 GTEventRecorderTest>>#testRemoveCollector
 GTEventRecorderTest>>#testRemoveCollector2
 GTEventRecorderTest>>#testTwiceDeliveredDataSholdBeDetected
+GTEventRecorderTest>>#waitForDelivery
 GTEventRecorderTestServer
+GTEventRecorderTestServer>>#initializeUsingDelegate:semaphore:
 GTEventRecorderTestServer>>#server
 GTEventRecorderTestServer>>#stop
+GTEventRecorderTestServer>>#unsubscribeAll
 GTEventRecorderTestServer>>#url
 GTEventRecorderTestServer>>#when:do:
-GTEventRecorderTestServer>>#initializeUsingDelegate:semaphore:
-GTEventRecorderTestServer>>#unsubscribeAll
+GTEventRegistry
+GTEventRegistry>>#initialize
+GTEventRegistry>>#isLiberated
+GTEventRegistry>>#liberate
+GTEventRegistry>>#object:
+GTEventRegistry>>#printOn:
 GTEventRegistryTest
+GTEventRegistryTest>>#setUp
 GTEventRegistryTest>>#testIsLiberated
 GTEventRegistryTest>>#testIsLiberated2
 GTEventRegistryTest>>#testIsLiberated3
-GTEventRegistryTest>>#setUp
+GTEventTool
+GTEventTool class>>#default
+GTEventTool>>#checkProcess
+GTEventTool>>#defaultDownloadDirectory
+GTEventTool>>#defaultDownloadFilename
+GTEventTool>>#defaultEventsDirectory
+GTEventTool>>#defaultUrl
+GTEventTool>>#download
+GTEventTool>>#ensureDownloadedData
+GTEventTool>>#ensureExctractedData
+GTEventTool>>#ensureLocalDirectory
+GTEventTool>>#extract
+GTEventTool>>#printHumanReadableSize:
+GTEventTool>>#unpackAll
+GTEventTool>>#unpackAll:
+GTEventTool>>#update:
+GTEventUnpacking
+GTEventUnpacking class>>#default
+GTEventUnpacking>>#addPacking:
+GTEventUnpacking>>#packings
+GTEventUnpacking>>#safeUnpackDirectory:
+GTEventUnpacking>>#unpack:
+GTEventUnpacking>>#unpackDirectory:
+GTEventUnpacking>>#unpackFile:
+GTEventUnpackingError
+GTEventUnpackingError class>>#signal:data:errors:
+GTEventUnpackingError>>#data
+GTEventUnpackingError>>#data:
+GTEventUnpackingError>>#errors
+GTEventUnpackingError>>#errors:
+GTEventUnpackingError>>#isResumable
 GTEventUnpackingTest
 GTEventUnpackingTest>>#setUp
 GTEventUnpackingTest>>#testUnpack
@@ -151,16 +432,179 @@ GTEventUnpackingTest>>#testUnpack4
 GTEventUnpackingTest>>#testUnpack5
 GTEventUnpackingTest>>#testUnpackFuel
 GTEventUnpackingTest>>#testUnpackSton
+GTExample>>#gtDisplaySummaryOn:
+GTExample>>#iconSelectorBase64:
+GTExample>>#ignoreCache
+GTExample>>#noCache
+GTExample>>#resultCached:
+GTExampleOrganizer>>#reset
+GTExampleOrganizer>>#resetResults
+GTExampleOrganizer>>#withCleanupDo:
+GTFilter>>#value:
+GTFuelPacking
+GTFuelPacking>>#addMigration:
+GTFuelPacking>>#initializeMaterializer:
+GTFuelPacking>>#initializeMigrations
+GTFuelPacking>>#migrationForGTSpotterRecorderDataAnnouncement
+GTFuelPacking>>#migrations
+GTFuelPacking>>#migrations:
+GTFuelPacking>>#technologyName
 GTFuelPackingTest
 GTFuelPackingTest>>#packingClass
 GTFuelPackingTest>>#testMigration
 GTFuelPackingTest>>#testMigration2
+GTInspectorExamplesManualTest
+GTInspectorExamplesManualTest class>>#reset
+GTInspectorExamplesManualTest>>#basicRunClasses
+GTInspectorExamplesManualTest>>#basicRunExample:
+GTInspectorExamplesManualTest>>#basicRunFailures
+GTInspectorExamplesManualTest>>#checkAllPresentationsOf:onError:
+GTInspectorExamplesManualTest>>#filenameFor:
+GTInspectorExamplesManualTest>>#initialize
+GTInspectorExamplesManualTest>>#printException:forExample:withPragma:
+GTInspectorExamplesManualTest>>#readClassesFromFile:
+GTInspectorExamplesManualTest>>#readFailuresFromFile:
+GTInspectorExamplesManualTest>>#run
+GTInspectorExamplesManualTest>>#run:
+GTInspectorExamplesManualTest>>#runClasses:
+GTInspectorExamplesManualTest>>#runExample:
+GTInspectorExamplesManualTest>>#runFailures
+GTInspectorExamplesManualTest>>#verify
+GTInspectorExamplesTest
+GTInspectorExamplesTest>>#allExamplesClasses
+GTInspectorExamplesTest>>#checkAllPresentationsOf:
+GTInspectorExamplesTest>>#pragmasFor:
+GTInspectorExamplesTest>>#setUp
+GTInspectorExamplesTest>>#tearDown
+GTInspectorExamplesTest>>#testAllExamples
+GTInspectorExamplesTest>>#testGlobals
+GTObjectVariablesBrowser>>#evaluatorIn:
+GTPlayBook class>>#stashDirectory
+GTPlayPage>>#gtInspectorContentIn:
+GTPlayground>>#codePresentationIn:
+GTSpotter class>>#exampleSpotterWithoutMorph
+GTSpotter>>#spotterForSettingsFor:
+GTSpotterEventCollector
+GTSpotterEventCollector>>#bundle
+GTSpotterEventCollector>>#defaultCategory
+GTSpotterEventCollector>>#postpone:
+GTSpotterEventCollector>>#recordAnnouncement:
+GTSpotterEventCollector>>#recordSpotterOpenEvent
+GTSpotterEventCollectorBackwardCompatibilityTest
+GTSpotterEventCollectorBackwardCompatibilityTest class>>#serializeAnnouncementWithAllEventsUsing:
+GTSpotterEventCollectorBackwardCompatibilityTest class>>#storeSerializedAnnouncement
+GTSpotterEventCollectorBackwardCompatibilityTest class>>#storeSerializedAnnouncementIntoMethod:using:
+GTSpotterEventCollectorBackwardCompatibilityTest>>#assertVersion:
+GTSpotterEventCollectorBackwardCompatibilityTest>>#materializePragmaVersion:
+GTSpotterEventCollectorBackwardCompatibilityTest>>#setUp
+GTSpotterEventCollectorBackwardCompatibilityTest>>#testDateAndTime
+GTSpotterEventCollectorBackwardCompatibilityTest>>#version3fuel
+GTSpotterEventCollectorBackwardCompatibilityTest>>#version3ston
+GTSpotterEventCollectorBackwardCompatibilityTest>>#version4fuel
+GTSpotterEventCollectorBackwardCompatibilityTest>>#version4ston
+GTSpotterEventCollectorTest
+GTSpotterEventCollectorTest>>#setUp
+GTSpotterEventCollectorTest>>#testBundle
+GTSpotterEventCollectorTest>>#testPostponedEvents
+GTSpotterEventRecorder class>>#cleanUp
+GTSpotterEventRecorder class>>#materialize:
+GTSpotterEventRecorder class>>#serialize:
+GTSpotterEventRecorder>>#linkToSpotter:
+GTSpotterEventRecorder>>#postponedData
+GTSpotterEventRecorder>>#standardDuration
+GTSpotterEventRecorderSettings class>>#deletePreferences
+GTSpotterEventRecorderSettings class>>#reset
+GTSpotterEventRecorderSettings class>>#stringUrl
+GTSpotterEventRecorderSettings class>>#stringUrl:
+GTSpotterEventRecorderSettings class>>#url
+GTSpotterEventRecorderSettings class>>#url:
+GTSpotterEventRecorderTest class>>#instancesForAllEvents
+GTSpotterEventRecorderTest>>#allPragmaVersions
+GTSpotterEventRecorderTest>>#assertAnnouncement:
+GTSpotterEventRecorderTest>>#testMaterializeVersions
+GTSpotterEventRecorderTest>>#version1
+GTSpotterEventRecorderTest>>#version2
+GTSpotterEventRecorderTest>>#versionsDo:
+GTSpotterGlobalShortcut class>>#openGlobalSpotter
+GTSpotterHeaderBrick>>#initialize
+GTSpotterMethodListProcessorFilter>>#allowProcessorsFrom:configuredWith:
+GTSpotterMethodListProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
+GTSpotterMorph>>#initialize
+GTSpotterPrivacyAgreementNotificationBrick class>>#openSettingsBrowser
+GTSpotterPrivacyAgreementNotificationBrick>>#privacyMessage
+GTSpotterPrivacyAgreementNotificationBrick>>#sendUsageData
+GTSpotterProcessorsForExamplesTest>>#setUp
+GTSpotterProcessorsForExamplesTest>>#tearDown
+GTSpotterProcessorsForExamplesTest>>#testEachProcessor
+GTSpotterRecorderDataAnnouncement class>>#gtExampleAnnouncement
+GTSpotterRecorderDataAnnouncement class>>#gtExampleEmptyAnnouncement
+GTSpotterRecorderDataAnnouncement>>#addInfoFor:
+GTSpotterRecorderDataAnnouncement>>#associations
+GTSpotterRecorderDataAnnouncement>>#at:
+GTSpotterRecorderDataAnnouncement>>#at:put:
+GTSpotterRecorderDataAnnouncement>>#computerUUID
+GTSpotterRecorderDataAnnouncement>>#computerUUID:
+GTSpotterRecorderDataAnnouncement>>#data
+GTSpotterRecorderDataAnnouncement>>#data:
+GTSpotterRecorderDataAnnouncement>>#dictionary
+GTSpotterRecorderDataAnnouncement>>#eventRecorderVersion
+GTSpotterRecorderDataAnnouncement>>#eventRecorderVersion:
+GTSpotterRecorderDataAnnouncement>>#events
+GTSpotterRecorderDataAnnouncement>>#gtInspectorItems
+GTSpotterRecorderDataAnnouncement>>#gtInspectorItemsIn:
+GTSpotterRecorderDataAnnouncement>>#imageHash
+GTSpotterRecorderDataAnnouncement>>#imageHash:
+GTSpotterRecorderDataAnnouncement>>#imageVersion
+GTSpotterRecorderDataAnnouncement>>#imageVersion:
+GTSpotterRecorderDataAnnouncement>>#latestUpdate
+GTSpotterRecorderDataAnnouncement>>#latestUpdate:
+GTSpotterRecorderDataAnnouncement>>#sessionCreationTime
+GTSpotterRecorderDataAnnouncement>>#sessionCreationTime:
+GTSpotterRecorderDataAnnouncement>>#timestamp
+GTSpotterRecorderDataAnnouncement>>#timestamp:
+GTSpotterRecorderEvent>>#hashForText:
+GTSpotterRecorderEvent>>#initializeObfuscated
+GTSpotterRecorderEvent>>#obfuscated
+GTSpotterRecorderEvent>>#obfuscated:
+GTSpotterRecorderEvent>>#settings
+GTSpotterRecorderOpenEvent>>#initialize
+GTStonPacking
+GTStonPacking>>#materialize:
+GTStonPacking>>#serialize:
+GTStonPacking>>#technologyName
 GTStonPackingTest
 GTStonPackingTest>>#packingClass
+GlobalIdentifier
+GlobalIdentifier class>>#cleanUp
+GlobalIdentifier class>>#initializeUniqueInstance
+GlobalIdentifier class>>#new
+GlobalIdentifier class>>#uniqueInstance
+GlobalIdentifier>>#computerUUID
+GlobalIdentifier>>#ensure
+GlobalIdentifier>>#initialize
+GlobalIdentifier>>#obfuscate:
+GlobalIdentifier>>#obfuscateIfNecessary:
+GlobalIdentifier>>#persistedInformation
+GlobalIdentifier>>#persistenceStrategy
+GlobalIdentifier>>#persistenceStrategy:
+GlobalIdentifier>>#secretUUID
+GlobalIdentifierFuelPersistence
+GlobalIdentifierFuelPersistence>>#fileName
+GlobalIdentifierFuelPersistence>>#load
+GlobalIdentifierFuelPersistence>>#save:into:
 GlobalIdentifierFuelPersistenceTest
 GlobalIdentifierFuelPersistenceTest>>#persistenceClass
 GlobalIdentifierFuelPersistenceTest>>#setUpPreferences
 GlobalIdentifierFuelPersistenceTest>>#tearDown
+GlobalIdentifierMerger
+GlobalIdentifierMerger>>#convertValues
+GlobalIdentifierMerger>>#existing
+GlobalIdentifierMerger>>#existing:
+GlobalIdentifierMerger>>#merge
+GlobalIdentifierMerger>>#mergeDifferentComputer
+GlobalIdentifierMerger>>#mergeSameComputer
+GlobalIdentifierMerger>>#stored
+GlobalIdentifierMerger>>#stored:
 GlobalIdentifierMergerTest
 GlobalIdentifierMergerTest>>#setUp
 GlobalIdentifierMergerTest>>#testMerge
@@ -171,8 +615,27 @@ GlobalIdentifierMergerTest>>#testMerge5
 GlobalIdentifierMergerTest>>#testMerge6
 GlobalIdentifierMergerTest>>#testMerge7
 GlobalIdentifierMergerTest>>#testMerge8
-GlobalIdentifierPersistenceTest class>>#isAbstract
+GlobalIdentifierPersistence
+GlobalIdentifierPersistence class>>#fuel
+GlobalIdentifierPersistence class>>#ston
+GlobalIdentifierPersistence>>#defaultPreferences
+GlobalIdentifierPersistence>>#ensure:
+GlobalIdentifierPersistence>>#ensureDirectory
+GlobalIdentifierPersistence>>#fileName
+GlobalIdentifierPersistence>>#hasPreviousPersistence
+GlobalIdentifierPersistence>>#load
+GlobalIdentifierPersistence>>#load:
+GlobalIdentifierPersistence>>#mayOverwrite:
+GlobalIdentifierPersistence>>#mergeExisting:stored:
+GlobalIdentifierPersistence>>#preferences
+GlobalIdentifierPersistence>>#preferences:
+GlobalIdentifierPersistence>>#previous
+GlobalIdentifierPersistence>>#previous:
+GlobalIdentifierPersistence>>#save:
+GlobalIdentifierPersistence>>#save:into:
+GlobalIdentifierPersistence>>#shouldCallPreviousPersistence
 GlobalIdentifierPersistenceTest
+GlobalIdentifierPersistenceTest class>>#isAbstract
 GlobalIdentifierPersistenceTest>>#folderName
 GlobalIdentifierPersistenceTest>>#persistenceClass
 GlobalIdentifierPersistenceTest>>#setUp
@@ -184,6 +647,10 @@ GlobalIdentifierPersistenceTest>>#testEnsureDirectory
 GlobalIdentifierPersistenceTest>>#testLoad
 GlobalIdentifierPersistenceTest>>#testLoad2
 GlobalIdentifierPersistenceTest>>#testSave
+GlobalIdentifierStonPersistence
+GlobalIdentifierStonPersistence>>#fileName
+GlobalIdentifierStonPersistence>>#load
+GlobalIdentifierStonPersistence>>#save:into:
 GlobalIdentifierStonPersistenceTest
 GlobalIdentifierStonPersistenceTest>>#persistenceClass
 GlobalIdentifierStonPersistenceTest>>#setUpPreferences
@@ -206,513 +673,28 @@ GlobalIdentifierWithFuel>>#setUpPersistenceStrategy
 GlobalIdentifierWithSton
 GlobalIdentifierWithSton>>#fileName
 GlobalIdentifierWithSton>>#setUpPersistenceStrategy
-GTEventAnnouncement
-GTEventAnnouncement>>#migrationRules
-GTEventAnnouncement>>#migrationRules:
-GTEventAnnouncement>>#safeUnpackedData
-GTEventAnnouncement>>#serializedBy
-GTEventAnnouncement>>#serializedBy:
-GTEventAnnouncement>>#sessionUUID
-GTEventAnnouncement>>#sessionUUID:
-GTEventAnnouncement>>#unpackedData
-GTEventBundle
-GTEventBundle>>#entity
-GTEventBundle>>#category
-GTEventBundle>>#category:
-GTEventBundle>>#data
-GTEventBundle>>#data:
-GTEventBundle>>#url
-GTEventBundle>>#url:
-GTEventBundle>>#accept:
-GTEventCollector
-GTEventCollector>>#bundle
-GTEventCollector>>#bundle:
-GTEventCollector>>#category
-GTEventCollector>>#category:
-GTEventCollector>>#creationTime
-GTEventCollector>>#flush
-GTEventCollector>>#occupant:
-GTEventCollector>>#registry
-GTEventCollector>>#size
-GTEventCollector>>#url
-GTEventCollector>>#url:
-GTEventCollector>>#liberate
-GTEventCollector>>#add:
-GTEventCollector>>#defaultCategory
-GTEventCollector>>#initialize
-GTEventCollector>>#register
-GTEventCollector>>#printOn:
-GTEventCollector>>#isLiberated
-GTEventCollectors
-GTEventCollectors>>#numberOfEvents
-GTEventCollectors>>#size
-GTEventCollectors>>#add:
-GTEventCollectors>>#do:
-GTEventCollectors>>#gtInspectorItemsIn:
-GTEventCollectors>>#initialize
-GTEventCollectors>>#printOn:
-GTEventCollectors>>#removeLiberatedCollectors
-GTEventCollectors>>#remove:
-GTEventConsolidate
-GTEventConsolidate>>#consolidated
-GTEventConsolidate>>#collectors:
-GTEventDelivery
-GTEventDelivery>>#announcer
-GTEventDelivery>>#recorder
-GTEventDelivery>>#recorder:
-GTEventDelivery>>#size
-GTEventDelivery>>#activate
-GTEventDelivery>>#offerPermission
-GTEventDelivery>>#add:
-GTEventDelivery>>#announceSuspendingDelivery
-GTEventDelivery>>#deactivate
-GTEventDelivery>>#withdrawPermission
-GTEventDelivery>>#bundles
-GTEventDelivery>>#deliver:
-GTEventDelivery>>#deliver:signalProgress:
-GTEventDelivery>>#now
-GTEventDelivery>>#packAndDeliver:
-GTEventDelivery>>#deliveryCycle
-GTEventDelivery>>#initialize
-GTEventDelivery>>#initializeProcess
-GTEventDelivery>>#preSuspendingAction:
-GTEventDelivery>>#printOn:
-GTEventDelivery>>#printProcessName
-GTEventDelivery>>#printProcessNameOn:
-GTEventDelivery>>#hasPermission
-GTEventDelivery>>#isActive
-GTEventDelivery>>#isGlobalRecorder
-GTEventDelivery>>#isInactive
-GTEventInitializationError
-GTEventMultiBundle
-GTEventMultiBundle>>#bundles
-GTEventMultiBundle>>#entity
-GTEventMultiBundle>>#url
-GTEventMultiBundle>>#url:
-GTEventMultiBundle>>#add:
-GTEventMultiBundle>>#updateEntity:
-GTEventMultiBundle>>#accept:
-GTEventMultiBundleFactory class>>#default
-GTEventMultiBundleFactory class>>#fromBundles:
-GTEventMultiBundleFactory
-GTEventMultiBundleFactory>>#multiBundles
-GTEventMultiBundleFactory>>#synthetize:
-GTEventMultiBundleFactory>>#fromBundles:
-GTEventMultiBundleFactory>>#visitMultiBundle:
-GTEventMultiBundleFactory>>#visitSingleBundle:
-GTEventPacking class>>#all
-GTEventPacking class>>#default
-GTEventPacking class>>#fuel
-GTEventPacking class>>#ston
-GTEventPacking
-GTEventPacking>>#migrations:
-GTEventPacking>>#technologyName
-GTEventPacking>>#version
-GTEventPacking>>#newAnnouncement
-GTEventPacking>>#pack:
-GTEventPacking>>#unpack:
-GTEventPacking>>#materialize:
-GTEventPacking>>#newAnnouncementFor:
-GTEventPacking>>#packCollector:
-GTEventPacking>>#serialize:
-GTEventPacking>>#updateAnnouncement:withData:
-GTEventRecorder class>>#uniqueInstance
-GTEventRecorder class>>#cleanUp
-GTEventRecorder class>>#isGlobalRecorder:
-GTEventRecorder
-GTEventRecorder>>#delivery
-GTEventRecorder>>#addCollector:
-GTEventRecorder>>#deliveryPreSuspendingAction:
-GTEventRecorder>>#offerDeliveryPermission
-GTEventRecorder>>#offerPrivacy
-GTEventRecorder>>#withdrawDeliveryPermission
-GTEventRecorder>>#withdrawPrivacy
-GTEventRecorder>>#numberOfCollectors
-GTEventRecorder>>#numberOfDeliveryData
-GTEventRecorder>>#activateDelivery
-GTEventRecorder>>#deactivateDelivery
-GTEventRecorder>>#deliverNow
-GTEventRecorder>>#gtInspectorItemsIn:
-GTEventRecorder>>#initialize
-GTEventRecorder>>#flush
-GTEventRecorder>>#pack
-GTEventRecorder>>#removeCollector:
-GTEventRecorder>>#removeLiberatedCollectors
-GTEventRecorder>>#canSendDiagnosticsAndUsageData
-GTEventRecorder>>#isDeliveryActive
-GTEventRecorder>>#isGlobalRecorder
-GTEventRecorderError
-GTEventRecorderSettings class>>#cleanUp
-GTEventRecorderSettings class>>#urlSettingsOn:
-GTEventRecorderSettings
-GTEventRegistry
-GTEventRegistry>>#object:
-GTEventRegistry>>#liberate
-GTEventRegistry>>#initialize
-GTEventRegistry>>#printOn:
-GTEventRegistry>>#isLiberated
-GTEventTool class>>#default
-GTEventTool
-GTEventTool>>#download
-GTEventTool>>#ensureDownloadedData
-GTEventTool>>#ensureExctractedData
-GTEventTool>>#ensureLocalDirectory
-GTEventTool>>#extract
-GTEventTool>>#unpackAll
-GTEventTool>>#unpackAll:
-GTEventTool>>#defaultDownloadDirectory
-GTEventTool>>#defaultDownloadFilename
-GTEventTool>>#defaultEventsDirectory
-GTEventTool>>#printHumanReadableSize:
-GTEventTool>>#checkProcess
-GTEventTool>>#defaultUrl
-GTEventTool>>#update:
-GTEventUnpacking class>>#default
-GTEventUnpacking
-GTEventUnpacking>>#packings
-GTEventUnpacking>>#addPacking:
-GTEventUnpacking>>#safeUnpackDirectory:
-GTEventUnpacking>>#unpackDirectory:
-GTEventUnpacking>>#unpackFile:
-GTEventUnpacking>>#unpack:
-GTEventUnpackingError class>>#signal:data:errors:
-GTEventUnpackingError
-GTEventUnpackingError>>#data
-GTEventUnpackingError>>#data:
-GTEventUnpackingError>>#errors
-GTEventUnpackingError>>#errors:
-GTEventUnpackingError>>#isResumable
-GTFuelPacking
-GTFuelPacking>>#migrations
-GTFuelPacking>>#migrations:
-GTFuelPacking>>#technologyName
-GTFuelPacking>>#addMigration:
-GTFuelPacking>>#initializeMaterializer:
-GTFuelPacking>>#initializeMigrations
-GTStonPacking
-GTStonPacking>>#technologyName
-GTStonPacking>>#materialize:
-GTStonPacking>>#serialize:
-GlobalIdentifier class>>#uniqueInstance
-GlobalIdentifier class>>#cleanUp
-GlobalIdentifier class>>#initializeUniqueInstance
-GlobalIdentifier class>>#new
-GlobalIdentifier
-GlobalIdentifier>>#computerUUID
-GlobalIdentifier>>#persistedInformation
-GlobalIdentifier>>#persistenceStrategy
-GlobalIdentifier>>#persistenceStrategy:
-GlobalIdentifier>>#secretUUID
-GlobalIdentifier>>#obfuscateIfNecessary:
-GlobalIdentifier>>#obfuscate:
-GlobalIdentifier>>#initialize
-GlobalIdentifier>>#ensure
-GlobalIdentifierFuelPersistence
-GlobalIdentifierFuelPersistence>>#fileName
-GlobalIdentifierFuelPersistence>>#load
-GlobalIdentifierFuelPersistence>>#save:into:
-GlobalIdentifierMerger
-GlobalIdentifierMerger>>#existing
-GlobalIdentifierMerger>>#existing:
-GlobalIdentifierMerger>>#stored
-GlobalIdentifierMerger>>#stored:
-GlobalIdentifierMerger>>#convertValues
-GlobalIdentifierMerger>>#merge
-GlobalIdentifierMerger>>#mergeDifferentComputer
-GlobalIdentifierMerger>>#mergeSameComputer
-GlobalIdentifierPersistence class>>#fuel
-GlobalIdentifierPersistence class>>#ston
-GlobalIdentifierPersistence
-GlobalIdentifierPersistence>>#preferences
-GlobalIdentifierPersistence>>#preferences:
-GlobalIdentifierPersistence>>#previous
-GlobalIdentifierPersistence>>#previous:
-GlobalIdentifierPersistence>>#defaultPreferences
-GlobalIdentifierPersistence>>#fileName
-GlobalIdentifierPersistence>>#ensure:
-GlobalIdentifierPersistence>>#load
-GlobalIdentifierPersistence>>#load:
-GlobalIdentifierPersistence>>#mayOverwrite:
-GlobalIdentifierPersistence>>#save:
-GlobalIdentifierPersistence>>#save:into:
-GlobalIdentifierPersistence>>#mergeExisting:stored:
-GlobalIdentifierPersistence>>#ensureDirectory
-GlobalIdentifierPersistence>>#hasPreviousPersistence
-GlobalIdentifierPersistence>>#shouldCallPreviousPersistence
-GlobalIdentifierStonPersistence
-GlobalIdentifierStonPersistence>>#fileName
-GlobalIdentifierStonPersistence>>#load
-GlobalIdentifierStonPersistence>>#save:into:
-Privacy class>>#sendDiagnosticsAndUsageData
-Privacy class>>#sendDiagnosticsAndUsageData:
-Privacy class>>#sendEntityNames
-Privacy class>>#sendEntityNames:
-Privacy class>>#sendSourceCode
-Privacy class>>#sendSourceCode:
+MetacelloSpec>>#gtInspectorCodeIn:
+MorphicEvent>>#withHandPositionDo:
+OrderedDictionary class>>#exampleWithDifferentObjects
+Privacy
 Privacy class>>#cleanUp
 Privacy class>>#privacySettingsOn:
+Privacy class>>#sendDiagnosticsAndUsageData
+Privacy class>>#sendDiagnosticsAndUsageData:
 Privacy class>>#sendDiagnosticsAndUsageUsageDataSettingsOn:
+Privacy class>>#sendEntityNames
+Privacy class>>#sendEntityNames:
 Privacy class>>#sendEntityNamesSettingsOn:
+Privacy class>>#sendSourceCode
+Privacy class>>#sendSourceCode:
 Privacy class>>#sendSourceCodeSettingsOn:
-Privacy
-GTExample>>#iconSelectorBase64:
-GTExample>>#noCache
-GTExample>>#ignoreCache
-OrderedDictionary class>>#exampleWithDifferentObjects
-ThemeIcons>>#gtInspectorIconsIn:
-GTSpotterEventCollector
-GTSpotterEventCollector>>#bundle
-GTSpotterEventCollector>>#postpone:
-GTSpotterEventCollector>>#defaultCategory
-GTSpotterEventCollector>>#recordAnnouncement:
-GTSpotterEventCollector>>#recordSpotterOpenEvent
-GTSpotterEventCollectorBackwardCompatibilityTest class>>#serializeAnnouncementWithAllEventsUsing:
-GTSpotterEventCollectorBackwardCompatibilityTest class>>#storeSerializedAnnouncement
-GTSpotterEventCollectorBackwardCompatibilityTest class>>#storeSerializedAnnouncementIntoMethod:using:
-GTSpotterEventCollectorBackwardCompatibilityTest
-GTSpotterEventCollectorBackwardCompatibilityTest>>#materializePragmaVersion:
-GTSpotterEventCollectorBackwardCompatibilityTest>>#assertVersion:
-GTSpotterEventCollectorBackwardCompatibilityTest>>#setUp
-GTSpotterEventCollectorBackwardCompatibilityTest>>#version3fuel
-GTSpotterEventCollectorBackwardCompatibilityTest>>#version3ston
-GTSpotterEventCollectorBackwardCompatibilityTest>>#version4fuel
-GTSpotterEventCollectorBackwardCompatibilityTest>>#version4ston
-GTSpotterEventCollectorBackwardCompatibilityTest>>#testDateAndTime
-GTSpotterEventCollectorTest
-GTSpotterEventCollectorTest>>#setUp
-GTSpotterEventCollectorTest>>#testBundle
-GTSpotterEventCollectorTest>>#testPostponedEvents
-GTSpotterRecorderEvent>>#obfuscated
-GTSpotterRecorderEvent>>#obfuscated:
-GTSpotterRecorderEvent>>#initializeObfuscated
-GTSpotterRecorderOpenEvent>>#initialize
-GTFuelPacking>>#migrationForGTSpotterRecorderDataAnnouncement
-GTSpotter class>>#exampleSpotterWithoutMorph
-GTSpotter>>#spotterForSettingsFor:
-GTInspectorExamplesManualTest class>>#reset
-GTInspectorExamplesManualTest
-GTInspectorExamplesManualTest>>#initialize
-GTInspectorExamplesManualTest>>#basicRunClasses
-GTInspectorExamplesManualTest>>#basicRunExample:
-GTInspectorExamplesManualTest>>#basicRunFailures
-GTInspectorExamplesManualTest>>#checkAllPresentationsOf:onError:
-GTInspectorExamplesManualTest>>#filenameFor:
-GTInspectorExamplesManualTest>>#printException:forExample:withPragma:
-GTInspectorExamplesManualTest>>#readClassesFromFile:
-GTInspectorExamplesManualTest>>#readFailuresFromFile:
-GTInspectorExamplesManualTest>>#runClasses:
-GTInspectorExamplesManualTest>>#runExample:
-GTInspectorExamplesManualTest>>#run:
-GTInspectorExamplesManualTest>>#verify
-GTInspectorExamplesManualTest>>#run
-GTInspectorExamplesManualTest>>#runFailures
-GTInspectorExamplesTest>>#allExamplesClasses
-GTInspectorExamplesTest>>#pragmasFor:
-GTInspectorExamplesTest>>#setUp
-GTSpotterProcessorsForExamplesTest>>#setUp
-GLMPresentation>>#sendOneOrMultiple
-GLMPresentation>>#sendOneOrMultipleAs:
-GLMPresentation>>#sendOneOrMultipleAs:updatedBy:
-GLMBasicExamples>>#smalltalkEditorWithBindings
-GLMBasicExamples>>#textPortAction
-MorphicEvent>>#withHandPositionDo:
-GLMMorphicPharoCodeRenderer>>#popupPrint
-GLMMorphicPharoScriptRenderer
-GLMMorphicRenderer>>#renderPharoScriptPresentation:
-GLMPopper class>>#installAlarm:for:
-GLMPopper class>>#installAlarm:for:withArguments:
-GLMPopperNotificationStrategy>>#popupError:
-GLMRubricTextModel>>#shiftMenu
-GLMPharoScriptPresentation
-GLMCompositePresentation>>#pharoScript
-GLMPharoScriptMorphicTest
-GLMPharoScriptMorphicTest>>#testForSmalltalkWorkspace
-GLMTextMorphicTest>>#simulateOnlyOneClickOn:
-GLMAnnouncingCollection>>#asOrderedCollection
-GLMItemChanged
-GLMRubricTextMorphicTest>>#expectedFailures
-GLMRubricTextMorphicTest>>#testUpdatingTextPortUpdatesTheMorph
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50478
 ScriptLoader>>#update50479
-ConfigurationOfGTInspectorCore>>#stable:
-ConfigurationOfGTPlaygroundCore>>#stable:
-ConfigurationOfGTSpotter>>#development:
-ConfigurationOfGTSpotter>>#stable:
-ConfigurationOfGToolkitCore>>#development:
-ConfigurationOfGToolkitCore>>#stable:
-ConfigurationOfGlamourCore>>#stable:
-ConfigurationOfRubric>>#stable:
-GTSpotterRecorderDataAnnouncement class>>#gtExampleAnnouncement
-GTSpotterRecorderDataAnnouncement>>#events
-GTSpotterEventRecorder class>>#cleanUp
-GTSpotterEventRecorder class>>#materialize:
-GTSpotterEventRecorderSettings class>>#deletePreferences
-GTExample>>#resultCached:
-GTExample>>#gtDisplaySummaryOn:
-GTExampleOrganizer>>#reset
-GTExampleOrganizer>>#resetResults
-GTExampleOrganizer>>#withCleanupDo:
-GTObjectVariablesBrowser>>#evaluatorIn:
-FileReference>>#gtInspectorContentsIn:
-FileReference>>#gtInspectorItemsIn:
-FileReference>>#gtInspectorPngIn:
-FileReference>>#gtInspectorStScriptIn:
-MetacelloSpec>>#gtInspectorCodeIn:
 String>>#gtInspectorTextIn:
+ThemeIcons>>#gtInspectorIconsIn:
 ZnMessage>>#gtInspectorContentsIn:
 ZnMimePart>>#gtInspectorContentsIn:
 ZnRequestLine>>#gtInspectorTextIn:
 ZnStatusLine>>#gtInspectorTextIn:
 ZnStringEntity>>#gtInspectorTextIn:
-GTPlayBook class>>#stashDirectory
-GTPlayPage>>#gtInspectorContentIn:
-GTPlayground>>#codePresentationIn:
-GTSpotterEventRecorder>>#postponedData
-GTSpotterEventRecorder>>#linkToSpotter:
-GTSpotterEventRecorderTest class>>#instancesForAllEvents
-GTSpotterEventRecorderTest>>#assertAnnouncement:
-GTSpotterEventRecorderTest>>#version1
-GTSpotterEventRecorderTest>>#version2
-GTSpotterRecorderEvent>>#hashForText:
-GTSpotterRecorderEvent>>#settings
-GTFilter>>#value:
-GTSpotterGlobalShortcut class>>#openGlobalSpotter
-GTSpotterHeaderBrick>>#initialize
-GTSpotterMethodListProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
-GTSpotterMethodListProcessorFilter>>#allowProcessorsFrom:configuredWith:
-GTSpotterMorph>>#initialize
-GTSpotterPrivacyAgreementNotificationBrick class>>#openSettingsBrowser
-GTSpotterPrivacyAgreementNotificationBrick>>#privacyMessage
-GTSpotterPrivacyAgreementNotificationBrick>>#sendUsageData
-GTInspectorExamplesTest
-GTInspectorExamplesTest>>#tearDown
-GTInspectorExamplesTest>>#testAllExamples
-GTInspectorExamplesTest>>#testGlobals
-GTSpotterProcessorsForExamplesTest>>#tearDown
-GTSpotterProcessorsForExamplesTest>>#testEachProcessor
-GLMCompositePresentation>>#smalltalkCode
-GLMCompositePresentation>>#text
-GLMBasicExamples>>#onChangeOfPortAction
-GLMBasicExamples>>#smalltalkCode
-GLMBasicExamples>>#textPortsExamples
-GLMBasicExamples>>#updateableBrowser
-GLMEmptyPopupBrick>>#isInsideOfContentBrick:
-GLMEmptyPopupBrick>>#isInsideOfTriggerBrick:
-GLMScrollPaneBandBrick>>#layoutMorphs:
-GLMScrollPaneBandBrick>>#onChildrenLayouted
-GLMMorphicPharoCodeRenderer>>#evaluateAndPopPrintHighlight
-GLMPopper class>>#installAlarmFor:
-GLMPopperNotificationStrategy>>#notify:at:in:
-GLMTreeMorphNodeModel>>#menu:shifted:
-GLMFlexiblePresentation>>#currentPresentation
-GLMSmalltalkCodePresentation>>#renderGlamorouslyOn:
-GLMTextPresentation>>#renderGlamorouslyOn:
-GLMLipsumWithSegmentsExample>>#presentation
-GLMPharoPlaygroundPresentation class>>#pharoPlaygroundPresentationExample
-GLMPharoPlaygroundPresentation>>#renderGlamorouslyOn:
-GLMSegmentWithHelpAndMouseUpActionExample>>#presentation
-GLMSimpleRubricExample>>#presentation
-GLMCompositePresentation>>#pharoPlayground
-GLMCompositePresentation>>#rubricText
-GLMDynamicPresentationTest>>#testCachedPresentation
-GLMDynamicPresentationTest>>#testDefaultPresentation
-GLMDynamicPresentationTest>>#testDirectEventsPropagationTransformation
-GLMDynamicPresentationTest>>#testIndirectEventsPropagationTransformation
-GLMExpanderTest>>#testPresentations
-GLMPortEventTest>>#testCreation
-GLMPortEventTest>>#testCreationWithTransmissionContext
-GLMPortEventTest>>#testPortName
-GLMScriptingTest>>#testConditionalPresentation
-GLMTextPresentationTest>>#testSelectedText
-GLMTextPresentationTest>>#testSelectionIntervalInitialization
-GLMWrapperTest>>#testPresentationsAreInstalled
-GLMCompositePresentationMorphicTest>>#testTabsLastActivePresentation
-GLMDynamicMorphicTest>>#testSurroundingPanel
-GLMDynamicMorphicTest>>#testUpdate
-GLMFinderMorphicTest>>#testEmbeddedBrowserRefreshesRendering
-GLMMorphicPharoCodeRendererTest>>#testCodeExecutionWithBindings
-GLMSmalltalkCodeMorphicTest>>#testDefault
-GLMSmalltalkCodeMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
-GLMTextMorphicTest>>#testAcceptKeyCanBeOverriden
-GLMTextMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
-GLMTextMorphicTest>>#testMultipleSelectionWithChange
-GLMTextMorphicTest>>#testPastingUpdatesTextPort
-GLMUpdateInterdependentPanesTest>>#testAllowNil
-GLMWatcherMorphicTest>>#testWithDynamicPresentation
-GLMRubricTextMorphicTest>>#testAcceptKeyCanBeOverriden
-GLMRubricTextMorphicTest>>#testEnteringTextInPort
-GLMRubricTextMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
-GLMRubricTextMorphicTest>>#testMultipleSelectionWithChange
-GLMRubricTextMorphicTest>>#testOKeyCanBeOverriden
-GLMRubricTextMorphicTest>>#testPastingUpdatesTextPort
-GLMRubricTextMorphicTest>>#testResettingTheSelection
-GLMRubricTextMorphicTest>>#testTextPortPopulatedByDefault
-GLMRubricTextMorphicTest>>#testUnregisterFromAnnouncementsWhenUpdating
-ScriptLoader>>#script50478
-ScriptLoader>>#commentForCurrentUpdate
-GTSpotterRecorderDataAnnouncement class>>#gtExampleAnnouncement
-GTSpotterRecorderDataAnnouncement class>>#gtExampleEmptyAnnouncement
-GTSpotterRecorderDataAnnouncement>>#at:
-GTSpotterRecorderDataAnnouncement>>#at:put:
-GTSpotterRecorderDataAnnouncement>>#computerUUID
-GTSpotterRecorderDataAnnouncement>>#computerUUID:
-GTSpotterRecorderDataAnnouncement>>#data
-GTSpotterRecorderDataAnnouncement>>#data:
-GTSpotterRecorderDataAnnouncement>>#dictionary
-GTSpotterRecorderDataAnnouncement>>#eventRecorderVersion
-GTSpotterRecorderDataAnnouncement>>#eventRecorderVersion:
-GTSpotterRecorderDataAnnouncement>>#events
-GTSpotterRecorderDataAnnouncement>>#imageHash
-GTSpotterRecorderDataAnnouncement>>#imageHash:
-GTSpotterRecorderDataAnnouncement>>#imageVersion
-GTSpotterRecorderDataAnnouncement>>#imageVersion:
-GTSpotterRecorderDataAnnouncement>>#latestUpdate
-GTSpotterRecorderDataAnnouncement>>#latestUpdate:
-GTSpotterRecorderDataAnnouncement>>#sessionCreationTime
-GTSpotterRecorderDataAnnouncement>>#sessionCreationTime:
-GTSpotterRecorderDataAnnouncement>>#timestamp
-GTSpotterRecorderDataAnnouncement>>#timestamp:
-GTSpotterRecorderDataAnnouncement>>#associations
-GTSpotterRecorderDataAnnouncement>>#gtInspectorItems
-GTSpotterRecorderDataAnnouncement>>#gtInspectorItemsIn:
-GTSpotterRecorderDataAnnouncement>>#addInfoFor:
-GTSpotterEventRecorder>>#standardDuration
-GTSpotterEventRecorder class>>#cleanUp
-GTSpotterEventRecorderSettings class>>#stringUrl
-GTSpotterEventRecorderSettings class>>#stringUrl:
-GTSpotterEventRecorderSettings class>>#url
-GTSpotterEventRecorderSettings class>>#url:
-GTSpotterEventRecorder class>>#materialize:
-GTSpotterEventRecorder class>>#serialize:
-GTSpotterEventRecorderSettings class>>#reset
-GTSpotterEventRecorderSettings class>>#deletePreferences
-GTSpotterEventRecorder>>#postponedData
-GTSpotterEventRecorder>>#linkToSpotter:
-GTSpotterEventRecorderTest class>>#instancesForAllEvents
-GTSpotterEventRecorderTest>>#allPragmaVersions
-GTSpotterEventRecorderTest>>#assertAnnouncement:
-GTSpotterEventRecorderTest>>#versionsDo:
-GTSpotterEventRecorderTest>>#version1
-GTSpotterEventRecorderTest>>#version2
-GTSpotterEventRecorderTest>>#testMaterializeVersions
-GTInspectorExamplesTest>>#checkAllPresentationsOf:
-GLMBasicExamples>>#smalltalkCode
-GLMMorphicPharoPlaygroundRenderer>>#actOnVariableBindingsAccessRequest:
-GLMMorphicPharoPlaygroundRenderer>>#actOnVariableBindingsUpdated:
-GLMMorphicPharoPlaygroundRenderer>>#registerEventsForPresentation:
-GLMMorphicPharoPlaygroundRenderer>>#workspaceBindingsStrategy
-GLMMorphicPharoPlaygroundRenderer>>#modelFor:
-GLMMorphicPharoPlaygroundRenderer>>#morph
-GLMPopperNotificationStrategy>>#notify:at:in:
-GLMPharoPlaygroundPresentation class>>#pharoPlaygroundPresentationExample
-GLMPharoPlaygroundPresentation>>#currentBindings
-GLMPharoPlaygroundPresentation>>#defaultSelectionActions
-GLMPharoPlaygroundPresentation>>#variableBindings
-GLMPharoPlaygroundPresentation>>#variableBindings:
-GLMPharoPlaygroundPresentation>>#goAction
-GLMPharoPlaygroundPresentation>>#resetBindings
-GLMPharoPlaygroundPresentation>>#updateVariableBindings
-GLMPharoPlaygroundPresentation>>#withBindingsDo:
-GLMPharoPlaygroundPresentation>>#renderGlamorouslyOn:
-GLMSmalltalkCodeMorphicTest>>#testDefault
-GLMSmalltalkCodeMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
-ScriptLoader>>#script50478

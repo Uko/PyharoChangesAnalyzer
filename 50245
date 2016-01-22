@@ -1,37 +1,36 @@
-MorphicUIManager>>#debugContext:title:contents:
-MorphicUIManager>>#debugProcess:context:title:full:
-ScriptLoader>>#update50245
-MorphicTextAdapter>>#announcer
-MorphicTextAdapter>>#interactionModel
-TestingComposableModel>>#getText
 CommandLineUIManager>>#debugContext:title:contents:
 CommandLineUIManager>>#debugProcess:context:title:full:
+Context>>#cannotReturn:
+Context>>#debug
 DummyUIManager>>#debugContext:title:contents:
 DummyUIManager>>#debugProcess:context:title:full:
-NonInteractiveUIManager>>#debugContext:title:contents:
-NonInteractiveUIManager>>#debugProcess:context:title:full:
-UIManager>>#debugContext:title:contents:
-UIManager>>#debugProcess:context:title:full:
-FontChooserMorph>>#newFontPointSizeField
-Context>>#debug
-Context>>#cannotReturn:
 Exception>>#debug
+FontChooserMorph>>#newFontPointSizeField
 ManifestKernel class>>#manuallyResolvedDependencies
-Process>>#debug:title:full:
-UnhandledError>>#defaultAction
-NewListExample>>#buildTextMorph
-MorphicUIManager>>#unhandledErrorDefaultAction:
-ScriptLoader>>#script50244
-ScriptLoader>>#commentForCurrentUpdate
-PolymorphSystemSettings class>>#morphicSettingsOn:
-SugsMockContext>>#sourceTextArea
 MorphicTextAdapter
-MorphicTextAdapter>>#buildWidget
 MorphicTextAdapter>>#accept
+MorphicTextAdapter>>#announcer
 MorphicTextAdapter>>#askBeforeDiscardingEdits:
+MorphicTextAdapter>>#buildWidget
 MorphicTextAdapter>>#classOrMetaClass:
+MorphicTextAdapter>>#interactionModel
 MorphicTextAdapter>>#selectAll
 MorphicTextAdapter>>#setScrollValue:
-SpecInterpreterTest>>#testBuildWidgetForWithSpec
-TestingComposableModel class>>#testingSpec
+MorphicUIManager>>#debugContext:title:contents:
+MorphicUIManager>>#debugProcess:context:title:full:
+MorphicUIManager>>#unhandledErrorDefaultAction:
+NewListExample>>#buildTextMorph
+NonInteractiveUIManager>>#debugContext:title:contents:
+NonInteractiveUIManager>>#debugProcess:context:title:full:
+PolymorphSystemSettings class>>#morphicSettingsOn:
+Process>>#debug:title:full:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50244
+ScriptLoader>>#update50245
+SpecInterpreterTest>>#testBuildWidgetForWithSpec
+SugsMockContext>>#sourceTextArea
+TestingComposableModel class>>#testingSpec
+TestingComposableModel>>#getText
+UIManager>>#debugContext:title:contents:
+UIManager>>#debugProcess:context:title:full:
+UnhandledError>>#defaultAction

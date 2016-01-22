@@ -1,12 +1,11 @@
-RFSemanticAnalyzer
-RFSemanticAnalyzer>>#visitNode:
-ScriptLoader>>#update50062
 Class>>#addSlot:
 HookGenerator
+RFSemanticAnalyzer
+RFSemanticAnalyzer>>#visitNode:
 ReflectiveMethod>>#recompileAST
-ScriptLoader>>#script50061
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50061
+ScriptLoader>>#update50062
 TClass>>#removeSlot:
 TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-ScriptLoader>>#script50061

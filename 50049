@@ -1,4 +1,8 @@
+AthensParagraph>>#secondarySelection:
 BitmapFillStyle>>#asAthensPaintOn:
+ConfigurationOfAthens>>#version35:
+EllipseMorph>>#asAthensShapeOn:
+EllipseMorph>>#drawOnAthensCanvas:
 PolygonMorph>>#adjustSegmentPointsForArrows
 PolygonMorph>>#asAthensCurvedOpenPathOn:
 PolygonMorph>>#asAthensCurvedPathOn:
@@ -11,12 +15,7 @@ PolygonMorph>>#drawOnAthensCanvas:
 PolygonMorph>>#hasTwoColorDash
 PolygonMorph>>#setDashOnStroke:
 PolygonMorph>>#setSecondColorDashOnStroke:
-ConfigurationOfAthens>>#version35:
-ScriptLoader>>#update50049
-AthensParagraph>>#secondarySelection:
-EllipseMorph>>#asAthensShapeOn:
-EllipseMorph>>#drawOnAthensCanvas:
 RPackage>>#packageManifest
-ScriptLoader>>#script50048
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50048
+ScriptLoader>>#update50049

@@ -1,22 +1,20 @@
 AbstractNautilusUI>>#selectNextMethod
-MethodWidget>>#selectNextMethod
-NautilusUI>>#selectNextMethod
-ScriptLoader>>#update50221
 ClassAPIHelpBuilder>>#build
 ClassAPIHelpBuilder>>#buildSubnodesForMethods
 ClassAPIHelpBuilder>>#buildSubnodesForSubclasses
 CustomHelp class>>#icon
+HelpBrowser class>>#taskbarIcon
 HelpBrowser>>#initWindow
 HelpTopicListItemWrapper>>#icon
-MCClassDefinition>>#hasComplexVariables
 MCClassDefinition>>#classInstanceVariables
 MCClassDefinition>>#classVariables
+MCClassDefinition>>#hasComplexVariables
 MCClassDefinition>>#instanceVariables
-NautilusUI>>#methodRemoved:
+MethodWidget>>#selectNextMethod
 NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
 NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
-HelpBrowser class>>#taskbarIcon
-ScriptLoader>>#script50220
+NautilusUI>>#methodRemoved:
+NautilusUI>>#selectNextMethod
 ScriptLoader>>#commentForCurrentUpdate
-MCClassDefinition>>#hasComplexVariables
 ScriptLoader>>#script50220
+ScriptLoader>>#update50221

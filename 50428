@@ -1,21 +1,20 @@
-ScriptLoader>>#update50428
-ClassModificationPropagation>>#copyTraitCompositionAndMethods
+AbstractClassInstaller>>#copyTraitCompositionFrom:to:
+AbstractNautilusUI>>#buildTestClassDefinitionFrom:
+AbstractNautilusUI>>#defaultClassDescriptor
+AbstractNautilusUI>>#title:
+AbstractTool class>>#defineClassTemplate
+AbstractTool class>>#defineTraitTemplate
+Class>>#definitionForNautilus
 ClassModificationPropagation>>#apply
+ClassModificationPropagation>>#copyTraitCompositionAndMethods
+MCPackageManager class>>#managersForCategory:do:
+NautilusUI>>#open
+PackageTreeNautilusUI>>#defaultClassDescriptor
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50427
+ScriptLoader>>#update50428
+TClass class>>#templateForSubclassOf:category:
 TClass>>#subclass:instanceVariableNames:classVariableNames:package:
 TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:package:
 TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:package:
 Trait class>>#named:uses:package:
-MCPackageManager class>>#managersForCategory:do:
-AbstractNautilusUI>>#defaultClassDescriptor
-AbstractNautilusUI>>#buildTestClassDefinitionFrom:
-NautilusUI>>#open
-PackageTreeNautilusUI>>#defaultClassDescriptor
-Class>>#definitionForNautilus
-ScriptLoader>>#script50427
-ScriptLoader>>#commentForCurrentUpdate
-AbstractClassInstaller>>#copyTraitCompositionFrom:to:
-AbstractTool class>>#defineClassTemplate
-AbstractTool class>>#defineTraitTemplate
-TClass class>>#templateForSubclassOf:category:
-AbstractNautilusUI>>#title:
-ScriptLoader>>#script50427

@@ -1,14 +1,13 @@
-ReflectiveMethodTest>>#testReifyName
+RFNameReification
 RFNameReification class>>#key
 RFNameReification class>>#nodes
-RFNameReification
 RFNameReification>>#genForRBVariableNode
-ScriptLoader>>#update50100
-ScriptLoader>>#script50099
+ReflectiveMethodTest>>#testReifyName
 ScriptLoader>>#commentForCurrentUpdate
-SystemNavigation>>#allClassesInPackageNamed:
-SystemNavigation>>#removeAllButPackages:
+ScriptLoader>>#script50099
+ScriptLoader>>#update50100
 SystemNavigation>>#allBehaviorsDo:
 SystemNavigation>>#allClassesAndTraits
+SystemNavigation>>#allClassesInPackageNamed:
 SystemNavigation>>#browseClassCommentsWithString:matchCase:
-ScriptLoader>>#script50099
+SystemNavigation>>#removeAllButPackages:

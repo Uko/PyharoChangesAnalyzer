@@ -1,6 +1,4 @@
-ScriptLoader>>#update50071
-TestAutoFractionComputation>>#initializeWidgets
-TestingComposableModel>>#initializeWidgets
+PharoShortcuts>>#openKomitterShortcut
 PharoShortcuts>>#openMonticielloShortcut
 PharoShortcuts>>#openPlaygroundShortcut
 PharoShortcuts>>#openSettingsShortcut
@@ -10,8 +8,12 @@ PharoShortcuts>>#openTranscriptShortcut
 PharoShortcuts>>#saveImageShortcut
 RBRefactoringTest>>#setUp
 RBRefactoringTest>>#tearDown
-ScriptLoader>>#script50070
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50070
+ScriptLoader>>#update50071
+TestAutoFractionComputation>>#initializeWidgets
+TestingComposableModel>>#initializeWidgets
+TestingComposableModel>>#list
 ToolShortcutsCategory>>#openMonticelloPackageBrowser
 ToolShortcutsCategory>>#openSettings
 ToolShortcutsCategory>>#openSystemBrowser
@@ -19,6 +21,3 @@ ToolShortcutsCategory>>#openTranscript
 ToolShortcutsCategory>>#openUnitTestRunner
 ToolShortcutsCategory>>#openWorkspace
 ToolShortcutsCategory>>#saveImage
-ScriptLoader>>#script50070
-TestingComposableModel>>#list
-PharoShortcuts>>#openKomitterShortcut

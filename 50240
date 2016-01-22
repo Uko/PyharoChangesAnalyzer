@@ -1,27 +1,26 @@
+AbstractNautilusUI>>#buildCodePanelWithoutComment
+AbstractNautilusUI>>#buildCommentButton
+AbstractNautilusUI>>#buildHierarchyButton
+AbstractNautilusUI>>#showHierarchy:
+LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
+Nautilus
+Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
+PackageTreeNautilusUI>>#showHierarchy:
 PluggableToggleButtonMorph>>#on:getState:action:label:icon:menu:
+RPackage
+RPackage class>>#initialize
 RPackage class>>#initializeProperties
 RPackage>>#ensureProperties
 RPackage>>#properties
 RPackage>>#propertyAt:
-RPackage>>#propertyAt:ifAbsentPut:
 RPackage>>#propertyAt:ifAbsent:
+RPackage>>#propertyAt:ifAbsentPut:
 RPackage>>#propertyAt:put:
 RPackage>>#removePropertiesIfEmpty
 RPackage>>#removeProperty:
 RPackage>>#removeProperty:ifAbsent:
 RPackageTest>>#testPropertyAtPut
-ScriptLoader>>#update50240
-AbstractNautilusUI>>#showHierarchy:
-AbstractNautilusUI>>#buildCommentButton
-AbstractNautilusUI>>#buildHierarchyButton
-AbstractNautilusUI>>#buildCodePanelWithoutComment
-Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
-Nautilus
-PackageTreeNautilusUI>>#showHierarchy:
-LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
-RPackage class>>#initialize
-RPackage
-ScriptLoader>>#script50239
 ScriptLoader>>#commentForCurrentUpdate
-Slot>>#properties
 ScriptLoader>>#script50239
+ScriptLoader>>#update50240
+Slot>>#properties

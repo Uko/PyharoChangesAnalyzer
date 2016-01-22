@@ -1,17 +1,16 @@
-Breakpoint class>>#initialize
+Breakpoint
 Breakpoint class>>#cleanUp
-RFMessageNode
-RFMessageNode>>#debugHighlightRange
-ScriptLoader>>#update50456
+Breakpoint class>>#initialize
 Breakpoint class>>#removeAll
 Breakpoint class>>#removeFrom:
-Breakpoint
 Breakpoint>>#install
 Breakpoint>>#remove
+HookGenerator>>#hookFor:
 HookGenerator>>#wrapCondition:link:
 HookGenerator>>#wrapInContext:link:
-HookGenerator>>#hookFor:
-ScriptLoader>>#script50455
+RFMessageNode
+RFMessageNode>>#debugHighlightRange
 ScriptLoader>>#commentForCurrentUpdate
-SugsBreakConditionSuggestion>>#breakpointForCondition
 ScriptLoader>>#script50455
+ScriptLoader>>#update50456
+SugsBreakConditionSuggestion>>#breakpointForCondition

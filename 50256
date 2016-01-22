@@ -1,14 +1,13 @@
-ScriptLoader>>#update50256
 AbstractBinaryFileStream>>#next
-ScriptLoader>>#script50255
-ScriptLoader>>#commentForCurrentUpdate
 ChangeSet class>>#fileReaderServicesForFile:suffix:
 ChangeSet class>>#initialize
-FileServices class>>#itemsForDirectory:
-FileServices class>>#itemsForFile:
-FileServices
-MczInstaller class>>#initialize
 FileList class>>#itemsForDirectory:
 FileList class>>#itemsForFile:
-ScriptLoader>>#script50255
+FileServices
+FileServices class>>#itemsForDirectory:
+FileServices class>>#itemsForFile:
 MCOrganizationDefinition>>#patchWrapper
+MczInstaller class>>#initialize
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50255
+ScriptLoader>>#update50256

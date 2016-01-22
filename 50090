@@ -1,23 +1,8 @@
-ConfigurationOfGTSpotter>>#version125:
-ConfigurationOfRubric>>#version131:
-GTSpotterAnnouncement
-GTSpotterAnnouncement>>#category
-GTSpotterAnnouncement>>#category:
-GLMThemeIcons>>#windowCloseForm
-GLMThemeIcons>>#windowMaximizeForm
-GLMThemeIcons>>#windowMenuForm
-GLMThemeIcons>>#windowMinimizeForm
-ScriptLoader>>#update50090
-RBParser class>>#parseExpression:onError:
-RBParser>>#scanner:
 ConfigurationOfGTSpotter>>#development:
 ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGTSpotter>>#version125:
 ConfigurationOfRubric>>#stable:
-GTSpotterAllCandidatesAdded
-GTSpotterCandidateAdded
-GTSpotterCandidatesAmountChanged
-GTSpotterCategorySelected
-GTSpotterDiveInCategory
+ConfigurationOfRubric>>#version131:
 GLMBasicExamples>>#morphWithCustomInteraction
 GLMMorphicAccumulatorRenderer>>#render:
 GLMMorphicActionListRenderer>>#render:
@@ -48,11 +33,25 @@ GLMMorphicWindowRenderer>>#render:
 GLMMorphicWizardRenderer>>#registerAnnouncementsFor:
 GLMMorphicWrapperRenderer>>#render:
 GLMRubricTextPresentation>>#codeEditingSelectionActions
+GLMThemeIcons>>#windowCloseForm
+GLMThemeIcons>>#windowMaximizeForm
+GLMThemeIcons>>#windowMenuForm
+GLMThemeIcons>>#windowMinimizeForm
+GTSpotterAllCandidatesAdded
+GTSpotterAnnouncement
+GTSpotterAnnouncement>>#category
+GTSpotterAnnouncement>>#category:
+GTSpotterCandidateAdded
+GTSpotterCandidatesAmountChanged
+GTSpotterCategorySelected
+GTSpotterDiveInCategory
+RBParser class>>#parseExpression:onError:
+RBParser>>#scanner:
 RubAbstractTextArea class>>#textColor
 RubAbstractTextArea>>#initialize
 RubCommentAnnotationDisplayer>>#fontToUse
-RubCommentAnnotationDisplayer>>#textColor
 RubCommentAnnotationDisplayer>>#noteNewOwner:
-ScriptLoader>>#script50089
+RubCommentAnnotationDisplayer>>#textColor
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50089
+ScriptLoader>>#update50090

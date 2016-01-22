@@ -1,8 +1,7 @@
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script623
 ScriptLoader>>#update50015
-UITheme class>>#installFullTheme
+TClass>>#removeInstVarNamed:
 TestRunner>>#buttons
 TestRunner>>#collectCoverageFor:
-ScriptLoader>>#script623
-ScriptLoader>>#commentForCurrentUpdate
-TClass>>#removeInstVarNamed:
-ScriptLoader>>#script623
+UITheme class>>#installFullTheme

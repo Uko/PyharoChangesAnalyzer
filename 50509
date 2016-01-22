@@ -1,7 +1,8 @@
+MCVersionLoader>>#announceLoad:do:
 MCVersionLoader>>#announceLoadStart:
 MCVersionLoader>>#announceLoadStop:
-MCVersionLoader>>#announceLoad:do:
 MCVersionLoader>>#basicLoadWithNameLike:
+MCVersionLoader>>#loadWithNameLike:
 MCVersionLoaderStarted
 MCVersionLoaderStarted>>#label
 MCVersionLoaderStarted>>#label:
@@ -12,10 +13,8 @@ MCVersionLoaderStopped>>#label
 MCVersionLoaderStopped>>#label:
 MCVersionLoaderStopped>>#versionLoader
 MCVersionLoaderStopped>>#versionLoader:
-ScriptLoader>>#update50509
 MorphicTextAdapter>>#acceptAllowed
-MCVersionLoader>>#loadWithNameLike:
-SimpleButtonMorph>>#label
-ScriptLoader>>#script50508
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50508
+ScriptLoader>>#update50509
+SimpleButtonMorph>>#label

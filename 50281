@@ -1,27 +1,25 @@
-ManifestKernel class>>#ignoredDependencies
-PackageManifest class>>#ignoredDependencies
-PackageManifest class>>#manuallyResolvedDependencies
-ScriptLoader>>#update50281
-ThemeIcons>>#blankIconOfWidth:
-ManifestKernel class>>#manuallyResolvedDependencies
-KomitMethod class>>#method:
 EclipseUIThemeIcons>>#smallProfileIcon
-ScriptLoader>>#script50280
-ScriptLoader>>#commentForCurrentUpdate
 Exit
-ManifestSystemCommandLine class>>#manuallyResolvedDependencies
-ScriptLoader>>#script50280
 Exit class>>#failure
-Exit class>>#status:
-Exit class>>#success
 Exit class>>#signalFailure
 Exit class>>#signalFailure:
 Exit class>>#signalSuccess
 Exit class>>#signalSuccess:
-Exit
+Exit class>>#status:
+Exit class>>#success
 Exit>>#defaultAction
+Exit>>#isSuccess
 Exit>>#printMessage
+Exit>>#printOn:
 Exit>>#status
 Exit>>#status:
-Exit>>#printOn:
-Exit>>#isSuccess
+KomitMethod class>>#method:
+ManifestKernel class>>#ignoredDependencies
+ManifestKernel class>>#manuallyResolvedDependencies
+ManifestSystemCommandLine class>>#manuallyResolvedDependencies
+PackageManifest class>>#ignoredDependencies
+PackageManifest class>>#manuallyResolvedDependencies
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50280
+ScriptLoader>>#update50281
+ThemeIcons>>#blankIconOfWidth:

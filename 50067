@@ -1,7 +1,6 @@
-OCASTTranslator>>#emitCaseOf:otherwiseBlock:
-ScriptLoader>>#update50067
-OCASTTranslator>>#emitCaseOfOtherwise:
 OCASTTranslator>>#emitCaseOf:
-ScriptLoader>>#script50066
+OCASTTranslator>>#emitCaseOf:otherwiseBlock:
+OCASTTranslator>>#emitCaseOfOtherwise:
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50066
+ScriptLoader>>#update50067

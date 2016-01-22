@@ -1,14 +1,13 @@
-AbstractNautilusUI>>#classParentRenamed:
-ScriptLoader>>#update50474
-AbstractNautilusUI>>#registerToSystemAnnouncements
 AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+AbstractNautilusUI>>#classParentRenamed:
+AbstractNautilusUI>>#registerToSystemAnnouncements
 AbstractNautilusUI>>#updateSourceCodeAreaWith:
 HookGenerator>>#hookFor:
-ScriptLoader>>#script50473
 ScriptLoader>>#commentForCurrentUpdate
-SugsSuggestionFactory class>>#createFindImplementors
+ScriptLoader>>#script50473
+ScriptLoader>>#update50474
 SugsSuggestionFactory class>>#createBreakCommand
 SugsSuggestionFactory class>>#createBreakConditionCommand
 SugsSuggestionFactory class>>#createBreakOnceCommand
+SugsSuggestionFactory class>>#createFindImplementors
 SugsSuggestionFactory class>>#createWatchpointCommand
-ScriptLoader>>#script50473

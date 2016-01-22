@@ -1,7 +1,6 @@
-UTF8InvalidText
-ScriptLoader>>#update50164
 MCVersionLoader>>#load
-UTF8TextConverter>>#errorMalformedInput
-ScriptLoader>>#script50163
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50163
+ScriptLoader>>#update50164
+UTF8InvalidText
+UTF8TextConverter>>#errorMalformedInput

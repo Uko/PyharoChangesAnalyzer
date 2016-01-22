@@ -1,7 +1,6 @@
-SetTest>>#collectionClass
-ScriptLoader>>#update50243
 DictionaryTest>>#collectionClass
-ScriptLoader>>#script50242
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50242
+ScriptLoader>>#update50243
+SetTest>>#collectionClass
 TBehavior>>#changeRecordsAt:

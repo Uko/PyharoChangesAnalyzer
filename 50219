@@ -1,15 +1,13 @@
+BIConfigurableFormatter class>>#traditionalBinaryPrecedence
 BIConfigurableFormatter class>>#traditionalBinaryPrecedenceArray:
 BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray:
+BIPrettyPrinterContext
+BIPrettyPrinterContext>>#initialize
+BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray
 BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray:
+MCTool>>#textMorph:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50218
 ScriptLoader>>#update50219
 SystemSettings
 SystemSettings>>#testOpening
-BIConfigurableFormatter class>>#traditionalBinaryPrecedence
-BIPrettyPrinterContext
-BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray
-BIPrettyPrinterContext>>#initialize
-MCTool>>#textMorph:
-ScriptLoader>>#script50218
-ScriptLoader>>#commentForCurrentUpdate
-BIConfigurableFormatter class>>#traditionalBinaryPrecedence
-ScriptLoader>>#script50218

@@ -1,60 +1,59 @@
+BorderedMorph>>#addBorderStyleMenuItems:hand:
+FallbackMenu>>#menu
+HaloMorph>>#doDebug:with:
+KeyedTreeTest>>#testMerge
+KeyedTreeTest>>#testSubtrees
+LRUCacheTests>>#testRemoveAll
+MenuMorph class>>#example
+MenuMorph>>#addTitle:icon:
+MenuMorph>>#createTitleMorph
+MenuMorph>>#stayUp:
 MenuMorph>>#toggleStayUp
 MenuTitleMorph>>#bigTitle:
+MenuTitleMorph>>#boxExtent
+MenuTitleMorph>>#iconButtonCalling:withForm:helpText:
 MenuTitleMorph>>#onlyCloseAndPinable
+MenuTitleMorph>>#pinBoxClicked
 MenuTitleMorph>>#pinColor
 MenuTitleMorph>>#pinForm
 MenuTitleMorph>>#updatePinForm
-MenuTitleMorph>>#boxExtent
-ReflectivityReificationTest>>#testReifySlotClass
-ReflectivityReificationTest>>#testReifySlotValue
-ReflectivityReificationTest>>#testReifySlotVariable
-RFClassReification>>#genForInstanceVariableSlot
-RFClassReification>>#generate
-RFEntityReification>>#genForInstanceVariableSlot
-RFLinkReification>>#genForInstanceVariableSlot
-RFObjectReification>>#genForInstanceVariableSlot
-RFThisContextReification>>#genForInstanceVariableSlot
-RFValueReification>>#genForInstanceVariableSlot
-RFVariableReification>>#genForInstanceVariableSlot
-ScriptLoader>>#update50351
-RBScanner>>#scanLiteral
-RBParserTest>>#testSymbolLiteral
-KeyedTreeTest>>#testMerge
-KeyedTreeTest>>#testSubtrees
-FallbackMenu>>#menu
-HaloMorph>>#doDebug:with:
-MenuMorph class>>#example
-MenuMorph>>#stayUp:
-MenuMorph>>#addTitle:icon:
-MenuMorph>>#createTitleMorph
 MenuTitleMorph>>#withPinBox
-MenuTitleMorph>>#pinBoxClicked
-MenuTitleMorph>>#iconButtonCalling:withForm:helpText:
-PluggableMenuSpec>>#asMenuMorph
-WorldState class>>#windowsOn:
-BorderedMorph>>#addBorderStyleMenuItems:hand:
-Morph>>#buildDebugMenu:
+Morph>>#addHaloActionsTo:
 Morph>>#addTitleForHaloMenu:
 Morph>>#addYellowButtonMenuItemsTo:event:
-Morph>>#addHaloActionsTo:
+Morph>>#buildDebugMenu:
 Morph>>#buildHandleMenu:
 Morph>>#buildMetaMenu:
 Morph>>#invokeMetaMenu:
 PasteUpMorph>>#popUpContentsMenu:
-WorldMorph>>#contentsMenu:
-WorldMorph>>#buildMetaMenu:
+PluggableMenuSpec>>#asMenuMorph
+RBParserTest>>#testSymbolLiteral
+RBScanner>>#scanLiteral
 RFClassReification class>>#nodes
+RFClassReification>>#genForInstanceVariableSlot
 RFClassReification>>#genForLiteralVariable
 RFClassReification>>#genForRBProgramNode
+RFClassReification>>#generate
 RFEntityReification class>>#nodes
+RFEntityReification>>#genForInstanceVariableSlot
 RFLinkReification class>>#nodes
+RFLinkReification>>#genForInstanceVariableSlot
 RFObjectReification class>>#nodes
+RFObjectReification>>#genForInstanceVariableSlot
 RFThisContextReification class>>#nodes
+RFThisContextReification>>#genForInstanceVariableSlot
 RFValueReification class>>#nodes
+RFValueReification>>#genForInstanceVariableSlot
 RFVariableReification class>>#nodes
-ScriptLoader>>#script50350
+RFVariableReification>>#genForInstanceVariableSlot
+ReflectivityReificationTest>>#testReifySlotClass
+ReflectivityReificationTest>>#testReifySlotValue
+ReflectivityReificationTest>>#testReifySlotVariable
 ScriptLoader>>#commentForCurrentUpdate
-LRUCacheTests>>#testRemoveAll
+ScriptLoader>>#script50350
+ScriptLoader>>#update50351
 SelectPackageBrowser class>>#defaultSpec
 VSReleaseDevelopmentVersionCommandTest>>#generateTestVersion
-ScriptLoader>>#script50350
+WorldMorph>>#buildMetaMenu:
+WorldMorph>>#contentsMenu:
+WorldState class>>#windowsOn:

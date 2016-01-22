@@ -1,13 +1,3 @@
-ScriptLoader>>#update50472
-Symbol>>#flushCache
-CompiledMethod>>#flushCache
-NautilusUI>>#showHierarchy:
-NautilusUI>>#updateOnClassSelection
-WatchpointTests>>#testTimestamp
-ReflectiveMethod>>#flushCache
-ScriptLoader>>#script50471
-ScriptLoader>>#commentForCurrentUpdate
-TBehavior>>#flushCache
 BorderedMorph>>#addCornerGrips
 BorderedMorph>>#addPaneSplitters
 BorderedMorph>>#addPaneVSplitterBetween:and:
@@ -15,6 +5,7 @@ BorderedMorph>>#linkSubmorphsToSplitters
 BorderedMorph>>#removeCornerGrips
 BorderedMorph>>#removePaneSplitters
 BorderedMorph>>#splitters
+CompiledMethod>>#flushCache
 Morph>>#initialColorInSystemWindow:
 Morph>>#isInSystemWindow
 Morph>>#modalLockTo:
@@ -26,4 +17,12 @@ Morph>>#openInWindowLabeled:
 Morph>>#previousMorphInWindow
 Morph>>#previousMorphWantingFocus
 Morph>>#shadowOffsetRectangle
+NautilusUI>>#showHierarchy:
+NautilusUI>>#updateOnClassSelection
+ReflectiveMethod>>#flushCache
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50471
+ScriptLoader>>#update50472
+Symbol>>#flushCache
+TBehavior>>#flushCache
+WatchpointTests>>#testTimestamp

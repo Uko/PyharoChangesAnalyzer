@@ -1,17 +1,16 @@
-RBFormatterTests>>#testShouldNotParenthesizeDynamicArrayStatements
-ConfigurationOfCatalog>>#version051:
-ScriptLoader>>#update50107
-ChangeSorterApplication>>#createRingMethodForRemovedSelector:inClass:
-ChangeSorterApplication>>#createRingMethodForSelector:inClass:
-NewVersionBrowser class>>#browseVersionsForMethod:
-RBConfigurableFormatter>>#needsParenthesisFor:
-ConfigurationOfCatalog>>#stable:
-AbstractNautilusUI>>#textMorphClass
 AbstractNautilusUI>>#buildNewSourceTextArea
 AbstractNautilusUI>>#sourceCode
-ScriptLoader>>#script50106
-ScriptLoader>>#commentForCurrentUpdate
-ChangeSorterApplication>>#browseVersions
+AbstractNautilusUI>>#textMorphClass
 AbstractTool>>#browseVersionsFrom:
+ChangeSorterApplication>>#browseVersions
+ChangeSorterApplication>>#createRingMethodForRemovedSelector:inClass:
+ChangeSorterApplication>>#createRingMethodForSelector:inClass:
+ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog>>#version051:
 GTSpotter>>#spotterCatalogProjectsFor:
+NewVersionBrowser class>>#browseVersionsForMethod:
+RBConfigurableFormatter>>#needsParenthesisFor:
+RBFormatterTests>>#testShouldNotParenthesizeDynamicArrayStatements
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50106
+ScriptLoader>>#update50107

@@ -1,41 +1,36 @@
 ButtonClicked
-ScriptLoader>>#update50451
-SugsBreakAlwaysSuggestion
-SugsBreakAlwaysSuggestion>>#label
-SugsBreakAlwaysSuggestion>>#execute
-SugsBreakConditionSuggestion
-SugsBreakConditionSuggestion>>#label
-SugsBreakConditionSuggestion>>#execute
-SugsBreakConditionSuggestion>>#isValidForContext
-SugsBreakOnceSuggestion
-SugsBreakOnceSuggestion>>#label
-SugsBreakOnceSuggestion>>#execute
-SugsBreakOnceSuggestion>>#isValidForContext
-SugsBreakpointSuggestion>>#selectedNodeHasBreakpoint
-SugsSuggestionFactory class>>#cleanUp
-SugsSuggestionFactory class>>#createBreakConditionCommand
-SugsSuggestionFactory class>>#createBreakOnceCommand
+MultistateButtonMorph>>#activate
 MultistateButtonMorph>>#addUpAction:
-MultistateButtonMorph>>#mouseDown:
-MultistateButtonMorph>>#mouseUp:
-ScriptLoader>>#script50450
-ScriptLoader>>#commentForCurrentUpdate
-SugsBreakpointSuggestion>>#label
-SugsSuggestionFactory class>>#createBreakAtLineCommand
-MultistateButtonMorph>>#addUpAction:
+MultistateButtonMorph>>#extent:
 MultistateButtonMorph>>#handlesMouseDown:
+MultistateButtonMorph>>#handlesMouseOver:
 MultistateButtonMorph>>#handlesMouseOverDragging:
 MultistateButtonMorph>>#mouseDown:
-MultistateButtonMorph>>#mouseEnterDragging:
 MultistateButtonMorph>>#mouseEnter:
-MultistateButtonMorph>>#mouseLeaveDragging:
+MultistateButtonMorph>>#mouseEnterDragging:
 MultistateButtonMorph>>#mouseLeave:
+MultistateButtonMorph>>#mouseLeaveDragging:
 MultistateButtonMorph>>#mouseUp:
-MultistateButtonMorph>>#extent:
-MultistateButtonMorph>>#handlesMouseOver:
-MultistateButtonMorph>>#privateMoveBy:
-MultistateButtonMorph>>#activate
 MultistateButtonMorph>>#passivate
+MultistateButtonMorph>>#privateMoveBy:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50450
+ScriptLoader>>#update50451
+SugsBreakAlwaysSuggestion
+SugsBreakAlwaysSuggestion>>#execute
+SugsBreakAlwaysSuggestion>>#label
+SugsBreakConditionSuggestion
+SugsBreakConditionSuggestion>>#execute
+SugsBreakConditionSuggestion>>#isValidForContext
+SugsBreakConditionSuggestion>>#label
+SugsBreakOnceSuggestion
+SugsBreakOnceSuggestion>>#execute
+SugsBreakOnceSuggestion>>#isValidForContext
+SugsBreakOnceSuggestion>>#label
 SugsBreakpointSuggestion>>#breakpointForCondition
+SugsBreakpointSuggestion>>#label
+SugsBreakpointSuggestion>>#selectedNodeHasBreakpoint
+SugsSuggestionFactory class>>#cleanUp
 SugsSuggestionFactory class>>#createBreakAtLineCommand
+SugsSuggestionFactory class>>#createBreakConditionCommand
+SugsSuggestionFactory class>>#createBreakOnceCommand

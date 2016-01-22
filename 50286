@@ -1,10 +1,9 @@
-WideString class>>#newFromStream:
+MCDataStream class>>#initializeTypeMap
+MCOldDataStreamExtensions class>>#initialize
+NewVersionBrowser>>#buildChangeList
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50285
 ScriptLoader>>#update50286
 SourceFileArray>>#changeRecordsFrom:className:isMeta:
-MCOldDataStreamExtensions class>>#initialize
-MCDataStream class>>#initializeTypeMap
-ScriptLoader>>#script50285
-ScriptLoader>>#commentForCurrentUpdate
-NewVersionBrowser>>#buildChangeList
 TBehavior>>#changeRecordsAt:
-ScriptLoader>>#script50285
+WideString class>>#newFromStream:

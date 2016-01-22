@@ -1,7 +1,6 @@
-FFIMethodRegistry class>>#initializeStartUpList
-FFIMethodRegistry>>#reset
-ScriptLoader>>#update50499
 FFIMethodRegistry class>>#initialize
+FFIMethodRegistry class>>#initializeStartUpList
 FFIMethodRegistry>>#checkPlatform
+FFIMethodRegistry>>#reset
 ScriptLoader>>#script50498
-ScriptLoader>>#script50498
+ScriptLoader>>#update50499

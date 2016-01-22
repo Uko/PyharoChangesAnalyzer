@@ -1,3 +1,7 @@
+Association class>>#key:value:
+CompiledMethod>>#markerOrNil
+CompiledMethod>>#prepareForSimulationWith:
+CompiledMethod>>#sendsToSuper
 EncoderForSistaV1 class>>#markerOrNilFor:
 EncoderForSistaV1 class>>#prepareMethod:forSimulationWith:
 EncoderForSistaV1 class>>#sendsToSuperFor:
@@ -5,34 +9,29 @@ EncoderForV3PlusClosures class>>#markerOrNilFor:
 EncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith:
 EncoderForV3PlusClosures class>>#sendsToSuperFor:
 Object>>#halt
-Object>>#haltIfShiftPressed
+Object>>#halt:
 Object>>#haltIf:
+Object>>#haltIfShiftPressed
 Object>>#haltOnCount:
 Object>>#haltOnce
-Object>>#halt:
-RBAbstractClassRule>>#severity
 RBAbstractClassRule>>#checkMethod:
+RBAbstractClassRule>>#severity
 RBCodeCruftLeftInMethodsRule>>#addRuleRemoving:
 RBCodeCruftLeftInMethodsRule>>#debuggingPatterns
 RBCodeCruftLeftInMethodsRule>>#debuggingSelectors
 RBCodeCruftLeftInMethodsRule>>#haltPatterns
 RBCodeCruftLeftInMethodsRule>>#haltSelectors
-RBCodeCruftLeftInMethodsRule>>#patternForKeywordSelector:
+RBCodeCruftLeftInMethodsRule>>#initialize
 RBCodeCruftLeftInMethodsRule>>#patternFor:
+RBCodeCruftLeftInMethodsRule>>#patternForKeywordSelector:
 RBCodeCruftLeftInMethodsRule>>#patterns
+RBSmalllintTest>>#testCodeCruftLeftInMethods
+RBSmalllintTestObject>>#codeCruftLeftInMethods
 RBSmalllintTestObject>>#debbuggingMessageSent
 RBSmalllintTestObject>>#flagged
 RBSmalllintTestObject>>#haltClassMentioned
 RBSmalllintTestObject>>#transcriptMentioned
-ScriptLoader>>#update50053
-Symbol>>#separateKeywords
-Association class>>#key:value:
-CompiledMethod>>#prepareForSimulationWith:
-CompiledMethod>>#markerOrNil
-CompiledMethod>>#sendsToSuper
-RBCodeCruftLeftInMethodsRule>>#initialize
-RBSmalllintTest>>#testCodeCruftLeftInMethods
-RBSmalllintTestObject>>#codeCruftLeftInMethods
-ScriptLoader>>#script50052
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50052
+ScriptLoader>>#update50053
+Symbol>>#separateKeywords

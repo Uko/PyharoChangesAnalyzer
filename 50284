@@ -1,16 +1,15 @@
-OCClassScope>>#gtInspectorSourceCodeIn:
-OCInstanceScope>>#gtInspectorSourceCodeIn:
-ScriptLoader>>#update50284
 AbstractLayout>>#instVarNames
-PointerLayout>>#instVarNames
-TClassDescription>>#instanceVariableNamesDo:
+ClassDescription>>#superclass:layout:
 InstructionStream class>>#instVarNamesAndOffsetsDo:
 NautilusRefactoring>>#class:andInstVariable:
 OCAbstractScope>>#sourceInterval
-ScriptLoader>>#script50283
+OCClassScope>>#gtInspectorSourceCodeIn:
+OCInstanceScope>>#gtInspectorSourceCodeIn:
+PointerLayout>>#instVarNames
 ScriptLoader>>#commentForCurrentUpdate
-ClassDescription>>#superclass:layout:
-TClassDescription>>#instVarNamesAndOffsetsDo:
+ScriptLoader>>#script50283
+ScriptLoader>>#update50284
 TClassDescription>>#instVarIndexFor:ifAbsent:
 TClassDescription>>#instVarNameForIndex:
-ScriptLoader>>#script50283
+TClassDescription>>#instVarNamesAndOffsetsDo:
+TClassDescription>>#instanceVariableNamesDo:

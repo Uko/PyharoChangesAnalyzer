@@ -1,23 +1,68 @@
-RBConfigurableFormatter class>>#formatAsYouReadPolicy
-RBConfigurableFormatter class>>#formatAsYouReadPolicy:
-RBNullFormatter class>>#formatAsYouReadPolicy
-RBNullFormatter class>>#formatAsYouReadPolicy:
-ConfigurationOfFastTable class>>#project
+AbstractNautilusUI
+AbstractNautilusUI class>>#shiftedSourceCodeMenu:
+AbstractNautilusUI class>>#sourceCodeMenuExtra:
+AbstractNautilusUI>>#aGroupHasBeenUnregistered:
+AbstractNautilusUI>>#acceptCommentFromView
+AbstractNautilusUI>>#acceptSourceCodeFromView
+AbstractNautilusUI>>#addAll:
+AbstractNautilusUI>>#addMatchingPackagesInGroups
+AbstractNautilusUI>>#browseSendersOfMessages
+AbstractNautilusUI>>#buildCodePane
+AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
+AbstractNautilusUI>>#buildCodePanelWithoutComment
+AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+AbstractNautilusUI>>#classCommented:
+AbstractNautilusUI>>#classDefinitionModified:
+AbstractNautilusUI>>#classRenamed:
+AbstractNautilusUI>>#codeTextMorph
+AbstractNautilusUI>>#compileAClassFrom:notifying:
+AbstractNautilusUI>>#contentSelection
+AbstractNautilusUI>>#flashSourceCodeArea
+AbstractNautilusUI>>#forceGenerateInitialize
+AbstractNautilusUI>>#generateInitialize
+AbstractNautilusUI>>#giveFocusToSourceCodeArea
+AbstractNautilusUI>>#hasFocus
+AbstractNautilusUI>>#highlight:
+AbstractNautilusUI>>#initialize
+AbstractNautilusUI>>#okToChange
+AbstractNautilusUI>>#okToChangeComment
+AbstractNautilusUI>>#open
+AbstractNautilusUI>>#pendingText:
+AbstractNautilusUI>>#renameClass
+AbstractNautilusUI>>#selectedPackage
+AbstractNautilusUI>>#selectedPackage:
+AbstractNautilusUI>>#selectedPackageWithoutChangingSelection:
+AbstractNautilusUI>>#selectedPackageWithoutChangingSelectionInternally:
+AbstractNautilusUI>>#selectionInterval
+AbstractNautilusUI>>#selectionInterval:
+AbstractNautilusUI>>#setStylerClass:
+AbstractNautilusUI>>#showScriptCode:
+AbstractNautilusUI>>#showSourceCode:
+AbstractNautilusUI>>#sourceCode:
+AbstractNautilusUI>>#sourceTextModel
+AbstractNautilusUI>>#sourceTextWidget
+AbstractNautilusUI>>#toggleBytecodes
+AbstractNautilusUI>>#updateSourceCodeAreaWith:
+AbstractNautilusUI>>#whenTextAcceptedInView:
+AbstractNautilusUI>>#whenTextAreaSelectionChanged:
+CodeRewritingAcceptor>>#accept:notifying:
+CodeSearchingAcceptor>>#accept:notifying:
+ConfigurationOfFastTable
 ConfigurationOfFastTable class>>#DevelopmentSupport
-ConfigurationOfFastTable class>>#validate
-ConfigurationOfFastTable class>>#load
-ConfigurationOfFastTable class>>#loadBleedingEdge
-ConfigurationOfFastTable class>>#loadDevelopment
-ConfigurationOfFastTable class>>#isMetacelloConfig
 ConfigurationOfFastTable class>>#baseConfigurationClassIfAbsent:
 ConfigurationOfFastTable class>>#ensureMetacello
 ConfigurationOfFastTable class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfFastTable
-ConfigurationOfFastTable>>#customProjectAttributes
-ConfigurationOfFastTable>>#project
+ConfigurationOfFastTable class>>#isMetacelloConfig
+ConfigurationOfFastTable class>>#load
+ConfigurationOfFastTable class>>#loadBleedingEdge
+ConfigurationOfFastTable class>>#loadDevelopment
+ConfigurationOfFastTable class>>#project
+ConfigurationOfFastTable class>>#validate
 ConfigurationOfFastTable>>#baseline01:
 ConfigurationOfFastTable>>#baseline02:
+ConfigurationOfFastTable>>#customProjectAttributes
 ConfigurationOfFastTable>>#development:
+ConfigurationOfFastTable>>#project
 ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable>>#version01:
 ConfigurationOfFastTable>>#version02:
@@ -30,19 +75,20 @@ ConfigurationOfFastTable>>#version072:
 ConfigurationOfFastTable>>#version07:
 FTAnnouncement
 FTCellMorph
-FTCellMorph>>#initialize
 FTCellMorph>>#defaultColor
-FTColumn class>>#undefinedColumnWidth
-FTColumn class>>#id:
+FTCellMorph>>#initialize
 FTColumn
-FTColumn>>#id
-FTColumn>>#width
-FTColumn>>#widthOrUndefined
-FTColumn>>#width:
-FTColumn>>#id:
+FTColumn class>>#id:
+FTColumn class>>#undefinedColumnWidth
 FTColumn>>#acquireWidth:
+FTColumn>>#id
+FTColumn>>#id:
+FTColumn>>#width
+FTColumn>>#width:
+FTColumn>>#widthOrUndefined
 FTDataSource
 FTDataSource>>#cellColumn:row:
+FTDataSource>>#dropElements:index:
 FTDataSource>>#elementAt:
 FTDataSource>>#headerColumn:
 FTDataSource>>#menuColumn:row:
@@ -50,53 +96,55 @@ FTDataSource>>#numberOfRows
 FTDataSource>>#searchText:
 FTDataSource>>#table
 FTDataSource>>#table:
-FTDataSource>>#dropElements:index:
-FTDataSource>>#wantsDropElements:type:index:
 FTDataSource>>#tableRefresh
+FTDataSource>>#wantsDropElements:type:index:
 FTEasyListDataSource
 FTEasyListDataSource>>#cellColumn:row:
 FTEasyListDataSource>>#display:
-FTEasyListDataSource>>#icon:
-FTEasyListDataSource>>#menuColumn:row:
-FTEasyListDataSource>>#menu:
 FTEasyListDataSource>>#displayFor:
+FTEasyListDataSource>>#icon:
 FTEasyListDataSource>>#iconFor:
+FTEasyListDataSource>>#menu:
+FTEasyListDataSource>>#menuColumn:row:
 FTEasyListMorph
 FTEasyListMorph>>#display:
 FTEasyListMorph>>#elements:
 FTEasyListMorph>>#header:
 FTEasyListMorph>>#icon:
-FTEasyListMorph>>#menu:
 FTEasyListMorph>>#initialize
+FTEasyListMorph>>#menu:
 FTExampleDataSource
 FTExampleDataSource>>#cellColumn:row:
 FTExampleDataSource>>#colorFor:
 FTExampleDataSource>>#iconFor:
 FTExampleDropDataSource
 FTExampleDropDataSource>>#dropElements:index:
-FTExampleDropDataSource>>#wantsDropElements:type:index:
 FTExampleDropDataSource>>#initialize
-FTExampleMethodListDataSource class>>#for:
+FTExampleDropDataSource>>#wantsDropElements:type:index:
 FTExampleMethodListDataSource
+FTExampleMethodListDataSource class>>#for:
 FTExampleMethodListDataSource>>#cellColumn:row:
-FTExampleMethodListDataSource>>#menuColumn:row:
-FTExampleMethodListDataSource>>#searchText:
-FTExampleMethodListDataSource>>#initializeClass:
 FTExampleMethodListDataSource>>#colorFor:
 FTExampleMethodListDataSource>>#iconFor:
+FTExampleMethodListDataSource>>#initializeClass:
+FTExampleMethodListDataSource>>#menuColumn:row:
+FTExampleMethodListDataSource>>#searchText:
+FTExampleMethodModel
 FTExampleMethodModel class>>#method:
 FTExampleMethodModel class>>#new
-FTExampleMethodModel
 FTExampleMethodModel>>#actionOn:
+FTExampleMethodModel>>#createActionIconOn:
+FTExampleMethodModel>>#initializeMethod:
 FTExampleMethodModel>>#method
 FTExampleMethodModel>>#name
 FTExampleMethodModel>>#origin
 FTExampleMethodModel>>#protocol
-FTExampleMethodModel>>#createActionIconOn:
-FTExampleMethodModel>>#initializeMethod:
-FTExampleMethodTableDataSource class>>#for:
 FTExampleMethodTableDataSource
+FTExampleMethodTableDataSource class>>#for:
 FTExampleMethodTableDataSource>>#cellColumn:row:
+FTExampleMethodTableDataSource>>#colorFor:
+FTExampleMethodTableDataSource>>#iconFor:
+FTExampleMethodTableDataSource>>#initializeClass:
 FTExampleMethodTableDataSource>>#menuColumn:row:
 FTExampleMethodTableDataSource>>#nameColumn:row:
 FTExampleMethodTableDataSource>>#nameMenuColumn:row:
@@ -104,9 +152,7 @@ FTExampleMethodTableDataSource>>#originColumn:row:
 FTExampleMethodTableDataSource>>#originMenuColumn:row:
 FTExampleMethodTableDataSource>>#protocolColumn:row:
 FTExampleMethodTableDataSource>>#searchText:
-FTExampleMethodTableDataSource>>#initializeClass:
-FTExampleMethodTableDataSource>>#colorFor:
-FTExampleMethodTableDataSource>>#iconFor:
+FTExamples
 FTExamples class>>#example1
 FTExamples class>>#example2
 FTExamples class>>#exampleDragAndDrop1
@@ -123,14 +169,14 @@ FTExamples class>>#exampleList5
 FTExamples class>>#exampleTable1
 FTExamples class>>#exampleTable2
 FTExamples class>>#exampleTable3
-FTExamples
 FTExamples>>#seeClassSide
 FTMultipleSelection
-FTMultipleSelection>>#selectRowIndex:event:
-FTMultipleSelection>>#selectAppendingRowIndex:
-FTMultipleSelection>>#selectRowIndexesUpTo:
-FTMultipleSelection>>#selectRowIndexes:previous:
 FTMultipleSelection>>#isMultiple
+FTMultipleSelection>>#selectAppendingRowIndex:
+FTMultipleSelection>>#selectRowIndex:event:
+FTMultipleSelection>>#selectRowIndexes:previous:
+FTMultipleSelection>>#selectRowIndexesUpTo:
+FTPluggableIconListMorphAdaptor
 FTPluggableIconListMorphAdaptor class>>#defaultRowHeight
 FTPluggableIconListMorphAdaptor class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:
 FTPluggableIconListMorphAdaptor class>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:
@@ -139,12 +185,15 @@ FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:
 FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:keystroke:
 FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector:
 FTPluggableIconListMorphAdaptor class>>#on:list:selected:changeSelected:menu:wrapSelector:
-FTPluggableIconListMorphAdaptor
+FTPluggableIconListMorphAdaptor>>#acceptDroppingMorph:event:
+FTPluggableIconListMorphAdaptor>>#autoDeselect
+FTPluggableIconListMorphAdaptor>>#autoDeselect:
 FTPluggableIconListMorphAdaptor>>#basicGetListElementSelector:
 FTPluggableIconListMorphAdaptor>>#basicWrapSelector:
 FTPluggableIconListMorphAdaptor>>#doubleClickSelector
 FTPluggableIconListMorphAdaptor>>#doubleClickSelector:
 FTPluggableIconListMorphAdaptor>>#dropItemSelector:
+FTPluggableIconListMorphAdaptor>>#getCurrentSelectionIndex
 FTPluggableIconListMorphAdaptor>>#getIconSelector:
 FTPluggableIconListMorphAdaptor>>#getIndexSelector
 FTPluggableIconListMorphAdaptor>>#getIndexSelector:
@@ -156,47 +205,47 @@ FTPluggableIconListMorphAdaptor>>#getListSizeSelector:
 FTPluggableIconListMorphAdaptor>>#getMenuSelector:
 FTPluggableIconListMorphAdaptor>>#getSelectionListSelector
 FTPluggableIconListMorphAdaptor>>#getSelectionListSelector:
+FTPluggableIconListMorphAdaptor>>#initialize
+FTPluggableIconListMorphAdaptor>>#initializeKeyBindings
+FTPluggableIconListMorphAdaptor>>#initializeSelections
+FTPluggableIconListMorphAdaptor>>#interactWithSelection
+FTPluggableIconListMorphAdaptor>>#keyStroke:
+FTPluggableIconListMorphAdaptor>>#keyStrokeAction:
+FTPluggableIconListMorphAdaptor>>#keyStrokeModifierAction:
 FTPluggableIconListMorphAdaptor>>#keystrokeActionSelector
 FTPluggableIconListMorphAdaptor>>#keystrokeActionSelector:
 FTPluggableIconListMorphAdaptor>>#keystrokeSelector
 FTPluggableIconListMorphAdaptor>>#keystrokeSelector:
+FTPluggableIconListMorphAdaptor>>#model
+FTPluggableIconListMorphAdaptor>>#model:
+FTPluggableIconListMorphAdaptor>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:
+FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke:
+FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector:
 FTPluggableIconListMorphAdaptor>>#resetListSelector
 FTPluggableIconListMorphAdaptor>>#resetListSelector:
+FTPluggableIconListMorphAdaptor>>#scrollValue
+FTPluggableIconListMorphAdaptor>>#searchedElement:
+FTPluggableIconListMorphAdaptor>>#selectionChanged:
+FTPluggableIconListMorphAdaptor>>#selectionChangedResetIfEmpty:
+FTPluggableIconListMorphAdaptor>>#selectionChangedUpdateIndex:
+FTPluggableIconListMorphAdaptor>>#selectionChangedUpdateStatus:
 FTPluggableIconListMorphAdaptor>>#setIndexSelector
 FTPluggableIconListMorphAdaptor>>#setIndexSelector:
 FTPluggableIconListMorphAdaptor>>#setSelectionListSelector
 FTPluggableIconListMorphAdaptor>>#setSelectionListSelector:
-FTPluggableIconListMorphAdaptor>>#autoDeselect
-FTPluggableIconListMorphAdaptor>>#autoDeselect:
-FTPluggableIconListMorphAdaptor>>#getCurrentSelectionIndex
-FTPluggableIconListMorphAdaptor>>#model
-FTPluggableIconListMorphAdaptor>>#model:
-FTPluggableIconListMorphAdaptor>>#scrollValue
-FTPluggableIconListMorphAdaptor>>#vScrollValue:
-FTPluggableIconListMorphAdaptor>>#acceptDroppingMorph:event:
-FTPluggableIconListMorphAdaptor>>#wantsDroppedMorph:event:
-FTPluggableIconListMorphAdaptor>>#keyStrokeAction:
-FTPluggableIconListMorphAdaptor>>#keyStrokeModifierAction:
-FTPluggableIconListMorphAdaptor>>#keyStroke:
-FTPluggableIconListMorphAdaptor>>#searchedElement:
-FTPluggableIconListMorphAdaptor>>#initialize
-FTPluggableIconListMorphAdaptor>>#initializeKeyBindings
-FTPluggableIconListMorphAdaptor>>#initializeSelections
-FTPluggableIconListMorphAdaptor>>#on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:
-FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke:
-FTPluggableIconListMorphAdaptor>>#on:list:selected:changeSelected:menu:keystroke:wrapSelector:
-FTPluggableIconListMorphAdaptor>>#interactWithSelection
-FTPluggableIconListMorphAdaptor>>#selectionChangedResetIfEmpty:
-FTPluggableIconListMorphAdaptor>>#selectionChangedUpdateIndex:
-FTPluggableIconListMorphAdaptor>>#selectionChangedUpdateStatus:
-FTPluggableIconListMorphAdaptor>>#selectionChanged:
 FTPluggableIconListMorphAdaptor>>#strongSelectionChanged:
+FTPluggableIconListMorphAdaptor>>#update:
 FTPluggableIconListMorphAdaptor>>#updateList
 FTPluggableIconListMorphAdaptor>>#updateSelectionIndex
-FTPluggableIconListMorphAdaptor>>#update:
+FTPluggableIconListMorphAdaptor>>#vScrollValue:
+FTPluggableIconListMorphAdaptor>>#wantsDroppedMorph:event:
 FTPluggableIconListMorphAdaptorDataSource
+FTPluggableIconListMorphAdaptorDataSource>>#cellColumn:row:
+FTPluggableIconListMorphAdaptorDataSource>>#dropElements:index:
 FTPluggableIconListMorphAdaptorDataSource>>#dropItemSelector
 FTPluggableIconListMorphAdaptorDataSource>>#dropItemSelector:
+FTPluggableIconListMorphAdaptorDataSource>>#elementAt:
+FTPluggableIconListMorphAdaptorDataSource>>#elementWrapped:
 FTPluggableIconListMorphAdaptorDataSource>>#getIconSelector
 FTPluggableIconListMorphAdaptorDataSource>>#getIconSelector:
 FTPluggableIconListMorphAdaptorDataSource>>#getListElementSelector
@@ -207,55 +256,51 @@ FTPluggableIconListMorphAdaptorDataSource>>#getListSizeSelector
 FTPluggableIconListMorphAdaptorDataSource>>#getListSizeSelector:
 FTPluggableIconListMorphAdaptorDataSource>>#getMenuSelector
 FTPluggableIconListMorphAdaptorDataSource>>#getMenuSelector:
-FTPluggableIconListMorphAdaptorDataSource>>#wantsDropSelector
-FTPluggableIconListMorphAdaptorDataSource>>#wantsDropSelector:
-FTPluggableIconListMorphAdaptorDataSource>>#wrapSelector
-FTPluggableIconListMorphAdaptorDataSource>>#wrapSelector:
-FTPluggableIconListMorphAdaptorDataSource>>#cellColumn:row:
-FTPluggableIconListMorphAdaptorDataSource>>#elementAt:
 FTPluggableIconListMorphAdaptorDataSource>>#menuColumn:row:
 FTPluggableIconListMorphAdaptorDataSource>>#model
 FTPluggableIconListMorphAdaptorDataSource>>#model:
 FTPluggableIconListMorphAdaptorDataSource>>#numberOfRows
 FTPluggableIconListMorphAdaptorDataSource>>#searchText:
-FTPluggableIconListMorphAdaptorDataSource>>#dropElements:index:
 FTPluggableIconListMorphAdaptorDataSource>>#wantsDropElements:type:index:
-FTPluggableIconListMorphAdaptorDataSource>>#elementWrapped:
+FTPluggableIconListMorphAdaptorDataSource>>#wantsDropSelector
+FTPluggableIconListMorphAdaptorDataSource>>#wantsDropSelector:
+FTPluggableIconListMorphAdaptorDataSource>>#wrapSelector
+FTPluggableIconListMorphAdaptorDataSource>>#wrapSelector:
 FTRowLayout
 FTRowLayout>>#layout:in:
+FTSearchFunction
 FTSearchFunction class>>#new
 FTSearchFunction class>>#table:
-FTSearchFunction
 FTSearchFunction>>#accept
+FTSearchFunction>>#createSearchFieldMorph
+FTSearchFunction>>#initialize
+FTSearchFunction>>#initializeTable:
+FTSearchFunction>>#isVisible
+FTSearchFunction>>#keyStroke:
 FTSearchFunction>>#reset
 FTSearchFunction>>#resetAndFocusOwner
 FTSearchFunction>>#searchField
 FTSearchFunction>>#searchFor:
+FTSearchFunction>>#showSearchField
 FTSearchFunction>>#table
 FTSearchFunction>>#text
-FTSearchFunction>>#keyStroke:
-FTSearchFunction>>#createSearchFieldMorph
-FTSearchFunction>>#initialize
-FTSearchFunction>>#initializeTable:
-FTSearchFunction>>#showSearchField
-FTSearchFunction>>#isVisible
-FTSelectionChanged class>>#from:to:
 FTSelectionChanged
+FTSelectionChanged class>>#from:to:
 FTSelectionChanged>>#newSelectedRowIndexes
 FTSelectionChanged>>#newSelectedRowIndexes:
 FTSelectionChanged>>#oldSelectedRowIndexes
 FTSelectionChanged>>#oldSelectedRowIndexes:
+FTSelectionStrategy
 FTSelectionStrategy class>>#new
 FTSelectionStrategy class>>#table:
-FTSelectionStrategy
-FTSelectionStrategy>>#selectRowIndex:event:
-FTSelectionStrategy>>#table
 FTSelectionStrategy>>#initializeTable:
-FTSelectionStrategy>>#toggleRowIndex:
 FTSelectionStrategy>>#isMultiple
 FTSelectionStrategy>>#isSimple
-FTSimpleDataSource class>>#elements:
+FTSelectionStrategy>>#selectRowIndex:event:
+FTSelectionStrategy>>#table
+FTSelectionStrategy>>#toggleRowIndex:
 FTSimpleDataSource
+FTSimpleDataSource class>>#elements:
 FTSimpleDataSource>>#cellColumn:row:
 FTSimpleDataSource>>#elementAt:
 FTSimpleDataSource>>#elements
@@ -265,36 +310,37 @@ FTSimpleDataSource>>#numberOfRows
 FTSimpleDataSource>>#searchText:
 FTSimpleDataSource>>#toString:
 FTSimpleSelection
-FTSimpleSelection>>#selectRowIndex:event:
 FTSimpleSelection>>#isMultiple
-FTStrongSelectionChanged class>>#rowIndex:
+FTSimpleSelection>>#selectRowIndex:event:
 FTStrongSelectionChanged
+FTStrongSelectionChanged class>>#rowIndex:
 FTStrongSelectionChanged>>#selectedRowIndex
 FTStrongSelectionChanged>>#selectedRowIndex:
-FTTableContainerMorph class>>#rowLeftMargin
 FTTableContainerMorph
-FTTableContainerMorph>>#rowAndColumnIndexContainingPoint:
-FTTableContainerMorph>>#rowIndexContainingPoint:
-FTTableContainerMorph>>#fullDrawOn:
-FTTableContainerMorph>>#toSelectionRow:primary:
-FTTableContainerMorph>>#outerBounds
-FTTableContainerMorph>>#initialize
+FTTableContainerMorph class>>#rowLeftMargin
+FTTableContainerMorph>>#calculateColumnWidths
 FTTableContainerMorph>>#calculateExactVisibleRows
+FTTableContainerMorph>>#calculateExposedRows
+FTTableContainerMorph>>#calculateHeaderRow
 FTTableContainerMorph>>#calculateMaxVisibleRows
 FTTableContainerMorph>>#calculateMinVisibleRows
 FTTableContainerMorph>>#calculateStartIndexWhenShowing:
 FTTableContainerMorph>>#calculateVisibleRows
+FTTableContainerMorph>>#canRefreshValues
+FTTableContainerMorph>>#changed
 FTTableContainerMorph>>#exposedRows
-FTTableContainerMorph>>#needsRefreshExposedRows
-FTTableContainerMorph>>#setNeedsRefreshExposedRows
+FTTableContainerMorph>>#fullDrawOn:
+FTTableContainerMorph>>#initialize
 FTTableContainerMorph>>#isRowIndexExceding:
 FTTableContainerMorph>>#isRowIndexFullyVisible:
 FTTableContainerMorph>>#isRowIndexVisible:
-FTTableContainerMorph>>#calculateColumnWidths
-FTTableContainerMorph>>#calculateExposedRows
-FTTableContainerMorph>>#calculateHeaderRow
-FTTableContainerMorph>>#canRefreshValues
-FTTableContainerMorph>>#changed
+FTTableContainerMorph>>#needsRefreshExposedRows
+FTTableContainerMorph>>#outerBounds
+FTTableContainerMorph>>#rowAndColumnIndexContainingPoint:
+FTTableContainerMorph>>#rowIndexContainingPoint:
+FTTableContainerMorph>>#setNeedsRefreshExposedRows
+FTTableContainerMorph>>#toSelectionRow:primary:
+FTTableMorph
 FTTableMorph class>>#defaultAllowsDeselection
 FTTableMorph class>>#defaultBackgroundColor
 FTTableMorph class>>#defaultColumn
@@ -303,252 +349,171 @@ FTTableMorph class>>#defaultIntercellSpacing
 FTTableMorph class>>#defaultRowHeight
 FTTableMorph class>>#defaultSecondarySelectionColor
 FTTableMorph class>>#defaultSelectionColor
-FTTableMorph
-FTTableMorph>>#backgroundColor
-FTTableMorph>>#backgroundColor:
-FTTableMorph>>#headerColor
-FTTableMorph>>#headerColor:
-FTTableMorph>>#secondarySelectionColor
-FTTableMorph>>#secondarySelectionColor:
-FTTableMorph>>#selectionColor
-FTTableMorph>>#selectionColor:
-FTTableMorph>>#highlightRowIndex:
-FTTableMorph>>#highlightRowIndexes:
-FTTableMorph>>#highlightedRowIndexes
-FTTableMorph>>#selectAllRowIndexes
-FTTableMorph>>#selectRowIndex:
-FTTableMorph>>#selectRowIndexes:
-FTTableMorph>>#selectedRowIndex
-FTTableMorph>>#selectedRowIndexes
+FTTableMorph>>#acceptDroppingMorph:event:
 FTTableMorph>>#addColumn:
 FTTableMorph>>#allowDeselection
+FTTableMorph>>#allowsDeselection
 FTTableMorph>>#allowsDeselection:
+FTTableMorph>>#backgroundColor
+FTTableMorph>>#backgroundColor:
+FTTableMorph>>#basicHighlightRowIndexes:
+FTTableMorph>>#basicMoveShowIndexTo:
+FTTableMorph>>#basicSelectRowIndexes:
 FTTableMorph>>#beMultipleSelection
 FTTableMorph>>#beSingleSelection
+FTTableMorph>>#click:
 FTTableMorph>>#columns
 FTTableMorph>>#columns:
+FTTableMorph>>#container
 FTTableMorph>>#dataSource
 FTTableMorph>>#dataSource:
 FTTableMorph>>#denyDeselection
 FTTableMorph>>#disableSearch
+FTTableMorph>>#doubleClick:
+FTTableMorph>>#drawSubmorphsOn:
 FTTableMorph>>#enableSearch
+FTTableMorph>>#ensureAtLeastOneColumn
+FTTableMorph>>#ensureVisibleFirstSelection
+FTTableMorph>>#extent:
+FTTableMorph>>#handleMouseMove:
+FTTableMorph>>#handlesKeyboard:
+FTTableMorph>>#handlesMouseDown:
+FTTableMorph>>#handlesMouseOverDragging:
+FTTableMorph>>#handlesMouseWheel:
+FTTableMorph>>#hasDataSource
+FTTableMorph>>#hasSelection
+FTTableMorph>>#headerColor
+FTTableMorph>>#headerColor:
 FTTableMorph>>#hideColumnHeaders
+FTTableMorph>>#highlightRowIndex:
+FTTableMorph>>#highlightRowIndexes:
+FTTableMorph>>#highlightedRowIndexes
+FTTableMorph>>#initialize
+FTTableMorph>>#initializeContainer
+FTTableMorph>>#initializeKeyBindings
+FTTableMorph>>#initializeScrollBars
 FTTableMorph>>#intercellSpacing
 FTTableMorph>>#intercellSpacing:
-FTTableMorph>>#numberOfColumns
-FTTableMorph>>#numberOfRows
-FTTableMorph>>#rowHeight
-FTTableMorph>>#rowHeight:
-FTTableMorph>>#showColumnHeaders
-FTTableMorph>>#showFirstRowSelection
-FTTableMorph>>#acceptDroppingMorph:event:
-FTTableMorph>>#startDrag:
-FTTableMorph>>#wantsDroppedMorph:event:
-FTTableMorph>>#drawSubmorphsOn:
-FTTableMorph>>#click:
-FTTableMorph>>#doubleClick:
+FTTableMorph>>#isMultipleSelection
+FTTableMorph>>#isRowIndexSelected:
+FTTableMorph>>#isShowColumnHeaders
+FTTableMorph>>#isVerticalScrollBarVisible
+FTTableMorph>>#keyStroke:
 FTTableMorph>>#keyStrokeArrowDown:
 FTTableMorph>>#keyStrokeArrowUp:
 FTTableMorph>>#keyStrokeSearch:
-FTTableMorph>>#keyStroke:
 FTTableMorph>>#keyboardFocusChange:
 FTTableMorph>>#mouseDown:
 FTTableMorph>>#mouseEnterDragging:
 FTTableMorph>>#mouseLeaveDragging:
 FTTableMorph>>#mouseMove:
 FTTableMorph>>#mouseWheel:
-FTTableMorph>>#handleMouseMove:
-FTTableMorph>>#handlesKeyboard:
-FTTableMorph>>#handlesMouseDown:
-FTTableMorph>>#handlesMouseOverDragging:
-FTTableMorph>>#handlesMouseWheel:
-FTTableMorph>>#takesKeyboardFocus
-FTTableMorph>>#extent:
-FTTableMorph>>#initialize
-FTTableMorph>>#initializeContainer
-FTTableMorph>>#initializeKeyBindings
-FTTableMorph>>#initializeScrollBars
-FTTableMorph>>#showMenuForPosition:
-FTTableMorph>>#showMenuForRowIndex:columnIndex:
-FTTableMorph>>#basicHighlightRowIndexes:
-FTTableMorph>>#basicMoveShowIndexTo:
-FTTableMorph>>#basicSelectRowIndexes:
-FTTableMorph>>#container
-FTTableMorph>>#ensureAtLeastOneColumn
-FTTableMorph>>#ensureVisibleFirstSelection
-FTTableMorph>>#isVerticalScrollBarVisible
 FTTableMorph>>#moveShowIndexTo:
+FTTableMorph>>#numberOfColumns
+FTTableMorph>>#numberOfRows
 FTTableMorph>>#recalculateVerticalScrollBar
 FTTableMorph>>#recalculateVerticalScrollBarVisibilityIfHidden:
+FTTableMorph>>#refresh
 FTTableMorph>>#resetPosition
 FTTableMorph>>#resetSearch
 FTTableMorph>>#resizeAllSubviews
 FTTableMorph>>#resizeColumns
 FTTableMorph>>#resizeContainer
 FTTableMorph>>#resizeVerticalScrollBar
+FTTableMorph>>#rowHeight
+FTTableMorph>>#rowHeight:
 FTTableMorph>>#rowIndexToVerticalScrollBarValue:
 FTTableMorph>>#scrollBarThickness
+FTTableMorph>>#secondarySelectionColor
+FTTableMorph>>#secondarySelectionColor:
+FTTableMorph>>#selectAllRowIndexes
+FTTableMorph>>#selectRowIndex:
+FTTableMorph>>#selectRowIndexes:
+FTTableMorph>>#selectedRowIndex
+FTTableMorph>>#selectedRowIndexes
+FTTableMorph>>#selectionColor
+FTTableMorph>>#selectionColor:
 FTTableMorph>>#selectionStrategy
+FTTableMorph>>#showColumnHeaders
+FTTableMorph>>#showFirstRowSelection
 FTTableMorph>>#showIndex
-FTTableMorph>>#verticalScrollBar
-FTTableMorph>>#verticalScrollBarValueToRowIndex:
-FTTableMorph>>#verticalScrollBarValue:
-FTTableMorph>>#verticalScrollBarWidth
-FTTableMorph>>#allowsDeselection
-FTTableMorph>>#hasDataSource
-FTTableMorph>>#hasSelection
-FTTableMorph>>#isMultipleSelection
-FTTableMorph>>#isRowIndexSelected:
-FTTableMorph>>#isShowColumnHeaders
-FTTableMorph>>#refresh
+FTTableMorph>>#showMenuForPosition:
+FTTableMorph>>#showMenuForRowIndex:columnIndex:
+FTTableMorph>>#startDrag:
+FTTableMorph>>#takesKeyboardFocus
 FTTableMorph>>#update:
+FTTableMorph>>#verticalScrollBar
+FTTableMorph>>#verticalScrollBarValue:
+FTTableMorph>>#verticalScrollBarValueToRowIndex:
+FTTableMorph>>#verticalScrollBarWidth
+FTTableMorph>>#wantsDroppedMorph:event:
+FTTableRowMorph
 FTTableRowMorph class>>#new
 FTTableRowMorph class>>#table:
-FTTableRowMorph
+FTTableRowMorph>>#defaultColor
 FTTableRowMorph>>#initialize
 FTTableRowMorph>>#initializeTable:
-FTTableRowMorph>>#defaultColor
+FTTableSelectionMorph
 FTTableSelectionMorph class>>#new
 FTTableSelectionMorph class>>#table:row:primary:
-FTTableSelectionMorph
 FTTableSelectionMorph>>#initializeTable:row:primary:
-ScrollBar>>#pageDelta
-ScrollBar>>#scrollDownByPageDelta
-ScrollBar>>#scrollUpByPageDelta
-AbstractNautilusUI>>#contentSelection
-AbstractNautilusUI>>#selectionInterval
-AbstractNautilusUI>>#selectionInterval:
-AbstractNautilusUI>>#sourceTextModel
-AbstractNautilusUI>>#sourceTextWidget
-AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
-AbstractNautilusUI>>#acceptCommentFromView
-AbstractNautilusUI>>#acceptSourceCodeFromView
-AbstractNautilusUI>>#giveFocusToSourceCodeArea
-AbstractNautilusUI>>#flashSourceCodeArea
-AbstractNautilusUI>>#showScriptCode:
-AbstractNautilusUI>>#showSourceCode:
-AbstractNautilusUI>>#whenTextAcceptedInView:
-AbstractNautilusUI>>#whenTextAreaSelectionChanged:
-AbstractNautilusUI>>#updateSourceCodeAreaWith:
-NautilusAnnotationDisplayer class>>#key
-NautilusAnnotationDisplayer
-NautilusAnnotationDisplayer>>#backgroundColor
-NautilusAnnotationDisplayer>>#fontToUse
-NautilusAnnotationDisplayer>>#level
-NautilusAnnotationDisplayer>>#textColor
-NautilusAnnotationDisplayer>>#selectionChanged
-NautilusAnnotationDisplayer>>#textOfCharBlock:
-NautilusAnnotationDisplayer>>#updateContents
-NautilusAnnotationDisplayer>>#computedHeightFrom:
-NautilusAnnotationDisplayer>>#manageLayoutInBounds:
-NautilusAnnotationDisplayer>>#initialize
-NautilusAnnotationDisplayer>>#changeFormatAsYouReadPolicy
-NautilusAnnotationDisplayer>>#changeLineNumbersDisplay
-NautilusAnnotationDisplayer>>#changeWrappingPolicy
-NautilusAnnotationDisplayer>>#formatAsYouReadLabel
-NautilusAnnotationDisplayer>>#formatAsYouReadMorph
-NautilusAnnotationDisplayer>>#lineNumbersDisplayLabel
-NautilusAnnotationDisplayer>>#lineNumbersDisplayLabelMorph
-NautilusAnnotationDisplayer>>#noteNewOwner:
-NautilusAnnotationDisplayer>>#spacer:
-NautilusAnnotationDisplayer>>#wrappingPolicyLabel
-NautilusAnnotationDisplayer>>#wrappingPolicyLabelMorph
-NautilusCommentAnnotationDisplayer class>>#key
-NautilusCommentAnnotationDisplayer
-NautilusCommentAnnotationDisplayer>>#backgroundColor
-NautilusCommentAnnotationDisplayer>>#fontToUse
-NautilusCommentAnnotationDisplayer>>#textColor
-NautilusCommentAnnotationDisplayer>>#selectionChanged
-NautilusCommentAnnotationDisplayer>>#textOfCharBlock:
-NautilusCommentAnnotationDisplayer>>#updateContents
-NautilusCommentAnnotationDisplayer>>#computedHeightFrom:
-NautilusCommentAnnotationDisplayer>>#manageLayoutInBounds:
-NautilusCommentAnnotationDisplayer>>#initialize
-NautilusCommentAnnotationDisplayer>>#changeExtendCommentPolicy
-NautilusCommentAnnotationDisplayer>>#changeLineNumbersDisplay
-NautilusCommentAnnotationDisplayer>>#changeWrappingPolicy
-NautilusCommentAnnotationDisplayer>>#extendCommentPolicyMorph
-NautilusCommentAnnotationDisplayer>>#lineNumbersDisplayLabel
-NautilusCommentAnnotationDisplayer>>#lineNumbersDisplayLabelMorph
-NautilusCommentAnnotationDisplayer>>#noteNewOwner:
-NautilusCommentAnnotationDisplayer>>#spacer:
-NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabel
-NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabelMorph
-ScriptLoader>>#update50133
-SugsNautilusContext>>#code
-SugsNautilusContext>>#contentSelection
-SugsNautilusContext>>#flashSourceCodeArea
-SugsNautilusContext>>#formatSourceCode
-SugsNautilusContext>>#selectTheTextForTheNode
-SugsNautilusContext>>#selectionInterval
-RubSmalltalkEditor>>#smartSuggestions
-RBConfigurableFormatter
-RBNullFormatter
-PackageTreeNautilusTest>>#assertSelectedCompiledMethod
-PackageTreeNautilusTest>>#tearDown
-AbstractNautilusUI class>>#shiftedSourceCodeMenu:
-AbstractNautilusUI class>>#sourceCodeMenuExtra:
-AbstractNautilusUI
-AbstractNautilusUI>>#selectedPackage
-AbstractNautilusUI>>#selectedPackageWithoutChangingSelectionInternally:
-AbstractNautilusUI>>#selectedPackageWithoutChangingSelection:
-AbstractNautilusUI>>#selectedPackage:
-AbstractNautilusUI>>#codeTextMorph
-AbstractNautilusUI>>#sourceCode:
-AbstractNautilusUI>>#buildCodePane
-AbstractNautilusUI>>#addAll:
-AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
-AbstractNautilusUI>>#buildCodePanelWithoutComment
-AbstractNautilusUI>>#hasFocus
-AbstractNautilusUI>>#open
-AbstractNautilusUI>>#aGroupHasBeenUnregistered:
-AbstractNautilusUI>>#addMatchingPackagesInGroups
-AbstractNautilusUI>>#initialize
-AbstractNautilusUI>>#browseSendersOfMessages
-AbstractNautilusUI>>#forceGenerateInitialize
-AbstractNautilusUI>>#generateInitialize
-AbstractNautilusUI>>#renameClass
-AbstractNautilusUI>>#toggleBytecodes
-AbstractNautilusUI>>#compileAClassFrom:notifying:
-AbstractNautilusUI>>#highlight:
-AbstractNautilusUI>>#okToChangeComment
-AbstractNautilusUI>>#pendingText:
-AbstractNautilusUI>>#setStylerClass:
-AbstractNautilusUI>>#classCommented:
-AbstractNautilusUI>>#classDefinitionModified:
-AbstractNautilusUI>>#classRenamed:
-AbstractNautilusUI>>#okToChange
-CodeRewritingAcceptor>>#accept:notifying:
-CodeSearchingAcceptor>>#accept:notifying:
 MethodWidget>>#keyPressedOnElement:
+Nautilus>>#contents:
 Nautilus>>#selectedCategory:
 Nautilus>>#selectedClass
 Nautilus>>#selectedClass:
 Nautilus>>#selectedGroup:
 Nautilus>>#selectedMethod:
 Nautilus>>#selectedPackage:
-Nautilus>>#contents:
-NautilusUI class>>#initializeCache
-NautilusUI>>#selectedCategoryInternally:
-NautilusUI>>#selectedClassWithoutChangingSelectionInternally:
-NautilusUI>>#selectedMethodWithoutAsking:
-NautilusUI>>#addCategory
-NautilusUI>>#findAllMethod
-NautilusUI>>#findMethod
-NautilusUI>>#findProtocol
-NautilusUI>>#updateOnClassSelection
-NautilusUI>>#compileAMethodFromCategory:withSource:notifying:
-NautilusUI>>#compileSource:notifying:
-NautilusUI>>#methodModified:
-NautilusUI>>#selectedCategory:
-NautilusUI>>#selectedMethod:
-PackageListWidget>>#keyPressedOnList:shifted:
-PackageTreeNautilusUI>>#selectedPackageWithoutChangingSelection:
+NautilusAnnotationDisplayer
+NautilusAnnotationDisplayer class>>#key
+NautilusAnnotationDisplayer>>#backgroundColor
+NautilusAnnotationDisplayer>>#changeFormatAsYouReadPolicy
+NautilusAnnotationDisplayer>>#changeLineNumbersDisplay
+NautilusAnnotationDisplayer>>#changeWrappingPolicy
+NautilusAnnotationDisplayer>>#computedHeightFrom:
+NautilusAnnotationDisplayer>>#fontToUse
+NautilusAnnotationDisplayer>>#formatAsYouReadLabel
+NautilusAnnotationDisplayer>>#formatAsYouReadMorph
+NautilusAnnotationDisplayer>>#initialize
+NautilusAnnotationDisplayer>>#level
+NautilusAnnotationDisplayer>>#lineNumbersDisplayLabel
+NautilusAnnotationDisplayer>>#lineNumbersDisplayLabelMorph
+NautilusAnnotationDisplayer>>#manageLayoutInBounds:
+NautilusAnnotationDisplayer>>#noteNewOwner:
+NautilusAnnotationDisplayer>>#selectionChanged
+NautilusAnnotationDisplayer>>#spacer:
+NautilusAnnotationDisplayer>>#textColor
+NautilusAnnotationDisplayer>>#textOfCharBlock:
+NautilusAnnotationDisplayer>>#updateContents
+NautilusAnnotationDisplayer>>#wrappingPolicyLabel
+NautilusAnnotationDisplayer>>#wrappingPolicyLabelMorph
+NautilusCommentAnnotationDisplayer
+NautilusCommentAnnotationDisplayer class>>#key
+NautilusCommentAnnotationDisplayer>>#backgroundColor
+NautilusCommentAnnotationDisplayer>>#changeExtendCommentPolicy
+NautilusCommentAnnotationDisplayer>>#changeLineNumbersDisplay
+NautilusCommentAnnotationDisplayer>>#changeWrappingPolicy
+NautilusCommentAnnotationDisplayer>>#computedHeightFrom:
+NautilusCommentAnnotationDisplayer>>#extendCommentPolicyMorph
+NautilusCommentAnnotationDisplayer>>#fontToUse
+NautilusCommentAnnotationDisplayer>>#initialize
+NautilusCommentAnnotationDisplayer>>#lineNumbersDisplayLabel
+NautilusCommentAnnotationDisplayer>>#lineNumbersDisplayLabelMorph
+NautilusCommentAnnotationDisplayer>>#manageLayoutInBounds:
+NautilusCommentAnnotationDisplayer>>#noteNewOwner:
+NautilusCommentAnnotationDisplayer>>#selectionChanged
+NautilusCommentAnnotationDisplayer>>#spacer:
+NautilusCommentAnnotationDisplayer>>#textColor
+NautilusCommentAnnotationDisplayer>>#textOfCharBlock:
+NautilusCommentAnnotationDisplayer>>#updateContents
+NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabel
+NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabelMorph
+NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
 NautilusRefactoring class>>#refactoringClassMenu:
 NautilusRefactoring class>>#refactoringMethodMenu:
 NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
 NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
-NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
 NautilusRefactoring>>#changeSuperclassOf:
 NautilusRefactoring>>#extractToMethodTextSelection
 NautilusRefactoring>>#extractToTempTextSelection
@@ -556,16 +521,50 @@ NautilusRefactoring>>#formatSourceCode
 NautilusRefactoring>>#renameTextSelectionForClass
 NautilusRefactoring>>#renameTextSelectionForMethod
 NautilusRefactoring>>#renameVariable:
-TClassDescription>>#sourceCodeRefactoringMenu:
-TClassDescription>>#sourceCodeRefactoring:
-ScriptLoader>>#script50132
+NautilusUI class>>#initializeCache
+NautilusUI>>#addCategory
+NautilusUI>>#compileAMethodFromCategory:withSource:notifying:
+NautilusUI>>#compileSource:notifying:
+NautilusUI>>#findAllMethod
+NautilusUI>>#findMethod
+NautilusUI>>#findProtocol
+NautilusUI>>#methodModified:
+NautilusUI>>#selectedCategory:
+NautilusUI>>#selectedCategoryInternally:
+NautilusUI>>#selectedClassWithoutChangingSelectionInternally:
+NautilusUI>>#selectedMethod:
+NautilusUI>>#selectedMethodWithoutAsking:
+NautilusUI>>#updateOnClassSelection
+PackageListWidget>>#keyPressedOnList:shifted:
+PackageTreeNautilusTest>>#assertSelectedCompiledMethod
+PackageTreeNautilusTest>>#tearDown
+PackageTreeNautilusUI>>#selectedPackageWithoutChangingSelection:
+PluggableTextMorph>>#smartSuggestions
+RBConfigurableFormatter
+RBConfigurableFormatter class>>#formatAsYouReadPolicy
+RBConfigurableFormatter class>>#formatAsYouReadPolicy:
+RBNullFormatter
+RBNullFormatter class>>#formatAsYouReadPolicy
+RBNullFormatter class>>#formatAsYouReadPolicy:
+RubSmalltalkEditor>>#smartSuggestions
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50132
+ScriptLoader>>#update50133
+ScrollBar>>#pageDelta
+ScrollBar>>#scrollDownByPageDelta
+ScrollBar>>#scrollUpByPageDelta
 SugsAbstractContext class>>#contextFor:
 SugsAbstractContext>>#formatSourceCode
 SugsDebuggerContext>>#selectedClass
 SugsDebuggerContext>>#sourceTextArea
 SugsNautilusContext>>#browsedEnvironment
+SugsNautilusContext>>#code
+SugsNautilusContext>>#contentSelection
+SugsNautilusContext>>#flashSourceCodeArea
+SugsNautilusContext>>#formatSourceCode
+SugsNautilusContext>>#selectTheTextForTheNode
 SugsNautilusContext>>#selectedMethod
+SugsNautilusContext>>#selectionInterval
 SugsNautilusContext>>#sourceTextArea
-PluggableTextMorph>>#smartSuggestions
-ScriptLoader>>#script50132
+TClassDescription>>#sourceCodeRefactoring:
+TClassDescription>>#sourceCodeRefactoringMenu:

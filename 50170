@@ -1,12 +1,11 @@
+MetaLink
+MetaLink class>>#defaultOptions
+MetaLink>>#doesNotUnderstand:
+MetaLink>>#initialize
+MetaLink>>#option:
+MetaLink>>#parseOptions:
 MetaLinkTest>>#testLinkOption
 MetaLinkTest>>#testLinkOptionsDefault
-MetaLink class>>#defaultOptions
-MetaLink>>#option:
-MetaLink>>#doesNotUnderstand:
-MetaLink>>#parseOptions:
-ScriptLoader>>#update50170
-MetaLink
-MetaLink>>#initialize
-ScriptLoader>>#script50169
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50169
+ScriptLoader>>#update50170

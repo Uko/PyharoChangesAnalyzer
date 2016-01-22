@@ -1,19 +1,18 @@
-ConfigurationOfGTSpotter>>#version123:
-ConfigurationOfGTSpotter>>#version124:
-ConfigurationOfGlamourCore>>#version313:
-ScriptLoader>>#update50043
 ConfigurationOfGTSpotter>>#development:
 ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGTSpotter>>#version123:
+ConfigurationOfGTSpotter>>#version124:
 ConfigurationOfGlamourCore>>#development:
 ConfigurationOfGlamourCore>>#stable:
+ConfigurationOfGlamourCore>>#version313:
 ConfigurationOfRubric>>#stable:
 FreeTypeCache class>>#shutDown:
 GTSpotterCategoryTitleBrick>>#stepModel:
 GTSpotterMorph>>#initializeListeners
-RPackage>>#spotterActDefault
-ScriptLoader>>#script651
-ScriptLoader>>#commentForCurrentUpdate
 LiteralVariable>>#emitStore:
+RPackage>>#spotterActDefault
 RelationSlot>>#emitStore:
-Slot>>#emitStore:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script651
+ScriptLoader>>#update50043
+Slot>>#emitStore:

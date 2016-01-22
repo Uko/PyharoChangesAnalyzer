@@ -1,10 +1,9 @@
-SelectionMorph>>#goBehind
-ScriptLoader>>#update50481
+AbstractNautilusUI>>#browseMessages
 ComposableModel>>#newDiff
 MessageBrowser>>#textModel:
-AbstractNautilusUI>>#browseMessages
-ScriptLoader>>#script50480
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50480
+ScriptLoader>>#update50481
+SelectionMorph>>#goBehind
 VersionBrowser>>#showDiffMorphWithConverter:
 VersionBrowser>>#showSourceWithConverter:
-ScriptLoader>>#script50480

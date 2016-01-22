@@ -1,88 +1,84 @@
+Author class>>#reset
+Author>>#fullName:
+Author>>#fullNamePerSe
+Canvas class>>#gtExampleWorldCanvasWithAlpha
+Canvas class>>#gtExampleWorldCanvasWithShadow
+ConfigurationOfGTInspectorCore>>#stable:
 ConfigurationOfGTInspectorCore>>#version2018:
+ConfigurationOfGTPlaygroundCore>>#stable:
 ConfigurationOfGTPlaygroundCore>>#version218:
+ConfigurationOfGTSpotter>>#stable:
 ConfigurationOfGTSpotter>>#version129:
+ConfigurationOfGToolkitCore>>#development:
+ConfigurationOfGToolkitCore>>#stable:
 ConfigurationOfGToolkitCore>>#version305:
+ConfigurationOfGlamourCore>>#stable:
 ConfigurationOfGlamourCore>>#version319:
 Dictionary>>#gtInspectorKeysIn:
-GTPlayground>>#actOnBrowserClosing:
-GTPlayground>>#codePresentationIn:
+GLMErrorPopper>>#initializeTextMorph
+GLMExamplesBrowser>>#exampleIn:
+GLMMorphicMorphRenderer
+GLMMorphicMorphRenderer>>#actOnPresentationUpdated:
+GLMMorphicMorphRenderer>>#render:
+GLMMorphicWidgetRenderer>>#scrollMorphFor:
+GLMPopper>>#computeOriginFor:
+GLMPopper>>#withString:from:
+GLMPrintPopper>>#initializeTextMorph
+GLMRubEditingAreaBrick class>>#gtExampleBand
+GLMRubEditingAreaBrick class>>#gtExampleBasic
+GLMRubEditingAreaBrick class>>#gtExampleScrollPane
+GTFilter
+GTFilter>>#applyFilter
+GTFilter>>#applyFilterInContext:error:
 GTFilter>>#defaultFilteredItems
 GTFilter>>#filteredItems
 GTFilter>>#filteredItems:
 GTFilter>>#hasFilteredItems
-GTSpotterMorph>>#bindingDictionnary
-GLMMorphicWidgetRenderer>>#scrollMorphFor:
-ScriptLoader>>#update50229
-ConfigurationOfGTInspectorCore>>#stable:
-ConfigurationOfGTPlaygroundCore>>#stable:
-ConfigurationOfGTSpotter>>#stable:
-ConfigurationOfGToolkitCore>>#development:
-ConfigurationOfGToolkitCore>>#stable:
-ConfigurationOfGlamourCore>>#stable:
-GTSimpleMethodsBrowser>>#classesIn:
-GTSimpleMethodsBrowser>>#methodsIn:
-GTSimpleMethodsBrowser>>#sourceOf:for:in:
-Canvas class>>#gtExampleWorldCanvasWithAlpha
-Canvas class>>#gtExampleWorldCanvasWithShadow
-HelpTopic>>#gtInspectorActionOpenHelpBrowser
-Morph>>#gtInspectorMappingsIn:
-Morph>>#gtInspectorMorphIn:
-Morph>>#gtInspectorSubmorphsIn:
-RBProgramNode>>#gtInspectorSourceCodeIn:
-SettingNode>>#gtInspectorLiveIn:
-GTPlayground>>#codeIn:
-GTPlayground>>#compose
-GTFilter
 GTFilter>>#itemFilterNameFor:
-GTFilter>>#applyFilter
-GTFilter>>#applyFilterInContext:error:
 GTFilter>>#prepareFilterInContext:
 GTFilter>>#value:
 GTFilterAlike>>#applyFilterWithQuery
 GTFilterSubstring>>#applyFilterWithQuery
 GTNullFilter>>#applyFilterWithQuery
+GTPlayground>>#actOnBrowserClosing:
+GTPlayground>>#codeIn:
+GTPlayground>>#codePresentationIn:
+GTPlayground>>#compose
+GTSimpleMethodsBrowser>>#classesIn:
+GTSimpleMethodsBrowser>>#methodsIn:
+GTSimpleMethodsBrowser>>#sourceOf:for:in:
 GTSpotter>>#setText:from:
+GTSpotterMorph>>#bindingDictionnary
 GTSpotterMorph>>#initializeListeners
 GTStringFilter>>#applyFilter
 GTStringFilter>>#applyFilterWithoutQuery
 GTUnorderedFilter>>#applyFilterWithQuery
+HelpTopic>>#gtInspectorActionOpenHelpBrowser
 HelpTopic>>#gtTopicIcon
-GLMExamplesBrowser>>#exampleIn:
-GLMRubEditingAreaBrick class>>#gtExampleBand
-GLMRubEditingAreaBrick class>>#gtExampleBasic
-GLMRubEditingAreaBrick class>>#gtExampleScrollPane
-GLMMorphicMorphRenderer
-GLMMorphicMorphRenderer>>#actOnPresentationUpdated:
-GLMMorphicMorphRenderer>>#render:
-GLMErrorPopper>>#initializeTextMorph
-GLMPopper>>#withString:from:
-GLMPopper>>#computeOriginFor:
-GLMPrintPopper>>#initializeTextMorph
-MCHttpRepository>>#user
 MCHttpRepository>>#password
+MCHttpRepository>>#user
 Morph>>#addHalo:
 Morph>>#color:
-Morph>>#invokeMetaMenu:
 Morph>>#fillStyle:
-PasteUpMorph>>#dropFiles:
-WorldState class>>#quitSession
-PluggableTextMorph>>#accept
-PluggableTextMorph>>#doIt
-PluggableTextMorph>>#basicHasUnacceptedEdits:
+Morph>>#gtInspectorMappingsIn:
+Morph>>#gtInspectorMorphIn:
+Morph>>#gtInspectorSubmorphsIn:
+Morph>>#invokeMetaMenu:
 NBFFICallbackType>>#pushAsValue:
-ScriptLoader>>#script50228
-ScriptLoader>>#commentForCurrentUpdate
-SpecDebugger class>>#openOn:context:label:contents:fullView:
-StartupPreferencesLoader>>#load:
+PasteUpMorph>>#dropFiles:
 PharoCommandLineHandler class>>#activateWith:
-Author class>>#reset
-Author>>#fullNamePerSe
-Author>>#fullName:
-SmalltalkImage>>#handleStartupErrors:
+PluggableTextMorph>>#accept
+PluggableTextMorph>>#basicHasUnacceptedEdits:
+PluggableTextMorph>>#doIt
+RBProgramNode>>#gtInspectorSourceCodeIn:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50228
+ScriptLoader>>#update50229
+SettingNode>>#gtInspectorLiveIn:
 SmalltalkEditor class>>#smalltalkEditorMenuOn:
-SmalltalkEditor>>#doIt
 SmalltalkEditor>>#browseIt:
 SmalltalkEditor>>#debugIt:
+SmalltalkEditor>>#doIt
 SmalltalkEditor>>#doIt:
 SmalltalkEditor>>#exploreIt:
 SmalltalkEditor>>#fileItIn:
@@ -95,4 +91,7 @@ SmalltalkEditor>>#referencesToIt:
 SmalltalkEditor>>#save:
 SmalltalkEditor>>#sendersOfIt:
 SmalltalkEditor>>#spawnIt:
-ScriptLoader>>#script50228
+SmalltalkImage>>#handleStartupErrors:
+SpecDebugger class>>#openOn:context:label:contents:fullView:
+StartupPreferencesLoader>>#load:
+WorldState class>>#quitSession

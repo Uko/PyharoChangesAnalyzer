@@ -1,26 +1,22 @@
 EmbeddedFreeTypeFontFontDescription class>>#canBeInstalled
-LucidaGrandeRegular class>>#canBeInstalled
-PragmaMenuAndShortcutRegistration>>#handOutItems
-ToggleMenuItemShortcut class>>#priority
-ToggleMenuItemShortcut class>>#canBeUsed
-ToggleMenuItemShortcutWithSymbol class>>#priority
-ToggleMenuItemShortcutWithText class>>#priority
-ToggleMenuItemShortcutWithText class>>#canBeUsed
-ScriptLoader>>#update50082
 EmbeddedFreeTypeFontFontDescription class>>#installFontsIn:
-LucidaGrandeRegular class>>#initialize
 KMPragmaKeymapBuilder>>#interpretRegistration:
+LucidaGrandeRegular class>>#canBeInstalled
+LucidaGrandeRegular class>>#initialize
+PragmaMenuAndShortcutRegistration>>#handOutItems
 PragmaMenuBuilder>>#interpretRegistration:
+RBNamespace>>#allReferencesToClass:do:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50081
+ScriptLoader>>#update50082
 ToggleMenuItemMorph>>#keyTextExpanded
+ToggleMenuItemShortcut class>>#canBeUsed
+ToggleMenuItemShortcut class>>#expand:
 ToggleMenuItemShortcut class>>#expandCondensedStyle:
 ToggleMenuItemShortcut class>>#expandFullStyle:
-ToggleMenuItemShortcut class>>#expand:
+ToggleMenuItemShortcut class>>#priority
 ToggleMenuItemShortcut class>>#shortcutClass
 ToggleMenuItemShortcut>>#initializeOwner:keyText:
-RBNamespace>>#allReferencesToClass:do:
-ScriptLoader>>#script50081
-ScriptLoader>>#commentForCurrentUpdate
-ToggleMenuItemShortcut class>>#expandCondensedStyle:
-ToggleMenuItemShortcut class>>#expandFullStyle:
-ToggleMenuItemShortcut class>>#expand:
-ScriptLoader>>#script50081
+ToggleMenuItemShortcutWithSymbol class>>#priority
+ToggleMenuItemShortcutWithText class>>#canBeUsed
+ToggleMenuItemShortcutWithText class>>#priority

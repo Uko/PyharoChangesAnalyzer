@@ -1,68 +1,64 @@
-BaselineOfQualityAssistant>>#removedExtendedCLasses
-ConfigurationOfQualityAssistant>>#v2_1_0:
-ConfigurationOfRenraku>>#v0_9_0:
-ConfigurationOfRenraku>>#v0_9_1:
-QANautilusPlugin class>>#unload
-QANautilusPluginMorph>>#intoWorld:
-QANautilusPluginMorph>>#outOfWorld:
-QANautilusPluginMorph>>#excecuteTask
-QANautilusPluginMorph>>#setTaskAction
-QANautilusPluginMorph>>#stopTask
-QANautilusPluginMorph>>#taskCompleted
-ReRuleManager class>>#unload
-ReRuleManager
-ReSystemAnnouncer class>>#uniqueInstance
-RBUndeclaredReferenceRule>>#check:forCriticsDo:ifNone:
-RBVariableNotDefinedRule>>#check:forCriticsDo:ifNone:
-ScriptLoader>>#update50462
 BaselineOfQualityAssistant>>#baseline:
 BaselineOfQualityAssistant>>#removeRenrakuCrap
-ConfigurationOfQualityAssistant>>#development:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#pre2_1_0:
-ConfigurationOfRenraku>>#development:
-ConfigurationOfRenraku>>#stable:
-ConfigurationOfRenraku>>#pre0_9_0:
-NautilusUITest>>#setUp
-Nautilus>>#open
-OCASTTranslator>>#emitToDo:step:
-QANautilusPlugin>>#registerTo:
-QANautilusPluginMorph>>#fixAutomatically:
-QANautilusPluginMorph>>#updateList
-QANautilusPluginMorph>>#initializeUpdateTask
-QANautilusPluginMorph>>#getCritics
-CompiledMethod>>#guidedBan:
-PackageTreeNautilusUI
+BaselineOfQualityAssistant>>#removedExtendedCLasses
 CompiledMethod>>#ban:
 CompiledMethod>>#critics
-RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
-TBehavior>>#ban:
-TBehavior>>#critics
-ScriptLoader>>#script50461
-ScriptLoader>>#commentForCurrentUpdate
-SugsContextTest>>#testContextForNautilusItsANautilusContext
+CompiledMethod>>#guidedBan:
+ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant>>#pre2_1_0:
+ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant>>#v2_1_0:
+ConfigurationOfRenraku>>#development:
+ConfigurationOfRenraku>>#pre0_9_0:
+ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku>>#v0_9_0:
+ConfigurationOfRenraku>>#v0_9_1:
 DAPackageAnalyzerWindow>>#buildNautilusWindow
 DialogItemsChooser>>#open
 Finder>>#open
-ConfigurationOfQualityAssistant>>#pre2_1_0:
-ConfigurationOfRenraku>>#pre0_9_0:
-ReEngine>>#notifyBanInitiatedFor:of:
-ReEngine>>#notifyCritic:AutoFixedFor:
-ReEngine>>#notifyCriticsSeen:of:
-ReEngine>>#notifyViewedDiffFor:of:
-ReEngine class>>#reset
+Nautilus>>#open
+NautilusUITest>>#setUp
+OCASTTranslator>>#emitToDo:step:
+PackageTreeNautilusUI
+QANautilusPlugin class>>#unload
+QANautilusPlugin>>#registerTo:
+QANautilusPluginMorph>>#excecuteTask
+QANautilusPluginMorph>>#fixAutomatically:
+QANautilusPluginMorph>>#getCritics
+QANautilusPluginMorph>>#initializeUpdateTask
+QANautilusPluginMorph>>#intoWorld:
+QANautilusPluginMorph>>#outOfWorld:
+QANautilusPluginMorph>>#setTaskAction
+QANautilusPluginMorph>>#stopTask
+QANautilusPluginMorph>>#taskCompleted
+QANautilusPluginMorph>>#updateList
+RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
+RBUndeclaredReferenceRule>>#check:forCriticsDo:ifNone:
+RBVariableNotDefinedRule>>#check:forCriticsDo:ifNone:
 ReEngine class>>#cleanUp
+ReEngine class>>#reset
 ReEngine class>>#uniqueInstance
-ReEngine>>#classRules
-ReEngine>>#excludedRuleNames
-ReEngine>>#methodRules
-ReEngine>>#reset
 ReEngine>>#classAdded:
 ReEngine>>#classRemoved:
+ReEngine>>#classRules
+ReEngine>>#excludedRuleNames
 ReEngine>>#initialize
 ReEngine>>#initializeRules
-ReEngine>>#subscribe
-PackageTreeNautilusUI
+ReEngine>>#methodRules
+ReEngine>>#notifyBanInitiatedFor:of:
+ReEngine>>#notifyCritic:AutoFixedFor:
 ReEngine>>#notifyCritic:of:BannedOn:
+ReEngine>>#notifyCriticsSeen:of:
 ReEngine>>#notifyEntity:CriticizedWith:
+ReEngine>>#notifyViewedDiffFor:of:
+ReEngine>>#reset
+ReEngine>>#subscribe
+ReRuleManager
+ReRuleManager class>>#unload
+ReSystemAnnouncer class>>#uniqueInstance
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50461
+ScriptLoader>>#update50462
+SugsContextTest>>#testContextForNautilusItsANautilusContext
+TBehavior>>#ban:
+TBehavior>>#critics

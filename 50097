@@ -1,17 +1,16 @@
 CodeImporter class>>#chunksFromFileNamed:
 CodeImporter class>>#chunksFromStream:
-ScriptLoader>>#update50097
 ExternalChangesBrowser class>>#fileReaderServicesForFile:suffix:
 ExternalChangesBrowser class>>#initialize
-ExternalChangesBrowser class>>#serviceBrowseCSOrSTFile
-ExternalChangesBrowser class>>#services
-ExternalChangesBrowser class>>#taskbarIcon
 ExternalChangesBrowser class>>#openOnFileName:
 ExternalChangesBrowser class>>#openOnStream:
 ExternalChangesBrowser class>>#registerToolsOn:
+ExternalChangesBrowser class>>#serviceBrowseCSOrSTFile
+ExternalChangesBrowser class>>#services
+ExternalChangesBrowser class>>#taskbarIcon
+ExternalChangesBrowser>>#changeSetName:
 Nautilus>>#parentOfClass:
 NautilusUI>>#selectedClassWithoutChangingSelection:
-ScriptLoader>>#script50096
 ScriptLoader>>#commentForCurrentUpdate
-ExternalChangesBrowser>>#changeSetName:
 ScriptLoader>>#script50096
+ScriptLoader>>#update50097

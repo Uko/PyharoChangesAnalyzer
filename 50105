@@ -1,45 +1,41 @@
-ConfigurationOfCatalog>>#baseline05:
-ConfigurationOfCatalog>>#baseline06:
-ConfigurationOfCatalog>>#version05:
-ChangesBrowser>>#changes:
-ScriptLoader>>#update50105
-ConfigurationOfCatalog>>#development:
-ConfigurationOfCatalog>>#stable:
 ChangesBrowser
-ChangesBrowser>>#updateChanges
-PackageChecker
-ScriptLoader>>#script50104
-ScriptLoader>>#commentForCurrentUpdate
-ClassRepackaged
-MethodRepackaged
-ChangesBrowser>>#pickedChanges
 ChangesBrowser>>#buildDiffFor:
-RPackageOrganizer class>>#registerInterestToSystemAnnouncement
-RPackageOrganizer class>>#unregisterInterestToSystemAnnouncement
-RPackageOrganizer class>>#methodAdded:
-RPackageOrganizer class>>#isPackageDefinedForClass:
-MCPackage>>#correspondingRPackage
-MCPackageManager class>>#unregisterForNotifications
-String>>#asPackage
-String>>#asPackageIfAbsent:
-PackageChecker
-PackageChecker>>#check
-ScriptLoader>>#script50104
-ClassRepackaged class>>#classRepackaged:oldPackage:newPackage:
+ChangesBrowser>>#changes:
+ChangesBrowser>>#pickedChanges
+ChangesBrowser>>#updateChanges
 ClassRepackaged
+ClassRepackaged class>>#classRepackaged:oldPackage:newPackage:
 ClassRepackaged>>#classRepackaged
 ClassRepackaged>>#classRepackaged:
-MethodRepackaged>>#newPackage
-MethodRepackaged>>#newPackage:
-MethodRepackaged>>#oldPackage
-MethodRepackaged>>#oldPackage:
-MethodRepackaged class>>#methodRepackaged:oldPackage:newPackage:
-MethodRepackaged
-MethodRepackaged>>#methodRepackaged
-MethodRepackaged>>#methodRepackaged:
 ClassRepackaged>>#newPackage
 ClassRepackaged>>#newPackage:
 ClassRepackaged>>#oldPackage
 ClassRepackaged>>#oldPackage:
+ConfigurationOfCatalog>>#baseline05:
+ConfigurationOfCatalog>>#baseline06:
+ConfigurationOfCatalog>>#development:
+ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog>>#version05:
+MCPackage>>#correspondingRPackage
+MCPackageManager class>>#unregisterForNotifications
+MethodRepackaged
+MethodRepackaged class>>#methodRepackaged:oldPackage:newPackage:
+MethodRepackaged>>#methodRepackaged
+MethodRepackaged>>#methodRepackaged:
+MethodRepackaged>>#newPackage
+MethodRepackaged>>#newPackage:
+MethodRepackaged>>#oldPackage
+MethodRepackaged>>#oldPackage:
+PackageChecker
+PackageChecker>>#check
+RPackageOrganizer class>>#isPackageDefinedForClass:
+RPackageOrganizer class>>#methodAdded:
+RPackageOrganizer class>>#registerInterestToSystemAnnouncement
+RPackageOrganizer class>>#unregisterInterestToSystemAnnouncement
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50104
+ScriptLoader>>#update50105
+String>>#asPackage
+String>>#asPackageIfAbsent:
 SystemAnnouncer>>#classRepackaged:from:to:
 SystemAnnouncer>>#methodRepackaged:from:to:

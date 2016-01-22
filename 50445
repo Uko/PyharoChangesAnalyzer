@@ -1,9 +1,8 @@
-CustomHelp class>>#isUsed
-ScriptLoader>>#update50445
 Class>>#copy
-SystemWindow>>#keyStroke:
+CustomHelp class>>#isUsed
 RBLintRule class>>#isUsed
-TestCase class>>#isUsed
-ScriptLoader>>#script50444
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50444
+ScriptLoader>>#update50445
+SystemWindow>>#keyStroke:
+TestCase class>>#isUsed

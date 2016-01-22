@@ -1,62 +1,59 @@
-HookGenerator class>>#node:link:
-RFArgumentsReification
-RFSenderReification class>>#key
-RFSenderReification class>>#nodes
-RFSenderReification
-RFSenderReification>>#genForRBMessageNode
-RFSenderReification>>#genForRBMethodNode
-ScriptLoader>>#update50069
-DoubleLinkedList>>#firstLink
-DoubleLinkedList>>#lastLink
-DoubleLinkedList>>#linksDo:
-DoubleLinkedList>>#reverseLinksDo:
-DoubleLinkedList>>#emptyCheck
-DoubleLinkedListTests>>#testFirstAndLastLink
-DoubleLinkedListTests>>#testLinksDo
-DoubleLinkedListTests>>#testReverseLinksDo
-PharoShortcuts>>#openKomitterShortcut
-ToolShortcutsCategory>>#openKomitter
-Komitter class>>#komitterMenuOn:
-HookGeneratorTest>>#testConditionWithArguments
-HookGeneratorTest>>#testHookWithArguments
-HookGeneratorTest>>#testHookWithVirtualMeta
-HookGenerator>>#initForNode:
-MetaLink>>#hookOn:
-RFTArgumentsReification>>#genForRBProgramNode
-RFNewValueReification>>#genForRBAssignmentNode
-RFSemanticAnalyzer>>#visitNode:
-ScriptLoader>>#script50068
-ScriptLoader>>#commentForCurrentUpdate
-DoubleLinkedList>>#first
-DoubleLinkedList>>#last
-DoubleLinkedList>>#addAll:
-DoubleLinkedList>>#addFirst:
-DoubleLinkedList>>#addLast:
+Breakpoint>>#initialize
 DoubleLinkedList>>#add:
 DoubleLinkedList>>#add:afterLink:
 DoubleLinkedList>>#add:beforeLink:
+DoubleLinkedList>>#addAll:
+DoubleLinkedList>>#addFirst:
+DoubleLinkedList>>#addLast:
 DoubleLinkedList>>#asArray
 DoubleLinkedList>>#collect:
 DoubleLinkedList>>#do:
+DoubleLinkedList>>#emptyCheck
+DoubleLinkedList>>#first
+DoubleLinkedList>>#firstLink
+DoubleLinkedList>>#includes:
+DoubleLinkedList>>#isEmpty
+DoubleLinkedList>>#last
+DoubleLinkedList>>#lastLink
+DoubleLinkedList>>#linksDo:
 DoubleLinkedList>>#reject:
-DoubleLinkedList>>#reverseDo:
-DoubleLinkedList>>#select:
 DoubleLinkedList>>#removeAll
 DoubleLinkedList>>#removeFirst
 DoubleLinkedList>>#removeLast
 DoubleLinkedList>>#removeLink:
-DoubleLinkedList>>#includes:
-DoubleLinkedList>>#isEmpty
-Breakpoint>>#initialize
+DoubleLinkedList>>#reverseDo:
+DoubleLinkedList>>#reverseLinksDo:
+DoubleLinkedList>>#select:
+DoubleLinkedListTests>>#testFirstAndLastLink
+DoubleLinkedListTests>>#testLinksDo
+DoubleLinkedListTests>>#testReverseLinksDo
+HookGenerator class>>#node:link:
 HookGenerator>>#initForNode:
+HookGeneratorTest>>#testConditionWithArguments
+HookGeneratorTest>>#testHookWithArguments
+HookGeneratorTest>>#testHookWithVirtualMeta
+Komitter class>>#komitterMenuOn:
 MetaLink class>>#uninstallAll
+MetaLink>>#hookOn:
+PharoShortcuts>>#openKomitterShortcut
+RFArgumentsReification
+RFLinkReification>>#genForRBProgramNode
+RFNewValueReification>>#genForRBAssignmentNode
+RFNodeReification>>#genForRBProgramNode
+RFObjectReification>>#genForRBProgramNode
+RFReification class>>#allKeys
+RFReification class>>#for:
+RFReification class>>#node:link:
+RFSemanticAnalyzer>>#visitNode:
+RFSenderReification
+RFSenderReification class>>#key
+RFSenderReification class>>#nodes
+RFSenderReification>>#genForRBMessageNode
+RFSenderReification>>#genForRBMethodNode
 RFTArgumentsReification class>>#key
 RFTArgumentsReification class>>#nodes
 RFTArgumentsReification>>#genForRBProgramNode
-RFLinkReification>>#genForRBProgramNode
-RFNodeReification>>#genForRBProgramNode
-RFObjectReification>>#genForRBProgramNode
-RFReification class>>#node:link:
-RFReification class>>#allKeys
-RFReification class>>#for:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50068
+ScriptLoader>>#update50069
+ToolShortcutsCategory>>#openKomitter

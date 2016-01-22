@@ -1,6 +1,5 @@
-ScriptLoader>>#update50206
-MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
-ScriptLoader>>#script50205
-ScriptLoader>>#commentForCurrentUpdate
 DiffMorph>>#calibrateScrollbar
+MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50205
+ScriptLoader>>#update50206

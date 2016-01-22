@@ -1,19 +1,15 @@
-Latin1 class>>#initializeUcsTable
-Unicode class>>#ucsTable
-ScriptLoader>>#update50332
+CombinedChar class>>#parseCompositionMappingFrom:
 EncodedCharSet class>>#ucsTable
-Latin1 class>>#initialize
-ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
 GB2312 class>>#initialize
-UCSTable class>>#initializeGB2312Table
-UCSTable class>>#initializeJISX0208Table
 JISX0208 class>>#initialize
 KSX1001 class>>#initialize
-UCSTable class>>#initializeKSX1001Table
-ScriptLoader>>#script50331
+Latin1 class>>#initialize
+Latin1 class>>#initializeUcsTable
+ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
 ScriptLoader>>#commentForCurrentUpdate
-CombinedChar class>>#parseCompositionMappingFrom:
+ScriptLoader>>#script50331
+ScriptLoader>>#update50332
 UCSTable class>>#initializeGB2312Table
 UCSTable class>>#initializeJISX0208Table
 UCSTable class>>#initializeKSX1001Table
-ScriptLoader>>#script50331
+Unicode class>>#ucsTable

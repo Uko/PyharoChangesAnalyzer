@@ -1,3 +1,23 @@
+ChangeSorterApplication>>#browseMethodFull
+ChangeSorterApplication>>#openChangeSetBrowser
+ClassListNodeExample>>#browseItem
+ClassTreeNodeExample>>#browseItem
+CompiledMethod>>#browse
+DeepCopier>>#warnInstanceVariableNotCopiedIn:selector:
+FinderClassNode>>#browseClass
+FinderMethodNode>>#browseClass
+FinderNode>>#browseClass
+FinderPragmaNode>>#browse
+KeymapBrowser>>#browseDefinitionOfSelectedShortcut
+KomitSliceUI>>#setTitleFrom:
+LinkWrapper>>#links
+LinkWrapper>>#removeLink:
+LinkWrapper>>#uninstall
+MCCodeTool>>#browseMethodFull
+MessageBrowser class>>#messageBrowserListMenu:
+MetaLink>>#installOnVariable:
+NECEntry>>#browseWith:
+NECSelectorEntry>>#browseWith:
 Nautilus class>>#fullOnClass:
 Nautilus class>>#fullOnClass:selector:
 Nautilus class>>#fullOnClass:selector:highlight:
@@ -5,58 +25,35 @@ Nautilus class>>#fullOnEnvironment:
 Nautilus class>>#newOnClass:
 Nautilus class>>#newOnClass:selector:
 Nautilus class>>#openOnClass:selector:highlight:
+NautilusRefactoring>>#openEnvironment:for:
 OCAbstractVariable>>#variable
 OCLiteralVariable>>#variable
 OCSlotVariable>>#variable
-ReflectiveMethodTest>>#testSetLinkOnInstanceVariable
-ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
-LinkWrapper>>#links
-LinkWrapper>>#removeLink:
-MetaLink>>#installOnVariable:
-RFASTTranslator>>#visitVariableValue:
-ScriptLoader>>#update50223
-TestReviver>>#browse:
-DeepCopier>>#warnInstanceVariableNotCopiedIn:selector:
-KomitSliceUI>>#setTitleFrom:
-MCCodeTool>>#browseMethodFull
-ClassListNodeExample>>#browseItem
-ClassTreeNodeExample>>#browseItem
+Object>>#browse
+PSMCPatchMorph>>#browseClass
 PackageClassNodeExample>>#browseItem
 PackageMethodNodeExample>>#browseItem
 PluggableButtonMorph>>#browseAction
-NECEntry>>#browseWith:
-NECSelectorEntry>>#browseWith:
-Nautilus class>>#fullOnClass:selector:
-NautilusRefactoring>>#openEnvironment:for:
-LinkWrapper>>#uninstall
+ProcessBrowser>>#browseContext
 RFASTTranslator>>#visitVariableNode:
-Slot>>#link:
+RFASTTranslator>>#visitVariableValue:
 RGBehaviorDefinition>>#browse
 RGElementDefinition>>#browse
 RGMethodDefinition>>#browse
-ScriptLoader>>#script50222
+ReflectiveMethodTest>>#testSetLinkOnInstanceVariable
+ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
 ScriptLoader>>#commentForCurrentUpdate
-SpecDebuggerStack>>#browseMethodFull
-TInspectorActions>>#browseSelectedObjectClass
-ChangeSorterApplication>>#openChangeSetBrowser
-ChangeSorterApplication>>#browseMethodFull
-KeymapBrowser>>#browseDefinitionOfSelectedShortcut
-MessageBrowser class>>#messageBrowserListMenu:
+ScriptLoader>>#script50222
+ScriptLoader>>#update50223
 SettingNode>>#browseDeclaration
+Slot>>#link:
 SmalltalkEditor>>#browseClassFrom:
 SmalltalkEditor>>#internalCallToBrowse:
-CompiledMethod>>#browse
-Object>>#browse
+SpecDebuggerStack>>#browseMethodFull
+SyntaxErrorDebugger>>#browseMethodFull
 SystemNavigation>>#browseAllUsersOfTrait:
 SystemNavigation>>#browseClassesWithNamesContaining:caseSensitive:
-PSMCPatchMorph>>#browseClass
-FinderClassNode>>#browseClass
-FinderMethodNode>>#browseClass
-FinderNode>>#browseClass
-FinderPragmaNode>>#browse
-ProcessBrowser>>#browseContext
-TimeProfilerNode>>#browseItem
-SyntaxErrorDebugger>>#browseMethodFull
 TBehavior>>#browse
-Nautilus class>>#fullOnClass:selector:
-ScriptLoader>>#script50222
+TInspectorActions>>#browseSelectedObjectClass
+TestReviver>>#browse:
+TimeProfilerNode>>#browseItem

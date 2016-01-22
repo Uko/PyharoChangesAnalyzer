@@ -1,8 +1,6 @@
-ConfigurationOfRubric>>#version1187:
-ScriptLoader>>#update50337
 ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version1187:
 ConfigurationOfRubric>>#version1214Moose51:
-SimpleBorder>>#initialize
 RBGuardClauseRule>>#name
 RBGuardClauseRule>>#rationale
 RBToDoCollectRule>>#name
@@ -11,6 +9,7 @@ RubSmalltalkEditor class>>#buildShortcutsOn:
 RubSmalltalkEditor>>#selectedSelector
 RubSmalltalkEditor>>#sendersOfIt
 RubTextSegmentMorph>>#from:to:
-ScriptLoader>>#script50336
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50336
+ScriptLoader>>#update50337
+SimpleBorder>>#initialize

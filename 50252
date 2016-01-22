@@ -1,11 +1,10 @@
-ScriptLoader>>#update50252
-RBParser>>#initializeParserWith:
 ManifestCollectionsStreams class>>#manuallyResolvedDependencies
 ManifestCollectionsStrings class>>#manuallyResolvedDependencies
-ScriptLoader>>#script50251
+RBParser>>#initializeParserWith:
 ScriptLoader>>#commentForCurrentUpdate
-WriteStream>>#nextChunkPut:
-WriteStream>>#timeStamp
+ScriptLoader>>#script50251
+ScriptLoader>>#update50252
 WideString>>#includesUnifiedCharacter
 WideString>>#isUnicodeStringWithCJK
-ScriptLoader>>#script50251
+WriteStream>>#nextChunkPut:
+WriteStream>>#timeStamp

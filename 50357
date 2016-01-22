@@ -1,12 +1,11 @@
-ConfigurationOfGlamourCore>>#version322:
-ConfigurationOfGlamourCore>>#version323:
-ScriptLoader>>#update50357
 ConfigurationOfGlamourCore>>#development:
 ConfigurationOfGlamourCore>>#stable:
-GLMBasicExamples>>#compoundTaggedTree
+ConfigurationOfGlamourCore>>#version322:
+ConfigurationOfGlamourCore>>#version323:
 GLMActionButtonBrick class>>#gtExample
 GLMAlertBrick class>>#gtExample
 GLMBandBrick class>>#gtExample
+GLMBasicExamples>>#compoundTaggedTree
 GLMBrick class>>#gtExampleZindex
 GLMButtonBrick class>>#gtExample
 GLMCheckboxBrick class>>#gtExample
@@ -21,6 +20,12 @@ GLMEditableLabelBrick class>>#gtExample
 GLMFormBrick class>>#gtExample
 GLMLabelBrick class>>#gtExample
 GLMLabelBrick class>>#gtExampleWithPopup
+GLMMorphicListingRenderer>>#textInputFor:withHelpMessage:
+GLMPagerBarBrick>>#pagerModel:
+GLMPagerBrick>>#pagerModel:
+GLMPagerButtonsPaneBrick>>#addButton:
+GLMPagerButtonsPaneBrick>>#pagerModel:
+GLMPagerScrollSlidingBrick>>#pagerModel:
 GLMPopupBrick class>>#gtExampleAllTypes
 GLMPopupBrick class>>#gtExampleAllTypesBelow
 GLMRubEditingAreaBrick class>>#gtExample
@@ -38,12 +43,6 @@ GLMRubTextFieldBrick class>>#gtExampleVSpaceFill
 GLMRubTextFieldBrick class>>#gtExampleVSpaceFillCentered
 GLMRubTextFieldBrick class>>#gtExampleWithBorder
 GLMTreeBrick class>>#gtExample
-GLMPagerBarBrick>>#pagerModel:
-GLMPagerBrick>>#pagerModel:
-GLMPagerButtonsPaneBrick>>#pagerModel:
-GLMPagerButtonsPaneBrick>>#addButton:
-GLMPagerScrollSlidingBrick>>#pagerModel:
-GLMMorphicListingRenderer>>#textInputFor:withHelpMessage:
 GLMWhitespaceTheme>>#checkboxSelectedForm
 GLMWhitespaceTheme>>#checkboxUnselectedForm
 GLMWhitespaceTheme>>#menuPinForm
@@ -59,6 +58,6 @@ GLMWhitespaceTheme>>#radioButtonSelectedForm
 GLMWhitespaceTheme>>#windowClosePassiveForm
 GLMWhitespaceTheme>>#windowMaximizePassiveForm
 GLMWhitespaceTheme>>#windowMinimizePassiveForm
-ScriptLoader>>#script50356
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50356
+ScriptLoader>>#update50357

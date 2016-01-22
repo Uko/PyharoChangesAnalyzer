@@ -1,18 +1,28 @@
-ConfigurationOfSton class>>#project
+Association>>#stonOn:
+Boolean>>#stonContainSubObjects
+Boolean>>#stonOn:
+ByteArray class>>#fromSton:
+ByteArray>>#stonContainSubObjects
+ByteArray>>#stonOn:
+Character class>>#fromSton:
+Character>>#stonOn:
+Collection class>>#fromSton:
+Collection>>#stonOn:
+ConfigurationOfSton
 ConfigurationOfSton class>>#DevelopmentSupport
-ConfigurationOfSton class>>#validate
-ConfigurationOfSton class>>#load
-ConfigurationOfSton class>>#loadBleedingEdge
-ConfigurationOfSton class>>#loadDevelopment
-ConfigurationOfSton class>>#isMetacelloConfig
 ConfigurationOfSton class>>#baseConfigurationClassIfAbsent:
 ConfigurationOfSton class>>#ensureMetacello
 ConfigurationOfSton class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfSton
-ConfigurationOfSton>>#project
+ConfigurationOfSton class>>#isMetacelloConfig
+ConfigurationOfSton class>>#load
+ConfigurationOfSton class>>#loadBleedingEdge
+ConfigurationOfSton class>>#loadDevelopment
+ConfigurationOfSton class>>#project
+ConfigurationOfSton class>>#validate
 ConfigurationOfSton>>#baseline01:
 ConfigurationOfSton>>#baseline02:
 ConfigurationOfSton>>#baseline03:
+ConfigurationOfSton>>#project
 ConfigurationOfSton>>#stable:
 ConfigurationOfSton>>#version01:
 ConfigurationOfSton>>#version02:
@@ -28,159 +38,6 @@ ConfigurationOfSton>>#version11:
 ConfigurationOfSton>>#version12:
 ConfigurationOfSton>>#version13:
 ConfigurationOfSton>>#version14:
-STON class>>#classNameKey
-STON class>>#jsonWriter
-STON class>>#listClass
-STON class>>#mapClass
-STON class>>#reader
-STON class>>#writer
-STON class>>#fromStream:
-STON class>>#fromString:
-STON class>>#put:asJsonOnStreamPretty:
-STON class>>#put:asJsonOnStream:
-STON class>>#put:onStreamPretty:
-STON class>>#put:onStream:
-STON class>>#toJsonStringPretty:
-STON class>>#toJsonString:
-STON class>>#toStringPretty:
-STON class>>#toString:
-STON
-STONListWriter
-STONListWriter>>#add:
-STONMapWriter
-STONMapWriter>>#at:put:
-STONReader class>>#on:
-STONReader
-STONReader>>#error:
-STONReader>>#acceptUnknownClasses:
-STONReader>>#allowComplexMapKeys:
-STONReader>>#close
-STONReader>>#convertNewLines:
-STONReader>>#initialize
-STONReader>>#newLine:
-STONReader>>#on:
-STONReader>>#optimizeForLargeStructures
-STONReader>>#reset
-STONReader>>#parseCharacter
-STONReader>>#parseCharacterConvertingNewLinesOn:
-STONReader>>#parseCharacterHex
-STONReader>>#parseCharacterHexDigit
-STONReader>>#parseClass
-STONReader>>#parseConstantDo:
-STONReader>>#parseEscapedCharacter
-STONReader>>#parseNumber
-STONReader>>#parseNumberExponent
-STONReader>>#parseNumberFraction
-STONReader>>#parseNumberInteger
-STONReader>>#parseReference
-STONReader>>#parseString
-STONReader>>#parseStringInternal
-STONReader>>#parseSymbol
-STONReader>>#parseList
-STONReader>>#parseListDo:
-STONReader>>#parseListSingleton
-STONReader>>#parseMap
-STONReader>>#parseMapDo:
-STONReader>>#parseNamedInstVarsFor:
-STONReader>>#parseObject
-STONReader>>#parseSimpleValue
-STONReader>>#parseValue
-STONReader>>#consumeWhitespace
-STONReader>>#expectChar:
-STONReader>>#isClassChar:
-STONReader>>#isClassStartChar:
-STONReader>>#isSimpleSymbolChar:
-STONReader>>#lookupClass:
-STONReader>>#matchChar:
-STONReader>>#match:do:
-STONReader>>#newReference
-STONReader>>#processSubObjectsOf:
-STONReader>>#resolveReferenceIndex:
-STONReader>>#resolveReference:
-STONReader>>#setReference:to:
-STONReader>>#storeReference:
-STONReader>>#stringStreamContents:
-STONReader>>#next
-STONReader>>#atEnd
-STONReader>>#isValidPropertyNameType:
-STONReaderError class>>#signal:streamPosition:
-STONReaderError
-STONReaderError>>#messageText
-STONReaderError>>#streamPosition
-STONReaderError>>#streamPosition:
-STONReference class>>#index:
-STONReference
-STONReference>>#index
-STONReference>>#index:
-STONReference>>#=
-STONReference>>#hash
-STONReference>>#printOn:
-STONReference>>#isStonReference
-STONShortListWriter
-STONShortListWriter>>#add:
-STONStreamWriter class>>#on:
-STONStreamWriter
-STONStreamWriter>>#initialize
-STONStreamWriter>>#on:
-STONWriter class>>#initialize
-STONWriter class>>#initializeSTONCharacters
-STONWriter class>>#initializeSTONSimpleSymbolCharacters
-STONWriter class>>#on:
-STONWriter class>>#isSimpleSymbolChar:
-STONWriter
-STONWriter>>#error:
-STONWriter>>#close
-STONWriter>>#initialize
-STONWriter>>#jsonMode:
-STONWriter>>#keepNewLines:
-STONWriter>>#newLine:
-STONWriter>>#on:
-STONWriter>>#optimizeForLargeStructures
-STONWriter>>#prettyPrint:
-STONWriter>>#referencePolicy:
-STONWriter>>#reset
-STONWriter>>#encodeCharacter:
-STONWriter>>#encodeKey:value:
-STONWriter>>#encodeStringKeepingNewLines:
-STONWriter>>#encodeString:
-STONWriter>>#indentedDo:
-STONWriter>>#isSimpleSymbol:
-STONWriter>>#listElementSeparator
-STONWriter>>#mapElementSeparator
-STONWriter>>#newlineIndent
-STONWriter>>#prettyPrintSpace
-STONWriter>>#shortListElementSeparator
-STONWriter>>#with:do:
-STONWriter>>#nextPut:
-STONWriter>>#encodeList:
-STONWriter>>#encodeMap:
-STONWriter>>#writeAssociation:
-STONWriter>>#writeBoolean:
-STONWriter>>#writeFloat:
-STONWriter>>#writeInteger:
-STONWriter>>#writeList:
-STONWriter>>#writeMap:
-STONWriter>>#writeNull
-STONWriter>>#writeObject:
-STONWriter>>#writeObject:do:
-STONWriter>>#writeObject:listSingleton:
-STONWriter>>#writeObject:streamList:
-STONWriter>>#writeObject:streamMap:
-STONWriter>>#writeObject:streamShortList:
-STONWriter>>#writeReference:
-STONWriter>>#writeString:
-STONWriter>>#writeSymbol:
-STONWriterError
-Association>>#stonOn:
-Boolean>>#stonContainSubObjects
-Boolean>>#stonOn:
-ByteArray class>>#fromSton:
-ByteArray>>#stonContainSubObjects
-ByteArray>>#stonOn:
-Character class>>#fromSton:
-Character>>#stonOn:
-Collection class>>#fromSton:
-Collection>>#stonOn:
 Date class>>#fromSton:
 Date>>#stonContainSubObjects
 Date>>#stonOn:
@@ -208,25 +65,90 @@ Point>>#stonOn:
 RunArray class>>#fromSton:
 RunArray>>#fromSton:
 RunArray>>#stonOn:
-SequenceableCollection class>>#fromSton:
-SequenceableCollection>>#stonOn:
-SmallDictionary class>>#fromSton:
-SmallDictionary>>#stonOn:
-String>>#stonContainSubObjects
-String>>#stonOn:
-Symbol>>#stonOn:
-Text class>>#fromSton:
-Text>>#fromSton:
-Text>>#stonOn:
-Time class>>#fromSton:
-Time>>#stonContainSubObjects
-Time>>#stonOn:
-UndefinedObject>>#stonContainSubObjects
-UndefinedObject>>#stonOn:
+STON
+STON class>>#classNameKey
+STON class>>#fromStream:
+STON class>>#fromString:
+STON class>>#jsonWriter
+STON class>>#listClass
+STON class>>#mapClass
+STON class>>#put:asJsonOnStream:
+STON class>>#put:asJsonOnStreamPretty:
+STON class>>#put:onStream:
+STON class>>#put:onStreamPretty:
+STON class>>#reader
+STON class>>#toJsonString:
+STON class>>#toJsonStringPretty:
+STON class>>#toString:
+STON class>>#toStringPretty:
+STON class>>#writer
 STONLargeWriteReadTests
 STONLargeWriteReadTests>>#materialize:
-STONLargeWriteReadTests>>#serializeJson:
 STONLargeWriteReadTests>>#serialize:
+STONLargeWriteReadTests>>#serializeJson:
+STONListWriter
+STONListWriter>>#add:
+STONMapWriter
+STONMapWriter>>#at:put:
+STONReader
+STONReader class>>#on:
+STONReader>>#acceptUnknownClasses:
+STONReader>>#allowComplexMapKeys:
+STONReader>>#atEnd
+STONReader>>#close
+STONReader>>#consumeWhitespace
+STONReader>>#convertNewLines:
+STONReader>>#error:
+STONReader>>#expectChar:
+STONReader>>#initialize
+STONReader>>#isClassChar:
+STONReader>>#isClassStartChar:
+STONReader>>#isSimpleSymbolChar:
+STONReader>>#isValidPropertyNameType:
+STONReader>>#lookupClass:
+STONReader>>#match:do:
+STONReader>>#matchChar:
+STONReader>>#newLine:
+STONReader>>#newReference
+STONReader>>#next
+STONReader>>#on:
+STONReader>>#optimizeForLargeStructures
+STONReader>>#parseCharacter
+STONReader>>#parseCharacterConvertingNewLinesOn:
+STONReader>>#parseCharacterHex
+STONReader>>#parseCharacterHexDigit
+STONReader>>#parseClass
+STONReader>>#parseConstantDo:
+STONReader>>#parseEscapedCharacter
+STONReader>>#parseList
+STONReader>>#parseListDo:
+STONReader>>#parseListSingleton
+STONReader>>#parseMap
+STONReader>>#parseMapDo:
+STONReader>>#parseNamedInstVarsFor:
+STONReader>>#parseNumber
+STONReader>>#parseNumberExponent
+STONReader>>#parseNumberFraction
+STONReader>>#parseNumberInteger
+STONReader>>#parseObject
+STONReader>>#parseReference
+STONReader>>#parseSimpleValue
+STONReader>>#parseString
+STONReader>>#parseStringInternal
+STONReader>>#parseSymbol
+STONReader>>#parseValue
+STONReader>>#processSubObjectsOf:
+STONReader>>#reset
+STONReader>>#resolveReference:
+STONReader>>#resolveReferenceIndex:
+STONReader>>#setReference:to:
+STONReader>>#storeReference:
+STONReader>>#stringStreamContents:
+STONReaderError
+STONReaderError class>>#signal:streamPosition:
+STONReaderError>>#messageText
+STONReaderError>>#streamPosition
+STONReaderError>>#streamPosition:
 STONReaderTests
 STONReaderTests>>#materialize:
 STONReaderTests>>#testAssociation
@@ -263,9 +185,24 @@ STONReaderTests>>#testUnknownClasses
 STONReaderTests>>#testUser
 STONReaderTests>>#testUser2
 STONReaderTests>>#testWhitespace
+STONReference
+STONReference class>>#index:
+STONReference>>#=
+STONReference>>#hash
+STONReference>>#index
+STONReference>>#index:
+STONReference>>#isStonReference
+STONReference>>#printOn:
+STONShortListWriter
+STONShortListWriter>>#add:
+STONStreamWriter
+STONStreamWriter class>>#on:
+STONStreamWriter>>#initialize
+STONStreamWriter>>#on:
+STONTestDomainObject
 STONTestDomainObject class>>#dummy
 STONTestDomainObject class>>#stonName
-STONTestDomainObject
+STONTestDomainObject>>#=
 STONTestDomainObject>>#boolean
 STONTestDomainObject>>#boolean:
 STONTestDomainObject>>#bytes
@@ -278,60 +215,59 @@ STONTestDomainObject>>#description
 STONTestDomainObject>>#description:
 STONTestDomainObject>>#float
 STONTestDomainObject>>#float:
+STONTestDomainObject>>#hash
+STONTestDomainObject>>#initialize
 STONTestDomainObject>>#integer
 STONTestDomainObject>>#integer:
 STONTestDomainObject>>#modified
 STONTestDomainObject>>#modified:
 STONTestDomainObject>>#tags
 STONTestDomainObject>>#tags:
-STONTestDomainObject>>#=
-STONTestDomainObject>>#hash
-STONTestDomainObject>>#initialize
+STONTestMap
 STONTestMap class>>#classTree
+STONTestMap class>>#classTree:
 STONTestMap class>>#classTreeExtended
 STONTestMap class>>#classTreeExtended:
-STONTestMap class>>#classTree:
 STONTestMap class>>#stonName
-STONTestMap
 STONTestMap>>#printElementsOn:
+STONTestUser
 STONTestUser class>>#dummy
 STONTestUser class>>#stonName
-STONTestUser
+STONTestUser2
+STONTestUser2 class>>#stonName
+STONTestUser2>>#fromSton:
+STONTestUser2>>#stonOn:
+STONTestUser3
+STONTestUser3 class>>#stonAllInstVarNames
+STONTestUser3 class>>#stonName
+STONTestUser3>>#stonShouldWriteNilInstVars
+STONTestUser>>#=
 STONTestUser>>#enabled
 STONTestUser>>#enabled:
+STONTestUser>>#hash
+STONTestUser>>#initialize
 STONTestUser>>#password
 STONTestUser>>#password:
 STONTestUser>>#username
 STONTestUser>>#username:
-STONTestUser>>#=
-STONTestUser>>#hash
-STONTestUser>>#initialize
-STONTestUser2 class>>#stonName
-STONTestUser2
-STONTestUser2>>#fromSton:
-STONTestUser2>>#stonOn:
-STONTestUser3 class>>#stonAllInstVarNames
-STONTestUser3 class>>#stonName
-STONTestUser3
-STONTestUser3>>#stonShouldWriteNilInstVars
+STONTests
 STONTests class>>#fastReadFromFileNamed:
 STONTests class>>#fastWrite:toFileNamed:
 STONTests class>>#readFromFileNamed:
 STONTests class>>#write:toFileNamed:
-STONTests
 STONTests>>#testFromString
 STONTests>>#testPrettyPrinting
 STONTests>>#testRoomExitCycles
 STONTests>>#testToString
 STONWritePrettyPrinterReadTests
-STONWritePrettyPrinterReadTests>>#serializeJson:
 STONWritePrettyPrinterReadTests>>#serialize:
+STONWritePrettyPrinterReadTests>>#serializeJson:
 STONWriteReadTests
 STONWriteReadTests>>#materialize:
-STONWriteReadTests>>#serializeAndMaterializeJsonMode:
-STONWriteReadTests>>#serializeAndMaterialize:
-STONWriteReadTests>>#serializeJson:
 STONWriteReadTests>>#serialize:
+STONWriteReadTests>>#serializeAndMaterialize:
+STONWriteReadTests>>#serializeAndMaterializeJsonMode:
+STONWriteReadTests>>#serializeJson:
 STONWriteReadTests>>#testAssociations
 STONWriteReadTests>>#testCharacters
 STONWriteReadTests>>#testCollections
@@ -349,10 +285,59 @@ STONWriteReadTests>>#testSymbols
 STONWriteReadTests>>#testTextAndRunArray
 STONWriteReadTests>>#testUser
 STONWriteReadTests>>#testUser2
+STONWriter
+STONWriter class>>#initialize
+STONWriter class>>#initializeSTONCharacters
+STONWriter class>>#initializeSTONSimpleSymbolCharacters
+STONWriter class>>#isSimpleSymbolChar:
+STONWriter class>>#on:
+STONWriter>>#close
+STONWriter>>#encodeCharacter:
+STONWriter>>#encodeKey:value:
+STONWriter>>#encodeList:
+STONWriter>>#encodeMap:
+STONWriter>>#encodeString:
+STONWriter>>#encodeStringKeepingNewLines:
+STONWriter>>#error:
+STONWriter>>#indentedDo:
+STONWriter>>#initialize
+STONWriter>>#isSimpleSymbol:
+STONWriter>>#jsonMode:
+STONWriter>>#keepNewLines:
+STONWriter>>#listElementSeparator
+STONWriter>>#mapElementSeparator
+STONWriter>>#newLine:
+STONWriter>>#newlineIndent
+STONWriter>>#nextPut:
+STONWriter>>#on:
+STONWriter>>#optimizeForLargeStructures
+STONWriter>>#prettyPrint:
+STONWriter>>#prettyPrintSpace
+STONWriter>>#referencePolicy:
+STONWriter>>#reset
+STONWriter>>#shortListElementSeparator
+STONWriter>>#with:do:
+STONWriter>>#writeAssociation:
+STONWriter>>#writeBoolean:
+STONWriter>>#writeFloat:
+STONWriter>>#writeInteger:
+STONWriter>>#writeList:
+STONWriter>>#writeMap:
+STONWriter>>#writeNull
+STONWriter>>#writeObject:
+STONWriter>>#writeObject:do:
+STONWriter>>#writeObject:listSingleton:
+STONWriter>>#writeObject:streamList:
+STONWriter>>#writeObject:streamMap:
+STONWriter>>#writeObject:streamShortList:
+STONWriter>>#writeReference:
+STONWriter>>#writeString:
+STONWriter>>#writeSymbol:
+STONWriterError
 STONWriterTests
+STONWriterTests>>#serialize:
 STONWriterTests>>#serializeJson:
 STONWriterTests>>#serializePretty:
-STONWriterTests>>#serialize:
 STONWriterTests>>#testAssociation
 STONWriterTests>>#testBoolean
 STONWriterTests>>#testByteArray
@@ -388,10 +373,24 @@ STONWriterTests>>#testUser
 STONWriterTests>>#testUser2
 STONWriterTests>>#testUser3Nil
 STONWriterTests>>#testUserNil
-ScriptLoader>>#update50072
-ScriptLoader>>#script50071
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50071
+ScriptLoader>>#update50072
+SequenceableCollection class>>#fromSton:
+SequenceableCollection>>#stonOn:
+SmallDictionary class>>#fromSton:
+SmallDictionary>>#stonOn:
 SmalltalkImage>>#imageName
 SmalltalkImage>>#imageName:
 SmalltalkImage>>#imagePath
-ScriptLoader>>#script50071
+String>>#stonContainSubObjects
+String>>#stonOn:
+Symbol>>#stonOn:
+Text class>>#fromSton:
+Text>>#fromSton:
+Text>>#stonOn:
+Time class>>#fromSton:
+Time>>#stonContainSubObjects
+Time>>#stonOn:
+UndefinedObject>>#stonContainSubObjects
+UndefinedObject>>#stonOn:

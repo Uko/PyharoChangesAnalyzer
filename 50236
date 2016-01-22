@@ -1,30 +1,29 @@
-ChunkWriteStream>>#nextChunkPut:
-ChunkWriteStream>>#doesNotUnderstand:
-CatalogBrowser>>#installAndCreateGroupButton:
-ScriptLoader>>#update50236
+CatalogBrowser>>#availableRepositoryURLStrings
+CatalogBrowser>>#buildContextMenuOn:
 CatalogBrowser>>#defineAllRepositoriesInMCBrowser
-CatalogBrowser>>#defineCurrentVersionRepositoryInMCBrowser
 CatalogBrowser>>#defineAllRepositoriesInMCBrowserButton:
 CatalogBrowser>>#defineCurrentVersionRepositoryButton:
-CatalogBrowser>>#availableRepositoryURLStrings
+CatalogBrowser>>#defineCurrentVersionRepositoryInMCBrowser
+CatalogBrowser>>#installAndCreateGroupButton:
+CatalogBrowser>>#installStableVersionButton:
+CatalogBrowser>>#installStableVersionMenuItem:
+CatalogBrowser>>#loadConfigurationButton:
+CatalogBrowser>>#loadConfigurationMenuItem:
 CatalogBrowser>>#repositoryObjectFromURLString:
-CatalogProject class>>#repositoryURLToNameMappings
 CatalogProject class>>#availableRepositoryURLStrings
 CatalogProject class>>#createRepositoryURLtoNameMappings
 CatalogProject class>>#pharoCurrentDottedName
 CatalogProject class>>#pharoCurrentMajorName
 CatalogProject class>>#pharoDistributionRepository
-CatalogProject>>#repositoryName
-MCTool>>#textMorph:
-ScriptLoader>>#script50235
-ScriptLoader>>#commentForCurrentUpdate
-CatalogBrowser>>#buildContextMenuOn:
+CatalogProject class>>#repositoryURLToNameMappings
 CatalogProject>>#allKeywords
 CatalogProject>>#isAvailableForCurrentPharo
+CatalogProject>>#repositoryName
+ChunkWriteStream>>#doesNotUnderstand:
+ChunkWriteStream>>#nextChunkPut:
 ChunkWriteStream>>#nextPut:
 ChunkWriteStream>>#terminatorMark
+MCTool>>#textMorph:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50235
-CatalogBrowser>>#installStableVersionButton:
-CatalogBrowser>>#installStableVersionMenuItem:
-CatalogBrowser>>#loadConfigurationButton:
-CatalogBrowser>>#loadConfigurationMenuItem:
+ScriptLoader>>#update50236

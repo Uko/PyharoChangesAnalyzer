@@ -1,10 +1,9 @@
+ConfigurationOfVersionner>>#stable:
 ConfigurationOfVersionner>>#version2135:
+MetaLink>>#installOn:
 ReflectiveMethodTest>>#testSetLinkWithPragmaOptionsPerClass
 ReflectivityExamples class>>#exampleMethodWithMetaLinkOptionsViaClass
 ReflectivityExamples class>>#metaLinkOptions
-ScriptLoader>>#update50360
-ConfigurationOfVersionner>>#stable:
-MetaLink>>#installOn:
-ScriptLoader>>#script50359
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50359
+ScriptLoader>>#update50360

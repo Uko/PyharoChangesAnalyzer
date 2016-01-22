@@ -1,10 +1,9 @@
+FTSelectionStrategy>>#toggleRowIndex:
+ReflectiveMethod>>#doesNotUnderstand:
 ReflectiveMethod>>#flushCache
 ReflectiveMethod>>#methodClass:
 ReflectiveMethod>>#selector
 ReflectiveMethod>>#selector:
-ScriptLoader>>#update50375
-FTSelectionStrategy>>#toggleRowIndex:
-ScriptLoader>>#script50374
 ScriptLoader>>#commentForCurrentUpdate
-ReflectiveMethod>>#doesNotUnderstand:
 ScriptLoader>>#script50374
+ScriptLoader>>#update50375

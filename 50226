@@ -1,39 +1,35 @@
-ManifestFileSystemDisk class>>#manuallyResolvedDependencies
-ManifestFileSystemDisk
-ManifestGraphicsDisplayObjects class>>#manuallyResolvedDependencies
-ManifestGraphicsDisplayObjects
-ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
-ManifestMultilingualLanguages
-ManifestMultilingualTextConverterOtherLanguages
-ManifestNonInteractiveTranscript class>>#manuallyResolvedDependencies
-ManifestNonInteractiveTranscript
+AbstractNautilusUI>>#buildButtonsBar
+AbstractNautilusUI>>#buildColumns:height:
+ClassCommented>>#oldStamp
 EclipseUIThemeIcons>>#hierarchyIcon
-ThemeIcons>>#hierarchyIcon
-ManifestRingCoreKernel class>>#manuallyResolvedDependencies
+EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
+ManifestFileSystemDisk
+ManifestFileSystemDisk class>>#manuallyResolvedDependencies
+ManifestGraphicsDisplayObjects
+ManifestGraphicsDisplayObjects class>>#manuallyResolvedDependencies
+ManifestMultilingualLanguages
+ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
+ManifestMultilingualTextConverterOtherLanguages
+ManifestNonInteractiveTranscript
+ManifestNonInteractiveTranscript class>>#manuallyResolvedDependencies
 ManifestRingCoreKernel
-ManifestRingMonticello class>>#manuallyResolvedDependencies
+ManifestRingCoreKernel class>>#manuallyResolvedDependencies
 ManifestRingMonticello
+ManifestRingMonticello class>>#manuallyResolvedDependencies
 ManifestSUnitCore
-ScriptLoader>>#update50226
-SlotAnnouncementsTest>>#testCreateAndChangeWithCommentDoesAnnounceBoth
 ManifestTextScanning
 ManifestToolDiff
 ManifestToolExternalBrowser
-ManifestUnicodeInitialization class>>#manuallyResolvedDependencies
 ManifestUnicodeInitialization
+ManifestUnicodeInitialization class>>#manuallyResolvedDependencies
 ManifestUserManagerCore
-AbstractNautilusUI>>#buildButtonsBar
-AbstractNautilusUI>>#buildColumns:height:
-ThemeIcons>>#hierarchyIcon
-EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
-ThemeIcons>>#commentsIcon
-ScriptLoader>>#script50225
 ScriptLoader>>#commentForCurrentUpdate
-SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce
-ClassCommented>>#oldStamp
-TClassDescription>>#classComment:stamp:
-ThemeIcons>>#hierarchyIcon
-ThemeIcons>>#commentsIconContents
-ThemeIcons>>#hierarchyIconContents
-EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
 ScriptLoader>>#script50225
+ScriptLoader>>#update50226
+SlotAnnouncementsTest>>#testCreateAndChangeWithCommentDoesAnnounceBoth
+SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce
+TClassDescription>>#classComment:stamp:
+ThemeIcons>>#commentsIcon
+ThemeIcons>>#commentsIconContents
+ThemeIcons>>#hierarchyIcon
+ThemeIcons>>#hierarchyIconContents

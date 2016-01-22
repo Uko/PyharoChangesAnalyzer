@@ -1,33 +1,32 @@
-RPackage>>#isEmpty
-MetalinkIconStyler>>#iconFor:
-WatchpointTests>>#testAddSameWatchpointSameNode
-WatchpointTests>>#testAddWatchpointsSameNode
-WatchpointTests>>#testWatchpointTwice
-WatchpointTests>>#testStopRecording
+AbstractIconStyler>>#addIconStyle:from:to:color:
 AbstractIconStyler>>#iconFor:
 BreakpointIconStyler>>#iconFor:
-Watchpoint>>#isRecording
-Watchpoint>>#start
-Watchpoint>>#stop
-WatchpointIconStyler>>#iconFor:
-ScriptLoader>>#update50469
+ImageCleaner>>#cleanUpForRelease
+ImageCleaner>>#examplePackages
+ImageCleaner>>#helpPackages
 ImageCleaner>>#removeEmptyCategories
 ImageCleaner>>#removeEmptyPackages
-AbstractIconStyler>>#addIconStyle:from:to:color:
-Watchpoint class>>#in:named:
-Watchpoint
-Watchpoint>>#initialize
-Watchpoint>>#install
-Watchpoint>>#uninstall
-ScriptLoader>>#script50468
+MetalinkIconStyler>>#iconFor:
+RPackage>>#isEmpty
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50468
+ScriptLoader>>#update50469
 SugsMenuBuilder class>>#showMenuFor:
 SugsSuggestionFactory class>>#cleanUp
 SugsSuggestionFactory class>>#createBreakCommand
 SugsSuggestionFactory class>>#createBreakConditionCommand
 SugsSuggestionFactory class>>#createBreakOnceCommand
-ImageCleaner>>#cleanUpForRelease
-ImageCleaner>>#examplePackages
-ImageCleaner>>#helpPackages
+Watchpoint
+Watchpoint class>>#in:named:
+Watchpoint>>#initialize
+Watchpoint>>#install
+Watchpoint>>#isRecording
+Watchpoint>>#start
+Watchpoint>>#stop
+Watchpoint>>#uninstall
+WatchpointIconStyler>>#iconFor:
+WatchpointTests>>#testAddSameWatchpointSameNode
 WatchpointTests>>#testAddWatchpoint
-ScriptLoader>>#script50468
+WatchpointTests>>#testAddWatchpointsSameNode
+WatchpointTests>>#testStopRecording
+WatchpointTests>>#testWatchpointTwice

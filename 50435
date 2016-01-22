@@ -1,9 +1,8 @@
+AbstractTool>>#compileANewClassFrom:notifying:startingFrom:
+CompiledMethod>>#invalidate
+ReflectiveMethod>>#installCompiledMethod
 ReflectiveMethod>>#installMethod:
 ReflectiveMethod>>#installReflectiveMethod
-ScriptLoader>>#update50435
-ReflectiveMethod>>#installCompiledMethod
-CompiledMethod>>#invalidate
-ScriptLoader>>#script50434
 ScriptLoader>>#commentForCurrentUpdate
-AbstractTool>>#compileANewClassFrom:notifying:startingFrom:
 ScriptLoader>>#script50434
+ScriptLoader>>#update50435

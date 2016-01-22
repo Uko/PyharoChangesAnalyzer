@@ -1,15 +1,13 @@
-NautilusUI>>#toggleBreakConditionOnEntryIn:
-NautilusUI>>#toggleBreakOnceOnEntryIn:
-NautilusUI>>#toggleBreakpointCondition
-NautilusUI>>#toggleBreakpointOnce
-ScriptLoader>>#update50473
 AbstractNautilusUI>>#selectedClassOrMetaClass
+AbstractTool>>#defineTrait:notifying:
 MethodContainsBreakAction>>#privateActionIcon
 MethodWidget class>>#elementsMenu:
+NautilusUI>>#toggleBreakConditionOnEntryIn:
+NautilusUI>>#toggleBreakOnceOnEntryIn:
 NautilusUI>>#toggleBreakPoint
+NautilusUI>>#toggleBreakpointCondition
+NautilusUI>>#toggleBreakpointOnce
 RFASTTranslator>>#visitAssignmentNode:
-ScriptLoader>>#script50472
 ScriptLoader>>#commentForCurrentUpdate
-AbstractTool>>#defineTrait:notifying:
-NautilusUI>>#toggleBreakPoint
 ScriptLoader>>#script50472
+ScriptLoader>>#update50473

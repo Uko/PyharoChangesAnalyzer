@@ -1,12 +1,11 @@
-OpalCompiler>>#bindings:
 Association>>#emitStore:
 Association>>#emitValue:
+OpalCompiler>>#bindings:
 OpalCompilerTests
 OpalCompilerTests>>#testEvaluateWithBindings
-ScriptLoader>>#update50032
-WindowModel>>#aboutTitle
-TestRunner>>#buildCategorySearch
-TestRunner>>#buildClassesSearch
-ScriptLoader>>#script640
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script640
+ScriptLoader>>#update50032
+TestRunner>>#buildCategorySearch
+TestRunner>>#buildClassesSearch
+WindowModel>>#aboutTitle

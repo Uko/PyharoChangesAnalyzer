@@ -1,20 +1,9 @@
-ConfigurationOfRubric>>#version118:
-RubNullGetMenuPolicy
-RubNullGetMenuPolicy>>#lookupMenu
-RubNullGetMenuPolicy>>#lookupShiftMenu
-ScriptLoader>>#update50232
 BIConfigurableFormatter
-BIFormatSettingsExample
-BIPrettyPrinterContext
-BISettingsChanged
-BIConfigurableFormatterFormattingTest>>#formatterClass
-ConfigurationOfRubric>>#stable:
-RPackage>>#renameTo:
-RubSmalltalkEditor>>#browseClassFrom:
-ScriptLoader>>#script50231
-ScriptLoader>>#commentForCurrentUpdate
+BIConfigurableFormatter class>>#announceASettingChange
 BIConfigurableFormatter class>>#cascadedMessageInsideParentheses
 BIConfigurableFormatter class>>#cascadedMessageInsideParentheses:
+BIConfigurableFormatter class>>#format:
+BIConfigurableFormatter class>>#format:withIndents:
 BIConfigurableFormatter class>>#formatAsYouReadPolicy
 BIConfigurableFormatter class>>#formatAsYouReadPolicy:
 BIConfigurableFormatter class>>#formatCommentWithStatements
@@ -23,6 +12,7 @@ BIConfigurableFormatter class>>#indentString
 BIConfigurableFormatter class>>#indentString:
 BIConfigurableFormatter class>>#indentsForKeywords
 BIConfigurableFormatter class>>#indentsForKeywords:
+BIConfigurableFormatter class>>#initialize
 BIConfigurableFormatter class>>#keepBlockInMessage
 BIConfigurableFormatter class>>#keepBlockInMessage:
 BIConfigurableFormatter class>>#lineUpBlockBrackets
@@ -63,6 +53,7 @@ BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements
 BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements:
 BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize
 BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize:
+BIConfigurableFormatter class>>#settingsOn:
 BIConfigurableFormatter class>>#stringFollowingReturn
 BIConfigurableFormatter class>>#stringFollowingReturn:
 BIConfigurableFormatter class>>#stringInsideBlocks
@@ -75,26 +66,52 @@ BIConfigurableFormatter class>>#useBasicCommentFormat
 BIConfigurableFormatter class>>#useBasicCommentFormat:
 BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses
 BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses:
-BIConfigurableFormatter class>>#initialize
-BIConfigurableFormatter class>>#announceASettingChange
-BIConfigurableFormatter class>>#format:
-BIConfigurableFormatter class>>#format:withIndents:
-BIConfigurableFormatter class>>#settingsOn:
-BIConfigurableFormatter
+BIConfigurableFormatter>>#addNewLinesBeforeStatementStartingAt:
+BIConfigurableFormatter>>#basicFormatCommentFor:
+BIConfigurableFormatter>>#bracketWith:around:
 BIConfigurableFormatter>>#cascadedMessageInsideParentheses
 BIConfigurableFormatter>>#cascadedMessageInsideParentheses:
+BIConfigurableFormatter>>#characterSeparatorMethodSignatureFor:
 BIConfigurableFormatter>>#codeStream
 BIConfigurableFormatter>>#codeStream:
+BIConfigurableFormatter>>#containerWidth:
+BIConfigurableFormatter>>#currentLineLength
+BIConfigurableFormatter>>#format:
+BIConfigurableFormatter>>#formatArray:
+BIConfigurableFormatter>>#formatBlock:
+BIConfigurableFormatter>>#formatBlockArgumentsFor:
 BIConfigurableFormatter>>#formatCommentWithStatements
 BIConfigurableFormatter>>#formatCommentWithStatements:
+BIConfigurableFormatter>>#formatCommentsFor:
+BIConfigurableFormatter>>#formatMessageNodeInAMessageStreamFor:
+BIConfigurableFormatter>>#formatMethodBodyFor:
+BIConfigurableFormatter>>#formatMethodCommentFor:
+BIConfigurableFormatter>>#formatMethodPatternFor:
+BIConfigurableFormatter>>#formatPragmasFor:
+BIConfigurableFormatter>>#formatSelectorAndArguments:
+BIConfigurableFormatter>>#formatSelectorAndArguments:firstSeparator:restSeparator:
+BIConfigurableFormatter>>#formatSequenceNodeStatementsFor:
+BIConfigurableFormatter>>#formatStatementCommentsFor:
+BIConfigurableFormatter>>#formatTemporariesFor:
+BIConfigurableFormatter>>#formattedSourceFor:
+BIConfigurableFormatter>>#handleLineForArgument:
+BIConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
+BIConfigurableFormatter>>#hasAMultiLineMessageArgument:
 BIConfigurableFormatter>>#indent
+BIConfigurableFormatter>>#indent:
+BIConfigurableFormatter>>#indent:around:
+BIConfigurableFormatter>>#indentAround:
 BIConfigurableFormatter>>#indentString
 BIConfigurableFormatter>>#indentString:
-BIConfigurableFormatter>>#indent:
 BIConfigurableFormatter>>#indentsForKeywords
 BIConfigurableFormatter>>#indentsForKeywords:
+BIConfigurableFormatter>>#initialize
+BIConfigurableFormatter>>#installNewContext:
+BIConfigurableFormatter>>#installNewValueInContext:
 BIConfigurableFormatter>>#isInCascadeNode
 BIConfigurableFormatter>>#isInCascadeNode:
+BIConfigurableFormatter>>#isLineTooLong:
+BIConfigurableFormatter>>#isMultiLineMessage:
 BIConfigurableFormatter>>#keepBlockInMessage
 BIConfigurableFormatter>>#keepBlockInMessage:
 BIConfigurableFormatter>>#lineStart
@@ -109,18 +126,23 @@ BIConfigurableFormatter>>#minimumNewLinesBetweenStatements
 BIConfigurableFormatter>>#minimumNewLinesBetweenStatements:
 BIConfigurableFormatter>>#multiLineMessages
 BIConfigurableFormatter>>#multiLineMessages:
+BIConfigurableFormatter>>#needsMethodSignatureOnMultipleLinesFor:
+BIConfigurableFormatter>>#needsParenthesisFor:
+BIConfigurableFormatter>>#newLine
 BIConfigurableFormatter>>#newLineAfterCascade
 BIConfigurableFormatter>>#newLineAfterCascade:
 BIConfigurableFormatter>>#newLineBeforeFirstCascade
 BIConfigurableFormatter>>#newLineBeforeFirstCascade:
 BIConfigurableFormatter>>#newLineBeforeFirstKeyword
 BIConfigurableFormatter>>#newLineBeforeFirstKeyword:
+BIConfigurableFormatter>>#newLines:
 BIConfigurableFormatter>>#newLinesAfterMethodComment
 BIConfigurableFormatter>>#newLinesAfterMethodComment:
 BIConfigurableFormatter>>#newLinesAfterMethodPattern
 BIConfigurableFormatter>>#newLinesAfterMethodPattern:
 BIConfigurableFormatter>>#newLinesAfterTemporaries
 BIConfigurableFormatter>>#newLinesAfterTemporaries:
+BIConfigurableFormatter>>#newLinesBeforeStartingAt:
 BIConfigurableFormatter>>#numberOfArgumentsForMultiLine
 BIConfigurableFormatter>>#numberOfArgumentsForMultiLine:
 BIConfigurableFormatter>>#oneLineMessages
@@ -131,12 +153,19 @@ BIConfigurableFormatter>>#periodsAtEndOfBlock
 BIConfigurableFormatter>>#periodsAtEndOfBlock:
 BIConfigurableFormatter>>#periodsAtEndOfMethod
 BIConfigurableFormatter>>#periodsAtEndOfMethod:
+BIConfigurableFormatter>>#precedenceOf:greaterThan:
+BIConfigurableFormatter>>#privateFormatMethodPatternMonoLineFor:
+BIConfigurableFormatter>>#privateFormatMethodPatternMultiLineFor:
+BIConfigurableFormatter>>#resizeComment:withFirstLineShorterOf:
+BIConfigurableFormatter>>#resizeCommentFor:startingAt:
+BIConfigurableFormatter>>#resizeStringDependingOnWindowSizeFor:
 BIConfigurableFormatter>>#retainBlankLinesBeforeComments
 BIConfigurableFormatter>>#retainBlankLinesBeforeComments:
 BIConfigurableFormatter>>#retainBlankLinesBetweenStatements
 BIConfigurableFormatter>>#retainBlankLinesBetweenStatements:
 BIConfigurableFormatter>>#selectorAndArgumentCombinedMaxSize
 BIConfigurableFormatter>>#selectorAndArgumentCombinedMaxSize:
+BIConfigurableFormatter>>#space
 BIConfigurableFormatter>>#stringFollowingReturn
 BIConfigurableFormatter>>#stringFollowingReturn:
 BIConfigurableFormatter>>#stringInsideBlocks
@@ -149,53 +178,6 @@ BIConfigurableFormatter>>#useBasicCommentFormat
 BIConfigurableFormatter>>#useBasicCommentFormat:
 BIConfigurableFormatter>>#useTraditionalBinaryPrecedenceForParentheses
 BIConfigurableFormatter>>#useTraditionalBinaryPrecedenceForParentheses:
-BIConfigurableFormatter>>#initialize
-BIConfigurableFormatter>>#formatArray:
-BIConfigurableFormatter>>#formatBlockArgumentsFor:
-BIConfigurableFormatter>>#formatBlock:
-BIConfigurableFormatter>>#formatCommentsFor:
-BIConfigurableFormatter>>#formatMethodBodyFor:
-BIConfigurableFormatter>>#formatMethodCommentFor:
-BIConfigurableFormatter>>#formatMethodPatternFor:
-BIConfigurableFormatter>>#formatPragmasFor:
-BIConfigurableFormatter>>#formatSelectorAndArguments:
-BIConfigurableFormatter>>#formatSelectorAndArguments:firstSeparator:restSeparator:
-BIConfigurableFormatter>>#formatSequenceNodeStatementsFor:
-BIConfigurableFormatter>>#formatStatementCommentsFor:
-BIConfigurableFormatter>>#addNewLinesBeforeStatementStartingAt:
-BIConfigurableFormatter>>#basicFormatCommentFor:
-BIConfigurableFormatter>>#bracketWith:around:
-BIConfigurableFormatter>>#characterSeparatorMethodSignatureFor:
-BIConfigurableFormatter>>#currentLineLength
-BIConfigurableFormatter>>#formatMessageNodeInAMessageStreamFor:
-BIConfigurableFormatter>>#formatTemporariesFor:
-BIConfigurableFormatter>>#formattedSourceFor:
-BIConfigurableFormatter>>#handleLineForArgument:
-BIConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
-BIConfigurableFormatter>>#hasAMultiLineMessageArgument:
-BIConfigurableFormatter>>#indentAround:
-BIConfigurableFormatter>>#indent:around:
-BIConfigurableFormatter>>#isLineTooLong:
-BIConfigurableFormatter>>#isMultiLineMessage:
-BIConfigurableFormatter>>#needsMethodSignatureOnMultipleLinesFor:
-BIConfigurableFormatter>>#needsParenthesisFor:
-BIConfigurableFormatter>>#newLine
-BIConfigurableFormatter>>#newLinesBeforeStartingAt:
-BIConfigurableFormatter>>#newLines:
-BIConfigurableFormatter>>#precedenceOf:greaterThan:
-BIConfigurableFormatter>>#privateFormatMethodPatternMonoLineFor:
-BIConfigurableFormatter>>#privateFormatMethodPatternMultiLineFor:
-BIConfigurableFormatter>>#space
-BIConfigurableFormatter>>#willBeMultiline:
-BIConfigurableFormatter>>#writeString:
-BIConfigurableFormatter>>#containerWidth:
-BIConfigurableFormatter>>#format:
-BIConfigurableFormatter>>#installNewContext:
-BIConfigurableFormatter>>#installNewValueInContext:
-BIConfigurableFormatter>>#resizeCommentFor:startingAt:
-BIConfigurableFormatter>>#resizeComment:withFirstLineShorterOf:
-BIConfigurableFormatter>>#resizeStringDependingOnWindowSizeFor:
-BIConfigurableFormatter>>#with:and:do:separatedBy:
 BIConfigurableFormatter>>#visitArrayNode:
 BIConfigurableFormatter>>#visitAssignmentNode:
 BIConfigurableFormatter>>#visitBlockNode:
@@ -211,6 +193,10 @@ BIConfigurableFormatter>>#visitPragmaNode:
 BIConfigurableFormatter>>#visitReturnNode:
 BIConfigurableFormatter>>#visitSequenceNode:
 BIConfigurableFormatter>>#visitVariableNode:
+BIConfigurableFormatter>>#willBeMultiline:
+BIConfigurableFormatter>>#with:and:do:separatedBy:
+BIConfigurableFormatter>>#writeString:
+BIConfigurableFormatterFormattingTest>>#formatterClass
 BIFormatSettingsExample
 BIFormatSettingsExample>>#cascadedMessageInsideParenthesesExample
 BIFormatSettingsExample>>#keepBlockInMessageExample
@@ -227,6 +213,7 @@ BIPrettyPrinterContext>>#indentString
 BIPrettyPrinterContext>>#indentString:
 BIPrettyPrinterContext>>#indentsForKeywords
 BIPrettyPrinterContext>>#indentsForKeywords:
+BIPrettyPrinterContext>>#initialize
 BIPrettyPrinterContext>>#keepBlockInMessage
 BIPrettyPrinterContext>>#keepBlockInMessage:
 BIPrettyPrinterContext>>#lineUpBlockBrackets
@@ -277,6 +264,14 @@ BIPrettyPrinterContext>>#useBasicCommentFormat
 BIPrettyPrinterContext>>#useBasicCommentFormat:
 BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParentheses
 BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParentheses:
-BIPrettyPrinterContext>>#initialize
 BISettingsChanged
+ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version118:
+RPackage>>#renameTo:
+RubNullGetMenuPolicy
+RubNullGetMenuPolicy>>#lookupMenu
+RubNullGetMenuPolicy>>#lookupShiftMenu
+RubSmalltalkEditor>>#browseClassFrom:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50231
+ScriptLoader>>#update50232

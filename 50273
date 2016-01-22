@@ -1,11 +1,10 @@
-ScriptLoader>>#update50273
-SystemNavigation>>#isUsedClass:
-TBehavior>>#isUsed
-TBehavior>>#hasSelectorReferringTo:
-PasteUpMorph class>>#isMenuOpenByLeftClick
 MethodWidget>>#buildMethodsList
 Nautilus class>>#nautilusSettingsOn:
+PasteUpMorph class>>#isMenuOpenByLeftClick
 RBClassNotReferencedRule>>#checkClass:
-ScriptLoader>>#script50272
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50272
+ScriptLoader>>#update50273
+SystemNavigation>>#isUsedClass:
+TBehavior>>#hasSelectorReferringTo:
+TBehavior>>#isUsed

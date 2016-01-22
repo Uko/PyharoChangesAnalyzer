@@ -1,12 +1,11 @@
-ScriptLoader>>#update50042
-OrderedDictionary>>#printElementsOn:
 Color class>>#wheel:
 Color class>>#wheel:saturation:brightness:
 Color>>#darkShades:
 Color>>#lightShades:
 Color>>#mix:shades:
-SelectionMorph>>#extent:
+OrderedDictionary>>#printElementsOn:
 PluggableTextMorphWithLimits
-ScriptLoader>>#script650
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script650
+ScriptLoader>>#update50042
+SelectionMorph>>#extent:

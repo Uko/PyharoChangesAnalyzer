@@ -1,23 +1,22 @@
-ConfigurationOfCatalog>>#version_0_11:
-GrowlMorph>>#activeGrowlMorphs
-ScriptLoader>>#update50438
 CatalogProvider class>>#install:version:
+CatalogProvider>>#loadProjects
+CatalogSettings
+CatalogSettings class>>#catalogSettingsOn:
 CatalogSettings class>>#catalogSourceURL
 CatalogSettings class>>#catalogSourceURL:
+CatalogSettings class>>#defaultCatalogSourceURL
 CatalogSettings class>>#displayCatalogProjectsInSpotter
 CatalogSettings class>>#displayCatalogProjectsInSpotter:
-CatalogSettings class>>#defaultCatalogSourceURL
-CatalogSettings class>>#catalogSettingsOn:
-CatalogSettings
 ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog>>#version_0_11:
+GTSpotter>>#spotterCatalogProjectsFor:
+GrowlMorph>>#activeGrowlMorphs
 GrowlMorph>>#is:saneWithRespectTo:
 GrowlMorph>>#unoccupiedPositionBottomLeft
 GrowlMorph>>#unoccupiedPositionBottomRight
 GrowlMorph>>#unoccupiedPositionTopLeft
 GrowlMorph>>#unoccupiedPositionTopRight
-StandardWindow>>#flash
-ScriptLoader>>#script50437
 ScriptLoader>>#commentForCurrentUpdate
-CatalogProvider>>#loadProjects
-GTSpotter>>#spotterCatalogProjectsFor:
 ScriptLoader>>#script50437
+ScriptLoader>>#update50438
+StandardWindow>>#flash

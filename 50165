@@ -1,19 +1,18 @@
-PasteUpMorph class>>#shouldSwapMenuOpenerButtons
-PasteUpMorph class>>#shouldSwapMenuOpenerButtons:
-PasteUpMorph class>>#shouldSwapMenuOpenerButtonsSetting:
-CompiledMethod>>#hasLinks
-ScriptLoader>>#update50165
 ASTCache class>>#shutDown
-PasteUpMorph
-PasteUpMorph>>#mouseDown:
 AbstractNautilusUI>>#dragPassengersFor:inMorph:
 AbstractNautilusUI>>#dragTransferTypeForMorph:
 AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph:
 AbstractWidget>>#dragTransferTypeForMorph:
-DropListMorph>>#listMouseDown:
-DropListMorph>>#hideList
+CompiledMethod>>#hasLinks
 CompiledMethod>>#reflectiveMethod
-ScriptLoader>>#script50164
+DropListMorph>>#hideList
+DropListMorph>>#listMouseDown:
+PasteUpMorph
+PasteUpMorph class>>#shouldSwapMenuOpenerButtons
+PasteUpMorph class>>#shouldSwapMenuOpenerButtons:
+PasteUpMorph class>>#shouldSwapMenuOpenerButtonsSetting:
+PasteUpMorph>>#mouseDown:
 ScriptLoader>>#commentForCurrentUpdate
-SmalltalkImage>>#metacelloPlatformAttributes
 ScriptLoader>>#script50164
+ScriptLoader>>#update50165
+SmalltalkImage>>#metacelloPlatformAttributes

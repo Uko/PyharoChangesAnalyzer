@@ -1,7 +1,3 @@
-SourceSansProRegular>>#fontContents
-ScriptLoader>>#update50422
-SourceCodeProRegular class>>#fontContents
-SourceSansProRegular class>>#fontContents
 ReflectiveMethodTest
 ReflectiveMethodTest>>#tearDown
 ReflectiveMethodTest>>#testCreateReflectiveMethodAndInvalidate
@@ -11,15 +7,18 @@ ReflectiveMethodTest>>#testInvalidateWithLinkCount
 ReflectiveMethodTest>>#testLinkCountTwoLinks
 ReflectiveMethodTest>>#testSetLink
 ReflectiveMethodTest>>#testSetLinkInPrimitive
-ReflectiveMethodTest>>#testSetLinkOnPrimitive
-ReflectiveMethodTest>>#testSetLinkWithPragmaOptions
-ReflectiveMethodTest>>#testSetLinkWithPragmaOptionsPerClass
 ReflectiveMethodTest>>#testSetLinkOnClassVariable
 ReflectiveMethodTest>>#testSetLinkOnClassVariableAndUninstall
 ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
 ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
 ReflectiveMethodTest>>#testSetLinkOnInstanceVariable
 ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
-ScriptLoader>>#script50421
+ReflectiveMethodTest>>#testSetLinkOnPrimitive
+ReflectiveMethodTest>>#testSetLinkWithPragmaOptions
+ReflectiveMethodTest>>#testSetLinkWithPragmaOptionsPerClass
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50421
+ScriptLoader>>#update50422
+SourceCodeProRegular class>>#fontContents
+SourceSansProRegular class>>#fontContents
+SourceSansProRegular>>#fontContents

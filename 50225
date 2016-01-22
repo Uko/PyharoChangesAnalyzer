@@ -1,6 +1,12 @@
+DeepCopier>>#basicCheckClass:
+DeepCopier>>#checkAllClasses
+DeepCopier>>#checkBasicClasses
+DeepCopier>>#checkClass:
+DeepCopier>>#doesMethod:writeAllInstanceVariablesOfClass:
+DeepCopier>>#raiseWarningsIfAny:
 ManifestASTCore class>>#manuallyResolvedDependencies
-ManifestAnnouncementsCore class>>#manuallyResolvedDependencies
 ManifestAnnouncementsCore
+ManifestAnnouncementsCore class>>#manuallyResolvedDependencies
 ManifestCollectionsAbstract class>>#manuallyResolvedDependencies
 ManifestCollectionsAtomic class>>#manuallyResolvedDependencies
 ManifestCollectionsNative class>>#manuallyResolvedDependencies
@@ -9,77 +15,69 @@ ManifestCollectionsStreams class>>#manuallyResolvedDependencies
 ManifestCollectionsStrings class>>#manuallyResolvedDependencies
 ManifestCollectionsSupport class>>#manuallyResolvedDependencies
 ManifestCollectionsWeak class>>#manuallyResolvedDependencies
-ManifestCompression class>>#manuallyResolvedDependencies
 ManifestCompression
-ManifestFileSystemCore class>>#manuallyResolvedDependencies
+ManifestCompression class>>#manuallyResolvedDependencies
 ManifestFileSystemCore
-ManifestFiles class>>#manuallyResolvedDependencies
+ManifestFileSystemCore class>>#manuallyResolvedDependencies
 ManifestFiles
-ManifestGraphicsPrimitives class>>#manuallyResolvedDependencies
+ManifestFiles class>>#manuallyResolvedDependencies
 ManifestGraphicsPrimitives
-ManifestJobs class>>#manuallyResolvedDependencies
+ManifestGraphicsPrimitives class>>#manuallyResolvedDependencies
 ManifestJobs
-DeepCopier>>#basicCheckClass:
-DeepCopier>>#checkAllClasses
-DeepCopier>>#checkClass:
-DeepCopier>>#doesMethod:writeAllInstanceVariablesOfClass:
-DeepCopier>>#raiseWarningsIfAny:
+ManifestJobs class>>#manuallyResolvedDependencies
 ManifestKernel class>>#manuallyResolvedDependencies
-ManifestMonticello class>>#manuallyResolvedDependencies
 ManifestMonticello
-ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
+ManifestMonticello class>>#manuallyResolvedDependencies
 ManifestMultilingualEncodings
-ManifestMultilingualTextConversion class>>#manuallyResolvedDependencies
+ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
 ManifestMultilingualTextConversion
-ManifestNetworkUUID class>>#manuallyResolvedDependencies
+ManifestMultilingualTextConversion class>>#manuallyResolvedDependencies
 ManifestNetworkUUID
-ManifestNewValueHolder class>>#manuallyResolvedDependencies
+ManifestNetworkUUID class>>#manuallyResolvedDependencies
 ManifestNewValueHolder
+ManifestNewValueHolder class>>#manuallyResolvedDependencies
 ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
-ManifestRPackageCore class>>#manuallyResolvedDependencies
 ManifestRPackageCore
-ManifestRegexCore class>>#manuallyResolvedDependencies
+ManifestRPackageCore class>>#manuallyResolvedDependencies
 ManifestRegexCore
-ScriptLoader>>#update50225
-ManifestSlot class>>#manuallyResolvedDependencies
+ManifestRegexCore class>>#manuallyResolvedDependencies
 ManifestSlot
-ManifestSystemAnnouncements class>>#manuallyResolvedDependencies
+ManifestSlot class>>#manuallyResolvedDependencies
 ManifestSystemAnnouncements
-ManifestSystemChanges class>>#manuallyResolvedDependencies
+ManifestSystemAnnouncements class>>#manuallyResolvedDependencies
 ManifestSystemChanges
-ManifestSystemCommandLine class>>#manuallyResolvedDependencies
+ManifestSystemChanges class>>#manuallyResolvedDependencies
 ManifestSystemCommandLine
-ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
+ManifestSystemCommandLine class>>#manuallyResolvedDependencies
 ManifestSystemFileRegistry
+ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
 ManifestSystemFinalization
-ManifestSystemLocalization class>>#manuallyResolvedDependencies
 ManifestSystemLocalization
-ManifestSystemObjectEvents class>>#manuallyResolvedDependencies
+ManifestSystemLocalization class>>#manuallyResolvedDependencies
 ManifestSystemObjectEvents
-ManifestSystemPlatforms class>>#manuallyResolvedDependencies
+ManifestSystemObjectEvents class>>#manuallyResolvedDependencies
 ManifestSystemPlatforms
-ManifestSystemSources class>>#manuallyResolvedDependencies
+ManifestSystemPlatforms class>>#manuallyResolvedDependencies
 ManifestSystemSources
-ManifestSystemSupport class>>#manuallyResolvedDependencies
+ManifestSystemSources class>>#manuallyResolvedDependencies
 ManifestSystemSupport
-ManifestSystemVMEvents class>>#manuallyResolvedDependencies
+ManifestSystemSupport class>>#manuallyResolvedDependencies
 ManifestSystemVMEvents
-ManifestTextCore class>>#manuallyResolvedDependencies
+ManifestSystemVMEvents class>>#manuallyResolvedDependencies
 ManifestTextCore
+ManifestTextCore class>>#manuallyResolvedDependencies
 ManifestToolBase
-ManifestToolTranscript class>>#manuallyResolvedDependencies
 ManifestToolTranscript
-ManifestTraits class>>#manuallyResolvedDependencies
+ManifestToolTranscript class>>#manuallyResolvedDependencies
 ManifestTraits
-ManifestTranscript class>>#manuallyResolvedDependencies
+ManifestTraits class>>#manuallyResolvedDependencies
 ManifestTranscript
-ManifestUIManager class>>#manuallyResolvedDependencies
+ManifestTranscript class>>#manuallyResolvedDependencies
 ManifestUIManager
-DeepCopier>>#checkBasicClasses
-ScriptLoader>>#script50224
-ScriptLoader>>#commentForCurrentUpdate
-DeepCopier>>#checkBasicClasses
-ScriptLoader>>#script50224
-RGElementDefinition>>#browse
+ManifestUIManager class>>#manuallyResolvedDependencies
 RGBehaviorDefinition>>#browse
+RGElementDefinition>>#browse
 RGMethodDefinition>>#browse
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50224
+ScriptLoader>>#update50225

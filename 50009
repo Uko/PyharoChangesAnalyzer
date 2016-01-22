@@ -1,8 +1,7 @@
-ScriptLoader>>#update50009
 ClassTest>>#testClassRespectsPolymorphismWithTrait
+MCFileRepositoryInspector>>#selectedPackageAncestors
 MCLazyVersionInfo>>#initializeWithName:id:message:date:time:author:ancestors:stepChildren:
 MCVersionInfo>>#initializeWithName:id:message:date:time:author:ancestors:stepChildren:
-MCFileRepositoryInspector>>#selectedPackageAncestors
-ScriptLoader>>#script617
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script617
+ScriptLoader>>#update50009

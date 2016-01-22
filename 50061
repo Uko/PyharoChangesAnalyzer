@@ -1,14 +1,13 @@
-NautilusUI>>#debugTest
-NautilusUI>>#debugTest:
-Breakpoint>>#level:
-Breakpoint>>#initialize
-ScriptLoader>>#update50061
-MethodWidget class>>#elementsMenu:
 Breakpoint
 Breakpoint>>#haltLink
 Breakpoint>>#haltLinkOneShot
-ScriptLoader>>#script50060
-ScriptLoader>>#commentForCurrentUpdate
+Breakpoint>>#initialize
+Breakpoint>>#level:
+MethodWidget class>>#elementsMenu:
+NautilusUI>>#debugTest
+NautilusUI>>#debugTest:
 OldClassBuilderAdapter>>#superclass:variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 OldClassBuilderAdapter>>#superclass:variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50060
+ScriptLoader>>#update50061

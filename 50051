@@ -1,19 +1,18 @@
+BlockLocalTempCounter>>#directedSuperSend:numArgs:
 BytecodeEncoder class>>#nonExtensionBytecodeAt:in:
 BytecodeEncoder>>#sizeCallPrimitive:
+Context>>#directedSuperSend:numArgs:
+EncoderForSistaV1 class>>#numLocalTempsForBlockAt:in:
 EncoderForSistaV1>>#genBranchIfNotInstanceOf:distance:
+EncoderForSistaV1>>#genSend:numArgs:
 EncoderForSistaV1>>#isSpecialLiteralForPush:
 EncoderForV3>>#isSpecialLiteralForPush:
-BlockLocalTempCounter>>#directedSuperSend:numArgs:
-Context>>#directedSuperSend:numArgs:
-InstructionClient>>#directedSuperSend:numArgs:
-ScriptLoader>>#update50051
-EncoderForSistaV1 class>>#numLocalTempsForBlockAt:in:
-EncoderForSistaV1>>#genSend:numArgs:
-EncoderForV3PlusClosures class>>#callPrimitiveCode
 EncoderForV3PlusClosures class>>#bytecodeSize:
-InstructionClient>>#callPrimitive:
-SymbolicBytecodeBuilder>>#pushClosureTemps:
+EncoderForV3PlusClosures class>>#callPrimitiveCode
 IRBytecodeGenerator>>#v3VMHeader:
-ScriptLoader>>#script50050
+InstructionClient>>#callPrimitive:
+InstructionClient>>#directedSuperSend:numArgs:
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50050
+ScriptLoader>>#update50051
+SymbolicBytecodeBuilder>>#pushClosureTemps:

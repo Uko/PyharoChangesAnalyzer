@@ -1,32 +1,31 @@
-KMMetaModifier>>#=
-KMMetaModifier>>#hash
-KMMetaModifier>>#matches:
-ReflectiveMethodTest>>#testReifyGlobalValue
-ReflectiveMethodTest>>#testReifyTempValue
-ReflectivityExamples>>#exampleGlobalRead
-RFEReceiverReification class>>#key
-RFEReceiverReification class>>#nodes
-RFEReceiverReification
-RFEReceiverReification>>#genForRBMethodNode
-ScriptLoader>>#update50102
+CompiledMethod>>#originMethod
 InputEventLog
 InputEventLog>>#filter:
 InputEventLog>>#handleEvent:
-CompiledMethod>>#originMethod
 KMCommandModifier>>#eventCode
 KMCommandModifier>>#matchesEvent:
 KMKeyCombination class>>#fromKeyboardEvent:
+KMMetaModifier>>#=
 KMMetaModifier>>#eventCode
+KMMetaModifier>>#hash
+KMMetaModifier>>#matches:
 KMMetaModifier>>#matchesEvent:
 KMModifiedKeyCombination>>#matchesEvent:
 KMModifier>>#hash
-MacOSPlatform>>#defaultModifier
 KMShortcutTest>>#testEventCodes
+MacOSPlatform>>#defaultModifier
+RFEReceiverReification
+RFEReceiverReification class>>#key
+RFEReceiverReification class>>#nodes
+RFEReceiverReification>>#genForRBMethodNode
 RFSemanticAnalyzer>>#visitNode:
 RFSemanticAnalyzer>>#visitVarWrite:
 RFValueReification>>#genForRBAssignmentNode
 RFValueReification>>#genForRBTempVariableNode
 RFValueReification>>#genForRBVariableNode
-ScriptLoader>>#script50101
+ReflectiveMethodTest>>#testReifyGlobalValue
+ReflectiveMethodTest>>#testReifyTempValue
+ReflectivityExamples>>#exampleGlobalRead
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50101
+ScriptLoader>>#update50102

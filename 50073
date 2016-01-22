@@ -1,46 +1,45 @@
-RBBlockNode>>#initialize
+KMDescription>>#initializeWidgets
+LucidaGrandeRegular
 LucidaGrandeRegular class>>#fontContents
 LucidaGrandeRegular class>>#fontDirectory
 LucidaGrandeRegular class>>#fontReference
+LucidaGrandeRegular class>>#initialize
 LucidaGrandeRegular class>>#installFontsIn:
 LucidaGrandeRegular class>>#originalFileName
-LucidaGrandeRegular class>>#initialize
-LucidaGrandeRegular
+MacOSPlatform>>#menuShortcutString
+OSPlatform>>#menuShortcutString
+RBBlockNode>>#initialize
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50072
+ScriptLoader>>#update50073
+TClassDescription>>#sourceCodeRefactoringMenu:
+ToggleMenuItemMorph>>#drawKeyTextOn:
 ToggleMenuItemMorph>>#keyTextExpanded
-ToggleMenuItemShortcut class>>#new
-ToggleMenuItemShortcut class>>#owner:keyText:
+ToggleMenuItemMorph>>#minWidth
+ToggleMenuItemShortcut
+ToggleMenuItemShortcut class>>#expand:
 ToggleMenuItemShortcut class>>#expandCondensedStyle:
 ToggleMenuItemShortcut class>>#expandFullStyle:
-ToggleMenuItemShortcut class>>#expand:
 ToggleMenuItemShortcut class>>#keyTextShortcuts
+ToggleMenuItemShortcut class>>#new
+ToggleMenuItemShortcut class>>#owner:keyText:
 ToggleMenuItemShortcut class>>#shortcutClass
-ToggleMenuItemShortcut
-ToggleMenuItemShortcut>>#keyText
-ToggleMenuItemShortcut>>#owner
+ToggleMenuItemShortcut>>#boundsForKeyText:font:
 ToggleMenuItemShortcut>>#drawOn:
 ToggleMenuItemShortcut>>#initializeOwner:keyText:
-ToggleMenuItemShortcut>>#boundsForKeyText:font:
+ToggleMenuItemShortcut>>#keyText
+ToggleMenuItemShortcut>>#owner
+ToggleMenuItemShortcutWithSymbol
+ToggleMenuItemShortcutWithSymbol class>>#canBeUsed
+ToggleMenuItemShortcutWithSymbol class>>#createSymbolFont
+ToggleMenuItemShortcutWithSymbol class>>#createSymbolTable
 ToggleMenuItemShortcutWithSymbol class>>#symbolFont
 ToggleMenuItemShortcutWithSymbol class>>#symbolTable
 ToggleMenuItemShortcutWithSymbol class>>#symbolTableAt:ifAbsent:
-ToggleMenuItemShortcutWithSymbol class>>#createSymbolFont
-ToggleMenuItemShortcutWithSymbol class>>#createSymbolTable
-ToggleMenuItemShortcutWithSymbol class>>#canBeUsed
-ToggleMenuItemShortcutWithSymbol
 ToggleMenuItemShortcutWithSymbol>>#drawOn:
 ToggleMenuItemShortcutWithText
 ToggleMenuItemShortcutWithText>>#drawOn:
-ScriptLoader>>#update50073
-MacOSPlatform>>#menuShortcutString
-OSPlatform>>#menuShortcutString
 UnixPlatform>>#menuShortcutString
 Win32Platform>>#menuShortcutString
-KMDescription>>#initializeWidgets
-ToggleMenuItemMorph>>#drawKeyTextOn:
-ToggleMenuItemMorph>>#minWidth
 WorldState class>>#mostUsedToolsOn:
 WorldState class>>#quitItemsOn:
-TClassDescription>>#sourceCodeRefactoringMenu:
-ScriptLoader>>#script50072
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50072

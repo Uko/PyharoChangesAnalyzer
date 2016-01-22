@@ -1,9 +1,8 @@
-Interval>>#sum
-ScriptLoader>>#update50066
 AbstractNautilusUI>>#title
-Nautilus>>#labelString
 ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVariableNames:classVariableNames:category:
 ClassFactoryWithOrganization>>#newSubclassOf:instanceVariableNames:classVariableNames:category:
-ScriptLoader>>#script50065
+Interval>>#sum
+Nautilus>>#labelString
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50065
+ScriptLoader>>#update50066

@@ -1,28 +1,26 @@
+AbstractNautilusUI>>#packageCreated:
+AbstractNautilusUI>>#registerToSystemAnnouncements
+CCompilationContext>>#optionInlineRepeat
+CompilationContext>>#optionInlineRepeat
+OCASTTranslator class>>#initialize
+OCASTTranslator>>#emitRepeat:
+OCOpalExamples>>#exampleRepeatEffect
+OCOpalExamples>>#exampleRepeatValue
+OpalCompiler class>>#defaultOptions
+RBBlockNode>>#isInlinedLoop
+RBMessageNode>>#isInlineRepeat
+RBMessageNode>>#isInlined
 RGClassDefinitionTest>>#testArrayStringForManifest
 RGClassDefinitionTest>>#testManifestReadOn
+RGMetaclassDefinition class>>#manifestReadOn:
+RGMetaclassDefinition>>#arrayStringForManifest
 RGMetaclassDefinitionTest>>#testArrayStringForManifest
 RGMetaclassDefinitionTest>>#testManifestReadOn
 RGMethodDefinitionTest>>#testArrayStringForManifest
 RGMethodDefinitionTest>>#testManifestReadOn
-CCompilationContext>>#optionInlineRepeat
-CompilationContext>>#optionInlineRepeat
-OCASTTranslator>>#emitRepeat:
-RBMessageNode>>#isInlineRepeat
-OCOpalExamples>>#exampleRepeatEffect
-OCOpalExamples>>#exampleRepeatValue
-RPackageRegistered
-ScriptLoader>>#update50176
-RGMetaclassDefinition class>>#manifestReadOn:
-RGMetaclassDefinition>>#arrayStringForManifest
-AbstractNautilusUI>>#registerToSystemAnnouncements
-AbstractNautilusUI>>#packageCreated:
-OCASTTranslator class>>#initialize
-OpalCompiler class>>#defaultOptions
-RBBlockNode>>#isInlinedLoop
-RBMessageNode>>#isInlined
 RPackageOrganizer>>#ensureExistAndRegisterPackageNamed:
 RPackageOrganizer>>#registerPackage:
-ScriptLoader>>#script50175
+RPackageRegistered
 ScriptLoader>>#commentForCurrentUpdate
-AbstractNautilusUI>>#packageCreated:
 ScriptLoader>>#script50175
+ScriptLoader>>#update50176

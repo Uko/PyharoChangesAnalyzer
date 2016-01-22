@@ -1,6 +1,5 @@
-Object>>#hasBindingOf:
-ScriptLoader>>#update50440
 MCMczReader>>#contentsForMember:
-ScriptLoader>>#script50439
+Object>>#hasBindingOf:
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50439
+ScriptLoader>>#update50440

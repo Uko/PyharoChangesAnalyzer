@@ -1,6 +1,5 @@
-ScriptLoader>>#update50287
-Model>>#announcer
-ScriptLoader>>#script50286
-ScriptLoader>>#commentForCurrentUpdate
 Model
+Model>>#announcer
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50286
+ScriptLoader>>#update50287

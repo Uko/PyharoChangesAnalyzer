@@ -1,93 +1,8 @@
-ConfigurationOfUnifiedFFI class>>#project
-ConfigurationOfUnifiedFFI class>>#DevelopmentSupport
-ConfigurationOfUnifiedFFI class>>#validate
-ConfigurationOfUnifiedFFI class>>#load
-ConfigurationOfUnifiedFFI class>>#loadBleedingEdge
-ConfigurationOfUnifiedFFI class>>#loadDevelopment
-ConfigurationOfUnifiedFFI class>>#isMetacelloConfig
-ConfigurationOfUnifiedFFI class>>#baseConfigurationClassIfAbsent:
-ConfigurationOfUnifiedFFI class>>#ensureMetacello
-ConfigurationOfUnifiedFFI class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfUnifiedFFI
-ConfigurationOfUnifiedFFI>>#customProjectAttributes
-ConfigurationOfUnifiedFFI>>#project
-ConfigurationOfUnifiedFFI>>#baseline0_10:
-ConfigurationOfUnifiedFFI>>#alien:
-ConfigurationOfUnifiedFFI>>#ffi:
-ConfigurationOfUnifiedFFI>>#development:
-ConfigurationOfUnifiedFFI>>#stable:
-ConfigurationOfUnifiedFFI>>#v0_10:
-IconicButton>>#themeChanged
-SimpleButtonMorph>>#themeChanged
-SimpleButtonMorph>>#themedFillStyle
-MorphTreeColumnButton>>#themedFillStyle
-ScriptLoader>>#update50535
 AthensCairoPatternPaint
-ScriptLoader>>#script50534
-ScriptLoader>>#commentForCurrentUpdate
-FFICalloutAPITests
-FFICalloutMethodBuilderTest
-FFICalloutMethodBuilderTestContext
-FFICalloutMethodBuilderTestRecuestor
-FFICalloutObjectForTest
-FFICalloutTests
-FFIExternalArrayTests
-FFIExternalStructureFieldParserTests
-FFIExternalStructureTests
-FFIFunctionParserTests
-FFITestNestingStructure
-FFITestPointerStructure
-FFITestStructure
-FFIBool
-FFICallback
-FFICallbackType
-FFICallout
-FFICalloutAPI
-FFICalloutMethodBuilder
-FFICharacterType
-FFIConst
-FFIExternalArray
-FFIExternalArrayType
-FFIExternalObject
-FFIExternalObjectType
-FFIExternalResourceExecutor
-FFIExternalResourceManager
-FFIExternalString
-FFIExternalStructure class>>#compileFields:withAccessors:
-FFIExternalStructure
-FFIExternalStructureFieldParser
-FFIExternalStructureFieldSpec
-FFIExternalStructureReferenceHandle
-FFIExternalStructureType
-FFIExternalType
-FFIFloat128
-FFIFloat16
-FFIFloat32
-FFIFloat64
-FFIFloatType
-FFIFunctionArgument
-FFIFunctionParser
-FFIFunctionSpec
-FFIInstVarArgument
-FFIInt16
-FFIInt32
-FFIInt64
-FFIInt8
-FFIIntegerType
-FFILibrary
-FFIMethodArgument
-FFIMethodRegistry
-FFIOop
-FFISelfArgument
-FFISizeT
-FFIUInt16
-FFIUInt32
-FFIUInt64
-FFIUInt8
-FFIUnknownLibrary
-FFIVoid
-LibC
-ScriptLoader>>#script50534
+Behavior>>#ffiBindingOf:
+Behavior>>#ffiInstVarArgument:generator:
+Boolean class>>#asExternalTypeOn:
+Boolean>>#asExternalTypeOn:
 ByteArray>>#nbFloat32AtOffset:
 ByteArray>>#nbFloat32AtOffset:put:
 ByteArray>>#nbFloat64AtOffset:
@@ -112,44 +27,165 @@ ByteArray>>#nbUInt8AtOffset:
 ByteArray>>#nbUInt8AtOffset:put:
 ByteArray>>#nbUlongAt:
 ByteArray>>#nbUlongAt:put:
-FFIExternalObject>>#handle
-FFIExternalObject>>#handle:
-Object>>#nbCall:
-Object>>#nbCall:module:
-Object>>#nbCall:module:options:
-Object>>#nbCall:options:
+ByteArray>>#referenceStructAt:length:
+CompiledMethod>>#ffiArgumentNames
+ConfigurationOfUnifiedFFI
+ConfigurationOfUnifiedFFI class>>#DevelopmentSupport
+ConfigurationOfUnifiedFFI class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfUnifiedFFI class>>#ensureMetacello
+ConfigurationOfUnifiedFFI class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfUnifiedFFI class>>#isMetacelloConfig
+ConfigurationOfUnifiedFFI class>>#load
+ConfigurationOfUnifiedFFI class>>#loadBleedingEdge
+ConfigurationOfUnifiedFFI class>>#loadDevelopment
+ConfigurationOfUnifiedFFI class>>#project
+ConfigurationOfUnifiedFFI class>>#validate
+ConfigurationOfUnifiedFFI>>#alien:
+ConfigurationOfUnifiedFFI>>#baseline0_10:
+ConfigurationOfUnifiedFFI>>#customProjectAttributes
+ConfigurationOfUnifiedFFI>>#development:
+ConfigurationOfUnifiedFFI>>#ffi:
+ConfigurationOfUnifiedFFI>>#project
+ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI>>#v0_10:
+ExternalAddress class>>#loadSymbol:from:
+ExternalAddress>>#gcpointer
+ExternalAddress>>#pointer
+ExternalAddress>>#value
+ExternalData>>#+
+ExternalData>>#asInteger
+ExternalData>>#printOn:
+ExternalData>>#value
+ExternalType>>#isExternalType
+ExternalType>>#withPointerArity:
+FFIBool
+FFIBool>>#basicHandle:at:
+FFIBool>>#basicHandle:at:put:
+FFIBool>>#externalType
+FFIBool>>#valueSize
+FFICallback
+FFICallback class>>#asExternalTypeOn:
+FFICallback class>>#exampleCqsort
+FFICallback class>>#forAddress:
+FFICallback class>>#primQsort:with:with:with:
+FFICallback>>#ffiBindingOf:
+FFICallback>>#ffiInstVarArgument:generator:
+FFICallback>>#newParser
+FFICallback>>#signature:block:
+FFICallback>>#valueInContext:
+FFICallbackType
+FFICallbackType>>#emitArgument:context:
+FFICallbackType>>#readFieldAt:
+FFICallbackType>>#writeFieldAt:with:
+FFICallout
+FFICallout class>>#initialize
+FFICallout class>>#initializeTypeAliases
+FFICallout class>>#typeAliases
+FFICallout>>#aliasForType:
+FFICallout>>#argName:indirectIndex:type:ptrArity:
+FFICallout>>#callType:
+FFICallout>>#fnSpec
+FFICallout>>#indirectLoader:byIndex:
+FFICallout>>#initialize
+FFICallout>>#integerConstantArgument:
+FFICallout>>#loaderForArgNamed:
+FFICallout>>#loaderForArgNamed:indirectIndex:
+FFICallout>>#loaderFromMethodArgsNamed:
+FFICallout>>#method
+FFICallout>>#method:
+FFICallout>>#methodArgs
+FFICallout>>#methodArgs:
+FFICallout>>#namedFnSpec:
+FFICallout>>#newSpecParser
+FFICallout>>#optionAt:
+FFICallout>>#options
+FFICallout>>#options:
+FFICallout>>#parseOptions:
+FFICallout>>#receiver
+FFICallout>>#receiver:
+FFICallout>>#receiverArgumentLoader
+FFICallout>>#requestor
+FFICallout>>#requestor:
+FFICallout>>#resolveExternalType:
+FFICallout>>#resolveType:
+FFICallout>>#returnType:
+FFICallout>>#sender:
+FFICallout>>#typeName:pointerArity:
+FFICalloutAPI
+FFICalloutAPI class>>#calloutAPIClass
+FFICalloutAPI class>>#calloutAPIClass:
+FFICalloutAPI class>>#defaultCalloutAPIClass
+FFICalloutAPI class>>#inContext:
+FFICalloutAPI class>>#new
+FFICalloutAPI>>#callingConvention
+FFICalloutAPI>>#cdecl
+FFICalloutAPI>>#context
+FFICalloutAPI>>#convention:
+FFICalloutAPI>>#function:module:
+FFICalloutAPI>>#initialize
+FFICalloutAPI>>#initializeContext:
+FFICalloutAPI>>#newBuilder
+FFICalloutAPI>>#options
+FFICalloutAPI>>#options:
+FFICalloutAPI>>#stdcall
 FFICalloutAPITests
 FFICalloutAPITests>>#ffiLibraryName
-FFICalloutAPITests>>#method1
-FFICalloutAPITests>>#method2
 FFICalloutAPITests>>#ffiPrintString:
 FFICalloutAPITests>>#ffiTestChar:with:with:with:
 FFICalloutAPITests>>#ffiTestDoubles:with:
 FFICalloutAPITests>>#ffiTestFloats:with:
 FFICalloutAPITests>>#ffiTestInt:with:with:with:
+FFICalloutAPITests>>#ffiTestIntConstant
+FFICalloutAPITests>>#ffiTestIntConstantWith:
 FFICalloutAPITests>>#ffiTestLongLong:with:
 FFICalloutAPITests>>#ffiTestShort:with:with:with:
 FFICalloutAPITests>>#ffiTestUlong:with:with:with:
-FFICalloutAPITests>>#ffiTestIntConstant
-FFICalloutAPITests>>#ffiTestIntConstantWith:
+FFICalloutAPITests>>#method1
+FFICalloutAPITests>>#method2
 FFICalloutAPITests>>#primMemMoveFrom:to:size:
 FFICalloutAPITests>>#primStr:cat:
 FFICalloutAPITests>>#runCase
+FFICalloutAPITests>>#testCallWithObjectCreation
+FFICalloutAPITests>>#testCallWithObjectParameter
+FFICalloutAPITests>>#testCallWithSelfParameter
 FFICalloutAPITests>>#testCharCall
+FFICalloutAPITests>>#testCharPointer
 FFICalloutAPITests>>#testDoubleCall
 FFICalloutAPITests>>#testFloatCall
 FFICalloutAPITests>>#testIntCall
+FFICalloutAPITests>>#testIntCallWithAllConstParameter
+FFICalloutAPITests>>#testIntCallWithConstParameter
 FFICalloutAPITests>>#testLongLongs
 FFICalloutAPITests>>#testPrintString
 FFICalloutAPITests>>#testShortCall
 FFICalloutAPITests>>#testUlongRange
-FFICalloutAPITests>>#testIntCallWithAllConstParameter
-FFICalloutAPITests>>#testIntCallWithConstParameter
-FFICalloutAPITests>>#testCallWithObjectCreation
-FFICalloutAPITests>>#testCallWithObjectParameter
-FFICalloutAPITests>>#testCallWithSelfParameter
-FFICalloutAPITests>>#testCharPointer
 FFICalloutAPITests>>#testVoidPointer
+FFICalloutMethodBuilder
+FFICalloutMethodBuilder class>>#calloutAPI:
+FFICalloutMethodBuilder>>#build:
+FFICalloutMethodBuilder>>#callType
+FFICalloutMethodBuilder>>#callingConvention
+FFICalloutMethodBuilder>>#calloutAPI
+FFICalloutMethodBuilder>>#createFFICallout
+FFICalloutMethodBuilder>>#createFFICalloutLiteralFromSpec:
+FFICalloutMethodBuilder>>#createFFIMethodFrom:
+FFICalloutMethodBuilder>>#createFFIPragmaFromSpec:
+FFICalloutMethodBuilder>>#generate
+FFICalloutMethodBuilder>>#generateFFICallout:spec:
+FFICalloutMethodBuilder>>#generateMethodFromSpec:
+FFICalloutMethodBuilder>>#generateMethodFromSpecOld:
+FFICalloutMethodBuilder>>#initializeCalloutAPI:
+FFICalloutMethodBuilder>>#method
+FFICalloutMethodBuilder>>#module
+FFICalloutMethodBuilder>>#module:
+FFICalloutMethodBuilder>>#moduleName
+FFICalloutMethodBuilder>>#parseSignature:
+FFICalloutMethodBuilder>>#requestor
+FFICalloutMethodBuilder>>#requestor:
+FFICalloutMethodBuilder>>#sender
+FFICalloutMethodBuilder>>#sender:
+FFICalloutMethodBuilder>>#signature
+FFICalloutMethodBuilder>>#signature:
 FFICalloutMethodBuilderTest
 FFICalloutMethodBuilderTest>>#builder
 FFICalloutMethodBuilderTest>>#testAllAtomicTypesCall
@@ -170,194 +206,42 @@ FFICalloutMethodBuilderTestContext>>#selector:
 FFICalloutMethodBuilderTestContext>>#trailer
 FFICalloutMethodBuilderTestRecuestor
 FFICalloutMethodBuilderTestRecuestor>>#loaderFromMethodArgsNamed:
-FFIExternalObject class>>#asExternalTypeOn:
+FFICalloutObjectForTest
+FFICalloutObjectForTest class>>#asExternalTypeOn:
 FFICalloutObjectForTest class>>#primCreate:
 FFICalloutObjectForTest class>>#primObject:strcpy:
-FFICalloutObjectForTest
 FFICalloutObjectForTest>>#free
 FFICalloutObjectForTest>>#handle
 FFICalloutObjectForTest>>#handle:
-FFICalloutObjectForTest>>#strcpy:
 FFICalloutObjectForTest>>#method1
 FFICalloutObjectForTest>>#primFree
 FFICalloutObjectForTest>>#primStrcpy:
 FFICalloutObjectForTest>>#primStrcpy:size:
+FFICalloutObjectForTest>>#strcpy:
 FFICalloutTests
-FFIExternalArray>>#ffiBindingOf:
-FFICalloutTests>>#checkTypeSelf:class:arity:
 FFICalloutTests>>#checkType:class:arity:argument:
 FFICalloutTests>>#checkType:class:value:
+FFICalloutTests>>#checkTypeSelf:class:arity:
+FFICalloutTests>>#ffiBindingOf:
 FFICalloutTests>>#testBuildingFnSpec
 FFICalloutTests>>#testParseOptions
-FFIExternalArrayTests
-FFIExternalArrayTests>>#testAt
-FFIExternalArrayTests>>#testAtPut
-FFIExternalArrayTests>>#testExternalAt
-FFIExternalArrayTests>>#testExternalAtPut
-FFIExternalArrayTests>>#testExternalAtPutFloat
-FFIExternalArrayTests>>#testResolveType
-FFIExternalStructureFieldParserTests
-FFIExternalStructureFieldParserTests>>#newParser
-FFIExternalStructureFieldParserTests>>#testParseFieldsStructure
-FFIExternalStructureTests
-FFIExternalStructureTests>>#testExternallyAllocatedNestedStructure
-FFIExternalStructureTests>>#testExternallyAllocatedStructure
-FFIExternalStructureTests>>#testNestedStructure
-FFIExternalStructureTests>>#testStructAccess
-FFIExternalStructureTests>>#testStructWithPointerAccess
-FFIFunctionParserTests
-FFIFunctionParserTests>>#newParser
-FFIFunctionParserTests>>#testParseAnonymousFunction
-FFIFunctionParserTests>>#testParseAnonymousFunctionNoArguments
-FFIFunctionParserTests>>#testParseFunction
-FFIFunctionParserTests>>#testParseFunctionNoArguments
-FFITestStructure class>>#initialize
-FFITestNestingStructure class>>#fieldsDesc
-FFITestNestingStructure
-FFITestNestingStructure>>#nested
-FFITestNestingStructure>>#nested:
-FFITestPointerStructure>>#one
-FFITestPointerStructure>>#one:
-FFITestPointerStructure>>#two
-FFITestPointerStructure>>#two:
-FFITestPointerStructure class>>#initialize
-FFITestPointerStructure class>>#fieldsDesc
-FFITestPointerStructure
-FFITestPointerStructure>>#nestedPointer
-FFITestPointerStructure>>#nestedPointer:
-FFITestNestingStructure>>#one
-FFITestNestingStructure>>#one:
-FFITestPointerStructure>>#pointer
-FFITestPointerStructure>>#pointer:
-FFITestNestingStructure>>#two
-FFITestNestingStructure>>#two:
-FFITestNestingStructure class>>#initialize
-FFITestStructure class>>#fieldsDesc
-FFITestStructure
-FFITestStructure>>#byte
-FFITestStructure>>#byte:
-FFITestStructure>>#double
-FFITestStructure>>#double:
-FFITestStructure>>#float
-FFITestStructure>>#float:
-FFITestStructure>>#int64
-FFITestStructure>>#int64:
-FFITestStructure>>#long
-FFITestStructure>>#long:
-FFITestStructure>>#short
-FFITestStructure>>#short:
-FFIBool
-FFIBool>>#externalType
-FFIUInt8>>#valueSize
-FFIBool>>#basicHandle:at:
-FFIBool>>#basicHandle:at:put:
-FFICallback class>>#asExternalTypeOn:
-FFICallback class>>#exampleCqsort
-FFICallback class>>#forAddress:
-FFICallback class>>#primQsort:with:with:with:
-FFICallback
-FFICallback>>#valueInContext:
-FFICallback>>#signature:block:
-FFICallback>>#ffiBindingOf:
-FFICallback>>#ffiInstVarArgument:generator:
-FFICallback>>#newParser
-FFICallbackType
-FFICallbackType>>#emitArgument:context:
-FFICallbackType>>#readFieldAt:
-FFICallbackType>>#writeFieldAt:with:
-FFICallout class>>#typeAliases
-FFICallout class>>#initialize
-FFICallout class>>#initializeTypeAliases
-FFICallout
-FFICallout>>#callType:
-FFICallout>>#fnSpec
-FFICallout>>#method
-FFICallout>>#methodArgs
-FFICallout>>#methodArgs:
-FFICallout>>#method:
-FFICallout>>#namedFnSpec:
-FFICallout>>#newSpecParser
-FFICallout>>#optionAt:
-FFICalloutAPI>>#options
-FFICallout>>#options:
-FFICallout>>#parseOptions:
-FFICallout>>#receiver
-FFICallout>>#receiver:
-FFICallout>>#requestor
-FFICallout>>#requestor:
-FFICallout>>#resolveExternalType:
-FFICallout>>#resolveType:
-FFICallout>>#sender:
-FFICallout>>#indirectLoader:byIndex:
-FFICallout>>#loaderForArgNamed:
-FFICallout>>#loaderForArgNamed:indirectIndex:
-FFICallout>>#loaderFromMethodArgsNamed:
-FFICallout>>#initialize
-FFICallout>>#aliasForType:
-FFICallout>>#receiverArgumentLoader
-FFICallout>>#typeName:pointerArity:
-FFICallout>>#argName:indirectIndex:type:ptrArity:
-FFICallout>>#integerConstantArgument:
-FFICallout>>#returnType:
-FFICalloutAPI class>>#calloutAPIClass
-FFICalloutAPI class>>#calloutAPIClass:
-FFICalloutAPI class>>#defaultCalloutAPIClass
-FFICalloutAPI class>>#inContext:
-FFICalloutAPI class>>#new
-FFICalloutAPI
-FFICalloutAPI>>#context
-FFICalloutAPI>>#convention:
-FFICallout>>#options
-FFICalloutAPI>>#options:
-FFICalloutAPI>>#function:module:
-FFICalloutAPI>>#newBuilder
-FFICalloutAPI>>#cdecl
-FFICalloutAPI>>#stdcall
-FFICalloutAPI>>#initialize
-FFICalloutAPI>>#initializeContext:
-FFICalloutAPI>>#callingConvention
-FFICalloutMethodBuilder class>>#calloutAPI:
-FFICalloutMethodBuilder
-FFICalloutMethodBuilder>>#callType
-FFICalloutMethodBuilder>>#callingConvention
-FFICalloutMethodBuilder>>#calloutAPI
-FFICalloutMethodBuilder>>#createFFICallout
-FFICalloutMethodBuilder>>#method
-FFICalloutMethodBuilder>>#module
-FFICalloutMethodBuilder>>#moduleName
-FFICalloutMethodBuilder>>#module:
-FFICalloutMethodBuilder>>#requestor
-FFICalloutMethodBuilder>>#requestor:
-FFICalloutMethodBuilder>>#sender
-FFICalloutMethodBuilder>>#sender:
-FFICalloutMethodBuilder>>#signature
-FFICalloutMethodBuilder>>#signature:
-FFICalloutMethodBuilder>>#build:
-FFICalloutMethodBuilder>>#initializeCalloutAPI:
-FFICalloutMethodBuilder>>#createFFIMethodFrom:
-FFICalloutMethodBuilder>>#createFFIPragmaFromSpec:
-FFICalloutMethodBuilder>>#generateMethodFromSpecOld:
-FFICalloutMethodBuilder>>#createFFICalloutLiteralFromSpec:
-FFICalloutMethodBuilder>>#generate
-FFICalloutMethodBuilder>>#generateFFICallout:spec:
-FFICalloutMethodBuilder>>#generateMethodFromSpec:
-FFICalloutMethodBuilder>>#parseSignature:
 FFICharacterType
-FFICharacterType>>#externalType
-FFICharacterType>>#valueSize
 FFICharacterType>>#basicHandle:at:
 FFICharacterType>>#basicHandle:at:put:
+FFICharacterType>>#externalType
+FFICharacterType>>#valueSize
+FFIConst
 FFIConst class>>#value:
 FFIConst class>>#value:type:
-FFIConst
+FFIConst>>#emitArgument:context:
+FFIConst>>#emitReturn:resultTempVar:context:
 FFIConst>>#externalType
 FFIConst>>#externalType:
 FFIConst>>#loader
 FFIConst>>#pointerArity:
 FFIConst>>#value
 FFIConst>>#value:
-FFIConst>>#emitArgument:context:
-FFIConst>>#emitReturn:resultTempVar:context:
+FFIExternalArray
 FFIExternalArray class>>#asExternalTypeOn:
 FFIExternalArray class>>#externalNewType:size:
 FFIExternalArray class>>#fromHandle:type:
@@ -367,94 +251,109 @@ FFIExternalArray class>>#fromPointer:type:size:
 FFIExternalArray class>>#gcExternalNewType:size:
 FFIExternalArray class>>#new
 FFIExternalArray class>>#newType:size:
-FFIExternalArray
+FFIExternalArray>>#asArray
 FFIExternalArray>>#at:
 FFIExternalArray>>#at:put:
-FFIExternalArray>>#getHandle
-FFIExternalArray>>#type
-FFIExternalArray>>#typeSize
-FFIExternalArray>>#asArray
-FFIExternalArray>>#gcpointer
-FFIExternalArray>>#pointer
+FFIExternalArray>>#ffiBindingOf:
 FFIExternalArray>>#free
+FFIExternalArray>>#gcpointer
+FFIExternalArray>>#getHandle
 FFIExternalArray>>#initializeExternalType:size:
 FFIExternalArray>>#initializeGcExternalType:size:
 FFIExternalArray>>#initializeHandle:type:size:
 FFIExternalArray>>#initializeType:size:
 FFIExternalArray>>#initializeType:size:handleProducer:
-FFIExternalArray>>#size
-FFICalloutTests>>#ffiBindingOf:
+FFIExternalArray>>#pointer
 FFIExternalArray>>#resolveType:
+FFIExternalArray>>#size
+FFIExternalArray>>#type
+FFIExternalArray>>#typeSize
+FFIExternalArrayTests
+FFIExternalArrayTests>>#testAt
+FFIExternalArrayTests>>#testAtPut
+FFIExternalArrayTests>>#testExternalAt
+FFIExternalArrayTests>>#testExternalAtPut
+FFIExternalArrayTests>>#testExternalAtPutFloat
+FFIExternalArrayTests>>#testResolveType
 FFIExternalArrayType
-FFICalloutObjectForTest class>>#asExternalTypeOn:
-FFIExternalObject class>>#null
 FFIExternalObject
-FFIExternalObject>>#registerAsExternalResource
+FFIExternalObject class>>#asExternalTypeOn:
+FFIExternalObject class>>#null
+FFIExternalObject>>#handle
+FFIExternalObject>>#handle:
 FFIExternalObject>>#initialize
 FFIExternalObject>>#printOn:
-FFIExternalObjectType class>>#objectClass:
+FFIExternalObject>>#registerAsExternalResource
 FFIExternalObjectType
-FFIExternalObjectType>>#externalType
-FFIExternalStructureType>>#objectClass
-FFIExternalObjectType>>#objectClass:
-FFIExternalObjectType>>#valueSize
+FFIExternalObjectType class>>#objectClass:
 FFIExternalObjectType>>#emitArgument:context:
 FFIExternalObjectType>>#emitReturn:resultTempVar:context:
+FFIExternalObjectType>>#externalType
+FFIExternalObjectType>>#objectClass
+FFIExternalObjectType>>#objectClass:
 FFIExternalObjectType>>#printOn:
+FFIExternalObjectType>>#valueSize
 FFIExternalResourceExecutor
 FFIExternalResourceExecutor>>#finalize
 FFIExternalResourceExecutor>>#initialize
 FFIExternalResourceExecutor>>#resourceClass:data:
-FFIExternalResourceManager class>>#uniqueInstance
-FFIExternalResourceManager class>>#reset
+FFIExternalResourceManager
 FFIExternalResourceManager class>>#addResource:
 FFIExternalResourceManager class>>#addResource:data:
-FFIExternalResourceManager
+FFIExternalResourceManager class>>#reset
+FFIExternalResourceManager class>>#uniqueInstance
 FFIExternalResourceManager>>#addResource:
 FFIExternalResourceManager>>#addResource:data:
 FFIExternalResourceManager>>#initialize
 FFIExternalString
-FFIExternalString>>#externalType
-FFIExternalString>>#valueSize
 FFIExternalString>>#basicHandle:at:
 FFIExternalString>>#basicHandle:at:put:
-FFIExternalStructure class>>#structureSize
+FFIExternalString>>#externalType
+FFIExternalString>>#valueSize
+FFIExternalStructure
 FFIExternalStructure class>>#asExternalTypeOn:
+FFIExternalStructure class>>#compileFields:withAccessors:
+FFIExternalStructure class>>#defineFieldAccessorsFor:startingAt:type:
+FFIExternalStructure class>>#fieldSpec
 FFIExternalStructure class>>#fields
 FFIExternalStructure class>>#fieldsDesc
 FFIExternalStructure class>>#fromHandle:
 FFIExternalStructure class>>#gcExternalNew
-FFIExternalStructure class>>#compileFields:withAccessors:
-FFIExternalStructure class>>#defineFieldAccessorsFor:startingAt:type:
-FFIExternalStructure class>>#fieldSpec
 FFIExternalStructure class>>#generatedFieldProtocolName
 FFIExternalStructure class>>#rebuildFieldAccessors
 FFIExternalStructure class>>#removeAllMethodsInProtocol:
-FFIExternalStructure
+FFIExternalStructure class>>#structureSize
 FFIExternalStructure>>#address
 FFIExternalStructure>>#pointer
 FFIExternalStructure>>#printOn:
 FFIExternalStructureFieldParser
 FFIExternalStructureFieldParser>>#fieldSpec
 FFIExternalStructureFieldParser>>#parseFields:structure:
+FFIExternalStructureFieldParserTests
+FFIExternalStructureFieldParserTests>>#newParser
+FFIExternalStructureFieldParserTests>>#testParseFieldsStructure
 FFIExternalStructureFieldSpec
 FFIExternalStructureFieldSpec>>#addField:type:
+FFIExternalStructureFieldSpec>>#compileSpec
 FFIExternalStructureFieldSpec>>#fieldNames
 FFIExternalStructureFieldSpec>>#fieldsAndTypesDo:
-FFIExternalStructureFieldSpec>>#typeFor:
-FFIExternalStructureFieldSpec>>#compileSpec
 FFIExternalStructureFieldSpec>>#initialize
+FFIExternalStructureFieldSpec>>#typeFor:
+FFIExternalStructureReferenceHandle
 FFIExternalStructureReferenceHandle class>>#handle:offset:
 FFIExternalStructureReferenceHandle class>>#new
-FFIExternalStructureReferenceHandle
+FFIExternalStructureReferenceHandle>>#asExternalPointer
 FFIExternalStructureReferenceHandle>>#booleanAt:
 FFIExternalStructureReferenceHandle>>#booleanAt:put:
 FFIExternalStructureReferenceHandle>>#doubleAt:
 FFIExternalStructureReferenceHandle>>#doubleAt:put:
 FFIExternalStructureReferenceHandle>>#floatAt:
 FFIExternalStructureReferenceHandle>>#floatAt:put:
+FFIExternalStructureReferenceHandle>>#initializeHandle:offset:
 FFIExternalStructureReferenceHandle>>#integerAt:put:size:signed:
 FFIExternalStructureReferenceHandle>>#integerAt:size:signed:
+FFIExternalStructureReferenceHandle>>#isExternalAddress
+FFIExternalStructureReferenceHandle>>#isNull
 FFIExternalStructureReferenceHandle>>#pointerAt:
 FFIExternalStructureReferenceHandle>>#pointerAt:put:
 FFIExternalStructureReferenceHandle>>#referenceStructAt:length:
@@ -482,222 +381,251 @@ FFIExternalStructureReferenceHandle>>#unsignedShortAt:
 FFIExternalStructureReferenceHandle>>#unsignedShortAt:put:
 FFIExternalStructureReferenceHandle>>#voidAt:
 FFIExternalStructureReferenceHandle>>#voidAt:put:
-FFIExternalStructureReferenceHandle>>#asExternalPointer
-FFIExternalStructureReferenceHandle>>#initializeHandle:offset:
-FFIExternalStructureReferenceHandle>>#isExternalAddress
-FFIExternalStructureReferenceHandle>>#isNull
-FFIExternalStructureType class>>#objectClass:
+FFIExternalStructureTests
+FFIExternalStructureTests>>#testExternallyAllocatedNestedStructure
+FFIExternalStructureTests>>#testExternallyAllocatedStructure
+FFIExternalStructureTests>>#testNestedStructure
+FFIExternalStructureTests>>#testStructAccess
+FFIExternalStructureTests>>#testStructWithPointerAccess
 FFIExternalStructureType
+FFIExternalStructureType class>>#objectClass:
+FFIExternalStructureType>>#basicHandle:at:
 FFIExternalStructureType>>#externalType
-FFIExternalObjectType>>#objectClass
-FFIExternalStructureType>>#valueSize
+FFIExternalStructureType>>#initializeObjectClass:
+FFIExternalStructureType>>#objectClass
 FFIExternalStructureType>>#readFieldAt:
 FFIExternalStructureType>>#readReferenceAt:
-FFIExternalStructureType>>#initializeObjectClass:
-FFIExternalStructureType>>#basicHandle:at:
-FFIExternalType class>>#pointerSize
-FFIExternalType class>>#asExternalTypeOn:
-FFIExternalType class>>#sizeOf:
+FFIExternalStructureType>>#valueSize
 FFIExternalType
-FFIExternalType>>#handle:at:
-FFIExternalType>>#handle:at:put:
+FFIExternalType class>>#asExternalTypeOn:
+FFIExternalType class>>#pointerSize
+FFIExternalType class>>#sizeOf:
+FFIExternalType>>#basicHandle:at:
+FFIExternalType>>#basicHandle:at:put:
 FFIExternalType>>#callbackReturnOn:for:
 FFIExternalType>>#callbackValueFor:at:
+FFIExternalType>>#emitArgument:context:
+FFIExternalType>>#emitReturn:resultTempVar:context:
 FFIExternalType>>#externalType
 FFIExternalType>>#externalTypeWithArity
+FFIExternalType>>#handle:at:
+FFIExternalType>>#handle:at:put:
+FFIExternalType>>#initialize
+FFIExternalType>>#isPointer
+FFIExternalType>>#isVoid
 FFIExternalType>>#loader
 FFIExternalType>>#loader:
 FFIExternalType>>#pointerArity
 FFIExternalType>>#pointerArity:
 FFIExternalType>>#pointerSize
+FFIExternalType>>#printOn:
+FFIExternalType>>#readFieldAt:
 FFIExternalType>>#typeSize
 FFIExternalType>>#valueSize
-FFIExternalType>>#emitArgument:context:
-FFIExternalType>>#emitReturn:resultTempVar:context:
-FFIExternalType>>#readFieldAt:
 FFIExternalType>>#writeFieldAt:with:
-FFIExternalType>>#initialize
-FFIExternalType>>#printOn:
-FFIExternalType>>#basicHandle:at:
-FFIExternalType>>#basicHandle:at:put:
-FFIExternalType>>#isPointer
-FFIExternalType>>#isVoid
 FFIFloat128
-FFIFloat128>>#externalType
-FFIFloat128>>#valueSize
-FFIFloat16>>#basicHandle:at:
-FFIFloat16>>#basicHandle:at:put:
-FFIFloat16
-FFIFloat16>>#externalType
-FFIUInt16>>#valueSize
 FFIFloat128>>#basicHandle:at:
 FFIFloat128>>#basicHandle:at:put:
+FFIFloat128>>#externalType
+FFIFloat128>>#valueSize
+FFIFloat16
+FFIFloat16>>#basicHandle:at:
+FFIFloat16>>#basicHandle:at:put:
+FFIFloat16>>#externalType
+FFIFloat16>>#valueSize
 FFIFloat32
-FFIFloat32>>#externalType
-FFIUInt32>>#valueSize
 FFIFloat32>>#basicHandle:at:
 FFIFloat32>>#basicHandle:at:put:
+FFIFloat32>>#externalType
+FFIFloat32>>#valueSize
 FFIFloat64
-FFIFloat64>>#externalType
-FFIUInt64>>#valueSize
 FFIFloat64>>#basicHandle:at:
 FFIFloat64>>#basicHandle:at:put:
+FFIFloat64>>#externalType
+FFIFloat64>>#valueSize
 FFIFloatType
 FFIFloatType>>#callbackReturnOn:for:
 FFIFunctionArgument
 FFIFunctionArgument>>#emitArgument:context:
 FFIFunctionParser
-FFIFunctionParser>>#parseAnonymousFunction:
-FFIFunctionParser>>#parseNamedFunction:
-FFIFunctionParser>>#requestor:
+FFIFunctionParser>>#argName:indirectIndex:type:ptrArity:
 FFIFunctionParser>>#initialize
+FFIFunctionParser>>#integerConstantArgument:
+FFIFunctionParser>>#parseAnonymousFunction:
 FFIFunctionParser>>#parseArgument
 FFIFunctionParser>>#parseArguments
 FFIFunctionParser>>#parseInt
+FFIFunctionParser>>#parseNamedFunction:
 FFIFunctionParser>>#parseType
 FFIFunctionParser>>#parseWord
-FFIFunctionParser>>#skipSpace
-FFIFunctionParser>>#argName:indirectIndex:type:ptrArity:
-FFIFunctionParser>>#integerConstantArgument:
+FFIFunctionParser>>#requestor:
 FFIFunctionParser>>#returnType:
+FFIFunctionParser>>#skipSpace
+FFIFunctionParserTests
+FFIFunctionParserTests>>#newParser
+FFIFunctionParserTests>>#testParseAnonymousFunction
+FFIFunctionParserTests>>#testParseAnonymousFunctionNoArguments
+FFIFunctionParserTests>>#testParseFunction
+FFIFunctionParserTests>>#testParseFunctionNoArguments
 FFIFunctionSpec
 FFIFunctionSpec>>#addArgument:
 FFIFunctionSpec>>#arguments
 FFIFunctionSpec>>#arguments:
-FFIFunctionSpec>>#functionName
-FFIFunctionSpec>>#functionName:
-FFIFunctionSpec>>#returnType
-FFIFunctionSpec>>#returnType:
 FFIFunctionSpec>>#asArraySpec
 FFIFunctionSpec>>#asArraySpecArrayedArgs
 FFIFunctionSpec>>#asMethodSelectorAndArguments
 FFIFunctionSpec>>#asMethodSelectorAndArrayOfArguments
-FFIFunctionSpec>>#printType:on:
+FFIFunctionSpec>>#functionName
+FFIFunctionSpec>>#functionName:
 FFIFunctionSpec>>#initialize
 FFIFunctionSpec>>#isAnonymous
+FFIFunctionSpec>>#printType:on:
+FFIFunctionSpec>>#returnType
+FFIFunctionSpec>>#returnType:
 FFIInstVarArgument
-FFIMethodArgument>>#argName
-FFIMethodArgument>>#argName:
+FFIInstVarArgument>>#argName
+FFIInstVarArgument>>#argName:
 FFIInstVarArgument>>#emitArgument:context:
-FFIMethodArgument>>#emitArgument:context:objectClass:
+FFIInstVarArgument>>#emitArgument:context:objectClass:
 FFIInstVarArgument>>#emitArgument:context:objectClass:instVarName:
 FFIInt16
-FFIInt16>>#externalType
 FFIInt16>>#basicHandle:at:
 FFIInt16>>#basicHandle:at:put:
+FFIInt16>>#externalType
 FFIInt32
-FFISizeT>>#externalType
 FFIInt32>>#basicHandle:at:
 FFIInt32>>#basicHandle:at:put:
+FFIInt32>>#externalType
 FFIInt64
 FFIInt64>>#externalType
 FFIInt8
-FFIInt8>>#externalType
 FFIInt8>>#basicHandle:at:
 FFIInt8>>#basicHandle:at:put:
+FFIInt8>>#externalType
 FFIIntegerType
-FFILibrary class>>#asFFILibrary
-FFIMethodRegistry class>>#new
-FFILibrary class>>#uniqueInstance
 FFILibrary
+FFILibrary class>>#asFFILibrary
+FFILibrary class>>#new
+FFILibrary class>>#uniqueInstance
+FFILibrary>>#asFFILibrary
+FFILibrary>>#ffiLibraryName
 FFILibrary>>#macModuleName
+FFILibrary>>#moduleName
 FFILibrary>>#unixModuleName
 FFILibrary>>#win32ModuleName
-FFILibrary>>#moduleName
-FFILibrary>>#ffiLibraryName
-FFILibrary>>#asFFILibrary
 FFIMethodArgument
-FFIInstVarArgument>>#argName
-FFIInstVarArgument>>#argName:
+FFIMethodArgument>>#argName
+FFIMethodArgument>>#argName:
+FFIMethodArgument>>#emitArgument:context:
+FFIMethodArgument>>#emitArgument:context:objectClass:
+FFIMethodArgument>>#emitArgument:context:objectClass:instVarName:
 FFIMethodArgument>>#index
 FFIMethodArgument>>#index:
-FFIMethodArgument>>#emitArgument:context:
-FFIInstVarArgument>>#emitArgument:context:objectClass:
-FFIMethodArgument>>#emitArgument:context:objectClass:instVarName:
+FFIMethodRegistry
+FFIMethodRegistry class>>#cleanUp:
 FFIMethodRegistry class>>#initialize
 FFIMethodRegistry class>>#initializeStartUpList
-FFIMethodRegistry class>>#cleanUp:
-FFILibrary class>>#new
-FFIMethodRegistry class>>#uniqueInstance
+FFIMethodRegistry class>>#new
 FFIMethodRegistry class>>#startUp:
-FFIMethodRegistry
+FFIMethodRegistry class>>#uniqueInstance
 FFIMethodRegistry>>#checkPlatform
 FFIMethodRegistry>>#compiledMethods
+FFIMethodRegistry>>#initialize
 FFIMethodRegistry>>#lastActivePlatform
 FFIMethodRegistry>>#registerMethod:
 FFIMethodRegistry>>#reset
-FFIMethodRegistry>>#initialize
 FFIOop
 FFIOop>>#externalType
 FFIOop>>#valueSize
 FFISelfArgument
 FFISelfArgument>>#emitArgument:context:
 FFISelfArgument>>#emitArgument:context:objectClass:
-FFISizeT class>>#asExternalTypeOn:
 FFISizeT
-FFIInt32>>#externalType
-FFISizeT>>#valueSize
+FFISizeT class>>#asExternalTypeOn:
 FFISizeT>>#basicHandle:at:
 FFISizeT>>#basicHandle:at:put:
+FFISizeT>>#externalType
+FFISizeT>>#valueSize
+FFITestNestingStructure
+FFITestNestingStructure class>>#fieldsDesc
+FFITestNestingStructure class>>#initialize
+FFITestNestingStructure>>#nested
+FFITestNestingStructure>>#nested:
+FFITestNestingStructure>>#one
+FFITestNestingStructure>>#one:
+FFITestNestingStructure>>#two
+FFITestNestingStructure>>#two:
+FFITestPointerStructure
+FFITestPointerStructure class>>#fieldsDesc
+FFITestPointerStructure class>>#initialize
+FFITestPointerStructure>>#nestedPointer
+FFITestPointerStructure>>#nestedPointer:
+FFITestPointerStructure>>#one
+FFITestPointerStructure>>#one:
+FFITestPointerStructure>>#pointer
+FFITestPointerStructure>>#pointer:
+FFITestPointerStructure>>#two
+FFITestPointerStructure>>#two:
+FFITestStructure
+FFITestStructure class>>#fieldsDesc
+FFITestStructure class>>#initialize
+FFITestStructure>>#byte
+FFITestStructure>>#byte:
+FFITestStructure>>#double
+FFITestStructure>>#double:
+FFITestStructure>>#float
+FFITestStructure>>#float:
+FFITestStructure>>#int64
+FFITestStructure>>#int64:
+FFITestStructure>>#long
+FFITestStructure>>#long:
+FFITestStructure>>#short
+FFITestStructure>>#short:
 FFIUInt16
-FFIUInt16>>#externalType
-FFIFloat16>>#valueSize
 FFIUInt16>>#basicHandle:at:
 FFIUInt16>>#basicHandle:at:put:
+FFIUInt16>>#externalType
+FFIUInt16>>#valueSize
 FFIUInt32
-FFIUInt32>>#externalType
-FFIFloat32>>#valueSize
 FFIUInt32>>#basicHandle:at:
 FFIUInt32>>#basicHandle:at:put:
+FFIUInt32>>#externalType
+FFIUInt32>>#valueSize
 FFIUInt64
-FFIUInt64>>#externalType
-FFIFloat64>>#valueSize
 FFIUInt64>>#basicHandle:at:
 FFIUInt64>>#basicHandle:at:put:
+FFIUInt64>>#externalType
+FFIUInt64>>#valueSize
 FFIUInt8
-FFIUInt8>>#externalType
-FFIBool>>#valueSize
 FFIUInt8>>#basicHandle:at:
 FFIUInt8>>#basicHandle:at:put:
+FFIUInt8>>#externalType
+FFIUInt8>>#valueSize
+FFIUnknownLibrary
 FFIUnknownLibrary class>>#name:
 FFIUnknownLibrary class>>#new
-FFIUnknownLibrary
-FFIUnknownLibrary>>#moduleName
 FFIUnknownLibrary>>#initializeName:
+FFIUnknownLibrary>>#moduleName
 FFIVoid
+FFIVoid>>#basicHandle:at:
+FFIVoid>>#basicHandle:at:put:
 FFIVoid>>#callbackReturnOn:for:
-FFIVoid>>#externalType
-FFIVoid>>#valueSize
 FFIVoid>>#emitPointerReturn:resultTempVar:context:
 FFIVoid>>#emitReturn:resultTempVar:context:
 FFIVoid>>#emitSelfReturn:
-FFIVoid>>#basicHandle:at:
-FFIVoid>>#basicHandle:at:put:
+FFIVoid>>#externalType
 FFIVoid>>#isVoid
-LibC class>>#memCopy:to:size:
+FFIVoid>>#valueSize
+IconicButton>>#themeChanged
+Integer>>#asExternalTypeOn:
 LibC
+LibC class>>#memCopy:to:size:
 LibC>>#macModuleName
+LibC>>#memCopy:to:size:
 LibC>>#unixModuleName
 LibC>>#win32ModuleName
-LibC>>#memCopy:to:size:
-Behavior>>#ffiBindingOf:
-Behavior>>#ffiInstVarArgument:generator:
-Boolean class>>#asExternalTypeOn:
-Boolean>>#asExternalTypeOn:
-ByteArray>>#referenceStructAt:length:
-CompiledMethod>>#ffiArgumentNames
-ExternalAddress class>>#loadSymbol:from:
-ExternalAddress>>#gcpointer
-ExternalAddress>>#pointer
-ExternalData>>#value
-ExternalData>>#+
-ExternalData>>#asInteger
-ExternalData>>#printOn:
-ExternalAddress>>#value
-ExternalType>>#isExternalType
-ExternalType>>#withPointerArity:
-Integer>>#asExternalTypeOn:
 MacOSPlatform>>#ffiModuleName:
+MorphTreeColumnButton>>#themedFillStyle
 OSPlatform>>#ffiAlignment
 OSPlatform>>#ffiModuleName:
 Object>>#ffiCall:
@@ -709,6 +637,15 @@ Object>>#ffiCallout
 Object>>#ffiCalloutIn:
 Object>>#ffiLibraryName
 Object>>#isExternalType
+Object>>#nbCall:
+Object>>#nbCall:module:
+Object>>#nbCall:module:options:
+Object>>#nbCall:options:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50534
+ScriptLoader>>#update50535
+SimpleButtonMorph>>#themeChanged
+SimpleButtonMorph>>#themedFillStyle
 SmalltalkImage>>#getSystemAttribute:
 SmalltalkImage>>#platformName
 String class>>#asExternalTypeOn:

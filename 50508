@@ -1,9 +1,8 @@
-ScriptLoader>>#update50508
+Behavior>>#largeIdentityHash
+MethodFinderTest>>#testPointY
 ProtoObject>>#pointersToExcept:
-ScriptLoader>>#script50507
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50507
+ScriptLoader>>#update50508
 SmalltalkImage>>#newSpecialObjectsArray
 SystemNavigation>>#allObjectsDo:
-MethodFinderTest>>#testPointY
-Behavior>>#largeIdentityHash
-ScriptLoader>>#script50507

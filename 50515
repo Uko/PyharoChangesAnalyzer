@@ -1,3 +1,10 @@
+BaselineOfQualityAssistant>>#baseline:
+ClassDescription>>#asCollectedRingDefinition
+CompiledMethod>>#asCollectedRingDefinition
+CompiledMethod>>#glmSourcePresentationIn:
+ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant>>#pre2_2_0:
+ConfigurationOfQualityAssistant>>#stable:
 ConfigurationOfQualityAssistant>>#v2_2_0:
 MutexTest
 MutexTest>>#fork:
@@ -11,24 +18,27 @@ MutexTest>>#testTerminatingBlockedCriticalSectionShouldNotUnblockAnotherWaitingS
 MutexTest>>#testTerminatingBlockedCriticalWhichWasSignalledButNotResumedYet
 MutexTest>>#testTwoCriticalsShouldWaitEachOther
 MutexTest>>#testTwoRecursiveCriticalsShouldNotWaitEachOther
-CompiledMethod>>#glmSourcePresentationIn:
-TBehavior>>#glmSourcePresentationIn:
-QAEventCollector class>>#uniqueInstance
-QAEventCollector class>>#initialize
-QAEventCollector class>>#unload
+QACriticsSeen>>#asQAREvent
 QAEventCollector
-QAEventCollector>>#recordAnnouncement:
+QAEventCollector class>>#initialize
+QAEventCollector class>>#uniqueInstance
+QAEventCollector class>>#unload
 QAEventCollector>>#initialize
+QAEventCollector>>#recordAnnouncement:
+QAInitiateCriticBan>>#asQAREvent
+QANautilusPluginMorph>>#excecuteTask
+QANautilusPluginMorph>>#getCritics
+QANautilusPluginMorph>>#taskCompleted
 QARCriticAutofixedEvent
 QARCriticBannedEvent
 QARCriticBannedEvent>>#entityBanLevel
 QARCriticBannedEvent>>#fromAnnouncement:
-QARCriticEvent class>>#fromAnnouncement:
 QARCriticEvent
+QARCriticEvent class>>#fromAnnouncement:
 QARCriticEvent>>#entity
-QARCriticEvent>>#timestamp
 QARCriticEvent>>#fromAnnouncement:
 QARCriticEvent>>#initialize
+QARCriticEvent>>#timestamp
 QARCriticsSeenEvent
 QAREntityCriticizedEvent
 QARInitiateCriticBanEvent
@@ -39,26 +49,14 @@ QARSingleCriticEvent
 QARSingleCriticEvent>>#critic
 QARSingleCriticEvent>>#fromAnnouncement:
 QARViewedDiffEvent
-ClassDescription>>#asCollectedRingDefinition
-CompiledMethod>>#asCollectedRingDefinition
-QACriticsSeen>>#asQAREvent
-QAInitiateCriticBan>>#asQAREvent
 QAViewedDiff>>#asQAREvent
 RPackage>>#asCollectedRingDefinition
+ReAbstractCritic>>#gtInspectorSourceCodeIn:
 ReCriticAutofixed>>#asQAREvent
 ReCriticBanned>>#asQAREvent
 ReEntityCriticized>>#asQAREvent
-TraitDescription>>#asCollectedRingDefinition
-ScriptLoader>>#update50515
-BaselineOfQualityAssistant>>#baseline:
-ConfigurationOfQualityAssistant>>#development:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#pre2_2_0:
-QANautilusPluginMorph>>#getCritics
-QANautilusPluginMorph>>#excecuteTask
-QANautilusPluginMorph>>#taskCompleted
-ReAbstractCritic>>#gtInspectorSourceCodeIn:
-ScriptLoader>>#script50514
 ScriptLoader>>#commentForCurrentUpdate
-ConfigurationOfQualityAssistant>>#pre2_2_0:
 ScriptLoader>>#script50514
+ScriptLoader>>#update50515
+TBehavior>>#glmSourcePresentationIn:
+TraitDescription>>#asCollectedRingDefinition

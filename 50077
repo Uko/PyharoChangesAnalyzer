@@ -1,10 +1,9 @@
-ConfigurationOfRubric>>#version1216:
-ScriptLoader>>#update50077
 ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version1216:
 Number>>#interpolateTo:at:
 Point>>#interpolateTo:at:
 RubAbstractTextArea class>>#textColor
 RubScrolledTextMorph>>#defaultBackgroundColor
-ScriptLoader>>#script50076
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50076
+ScriptLoader>>#update50077

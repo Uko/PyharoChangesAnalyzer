@@ -1,19 +1,18 @@
-ManifestCollectionsStreams class>>#ignoredDependencies
-MCTool>>#interactionModel
-ScriptLoader>>#update50313
-ManifestCollectionsStreams class>>#manuallyResolvedDependencies
 FileReference>>#nextVersion
 FontChooser
-ManifestKernel class>>#ignoredDependencies
+MBConfigurationRoot
 MCTool
-WorldState class>>#saveAs
+MCTool>>#interactionModel
+MTProject
+ManifestCollectionsStreams class>>#ignoredDependencies
+ManifestCollectionsStreams class>>#manuallyResolvedDependencies
+ManifestKernel class>>#ignoredDependencies
 MorphTreeModel
 PragmaCollector
-PragmaCollector>>#initialize
 PragmaCollector>>#announce:
-ScriptLoader>>#script50312
-ScriptLoader>>#commentForCurrentUpdate
-MTProject
-MBConfigurationRoot
+PragmaCollector>>#initialize
 PragmaCollector>>#reset
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50312
+ScriptLoader>>#update50313
+WorldState class>>#saveAs

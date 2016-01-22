@@ -1,20 +1,19 @@
-RBParserTest>>#testBinarySelectors
-ScriptLoader>>#update50411
-Metaclass>>#name
+AbstractNautilusUI
 AbstractNautilusUI class>>#initialize
 AbstractNautilusUI class>>#resetIconCaches
-AbstractNautilusUI
-AbstractNautilusUI>>#removeClassFromMethodsIconsCache:
-AbstractNautilusUI>>#removeFromMethodsIconsCache:
+AbstractNautilusUI>>#classCommented:
 AbstractNautilusUI>>#classIconFor:
 AbstractNautilusUI>>#groupIconFor:
+AbstractNautilusUI>>#removeClassFromMethodsIconsCache:
+AbstractNautilusUI>>#removeFromMethodsIconsCache:
 AbstractNautilusUI>>#runTestsOfClass:notifying:
-AbstractNautilusUI>>#classCommented:
-NautilusUI>>#runTestForAMethod:notifying:priority:
+Metaclass>>#name
 NautilusUI>>#methodModified:
 NautilusUI>>#methodRemoved:
+NautilusUI>>#runTestForAMethod:notifying:priority:
 RBCreateAccessorsForVariableRefactoring>>#defineGetterMethod
 RBCreateAccessorsForVariableRefactoring>>#defineSetterMethod
-ScriptLoader>>#script50410
+RBParserTest>>#testBinarySelectors
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50410
+ScriptLoader>>#update50411

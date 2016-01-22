@@ -1,28 +1,25 @@
-TabWithNoContents>>#tab
 AbstractNautilusPlugin class>>#isUsed
-ScriptLoader>>#update50464
-PolymorphSystemSettings class>>#desktopImageLayout
-PolymorphSystemSettings class>>#desktopImageLayout:
+AnnotationPanePlugin>>#buildString
+AnnotationRequest
 DebuggerModelTest>>#setUp
 DebuggerModelTest>>#testCorrectlyCreateDebugSession
 DebuggerModelTest>>#testStepInto
 DebuggerModelTest>>#testStepOver
+DebuggerTest>>#testBasic
 FilterTest>>#setUp
-TabManager>>#addTabContents:at:delta:
-SequenceableCollection>>#max:
-AnnotationPanePlugin>>#buildString
-AnnotationRequest
+MorphicUIManager>>#interruptName:preemptedProcess:
 NautilusHistoryEntry
 NautilusPluginManager>>#addButtonState
 NautilusPluginManager>>#removeButtonState
-SpecDebugger>>#lowSpaceChoices
-MorphicUIManager>>#interruptName:preemptedProcess:
-ScriptLoader>>#script50463
-ScriptLoader>>#commentForCurrentUpdate
-PolymorphSystemSettings class>>#desktopBackgroundChanged
-PolymorphSystemSettings class>>#desktopSettingsOn:
 PolymorphSystemSettings
-DebuggerTest>>#testBasic
-SpecDebugger>>#lowSpaceChoices
-MorphicUIManager>>#interruptName:preemptedProcess:
+PolymorphSystemSettings class>>#desktopBackgroundChanged
+PolymorphSystemSettings class>>#desktopImageLayout
+PolymorphSystemSettings class>>#desktopImageLayout:
+PolymorphSystemSettings class>>#desktopSettingsOn:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50463
+ScriptLoader>>#update50464
+SequenceableCollection>>#max:
+SpecDebugger>>#lowSpaceChoices
+TabManager>>#addTabContents:at:delta:
+TabWithNoContents>>#tab

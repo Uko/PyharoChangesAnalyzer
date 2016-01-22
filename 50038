@@ -1,13 +1,12 @@
-ScriptLoader>>#update50038
-AbstractNautilusUI class>>#sourceCodeMenu:
 AbstractNautilusUI
-AbstractNautilusUI>>#showGroups:
+AbstractNautilusUI class>>#sourceCodeMenu:
 AbstractNautilusUI>>#buildCodePane
 AbstractNautilusUI>>#buildCodePanelWithComment
 AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
 AbstractNautilusUI>>#buildCodePanelWithoutComment
+AbstractNautilusUI>>#showGroups:
 Nautilus class>>#nautilusSettingsOn:
 NautilusUI>>#selectedMethod:
-ScriptLoader>>#script646
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script646
+ScriptLoader>>#update50038

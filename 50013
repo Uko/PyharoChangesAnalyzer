@@ -1,8 +1,7 @@
-ScriptLoader>>#update50013
 SHRBTextStyler>>#addStyle:attribute:from:to:
-ScriptLoader>>#script621
-ScriptLoader>>#commentForCurrentUpdate
 SHRBTextStyler>>#visitMessageNode:
 SHRBTextStyler>>#visitMethodNode:
 SHRBTextStyler>>#visitPragmaNode:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script621
+ScriptLoader>>#update50013

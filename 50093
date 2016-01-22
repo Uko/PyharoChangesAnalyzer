@@ -1,25 +1,15 @@
-RGBehaviorDefinition>>#hasDefinitionSource
-ScriptLoader>>#update50093
 CurrentImage
 CurrentImage>>#packages
-ExternalBrowser class>>#fileReaderServicesForFile:suffix:
-ExternalBrowser class>>#serviceBrowseCode
-ExternalBrowser class>>#services
-ExternalBrowser class>>#initialize
+ExternalBrowser
 ExternalBrowser class>>#browseStream:
 ExternalBrowser class>>#defaultSpec
+ExternalBrowser class>>#fileReaderServicesForFile:suffix:
+ExternalBrowser class>>#initialize
 ExternalBrowser class>>#openOn:
-ExternalBrowser
+ExternalBrowser class>>#serviceBrowseCode
+ExternalBrowser class>>#services
 ExternalBrowser>>#classes
-ExternalBrowser>>#method
-ExternalBrowser>>#method:
-ExternalBrowser>>#model:
-ExternalBrowser>>#packages
-ExternalBrowser>>#protocols
-ExternalBrowser>>#selectors
-ExternalBrowser>>#selectors:
-ExternalBrowser>>#showClassSide
-ExternalBrowser>>#title
+ExternalBrowser>>#classesOfPackage:
 ExternalBrowser>>#initialExtent
 ExternalBrowser>>#initializeClassList
 ExternalBrowser>>#initializeMethodBodyPane
@@ -28,70 +18,79 @@ ExternalBrowser>>#initializePresenter
 ExternalBrowser>>#initializeProtocolList
 ExternalBrowser>>#initializeSelectorList
 ExternalBrowser>>#initializeWidgets
-ExternalBrowser>>#refreshClasses:
-ExternalBrowser>>#wireClasses
-ExternalBrowser>>#wirePackages
-ExternalBrowser>>#wireProtocols
-ExternalBrowser>>#wireSelectors
+ExternalBrowser>>#method
+ExternalBrowser>>#method:
+ExternalBrowser>>#methodFor:
+ExternalBrowser>>#model:
+ExternalBrowser>>#packages
 ExternalBrowser>>#populatePackages
+ExternalBrowser>>#protocols
+ExternalBrowser>>#protocolsOfClass:
+ExternalBrowser>>#refreshClasses:
 ExternalBrowser>>#resetClassSelection
 ExternalBrowser>>#resetMethodBodyPane
 ExternalBrowser>>#resetProtocolSelection
 ExternalBrowser>>#resetSelectorSelection
-ExternalBrowser>>#classesOfPackage:
-ExternalBrowser>>#methodFor:
-ExternalBrowser>>#protocolsOfClass:
+ExternalBrowser>>#selectors
+ExternalBrowser>>#selectors:
 ExternalBrowser>>#selectorsOfProtocol:
-ExternalChangesBrowser class>>#openOn:
-ExternalChangesBrowser class>>#defaultSpec
+ExternalBrowser>>#showClassSide
+ExternalBrowser>>#title
+ExternalBrowser>>#wireClasses
+ExternalBrowser>>#wirePackages
+ExternalBrowser>>#wireProtocols
+ExternalBrowser>>#wireSelectors
 ExternalChangesBrowser
-ExternalChangesBrowser>>#changes
-ExternalChangesBrowser>>#codePane
-ExternalChangesBrowser>>#deselectAllButton
-ExternalChangesBrowser>>#fileInSelectedButton
-ExternalChangesBrowser>>#selectAllButton
+ExternalChangesBrowser class>>#defaultSpec
+ExternalChangesBrowser class>>#openOn:
+ExternalChangesBrowser>>#buildMenu:
+ExternalChangesBrowser>>#canCompareToCurrent
 ExternalChangesBrowser>>#changeDescription:
 ExternalChangesBrowser>>#changeSetName:
+ExternalChangesBrowser>>#changes
+ExternalChangesBrowser>>#codePane
+ExternalChangesBrowser>>#compareToCurrent:
+ExternalChangesBrowser>>#deselectAllButton
+ExternalChangesBrowser>>#fileIn:
+ExternalChangesBrowser>>#fileInSelectedButton
 ExternalChangesBrowser>>#initialExtent
 ExternalChangesBrowser>>#initializePresenter
 ExternalChangesBrowser>>#initializeWidgets
-ExternalChangesBrowser>>#buildMenu:
-ExternalChangesBrowser>>#canCompareToCurrent
-ExternalChangesBrowser>>#compareToCurrent:
-ExternalChangesBrowser>>#fileIn:
+ExternalChangesBrowser>>#selectAllButton
+MCMethodDefinition>>#summary
+MCStReader>>#classDefinitionFrom:
+MCStReader>>#classInstVarNamesFor:
+MCStReader>>#commentFor:
+MCStReader>>#commentStampFor:
+MCStReader>>#loadDefinitions
+MCStReader>>#methodDefinitionsFor:
+MCStReaderTest>>#methodWithStyle
+RGBehaviorDefinition>>#hasDefinitionSource
+RGMethodDefinition>>#asMCMethodDefinition
+RingChunkImporter
 RingChunkImporter class>>#fromFileNamed:
 RingChunkImporter class>>#fromStream:
-RingChunkImporter
-RingChunkImporter>>#classes
-RingChunkImporter>>#doIts
-RingChunkImporter>>#packages
-RingChunkImporter>>#initialize
 RingChunkImporter>>#classDefinition:with:
 RingChunkImporter>>#classNamed:
+RingChunkImporter>>#classes
 RingChunkImporter>>#createClassNamed:
 RingChunkImporter>>#createTraitNamed:
+RingChunkImporter>>#doIts
+RingChunkImporter>>#fileInFrom:
+RingChunkImporter>>#fromFileNamed:
+RingChunkImporter>>#initialize
 RingChunkImporter>>#metaClassDefinition:with:
 RingChunkImporter>>#metaTraitDefinition:with:
 RingChunkImporter>>#msgClassComment:with:
+RingChunkImporter>>#packages
 RingChunkImporter>>#removedMethod:with:
 RingChunkImporter>>#scannedSource:
 RingChunkImporter>>#traitDefinition:with:
-RingChunkImporter>>#fileInFrom:
-RingChunkImporter>>#fromFileNamed:
 RingChunkImporter>>#visitClassCommentChunk:
 RingChunkImporter>>#visitClassOrganizationChunk:
 RingChunkImporter>>#visitDoItChunk:
 RingChunkImporter>>#visitMethodChunk:
 RingChunkImporter>>#visitStyleChunk:
-MCStReaderTest>>#methodWithStyle
-MCMethodDefinition>>#summary
-MCStReader>>#loadDefinitions
-MCStReader>>#classDefinitionFrom:
-MCStReader>>#classInstVarNamesFor:
-MCStReader>>#commentFor:
-MCStReader>>#commentStampFor:
-MCStReader>>#methodDefinitionsFor:
-RGMethodDefinition>>#asMCMethodDefinition
-ScriptLoader>>#script50092
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50092
+ScriptLoader>>#update50093

@@ -1,26 +1,25 @@
+ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric>>#version1183:
+RubMethodEditingExample>>#textModel
+RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
+RubPluggableTextMorphExample
 RubTextAreaExamples class>>#interactionModel
+RubTextAreaExamples class>>#simplestEmptyTextField
+RubTextAreaExamples class>>#textFieldWithCRAction
+RubTextFieldExample>>#newScrolledText
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50263
 ScriptLoader>>#update50264
+StandardFileStream>>#nextWordsInto:
+TemporaryVariable
+TemporaryVariable class>>#initialize
 TemporaryVariable class>>#name:block:
 TemporaryVariable class>>#name:method:
+TemporaryVariable>>#=
+TemporaryVariable>>#hash
+TemporaryVariable>>#isFromBlock
+TemporaryVariable>>#link:
 TemporaryVariable>>#method
 TemporaryVariable>>#method:
 TemporaryVariable>>#startpc
 TemporaryVariable>>#startpc:
-TemporaryVariable>>#=
-TemporaryVariable>>#hash
-TemporaryVariable>>#isFromBlock
-ConfigurationOfRubric>>#stable:
-TemporaryVariable>>#link:
-RubMethodEditingExample>>#textModel
-RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
-RubPluggableTextMorphExample
-RubTextAreaExamples class>>#simplestEmptyTextField
-RubTextAreaExamples class>>#textFieldWithCRAction
-RubTextFieldExample>>#newScrolledText
-ScriptLoader>>#script50263
-ScriptLoader>>#commentForCurrentUpdate
-TemporaryVariable class>>#initialize
-TemporaryVariable
-StandardFileStream>>#nextWordsInto:
-ScriptLoader>>#script50263

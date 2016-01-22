@@ -1,11 +1,10 @@
-ConfigurationOfFFINB>>#version093:
 CompiledMethod>>#ffiArgumentNames
-ScriptLoader>>#update50514
 ConfigurationOfFFINB>>#development:
 ConfigurationOfFFINB>>#stable:
-FFICallout>>#sender:
+ConfigurationOfFFINB>>#version093:
 FFICallout>>#indirectLoader:byIndex:
+FFICallout>>#sender:
 FFIExternalStructure class>>#structureSize
-ScriptLoader>>#script50513
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50513
+ScriptLoader>>#update50514

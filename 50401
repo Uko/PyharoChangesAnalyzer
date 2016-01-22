@@ -1,15 +1,14 @@
-FileStream class>>#changesFileSuffixes
-FileStream class>>#isChangesFileSuffix:
+AboutDialogWindow
 AboutDialogWindow class>>#open
 AboutDialogWindow class>>#openForPharo
 AboutDialogWindow>>#defaultLabel
-ScriptLoader>>#update50401
-SmalltalkImage>>#aboutThisSystem
 AbstractNautilusUI
 AbstractNautilusUI>>#classifier
 AbstractNautilusUI>>#initialize
-AboutDialogWindow
-ScriptLoader>>#script50400
-ScriptLoader>>#commentForCurrentUpdate
 ExternalChangesBrowser class>>#fileReaderServicesForFile:suffix:
+FileStream class>>#changesFileSuffixes
+FileStream class>>#isChangesFileSuffix:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50400
+ScriptLoader>>#update50401
+SmalltalkImage>>#aboutThisSystem

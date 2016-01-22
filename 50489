@@ -1,7 +1,6 @@
-NECContextTest>>#testReceiverTempVar3
-ScriptLoader>>#update50489
 NECContext>>#findSourceRangeFor:
+NECContextTest>>#testReceiverTempVar3
 NautilusUI>>#compileSource:notifying:
-ScriptLoader>>#script50488
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50488
+ScriptLoader>>#update50489

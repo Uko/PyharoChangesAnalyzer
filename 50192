@@ -1,26 +1,25 @@
-RBGlobalNode
-RBGlobalNode>>#isGlobal
-RBGlobalNode>>#acceptVisitor:
-RBInstanceVariableNode
-RBInstanceVariableNode>>#isInstance
-RBInstanceVariableNode>>#acceptVisitor:
-TRBProgramNodeVisitor>>#visitGlobalNode:
-TRBProgramNodeVisitor>>#visitInstanceVariableNode:
-ConfigurationOfRubric>>#version116:
 CodeSearchingRule class>>#isVisible
-RFReification>>#genForRBGlobalNode
-RFReification>>#genForRBInstanceVariableNode
-ScriptLoader>>#update50192
 ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric>>#version116:
 MethodWidget>>#invalidateCacheEntryFor:
 OCASTClosureAnalyzer>>#changeVariableClass:
+RBGlobalNode
+RBGlobalNode>>#acceptVisitor:
+RBGlobalNode>>#isGlobal
+RBInstanceVariableNode
+RBInstanceVariableNode>>#acceptVisitor:
+RBInstanceVariableNode>>#isInstance
+RFReification>>#genForRBGlobalNode
+RFReification>>#genForRBInstanceVariableNode
+RubAbstractTextArea
 RubAbstractTextArea class>>#editorFont
 RubAbstractTextArea class>>#rubricSettingsOn:
-RubAbstractTextArea
 RubScrolledTextMorph>>#configureGhostText:
-ScriptLoader>>#script50191
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50191
+ScriptLoader>>#update50192
 SugsMenuBuilderTest>>#testFindBestNodeForClassItsRBVariable
 SugsMenuBuilderTest>>#testFindBestNodeForClassVarItsRBVariable
 SugsMenuBuilderTest>>#testFindBestNodeForInstanceVariableItsRBVariable
-ScriptLoader>>#script50191
+TRBProgramNodeVisitor>>#visitGlobalNode:
+TRBProgramNodeVisitor>>#visitInstanceVariableNode:

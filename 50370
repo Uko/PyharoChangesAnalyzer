@@ -1,18 +1,11 @@
-ScriptLoader>>#update50370
-ThemeIcons class>>#availablePacks
-ThemeIcons class>>#uiFetchPacks
 MetalinkIconStyler
-MetalinkTextSegmentMorph
-ScriptLoader>>#script50369
-ScriptLoader>>#commentForCurrentUpdate
-MetalinkIconStyler
-MetalinkIconStyler>>#iconProvider
-MetalinkIconStyler>>#textModel
-MetalinkIconStyler>>#textModel:
 MetalinkIconStyler>>#addMetalinkMethodStyle:
 MetalinkIconStyler>>#addMetalinkStyle:
 MetalinkIconStyler>>#addMetalinkStyle:from:to:
 MetalinkIconStyler>>#addMetalinkStyle:from:to:color:
+MetalinkIconStyler>>#iconProvider
+MetalinkIconStyler>>#textModel
+MetalinkIconStyler>>#textModel:
 MetalinkIconStyler>>#visitArgumentNode:
 MetalinkIconStyler>>#visitArrayNode:
 MetalinkIconStyler>>#visitAssignmentNode:
@@ -34,4 +27,8 @@ MetalinkIconStyler>>#visitTemporaryNode:
 MetalinkIconStyler>>#visitThisContextNode:
 MetalinkIconStyler>>#visitVariableNode:
 MetalinkTextSegmentMorph
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50369
+ScriptLoader>>#update50370
+ThemeIcons class>>#availablePacks
+ThemeIcons class>>#uiFetchPacks

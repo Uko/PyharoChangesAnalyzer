@@ -1,3 +1,6 @@
+OCSlotVariable>>#specialCommands
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script649
 ScriptLoader>>#update50041
 SugsAbstractContext>>#selectedNode
 SugsBreakpointSuggestion
@@ -7,7 +10,3 @@ SugsBreakpointSuggestion>>#execute
 SugsBreakpointSuggestion>>#label
 SugsBreakpointSuggestion>>#selectedNodeHasMetalink
 SugsSuggestionFactory class>>#createBreakAtLineCommand
-ScriptLoader>>#script649
-ScriptLoader>>#commentForCurrentUpdate
-OCSlotVariable>>#specialCommands
-ScriptLoader>>#script649

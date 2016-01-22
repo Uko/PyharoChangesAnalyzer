@@ -1,35 +1,33 @@
+AbstractNautilusUI
+AbstractNautilusUI>>#buildNewCommentText
+AbstractNautilusUI>>#okToChangeComment
+CompiledMethod>>#containsHalt
+CompiledMethod>>#isScriptMethodWithScript
+KeymapBrowser class>>#keymapBrowserMenuOn:
+KeymapBrowser class>>#taskbarIcon
+MethodClassInitializeAction>>#isActionHandled
+MethodContainsFlagsAction>>#isActionHandled
+MethodContainsHaltAction>>#isActionHandled
+MethodIsExampleAction>>#isActionHandled
+MethodIsScriptAction>>#isActionHandled
 MethodIsScriptAction>>#isScriptMethod
+MethodIsScriptAction>>#privateActionIcon
 MethodIsScriptAction>>#runScript
 MethodIsScriptWithArgumentAction
 MethodIsScriptWithArgumentAction>>#actionOrder
 MethodIsScriptWithArgumentAction>>#isActionHandled
 MethodIsScriptWithArgumentAction>>#privateActionIcon
 MethodIsScriptWithArgumentAction>>#runScript
+MethodOveridesAction>>#isActionHandled
 MethodOveridesAction>>#isOverridden
 MethodOveridesAction>>#isOverride
+NautilusUI class>>#initializeCache
 ScriptLoader>>#addHomeRepositoryToAllPackagesExcept:
 ScriptLoader>>#addRepositoryToPackagesWithConfiguration
-ScriptLoader>>#update50086
-KeymapBrowser class>>#taskbarIcon
-ThemeIcons>>#keymapBrowserIcon
-ThemeIcons>>#keymapBrowserIconContents
-AbstractNautilusUI
-AbstractNautilusUI>>#buildNewCommentText
-AbstractNautilusUI>>#okToChangeComment
-MethodClassInitializeAction>>#isActionHandled
-MethodContainsFlagsAction>>#isActionHandled
-MethodContainsHaltAction>>#isActionHandled
-MethodIsExampleAction>>#isActionHandled
-MethodIsScriptAction>>#isActionHandled
-MethodIsScriptAction>>#privateActionIcon
-CompiledMethod>>#isScriptMethodWithScript
-MethodOveridesAction>>#isActionHandled
-NautilusUI class>>#initializeCache
 ScriptLoader>>#cleanRepositories
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#flushCaches
 ScriptLoader>>#script50085
-ScriptLoader>>#commentForCurrentUpdate
-KeymapBrowser class>>#keymapBrowserMenuOn:
-CompiledMethod>>#containsHalt
-CompiledMethod>>#isScriptMethodWithScript
-ScriptLoader>>#script50085
+ScriptLoader>>#update50086
+ThemeIcons>>#keymapBrowserIcon
+ThemeIcons>>#keymapBrowserIconContents

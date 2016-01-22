@@ -1,16 +1,15 @@
-ScriptLoader>>#update50341
 AbstractClassModification>>#classLayout
 AbstractClassModification>>#classLayout:
 Behavior>>#classLayout
 Behavior>>#classLayout:
-PointTest>>#testToIntersectsTo
 BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
 ManifestOpalCompilerCore class>>#ignoredDependencies
 ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
-ScriptLoader>>#script50340
-ScriptLoader>>#commentForCurrentUpdate
 OCAbstractMethodScope>>#findVariable:ifNone:
 OCClassScope>>#findVariable:ifNone:
 OCInstanceScope>>#findVariable:ifNone:
-SystemDictionary>>#findVariable:ifNone:
+PointTest>>#testToIntersectsTo
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50340
+ScriptLoader>>#update50341
+SystemDictionary>>#findVariable:ifNone:

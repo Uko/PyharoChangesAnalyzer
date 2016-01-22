@@ -1,4 +1,12 @@
-ReflectivityControlTest>>#testBeforeClassVariable
+ChangeRecord>>#fileIn
+ChangeRecord>>#text
+ChangeSet>>#checkForSlips
+ChangeSet>>#hasReportableSlip:
+ClassCategoryReader>>#scanFrom:
+ClassCommentReader>>#scanFrom:
+DangerousClassNotifier class>>#check:
+FileStreamTest>>#testCachingNextChunkPut
+FileStreamTest>>#testNextChunkOutOfBounds
 LiteralVariable>>#afterLinks
 LiteralVariable>>#beforeHooks
 LiteralVariable>>#beforeLinks
@@ -6,45 +14,34 @@ LiteralVariable>>#hasMetalink
 LiteralVariable>>#hasMetalinkAfter
 LiteralVariable>>#hasMetalinkBefore
 LiteralVariable>>#hasMetalinkInstead
+LiteralVariable>>#hasProperty:
 LiteralVariable>>#insteadLinks
 LiteralVariable>>#isCascade
 LiteralVariable>>#methodNode
 LiteralVariable>>#preambles
-ScriptLoader>>#update50246
-LiteralVariable>>#hasProperty:
-Slot>>#hasProperty:
-ChangeSet>>#hasReportableSlip:
-ParseNode>>#printSingleComment:on:indent:
-ClassCategoryReader>>#scanFrom:
-ClassCommentReader>>#scanFrom:
-RBProgramNode>>#hasMetalinkBefore
-ManifestRingCoreKernel class>>#manuallyResolvedDependencies
-RGCommentDefinitionTest>>#testingConversion
-RGMethodDefinitionTest>>#testAsMethodDefinition2
-ScriptLoader>>#script50245
-ScriptLoader>>#commentForCurrentUpdate
-DangerousClassNotifier class>>#check:
-ChangeRecord>>#fileIn
-ChangeSet>>#checkForSlips
-FileStreamTest>>#testCachingNextChunkPut
-FileStreamTest>>#testNextChunkOutOfBounds
-TextStream
-RGCommentDefinition>>#asStringOrText
 MCAddition>>#sourceString
 MCAddition>>#summary
 MCPatchOperation>>#sourceString
 MCPatchOperation>>#summary
 MCRemoval>>#sourceString
+ManifestRingCoreKernel class>>#manuallyResolvedDependencies
+Object>>#asStringOrText
+ParseNode>>#printSingleComment:on:indent:
+RBProgramNode>>#hasMetalinkBefore
+RGCommentDefinition>>#asStringOrText
+RGCommentDefinitionTest>>#testingConversion
+RGMethodDefinition>>#asStringOrText
+RGMethodDefinitionTest>>#testAsMethodDefinition2
+ReflectivityControlTest>>#testBeforeClassVariable
+RemoteString>>#text
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50245
+ScriptLoader>>#update50246
+Slot>>#hasProperty:
+String>>#asStringOrText
 TextStream
-TextStream>>#nextPutAll:
 TextStream>>#applyAttribute:beginningAt:
+TextStream>>#nextPutAll:
 TextStream>>#withAttribute:do:
 TextStream>>#withAttributes:do:
-ChangeRecord>>#text
-Object>>#asStringOrText
-RGCommentDefinition>>#asStringOrText
-RGMethodDefinition>>#asStringOrText
-RemoteString>>#text
-String>>#asStringOrText
 VTermOutputDriver class>>#printText:

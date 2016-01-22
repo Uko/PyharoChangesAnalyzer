@@ -1,17 +1,16 @@
 AbstractFileReference>>#basenameWithoutExtension:
-Path>>#basenameWithoutExtension:
+FileReferenceTest>>#testBasenameWithoutExtension
 MustBeBooleanTests>>#testAnd
 MustBeBooleanTests>>#testOr
 MyBooleanObject>>#and:
-MyBooleanObject>>#or:
-MyBooleanObject>>#not
-ScriptLoader>>#update50026
-FileReferenceTest>>#testBasenameWithoutExtension
-PathTest>>#testBasenameWithoutExtension
-WorldState class>>#saveAs
-RBBlockNode>>#sourceNodeForPC:
-String>>#asPackage
-ScriptLoader>>#script634
-ScriptLoader>>#commentForCurrentUpdate
 MyBooleanObject>>#ifTrue:
+MyBooleanObject>>#not
+MyBooleanObject>>#or:
+Path>>#basenameWithoutExtension:
+PathTest>>#testBasenameWithoutExtension
+RBBlockNode>>#sourceNodeForPC:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script634
+ScriptLoader>>#update50026
+String>>#asPackage
+WorldState class>>#saveAs

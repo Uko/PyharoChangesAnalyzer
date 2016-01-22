@@ -1,6 +1,5 @@
-ScriptLoader>>#update50488
-TextMorph>>#mouseDown:
 RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
-ScriptLoader>>#script50487
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50487
+ScriptLoader>>#update50488
+TextMorph>>#mouseDown:

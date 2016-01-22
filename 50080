@@ -1,30 +1,87 @@
+BehaviorInstallingDeclaration
+BehaviorInstallingDeclaration>>#behaviorName:
+BehaviorInstallingDeclaration>>#existsBehavior
+BehaviorInstallingDeclaration>>#isMeta:
+BehaviorInstallingDeclaration>>#targetClass
 BehaviorOwnedChunk>>#isMeta
+ChunkFileFormatParser>>#parseClassOrganization:
+ChunkFileFormatParser>>#parseCommentDeclaration:
+ChunkFileFormatParser>>#parseDeclarations
+ChunkFileFormatParser>>#parseMethodDeclarations:
+ChunkFileFormatParser>>#parseNextDeclaration
 ClassCommentChunk
-ClassCommentChunk>>#description
-ClassCommentChunk>>#stamp
-ClassCommentChunk>>#isClassCommentDeclaration
 ClassCommentChunk>>#accept:
+ClassCommentChunk>>#description
+ClassCommentChunk>>#isClassCommentDeclaration
+ClassCommentChunk>>#stamp
+ClassCommentDeclaration class>>#contents:behaviorName:isMeta:stamp:
+ClassCommentDeclaration>>#import
+ClassCommentDeclaration>>#stamp:
 ClassOrganizationChunk
+ClassOrganizationChunk>>#accept:
 ClassOrganizationChunk>>#description
 ClassOrganizationChunk>>#isClassOrganizationDeclaration
-ClassOrganizationChunk>>#accept:
+ClassOrganizationDeclaration class>>#contents:behaviorName:isMeta:
+ClassOrganizationDeclaration class>>#contents:organizer:
+ClassOrganizationDeclaration>>#import
+CodeChunk>>#accept:
 CodeChunk>>#isClassCommentDeclaration
 CodeChunk>>#isClassOrganizationDeclaration
 CodeChunk>>#isDoItDeclaration
 CodeChunk>>#isMethodDeclaration
-CodeChunk>>#accept:
+CodeDeclaration
+CodeDeclaration class>>#contents:
+CodeDeclaration>>#contents
+CodeDeclaration>>#contents:
+CodeDeclaration>>#import
+CodeDeclaration>>#importFor:
+CodeDeclaration>>#printOn:
+CodeImporter class>>#fileNamed:
+CodeImporter>>#evaluateDeclarations
 CodeImporter>>#parseChunks
+ConfigurationOfCodeImporter
+ConfigurationOfCodeImporter class>>#DevelopmentSupport
+ConfigurationOfCodeImporter class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfCodeImporter class>>#ensureMetacello
+ConfigurationOfCodeImporter class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfCodeImporter class>>#isMetacelloConfig
+ConfigurationOfCodeImporter class>>#load
+ConfigurationOfCodeImporter class>>#loadBleedingEdge
+ConfigurationOfCodeImporter class>>#loadDevelopment
+ConfigurationOfCodeImporter class>>#project
+ConfigurationOfCodeImporter class>>#validate
+ConfigurationOfCodeImporter>>#baseline10:
+ConfigurationOfCodeImporter>>#customProjectAttributes
+ConfigurationOfCodeImporter>>#project
+ConfigurationOfCodeImporter>>#version100:
+ConfigurationOfCodeImporter>>#version110:
+DoItChunk>>#accept:
 DoItChunk>>#description
 DoItChunk>>#isDoItDeclaration
-DoItChunk>>#accept:
+DoItDeclaration
+DoItDeclaration>>#import
+DoItDeclaration>>#importFor:
+MethodChunk>>#accept:
 MethodChunk>>#category
 MethodChunk>>#description
+MethodChunk>>#isMethodDeclaration
 MethodChunk>>#methodSelector
 MethodChunk>>#stamp
-MethodChunk>>#isMethodDeclaration
-MethodChunk>>#accept:
-StyleChunk>>#description
+MethodDeclaration
+MethodDeclaration class>>#contents:behaviorName:isMeta:category:stamp:
+MethodDeclaration>>#category:
+MethodDeclaration>>#handleMissingBehavior
+MethodDeclaration>>#import
+MethodDeclaration>>#importFor:
+MethodDeclaration>>#stamp:
+STCommandLineHandler>>#installSourceFile:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50079
+ScriptLoader>>#update50080
 StyleChunk>>#accept:
+StyleChunk>>#description
+StyleDeclaration
+StyleDeclaration>>#import
 TChunkVisitor
 TChunkVisitor>>#visitClassCommentChunk:
 TChunkVisitor>>#visitClassOrganizationChunk:
@@ -32,67 +89,3 @@ TChunkVisitor>>#visitCodeChunk:
 TChunkVisitor>>#visitDoItChunk:
 TChunkVisitor>>#visitMethodChunk:
 TChunkVisitor>>#visitStyleChunk:
-ConfigurationOfCodeImporter class>>#project
-ConfigurationOfCodeImporter class>>#DevelopmentSupport
-ConfigurationOfCodeImporter class>>#validate
-ConfigurationOfCodeImporter class>>#load
-ConfigurationOfCodeImporter class>>#loadBleedingEdge
-ConfigurationOfCodeImporter class>>#loadDevelopment
-ConfigurationOfCodeImporter class>>#isMetacelloConfig
-ConfigurationOfCodeImporter class>>#baseConfigurationClassIfAbsent:
-ConfigurationOfCodeImporter class>>#ensureMetacello
-ConfigurationOfCodeImporter class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfCodeImporter
-ConfigurationOfCodeImporter>>#customProjectAttributes
-ConfigurationOfCodeImporter>>#project
-ConfigurationOfCodeImporter>>#baseline10:
-ConfigurationOfCodeImporter>>#version100:
-ConfigurationOfCodeImporter>>#version110:
-ScriptLoader>>#update50080
-BehaviorInstallingDeclaration
-ChunkFileFormatParser>>#parseDeclarations
-ChunkFileFormatParser>>#parseClassOrganization:
-ChunkFileFormatParser>>#parseCommentDeclaration:
-ChunkFileFormatParser>>#parseMethodDeclarations:
-ChunkFileFormatParser>>#parseNextDeclaration
-CodeDeclaration
-CodeImporter class>>#fileNamed:
-CodeImporter>>#evaluateDeclarations
-StyleDeclaration
-MethodDeclaration
-STCommandLineHandler>>#installSourceFile:
-DoItDeclaration
-ScriptLoader>>#script50079
-ScriptLoader>>#commentForCurrentUpdate
-BehaviorInstallingDeclaration
-BehaviorInstallingDeclaration>>#behaviorName:
-BehaviorInstallingDeclaration>>#isMeta:
-BehaviorInstallingDeclaration>>#targetClass
-BehaviorInstallingDeclaration>>#existsBehavior
-ChunkFileFormatParser>>#parseDeclarations
-ClassCommentDeclaration class>>#contents:behaviorName:isMeta:stamp:
-ClassCommentDeclaration>>#stamp:
-ClassCommentDeclaration>>#import
-ClassOrganizationDeclaration class>>#contents:behaviorName:isMeta:
-ClassOrganizationDeclaration class>>#contents:organizer:
-ClassOrganizationDeclaration>>#import
-CodeDeclaration class>>#contents:
-CodeDeclaration
-CodeDeclaration>>#contents
-CodeDeclaration>>#contents:
-CodeDeclaration>>#import
-CodeDeclaration>>#importFor:
-CodeDeclaration>>#printOn:
-StyleDeclaration
-MethodDeclaration>>#import
-DoItDeclaration>>#importFor:
-MethodDeclaration class>>#contents:behaviorName:isMeta:category:stamp:
-MethodDeclaration
-MethodDeclaration>>#category:
-MethodDeclaration>>#stamp:
-MethodDeclaration>>#handleMissingBehavior
-DoItDeclaration>>#import
-MethodDeclaration>>#importFor:
-DoItDeclaration
-StyleDeclaration>>#import
-ScriptLoader>>#script50079

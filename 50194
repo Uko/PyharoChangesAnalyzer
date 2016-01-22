@@ -1,20 +1,19 @@
 ConfigurationOfTxText>>#version211:
+DropListExample>>#initializeWidgets
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50193
 ScriptLoader>>#update50194
+SettingBrowser class>>#viewAllSettings
+SettingDeclaration>>#displayExportAction
+SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
+SimulateMouseSpecification>>#testSimulateRightClick
+StartupPreferencesLoader class>>#example
+TxScrollbarDecorator>>#initScrollbar
+TxScrollbarDecorator>>#setContainer:
+TxScrollbarDecorator>>#setupView:
 TxSlider class>>#test
 TxTextStyler>>#addAttribute:startPosition:stopPosition:
 TxTextStyler>>#addAttributes:startPosition:stopPosition:
 TxTextStyler>>#addStyle:startPosition:stopPosition:
-SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
-SimulateMouseSpecification>>#testSimulateRightClick
-ScriptLoader>>#script50193
-ScriptLoader>>#commentForCurrentUpdate
-DropListExample>>#initializeWidgets
-StartupPreferencesLoader class>>#example
-SettingDeclaration>>#displayExportAction
-SettingBrowser class>>#viewAllSettings
-TxWorkspace>>#wireEvents
-TxScrollbarDecorator>>#setContainer:
-TxScrollbarDecorator>>#setupView:
-TxScrollbarDecorator>>#initScrollbar
 TxTextStyler>>#visitMessageNode:
-ScriptLoader>>#script50193
+TxWorkspace>>#wireEvents

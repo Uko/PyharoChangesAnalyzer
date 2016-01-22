@@ -1,15 +1,25 @@
+BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant>>#stable:
 ConfigurationOfQualityAssistant>>#v1_2_2:
+ConfigurationOfRenraku>>#stable:
 ConfigurationOfRenraku>>#v0_4_1:
 LiteralVariable>>#clearReflectivityAnnotations
+LiteralVariable>>#link:
 LiteralVariable>>#links
-LiteralVariable>>#removeLink:
-ReEngine class>>#reset
-ReEngine class>>#cleanUp
-ScriptLoader>>#update50235
-SlotTest
-SlotTest>>#testPropertyAtPut
-SlotTest>>#testRemoveProperty
 LiteralVariable>>#propertyAt:ifAbsentPut:
+LiteralVariable>>#propertyAt:put:
+LiteralVariable>>#removeLink:
+LiteralVariable>>#removePropertiesIfEmpty
+ReEngine class>>#cleanUp
+ReEngine class>>#reset
+ReflectiveMethodTest>>#testSetLinkOnClassVariable
+ReflectiveMethodTest>>#testSetLinkOnClassVariableAndUninstall
+ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
+ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50234
+ScriptLoader>>#update50235
+Slot
 Slot class>>#initialize
 Slot class>>#initializeProperties
 Slot>>#ensureProperties
@@ -20,17 +30,6 @@ Slot>>#propertyAt:put:
 Slot>>#removePropertiesIfEmpty
 Slot>>#removeProperty:
 Slot>>#removeProperty:ifAbsent:
-BaselineOfQualityAssistant>>#baseline:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfRenraku>>#stable:
-ReflectiveMethodTest>>#testSetLinkOnClassVariable
-ReflectiveMethodTest>>#testSetLinkOnClassVariableAndUninstall
-ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
-ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
-LiteralVariable>>#link:
-ScriptLoader>>#script50234
-ScriptLoader>>#commentForCurrentUpdate
-LiteralVariable>>#propertyAt:put:
-LiteralVariable>>#removePropertiesIfEmpty
-Slot
-ScriptLoader>>#script50234
+SlotTest
+SlotTest>>#testPropertyAtPut
+SlotTest>>#testRemoveProperty

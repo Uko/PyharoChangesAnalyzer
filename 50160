@@ -1,80 +1,79 @@
+AssemblyManifest
+AssemblyManifest class>>#description
+AssemblyManifest class>>#manifestClassComment
+AssemblyManifest class>>#newNamed:category:
+AssemblyManifest class>>#packageName
+AssemblyManifest class>>#parts
+AssemblyManifest class>>#version
+CollectionsAssembly
 CollectionsAssembly class>>#description
 CollectionsAssembly class>>#packageName
 CollectionsAssembly class>>#parts
 CollectionsAssembly class>>#version
-CollectionsAssembly
+Job>>#owner
+JobTest>>#testOwner
+ManifestCollectionsAbstract
 ManifestCollectionsAbstract class>>#dependencies
 ManifestCollectionsAbstract class>>#packageName
-ManifestCollectionsAbstract
+ManifestCollectionsArithmetic
 ManifestCollectionsArithmetic class>>#dependencies
 ManifestCollectionsArithmetic class>>#description
 ManifestCollectionsArithmetic class>>#packageName
-ManifestCollectionsArithmetic
+ManifestCollectionsAtomic
 ManifestCollectionsAtomic class>>#dependencies
 ManifestCollectionsAtomic class>>#packageName
-ManifestCollectionsAtomic
+ManifestCollectionsNative
 ManifestCollectionsNative class>>#dependencies
 ManifestCollectionsNative class>>#description
 ManifestCollectionsNative class>>#packageName
-ManifestCollectionsNative
+ManifestCollectionsSequenceable
 ManifestCollectionsSequenceable class>>#dependencies
 ManifestCollectionsSequenceable class>>#description
 ManifestCollectionsSequenceable class>>#packageName
-ManifestCollectionsSequenceable
+ManifestCollectionsStack
 ManifestCollectionsStack class>>#dependencies
 ManifestCollectionsStack class>>#description
 ManifestCollectionsStack class>>#packageName
-ManifestCollectionsStack
+ManifestCollectionsStreams
 ManifestCollectionsStreams class>>#dependencies
 ManifestCollectionsStreams class>>#description
 ManifestCollectionsStreams class>>#packageName
-ManifestCollectionsStreams
+ManifestCollectionsStrings
 ManifestCollectionsStrings class>>#dependencies
 ManifestCollectionsStrings class>>#description
 ManifestCollectionsStrings class>>#packageName
-ManifestCollectionsStrings
+ManifestCollectionsSupport
 ManifestCollectionsSupport class>>#dependencies
 ManifestCollectionsSupport class>>#description
 ManifestCollectionsSupport class>>#packageName
-ManifestCollectionsSupport
-ManifestCollectionsUnordered class>>#dependencies
-ManifestCollectionsUnordered class>>#description
-ManifestCollectionsUnordered class>>#packageName
-ManifestCollectionsUnordered
-ManifestCollectionsWeak class>>#dependencies
-ManifestCollectionsWeak class>>#description
-ManifestCollectionsWeak class>>#packageName
-ManifestCollectionsWeak
+ManifestCollectionsTests
 ManifestCollectionsTests class>>#dependencies
 ManifestCollectionsTests class>>#description
 ManifestCollectionsTests class>>#packageName
-ManifestCollectionsTests
-Job>>#owner
-JobTest>>#testOwner
-AssemblyManifest class>>#description
-AssemblyManifest class>>#packageName
-AssemblyManifest class>>#parts
-AssemblyManifest class>>#version
-AssemblyManifest class>>#manifestClassComment
-AssemblyManifest class>>#newNamed:category:
-AssemblyManifest
+ManifestCollectionsUnordered
+ManifestCollectionsUnordered class>>#dependencies
+ManifestCollectionsUnordered class>>#description
+ManifestCollectionsUnordered class>>#packageName
+ManifestCollectionsWeak
+ManifestCollectionsWeak class>>#dependencies
+ManifestCollectionsWeak class>>#description
+ManifestCollectionsWeak class>>#packageName
 ManifestKernel class>>#dependencies
 ManifestKernel class>>#description
 ManifestKernel class>>#packageName
+ManifestKernel class>>#ruleConsistencyCheckRuleV1FalsePositive
+ManifestKernel class>>#ruleEqualsTrueRuleV1FalsePositive
+ManifestKernel class>>#ruleLongMethodsRuleV1FalsePositive
+ManifestKernelTests class>>#dependencies
+ManifestKernelTests class>>#description
+ManifestKernelTests class>>#packageName
+NautilusAnnotationDisplayer>>#noteNewOwner:
+NautilusAnnotationDisplayer>>#toggleFormatAsYouRead
+PharoKernelAssembly
 PharoKernelAssembly class>>#description
 PharoKernelAssembly class>>#packageName
 PharoKernelAssembly class>>#parts
 PharoKernelAssembly class>>#version
-PharoKernelAssembly
-ManifestKernelTests class>>#dependencies
-ManifestKernelTests class>>#description
-ManifestKernelTests class>>#packageName
-ScriptLoader>>#update50160
-NautilusAnnotationDisplayer>>#noteNewOwner:
-NautilusAnnotationDisplayer>>#toggleFormatAsYouRead
-ScriptLoader>>#script50159
 ScriptLoader>>#commentForCurrentUpdate
-ManifestKernel class>>#ruleConsistencyCheckRuleV1FalsePositive
-ManifestKernel class>>#ruleEqualsTrueRuleV1FalsePositive
-ManifestKernel class>>#ruleLongMethodsRuleV1FalsePositive
 ScriptLoader>>#script50159
+ScriptLoader>>#update50160

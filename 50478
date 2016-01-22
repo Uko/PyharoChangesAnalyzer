@@ -1,8 +1,7 @@
-Breakpoint class>>#browseAll
-ScriptLoader>>#update50478
-MenuItemMorph>>#activateOwnerMenu:
 AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+Breakpoint class>>#browseAll
+MenuItemMorph>>#activateOwnerMenu:
 RubScrolledTextMorph>>#beForSmalltalkCode
-ScriptLoader>>#script50477
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50477
+ScriptLoader>>#update50478

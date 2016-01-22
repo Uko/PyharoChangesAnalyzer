@@ -1,11 +1,10 @@
-ConfigurationOfGlamourCore>>#version314:
-ScriptLoader>>#update50076
 ConfigurationOfGlamourCore>>#baseline32:
 ConfigurationOfGlamourCore>>#development:
 ConfigurationOfGlamourCore>>#stable:
-UnixPlatform>>#menuShortcutModifierString
-Win32Platform>>#menuShortcutModifierString
+ConfigurationOfGlamourCore>>#version314:
 MenuItemMorph>>#activateOwnerMenu:
-ScriptLoader>>#script50075
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50075
+ScriptLoader>>#update50076
+UnixPlatform>>#menuShortcutModifierString
+Win32Platform>>#menuShortcutModifierString

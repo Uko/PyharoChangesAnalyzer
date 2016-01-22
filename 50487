@@ -1,6 +1,5 @@
-ScriptLoader>>#update50487
 Morph>>#handlesMouseMove:
-ScriptLoader>>#script50486
-ScriptLoader>>#commentForCurrentUpdate
 SHTextStylerST80 class>>#initialize
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50486
+ScriptLoader>>#update50487

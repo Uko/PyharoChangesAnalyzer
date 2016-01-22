@@ -1,35 +1,34 @@
-ReflectivityReificationTest>>#testReifyGlobalVariableName
-ReflectivityReificationTest>>#testReifyGlobalVariableValue
+HookGenerator
+HookGenerator>>#genReification:for:
 HookGeneratorForVariables
+RFNameReification class>>#nodes
 RFNameReification>>#genForLiteralVariable
 RFReification>>#genForClassVariable
 RFReification>>#genForLiteralVariable
+RFSemanticAnalyzer>>#analyseForLinks:generator:
 RFSemanticAnalyzer>>#analyseForLinksForNodes:
 RFSemanticAnalyzer>>#analyseForLinksForVariables:
-RFSemanticAnalyzer>>#analyseForLinks:generator:
-RFValueReification>>#genForLiteralVariable
-ScriptLoader>>#update50342
-ReflectivityControlTest>>#testBeforeClassVariable
-ReflectivityExamples>>#initialize
-ReflectivityReificationTest>>#tearDown
-HookGenerator
-HookGenerator>>#genReification:for:
-RFNameReification class>>#nodes
 RFSemanticAnalyzer>>#visitMethodNode:
 RFSemanticAnalyzer>>#visitNode:
 RFSemanticAnalyzer>>#visitVarWrite:
 RFSemanticAnalyzer>>#visitVariableNode:
 RFValueReification class>>#nodes
+RFValueReification>>#genForLiteralVariable
 RFValueReification>>#preamble:
-ScriptLoader>>#script50341
-ScriptLoader>>#commentForCurrentUpdate
+ReflectivityControlTest>>#testBeforeClassVariable
+ReflectivityExamples>>#initialize
+ReflectivityReificationTest>>#tearDown
 ReflectivityReificationTest>>#testReifyGlobalName
 ReflectivityReificationTest>>#testReifyGlobalValue
 ReflectivityReificationTest>>#testReifyGlobalVariable
+ReflectivityReificationTest>>#testReifyGlobalVariableName
+ReflectivityReificationTest>>#testReifyGlobalVariableValue
 ReflectivityReificationTest>>#testReifyIvarName
 ReflectivityReificationTest>>#testReifyIvarValue
 ReflectivityReificationTest>>#testReifyIvarVariable
 ReflectivityReificationTest>>#testReifyTempName
 ReflectivityReificationTest>>#testReifyTempNewValue
 ReflectivityReificationTest>>#testReifyTempValue
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50341
+ScriptLoader>>#update50342

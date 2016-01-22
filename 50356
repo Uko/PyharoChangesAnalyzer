@@ -1,45 +1,12 @@
-ThemeIconPack class>>#availablePacks
-ThemeIconPack class>>#baseUrl
-ThemeIconPack class>>#destinationPath
-ThemeIconPack class>>#current
-ThemeIconPack class>>#current:
-ThemeIconPack class>>#named:
-ThemeIconPack class>>#loadDefault
-ThemeIconPack class>>#uiIconSetChoises
-ThemeIconPack
-ThemeIconPack>>#beCurrent
-ThemeIconPack>>#blankIcon
-ThemeIconPack>>#iconNamed:
-ThemeIconPack>>#iconNamed:ifNone:
-ThemeIconPack>>#icons
-ThemeIconPack>>#name
-ThemeIconPack>>#name:
-ThemeIconPack>>#url
-ThemeIconPack>>#loadIconsFromUrl
-ThemeIconPack>>#printOn:
-ThemeIconPack>>#downloadTo:
-ThemeIconPack>>#readPNGFrom:
-ThemeIconPack>>#doesNotUnderstand:
-ThemeIconPack>>#hasIcons
-ThemeIconPack>>#blankIconOfWidth:
-ThemeIconPack>>#form16x16FromContents:
-ThemeIcons>>#exportIconPackOn:
-ThemeIcons>>#selectorToIconName:
-ThemeIcons>>#selectorsAndIcons
-ThemeIcons>>#form16x16FromContents:
-ScriptLoader>>#update50356
-KomitRemote class>>#icon
-KomitterUI class>>#manageRemotesIcon
-RemotesManager class>>#addRemoteIcon
-RemotesManager class>>#editRemoteIcon
-RemotesManager class>>#removeRemoteIcon
-EclipseUIThemeIcons>>#historyIcon
-EclipseUIThemeIcons>>#komitterIcon
 DialogGroupManagerWithPackagesSelectionUI>>#buildAddButton
 DialogGroupManagerWithPackagesSelectionUI>>#buildAddSelectedPackageInSelectedGroupButton
 DialogGroupManagerWithPackagesSelectionUI>>#buildEmptyGroupButton
 DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveSelectedPackageFromSelectedGroupButton
 DialogGroupManagerWithPackagesSelectionUI>>#buildRenameButton
+EclipseUIThemeIcons>>#historyIcon
+EclipseUIThemeIcons>>#komitterIcon
+KomitRemote class>>#icon
+KomitterUI class>>#manageRemotesIcon
 Pharo3DarkTheme>>#checkboxSelectedForm
 Pharo3DarkTheme>>#checkboxUnselectedForm
 Pharo3DarkTheme>>#menuPinForm
@@ -70,10 +37,41 @@ Pharo3Theme>>#radioButtonSelectedForm
 Pharo3Theme>>#windowClosePassiveForm
 Pharo3Theme>>#windowMaximizePassiveForm
 Pharo3Theme>>#windowMinimizePassiveForm
-ThemeIcons class>>#settingsOn:
-ScriptLoader>>#script50355
+RemotesManager class>>#addRemoteIcon
+RemotesManager class>>#editRemoteIcon
+RemotesManager class>>#removeRemoteIcon
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50355
+ScriptLoader>>#update50356
+ThemeIconPack
+ThemeIconPack class>>#availablePacks
+ThemeIconPack class>>#baseUrl
+ThemeIconPack class>>#current
+ThemeIconPack class>>#current:
+ThemeIconPack class>>#destinationPath
+ThemeIconPack class>>#loadDefault
+ThemeIconPack class>>#named:
+ThemeIconPack class>>#uiIconSetChoises
+ThemeIconPack>>#beCurrent
+ThemeIconPack>>#blankIcon
+ThemeIconPack>>#blankIconOfWidth:
+ThemeIconPack>>#doesNotUnderstand:
+ThemeIconPack>>#downloadTo:
+ThemeIconPack>>#form16x16FromContents:
+ThemeIconPack>>#hasIcons
+ThemeIconPack>>#iconNamed:
+ThemeIconPack>>#iconNamed:ifNone:
+ThemeIconPack>>#icons
+ThemeIconPack>>#loadIconsFromUrl
+ThemeIconPack>>#name
+ThemeIconPack>>#name:
+ThemeIconPack>>#printOn:
+ThemeIconPack>>#readPNGFrom:
+ThemeIconPack>>#url
 ThemeIcons class>>#settingsOn:
 ThemeIcons class>>#uiIconClass
 ThemeIcons class>>#uiIconClass:
-ScriptLoader>>#script50355
+ThemeIcons>>#exportIconPackOn:
+ThemeIcons>>#form16x16FromContents:
+ThemeIcons>>#selectorToIconName:
+ThemeIcons>>#selectorsAndIcons

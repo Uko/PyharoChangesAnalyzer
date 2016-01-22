@@ -1,6 +1,5 @@
-ScriptLoader>>#update50425
 RBSmalllintChecker class>>#runRule:onEnvironment:
 RBSmalllintChecker>>#run
-ScriptLoader>>#script50424
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50424
+ScriptLoader>>#update50425

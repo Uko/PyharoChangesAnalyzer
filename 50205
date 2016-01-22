@@ -1,5 +1,6 @@
-MultiByteFileStreamFileOutTestClass class>>#scriptName
+EyeInspectorTest>>#instancesToTry
 MultiByteFileStreamFileOutTestClass
+MultiByteFileStreamFileOutTestClass class>>#scriptName
 MultiByteFileStreamTest>>#fileOutTestClass
 MultiByteFileStreamTest>>#testFileOutNonAscii
 MultiByteFileStreamTest>>#testNext
@@ -13,20 +14,18 @@ MultiByteFileStreamTest>>#testReset
 MultiByteFileStreamTest>>#testUpToAnyOfDo
 MultiByteFileStreamTest>>#testUpToEnd
 ReflectivityControlTest>>#testAfterSequence
-ScriptLoader>>#update50205
+SHRBTextStyler
+SHRBTextStyler>>#style:ast:
 SHRBTextStyler>>#styleCloseBracket:
 SHRBTextStyler>>#styleCloseParenthese:
 SHRBTextStyler>>#styleOpenBracket:
 SHRBTextStyler>>#styleOpenParenthese:
-TextMorph>>#mouseDown:
-ScriptLoader>>#script50204
-ScriptLoader>>#commentForCurrentUpdate
-SHRBTextStyler
-SHRBTextStyler>>#style:ast:
 SHRBTextStyler>>#visitBlockNode:
 SHRBTextStyler>>#visitMessageNode:
 SHRBTextStyler>>#visitSequenceNode:
 SHTextStylerST80 class>>#initialize
 SHTextStylerST80 class>>#unload
-EyeInspectorTest>>#instancesToTry
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50204
+ScriptLoader>>#update50205
+TextMorph>>#mouseDown:

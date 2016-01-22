@@ -1,10 +1,9 @@
-ConfigurationOfVersionner>>#version2137:
-TBehavior>>#methodDictAddSelectorSilently:withMethod:
-ScriptLoader>>#update50439
-TClass>>#subclass:uses:instanceVariableNames:classVariableNames:package:
 ConfigurationOfVersionner>>#stable:
-ScriptLoader>>#script50438
-ScriptLoader>>#commentForCurrentUpdate
-MTDependency>>#=
+ConfigurationOfVersionner>>#version2137:
 MBGroupInfo>>#name
+MTDependency>>#=
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50438
+ScriptLoader>>#update50439
+TBehavior>>#methodDictAddSelectorSilently:withMethod:
+TClass>>#subclass:uses:instanceVariableNames:classVariableNames:package:

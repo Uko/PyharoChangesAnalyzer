@@ -1,10 +1,9 @@
-FFIMethodRegistry class>>#cleanUp:
-ScriptLoader>>#update50500
+ExternalData>>#+
 FFICalloutAPI>>#function:module:
+FFIMethodRegistry class>>#cleanUp:
 FFIMethodRegistry>>#checkPlatform
 FFIMethodRegistry>>#reset
-ExternalData>>#+
-ScriptLoader>>#script50499
 ScriptLoader>>#commentForCurrentUpdate
-Win32Environment>>#getEnv:
 ScriptLoader>>#script50499
+ScriptLoader>>#update50500
+Win32Environment>>#getEnv:

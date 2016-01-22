@@ -1,14 +1,12 @@
 LayoutFrame class>>#fractions:
+LayoutFrame class>>#fractions:offsets:
 LayoutFrame class>>#offsets:
 LayoutFrame>>#=
+LayoutFrame>>#bottomFraction
 LayoutFrame>>#hash
 LayoutFrameTest>>#testIdentity
-ScriptLoader>>#update50520
-LayoutFrame class>>#fractions:offsets:
-LayoutFrame>>#bottomFraction
-PaginatedMorphTreeMorphTests>>#testPager
 PaginatedMorphTreeModel class>>#example
-ScriptLoader>>#script50519
+PaginatedMorphTreeMorphTests>>#testPager
 ScriptLoader>>#commentForCurrentUpdate
-LayoutFrame class>>#fractions:offsets:
 ScriptLoader>>#script50519
+ScriptLoader>>#update50520

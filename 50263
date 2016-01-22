@@ -1,11 +1,10 @@
-MCPatchOperation>>#source
-ScriptLoader>>#update50263
 CustomHelp class>>#icon
-Halt class>>#ifShiftPressed
-Object>>#haltIfShiftPressed
-MCPatchOperation>>#initialize
-ScriptLoader>>#script50262
-ScriptLoader>>#commentForCurrentUpdate
 ExternalBrowser class>>#serviceBrowseCode
+Halt class>>#ifShiftPressed
+MCPatchOperation>>#initialize
+MCPatchOperation>>#source
 MCPatchOperation>>#sourceText
+Object>>#haltIfShiftPressed
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50262
+ScriptLoader>>#update50263

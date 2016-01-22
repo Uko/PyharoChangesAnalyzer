@@ -1,45 +1,41 @@
-ScriptLoader>>#update50391
-SpecWindowTest
-SpecWindowTest>>#testIsDisplayed
 CategoryWidget>>#openFloatingEditorToRenameAtIndex:
 ClassWidget>>#openFloatingEditorToRenameAtIndex:
-MethodWidget>>#openFloatingEditorToRenameAtIndex:
-Random
-SharedRandom
-RandomTest
-ScriptLoader>>#script50390
-ScriptLoader>>#commentForCurrentUpdate
-WindowModel>>#isDisplayed
-Random class>>#seed:
-Random class>>#bucketTest:
-Random
-Random>>#next
-Random>>#nextInt:
-Random>>#next:
-Random>>#next:into:
-Random>>#initialize
-Random>>#seed:
-Random>>#privateNextSeed
-Random>>#privateNextValue
-Random>>#seed
-SharedRandom class>>#globalGenerator
-SharedRandom class>>#initialize
-SharedRandom
-SharedRandom>>#next
-SharedRandom>>#nextInt:
-SharedRandom>>#next:into:
-SharedRandom>>#initialize
 Collection>>#atRandom
 Collection>>#atRandom:
 Integer>>#atRandom
 Integer>>#atRandom:
 Matrix>>#atRandom
 Matrix>>#atRandom:
-SequenceableCollection>>#atRandom:
-Set>>#atRandom:
+MethodWidget>>#openFloatingEditorToRenameAtIndex:
+Random
+Random class>>#bucketTest:
+Random class>>#seed:
+Random>>#initialize
+Random>>#next
+Random>>#next:
+Random>>#next:into:
+Random>>#nextInt:
+Random>>#privateNextSeed
+Random>>#privateNextValue
+Random>>#seed
+Random>>#seed:
 RandomTest
 RandomTest>>#setUp
 RandomTest>>#testIfCompletelyBroken
 RandomTest>>#testNext
-SetTest>>#testAtRandom
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50390
+ScriptLoader>>#update50391
+SequenceableCollection>>#atRandom:
+Set>>#atRandom:
+SetTest>>#testAtRandom
+SharedRandom
+SharedRandom class>>#globalGenerator
+SharedRandom class>>#initialize
+SharedRandom>>#initialize
+SharedRandom>>#next
+SharedRandom>>#next:into:
+SharedRandom>>#nextInt:
+SpecWindowTest
+SpecWindowTest>>#testIsDisplayed
+WindowModel>>#isDisplayed

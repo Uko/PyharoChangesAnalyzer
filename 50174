@@ -1,7 +1,6 @@
-MCOrganizationDefinition>>#fullDescription
-ScriptLoader>>#update50174
-SparseLargeTable>>#zapDefaultOnlyEntries
 MCOrganizationDefinition>>#description
-ScriptLoader>>#script50173
+MCOrganizationDefinition>>#fullDescription
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50173
+ScriptLoader>>#update50174
+SparseLargeTable>>#zapDefaultOnlyEntries

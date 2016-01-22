@@ -1,10 +1,9 @@
-FreeTypeSettings>>#useSubPixelAntiAliasing
-ScriptLoader>>#update50002
+BitBlt>>#installFreeTypeFont:foregroundColor:backgroundColor:
 FreeTypeFont>>#displayLineGlyphOn:from:to:
 FreeTypeFont>>#displayString:on:from:to:at:kern:baselineY:
 FreeTypeFont>>#glyphOf:destDepth:colorValue:subpixelPosition:
 FreeTypeSettings>>#subPixelAntiAliasing
-BitBlt>>#installFreeTypeFont:foregroundColor:backgroundColor:
-ScriptLoader>>#script610
+FreeTypeSettings>>#useSubPixelAntiAliasing
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script610
+ScriptLoader>>#update50002

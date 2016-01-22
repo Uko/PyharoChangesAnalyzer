@@ -1,4 +1,14 @@
+ChangesBrowser
+ChangesBrowser class>>#defaultSpec
+ChangesBrowser>>#accept
+ChangesBrowser>>#cancel
 ChangesBrowser>>#changes
+ChangesBrowser>>#changes:
+ChangesBrowser>>#initializePresenter
+ChangesBrowser>>#open
+ChangesBrowser>>#pickedChanges
+ChangesBrowser>>#scopeChooser
+ChangesBrowser>>#setFocus
 ChangesBrowserTest
 ChangesBrowserTest>>#setUp
 ChangesBrowserTest>>#testBuildDiffFor
@@ -6,38 +16,23 @@ ChangesBrowserTest>>#testChanges
 ChangesBrowserTest>>#testInitializeWidgets
 ChangesBrowserTest>>#testPickedChanges
 ChangesBrowserTest>>#testPickedChangesAfterSelect
-LessonView>>#doItContext
-LessonView>>#doItReceiver
-LessonView>>#selectedClassOrMetaClass
-LessonView>>#sourceTextModel
+ExternalChangesBrowser>>#initializePresenter
+LessonView
 LessonView>>#buildText
 LessonView>>#buildWindow
+LessonView>>#close
+LessonView>>#doItContext
+LessonView>>#doItReceiver
 LessonView>>#initialize
-ProfStef class>>#default
-ProfStef class>>#aboutPharoZen
-ProfStef class>>#menuCommandOn:
-ScriptLoader>>#update50166
-ChangesBrowser class>>#defaultSpec
-ChangesBrowser
-ChangesBrowser>>#changes:
-ChangesBrowser>>#pickedChanges
-ChangesBrowser>>#scopeChooser
-ChangesBrowser>>#accept
-ChangesBrowser>>#cancel
-ChangesBrowser>>#initializePresenter
-ChangesBrowser>>#setFocus
-ChangesBrowser>>#open
-OCUndeclaredVariableWarning>>#defineClass:
-OCUndeclaredVariableWarning>>#openMenuIn:
-LessonView
+LessonView>>#open
+LessonView>>#selectedClassOrMetaClass
 LessonView>>#shoutMorph
+LessonView>>#showLesson:withTitle:
+LessonView>>#sourceTextModel
 LessonView>>#text
 LessonView>>#window
-LessonView>>#close
-LessonView>>#open
-LessonView>>#showLesson:withTitle:
-PharoSyntaxTutorial>>#divideTwoByZero
-PharoSyntaxTutorial>>#prepareDebuggerExample
+OCUndeclaredVariableWarning>>#defineClass:
+OCUndeclaredVariableWarning>>#openMenuIn:
 PharoSyntaxTutorial>>#basicTypesArray
 PharoSyntaxTutorial>>#basicTypesCharacters
 PharoSyntaxTutorial>>#basicTypesDynamicArray
@@ -47,6 +42,7 @@ PharoSyntaxTutorial>>#basicTypesSymbol
 PharoSyntaxTutorial>>#blocks
 PharoSyntaxTutorial>>#blocksAssignation
 PharoSyntaxTutorial>>#conditionals
+PharoSyntaxTutorial>>#divideTwoByZero
 PharoSyntaxTutorial>>#doingVSPrinting
 PharoSyntaxTutorial>>#inspecting
 PharoSyntaxTutorial>>#instantiation
@@ -61,12 +57,43 @@ PharoSyntaxTutorial>>#messageSyntaxExecutionOrderParentheses
 PharoSyntaxTutorial>>#messageSyntaxKeyword
 PharoSyntaxTutorial>>#messageSyntaxUnary
 PharoSyntaxTutorial>>#pharoEnvironment
+PharoSyntaxTutorial>>#prepareDebuggerExample
 PharoSyntaxTutorial>>#printing
 PharoSyntaxTutorial>>#reflection
 PharoSyntaxTutorial>>#reflectionContinued
 PharoSyntaxTutorial>>#theEnd
 PharoSyntaxTutorial>>#welcome
-ProfStef
+PharoTutorial class>>#contents
+PharoTutorial class>>#first
+PharoTutorial class>>#go
+PharoTutorial class>>#goOn:
+PharoTutorial class>>#last
+PharoTutorial class>>#next
+PharoTutorial class>>#openPharoZenWorkspace
+PharoTutorial class>>#pharoZenValues
+PharoTutorial class>>#pharoZenValuesContents
+PharoTutorial class>>#previous
+PharoTutorial class>>#reset
+PharoTutorial class>>#tutorial:lesson:
+PharoTutorial class>>#tutorial:lessonAt:
+PharoTutorial>>#close
+PharoTutorial>>#first
+PharoTutorial>>#go
+PharoTutorial>>#goOn:
+PharoTutorial>>#helpBrowserWindow
+PharoTutorial>>#last
+PharoTutorial>>#lessonView
+PharoTutorial>>#lessonView:
+PharoTutorial>>#next
+PharoTutorial>>#open
+PharoTutorial>>#player
+PharoTutorial>>#player:
+PharoTutorial>>#previous
+PharoTutorial>>#showCurrentLesson
+PharoTutorial>>#tutorial:lesson:
+PharoTutorial>>#tutorial:lessonAt:
+PharoTutorial>>#tutorialPositionString
+PharoTutorial>>#tutorialSizeString
 PharoTutorialTestGo>>#tearDown
 PharoTutorialTestGo>>#testGoOnMockTutorial
 PharoTutorialTestGo>>#testGoOpenSmalltalkSyntaxTutorial
@@ -80,38 +107,10 @@ PharoTutorialTestGoOnMockTutorial>>#testLastThenFirstShouldGoToFirstLesson
 PharoTutorialTestGoOnMockTutorial>>#testLastThenPreviousShouldGoToSecondLesson
 PharoTutorialTestGoOnMockTutorial>>#testNextShouldGoToSecondLesson
 PharoTutorialTestNavigation>>#setUp
-ScriptLoader>>#script50165
+ProfStef
+ProfStef class>>#aboutPharoZen
+ProfStef class>>#default
+ProfStef class>>#menuCommandOn:
 ScriptLoader>>#commentForCurrentUpdate
-ExternalChangesBrowser>>#initializePresenter
-PharoTutorial class>>#contents
-PharoTutorial class>>#reset
-PharoTutorial class>>#first
-PharoTutorial class>>#go
-PharoTutorial class>>#goOn:
-PharoTutorial class>>#last
-PharoTutorial class>>#next
-PharoTutorial class>>#previous
-PharoTutorial class>>#tutorial:lessonAt:
-PharoTutorial class>>#tutorial:lesson:
-PharoTutorial class>>#openPharoZenWorkspace
-PharoTutorial class>>#pharoZenValues
-PharoTutorial class>>#pharoZenValuesContents
-PharoTutorial>>#helpBrowserWindow
-PharoTutorial>>#lessonView
-PharoTutorial>>#lessonView:
-PharoTutorial>>#player
-PharoTutorial>>#player:
-PharoTutorial>>#tutorialPositionString
-PharoTutorial>>#tutorialSizeString
-PharoTutorial>>#close
-PharoTutorial>>#open
-PharoTutorial>>#showCurrentLesson
-PharoTutorial>>#first
-PharoTutorial>>#last
-PharoTutorial>>#next
-PharoTutorial>>#previous
-PharoTutorial>>#tutorial:lessonAt:
-PharoTutorial>>#tutorial:lesson:
-PharoTutorial>>#go
-PharoTutorial>>#goOn:
 ScriptLoader>>#script50165
+ScriptLoader>>#update50166

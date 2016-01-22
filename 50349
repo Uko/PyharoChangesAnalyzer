@@ -1,32 +1,30 @@
-AbstractNautilusUI>>#buildVariableMenuFor:variablesFrom:menuItemBy:
-ReflectivityControlTest>>#testLinkoptionInlineCondition
-ReflectivityReificationTest>>#testReifySlotName
-HookGenerator class>>#entity:node:
-RFNameReification>>#genForInstanceVariableSlot
-RFReification>>#genForInstanceVariableSlot
-ScriptLoader>>#update50349
 AbstractNautilusUI>>#browseVariableReferences
-ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
-ReflectivityControlTest>>#testAfterClassVariable
-ReflectivityControlTest>>#testLinkoptionInlineMetaObject
-ReflectivityExamples>>#exampleIvarRead
-HookGenerator class>>#node:
+AbstractNautilusUI>>#buildVariableMenuFor:variablesFrom:menuItemBy:
 HookGenerator
+HookGenerator class>>#entity:node:
+HookGenerator class>>#node:
+HookGenerator>>#genReification:for:
+HookGenerator>>#node:links:
+HookGenerator>>#preamble
 HookGenerator>>#selectorForNode
 HookGenerator>>#wrapCondition:link:
-HookGenerator>>#node:links:
-HookGenerator>>#genReification:for:
-HookGenerator>>#preamble
 MetaLink class>>#defaultOptions
 MetaLink>>#condition:
 RFASTTranslator>>#visitVariableValue:
 RFNameReification class>>#nodes
+RFNameReification>>#genForInstanceVariableSlot
+RFReification>>#genForGlobalVariable
+RFReification>>#genForInstanceVariableSlot
 RFSemanticAnalyzer>>#analyseForLinksForVariables:
 RFSemanticAnalyzer>>#visitVariableNode:
 RFVariableReification class>>#nodes
-Slot>>#removeLink:
-ScriptLoader>>#script50348
+ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
+ReflectivityControlTest>>#testAfterClassVariable
+ReflectivityControlTest>>#testLinkoptionInlineCondition
+ReflectivityControlTest>>#testLinkoptionInlineMetaObject
+ReflectivityExamples>>#exampleIvarRead
+ReflectivityReificationTest>>#testReifySlotName
 ScriptLoader>>#commentForCurrentUpdate
-HookGenerator>>#node:links:
-RFReification>>#genForGlobalVariable
 ScriptLoader>>#script50348
+ScriptLoader>>#update50349
+Slot>>#removeLink:

@@ -1,19 +1,18 @@
+AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+AbstractNautilusUI>>#sourceCodeMenu:shifted:
+ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric>>#version1181:
-RubScrolledTextModel>>#clearUndoManager
-ScriptLoader>>#update50250
-TextModel>>#getMenu
 MorphicTextAdapter>>#canChangeText
 MorphicTextAdapter>>#selectFrom:to:
 MorphicTextAdapter>>#selectionInterval
-ConfigurationOfRubric>>#stable:
-AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
-AbstractNautilusUI>>#sourceCodeMenu:shifted:
 NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
 NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
-TClassDescription>>#sourceCodeRefactoringMenu:
-TClassDescription>>#sourceCodeRefactoring:
-ScriptLoader>>#script50249
+RubScrolledTextModel>>#clearUndoManager
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50249
+ScriptLoader>>#update50250
+TClassDescription>>#sourceCodeRefactoring:
+TClassDescription>>#sourceCodeRefactoringMenu:
 TextModel>>#beForCode
 TextModel>>#beForText
-ScriptLoader>>#script50249
+TextModel>>#getMenu

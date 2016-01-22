@@ -1,25 +1,23 @@
 GG
-TT
-ReflectiveMethodTest>>#testLinkWithMeta
-ReflectiveMethodTest>>#testLinkWithMetaDisabled
+MetaLink>>#encloseInBlock:
+MetaLink>>#hook
+MetaLink>>#metaAwareHook
+MetaLinkTest>>#testHaltHook
+RFObjectReification
 RFObjectReification class>>#key
 RFObjectReification class>>#nodes
-RFObjectReification
 RFObjectReification>>#genForRBProgramNode
+RFReification
 RFReification class>>#allKeys
 RFReification class>>#for:
 RFReification class>>#key
 RFReification class>>#nodes
-RFReification
-ScriptLoader>>#update50022
-MetaLinkTest>>#testHaltHook
+ReflectiveMethodTest>>#testLinkWithMeta
+ReflectiveMethodTest>>#testLinkWithMetaDisabled
 ReflectivityExamples>>#exampleMethod
-MetaLink>>#encloseInBlock:
-MetaLink>>#hook
-MetaLink>>#metaAwareHook
-ScriptLoader>>#script630
-ScriptLoader>>#commentForCurrentUpdate
 RelationSlot>>#emitStore:
-Slot>>#emitStore:
-MetaLink>>#metaAwareHook
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script630
+ScriptLoader>>#update50022
+Slot>>#emitStore:
+TT

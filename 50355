@@ -1,120 +1,114 @@
-ScriptLoader>>#update50355
-BasicCommandLineHandler class>>#helpDescription
-BasicCommandLineHandler>>#printHelp
-ManifestSystemBasicCommandLineHandler class>>#manuallyResolvedDependencies
-ManifestSystemBasicCommandLineHandler
-ManifestSystemCommandLineHandler class>>#manuallyResolvedDependencies
-ManifestSystemCommandLineHandler
-CodeImporter class>>#chunksFromFileNamed:
-ScriptLoader>>#script50354
-ScriptLoader>>#commentForCurrentUpdate
 BasicCommandLineHandler
-CommandLineArguments
-CommandLineHandler
-PrintVersionCommandLineHandler
-SaveCommandLineHandler
-ManifestSystemCommandLine class>>#manuallyResolvedDependencies
-ScriptLoader>>#script50354
 BasicCommandLineHandler class>>#commandName
-BasicCommandLineHandler class>>#priority
-BasicCommandLineHandler class>>#initialize
-BasicCommandLineHandler class>>#startUp:
 BasicCommandLineHandler class>>#description
+BasicCommandLineHandler class>>#helpDescription
+BasicCommandLineHandler class>>#initialize
 BasicCommandLineHandler class>>#isResponsibleFor:
-BasicCommandLineHandler
+BasicCommandLineHandler class>>#priority
+BasicCommandLineHandler class>>#startUp:
 BasicCommandLineHandler>>#activate
 BasicCommandLineHandler>>#activateSubCommand:
+BasicCommandLineHandler>>#copyright
+BasicCommandLineHandler>>#default
+BasicCommandLineHandler>>#error
 BasicCommandLineHandler>>#handleArgument:
 BasicCommandLineHandler>>#handleEmptyArguments
 BasicCommandLineHandler>>#handleExit:
 BasicCommandLineHandler>>#handleExit:for:
 BasicCommandLineHandler>>#handleSubcommand
-BasicCommandLineHandler>>#copyright
-BasicCommandLineHandler>>#default
-BasicCommandLineHandler>>#error
+BasicCommandLineHandler>>#initialize
 BasicCommandLineHandler>>#list
 BasicCommandLineHandler>>#noQuit
-BasicCommandLineHandler>>#version
-BasicCommandLineHandler>>#initialize
+BasicCommandLineHandler>>#printHelp
 BasicCommandLineHandler>>#selectHandlers
 BasicCommandLineHandler>>#selectedHandler
 BasicCommandLineHandler>>#subCommandsRoot
+BasicCommandLineHandler>>#version
+CodeImporter class>>#chunksFromFileNamed:
+Color>>#closestXTermPixelValue
+CommandLineArguments
 CommandLineArguments class>>#default
 CommandLineArguments class>>#withArguments:
-CommandLineArguments
 CommandLineArguments>>#allFilesWithExtension:
 CommandLineArguments>>#argumentAt:
 CommandLineArguments>>#arguments
-CommandLineArguments>>#optionAt:
-CommandLineArguments>>#optionAt:ifAbsent:
-CommandLineArguments>>#optionAt:ifPresent:
-CommandLineArguments>>#optionAt:ifPresent:ifAbsent:
-CommandLineArguments>>#copySubcommand
-CommandLineArguments>>#initialize
-CommandLineArguments>>#initializeWithArguments:
 CommandLineArguments>>#commandLineArguments
+CommandLineArguments>>#copySubcommand
 CommandLineArguments>>#hasArguments
 CommandLineArguments>>#hasFileWithExtension:
 CommandLineArguments>>#hasOption:
 CommandLineArguments>>#includesSubCommand:
+CommandLineArguments>>#initialize
+CommandLineArguments>>#initializeWithArguments:
 CommandLineArguments>>#longOptionAt:
 CommandLineArguments>>#longOptionAt:ifAbsent:
+CommandLineArguments>>#optionAt:
+CommandLineArguments>>#optionAt:ifAbsent:
+CommandLineArguments>>#optionAt:ifPresent:
+CommandLineArguments>>#optionAt:ifPresent:ifAbsent:
 CommandLineArguments>>#shortOptionAt:
 CommandLineArguments>>#shortOptionAt:ifAbsent:
 CommandLineArguments>>#withFirstArgument:
+CommandLineHandler
+CommandLineHandler class>>#activateWith:
 CommandLineHandler class>>#allHandlers
+CommandLineHandler class>>#commandLine:
 CommandLineHandler class>>#commandName
 CommandLineHandler class>>#description
 CommandLineHandler class>>#isAbstract
 CommandLineHandler class>>#isResponsibleFor:
+CommandLineHandler class>>#prepareSubcommand:
 CommandLineHandler class>>#priority
 CommandLineHandler class>>#selectHandlersFor:
-CommandLineHandler class>>#activateWith:
-CommandLineHandler class>>#commandLine:
-CommandLineHandler class>>#prepareSubcommand:
-CommandLineHandler
+CommandLineHandler>>#%3C%3C
+CommandLineHandler>>#activate
+CommandLineHandler>>#activateHelp
+CommandLineHandler>>#activateHelpWithoutArguments
+CommandLineHandler>>#allHandlers
 CommandLineHandler>>#argumentAt:
 CommandLineHandler>>#arguments
-CommandLineHandler>>#hasOption:
-CommandLineHandler>>#optionAt:
-CommandLineHandler>>#optionAt:ifAbsent:
-CommandLineHandler>>#optionAt:ifPresent:
-CommandLineHandler>>#optionAt:ifPresent:ifAbsent:
-CommandLineHandler>>#allHandlers
 CommandLineHandler>>#commandLine
 CommandLineHandler>>#commandLine:
 CommandLineHandler>>#commandName
 CommandLineHandler>>#description
-CommandLineHandler>>#stderr
-CommandLineHandler>>#stdout
-CommandLineHandler>>#help
-CommandLineHandler>>#activate
-CommandLineHandler>>#activateHelp
-CommandLineHandler>>#activateHelpWithoutArguments
-CommandLineHandler>>#initialize
-CommandLineHandler>>#initializeStderr
-CommandLineHandler>>#initializeStdout
-CommandLineHandler>>#printHelp
-CommandLineHandler>>#hasArguments
-CommandLineHandler>>#hasSessionChanged
-CommandLineHandler>>#%3C%3C
 CommandLineHandler>>#exitFailure
 CommandLineHandler>>#exitFailure:
 CommandLineHandler>>#exitSuccess
+CommandLineHandler>>#hasArguments
+CommandLineHandler>>#hasOption:
+CommandLineHandler>>#hasSessionChanged
+CommandLineHandler>>#help
+CommandLineHandler>>#initialize
+CommandLineHandler>>#initializeStderr
+CommandLineHandler>>#initializeStdout
+CommandLineHandler>>#optionAt:
+CommandLineHandler>>#optionAt:ifAbsent:
+CommandLineHandler>>#optionAt:ifPresent:
+CommandLineHandler>>#optionAt:ifPresent:ifAbsent:
+CommandLineHandler>>#printHelp
 CommandLineHandler>>#quit
+CommandLineHandler>>#stderr
+CommandLineHandler>>#stdout
+ManifestSystemBasicCommandLineHandler
+ManifestSystemBasicCommandLineHandler class>>#manuallyResolvedDependencies
+ManifestSystemCommandLine class>>#manuallyResolvedDependencies
+ManifestSystemCommandLineHandler
+ManifestSystemCommandLineHandler class>>#manuallyResolvedDependencies
+PrintVersionCommandLineHandler
 PrintVersionCommandLineHandler class>>#commandName
 PrintVersionCommandLineHandler class>>#description
-PrintVersionCommandLineHandler
+PrintVersionCommandLineHandler>>#activate
 PrintVersionCommandLineHandler>>#printNumericVersion
 PrintVersionCommandLineHandler>>#printRelease
 PrintVersionCommandLineHandler>>#printVersion
-PrintVersionCommandLineHandler>>#activate
+SaveCommandLineHandler
 SaveCommandLineHandler class>>#commandName
 SaveCommandLineHandler class>>#description
-SaveCommandLineHandler
-SaveCommandLineHandler>>#saveImage
 SaveCommandLineHandler>>#activate
-Color>>#closestXTermPixelValue
+SaveCommandLineHandler>>#saveImage
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50354
+ScriptLoader>>#update50355
 VTermOutputDriver>>#background256:
 VTermOutputDriver>>#color256:
 VTermOutputDriver>>#color256:background:

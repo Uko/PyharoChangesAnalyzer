@@ -1,8 +1,7 @@
-SymbolicBytecode>>#gtSpotterCodePreviewIn:
-SymbolicBytecode>>#spotterActDefault
-ScriptLoader>>#update50485
 MCVersion>>#loadCompleteSnapshot
 NautilusUI>>#buildPackageSearch
-ScriptLoader>>#script50484
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50484
+ScriptLoader>>#update50485
+SymbolicBytecode>>#gtSpotterCodePreviewIn:
+SymbolicBytecode>>#spotterActDefault

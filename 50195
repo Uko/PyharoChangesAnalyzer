@@ -1,6 +1,5 @@
-ScriptLoader>>#update50195
-ScriptLoader>>#script50194
-ScriptLoader>>#commentForCurrentUpdate
 KeymapBrowser>>#initializeWidgets
-SettingBrowser>>#windowTitle
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50194
+ScriptLoader>>#update50195
+SettingBrowser>>#windowTitle

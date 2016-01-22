@@ -1,10 +1,9 @@
-ScriptLoader>>#update50372
-String>>#includesSubstring:
 NautilusUITest>>#setUp
 ReflectiveMethod>>#compileAndInstallCompiledMethod
 ReflectiveMethod>>#run:with:in:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#diffServerRootString
 ScriptLoader>>#script50371
-ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#update50372
+String>>#includesSubstring:
 SugsContextTest>>#testContextForNautilusItsANautilusContext
-ScriptLoader>>#script50371

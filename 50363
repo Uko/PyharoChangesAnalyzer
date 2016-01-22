@@ -1,16 +1,15 @@
-SortHierarchically class>>#buildHierarchyForClass:
-SortHierarchicallyIndentNode class>>#on:indentBy:
-SortHierarchicallyIndentNode
-SortHierarchicallyIndentNode>>#element
-SortHierarchicallyIndentNode>>#indent
-SortHierarchicallyIndentNode>>#setElement:
-SortHierarchicallyIndentNode>>#setIndent:
-SortHierarchicallyIndentNode>>#printOn:
-TBehavior>>#hierarchyClassTree
-ScriptLoader>>#update50363
-TClass>>#hasSubclasses
-ClassWidget>>#setCachedHierarchyClass:
 BlockClosure>>#sourceNode
-ScriptLoader>>#script50362
+ClassWidget>>#setCachedHierarchyClass:
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50362
+ScriptLoader>>#update50363
+SortHierarchically class>>#buildHierarchyForClass:
+SortHierarchicallyIndentNode
+SortHierarchicallyIndentNode class>>#on:indentBy:
+SortHierarchicallyIndentNode>>#element
+SortHierarchicallyIndentNode>>#indent
+SortHierarchicallyIndentNode>>#printOn:
+SortHierarchicallyIndentNode>>#setElement:
+SortHierarchicallyIndentNode>>#setIndent:
+TBehavior>>#hierarchyClassTree
+TClass>>#hasSubclasses

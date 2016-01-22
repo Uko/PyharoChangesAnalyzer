@@ -1,13 +1,12 @@
 RBCompositeLintRule class>>#pharoHardLintRules
 RBCompositeLintRule class>>#pharoSoftLintRules
-ScriptLoader>>#update50339
-SelectRuleBrowser class>>#pharoIntegrationRules
-ScriptLoader>>#script50338
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50338
+ScriptLoader>>#update50339
 SelectPackageBrowser>>#removeAllItems
 SelectPackageBrowser>>#removeItems
 SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
-SelectRuleBrowser>>#items:
+SelectRuleBrowser class>>#pharoIntegrationRules
 SelectRuleBrowser>>#addItems
 SelectRuleBrowser>>#initialize
-ScriptLoader>>#script50338
+SelectRuleBrowser>>#items:

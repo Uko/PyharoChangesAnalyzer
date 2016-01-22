@@ -1,12 +1,11 @@
-ScriptLoader>>#update50253
-EvaluateCommandLineHandler>>#evaluate:
+AbstractNautilusUI>>#acceptSourceCodeFromView
 AbstractNautilusUI>>#showScriptCode:
 AbstractNautilusUI>>#showSourceCode:
-RBImplementedNotSentRule>>#literals
-ScriptLoader>>#script50252
-ScriptLoader>>#commentForCurrentUpdate
-RingChunkImporter>>#scannedSource:
+EvaluateCommandLineHandler>>#evaluate:
 Form class>>#initialize
 Form class>>#unload
-AbstractNautilusUI>>#acceptSourceCodeFromView
+RBImplementedNotSentRule>>#literals
+RingChunkImporter>>#scannedSource:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50252
+ScriptLoader>>#update50253

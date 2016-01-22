@@ -1,13 +1,11 @@
+ConfigurationOfGlamourCore>>#stable:
 ConfigurationOfGlamourCore>>#version315:
 ConfigurationOfGlamourCore>>#version316:
 PluggableMultiColumnListMorph>>#findSubmorphFor:
-ScrollPane>>#findSubmorphFor:
-ScriptLoader>>#update50143
-ConfigurationOfGlamourCore>>#stable:
 PluggableMultiColumnListMorph>>#itemFromPoint:
-ScriptLoader>>#script50142
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50142
+ScriptLoader>>#update50143
+ScrollPane>>#findSubmorphFor:
 SugsMenuBuilder class>>#buildSmartActionsShortcuts:
 SugsMenuBuilder class>>#findBestNodeFor:
-PluggableMultiColumnListMorph>>#itemFromPoint:
-ScriptLoader>>#script50142

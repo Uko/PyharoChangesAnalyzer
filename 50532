@@ -1,11 +1,10 @@
-PackageTreePackageSelection>>#manifestBuilderForRuleChecker:
-PackageTreePackageSelection>>#packageName
+MonticelloRepositoryBrowser class>>#defaultSpec
 PackageTreePackageSelection>>#extensionCategoriesForClass:
 PackageTreePackageSelection>>#includesSelector:ofClass:
+PackageTreePackageSelection>>#manifestBuilderForRuleChecker:
+PackageTreePackageSelection>>#packageName
 RubSmalltalkCommentMode>>#formatMethodCode
-ScriptLoader>>#update50532
-ScriptLoader>>#script50531
 ScriptLoader>>#commentForCurrentUpdate
-SugsMenuBuilder class>>#buildSmartActionsShortcuts:
-MonticelloRepositoryBrowser class>>#defaultSpec
 ScriptLoader>>#script50531
+ScriptLoader>>#update50532
+SugsMenuBuilder class>>#buildSmartActionsShortcuts:

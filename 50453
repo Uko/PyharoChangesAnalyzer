@@ -1,29 +1,21 @@
-PasteUpMorph>>#nextVisibleWindow
 AbstractNautilusUI>>#removeIconStyle
 AbstractNautilusUI>>#resetIconStyle
-ScriptLoader>>#update50453
 HaloMorph>>#doGrow:with:
-WorldState class>>#windowsOn:
-Morph>>#initialExtent
-PasteUpMorph>>#wantsHaloFromClick
-PasteUpMorph>>#deleteAllHalos
-PasteUpMorph>>#fitAll
-Nautilus>>#addIconStyle
-Nautilus>>#package:class:protocol:method:
-RubSmalltalkEditor class>>#menuOn:
-ScriptLoader>>#script50452
-ScriptLoader>>#commentForCurrentUpdate
-SmalltalkEditor>>#smartSuggestions
-SmalltalkEditor class>>#smalltalkEditorMenuOn:
 Morph>>#beginsWith:fromList:
 Morph>>#handlesMouseOver:
+Morph>>#heightToDisplayInTree:
+Morph>>#initialExtent
+Morph>>#isWindowActive:
 Morph>>#mouseWheel:
+Morph>>#openModal:
+Morph>>#treeRenderOn:bounds:color:font:from:
+Morph>>#widthToDisplayInTree:
+Nautilus>>#addIconStyle
+Nautilus>>#package:class:protocol:method:
+PasteUpMorph>>#acceptDroppingMorph:event:
 PasteUpMorph>>#backgroundMorph
 PasteUpMorph>>#backgroundMorph:
-PasteUpMorph>>#acceptDroppingMorph:event:
-WorldMorph>>#taskList
-Morph>>#isWindowActive:
-Morph>>#openModal:
+PasteUpMorph>>#deleteAllHalos
 PasteUpMorph>>#fitAll
 PasteUpMorph>>#isWindowActive:
 PasteUpMorph>>#modalLockTo:
@@ -32,13 +24,18 @@ PasteUpMorph>>#modelWakeUp
 PasteUpMorph>>#navigateVisibleWindowForward
 PasteUpMorph>>#navigateWindowBackward
 PasteUpMorph>>#navigateWindowForward
+PasteUpMorph>>#nextVisibleWindow
 PasteUpMorph>>#nextWindow
 PasteUpMorph>>#openModal:
 PasteUpMorph>>#previousWindow
 PasteUpMorph>>#systemWindows
 PasteUpMorph>>#visibleSystemWindows
-Nautilus>>#addIconStyle
+PasteUpMorph>>#wantsHaloFromClick
+RubSmalltalkEditor class>>#menuOn:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50452
-Morph>>#heightToDisplayInTree:
-Morph>>#treeRenderOn:bounds:color:font:from:
-Morph>>#widthToDisplayInTree:
+ScriptLoader>>#update50453
+SmalltalkEditor class>>#smalltalkEditorMenuOn:
+SmalltalkEditor>>#smartSuggestions
+WorldMorph>>#taskList
+WorldState class>>#windowsOn:

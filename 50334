@@ -1,8 +1,7 @@
+FileStream>>#viewGZipContents
+RBParser>>#parseIncompleteExpression:
 ReflectivityControlTest>>#testBeforeBlockSequenceNoValue
 ReflectivityExamples>>#exampleBlockNoValue
-ScriptLoader>>#update50334
-RBParser>>#parseIncompleteExpression:
-FileStream>>#viewGZipContents
-ScriptLoader>>#script50333
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50333
+ScriptLoader>>#update50334

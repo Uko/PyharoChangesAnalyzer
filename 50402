@@ -1,7 +1,6 @@
-ScriptLoader>>#update50402
 Collection
-SocketStream class>>#finger:
-ScriptLoader>>#script50401
-ScriptLoader>>#commentForCurrentUpdate
 MenuMorph class>>#example
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50401
+ScriptLoader>>#update50402
+SocketStream class>>#finger:

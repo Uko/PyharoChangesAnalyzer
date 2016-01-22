@@ -1,12 +1,11 @@
-ScriptLoader>>#update50395
-RBArrayNode>>#initialize
-RBLiteralArrayNode class>>#value:
-RBLiteralArrayNode>>#copyInContext:
-MCFileTreeAbstractReader>>#packageProperties
-ScriptLoader>>#script50394
-ScriptLoader>>#commentForCurrentUpdate
 Color>>#fillRectangle:on:
 GrafPort>>#installStrikeFont:
 GrafPort>>#installStrikeFont:foregroundColor:backgroundColor:
 GrafPort>>#lastFont
+MCFileTreeAbstractReader>>#packageProperties
+RBArrayNode>>#initialize
+RBLiteralArrayNode class>>#value:
+RBLiteralArrayNode>>#copyInContext:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50394
+ScriptLoader>>#update50395

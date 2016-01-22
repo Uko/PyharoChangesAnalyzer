@@ -1,60 +1,57 @@
 AthensCairoSurface class>>#primImageFromData:width:height:pitch:
+AthensCanvas>>#clipBy:during:
+AthensCanvasWrapper>>#image:at:sourceRect:rule:
+CairoFontFace>>#primSetSynthesizeEmphasis:
 CairoFontFace>>#synthesizeBold
 CairoFontFace>>#synthesizeBoldAndOblique
 CairoFontFace>>#synthesizeEmphasis:
 CairoFontFace>>#synthesizeOblique
-CairoFontFace>>#primSetSynthesizeEmphasis:
-ConfigurationOfAthens>>#version34:
-ConfigurationOfTxText>>#version284:
-ScriptLoader>>#update50014
-TxBlockCursor>>#calculateNewBounds
-TxBlockCursor>>#drawOnAthensCanvas:
-TxBlockCursor>>#isBlinking
-TxTextEditorMorph>>#cursor:
-TxInterval>>#normalized
 CairoScaledFont class>>#fromFreetypeFont:
-AthensCanvas>>#clipBy:during:
-AthensCanvasWrapper>>#image:at:sourceRect:rule:
-Paragraph>>#drawCaretOnAthensCanvas:
 ConfigurationOfAthens>>#stable:
 ConfigurationOfAthens>>#version32:
-ScriptLoader>>#script622
+ConfigurationOfAthens>>#version34:
+ConfigurationOfTxText>>#version284:
+Paragraph>>#drawCaretOnAthensCanvas:
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script622
+ScriptLoader>>#update50014
 TxAthensCharacterWrappingStrategy>>#visitCharacterSpan:
+TxAthensCursor>>#visible:
+TxBasicSpan>>#%3C
+TxBasicSpan>>#appendCopyTo:
+TxBasicSpan>>#applyAttribute:from:to:
+TxBasicTextPosition>>#isValid
 TxBasicViewMorph>>#contents:
 TxBasicViewMorph>>#fullDrawOnAthensCanvas:
 TxBasicViewMorph>>#scrollBy:
 TxBasicViewMorph>>#wrapText:
+TxBlockCursor>>#calculateNewBounds
+TxBlockCursor>>#drawOnAthensCanvas:
+TxBlockCursor>>#isBlinking
+TxCharacterSpan>>#applyAttribute:from:to:
+TxCursorAttribute
+TxCursorAttribute class>>#defaultValue
+TxInterval>>#asString
+TxInterval>>#contains:
+TxInterval>>#normalized
 TxLayoutViewMorph class>>#text:
+TxLayoutViewMorph>>#containsPoint:
 TxLayoutViewMorph>>#drawOnAthensCanvas:
+TxLayoutViewMorph>>#invalidRect:from:
 TxLayoutViewMorph>>#layoutChanged
 TxLayoutViewMorph>>#layoutPositionAt:ifOutside:
-TxLayoutViewMorph>>#containsPoint:
-TxLayoutViewMorph>>#invalidRect:from:
 TxLayoutViewMorph>>#transformFrom:
+TxModel>>#applyAttribute:onSelection:
+TxModel>>#applyAttribute:to:
+TxModel>>#initialize
+TxModel>>#normalize:
+TxModel>>#setNewContents
+TxTextEditorMorph
 TxTextEditorMorph class>>#exampleWithCustomCursor
 TxTextEditorMorph class>>#exampleWithEmbeddedObject
 TxTextEditorMorph class>>#text:
-TxTextEditorMorph
+TxTextEditorMorph>>#cursor:
 TxTextEditorMorph>>#cursorForPosition:
 TxTextEditorMorph>>#initializeText:
 TxTextRenderer class>>#textGoryDetails
-TxBasicSpan>>#applyAttribute:from:to:
-TxBasicSpan>>#appendCopyTo:
-TxBasicSpan>>#%3C
-TxBasicTextPosition>>#isValid
-TxCharacterSpan>>#applyAttribute:from:to:
-TxInterval>>#asString
-TxInterval>>#contains:
-TxModel>>#initialize
-TxModel>>#setNewContents
-TxModel>>#normalize:
-TxModel>>#applyAttribute:onSelection:
-TxModel>>#applyAttribute:to:
-TxCursorAttribute
 TxTextStyler>>#visitMessageNode:
-ScriptLoader>>#script622
-TxAthensCursor>>#visible:
-TxModel>>#setNewContents
-TxCursorAttribute class>>#defaultValue
-TxCursorAttribute

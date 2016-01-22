@@ -1,36 +1,35 @@
-RBIdentifierToken>>#isKeywordPattern
-RBScanner class>>#keywordPatternCharacter
-RBToken>>#isKeywordPattern
+ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric>>#version137:
 ConfigurationOfRubric>>#version141:
 ConfigurationOfRubric>>#version14:
+DynamicClassGroup>>#addClasses:
+DynamicClassGroup>>#classRemoved:
+RBIdentifierToken>>#isKeywordPattern
+RBPatternParser>>#parseUnaryMessage
+RBScanner
+RBScanner class>>#initializeClassificationTable
+RBScanner class>>#keywordPatternCharacter
+RBToken>>#isKeywordPattern
 RubAbstractSmalltalkMode>>#isCodeCompletionAllowed
 RubAbstractTextArea>>#interactive
+RubEditingArea>>#beForSmalltalkComment
+RubEditingMode>>#editorClass
 RubEditingMode>>#interactive
 RubEditingMode>>#isCodeCompletionAllowed
-RubScrolledTextModel>>#interactionModel
-RubScrolledTextModel>>#selectedClassOrMetaClass
+RubScrolledTextModel>>#acceptEditsInView
 RubScrolledTextModel>>#bindingOf:
-RubScrolledTextModel>>#guessTypeForName:
-RubScrolledTextModel>>#isCodeCompletionAllowed
 RubScrolledTextModel>>#formatSourceCodeInView
-RubScrolledTextMorph>>#withSourceCodeAnnotation
+RubScrolledTextModel>>#guessTypeForName:
+RubScrolledTextModel>>#interactionModel
+RubScrolledTextModel>>#isCodeCompletionAllowed
+RubScrolledTextModel>>#reconfigureViewWith:
+RubScrolledTextModel>>#selectedClassOrMetaClass
 RubScrolledTextMorph>>#formatSourceCode
+RubScrolledTextMorph>>#withSourceCodeAnnotation
+RubSmalltalkCodeMode>>#formatMethodCode
 RubSmalltalkEditor class>>#menuOn:
 RubSmalltalkEditor>>#format
 RubSmalltalkScriptingMode>>#interactive
-ScriptLoader>>#update50132
-RBPatternParser>>#parseUnaryMessage
-RBScanner class>>#initializeClassificationTable
-RBScanner
-ConfigurationOfRubric>>#stable:
-DynamicClassGroup>>#classRemoved:
-DynamicClassGroup>>#addClasses:
-RubEditingArea>>#beForSmalltalkComment
-RubEditingMode>>#editorClass
-RubScrolledTextModel>>#acceptEditsInView
-RubScrolledTextModel>>#reconfigureViewWith:
-RubSmalltalkCodeMode>>#formatMethodCode
-ScriptLoader>>#script50131
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50131
+ScriptLoader>>#update50132

@@ -1,11 +1,10 @@
-ScriptLoader>>#update50005
 HelpBrowser>>#menu
-OCASTTranslator>>#visitNode:
 LessonView>>#menu
+OCASTTranslator>>#visitNode:
 ReflectiveMethodTest>>#testUninstallLinkAndRun
-ScriptLoader>>#script613
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script613
+ScriptLoader>>#update50005
 SpecExamples class>>#firstExample
 SpecExamples class>>#secondExample
 SpecHelpTopics class>>#introduction
-ScriptLoader>>#script613

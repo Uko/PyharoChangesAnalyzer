@@ -1,17 +1,16 @@
-SmalltalkImage>>#logChange:
+MCVersionReader class>>#fileReaderServicesForFile:suffix:
+MCVersionReader class>>#loadVersionFile:
 MCVersionReader class>>#loadVersionStream:fromDirectory:
+MCVersionReader class>>#mergeVersionFile:
 MCVersionReader class>>#mergeVersionStream:
+MCVersionReader class>>#openVersionFile:
 MCVersionReader class>>#openVersionFromStream:
 MCVersionReader class>>#serviceLoadVersion
 MCVersionReader class>>#serviceMergeVersion
 MCVersionReader class>>#serviceOpenVersion
-ScriptLoader>>#update50330
-PackageTreeNautilusUI>>#package:matchPackagePattern:
-ScriptLoader>>#script50329
-ScriptLoader>>#commentForCurrentUpdate
-MCVersionReader class>>#loadVersionFile:
-MCVersionReader class>>#mergeVersionFile:
-MCVersionReader class>>#openVersionFile:
-MCVersionReader class>>#fileReaderServicesForFile:suffix:
 MCVersionReader class>>#services
+PackageTreeNautilusUI>>#package:matchPackagePattern:
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50329
+ScriptLoader>>#update50330
+SmalltalkImage>>#logChange:

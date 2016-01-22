@@ -1,13 +1,12 @@
-ScriptLoader>>#update50502
-ScriptLoader>>#script50501
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50501
+ScriptLoader>>#update50502
 TBehavior>>#allInstances
-TBehavior>>#typeOfClass
 TBehavior>>#allInstancesDo:
 TBehavior>>#indexIfCompact
-TBehavior>>#kindOfSubclass
 TBehavior>>#instSpec
 TBehavior>>#isBits
 TBehavior>>#isBytes
 TBehavior>>#isVariable
-ScriptLoader>>#script50501
+TBehavior>>#kindOfSubclass
+TBehavior>>#typeOfClass

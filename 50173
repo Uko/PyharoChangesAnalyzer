@@ -1,28 +1,27 @@
-ConfigurationOfCatalog>>#version06:
-AbstractNautilusUI>>#navigationAreaProportion
-ReflectivityLinkTest>>#testUninstallLinkAndRunOptionNoJIT
-MetaLink>>#options:
-ReflectiveMethod>>#compileAndInstallCompiledMethod
-ReflectiveMethod>>#installLink:
-CompiledMethod>>#installLink:
-ScriptLoader>>#update50173
-CatalogCommandLineHandler class>>#commandName
-CatalogCommandLineHandler class>>#description
-CatalogCommandLineHandler
-CatalogCommandLineHandler>>#projectName
-CatalogCommandLineHandler>>#version
-CatalogCommandLineHandler>>#activate
-CatalogCommandLineHandler>>#getProject
-CatalogCommandLineHandler>>#warning:
-CatalogProject>>#installVersion:
-ConfigurationOfCatalog>>#stable:
 AbstractNautilusUI>>#addAll:
 AbstractNautilusUI>>#buildColumns:height:
-NautilusWindow>>#initialExtent
-MetaLinkTest>>#testLinkOption
-ReflectiveMethod>>#run:with:in:
-RBProgramNode>>#link:
-ScriptLoader>>#script50172
-ScriptLoader>>#commentForCurrentUpdate
+AbstractNautilusUI>>#navigationAreaProportion
+CatalogCommandLineHandler
+CatalogCommandLineHandler class>>#commandName
+CatalogCommandLineHandler class>>#description
+CatalogCommandLineHandler>>#activate
+CatalogCommandLineHandler>>#getProject
+CatalogCommandLineHandler>>#projectName
+CatalogCommandLineHandler>>#version
+CatalogCommandLineHandler>>#warning:
+CatalogProject>>#installVersion:
+CompiledMethod>>#installLink:
+ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog>>#version06:
 MetaLink>>#option:
+MetaLink>>#options:
+MetaLinkTest>>#testLinkOption
+NautilusWindow>>#initialExtent
+RBProgramNode>>#link:
+ReflectiveMethod>>#compileAndInstallCompiledMethod
+ReflectiveMethod>>#installLink:
+ReflectiveMethod>>#run:with:in:
+ReflectivityLinkTest>>#testUninstallLinkAndRunOptionNoJIT
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50172
+ScriptLoader>>#update50173

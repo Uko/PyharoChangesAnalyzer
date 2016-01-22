@@ -1,13 +1,11 @@
-ConfigurationOfShoreLineReporter>>#version020:
-ScriptLoader>>#update50294
 ConfigurationOfShoreLineReporter>>#stable:
-ScriptLoader>>#script50293
+ConfigurationOfShoreLineReporter>>#version020:
 ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50293
+ScriptLoader>>#update50294
 SlReportPreDebugAction>>#appliesToDebugger:
 SlReportWindow class>>#forDebugger:
-SlReportWindow>>#reportSummary
+SlReportWindow>>#generateReport
 SlReportWindow>>#initializeWidgets
-SlReportWindow>>#generateReport
+SlReportWindow>>#reportSummary
 SlotClassBuilder>>#validateClassName
-ScriptLoader>>#script50293
-SlReportWindow>>#generateReport

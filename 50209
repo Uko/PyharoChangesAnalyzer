@@ -1,10 +1,9 @@
-MCTool>>#announcer
-ScriptLoader>>#update50209
+GroupNode>>#icon
 MCSaveVersionDialog>>#setDefaultFocus
 MCTool
+MCTool>>#announcer
 MCTool>>#textMorph:
-GroupNode>>#icon
 PackageTreePackageGroupNodeModel>>#icon
-ScriptLoader>>#script50208
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50208
+ScriptLoader>>#update50209

@@ -1,57 +1,54 @@
-SystemWindow>>#beTopWindow
-SystemWindow>>#privateBePassive
-SystemWindow>>#announceActivated
-SystemWindow>>#announceDeActivated
-SystemWindow>>#toggleClosable
-SystemWindow>>#isTopWindow
-WindowActivated>>#isActivated
-WindowAnnouncement>>#isActivated
-WindowAnnouncement>>#isDeActivated
-WindowDeActivated>>#isDeActivated
-ScriptLoader>>#update50426
-VersionBrowser
-WindowAnnouncementTest>>#testResizingClosing
-ScrollPane>>#mouseEnter:
-ScrollPane>>#mouseLeave:
-GroupWindowMorph>>#isWindowActive:
 GroupWindowMorph>>#addWindow:
-SystemWindow class>>#closeTopWindow
-SystemWindow>>#activate
-SystemWindow>>#basicActivate
-SystemWindow>>#navigateFocus
-SystemWindow>>#handleListenEvent:
-SystemWindow>>#mouseDown:
-SystemWindow>>#mouseEnterDragging:
-SystemWindow>>#mouseLeaveDragging:
-SystemWindow>>#delete
-WindowAnnouncement
-SystemWindow class>>#passivateTopWindow
-SystemWindow>>#justDroppedInto:event:
-ScriptLoader>>#script50425
-ScriptLoader>>#commentForCurrentUpdate
-NewVersionBrowser class>>#versionsBrowserListMenu:
-NewVersionBrowser>>#browserForList:
-SingleCodeCriticResultList>>#setTextModelForClassOrMethod:
-SystemWindow>>#initialize
-SystemWindow>>#canBeMaximized
-ScriptLoader>>#script50425
+GroupWindowMorph>>#isWindowActive:
 NewVersionBrowser class>>#browseVersionsForClass:selector:
 NewVersionBrowser class>>#browseVersionsForMethod:
-NewVersionBrowser class>>#versionsBrowserListMenu:
 NewVersionBrowser class>>#registerToolsOn:
-NewVersionBrowser>>#browser
-NewVersionBrowser>>#displayStringsFor:
+NewVersionBrowser class>>#versionsBrowserListMenu:
+NewVersionBrowser>>#browseImplementors
+NewVersionBrowser>>#browseSenders
 NewVersionBrowser>>#browseVersionsOf:
 NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector:
+NewVersionBrowser>>#browser
 NewVersionBrowser>>#browserForList:
 NewVersionBrowser>>#buildBrowser
 NewVersionBrowser>>#buildChangeList
-NewVersionBrowser>>#revert:
-NewVersionBrowser>>#showDiffMorphWithConverter:
-NewVersionBrowser>>#showSourceWithConverter:
-NewVersionBrowser>>#browseImplementors
-NewVersionBrowser>>#browseSenders
+NewVersionBrowser>>#compareTo:withLabel:
 NewVersionBrowser>>#compareToCurrentVersion
 NewVersionBrowser>>#compareToOtherVersion
-NewVersionBrowser>>#compareTo:withLabel:
+NewVersionBrowser>>#displayStringsFor:
+NewVersionBrowser>>#revert:
 NewVersionBrowser>>#setRGMethodFrom:
+NewVersionBrowser>>#showDiffMorphWithConverter:
+NewVersionBrowser>>#showSourceWithConverter:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50425
+ScriptLoader>>#update50426
+ScrollPane>>#mouseEnter:
+ScrollPane>>#mouseLeave:
+SingleCodeCriticResultList>>#setTextModelForClassOrMethod:
+SystemWindow class>>#closeTopWindow
+SystemWindow class>>#passivateTopWindow
+SystemWindow>>#activate
+SystemWindow>>#announceActivated
+SystemWindow>>#announceDeActivated
+SystemWindow>>#basicActivate
+SystemWindow>>#beTopWindow
+SystemWindow>>#canBeMaximized
+SystemWindow>>#delete
+SystemWindow>>#handleListenEvent:
+SystemWindow>>#initialize
+SystemWindow>>#isTopWindow
+SystemWindow>>#justDroppedInto:event:
+SystemWindow>>#mouseDown:
+SystemWindow>>#mouseEnterDragging:
+SystemWindow>>#mouseLeaveDragging:
+SystemWindow>>#navigateFocus
+SystemWindow>>#privateBePassive
+SystemWindow>>#toggleClosable
+VersionBrowser
+WindowActivated>>#isActivated
+WindowAnnouncement
+WindowAnnouncement>>#isActivated
+WindowAnnouncement>>#isDeActivated
+WindowAnnouncementTest>>#testResizingClosing
+WindowDeActivated>>#isDeActivated

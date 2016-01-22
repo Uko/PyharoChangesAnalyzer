@@ -1,12 +1,10 @@
-MCWorkingCopyBrowser>>#windowIsClosing
-ScriptLoader>>#update50405
-MessageBrowser>>#windowIsClosing
 AbstractNautilusUI>>#buildSecondColumn:
+MCWorkingCopyBrowser>>#windowIsClosing
+MessageBrowser>>#windowIsClosing
 NautilusUI>>#runTestForAMethod:notifying:priority:
-ScriptLoader>>#script50404
 ScriptLoader>>#commentForCurrentUpdate
-WindowModel>>#windowIsClosing
 ScriptLoader>>#script50404
+ScriptLoader>>#update50405
 TextAction>>#emphasizeScanner:
 TextAlignment>>#emphasizeScanner:
 TextAttribute>>#emphasizeScanner:
@@ -17,3 +15,4 @@ TextFontReference>>#emphasizeScanner:
 TextIndent>>#emphasizeScanner:
 TextKern>>#emphasizeScanner:
 TextLink>>#emphasizeScanner:
+WindowModel>>#windowIsClosing

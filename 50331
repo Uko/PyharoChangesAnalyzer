@@ -1,7 +1,6 @@
-ScriptLoader>>#update50331
-ScriptLoader>>#script50330
-ScriptLoader>>#commentForCurrentUpdate
 ChangeSet class>>#promptForDefaultChangeSetDirectoryIfNecessary
 ManifestSystemChanges class>>#manuallyResolvedDependencies
-ScriptLoader>>#script50330
 PositionableStream>>#nextChunkText
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50330
+ScriptLoader>>#update50331

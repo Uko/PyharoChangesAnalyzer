@@ -1,12 +1,11 @@
-StartupLoader class>>#default
+Interval>>#indexOf:startingAt:ifAbsent:
+SHRBTextStyler>>#visitMethodNode:
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script624
+ScriptLoader>>#update50016
 StartupLoader
+StartupLoader class>>#default
 StartupLoader>>#contents
 StartupLoader>>#initialExtent
 StartupLoader>>#initialize
-ScriptLoader>>#update50016
-Interval>>#indexOf:startingAt:ifAbsent:
-ScriptLoader>>#script624
-ScriptLoader>>#commentForCurrentUpdate
-SHRBTextStyler>>#visitMethodNode:
 SugsBrowseClassReferences>>#execute
-ScriptLoader>>#script624

@@ -1,18 +1,16 @@
-Object>>#sizeInMemory
 CCompilationContext class>>#initialize
 CompilationContext class>>#initialize
+MethodFinder>>#initialize
+Object>>#sizeInMemory
+ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50506
 ScriptLoader>>#update50506
-ScriptLoader>>#commentForCurrentUpdate
 SlotBasicTest>>#testNewCompiledMethodClass
 SlotBasicTest>>#testNewPointerClass
 SlotBasicTest>>#testNewVariableByteClass
 SlotBasicTest>>#testNewVariableWordClass
 SlotBasicTest>>#testNewWeakClass
-MethodFinder>>#initialize
 TBehavior>>#becomeCompact
 TBehavior>>#becomeCompactSimplyAt:
 TBehavior>>#becomeUncompact
 TBehavior>>#isCompact
-ScriptLoader>>#script50506
-ScriptLoader>>#update50506

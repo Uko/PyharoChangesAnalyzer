@@ -1,12 +1,11 @@
+NautilusAnnotationDisplayer>>#formatAsYouRead
+RBNullFormatter
 RBNullFormatter class>>#formatAsYouReadPolicy
 RBNullFormatter class>>#formatAsYouReadPolicy:
-RBNullFormatter
 RBNullFormatter>>#containerWidth:
 RBNullFormatter>>#format:
-RBProgramNode class>>#resetFormatter
-ScriptLoader>>#update50213
 RBProgramNode class>>#formatterClass
-NautilusAnnotationDisplayer>>#formatAsYouRead
-ScriptLoader>>#script50212
+RBProgramNode class>>#resetFormatter
 ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader>>#script50212
+ScriptLoader>>#update50213

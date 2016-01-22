@@ -1,21 +1,63 @@
-ConfigurationOfCatalog class>>#project
+AbstractNautilusUI>>#registerToMCAnnouncements
+CatalogBrowser
+CatalogBrowser class>>#iconFor:
+CatalogBrowser class>>#menuCommandOn:
+CatalogBrowser class>>#open
+CatalogBrowser class>>#title
+CatalogBrowser>>#buildBrowser
+CatalogBrowser>>#iconFor:
+CatalogBrowser>>#installStableVersion:onSuccess:
+CatalogBrowser>>#loadConfiguration:onSuccess:
+CatalogBrowser>>#onInstallFrom:
+CatalogBrowser>>#onLoadFrom:
+CatalogBrowser>>#onRefreshFrom:
+CatalogBrowser>>#open
+CatalogBrowser>>#provider
+CatalogBrowser>>#refresh
+CatalogProject
+CatalogProject class>>#createRepositoryNames
+CatalogProject class>>#fromDictionary:
+CatalogProject class>>#repositoryNames
+CatalogProject class>>#unknownRepository
+CatalogProject>>#allKeywords
+CatalogProject>>#contactInfo
+CatalogProject>>#description
+CatalogProject>>#fromDictionary:
+CatalogProject>>#fullDescription
+CatalogProject>>#installStableVersion
+CatalogProject>>#isAvailableForCurrentPharo
+CatalogProject>>#keywords
+CatalogProject>>#loadConfiguration
+CatalogProject>>#matches:
+CatalogProject>>#matches:with:
+CatalogProject>>#name
+CatalogProject>>#packageName
+CatalogProject>>#printOn:
+CatalogProject>>#repository
+CatalogProject>>#repositoryUrl
+CatalogProject>>#spotterPreviewIn:
+CatalogProvider
+CatalogProvider>>#loadProjects
+CatalogProvider>>#projects
+CatalogProvider>>#refresh
+ConfigurationOfCatalog
 ConfigurationOfCatalog class>>#DevelopmentSupport
-ConfigurationOfCatalog class>>#validate
-ConfigurationOfCatalog class>>#load
-ConfigurationOfCatalog class>>#loadBleedingEdge
-ConfigurationOfCatalog class>>#loadDevelopment
-ConfigurationOfCatalog class>>#isMetacelloConfig
 ConfigurationOfCatalog class>>#baseConfigurationClassIfAbsent:
 ConfigurationOfCatalog class>>#ensureMetacello
 ConfigurationOfCatalog class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfCatalog
-ConfigurationOfCatalog>>#customProjectAttributes
-ConfigurationOfCatalog>>#project
+ConfigurationOfCatalog class>>#isMetacelloConfig
+ConfigurationOfCatalog class>>#load
+ConfigurationOfCatalog class>>#loadBleedingEdge
+ConfigurationOfCatalog class>>#loadDevelopment
+ConfigurationOfCatalog class>>#project
+ConfigurationOfCatalog class>>#validate
 ConfigurationOfCatalog>>#baseline01:
 ConfigurationOfCatalog>>#baseline02:
 ConfigurationOfCatalog>>#baseline03:
 ConfigurationOfCatalog>>#baseline04:
+ConfigurationOfCatalog>>#customProjectAttributes
 ConfigurationOfCatalog>>#development:
+ConfigurationOfCatalog>>#project
 ConfigurationOfCatalog>>#stable:
 ConfigurationOfCatalog>>#version011:
 ConfigurationOfCatalog>>#version01:
@@ -24,17 +66,24 @@ ConfigurationOfCatalog>>#version02:
 ConfigurationOfCatalog>>#version031:
 ConfigurationOfCatalog>>#version03:
 ConfigurationOfCatalog>>#version04:
-MultiByteFileStream>>#nextPreamble
+GTSpotter>>#spotterCatalogProjectsFor:
 MCAnnouncementTest
 MCAnnouncementTest>>#testMCVersionSaved
-MCVersionSaved class>>#version:repository:
+MCRepository>>#storeVersion:
 MCVersionSaved
-MCVersionSaved>>#repository
-MCVersionSaved>>#version
+MCVersionSaved class>>#version:repository:
 MCVersionSaved>>#=
 MCVersionSaved>>#hash
 MCVersionSaved>>#initializeWithVersion:repository:
 MCVersionSaved>>#printOn:
+MCVersionSaved>>#repository
+MCVersionSaved>>#version
+MCWorkingCopyBrowser>>#registerToAnnouncer
+MultiByteFileStream>>#nextPreamble
+PositionableStream>>#nextPreamble
+RFThisContextReification>>#genForRBProgramNode
+RFValueReification>>#genForRBAssignmentNode
+ReflectiveMethodTest>>#testLinkWithMetaArg
 ReflectiveMethodTest>>#testReifyGlobalName
 ReflectiveMethodTest>>#testReifyIvarName
 ReflectiveMethodTest>>#testReifyIvarValue
@@ -42,66 +91,15 @@ ReflectiveMethodTest>>#testReifyMethodSelector
 ReflectiveMethodTest>>#testReifyNode
 ReflectiveMethodTest>>#testReifySendSelector
 ReflectiveMethodTest>>#testReifySendThisContext
+ReflectivityExamples
 ReflectivityExamples>>#exampleIvarRead
 ReflectivityExamples>>#initialize
+ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader>>#script50102
 ScriptLoader>>#update50103
-PositionableStream>>#nextPreamble
-CatalogBrowser class>>#title
-CatalogBrowser class>>#open
-CatalogBrowser class>>#iconFor:
-CatalogBrowser class>>#menuCommandOn:
-CatalogBrowser
-CatalogBrowser>>#provider
-CatalogBrowser>>#installStableVersion:onSuccess:
-CatalogBrowser>>#loadConfiguration:onSuccess:
-CatalogBrowser>>#refresh
-CatalogBrowser>>#buildBrowser
-CatalogBrowser>>#onInstallFrom:
-CatalogBrowser>>#onLoadFrom:
-CatalogBrowser>>#onRefreshFrom:
-CatalogBrowser>>#iconFor:
-CatalogBrowser>>#open
-CatalogProject class>>#repositoryNames
-CatalogProject class>>#unknownRepository
-CatalogProject class>>#fromDictionary:
-CatalogProject class>>#createRepositoryNames
-CatalogProject
-CatalogProject>>#allKeywords
-CatalogProject>>#contactInfo
-CatalogProject>>#description
-CatalogProject>>#fullDescription
-CatalogProject>>#keywords
-CatalogProject>>#name
-CatalogProject>>#packageName
-CatalogProject>>#repository
-CatalogProject>>#repositoryUrl
-CatalogProject>>#fromDictionary:
-CatalogProject>>#installStableVersion
-CatalogProject>>#loadConfiguration
-CatalogProject>>#printOn:
-CatalogProject>>#matches:with:
-CatalogProject>>#spotterPreviewIn:
-CatalogProject>>#isAvailableForCurrentPharo
-CatalogProject>>#matches:
-CatalogProvider
-CatalogProvider>>#projects
-CatalogProvider>>#refresh
-CatalogProvider>>#loadProjects
-GTSpotter>>#spotterCatalogProjectsFor:
+SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
 ThemeIcons>>#catalogIcon
 ThemeIcons>>#catalogIconContents
-MCRepository>>#storeVersion:
-MCWorkingCopyBrowser>>#registerToAnnouncer
-AbstractNautilusUI>>#registerToMCAnnouncements
-ReflectiveMethodTest>>#testLinkWithMetaArg
-ReflectivityExamples
-RFThisContextReification>>#genForRBProgramNode
-RFValueReification>>#genForRBAssignmentNode
-ScriptLoader>>#script50102
-ScriptLoader>>#commentForCurrentUpdate
-SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
-ReflectiveMethodTest>>#testLinkWithMetaArg
-ScriptLoader>>#script50102
 ThemeIcons>>#configIcon
 ThemeIcons>>#configIconContents
 ThemeIcons>>#configIconLoaded
