@@ -1,17 +1,17 @@
-Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Collection>>#asOrderedDictionary
-NautilusRefactoring>>#privateMoveMethodFor:
-OrderedDictionary>>#atRandom:
-OrderedDictionaryTest>>#testAtRandom
-RBMoveMethodRefactoring class>>#model:selector:class:variable:
-RBMoveMethodRefactoring class>>#selector:class:variable:
-RBMoveMethodRefactoring>>#checkAssignmentsToVariable
-RBMoveMethodRefactoring>>#getClassForGlobalOrClassVariable
-RingChunkImporter>>#removedMethod:with:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50407
-ScriptLoader>>#update50408
-TClass>>#private_subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
-Trait>>#private_subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Collections-Abstract.Collection>>#asOrderedDictionary
+Kernel.Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+NautilusRefactoring.NautilusRefactoring>>#privateMoveMethodFor:
+Random-Core.OrderedDictionary>>#atRandom:
+Random-Tests.OrderedDictionaryTest>>#testAtRandom
+Refactoring-Core.RBMoveMethodRefactoring class>>#model:selector:class:variable:
+Refactoring-Core.RBMoveMethodRefactoring class>>#selector:class:variable:
+Refactoring-Core.RBMoveMethodRefactoring>>#checkAssignmentsToVariable
+Refactoring-Core.RBMoveMethodRefactoring>>#getClassForGlobalOrClassVariable
+RingChunkImporter.RingChunkImporter>>#removedMethod:with:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50407
+ScriptLoader50.ScriptLoader>>#update50408
+Traits.TClass>>#private_subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Traits.TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Traits.TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Traits.Trait>>#private_subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

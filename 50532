@@ -1,10 +1,10 @@
-MonticelloRepositoryBrowser class>>#defaultSpec
-PackageTreePackageSelection>>#extensionCategoriesForClass:
-PackageTreePackageSelection>>#includesSelector:ofClass:
-PackageTreePackageSelection>>#manifestBuilderForRuleChecker:
-PackageTreePackageSelection>>#packageName
-RubSmalltalkCommentMode>>#formatMethodCode
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50531
-ScriptLoader>>#update50532
-SugsMenuBuilder class>>#buildSmartActionsShortcuts:
+Manifest-Core.PackageTreePackageSelection>>#manifestBuilderForRuleChecker:
+Nautilus.PackageTreePackageSelection>>#extensionCategoriesForClass:
+Nautilus.PackageTreePackageSelection>>#includesSelector:ofClass:
+Nautilus.PackageTreePackageSelection>>#packageName
+Rubric.RubSmalltalkCommentMode>>#formatMethodCode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50531
+ScriptLoader50.ScriptLoader>>#update50532
+SmartSuggestions.SugsMenuBuilder class>>#buildSmartActionsShortcuts:
+Spec-Tools.MonticelloRepositoryBrowser class>>#defaultSpec

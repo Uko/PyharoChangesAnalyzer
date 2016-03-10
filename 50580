@@ -1,0 +1,17 @@
+ConfigurationOfRubric.ConfigurationOfRubric>>#version27:
+ReleaseTests.ReleaseTest>>#hasStartUpOrShutDownMethod:
+ReleaseTests.ReleaseTest>>#testKeyClassesArePresentInStartupList
+Rubric.RubDisplayScanner
+Rubric.RubDisplayScanner>>#defaultTextColor
+Rubric.RubDisplayScanner>>#setFont
+Rubric.RubSmalltalkEditor class>>#buildShortcutsOn:
+Rubric.RubTextEditor class>>#buildShortcutsOn:
+Rubric.RubWorkspaceExample class>>#exampleWithCustomShortcut
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50579
+ScriptLoader50.ScriptLoader>>#update50580
+SmartSuggestions.SugsSyntaxErrorDebuggerContext
+SmartSuggestions.SugsSyntaxErrorDebuggerContext>>#selectedClass
+SmartSuggestions.SugsSyntaxErrorDebuggerContext>>#selectedMethod
+SmartSuggestions.SugsSyntaxErrorDebuggerContext>>#sourceTextArea
+SmartSuggestions.SyntaxErrorDebugger>>#sugsContext

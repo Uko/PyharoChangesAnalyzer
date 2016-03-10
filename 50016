@@ -1,11 +1,11 @@
-Interval>>#indexOf:startingAt:ifAbsent:
-SHRBTextStyler>>#visitMethodNode:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script624
-ScriptLoader>>#update50016
-StartupLoader
-StartupLoader class>>#default
-StartupLoader>>#contents
-StartupLoader>>#initialExtent
-StartupLoader>>#initialize
-SugsBrowseClassReferences>>#execute
+Collections-Sequenceable.Interval>>#indexOf:startingAt:ifAbsent:
+Deprecated50.StartupLoader
+Deprecated50.StartupLoader class>>#default
+Deprecated50.StartupLoader>>#contents
+Deprecated50.StartupLoader>>#initialExtent
+Deprecated50.StartupLoader>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script624
+ScriptLoader50.ScriptLoader>>#update50016
+Shout.SHRBTextStyler>>#visitMethodNode:
+SmartSuggestions.SugsBrowseClassReferences>>#execute

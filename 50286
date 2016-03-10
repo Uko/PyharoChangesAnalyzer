@@ -1,9 +1,9 @@
-MCDataStream class>>#initializeTypeMap
-MCOldDataStreamExtensions class>>#initialize
-NewVersionBrowser>>#buildChangeList
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50285
-ScriptLoader>>#update50286
-SourceFileArray>>#changeRecordsFrom:className:isMeta:
-TBehavior>>#changeRecordsAt:
-WideString class>>#newFromStream:
+Monticello-OldDataStreamCompatibility.MCOldDataStreamExtensions class>>#initialize
+Monticello.MCDataStream class>>#initializeTypeMap
+Monticello.WideString class>>#newFromStream:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50285
+ScriptLoader50.ScriptLoader>>#update50286
+Spec-Tools.NewVersionBrowser>>#buildChangeList
+System-Changes.TBehavior>>#changeRecordsAt:
+System-Sources.SourceFileArray>>#changeRecordsFrom:className:isMeta:

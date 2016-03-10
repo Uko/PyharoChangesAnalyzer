@@ -1,0 +1,14 @@
+AST-Core.CompiledMethod>>#parseTree
+OpalCompiler-Core.CompiledMethod>>#decompile
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50627
+ScriptLoader50.ScriptLoader>>#update50628
+System-Hashing.MD5>>#hashStream:
+System-Hashing.SHA256>>#hashStream:
+Tests.MD5Test
+Tests.MD5Test>>#testEmpty
+Tests.MD5Test>>#testLargeCharacterStream
+Tests.MD5Test>>#testWikipedia1
+Tests.MD5Test>>#testWikipedia2
+Tests.SHA1Test>>#testLargeCharacterStream
+Tests.SHA256Test>>#testLargeCharacterStream

@@ -1,0 +1,11 @@
+FreeType.FT2Face>>#loadFields
+FreeType.FT2Face>>#newFaceFromExternalMemory:index:
+FreeType.FT2Face>>#newFaceFromFile:index:
+FreeType.FT2Handle>>#isValid
+FreeType.FreeTypeFace
+FreeType.FreeTypeFace>>#create
+FreeType.FreeTypeFace>>#primNewFaceFromExternalMemory:size:index:
+FreeType.FreeTypeFace>>#validate
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50607
+ScriptLoader50.ScriptLoader>>#update50608

@@ -1,20 +1,20 @@
-Bitmap class>>#gtExampleIconBits
-ConfigurationOfCatalog>>#stable:
-ConfigurationOfCatalog>>#version091:
-ConfigurationOfGTInspectorCore>>#development:
-ConfigurationOfGTInspectorCore>>#stable:
-ConfigurationOfGTInspectorCore>>#version2020:
-ConfigurationOfGTInspectorCore>>#version2021:
-ConfigurationOfGTPlaygroundCore>>#development:
-ConfigurationOfGTPlaygroundCore>>#stable:
-ConfigurationOfGTPlaygroundCore>>#version2110:
-ConfigurationOfGTSpotter>>#development:
-ConfigurationOfGTSpotter>>#stable:
-ConfigurationOfGTSpotter>>#version1213:
-FileReference class>>#gtExampleGif
-FileReference class>>#gtExamplePng
-GTPlayground>>#codeIn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50357
-ScriptLoader>>#update50358
-ThemeIcons class>>#gtExampleThemeIcons
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version091:
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#development:
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#stable:
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#version2020:
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#version2021:
+ConfigurationOfGTPlaygroundCore.ConfigurationOfGTPlaygroundCore>>#development:
+ConfigurationOfGTPlaygroundCore.ConfigurationOfGTPlaygroundCore>>#stable:
+ConfigurationOfGTPlaygroundCore.ConfigurationOfGTPlaygroundCore>>#version2110:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#development:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version1213:
+GT-InspectorExtensions-Core.Bitmap class>>#gtExampleIconBits
+GT-InspectorExtensions-Core.FileReference class>>#gtExampleGif
+GT-InspectorExtensions-Core.FileReference class>>#gtExamplePng
+GT-Playground.GTPlayground>>#codeIn:
+GT-SpotterExtensions-Core.ThemeIcons class>>#gtExampleThemeIcons
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50357
+ScriptLoader50.ScriptLoader>>#update50358

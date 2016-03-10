@@ -1,40 +1,40 @@
-ConfigurationOfTxText>>#baseline101:
-ConfigurationOfTxText>>#development:
-ConfigurationOfTxText>>#stable:
-ConfigurationOfTxText>>#version285:
-ConfigurationOfTxText>>#version29:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script639
-ScriptLoader>>#update50031
-TxApplicationWithToolbar>>#openWithSpec
-TxAthensLayoutView>>#scrollBy:
-TxBasicSpan>>#style
-TxBasicViewMorph class>>#fontFamilyForExamples
-TxBasicViewMorph class>>#openInWindowWithString:
-TxCharacterSpan>>#canMerge:
-TxCharacterSpan>>#mergeUpTo:
-TxEmbeddedObjectSpan>>#printContentsOn:
-TxEndSpan>>#printOn:
-TxLayoutViewMorph class>>#text:
-TxLineSeparator>>#mergeUpTo:
-TxLineSeparator>>#printContentsOn:
-TxModel
-TxModel class>>#fromString:
-TxModel>>#mergeFrom:to:
-TxSpanWithStyle>>#printContentsOn:
-TxSpanWithStyle>>#printOn:
-TxStartSpan>>#printOn:
-TxStartSpan>>#style
-TxStyle>>#removeAll
-TxTextEditorMorph class>>#exampleHugeText
-TxTextEditorMorph class>>#exampleTextMultiSizeFont
-TxTextEditorMorph class>>#exampleWithCustomClickAction
-TxTextEditorMorph class>>#exampleWithCustomCursor
-TxTextEditorMorph class>>#exampleWithEmbeddedObject
-TxTextEditorMorph class>>#initialize
-TxTextEditorMorph class>>#openInWindowWithText:
-TxTextStyler>>#addAttribute:forNode:
-TxTextStyler>>#addAttributes:forNode:
-TxTextStyler>>#visitMethodNode:
-TxTextStyles>>#addStyle:
-TxTextStyles>>#extend:with:
+ConfigurationOfTxText.ConfigurationOfTxText>>#baseline101:
+ConfigurationOfTxText.ConfigurationOfTxText>>#development:
+ConfigurationOfTxText.ConfigurationOfTxText>>#stable:
+ConfigurationOfTxText.ConfigurationOfTxText>>#version285:
+ConfigurationOfTxText.ConfigurationOfTxText>>#version29:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script639
+ScriptLoader50.ScriptLoader>>#update50031
+TxText-Athens.TxApplicationWithToolbar>>#openWithSpec
+TxText-Athens.TxAthensLayoutView>>#scrollBy:
+TxText-Athens.TxBasicViewMorph class>>#fontFamilyForExamples
+TxText-Athens.TxBasicViewMorph class>>#openInWindowWithString:
+TxText-Athens.TxLayoutViewMorph class>>#text:
+TxText-Athens.TxTextEditorMorph class>>#exampleHugeText
+TxText-Athens.TxTextEditorMorph class>>#exampleTextMultiSizeFont
+TxText-Athens.TxTextEditorMorph class>>#exampleWithCustomClickAction
+TxText-Athens.TxTextEditorMorph class>>#exampleWithCustomCursor
+TxText-Athens.TxTextEditorMorph class>>#exampleWithEmbeddedObject
+TxText-Athens.TxTextEditorMorph class>>#initialize
+TxText-Athens.TxTextEditorMorph class>>#openInWindowWithText:
+TxText-Model.TxBasicSpan>>#style
+TxText-Model.TxCharacterSpan>>#canMerge:
+TxText-Model.TxCharacterSpan>>#mergeUpTo:
+TxText-Model.TxEmbeddedObjectSpan>>#printContentsOn:
+TxText-Model.TxEndSpan>>#printOn:
+TxText-Model.TxLineSeparator>>#mergeUpTo:
+TxText-Model.TxLineSeparator>>#printContentsOn:
+TxText-Model.TxModel
+TxText-Model.TxModel class>>#fromString:
+TxText-Model.TxModel>>#mergeFrom:to:
+TxText-Model.TxSpanWithStyle>>#printContentsOn:
+TxText-Model.TxSpanWithStyle>>#printOn:
+TxText-Model.TxStartSpan>>#printOn:
+TxText-Model.TxStartSpan>>#style
+TxText-Model.TxStyle>>#removeAll
+TxText-Model.TxTextStyles>>#addStyle:
+TxText-Model.TxTextStyles>>#extend:with:
+TxText-Styler.TxTextStyler>>#addAttribute:forNode:
+TxText-Styler.TxTextStyler>>#addAttributes:forNode:
+TxText-Styler.TxTextStyler>>#visitMethodNode:

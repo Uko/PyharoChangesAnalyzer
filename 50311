@@ -1,19 +1,19 @@
-CatalogBrowser>>#buildContextMenuOn:
-CatalogBrowser>>#installStableVersionButton:
-CatalogBrowser>>#installStableVersionMenuItem:
-CatalogBrowser>>#loadConfigurationButton:
-CatalogBrowser>>#loadConfigurationMenuItem:
-CatalogProject class>>#createRepositoryNames
-CatalogProject class>>#repositoryNames
-CatalogProject>>#allKeywords
-CatalogProject>>#isAvailableForCurrentPharo
-CatalogProject>>#repository
-ClassWidget>>#dropInClass:inARow:
-NautilusUI>>#dropMethod:inARow:
-NewVersionBrowser>>#browseVersionsOf:
-NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector:
-NewVersionBrowser>>#revert:
-NewVersionBrowser>>#setRGMethodFrom:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50310
-ScriptLoader>>#update50311
+Nautilus.ClassWidget>>#dropInClass:inARow:
+Nautilus.NautilusUI>>#dropMethod:inARow:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50310
+ScriptLoader50.ScriptLoader>>#update50311
+Spec-Tools.NewVersionBrowser>>#browseVersionsOf:
+Spec-Tools.NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector:
+Spec-Tools.NewVersionBrowser>>#revert:
+Spec-Tools.NewVersionBrowser>>#setRGMethodFrom:
+Tool-Catalog.CatalogBrowser>>#buildContextMenuOn:
+Tool-Catalog.CatalogBrowser>>#installStableVersionButton:
+Tool-Catalog.CatalogBrowser>>#installStableVersionMenuItem:
+Tool-Catalog.CatalogBrowser>>#loadConfigurationButton:
+Tool-Catalog.CatalogBrowser>>#loadConfigurationMenuItem:
+Tool-Catalog.CatalogProject class>>#createRepositoryNames
+Tool-Catalog.CatalogProject class>>#repositoryNames
+Tool-Catalog.CatalogProject>>#allKeywords
+Tool-Catalog.CatalogProject>>#isAvailableForCurrentPharo
+Tool-Catalog.CatalogProject>>#repository

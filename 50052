@@ -1,7 +1,7 @@
-RBParser class>>#parseExpression:onError:
-RBParser class>>#parseMethod:onError:
-RBParser>>#parseErrorNode:
-RBScanner>>#parseErrorNode:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50051
-ScriptLoader>>#update50052
+AST-Core.RBParser class>>#parseExpression:onError:
+AST-Core.RBParser class>>#parseMethod:onError:
+AST-Core.RBParser>>#parseErrorNode:
+AST-Core.RBScanner>>#parseErrorNode:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50051
+ScriptLoader50.ScriptLoader>>#update50052

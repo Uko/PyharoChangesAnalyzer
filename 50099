@@ -1,6 +1,6 @@
-ClassTest>>#testSuperclassOrder
-ClassTest>>#testSuperclassOrderPreservingOrder
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50098
-ScriptLoader>>#update50099
-TClass class>>#superclassOrder:
+KernelTests.ClassTest>>#testSuperclassOrder
+KernelTests.ClassTest>>#testSuperclassOrderPreservingOrder
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50098
+ScriptLoader50.ScriptLoader>>#update50099
+Traits.TClass class>>#superclassOrder:

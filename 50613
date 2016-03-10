@@ -1,0 +1,12 @@
+Deprecated50.NBExternalAddress
+Deprecated50.NBExternalArray
+Deprecated50.NBExternalEnumeration
+Deprecated50.NBExternalObject
+Deprecated50.NBExternalStructure
+Deprecated50.NBExternalStructureFields
+Deprecated50.NBExternalTypeValue
+Deprecated50.NBExternalUnion
+Deprecated50.NBFFICallback
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50612
+ScriptLoader50.ScriptLoader>>#update50613

@@ -1,31 +1,31 @@
-CompiledMethod>>#originMethod
-InputEventLog
-InputEventLog>>#filter:
-InputEventLog>>#handleEvent:
-KMCommandModifier>>#eventCode
-KMCommandModifier>>#matchesEvent:
-KMKeyCombination class>>#fromKeyboardEvent:
-KMMetaModifier>>#=
-KMMetaModifier>>#eventCode
-KMMetaModifier>>#hash
-KMMetaModifier>>#matches:
-KMMetaModifier>>#matchesEvent:
-KMModifiedKeyCombination>>#matchesEvent:
-KMModifier>>#hash
-KMShortcutTest>>#testEventCodes
-MacOSPlatform>>#defaultModifier
-RFEReceiverReification
-RFEReceiverReification class>>#key
-RFEReceiverReification class>>#nodes
-RFEReceiverReification>>#genForRBMethodNode
-RFSemanticAnalyzer>>#visitNode:
-RFSemanticAnalyzer>>#visitVarWrite:
-RFValueReification>>#genForRBAssignmentNode
-RFValueReification>>#genForRBTempVariableNode
-RFValueReification>>#genForRBVariableNode
-ReflectiveMethodTest>>#testReifyGlobalValue
-ReflectiveMethodTest>>#testReifyTempValue
-ReflectivityExamples>>#exampleGlobalRead
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50101
-ScriptLoader>>#update50102
+Kernel.CompiledMethod>>#originMethod
+Keymapping-KeyCombinations.KMCommandModifier>>#eventCode
+Keymapping-KeyCombinations.KMCommandModifier>>#matchesEvent:
+Keymapping-KeyCombinations.KMKeyCombination class>>#fromKeyboardEvent:
+Keymapping-KeyCombinations.KMMetaModifier>>#=
+Keymapping-KeyCombinations.KMMetaModifier>>#eventCode
+Keymapping-KeyCombinations.KMMetaModifier>>#hash
+Keymapping-KeyCombinations.KMMetaModifier>>#matches:
+Keymapping-KeyCombinations.KMMetaModifier>>#matchesEvent:
+Keymapping-KeyCombinations.KMModifiedKeyCombination>>#matchesEvent:
+Keymapping-KeyCombinations.KMModifier>>#hash
+Keymapping-KeyCombinations.MacOSPlatform>>#defaultModifier
+Keymapping-Tests.KMShortcutTest>>#testEventCodes
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyGlobalValue
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyTempValue
+Reflectivity-Tests.ReflectivityExamples>>#exampleGlobalRead
+Reflectivity.RFEReceiverReification
+Reflectivity.RFEReceiverReification class>>#key
+Reflectivity.RFEReceiverReification class>>#nodes
+Reflectivity.RFEReceiverReification>>#genForRBMethodNode
+Reflectivity.RFSemanticAnalyzer>>#visitNode:
+Reflectivity.RFSemanticAnalyzer>>#visitVarWrite:
+Reflectivity.RFValueReification>>#genForRBAssignmentNode
+Reflectivity.RFValueReification>>#genForRBTempVariableNode
+Reflectivity.RFValueReification>>#genForRBVariableNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50101
+ScriptLoader50.ScriptLoader>>#update50102
+System-VMEvents.InputEventLog
+System-VMEvents.InputEventLog>>#filter:
+System-VMEvents.InputEventLog>>#handleEvent:

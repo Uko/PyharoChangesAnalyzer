@@ -1,23 +1,23 @@
-MorphicWindowAdapter>>#extent:
-RFASTTranslator>>#emitMessageNode:
-RFASTTranslator>>#visitAssignmentNode:
-RFASTTranslator>>#visitNode:
-RFASTTranslator>>#visitReturnNode:
-RFASTTranslator>>#visitVariableNode:
-RFClassReification
-RFClassReification class>>#key
-RFClassReification class>>#nodes
-RFClassReification>>#genForRBProgramNode
-RFNameReification class>>#nodes
-RFNameReification>>#genForRBAssignmentNode
-Rectangle>>#intersect:
-ReflectiveMethodTest>>#testReplaceAssign
-ReflectiveMethodTest>>#testReplaceReturn
-ReflectiveMethodTest>>#testReplaceSend
-ReflectiveMethodTest>>#testReplaceVariableReadGlobal
-ReflectiveMethodTest>>#testReplaceVariableReadIvar
-ReflectiveMethodTest>>#testReplaceVariableReadTemp
-ReflectiveMethodTest>>#testReplaceVariableWrite
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50155
-ScriptLoader>>#update50156
+Kernel.Rectangle>>#intersect:
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceAssign
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceReturn
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceSend
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableReadGlobal
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableReadIvar
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableReadTemp
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableWrite
+Reflectivity.RFASTTranslator>>#emitMessageNode:
+Reflectivity.RFASTTranslator>>#visitAssignmentNode:
+Reflectivity.RFASTTranslator>>#visitNode:
+Reflectivity.RFASTTranslator>>#visitReturnNode:
+Reflectivity.RFASTTranslator>>#visitVariableNode:
+Reflectivity.RFClassReification
+Reflectivity.RFClassReification class>>#key
+Reflectivity.RFClassReification class>>#nodes
+Reflectivity.RFClassReification>>#genForRBProgramNode
+Reflectivity.RFNameReification class>>#nodes
+Reflectivity.RFNameReification>>#genForRBAssignmentNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50155
+ScriptLoader50.ScriptLoader>>#update50156
+Spec-MorphicAdapters.MorphicWindowAdapter>>#extent:

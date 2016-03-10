@@ -1,0 +1,14 @@
+Collections-Strings.Symbol>>#flushCache
+Collections-Support.Association>>#isSpecial
+FreeType.FreeTypeFace>>#validate
+FreeType.FreeTypeFont>>#validate
+Graphics-Fonts.AbstractFont>>#validate
+Kernel.CompiledMethod>>#flushCache
+Refactoring-Critics.RBExplicitRequirementMethodsRule>>#basicCheck:
+Refactoring-Critics.RBExplicitRequirementMethodsRule>>#checkClass:
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#basicCheck:
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#checkMethod:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50625
+ScriptLoader50.ScriptLoader>>#update50626
+Traits.TBehavior>>#flushCache

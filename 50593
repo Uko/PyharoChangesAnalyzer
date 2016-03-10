@@ -1,0 +1,114 @@
+FreeType.FT2Face>>#loadFields
+FreeType.FreeTypeFace>>#validate
+Komitter.CredentialEditor>>#initializeDialogWindow:
+Morphic-Widgets-Scrolling.ScrollPane class>>#buildScrollPaneShortcuts:
+Morphic-Widgets-Tabs.TabManager>>#registerShortcuts
+Nautilus.AbstractNautilusUI class>>#buildAddShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildBrowseShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildButtonsShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildClassShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildCopyShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildExtraShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildFindShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildGotoNavigationShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildGroupShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildPackageShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildRecategorizeShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildRefactoringShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildRemoveShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildRenameShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildRunTestKeymappingsOn:
+Nautilus.CategoryWidget class>>#buildProtocolShortcutsOn:
+Nautilus.MethodWidget class>>#buildMethodShortcutsOn:
+Nautilus.NautilusUI class>>#buildHistoryShortcutsOn:
+NautilusRefactoring.NautilusRefactoring class>>#buildRefactoringMethodShortcutsOn:
+NautilusRefactoring.NautilusRefactoring class>>#buildRefactoringShortcutsOn:
+NautilusRefactoring.NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
+NodeNavigation.NNavDirectionChild class>>#buildShortcut:
+NodeNavigation.NNavDirectionFirstChild class>>#defaultKeyCombination
+NodeNavigation.NNavDirectionParent class>>#defaultKeyCombination
+NodeNavigation.NNavDirectionPreviousBrother class>>#defaultKeyCombination
+NodeNavigation.NNavDirectionPreviousSelection class>>#buildShortcut:
+NodeNavigation.NNavDirectionSibling class>>#defaultKeyCombination
+SUnit-UITesting.SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50592
+ScriptLoader50.ScriptLoader>>#update50593
+SmartSuggestions.SugsMenuBuilder class>>#buildSmartActionsShortcuts:
+Spec-Core.NewListModel class>>#exampleWithMenu
+Spec-Core.NewListModel class>>#exampleWithMenu2
+Spec-Debugger.DebugAction>>#shortcutCommand
+Spec-Examples.ApplicationWithToolbar>>#subMenu
+Spec-Inspector.AbstractEyeElement>>#browseSubMenu:
+Spec-Inspector.AbstractEyeElement>>#endSubMenu:
+Spec-Inspector.EyeAbstractInspector>>#inspectionSubMenu:
+Spec-Inspector.EyeAbstractInspector>>#shortCuts
+Spec-Inspector.EyeInspector>>#shortCuts
+Spec-Inspector.InspectorNavigator>>#customMenuActions
+Spec-Inspector.InspectorNavigator>>#initializeShortcuts
+Spec-Tools.ChangeSorterApplication>>#registerChangeSetShortcuts:
+Spec-Tools.ChangeSorterApplication>>#registerClassShortcuts:
+Spec-Tools.ChangeSorterApplication>>#registerMethodShortcuts:
+Spec-Tools.DualChangeSorterApplication>>#shortcutsRegistrationFrom:to:
+Tool-Base.PharoShortcuts>>#acceptShortcut
+Tool-Base.PharoShortcuts>>#argAdvanceShortcut
+Tool-Base.PharoShortcuts>>#backwardWordShortcut
+Tool-Base.PharoShortcuts>>#browseImplementorsShortcut
+Tool-Base.PharoShortcuts>>#browseReferencesShortcut
+Tool-Base.PharoShortcuts>>#browseSendersShortcut
+Tool-Base.PharoShortcuts>>#browseShortcut
+Tool-Base.PharoShortcuts>>#browseVersionsShortcut
+Tool-Base.PharoShortcuts>>#cancelShortcut
+Tool-Base.PharoShortcuts>>#changeStyleShortcut
+Tool-Base.PharoShortcuts>>#closeWindowShortcut
+Tool-Base.PharoShortcuts>>#compareToClipboardShortcut
+Tool-Base.PharoShortcuts>>#copySelectionShortcut
+Tool-Base.PharoShortcuts>>#cursorEndShortcut
+Tool-Base.PharoShortcuts>>#cursorHomeShortcut
+Tool-Base.PharoShortcuts>>#cutShortcut
+Tool-Base.PharoShortcuts>>#debugItShortcut
+Tool-Base.PharoShortcuts>>#decreaseKerningShortcut
+Tool-Base.PharoShortcuts>>#doItShortcut
+Tool-Base.PharoShortcuts>>#duplicateFromSelectionShortcut
+Tool-Base.PharoShortcuts>>#exchangeSelectionShortcut
+Tool-Base.PharoShortcuts>>#findAgainShortcut
+Tool-Base.PharoShortcuts>>#findShortcut
+Tool-Base.PharoShortcuts>>#formatCodeShortcut
+Tool-Base.PharoShortcuts>>#forwardWordShortcut
+Tool-Base.PharoShortcuts>>#increaseKerningShortcut
+Tool-Base.PharoShortcuts>>#indentShortcut
+Tool-Base.PharoShortcuts>>#inspectItShortcut
+Tool-Base.PharoShortcuts>>#makeCapitalizedShortcut
+Tool-Base.PharoShortcuts>>#makeLowercaseShortcut
+Tool-Base.PharoShortcuts>>#makeUppercaseShortcut
+Tool-Base.PharoShortcuts>>#methodNamesContainingItShortcut
+Tool-Base.PharoShortcuts>>#methodStringContainingItShortcut
+Tool-Base.PharoShortcuts>>#normalEmphasisShortcut
+Tool-Base.PharoShortcuts>>#openFontAlignmentMenuShortcut
+Tool-Base.PharoShortcuts>>#openFontColorMenuShortcut
+Tool-Base.PharoShortcuts>>#openFontMenuShortcut
+Tool-Base.PharoShortcuts>>#openKomitterShortcut
+Tool-Base.PharoShortcuts>>#openMonticielloShortcut
+Tool-Base.PharoShortcuts>>#openPlaygroundShortcut
+Tool-Base.PharoShortcuts>>#openSettingsShortcut
+Tool-Base.PharoShortcuts>>#openSystemBrowserShortcut
+Tool-Base.PharoShortcuts>>#openTestRunnerShortcut
+Tool-Base.PharoShortcuts>>#openTranscriptShortcut
+Tool-Base.PharoShortcuts>>#outdentShortcut
+Tool-Base.PharoShortcuts>>#pasteShortcut
+Tool-Base.PharoShortcuts>>#printItShortcut
+Tool-Base.PharoShortcuts>>#querySymbolShortcut
+Tool-Base.PharoShortcuts>>#redoShortcut
+Tool-Base.PharoShortcuts>>#removeShortcut
+Tool-Base.PharoShortcuts>>#saveImageShortcut
+Tool-Base.PharoShortcuts>>#searchShortcut
+Tool-Base.PharoShortcuts>>#selectAllShortcut
+Tool-Base.PharoShortcuts>>#selectUndoShortcut
+Tool-Base.PharoShortcuts>>#setSearchStringShortcut
+Tool-Base.PharoShortcuts>>#strokethroughShortcut
+Tool-Base.PharoShortcuts>>#swapCharsShortcut
+Tool-Base.PharoShortcuts>>#toggleBoldEmphasisShortcut
+Tool-Base.PharoShortcuts>>#toggleCommentOnSelectionOrLine
+Tool-Base.PharoShortcuts>>#toggleItalicEmphasisShortcut
+Tool-Base.PharoShortcuts>>#underlineShortcut
+Tool-Base.PharoShortcuts>>#undoShortcut

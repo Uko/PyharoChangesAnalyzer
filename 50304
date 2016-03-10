@@ -1,86 +1,86 @@
-AbstractNautilusUI>>#selectedPackageWithoutChangingSelection:
-CompiledMethod>>#installLink:
-CompiledMethod>>#isRealPrimitive
-Nautilus class>>#openOnCategory:ofClass:inEnvironment:
-Nautilus class>>#openOnClass:inEnvironment:
-Nautilus class>>#openOnClass:onGroup:inEnvironment:
-Nautilus class>>#openOnClass:onProtocol:inEnvironment:
-Nautilus class>>#openOnMethod:inEnvironment:
-Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
-Nautilus>>#package:
-Nautilus>>#package:class:
-Nautilus>>#package:class:protocol:
-Nautilus>>#package:class:protocol:method:
-Nautilus>>#selectedCategory:
-Nautilus>>#selectedClass:
-Nautilus>>#selectedMethod:
-Nautilus>>#selectedPackage:
-NautilusClassSelected
-NautilusClassSelected class>>#package:class:
-NautilusClassSelected>>#itemClass
-NautilusClassSelected>>#selectedClass
-NautilusClassSelected>>#selectedClass:
-NautilusMethodSelected
-NautilusMethodSelected class>>#package:class:protocol:method:
-NautilusMethodSelected>>#method
-NautilusMethodSelected>>#selectedMethod
-NautilusMethodSelected>>#selectedMethod:
-NautilusPackageSelected class>>#package:
-NautilusPackageSelected>>#package
-NautilusPackageSelected>>#selectedPackage
-NautilusPackageSelected>>#selectedPackage:
-NautilusProtocolSelected
-NautilusProtocolSelected class>>#package:class:protocol:
-NautilusProtocolSelected>>#category
-NautilusProtocolSelected>>#selectedProtocol
-NautilusProtocolSelected>>#selectedProtocol:
-NautilusUI>>#findAllMethod
-NautilusUI>>#findMethod
-NautilusUI>>#findProtocol
-NautilusUI>>#forceSelectedMethod:
-NautilusUI>>#selectedCategory:
-NautilusUI>>#selectedClass:withSelection:
-NautilusUI>>#selectedClassWithoutChangingSelection:
-NautilusUI>>#unselectClass
-PackageTasksPlugin>>#updateMethodSelection:
-PackageTreeNautilusUI>>#registerSelectionGroup:
-PackageTreeNautilusUI>>#registerSelectionPackage:
-RFASTTranslator>>#visitBlockNode:
-RFASTTranslatorForValue>>#visitSequenceNode:
-ReflectivityControlTest>>#testAfterArray
-ReflectivityControlTest>>#testAfterAssignment
-ReflectivityControlTest>>#testAfterBlock
-ReflectivityControlTest>>#testAfterBlockSequence
-ReflectivityControlTest>>#testAfterLiteral
-ReflectivityControlTest>>#testAfterLiteralArray
-ReflectivityControlTest>>#testAfterMethod
-ReflectivityControlTest>>#testAfterSend
-ReflectivityControlTest>>#testAfterSequence
-ReflectivityControlTest>>#testAfterVariable
-ReflectivityControlTest>>#testBeforeAssignment
-ReflectivityControlTest>>#testBeforeBlock
-ReflectivityControlTest>>#testBeforeBlockSequence
-ReflectivityControlTest>>#testBeforeClassVariable
-ReflectivityControlTest>>#testBeforeLiteral
-ReflectivityControlTest>>#testBeforeLiteralArray
-ReflectivityControlTest>>#testBeforeMethod
-ReflectivityControlTest>>#testBeforeReturn
-ReflectivityControlTest>>#testBeforeSend
-ReflectivityControlTest>>#testBeforeSequence
-ReflectivityControlTest>>#testBeforeVariable
-ReflectivityControlTest>>#testInsteadArray
-ReflectivityControlTest>>#testInsteadAssign
-ReflectivityControlTest>>#testInsteadBlock
-ReflectivityControlTest>>#testInsteadLiteral
-ReflectivityControlTest>>#testInsteadLiteralArray
-ReflectivityControlTest>>#testInsteadMethod
-ReflectivityControlTest>>#testInsteadReturn
-ReflectivityControlTest>>#testInsteadSend
-ReflectivityControlTest>>#testInsteadVariableReadGlobal
-ReflectivityControlTest>>#testInsteadVariableReadIvar
-ReflectivityControlTest>>#testInsteadVariableReadTemp
-ReflectivityControlTest>>#testInsteadVariableWrite
-ReflectivityControlTest>>#testbeforeArray
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50303
-ScriptLoader>>#update50304
+Kernel.CompiledMethod>>#isRealPrimitive
+Nautilus.AbstractNautilusUI>>#selectedPackageWithoutChangingSelection:
+Nautilus.Nautilus class>>#openOnCategory:ofClass:inEnvironment:
+Nautilus.Nautilus class>>#openOnClass:inEnvironment:
+Nautilus.Nautilus class>>#openOnClass:onGroup:inEnvironment:
+Nautilus.Nautilus class>>#openOnClass:onProtocol:inEnvironment:
+Nautilus.Nautilus class>>#openOnMethod:inEnvironment:
+Nautilus.Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
+Nautilus.Nautilus>>#package:
+Nautilus.Nautilus>>#package:class:
+Nautilus.Nautilus>>#package:class:protocol:
+Nautilus.Nautilus>>#package:class:protocol:method:
+Nautilus.Nautilus>>#selectedCategory:
+Nautilus.Nautilus>>#selectedClass:
+Nautilus.Nautilus>>#selectedMethod:
+Nautilus.Nautilus>>#selectedPackage:
+Nautilus.NautilusUI>>#findAllMethod
+Nautilus.NautilusUI>>#findMethod
+Nautilus.NautilusUI>>#findProtocol
+Nautilus.NautilusUI>>#forceSelectedMethod:
+Nautilus.NautilusUI>>#selectedCategory:
+Nautilus.NautilusUI>>#selectedClass:withSelection:
+Nautilus.NautilusUI>>#selectedClassWithoutChangingSelection:
+Nautilus.NautilusUI>>#unselectClass
+Nautilus.PackageTreeNautilusUI>>#registerSelectionGroup:
+Nautilus.PackageTreeNautilusUI>>#registerSelectionPackage:
+NautilusCommon.NautilusClassSelected
+NautilusCommon.NautilusClassSelected class>>#package:class:
+NautilusCommon.NautilusClassSelected>>#itemClass
+NautilusCommon.NautilusClassSelected>>#selectedClass
+NautilusCommon.NautilusClassSelected>>#selectedClass:
+NautilusCommon.NautilusMethodSelected
+NautilusCommon.NautilusMethodSelected class>>#package:class:protocol:method:
+NautilusCommon.NautilusMethodSelected>>#method
+NautilusCommon.NautilusMethodSelected>>#selectedMethod
+NautilusCommon.NautilusMethodSelected>>#selectedMethod:
+NautilusCommon.NautilusPackageSelected class>>#package:
+NautilusCommon.NautilusPackageSelected>>#package
+NautilusCommon.NautilusPackageSelected>>#selectedPackage
+NautilusCommon.NautilusPackageSelected>>#selectedPackage:
+NautilusCommon.NautilusProtocolSelected
+NautilusCommon.NautilusProtocolSelected class>>#package:class:protocol:
+NautilusCommon.NautilusProtocolSelected>>#category
+NautilusCommon.NautilusProtocolSelected>>#selectedProtocol
+NautilusCommon.NautilusProtocolSelected>>#selectedProtocol:
+NautilusCommon.PackageTasksPlugin>>#updateMethodSelection:
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterArray
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterAssignment
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterBlock
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterBlockSequence
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterLiteral
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterLiteralArray
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterMethod
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterSend
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterSequence
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterVariable
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeAssignment
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeBlock
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeBlockSequence
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeClassVariable
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeLiteral
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeLiteralArray
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeMethod
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeReturn
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeSend
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeSequence
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeVariable
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadArray
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadAssign
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadBlock
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadLiteral
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadLiteralArray
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadMethod
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadReturn
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadSend
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadVariableReadGlobal
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadVariableReadIvar
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadVariableReadTemp
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadVariableWrite
+Reflectivity-Tests.ReflectivityControlTest>>#testbeforeArray
+Reflectivity.CompiledMethod>>#installLink:
+Reflectivity.RFASTTranslator>>#visitBlockNode:
+Reflectivity.RFASTTranslatorForValue>>#visitSequenceNode:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50303
+ScriptLoader50.ScriptLoader>>#update50304

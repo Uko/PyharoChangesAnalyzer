@@ -1,8 +1,8 @@
-OrderedCollection>>#at:
-OrderedCollection>>#at:put:
-RBParser>>#parseBlock
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50113
-ScriptLoader>>#update50114
-ThemeIcons>>#checkBoxPressedIconContents
-ThemeIcons>>#haloScaleIconContents
+AST-Core.RBParser>>#parseBlock
+Collections-Sequenceable.OrderedCollection>>#at:
+Collections-Sequenceable.OrderedCollection>>#at:put:
+Polymorph-Widgets.ThemeIcons>>#checkBoxPressedIconContents
+Polymorph-Widgets.ThemeIcons>>#haloScaleIconContents
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50113
+ScriptLoader50.ScriptLoader>>#update50114

@@ -1,11 +1,11 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1164:
-RBLintRule>>#category
-RBPatternBlockNode>>#isPatternNode
-RubAbstractTextArea class>>#editorFont
-RubScrolledTextMorph>>#beForSmalltalkCode
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50200
-ScriptLoader>>#update50201
-SmalltalkImage>>#imageName
-SmalltalkImage>>#imageName:
+AST-Core.RBPatternBlockNode>>#isPatternNode
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1164:
+Refactoring-Critics.RBLintRule>>#category
+Rubric.RubAbstractTextArea class>>#editorFont
+Rubric.RubScrolledTextMorph>>#beForSmalltalkCode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50200
+ScriptLoader50.ScriptLoader>>#update50201
+System-Support.SmalltalkImage>>#imageName
+System-Support.SmalltalkImage>>#imageName:

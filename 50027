@@ -1,27 +1,27 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1213:
-ConfigurationOfZincHTTPComponents>>#stable:
-ConfigurationOfZincHTTPComponents>>#version264:
-RubShoutStylerDecorator
-RubShoutStylerDecorator>>#aboutToBeUnplugged
-RubShoutStylerDecorator>>#next:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script635
-ScriptLoader>>#update50027
-ZnClient>>#prepareRedirect
-ZnClientTests>>#testLogging
-ZnClientTests>>#testRelativeRedirect307
-ZnCookie>>#fromString:
-ZnCredential class>>#findRealmFor:
-ZnDigestAuthenticator class>>#parseAuthRequest:
-ZnLogEvent class>>#stopLoggingToTranscript
-ZnMaximumNumberOfDictionaryEntries
-ZnMimeType class>>#main:sub:
-ZnMimeType class>>#main:sub:parameters:
-ZnMultiValueDictionary>>#defaultLimit
-ZnMultiValueDictionary>>#initialize:
-ZnMultiValueDictionaryTests>>#testDynamicLimit
-ZnUrl>>#=
-ZnUrl>>#closePath
-ZnUrl>>#equals:
-ZnUrlTests>>#testQueryRemoveAll
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1213:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#stable:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version264:
+Rubric.RubShoutStylerDecorator
+Rubric.RubShoutStylerDecorator>>#aboutToBeUnplugged
+Rubric.RubShoutStylerDecorator>>#next:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script635
+ScriptLoader50.ScriptLoader>>#update50027
+Zinc-HTTP.ZnClient>>#prepareRedirect
+Zinc-HTTP.ZnCookie>>#fromString:
+Zinc-HTTP.ZnCredential class>>#findRealmFor:
+Zinc-HTTP.ZnDigestAuthenticator class>>#parseAuthRequest:
+Zinc-HTTP.ZnLogEvent class>>#stopLoggingToTranscript
+Zinc-Resource-Meta-Core.ZnMaximumNumberOfDictionaryEntries
+Zinc-Resource-Meta-Core.ZnMimeType class>>#main:sub:
+Zinc-Resource-Meta-Core.ZnMimeType class>>#main:sub:parameters:
+Zinc-Resource-Meta-Core.ZnMultiValueDictionary>>#defaultLimit
+Zinc-Resource-Meta-Core.ZnMultiValueDictionary>>#initialize:
+Zinc-Resource-Meta-Core.ZnUrl>>#=
+Zinc-Resource-Meta-Core.ZnUrl>>#closePath
+Zinc-Resource-Meta-Core.ZnUrl>>#equals:
+Zinc-Resource-Meta-Tests.ZnMultiValueDictionaryTests>>#testDynamicLimit
+Zinc-Resource-Meta-Tests.ZnUrlTests>>#testQueryRemoveAll
+Zinc-Tests.ZnClientTests>>#testLogging
+Zinc-Tests.ZnClientTests>>#testRelativeRedirect307

@@ -1,15 +1,15 @@
-BaselineOfQualityAssistant>>#baseline:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#v2_2_2:
-ConfigurationOfRenraku>>#stable:
-ConfigurationOfRenraku>>#v0_9_3:
-QAEventCollector class>>#initialize
-QAEventCollector class>>#recordAnnouncement:
-QAEventCollector class>>#uniqueInstance
-QAEventCollector class>>#unload
-QAEventCollector>>#initialize
-ReSystemAnnouncer class>>#uniqueInstance
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50524
-ScriptLoader>>#update50525
-ThreePhaseButtonMorph>>#wantsSteps
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_2_2:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_9_3:
+Morphic-Widgets-Basic.ThreePhaseButtonMorph>>#wantsSteps
+QualityAssistantRecording.QAEventCollector class>>#initialize
+QualityAssistantRecording.QAEventCollector class>>#recordAnnouncement:
+QualityAssistantRecording.QAEventCollector class>>#uniqueInstance
+QualityAssistantRecording.QAEventCollector class>>#unload
+QualityAssistantRecording.QAEventCollector>>#initialize
+Renraku.ReSystemAnnouncer class>>#uniqueInstance
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50524
+ScriptLoader50.ScriptLoader>>#update50525

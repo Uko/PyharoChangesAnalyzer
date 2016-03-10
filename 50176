@@ -1,26 +1,26 @@
-AbstractNautilusUI>>#packageCreated:
-AbstractNautilusUI>>#registerToSystemAnnouncements
-CCompilationContext>>#optionInlineRepeat
-CompilationContext>>#optionInlineRepeat
-OCASTTranslator class>>#initialize
-OCASTTranslator>>#emitRepeat:
-OCOpalExamples>>#exampleRepeatEffect
-OCOpalExamples>>#exampleRepeatValue
-OpalCompiler class>>#defaultOptions
-RBBlockNode>>#isInlinedLoop
-RBMessageNode>>#isInlineRepeat
-RBMessageNode>>#isInlined
-RGClassDefinitionTest>>#testArrayStringForManifest
-RGClassDefinitionTest>>#testManifestReadOn
-RGMetaclassDefinition class>>#manifestReadOn:
-RGMetaclassDefinition>>#arrayStringForManifest
-RGMetaclassDefinitionTest>>#testArrayStringForManifest
-RGMetaclassDefinitionTest>>#testManifestReadOn
-RGMethodDefinitionTest>>#testArrayStringForManifest
-RGMethodDefinitionTest>>#testManifestReadOn
-RPackageOrganizer>>#ensureExistAndRegisterPackageNamed:
-RPackageOrganizer>>#registerPackage:
-RPackageRegistered
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50175
-ScriptLoader>>#update50176
+Manifest-Core.RGMetaclassDefinition class>>#manifestReadOn:
+Manifest-Core.RGMetaclassDefinition>>#arrayStringForManifest
+Manifest-Tests.RGClassDefinitionTest>>#testArrayStringForManifest
+Manifest-Tests.RGClassDefinitionTest>>#testManifestReadOn
+Manifest-Tests.RGMetaclassDefinitionTest>>#testArrayStringForManifest
+Manifest-Tests.RGMetaclassDefinitionTest>>#testManifestReadOn
+Manifest-Tests.RGMethodDefinitionTest>>#testArrayStringForManifest
+Manifest-Tests.RGMethodDefinitionTest>>#testManifestReadOn
+Nautilus.AbstractNautilusUI>>#packageCreated:
+Nautilus.AbstractNautilusUI>>#registerToSystemAnnouncements
+OpalCompiler-Core.CCompilationContext>>#optionInlineRepeat
+OpalCompiler-Core.CompilationContext>>#optionInlineRepeat
+OpalCompiler-Core.OCASTTranslator class>>#initialize
+OpalCompiler-Core.OCASTTranslator>>#emitRepeat:
+OpalCompiler-Core.OpalCompiler class>>#defaultOptions
+OpalCompiler-Core.RBBlockNode>>#isInlinedLoop
+OpalCompiler-Core.RBMessageNode>>#isInlineRepeat
+OpalCompiler-Core.RBMessageNode>>#isInlined
+OpalCompiler-Tests.OCOpalExamples>>#exampleRepeatEffect
+OpalCompiler-Tests.OCOpalExamples>>#exampleRepeatValue
+RPackage-Core.RPackageOrganizer>>#ensureExistAndRegisterPackageNamed:
+RPackage-Core.RPackageOrganizer>>#registerPackage:
+RPackage-Core.RPackageRegistered
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50175
+ScriptLoader50.ScriptLoader>>#update50176

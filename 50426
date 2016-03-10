@@ -1,54 +1,54 @@
-GroupWindowMorph>>#addWindow:
-GroupWindowMorph>>#isWindowActive:
-NewVersionBrowser class>>#browseVersionsForClass:selector:
-NewVersionBrowser class>>#browseVersionsForMethod:
-NewVersionBrowser class>>#registerToolsOn:
-NewVersionBrowser class>>#versionsBrowserListMenu:
-NewVersionBrowser>>#browseImplementors
-NewVersionBrowser>>#browseSenders
-NewVersionBrowser>>#browseVersionsOf:
-NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector:
-NewVersionBrowser>>#browser
-NewVersionBrowser>>#browserForList:
-NewVersionBrowser>>#buildBrowser
-NewVersionBrowser>>#buildChangeList
-NewVersionBrowser>>#compareTo:withLabel:
-NewVersionBrowser>>#compareToCurrentVersion
-NewVersionBrowser>>#compareToOtherVersion
-NewVersionBrowser>>#displayStringsFor:
-NewVersionBrowser>>#revert:
-NewVersionBrowser>>#setRGMethodFrom:
-NewVersionBrowser>>#showDiffMorphWithConverter:
-NewVersionBrowser>>#showSourceWithConverter:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50425
-ScriptLoader>>#update50426
-ScrollPane>>#mouseEnter:
-ScrollPane>>#mouseLeave:
-SingleCodeCriticResultList>>#setTextModelForClassOrMethod:
-SystemWindow class>>#closeTopWindow
-SystemWindow class>>#passivateTopWindow
-SystemWindow>>#activate
-SystemWindow>>#announceActivated
-SystemWindow>>#announceDeActivated
-SystemWindow>>#basicActivate
-SystemWindow>>#beTopWindow
-SystemWindow>>#canBeMaximized
-SystemWindow>>#delete
-SystemWindow>>#handleListenEvent:
-SystemWindow>>#initialize
-SystemWindow>>#isTopWindow
-SystemWindow>>#justDroppedInto:event:
-SystemWindow>>#mouseDown:
-SystemWindow>>#mouseEnterDragging:
-SystemWindow>>#mouseLeaveDragging:
-SystemWindow>>#navigateFocus
-SystemWindow>>#privateBePassive
-SystemWindow>>#toggleClosable
-VersionBrowser
-WindowActivated>>#isActivated
-WindowAnnouncement
-WindowAnnouncement>>#isActivated
-WindowAnnouncement>>#isDeActivated
-WindowAnnouncementTest>>#testResizingClosing
-WindowDeActivated>>#isDeActivated
+Morphic-Tests.WindowAnnouncementTest>>#testResizingClosing
+Morphic-Widgets-Scrolling.ScrollPane>>#mouseEnter:
+Morphic-Widgets-Scrolling.ScrollPane>>#mouseLeave:
+Morphic-Widgets-Windows.GroupWindowMorph>>#addWindow:
+Morphic-Widgets-Windows.GroupWindowMorph>>#isWindowActive:
+Morphic-Widgets-Windows.SystemWindow class>>#closeTopWindow
+Morphic-Widgets-Windows.SystemWindow>>#activate
+Morphic-Widgets-Windows.SystemWindow>>#announceActivated
+Morphic-Widgets-Windows.SystemWindow>>#announceDeActivated
+Morphic-Widgets-Windows.SystemWindow>>#basicActivate
+Morphic-Widgets-Windows.SystemWindow>>#beTopWindow
+Morphic-Widgets-Windows.SystemWindow>>#delete
+Morphic-Widgets-Windows.SystemWindow>>#handleListenEvent:
+Morphic-Widgets-Windows.SystemWindow>>#isTopWindow
+Morphic-Widgets-Windows.SystemWindow>>#mouseDown:
+Morphic-Widgets-Windows.SystemWindow>>#mouseEnterDragging:
+Morphic-Widgets-Windows.SystemWindow>>#mouseLeaveDragging:
+Morphic-Widgets-Windows.SystemWindow>>#navigateFocus
+Morphic-Widgets-Windows.SystemWindow>>#privateBePassive
+Morphic-Widgets-Windows.SystemWindow>>#toggleClosable
+Morphic-Widgets-Windows.WindowActivated>>#isActivated
+Morphic-Widgets-Windows.WindowAnnouncement
+Morphic-Widgets-Windows.WindowAnnouncement>>#isActivated
+Morphic-Widgets-Windows.WindowAnnouncement>>#isDeActivated
+Morphic-Widgets-Windows.WindowDeActivated>>#isDeActivated
+Polymorph-Widgets.SystemWindow class>>#passivateTopWindow
+Polymorph-Widgets.SystemWindow>>#canBeMaximized
+Polymorph-Widgets.SystemWindow>>#initialize
+Polymorph-Widgets.SystemWindow>>#justDroppedInto:event:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50425
+ScriptLoader50.ScriptLoader>>#update50426
+Spec-Tools.NewVersionBrowser class>>#browseVersionsForClass:selector:
+Spec-Tools.NewVersionBrowser class>>#browseVersionsForMethod:
+Spec-Tools.NewVersionBrowser class>>#registerToolsOn:
+Spec-Tools.NewVersionBrowser class>>#versionsBrowserListMenu:
+Spec-Tools.NewVersionBrowser>>#browseImplementors
+Spec-Tools.NewVersionBrowser>>#browseSenders
+Spec-Tools.NewVersionBrowser>>#browseVersionsOf:
+Spec-Tools.NewVersionBrowser>>#browseVersionsOf:class:meta:category:selector:
+Spec-Tools.NewVersionBrowser>>#browser
+Spec-Tools.NewVersionBrowser>>#browserForList:
+Spec-Tools.NewVersionBrowser>>#buildBrowser
+Spec-Tools.NewVersionBrowser>>#buildChangeList
+Spec-Tools.NewVersionBrowser>>#compareTo:withLabel:
+Spec-Tools.NewVersionBrowser>>#compareToCurrentVersion
+Spec-Tools.NewVersionBrowser>>#compareToOtherVersion
+Spec-Tools.NewVersionBrowser>>#displayStringsFor:
+Spec-Tools.NewVersionBrowser>>#revert:
+Spec-Tools.NewVersionBrowser>>#setRGMethodFrom:
+Spec-Tools.NewVersionBrowser>>#showDiffMorphWithConverter:
+Spec-Tools.NewVersionBrowser>>#showSourceWithConverter:
+Spec-Tools.VersionBrowser
+Tool-CriticBrowser.SingleCodeCriticResultList>>#setTextModelForClassOrMethod:

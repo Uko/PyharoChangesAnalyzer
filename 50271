@@ -1,30 +1,30 @@
-AbstractNautilusUI>>#aGroupHasBeenAdded:
-AbstractNautilusUI>>#aGroupHasBeenRemoved:
-GradientFillStyle>>#changeColorOf:rampIndex:
-KomitterUI>>#initializeLatelyPresenter
-KomitterUI>>#initializeWidgets
-KomitterUI>>#refreshDiffForItem:
-ManifestUIManager class>>#manuallyResolvedDependencies
-Nautilus
-Nautilus class>>#nautilusSettingsOn:
-Nautilus class>>#openInEnvironment:
-Nautilus class>>#openOnClass:inEnvironment:
-Nautilus class>>#openOnClass:onProtocol:inEnvironment:
-Nautilus class>>#openOnMethod:inEnvironment:
-Nautilus class>>#resetGroups
-Nautilus>>#spawnHierarchy
-Nautilus>>#spawnHierarchyForClass:selector:
-PackageTreeModel>>#rootNodes
-SHPreferences class>>#styleTableRow
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50270
-ScriptLoader>>#update50271
-SyntaxErrorDebugger
-SyntaxErrorDebugger class>>#buildMorphicViewOn:
-SyntaxErrorDebugger>>#announcer
-SyntaxErrorDebugger>>#codePaneMenu:shifted:
-SyntaxErrorDebugger>>#contents:notifying:
-SyntaxErrorDebugger>>#model
-UIManager>>#chooseOrRequestFrom:title:
-UIManager>>#enterOrRequestFrom:title:
-UIManager>>#theme
+Komitter.KomitterUI>>#initializeLatelyPresenter
+Komitter.KomitterUI>>#initializeWidgets
+Komitter.KomitterUI>>#refreshDiffForItem:
+Morphic-Base.GradientFillStyle>>#changeColorOf:rampIndex:
+Nautilus.AbstractNautilusUI>>#aGroupHasBeenAdded:
+Nautilus.AbstractNautilusUI>>#aGroupHasBeenRemoved:
+Nautilus.Nautilus
+Nautilus.Nautilus class>>#nautilusSettingsOn:
+Nautilus.Nautilus class>>#openInEnvironment:
+Nautilus.Nautilus class>>#openOnClass:inEnvironment:
+Nautilus.Nautilus class>>#openOnClass:onProtocol:inEnvironment:
+Nautilus.Nautilus class>>#openOnMethod:inEnvironment:
+Nautilus.Nautilus class>>#resetGroups
+Nautilus.Nautilus>>#spawnHierarchy
+Nautilus.Nautilus>>#spawnHierarchyForClass:selector:
+Nautilus.PackageTreeModel>>#rootNodes
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50270
+ScriptLoader50.ScriptLoader>>#update50271
+Shout.SHPreferences class>>#styleTableRow
+Tools.SyntaxErrorDebugger
+Tools.SyntaxErrorDebugger class>>#buildMorphicViewOn:
+Tools.SyntaxErrorDebugger>>#announcer
+Tools.SyntaxErrorDebugger>>#codePaneMenu:shifted:
+Tools.SyntaxErrorDebugger>>#contents:notifying:
+Tools.SyntaxErrorDebugger>>#model
+UIManager.ManifestUIManager class>>#manuallyResolvedDependencies
+UIManager.UIManager>>#chooseOrRequestFrom:title:
+UIManager.UIManager>>#enterOrRequestFrom:title:
+UIManager.UIManager>>#theme

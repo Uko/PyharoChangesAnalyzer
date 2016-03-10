@@ -1,17 +1,17 @@
-Behavior>>#metaLinkOptions
-BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
-Collection>>#ifNotEmpty:
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version21:
-PackageManifest class>>#isUsed
-RBScanner>>#scanLiteralCharacter
-RBScannerTest>>#testNextLiteralCharacterWithAMissingCharacter
-ReflectiveMethod>>#metaLinkOptions
-RubFloatingEditorBuilder class>>#exampleCommandLauncher
-RubFloatingEditorBuilder class>>#exampleEditableStringMorph
-RubFloatingEditorBuilder>>#whenReturnEntered:
-RubScrolledTextMorph>>#whenCancelEditRequested:
-RubScrolledTextMorph>>#whenCancelEditRequestedInModel:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50383
-ScriptLoader>>#update50384
+AST-Core.RBScanner>>#scanLiteralCharacter
+AST-Tests-Core.RBScannerTest>>#testNextLiteralCharacterWithAMissingCharacter
+Collections-Abstract.Collection>>#ifNotEmpty:
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version21:
+Kernel-Tests.BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
+Kernel.PackageManifest class>>#isUsed
+Reflectivity.Behavior>>#metaLinkOptions
+Reflectivity.ReflectiveMethod>>#metaLinkOptions
+Rubric.RubFloatingEditorBuilder class>>#exampleCommandLauncher
+Rubric.RubFloatingEditorBuilder class>>#exampleEditableStringMorph
+Rubric.RubFloatingEditorBuilder>>#whenReturnEntered:
+Rubric.RubScrolledTextMorph>>#whenCancelEditRequested:
+Rubric.RubScrolledTextMorph>>#whenCancelEditRequestedInModel:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50383
+ScriptLoader50.ScriptLoader>>#update50384

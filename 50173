@@ -1,27 +1,27 @@
-AbstractNautilusUI>>#addAll:
-AbstractNautilusUI>>#buildColumns:height:
-AbstractNautilusUI>>#navigationAreaProportion
-CatalogCommandLineHandler
-CatalogCommandLineHandler class>>#commandName
-CatalogCommandLineHandler class>>#description
-CatalogCommandLineHandler>>#activate
-CatalogCommandLineHandler>>#getProject
-CatalogCommandLineHandler>>#projectName
-CatalogCommandLineHandler>>#version
-CatalogCommandLineHandler>>#warning:
-CatalogProject>>#installVersion:
-CompiledMethod>>#installLink:
-ConfigurationOfCatalog>>#stable:
-ConfigurationOfCatalog>>#version06:
-MetaLink>>#option:
-MetaLink>>#options:
-MetaLinkTest>>#testLinkOption
-NautilusWindow>>#initialExtent
-RBProgramNode>>#link:
-ReflectiveMethod>>#compileAndInstallCompiledMethod
-ReflectiveMethod>>#installLink:
-ReflectiveMethod>>#run:with:in:
-ReflectivityLinkTest>>#testUninstallLinkAndRunOptionNoJIT
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50172
-ScriptLoader>>#update50173
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version06:
+Nautilus.AbstractNautilusUI>>#addAll:
+Nautilus.AbstractNautilusUI>>#buildColumns:height:
+Nautilus.AbstractNautilusUI>>#navigationAreaProportion
+NautilusCommon.NautilusWindow>>#initialExtent
+Reflectivity-Tests.MetaLinkTest>>#testLinkOption
+Reflectivity-Tests.ReflectivityLinkTest>>#testUninstallLinkAndRunOptionNoJIT
+Reflectivity.CompiledMethod>>#installLink:
+Reflectivity.MetaLink>>#option:
+Reflectivity.MetaLink>>#options:
+Reflectivity.RBProgramNode>>#link:
+Reflectivity.ReflectiveMethod>>#compileAndInstallCompiledMethod
+Reflectivity.ReflectiveMethod>>#installLink:
+Reflectivity.ReflectiveMethod>>#run:with:in:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50172
+ScriptLoader50.ScriptLoader>>#update50173
+Tool-Catalog.CatalogCommandLineHandler
+Tool-Catalog.CatalogCommandLineHandler class>>#commandName
+Tool-Catalog.CatalogCommandLineHandler class>>#description
+Tool-Catalog.CatalogCommandLineHandler>>#activate
+Tool-Catalog.CatalogCommandLineHandler>>#getProject
+Tool-Catalog.CatalogCommandLineHandler>>#projectName
+Tool-Catalog.CatalogCommandLineHandler>>#version
+Tool-Catalog.CatalogCommandLineHandler>>#warning:
+Tool-Catalog.CatalogProject>>#installVersion:

@@ -1,16 +1,16 @@
-AbstractFileReference>>#basenameWithoutExtension:
-FileReferenceTest>>#testBasenameWithoutExtension
-MustBeBooleanTests>>#testAnd
-MustBeBooleanTests>>#testOr
-MyBooleanObject>>#and:
-MyBooleanObject>>#ifTrue:
-MyBooleanObject>>#not
-MyBooleanObject>>#or:
-Path>>#basenameWithoutExtension:
-PathTest>>#testBasenameWithoutExtension
-RBBlockNode>>#sourceNodeForPC:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script634
-ScriptLoader>>#update50026
-String>>#asPackage
-WorldState class>>#saveAs
+FileSystem-Core.AbstractFileReference>>#basenameWithoutExtension:
+FileSystem-Core.Path>>#basenameWithoutExtension:
+FileSystem-Tests-Core.FileReferenceTest>>#testBasenameWithoutExtension
+FileSystem-Tests-Core.PathTest>>#testBasenameWithoutExtension
+Morphic-Core.WorldState class>>#saveAs
+OpalCompiler-Core.RBBlockNode>>#sourceNodeForPC:
+OpalCompiler-Tests.MustBeBooleanTests>>#testAnd
+OpalCompiler-Tests.MustBeBooleanTests>>#testOr
+OpalCompiler-Tests.MyBooleanObject>>#and:
+OpalCompiler-Tests.MyBooleanObject>>#ifTrue:
+OpalCompiler-Tests.MyBooleanObject>>#not
+OpalCompiler-Tests.MyBooleanObject>>#or:
+RPackage-SystemIntegration.String>>#asPackage
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script634
+ScriptLoader50.ScriptLoader>>#update50026

@@ -1,6 +1,6 @@
-Collection
-MenuMorph class>>#example
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50401
-ScriptLoader>>#update50402
-SocketStream class>>#finger:
+Collections-Abstract.Collection
+Morphic-Base.MenuMorph class>>#example
+Network-Kernel.SocketStream class>>#finger:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50401
+ScriptLoader50.ScriptLoader>>#update50402

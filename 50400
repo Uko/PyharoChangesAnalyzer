@@ -1,25 +1,25 @@
-AbstractNautilusUI>>#buildFirstColumn:
-AbstractNautilusUI>>#buildSecondColumn:
-AbstractNautilusUI>>#buttonsBarHeight
-DictionaryTest>>#testNewFrom
-DictionaryTest>>#testNewFromPairs
-OCCompilerASTPlugin>>#transform
-PackageTreeNautilusUI>>#buildFirstColumn:
-PluggableDictionary>>#=
-PluggableDictionary>>#hash
-PluggableDictionary>>#hashBlock
-PluggableDictionaryTest>>#testCopyEmpty
-PluggableDictionaryTest>>#testEqualBlock
-PluggableDictionaryTest>>#testEqualBlockEquality
-PluggableDictionaryTest>>#testHashBlock
-PluggableDictionaryTest>>#testHashBlockEquality
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50399
-ScriptLoader>>#update50400
-SmallDictionary class>>#newFrom:
-SmallDictionary class>>#newFromPairs:
-TDictionaryValueAccessTest>>#supportsNilKey
-TDictionaryValueAccessTest>>#testAtPutNil
-WeakIdentityKeyDictionaryTest>>#supportsNilKey
-WeakKeyDictionaryTest>>#classToBeTested
-ZipFileMember>>#uncompressDataTo:
+Collections-Tests.DictionaryTest>>#testNewFrom
+Collections-Tests.DictionaryTest>>#testNewFromPairs
+Collections-Tests.PluggableDictionaryTest>>#testCopyEmpty
+Collections-Tests.PluggableDictionaryTest>>#testEqualBlock
+Collections-Tests.PluggableDictionaryTest>>#testEqualBlockEquality
+Collections-Tests.PluggableDictionaryTest>>#testHashBlock
+Collections-Tests.PluggableDictionaryTest>>#testHashBlockEquality
+Collections-Tests.TDictionaryValueAccessTest>>#supportsNilKey
+Collections-Tests.TDictionaryValueAccessTest>>#testAtPutNil
+Collections-Tests.WeakIdentityKeyDictionaryTest>>#supportsNilKey
+Collections-Tests.WeakKeyDictionaryTest>>#classToBeTested
+Collections-Unordered.PluggableDictionary>>#=
+Collections-Unordered.PluggableDictionary>>#hash
+Collections-Unordered.PluggableDictionary>>#hashBlock
+Collections-Unordered.SmallDictionary class>>#newFrom:
+Collections-Unordered.SmallDictionary class>>#newFromPairs:
+Compression.ZipFileMember>>#uncompressDataTo:
+Nautilus.AbstractNautilusUI>>#buildFirstColumn:
+Nautilus.AbstractNautilusUI>>#buildSecondColumn:
+Nautilus.AbstractNautilusUI>>#buttonsBarHeight
+Nautilus.PackageTreeNautilusUI>>#buildFirstColumn:
+OpalCompiler-Core.OCCompilerASTPlugin>>#transform
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50399
+ScriptLoader50.ScriptLoader>>#update50400

@@ -1,0 +1,17 @@
+Kernel-Tests.ClassTest>>#testAddSlot
+Kernel-Tests.ClassTest>>#testAddSlotAnonymous
+Kernel.Class>>#addSlot:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#newLabel
+OpalCompiler-Tests.OCCompiledMethodIntegrityTests>>#testBlockTemps
+OpalCompiler-Tests.OCCompiledMethodIntegrityTests>>#testNotUsedArgument
+OpalCompiler-Tests.OCCompiledMethodIntegrityTests>>#testPragmas
+OpalCompiler-Tests.OCCompiledMethodIntegrityTests>>#testPrimitive
+OpalCompiler-Tests.OCCompiledMethodIntegrityTests>>#testRemoteTempInVector
+Polymorph-Widgets.UITheme>>#buttonLabelFor:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50626
+ScriptLoader50.ScriptLoader>>#update50627
+Slot.SlotClassBuilder>>#name:
+Tool-Profilers.MessageTally>>#tally:by:
+Tool-Profilers.MessageTally>>#tally:in:by:
+Tool-Profilers.QSystemTally>>#tally:by:

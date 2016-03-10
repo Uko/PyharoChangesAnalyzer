@@ -1,23 +1,23 @@
-CommandLineTestRunner>>#handleFailure:of:
-CommandLineTestRunner>>#printError:of:
-CommandLineTestRunner>>#printFailure:of:
-HDReport class>>#runPackages:
-HDTestReport class>>#runClasses:named:
-HDTestReport class>>#runSuite:
-HDTestReport>>#hasFailuresOrErrors
-HDTestReport>>#initialize
-HDTestReport>>#initializeOn:
-HDTestReport>>#suiteErrors
-HDTestReport>>#suiteFailures
-HDTestReport>>#suitePassing
-HDTestReport>>#suiteTotal
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50276
-ScriptLoader>>#update50277
-TestCommandLineHandler>>#addPackagesMatching:to:
-TestCommandLineHandler>>#addPackagesMatchingGlob:to:
-TestCommandLineHandler>>#addPackagesMatchingRegex:to:
-TestCommandLineHandler>>#informResults:
-TestCommandLineHandler>>#packages
-TestCommandLineHandler>>#runPackages
-TestCommandLineHandler>>#testRunner
+HudsonBuildTools20.HDReport class>>#runPackages:
+HudsonBuildTools20.HDTestReport class>>#runClasses:named:
+HudsonBuildTools20.HDTestReport class>>#runSuite:
+HudsonBuildTools20.HDTestReport>>#hasFailuresOrErrors
+HudsonBuildTools20.HDTestReport>>#initialize
+HudsonBuildTools20.HDTestReport>>#initializeOn:
+HudsonBuildTools20.HDTestReport>>#suiteErrors
+HudsonBuildTools20.HDTestReport>>#suiteFailures
+HudsonBuildTools20.HDTestReport>>#suitePassing
+HudsonBuildTools20.HDTestReport>>#suiteTotal
+HudsonBuildTools20.TestCommandLineHandler>>#addPackagesMatching:to:
+HudsonBuildTools20.TestCommandLineHandler>>#addPackagesMatchingGlob:to:
+HudsonBuildTools20.TestCommandLineHandler>>#addPackagesMatchingRegex:to:
+HudsonBuildTools20.TestCommandLineHandler>>#informResults:
+HudsonBuildTools20.TestCommandLineHandler>>#packages
+HudsonBuildTools20.TestCommandLineHandler>>#runPackages
+HudsonBuildTools20.TestCommandLineHandler>>#testRunner
+SUnit-UI.CommandLineTestRunner>>#handleFailure:of:
+SUnit-UI.CommandLineTestRunner>>#printError:of:
+SUnit-UI.CommandLineTestRunner>>#printFailure:of:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50276
+ScriptLoader50.ScriptLoader>>#update50277

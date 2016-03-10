@@ -1,97 +1,97 @@
-Gofer>>#url:username:password:
-MCFileBasedRepository class>>#basicFromUrl:
-MCFileBasedRepository class>>#urlSchemes
-MCFileTreeRepository class>>#basicFromUrl:
-MCFileTreeRepository class>>#urlSchemes
-MCFtpRepository class>>#basicFromUrl:
-MCFtpRepository class>>#urlSchemes
-MCGitHubRepository class>>#basicFromUrl:
-MCGitHubRepository class>>#urlSchemes
-MCHttpRepository class>>#basicFromUrl:
-MCHttpRepository class>>#urlSchemes
-MCRepository class>>#fromUrl:
-MCRepository class>>#urlSchemes
-MCRepositoryTest>>#testCanCreateFileRepositoryFromUrl
-MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
-MCRepositoryTest>>#testCanCreateFtpRepositoryFromUrl
-MCRepositoryTest>>#testCanCreateGitHubRepositoryFromUrl
-MCRepositoryTest>>#testCanCreateHttpRepositoryFromUrl
-MCRepositoryTest>>#testCanCreateHttpsRepositoryFromUrl
-MCRepositoryTest>>#testCannotCreateDictionaryRepositoryFromUrl
-ReflectiveMethodTest
-ReflectiveMethodTest>>#tagExec
-ReflectiveMethodTest>>#tagExec:
-ReflectiveMethodTest>>#tearDown
-ReflectiveMethodTest>>#testAfterArray
-ReflectiveMethodTest>>#testAfterAssignment
-ReflectiveMethodTest>>#testAfterBlock
-ReflectiveMethodTest>>#testAfterLiteral
-ReflectiveMethodTest>>#testAfterLiteralArray
-ReflectiveMethodTest>>#testAfterMethod
-ReflectiveMethodTest>>#testAfterSend
-ReflectiveMethodTest>>#testAfterVariable
-ReflectiveMethodTest>>#testBeforeLiteral
-ReflectiveMethodTest>>#testBeforeLiteralArray
-ReflectiveMethodTest>>#testBeforeMethod
-ReflectiveMethodTest>>#testBeforeReturn
-ReflectiveMethodTest>>#testBeforeSend
-ReflectiveMethodTest>>#testBeforeSequence
-ReflectiveMethodTest>>#testBeforeVariable
-ReflectiveMethodTest>>#testConditionArgument
-ReflectiveMethodTest>>#testLinkConditionReflectiveDisable
-ReflectiveMethodTest>>#testLinkWithCondition
-ReflectiveMethodTest>>#testLinkWithConditionInvalidation
-ReflectiveMethodTest>>#testLinkWithMeta
-ReflectiveMethodTest>>#testLinkWithMetaDisabled
-ReflectiveMethodTest>>#testReifyArguments
-ReflectiveMethodTest>>#testReifyArguments2
-ReflectiveMethodTest>>#testReifyGlobalName
-ReflectiveMethodTest>>#testReifyGlobalValue
-ReflectiveMethodTest>>#testReifyGlobalVariable
-ReflectiveMethodTest>>#testReifyIvarName
-ReflectiveMethodTest>>#testReifyIvarValue
-ReflectiveMethodTest>>#testReifyIvarVariable
-ReflectiveMethodTest>>#testReifyMethodArgs
-ReflectiveMethodTest>>#testReifyMethodReceiver
-ReflectiveMethodTest>>#testReifyMethodSelector
-ReflectiveMethodTest>>#testReifyMethodThisContext
-ReflectiveMethodTest>>#testReifyName
-ReflectiveMethodTest>>#testReifyNewValue
-ReflectiveMethodTest>>#testReifyNewValueAssignment
-ReflectiveMethodTest>>#testReifyNode
-ReflectiveMethodTest>>#testReifyObject
-ReflectiveMethodTest>>#testReifyReturnValue
-ReflectiveMethodTest>>#testReifySendAll
-ReflectiveMethodTest>>#testReifySendReceiver
-ReflectiveMethodTest>>#testReifySendSelector
-ReflectiveMethodTest>>#testReifySendThisContext
-ReflectiveMethodTest>>#testReifyTempValue
-ReflectiveMethodTest>>#testReplaceAssign
-ReflectiveMethodTest>>#testReplaceReturn
-ReflectiveMethodTest>>#testReplaceSend
-ReflectiveMethodTest>>#testReplaceVariableReadGlobal
-ReflectiveMethodTest>>#testReplaceVariableReadIvar
-ReflectiveMethodTest>>#testReplaceVariableReadTemp
-ReflectiveMethodTest>>#testReplaceVariableWrite
-ReflectiveMethodTest>>#testSetLinkIncompatibleReification
-ReflectiveMethodTest>>#testSymbolicMetaObject
-ReflectiveMethodTest>>#testTwoLinks
-ReflectiveMethodTest>>#testTwoSendLinks
-ReflectiveMethodTest>>#testUninstallLink
-ReflectiveMethodTest>>#testUninstallLinkAndRun
-ReflectiveMethodTest>>#testbeforeArray
-ReflectivityControlTest
-ReflectivityControlTest>>#testAfterAssignment
-ReflectivityLinkTest
-ReflectivityLinkTest>>#tagExec
-ReflectivityLinkTest>>#tagExec:
-ReflectivityLinkTest>>#tearDown
-ReflectivityReificationTest
-ReflectivityReificationTest>>#tagExec
-ReflectivityReificationTest>>#tagExec:
-ReflectivityReificationTest>>#tearDown
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50160
-ScriptLoader>>#update50161
-ZnUrl>>#asFileReferenceWithRelativePath
-ZnUrl>>#location
+Gofer-Core.Gofer>>#url:username:password:
+Gofer-Core.ZnUrl>>#asFileReferenceWithRelativePath
+Metacello-GitHub.MCGitHubRepository class>>#basicFromUrl:
+Metacello-GitHub.MCGitHubRepository class>>#urlSchemes
+Monticello-Tests.MCRepositoryTest>>#testCanCreateFileRepositoryFromUrl
+Monticello-Tests.MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
+Monticello-Tests.MCRepositoryTest>>#testCanCreateFtpRepositoryFromUrl
+Monticello-Tests.MCRepositoryTest>>#testCanCreateGitHubRepositoryFromUrl
+Monticello-Tests.MCRepositoryTest>>#testCanCreateHttpRepositoryFromUrl
+Monticello-Tests.MCRepositoryTest>>#testCanCreateHttpsRepositoryFromUrl
+Monticello-Tests.MCRepositoryTest>>#testCannotCreateDictionaryRepositoryFromUrl
+Monticello.MCFileBasedRepository class>>#basicFromUrl:
+Monticello.MCFileBasedRepository class>>#urlSchemes
+Monticello.MCRepository class>>#fromUrl:
+Monticello.MCRepository class>>#urlSchemes
+Monticello.ZnUrl>>#location
+MonticelloFileTree-Core.MCFileTreeRepository class>>#basicFromUrl:
+MonticelloFileTree-Core.MCFileTreeRepository class>>#urlSchemes
+MonticelloRemoteRepositories.MCFtpRepository class>>#basicFromUrl:
+MonticelloRemoteRepositories.MCFtpRepository class>>#urlSchemes
+MonticelloRemoteRepositories.MCHttpRepository class>>#basicFromUrl:
+MonticelloRemoteRepositories.MCHttpRepository class>>#urlSchemes
+Reflectivity-Tests.ReflectiveMethodTest
+Reflectivity-Tests.ReflectiveMethodTest>>#tagExec
+Reflectivity-Tests.ReflectiveMethodTest>>#tagExec:
+Reflectivity-Tests.ReflectiveMethodTest>>#tearDown
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterArray
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterAssignment
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterBlock
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterLiteral
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterLiteralArray
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterMethod
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterSend
+Reflectivity-Tests.ReflectiveMethodTest>>#testAfterVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testBeforeLiteral
+Reflectivity-Tests.ReflectiveMethodTest>>#testBeforeLiteralArray
+Reflectivity-Tests.ReflectiveMethodTest>>#testBeforeMethod
+Reflectivity-Tests.ReflectiveMethodTest>>#testBeforeReturn
+Reflectivity-Tests.ReflectiveMethodTest>>#testBeforeSend
+Reflectivity-Tests.ReflectiveMethodTest>>#testBeforeSequence
+Reflectivity-Tests.ReflectiveMethodTest>>#testBeforeVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testConditionArgument
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkConditionReflectiveDisable
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithCondition
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithConditionInvalidation
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithMeta
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithMetaDisabled
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyArguments
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyArguments2
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyGlobalName
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyGlobalValue
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyGlobalVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyIvarName
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyIvarValue
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyIvarVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyMethodArgs
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyMethodReceiver
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyMethodSelector
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyMethodThisContext
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyName
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyNewValue
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyNewValueAssignment
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyNode
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyObject
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyReturnValue
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifySendAll
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifySendReceiver
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifySendSelector
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifySendThisContext
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyTempValue
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceAssign
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceReturn
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceSend
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableReadGlobal
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableReadIvar
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableReadTemp
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceVariableWrite
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkIncompatibleReification
+Reflectivity-Tests.ReflectiveMethodTest>>#testSymbolicMetaObject
+Reflectivity-Tests.ReflectiveMethodTest>>#testTwoLinks
+Reflectivity-Tests.ReflectiveMethodTest>>#testTwoSendLinks
+Reflectivity-Tests.ReflectiveMethodTest>>#testUninstallLink
+Reflectivity-Tests.ReflectiveMethodTest>>#testUninstallLinkAndRun
+Reflectivity-Tests.ReflectiveMethodTest>>#testbeforeArray
+Reflectivity-Tests.ReflectivityControlTest
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterAssignment
+Reflectivity-Tests.ReflectivityLinkTest
+Reflectivity-Tests.ReflectivityLinkTest>>#tagExec
+Reflectivity-Tests.ReflectivityLinkTest>>#tagExec:
+Reflectivity-Tests.ReflectivityLinkTest>>#tearDown
+Reflectivity-Tests.ReflectivityReificationTest
+Reflectivity-Tests.ReflectivityReificationTest>>#tagExec
+Reflectivity-Tests.ReflectivityReificationTest>>#tagExec:
+Reflectivity-Tests.ReflectivityReificationTest>>#tearDown
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50160
+ScriptLoader50.ScriptLoader>>#update50161

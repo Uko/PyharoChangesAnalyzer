@@ -1,25 +1,25 @@
-AbstractNautilusPlugin class>>#isUsed
-AnnotationPanePlugin>>#buildString
-AnnotationRequest
-DebuggerModelTest>>#setUp
-DebuggerModelTest>>#testCorrectlyCreateDebugSession
-DebuggerModelTest>>#testStepInto
-DebuggerModelTest>>#testStepOver
-DebuggerTest>>#testBasic
-FilterTest>>#setUp
-MorphicUIManager>>#interruptName:preemptedProcess:
-NautilusHistoryEntry
-NautilusPluginManager>>#addButtonState
-NautilusPluginManager>>#removeButtonState
-PolymorphSystemSettings
-PolymorphSystemSettings class>>#desktopBackgroundChanged
-PolymorphSystemSettings class>>#desktopImageLayout
-PolymorphSystemSettings class>>#desktopImageLayout:
-PolymorphSystemSettings class>>#desktopSettingsOn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50463
-ScriptLoader>>#update50464
-SequenceableCollection>>#max:
-SpecDebugger>>#lowSpaceChoices
-TabManager>>#addTabContents:at:delta:
-TabWithNoContents>>#tab
+Debugger-Tests.DebuggerModelTest>>#setUp
+Debugger-Tests.DebuggerModelTest>>#testCorrectlyCreateDebugSession
+Debugger-Tests.DebuggerModelTest>>#testStepInto
+Debugger-Tests.DebuggerModelTest>>#testStepOver
+Debugger-Tests.FilterTest>>#setUp
+Morphic-Widgets-Tabs.SequenceableCollection>>#max:
+Morphic-Widgets-Tabs.TabManager>>#addTabContents:at:delta:
+Morphic-Widgets-Tabs.TabWithNoContents>>#tab
+NautilusCommon.AbstractNautilusPlugin class>>#isUsed
+NautilusCommon.AnnotationPanePlugin>>#buildString
+NautilusCommon.AnnotationRequest
+NautilusCommon.NautilusHistoryEntry
+NautilusCommon.NautilusPluginManager>>#addButtonState
+NautilusCommon.NautilusPluginManager>>#removeButtonState
+Polymorph-Widgets.MorphicUIManager>>#interruptName:preemptedProcess:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50463
+ScriptLoader50.ScriptLoader>>#update50464
+Settings-Polymorph.PolymorphSystemSettings
+Settings-Polymorph.PolymorphSystemSettings class>>#desktopBackgroundChanged
+Settings-Polymorph.PolymorphSystemSettings class>>#desktopImageLayout
+Settings-Polymorph.PolymorphSystemSettings class>>#desktopImageLayout:
+Settings-Polymorph.PolymorphSystemSettings class>>#desktopSettingsOn:
+Spec-Debugger.SpecDebugger>>#lowSpaceChoices
+Tools-Test.DebuggerTest>>#testBasic

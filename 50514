@@ -1,10 +1,10 @@
-CompiledMethod>>#ffiArgumentNames
-ConfigurationOfFFINB>>#development:
-ConfigurationOfFFINB>>#stable:
-ConfigurationOfFFINB>>#version093:
-FFICallout>>#indirectLoader:byIndex:
-FFICallout>>#sender:
-FFIExternalStructure class>>#structureSize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50513
-ScriptLoader>>#update50514
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#development:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#stable:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#version093:
+FFI-NB.CompiledMethod>>#ffiArgumentNames
+FFI-NB.FFICallout>>#indirectLoader:byIndex:
+FFI-NB.FFICallout>>#sender:
+FFI-NB.FFIExternalStructure class>>#structureSize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50513
+ScriptLoader50.ScriptLoader>>#update50514

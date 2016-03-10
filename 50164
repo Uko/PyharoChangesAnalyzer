@@ -1,6 +1,6 @@
-MCVersionLoader>>#load
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50163
-ScriptLoader>>#update50164
-UTF8InvalidText
-UTF8TextConverter>>#errorMalformedInput
+Monticello.MCVersionLoader>>#load
+Multilingual-TextConversion.UTF8InvalidText
+Multilingual-TextConversion.UTF8TextConverter>>#errorMalformedInput
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50163
+ScriptLoader50.ScriptLoader>>#update50164

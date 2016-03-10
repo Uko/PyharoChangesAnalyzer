@@ -1,11 +1,11 @@
-MCHttpRepository>>#storeVersion:
-MCRepository>>#retryOnCredentialRequest:
-MCRepository>>#storeVersion:
-MCWorkingCopyBrowser>>#storeDependencies:in:
-MCWorkingCopyBrowser>>#storeVersion:in:
-RBLintRule class>>#isUsed
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50290
-ScriptLoader>>#update50291
-TBehavior>>#isUsed
-TestCase class>>#isUsed
+Monticello.MCRepository>>#retryOnCredentialRequest:
+Monticello.MCRepository>>#storeVersion:
+MonticelloGUI.MCWorkingCopyBrowser>>#storeDependencies:in:
+MonticelloGUI.MCWorkingCopyBrowser>>#storeVersion:in:
+MonticelloRemoteRepositories.MCHttpRepository>>#storeVersion:
+Refactoring-Critics.RBLintRule class>>#isUsed
+SUnit-Core.TestCase class>>#isUsed
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50290
+ScriptLoader50.ScriptLoader>>#update50291
+System-Support.TBehavior>>#isUsed

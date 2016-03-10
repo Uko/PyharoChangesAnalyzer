@@ -1,4 +1,4 @@
-PluggableButtonMorph>>#on:getState:action:label:menu:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50217
-ScriptLoader>>#update50218
+Morphic-Widgets-Basic.PluggableButtonMorph>>#on:getState:action:label:menu:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50217
+ScriptLoader50.ScriptLoader>>#update50218

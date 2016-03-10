@@ -1,35 +1,35 @@
-BaselineOfQualityAssistant>>#baseline:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#v1_2_2:
-ConfigurationOfRenraku>>#stable:
-ConfigurationOfRenraku>>#v0_4_1:
-LiteralVariable>>#clearReflectivityAnnotations
-LiteralVariable>>#link:
-LiteralVariable>>#links
-LiteralVariable>>#propertyAt:ifAbsentPut:
-LiteralVariable>>#propertyAt:put:
-LiteralVariable>>#removeLink:
-LiteralVariable>>#removePropertiesIfEmpty
-ReEngine class>>#cleanUp
-ReEngine class>>#reset
-ReflectiveMethodTest>>#testSetLinkOnClassVariable
-ReflectiveMethodTest>>#testSetLinkOnClassVariableAndUninstall
-ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
-ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50234
-ScriptLoader>>#update50235
-Slot
-Slot class>>#initialize
-Slot class>>#initializeProperties
-Slot>>#ensureProperties
-Slot>>#properties
-Slot>>#propertyAt:
-Slot>>#propertyAt:ifAbsent:
-Slot>>#propertyAt:put:
-Slot>>#removePropertiesIfEmpty
-Slot>>#removeProperty:
-Slot>>#removeProperty:ifAbsent:
-SlotTest
-SlotTest>>#testPropertyAtPut
-SlotTest>>#testRemoveProperty
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_2_2:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_4_1:
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnClassVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnClassVariableAndUninstall
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
+Reflectivity.LiteralVariable>>#clearReflectivityAnnotations
+Reflectivity.LiteralVariable>>#link:
+Reflectivity.LiteralVariable>>#links
+Reflectivity.LiteralVariable>>#removeLink:
+Renraku.ReEngine class>>#cleanUp
+Renraku.ReEngine class>>#reset
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50234
+ScriptLoader50.ScriptLoader>>#update50235
+Slot-Tests.SlotTest
+Slot-Tests.SlotTest>>#testPropertyAtPut
+Slot-Tests.SlotTest>>#testRemoveProperty
+Slot.LiteralVariable>>#propertyAt:ifAbsentPut:
+Slot.LiteralVariable>>#propertyAt:put:
+Slot.LiteralVariable>>#removePropertiesIfEmpty
+Slot.Slot
+Slot.Slot class>>#initialize
+Slot.Slot class>>#initializeProperties
+Slot.Slot>>#ensureProperties
+Slot.Slot>>#properties
+Slot.Slot>>#propertyAt:
+Slot.Slot>>#propertyAt:ifAbsent:
+Slot.Slot>>#propertyAt:put:
+Slot.Slot>>#removePropertiesIfEmpty
+Slot.Slot>>#removeProperty:
+Slot.Slot>>#removeProperty:ifAbsent:

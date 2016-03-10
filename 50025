@@ -1,13 +1,13 @@
-RadioButtonGroup
-RadioButtonGroup>>#addRadioButton:
-RadioButtonGroup>>#initialize
-RadioButtonGroup>>#selectedButton
-RadioButtonGroupExample class>>#example
-RadioButtonGroupExample>>#initialize
-RadioButtonGroupExample>>#initializePresenter
-RadioButtonGroupExample>>#instantiateMorphs
-RadioButtonGroupExample>>#on:show:
-SHRBTextStyler>>#visitClassReferenceNode:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script633
-ScriptLoader>>#update50025
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script633
+ScriptLoader50.ScriptLoader>>#update50025
+Shout.SHRBTextStyler>>#visitClassReferenceNode:
+Spec-Core.RadioButtonGroup
+Spec-Core.RadioButtonGroup>>#addRadioButton:
+Spec-Core.RadioButtonGroup>>#initialize
+Spec-Core.RadioButtonGroup>>#selectedButton
+Spec-Examples.RadioButtonGroupExample class>>#example
+Spec-Examples.RadioButtonGroupExample>>#initialize
+Spec-Examples.RadioButtonGroupExample>>#initializePresenter
+Spec-Examples.RadioButtonGroupExample>>#instantiateMorphs
+Spec-Examples.RadioButtonGroupExample>>#on:show:

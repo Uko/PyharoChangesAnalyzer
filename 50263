@@ -1,10 +1,10 @@
-CustomHelp class>>#icon
-ExternalBrowser class>>#serviceBrowseCode
-Halt class>>#ifShiftPressed
-MCPatchOperation>>#initialize
-MCPatchOperation>>#source
-MCPatchOperation>>#sourceText
-Object>>#haltIfShiftPressed
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50262
-ScriptLoader>>#update50263
+HelpSystem-Core.CustomHelp class>>#icon
+Kernel.Halt class>>#ifShiftPressed
+Kernel.Object>>#haltIfShiftPressed
+Monticello.MCPatchOperation>>#initialize
+Monticello.MCPatchOperation>>#sourceText
+MonticelloGUI.MCPatchOperation>>#source
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50262
+ScriptLoader50.ScriptLoader>>#update50263
+Tool-ExternalBrowser.ExternalBrowser class>>#serviceBrowseCode

@@ -1,0 +1,240 @@
+GT-BytecodeDebugger.GTBytecodeDebugger class>>#helpClass
+GT-BytecodeDebugger.GTBytecodeDebuggerHelp
+GT-BytecodeDebugger.GTBytecodeDebuggerHelp class>>#bookName
+GT-BytecodeDebugger.GTBytecodeDebuggerHelp class>>#overview
+GT-BytecodeDebugger.GTBytecodeDebuggerHelp class>>#pages
+GT-BytecodeDebugger.GTStepToBytecodeDebugAction>>#appliesToDebugger:
+GT-Debugger.GTDebuggerHelp
+GT-Debugger.GTDebuggerHelp class>>#actions
+GT-Debugger.GTDebuggerHelp class>>#bookName
+GT-Debugger.GTDebuggerHelp class>>#key
+GT-Debugger.GTDebuggerHelp class>>#overview
+GT-Debugger.GTDebuggerHelp class>>#pages
+GT-Debugger.GTGenericStackDebugger class>>#helpClass
+GT-Debugger.GTGenericStackDebugger>>#selectionChanged:
+GT-Debugger.GTGenericStackDebugger>>#stackWidgetIn:
+GT-Debugger.GTHelpDebugAction
+GT-Debugger.GTHelpDebugAction class>>#gtDebuggingAction
+GT-Debugger.GTHelpDebugAction>>#defaultIcon
+GT-Debugger.GTHelpDebugAction>>#defaultLabel
+GT-Debugger.GTHelpDebugAction>>#defaultOrder
+GT-Debugger.GTHelpDebugAction>>#executeAction
+GT-Debugger.GTHelpDebugAction>>#initialize
+GT-Debugger.GTMoldableDebugger class>>#helpClass
+GT-Debugger.ProtoObject>>#gtDebuggerPresentationsIn:inContext:
+GT-EventRecorder.GTEventAnnouncement>>#addInfoFor:
+GT-EventRecorder.GTEventAnnouncement>>#gtInspectorActionUnpackData
+GT-Inspector.GTExample class>>#gtExample
+GT-Inspector.GTExampleNotDefinedRule
+GT-Inspector.GTExampleNotDefinedRule class>>#checksClass
+GT-Inspector.GTExampleNotDefinedRule class>>#uniqueIdentifierName
+GT-Inspector.GTExampleNotDefinedRule>>#basicCheck:
+GT-Inspector.GTExampleNotDefinedRule>>#check:forCriticsDo:ifNone:
+GT-Inspector.GTExampleNotDefinedRule>>#checkClass:
+GT-Inspector.GTExampleNotDefinedRule>>#containsCustomExtension:
+GT-Inspector.GTExampleNotDefinedRule>>#containsGTExample:
+GT-Inspector.GTExampleNotDefinedRule>>#group
+GT-Inspector.GTExampleNotDefinedRule>>#name
+GT-Inspector.GTExampleNotDefinedRule>>#resultClass
+GT-Inspector.GTExampleNotDefinedRule>>#severity
+GT-Inspector.GTExampleOrganizer>>#notifying
+GT-Inspector.GTInspector class>>#extensionsPragma
+GT-Inspector.GTInspector class>>#inspectorExtendingMethods
+GT-Inspector.GTInspector>>#compose
+GT-Inspector.GTInspectorHelp class>>#bookName
+GT-Inspector.GTInspectorHelp class>>#extensions
+GT-Inspector.GTInspectorHelp class>>#extensionsString
+GT-Inspector.GTInspectorHelp class>>#key
+GT-Inspector.GTInspectorHelp class>>#overview
+GT-Inspector.GTInspectorHelp class>>#pages
+GT-Inspector.GTRawObjectVariablesBrowser>>#variablesIn:
+GT-Inspector.Object>>#gtExampleSourceIn:inContext:
+GT-Inspector.ProtoObject>>#gtInspectorPresentationsIn:inContext:
+GT-Inspector.TClass>>#gtInspectorGTExamplesIn:
+GT-InspectorExtensions-Core.ByteArray>>#gtInspectorBytesIn:
+GT-InspectorExtensions-Core.FileReference>>#gtInspectorContentsIn:
+GT-InspectorExtensions-Core.MetacelloVersion>>#gtInspectorPackagesIn:
+GT-InspectorExtensions-Core.RBCompositeRefactoryChange>>#gtInspectorPreviewIn:
+GT-InspectorExtensions-Core.RBNamespace class>>#gtExampleEmpty
+GT-InspectorExtensions-Core.RBNamespace>>#gtInspectorPreviewIn:
+GT-InspectorExtensions-Core.RBRefactoryChange class>>#gtExampleEmpty
+GT-InspectorExtensions-Core.RBRefactoryChange>>#gtInspectorPreviewIn:
+GT-Playground.GTPlayground>>#compose
+GT-Playground.GTPlaygroundHelp
+GT-Playground.GTPlaygroundHelp class>>#bookName
+GT-Playground.GTPlaygroundHelp class>>#key
+GT-Playground.GTPlaygroundHelp class>>#overview
+GT-Playground.GTPlaygroundHelp class>>#pages
+GT-SUnitDebugger.GTSUnitActivationPredicate>>#matchContext:
+GT-SUnitDebugger.GTSUnitDebugSession
+GT-SUnitDebugger.GTSUnitDebugSession>>#assertionCallerContext
+GT-SUnitDebugger.GTSUnitDebugSession>>#assertionContext
+GT-SUnitDebugger.GTSUnitDebugSession>>#expectedResult
+GT-SUnitDebugger.GTSUnitDebugSession>>#initializeAssestionContextFrom:
+GT-SUnitDebugger.GTSUnitDebugSession>>#initializeTestContextFrom:
+GT-SUnitDebugger.GTSUnitDebugSession>>#process:context:
+GT-SUnitDebugger.GTSUnitDebugSession>>#supportsDiff
+GT-SUnitDebugger.GTSUnitDebugSession>>#testContext
+GT-SUnitDebugger.GTSUnitDebugSession>>#testObject
+GT-SUnitDebugger.GTSUnitDebugger class>>#helpClass
+GT-SUnitDebugger.GTSUnitDebugger>>#contextToSelectFrom:
+GT-SUnitDebugger.GTSUnitDebugger>>#inspectorDiffIn:
+GT-SUnitDebugger.GTSUnitDebugger>>#inspectorIn:
+GT-SUnitDebugger.GTSUnitDebugger>>#textualDiffIn:
+GT-SUnitDebugger.GTSUnitDebuggerHelp
+GT-SUnitDebugger.GTSUnitDebuggerHelp class>>#bookName
+GT-SUnitDebugger.GTSUnitDebuggerHelp class>>#overview
+GT-SUnitDebugger.GTSUnitDebuggerHelp class>>#pages
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction class>>#gtDebuggerActionFor:
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction>>#appliesToDebugger:
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction>>#defaultLabel
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction>>#defaultOrder
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction>>#executeAction
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction>>#id
+GT-SUnitDebugger.GTSUnitDebuggerJumpToTestAction>>#initialize
+GT-SUnitDebugger.GTSUnitExampleFailingTest>>#checkWithFailure
+GT-SUnitDebugger.GTSUnitExampleFailingTest>>#intermediaryCheckWithFailure
+GT-SUnitDebugger.GTSUnitExampleFailingTest>>#testFailingAssestionThroughAHelperMethod
+GT-SUnitDebugger.GTSUnitExampleFailingTest>>#testSimpleFailingAssestion
+GT-SUnitDebugger.GTSUnitExampleFailingTest>>#testWithHalt
+GT-Spotter-EventRecorder.GTSpotterRecorderEvent>>#gtInspectorItems
+GT-Spotter.GTFilter>>#addItem:
+GT-Spotter.GTFilter>>#addItems:
+GT-Spotter.GTFilter>>#allItems
+GT-Spotter.GTFilter>>#defaultFilteredItems
+GT-Spotter.GTFilter>>#initialize
+GT-Spotter.GTFilter>>#prepareFilterInContext:
+GT-Spotter.GTSpotter class>>#extensionsPragma
+GT-Spotter.GTSpotter class>>#spotterExtendingMethods
+GT-Spotter.GTSpotter>>#initialize
+GT-Spotter.GTSpotter>>#requestNextCategoryStepWith:
+GT-Spotter.GTSpotter>>#requestNextStepWith:for:
+GT-Spotter.GTSpotterCandidatesList>>#getProcessorLink:
+GT-Spotter.GTSpotterCandidatesListProcessor>>#doFilterInContext:
+GT-Spotter.GTSpotterCandidatesListProcessor>>#withItemsLimit:do:
+GT-Spotter.GTSpotterCandidatesProcessor>>#doFilterInContext:
+GT-Spotter.GTSpotterCategoryTitleBrick>>#stepModel:
+GT-Spotter.GTSpotterContext
+GT-Spotter.GTSpotterContext>>#cache
+GT-Spotter.GTSpotterContext>>#canContinue
+GT-Spotter.GTSpotterContext>>#continueFilter
+GT-Spotter.GTSpotterContext>>#continuing
+GT-Spotter.GTSpotterContext>>#continuing:
+GT-Spotter.GTSpotterContext>>#defaultCache
+GT-Spotter.GTSpotterContext>>#defaultContinuing
+GT-Spotter.GTSpotterContext>>#doContinueFilterForProcessor:
+GT-Spotter.GTSpotterContext>>#doFilter:forProcessor:
+GT-Spotter.GTSpotterContext>>#filter
+GT-Spotter.GTSpotterContext>>#filter:
+GT-Spotter.GTSpotterContext>>#initialize
+GT-Spotter.GTSpotterContext>>#isContinuing
+GT-Spotter.GTSpotterContext>>#isEmpty
+GT-Spotter.GTSpotterContext>>#streamed
+GT-Spotter.GTSpotterContext>>#streamed:
+GT-Spotter.GTSpotterContext>>#text
+GT-Spotter.GTSpotterContext>>#text:
+GT-Spotter.GTSpotterContext>>#withContinue:do:
+GT-Spotter.GTSpotterExtensionSettings
+GT-Spotter.GTSpotterExtensionSettings class>>#catalogSettingsOn:
+GT-Spotter.GTSpotterExtensionSettings class>>#disableProcessorDefinedInMethod:
+GT-Spotter.GTSpotterExtensionSettings class>>#disabledExtensions
+GT-Spotter.GTSpotterExtensionSettings class>>#doesNotUnderstand:
+GT-Spotter.GTSpotterExtensionSettings class>>#enableProcessorDefinedInMethod:
+GT-Spotter.GTSpotterExtensionSettings class>>#internalKeyForMethod:
+GT-Spotter.GTSpotterExtensionSettings class>>#shouldSpotterIgnoreProcessorDefinedInMethod:
+GT-Spotter.GTSpotterHeaderBrick
+GT-Spotter.GTSpotterHeaderBrick>>#helpButton
+GT-Spotter.GTSpotterHeaderBrick>>#helpButton:
+GT-Spotter.GTSpotterHeaderBrick>>#initialize
+GT-Spotter.GTSpotterHeaderBrick>>#newHelpButton
+GT-Spotter.GTSpotterHeaderBrick>>#onHideHints
+GT-Spotter.GTSpotterHeaderBrick>>#onRevealHints
+GT-Spotter.GTSpotterHelp
+GT-Spotter.GTSpotterHelp class>>#bookName
+GT-Spotter.GTSpotterHelp class>>#extensions
+GT-Spotter.GTSpotterHelp class>>#extensionsString
+GT-Spotter.GTSpotterHelp class>>#key
+GT-Spotter.GTSpotterHelp class>>#keybindings
+GT-Spotter.GTSpotterHelp class>>#overview
+GT-Spotter.GTSpotterHelp class>>#pages
+GT-Spotter.GTSpotterIterator>>#value
+GT-Spotter.GTSpotterPreviewArrowBrick>>#onHidePreview
+GT-Spotter.GTSpotterPreviewArrowBrick>>#onShowPreview
+GT-Spotter.GTSpotterProcessor>>#basicContinueFilterInContext:
+GT-Spotter.GTSpotterProcessor>>#continueFilterInContext:
+GT-Spotter.GTSpotterProcessor>>#doContinueFilterInContext:
+GT-Spotter.GTSpotterProcessor>>#hasFilteredCandidates
+GT-Spotter.GTSpotterProcessor>>#withItemsLimit:do:
+GT-Spotter.GTSpotterSettingsProcessorFilter
+GT-Spotter.GTSpotterSettingsProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
+GT-Spotter.GTSpotterSettingsProcessorFilter>>#shouldEnableProcessorsCreateBy:
+GT-Spotter.GTSpotterStep
+GT-Spotter.GTSpotterStep>>#basicRelevantProcessorsProcess:
+GT-Spotter.GTSpotterStep>>#diveInCategoryDueTo:
+GT-Spotter.GTSpotterStep>>#diveInDueTo:
+GT-Spotter.GTSpotterStep>>#event
+GT-Spotter.GTSpotterStep>>#event:
+GT-Spotter.GTSpotterTriangleRenderer
+GT-Spotter.GTSpotterTriangleRenderer>>#border
+GT-Spotter.GTSpotterTriangleRenderer>>#border:
+GT-Spotter.GTSpotterTriangleRenderer>>#borderColor
+GT-Spotter.GTSpotterTriangleRenderer>>#borderColor:
+GT-Spotter.GTSpotterTriangleRenderer>>#initialize
+GT-Spotter.GTSpotterTriangleRenderer>>#renderBottomTriangle:on:
+GT-Spotter.GTSpotterTriangleRenderer>>#renderRightTriangle:on:
+GT-Spotter.GTSpotterTriangleRenderer>>#renderTriangle:on:with:
+GT-Spotter.GTSpotterTriangleRenderer>>#renderTriangle:on:with:color:
+GT-Spotter.GTSpotterWidgetThemer>>#helpButtonStyleFor:
+GT-Spotter.GTSpotterWidgetThemer>>#helpButtonWidgetStyleFor:
+GT-Spotter.GTSpotterWidgetThemer>>#spotterPreviewArrowWidgetStyleFor:
+GT-Spotter.SequenceableCollection>>#fasterDifferencePreservingOrder:
+GT-SpotterExtensions-Core.GTSpotter>>#spotterForSelectorsFor:
+GT-SpotterExtensions-Core.GTSpotter>>#spotterForSendersFor:
+GT-SpotterExtensions-Core.SystemNavigation>>#allSendersToSubstring:do:
+GT-Tests-Debugger.GTBytecodeDebuggerSmokeTest>>#testDebugger
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#assertDebuggerClosing
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#assertDebuggerInitializationForContext:andStepBlock:
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#initializeSessionForContext:withStepBlock:
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#setUp
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#tearDown
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#testDebugger
+GT-Tests-Debugger.GTGenericStackDebuggerSmokeTest>>#testDebugger
+GT-Tests-Debugger.GTGenericStackDebuggerUITest>>#testNoOverlappingCodeEditorKeyBindings
+GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#stepBlockForTestArrays
+GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#stepBlockForTestWithHalt
+GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#testAssertionEqualsDetected
+GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#testSuccessfullTestWithHalt
+GT-Tests-Inspector.GTInspectorExamplesManualTest>>#checkAllPresentationsOf:onError:
+GT-Tests-Inspector.GTInspectorExamplesManualTest>>#examplesForClass:
+GT-Tests-Inspector.GTInspectorExamplesManualTest>>#filenameFor:
+GT-Tests-Inspector.GTInspectorExamplesManualTest>>#runClasses:
+GT-Tests-Inspector.GTInspectorExamplesTest>>#checkAllPresentationsOf:
+GT-Tests-Inspector.GTInspectorExamplesTest>>#testAllExamples
+GTInspector-Help.GTInspectorHelp
+GTInspector-Help.GTInspectorHelp class>>#contact
+GTInspector-Help.GTInspectorHelp class>>#roassal
+GTInspector-Help.GTInspectorHelp class>>#table
+Glamour-Core.GLMAction
+Glamour-Core.GLMAction>>#hasShortcut
+Glamour-Core.GLMAction>>#keymap
+Glamour-Core.GLMAction>>#keymap:
+Glamour-Core.GLMAction>>#shortcut
+Glamour-Core.GLMAction>>#shortcut:
+Glamour-FastTable.GLMFastTablePresentation>>#intercellSpacing
+Glamour-FastTable.GLMFastTablePresentation>>#intercellSpacing:
+Glamour-FastTable.GLMMorphicFTRenderer>>#dataSourceUpdated:
+Glamour-FastTable.GLMMorphicFTTest
+Glamour-FastTable.GLMMorphicFTTest>>#testNoDuplicateRegistrationOfAnnouncementsOnDataSource
+Glamour-FastTable.GLMMorphicFastTableRenderer>>#specificTableMorphInitializiation
+Glamour-Morphic-Brick.GLMBrick>>#currentColor
+Glamour-Morphic-Brick.GLMBrickGeometryTrait>>#hasProperty:
+Glamour-Morphic-Brick.GLMBrickPropertiesTrait>>#hasProperty:
+Glamour-Morphic-Pager.GLMPager class>>#extensionsPragma
+Glamour-Morphic-Renderer.GLMAction>>#installKeyCombinationForPresentation:onMorph:
+Glamour-Morphic-Widgets.GLMMorphicModel>>#keystroke:from:
+Glamour-Tests-Core.GLMActionTest>>#testShortcutFromKeymap
+Glamour-Tests-Rubric.GLMRubricTextMorphicTest>>#testOKeyCanBeOverriden
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50570
+ScriptLoader50.ScriptLoader>>#update50571

@@ -1,43 +1,43 @@
-KomitClassNode class>>#addedClassIcon
-KomitClassNode class>>#deletedClassIcon
-KomitClassNode class>>#modifiedClassIcon
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50367
-ScriptLoader>>#update50368
-ThemeIconPack class>>#availablePacks
-ThemeIconPack class>>#baseUrl
-ThemeIconPack class>>#destinationPath
-ThemeIconPack class>>#loadDefault
-ThemeIconPack class>>#named:
-ThemeIconPack class>>#settingsOn:
-ThemeIconPack>>#beCurrent
-ThemeIconPack>>#blankIcon
-ThemeIconPack>>#blankIconOfWidth:
-ThemeIconPack>>#doesNotUnderstand:
-ThemeIconPack>>#downloadTo:
-ThemeIconPack>>#hasIcons
-ThemeIconPack>>#icons
-ThemeIconPack>>#loadIconsFromUrl
-ThemeIconPack>>#name
-ThemeIconPack>>#name:
-ThemeIconPack>>#printOn:
-ThemeIconPack>>#readPNGFrom:
-ThemeIcons
-ThemeIcons class>>#availablePacks
-ThemeIcons class>>#createFetchButtonUpdating:
-ThemeIcons class>>#createIconPackList
-ThemeIcons class>>#createSettingRow
-ThemeIcons class>>#current
-ThemeIcons class>>#current:
-ThemeIcons class>>#uiFetchPacks
-ThemeIcons class>>#wrapIconPack:
-ThemeIcons>>#beNotReportNotFound
-ThemeIcons>>#beReportNotFound
-ThemeIcons>>#defaultUrl
-ThemeIcons>>#downloadFromUrl
-ThemeIcons>>#iconNamed:
-ThemeIcons>>#iconNamed:ifNone:
-ThemeIcons>>#isReportingNotFound
-ThemeIcons>>#notFoundIcon
-ThemeIcons>>#url
-ThemeIcons>>#url:
+Komitter.KomitClassNode class>>#addedClassIcon
+Komitter.KomitClassNode class>>#deletedClassIcon
+Komitter.KomitClassNode class>>#modifiedClassIcon
+Polymorph-Widgets.ThemeIconPack class>>#availablePacks
+Polymorph-Widgets.ThemeIconPack class>>#baseUrl
+Polymorph-Widgets.ThemeIconPack class>>#destinationPath
+Polymorph-Widgets.ThemeIconPack class>>#loadDefault
+Polymorph-Widgets.ThemeIconPack class>>#named:
+Polymorph-Widgets.ThemeIconPack class>>#settingsOn:
+Polymorph-Widgets.ThemeIconPack>>#beCurrent
+Polymorph-Widgets.ThemeIconPack>>#blankIcon
+Polymorph-Widgets.ThemeIconPack>>#blankIconOfWidth:
+Polymorph-Widgets.ThemeIconPack>>#doesNotUnderstand:
+Polymorph-Widgets.ThemeIconPack>>#downloadTo:
+Polymorph-Widgets.ThemeIconPack>>#hasIcons
+Polymorph-Widgets.ThemeIconPack>>#icons
+Polymorph-Widgets.ThemeIconPack>>#loadIconsFromUrl
+Polymorph-Widgets.ThemeIconPack>>#name
+Polymorph-Widgets.ThemeIconPack>>#name:
+Polymorph-Widgets.ThemeIconPack>>#printOn:
+Polymorph-Widgets.ThemeIconPack>>#readPNGFrom:
+Polymorph-Widgets.ThemeIcons
+Polymorph-Widgets.ThemeIcons class>>#availablePacks
+Polymorph-Widgets.ThemeIcons class>>#createFetchButtonUpdating:
+Polymorph-Widgets.ThemeIcons class>>#createIconPackList
+Polymorph-Widgets.ThemeIcons class>>#createSettingRow
+Polymorph-Widgets.ThemeIcons class>>#current
+Polymorph-Widgets.ThemeIcons class>>#current:
+Polymorph-Widgets.ThemeIcons class>>#uiFetchPacks
+Polymorph-Widgets.ThemeIcons class>>#wrapIconPack:
+Polymorph-Widgets.ThemeIcons>>#beNotReportNotFound
+Polymorph-Widgets.ThemeIcons>>#beReportNotFound
+Polymorph-Widgets.ThemeIcons>>#defaultUrl
+Polymorph-Widgets.ThemeIcons>>#downloadFromUrl
+Polymorph-Widgets.ThemeIcons>>#iconNamed:
+Polymorph-Widgets.ThemeIcons>>#iconNamed:ifNone:
+Polymorph-Widgets.ThemeIcons>>#isReportingNotFound
+Polymorph-Widgets.ThemeIcons>>#notFoundIcon
+Polymorph-Widgets.ThemeIcons>>#url
+Polymorph-Widgets.ThemeIcons>>#url:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50367
+ScriptLoader50.ScriptLoader>>#update50368

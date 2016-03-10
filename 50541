@@ -1,8 +1,8 @@
-ExternalBrowser>>#showClassDefinition
-GrowlMorph class>>#growlSettingsOn:
-RGBehaviorDefinition>>#definition
-RubTextAreaExamples class>>#profileSourcesFileViewing
-RubTextAreaExamples class>>#show:while:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50540
-ScriptLoader>>#update50541
+Growl.GrowlMorph class>>#growlSettingsOn:
+Ring-Core-Kernel.RGBehaviorDefinition>>#definition
+Rubric.RubTextAreaExamples class>>#profileSourcesFileViewing
+Rubric.RubTextAreaExamples class>>#show:while:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50540
+ScriptLoader50.ScriptLoader>>#update50541
+Tool-ExternalBrowser.ExternalBrowser>>#showClassDefinition

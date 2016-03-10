@@ -1,35 +1,35 @@
-AbstractNautilusUI>>#buildButtonsBar
-AbstractNautilusUI>>#buildColumns:height:
-ClassCommented>>#oldStamp
-EclipseUIThemeIcons>>#hierarchyIcon
-EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
-ManifestFileSystemDisk
-ManifestFileSystemDisk class>>#manuallyResolvedDependencies
-ManifestGraphicsDisplayObjects
-ManifestGraphicsDisplayObjects class>>#manuallyResolvedDependencies
-ManifestMultilingualLanguages
-ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
-ManifestMultilingualTextConverterOtherLanguages
-ManifestNonInteractiveTranscript
-ManifestNonInteractiveTranscript class>>#manuallyResolvedDependencies
-ManifestRingCoreKernel
-ManifestRingCoreKernel class>>#manuallyResolvedDependencies
-ManifestRingMonticello
-ManifestRingMonticello class>>#manuallyResolvedDependencies
-ManifestSUnitCore
-ManifestTextScanning
-ManifestToolDiff
-ManifestToolExternalBrowser
-ManifestUnicodeInitialization
-ManifestUnicodeInitialization class>>#manuallyResolvedDependencies
-ManifestUserManagerCore
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50225
-ScriptLoader>>#update50226
-SlotAnnouncementsTest>>#testCreateAndChangeWithCommentDoesAnnounceBoth
-SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce
-TClassDescription>>#classComment:stamp:
-ThemeIcons>>#commentsIcon
-ThemeIcons>>#commentsIconContents
-ThemeIcons>>#hierarchyIcon
-ThemeIcons>>#hierarchyIconContents
+FileSystem-Disk.ManifestFileSystemDisk
+FileSystem-Disk.ManifestFileSystemDisk class>>#manuallyResolvedDependencies
+Graphics-Display Objects.ManifestGraphicsDisplayObjects
+Graphics-Display Objects.ManifestGraphicsDisplayObjects class>>#manuallyResolvedDependencies
+Graphics-Resources.ThemeIcons>>#commentsIconContents
+Graphics-Resources.ThemeIcons>>#hierarchyIconContents
+Multilingual-Languages.ManifestMultilingualLanguages
+Multilingual-Languages.ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
+Multilingual-TextConverterOtherLanguages.ManifestMultilingualTextConverterOtherLanguages
+Nautilus.AbstractNautilusUI>>#buildButtonsBar
+Nautilus.AbstractNautilusUI>>#buildColumns:height:
+NonInteractiveTranscript.ManifestNonInteractiveTranscript
+NonInteractiveTranscript.ManifestNonInteractiveTranscript class>>#manuallyResolvedDependencies
+Polymorph-Widgets.EclipseUIThemeIcons>>#hierarchyIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
+Polymorph-Widgets.ThemeIcons>>#commentsIcon
+Polymorph-Widgets.ThemeIcons>>#hierarchyIcon
+Ring-Core-Kernel.ManifestRingCoreKernel
+Ring-Core-Kernel.ManifestRingCoreKernel class>>#manuallyResolvedDependencies
+Ring-Monticello.ManifestRingMonticello
+Ring-Monticello.ManifestRingMonticello class>>#manuallyResolvedDependencies
+SUnit-Core.ManifestSUnitCore
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50225
+ScriptLoader50.ScriptLoader>>#update50226
+Slot-Tests.SlotAnnouncementsTest>>#testCreateAndChangeWithCommentDoesAnnounceBoth
+Slot-Tests.SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce
+System-Announcements.ClassCommented>>#oldStamp
+Text-Scanning.ManifestTextScanning
+Tool-Diff.ManifestToolDiff
+Tool-ExternalBrowser.ManifestToolExternalBrowser
+Traits.TClassDescription>>#classComment:stamp:
+Unicode-Initialization.ManifestUnicodeInitialization
+Unicode-Initialization.ManifestUnicodeInitialization class>>#manuallyResolvedDependencies
+UserManager-Core.ManifestUserManagerCore

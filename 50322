@@ -1,9 +1,9 @@
-BIConfigurableFormatter>>#formatBlockArgumentsFor:
-ManifestFileSystemCore class>>#manuallyResolvedDependencies
-Path class>>#isAbsoluteWindowsPath:
-PathTest>>#testIsAbsoluteWindowsPathReturnsFalseWhenNoWindowsAbsolutePathProvided
-PathTest>>#testIsAbsoluteWindowsPathReturnsTrueWhenWindowsAbsolutePathProvided
-RxMatcher>>#split:indicesDo:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50321
-ScriptLoader>>#update50322
+BlueInk-Core.BIConfigurableFormatter>>#formatBlockArgumentsFor:
+Collections-Abstract.RxMatcher>>#split:indicesDo:
+FileSystem-Core.ManifestFileSystemCore class>>#manuallyResolvedDependencies
+FileSystem-Core.Path class>>#isAbsoluteWindowsPath:
+FileSystem-Tests-Core.PathTest>>#testIsAbsoluteWindowsPathReturnsFalseWhenNoWindowsAbsolutePathProvided
+FileSystem-Tests-Core.PathTest>>#testIsAbsoluteWindowsPathReturnsTrueWhenWindowsAbsolutePathProvided
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50321
+ScriptLoader50.ScriptLoader>>#update50322

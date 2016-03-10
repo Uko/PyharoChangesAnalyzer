@@ -1,83 +1,83 @@
-DeepCopier>>#basicCheckClass:
-DeepCopier>>#checkAllClasses
-DeepCopier>>#checkBasicClasses
-DeepCopier>>#checkClass:
-DeepCopier>>#doesMethod:writeAllInstanceVariablesOfClass:
-DeepCopier>>#raiseWarningsIfAny:
-ManifestASTCore class>>#manuallyResolvedDependencies
-ManifestAnnouncementsCore
-ManifestAnnouncementsCore class>>#manuallyResolvedDependencies
-ManifestCollectionsAbstract class>>#manuallyResolvedDependencies
-ManifestCollectionsAtomic class>>#manuallyResolvedDependencies
-ManifestCollectionsNative class>>#manuallyResolvedDependencies
-ManifestCollectionsSequenceable class>>#manuallyResolvedDependencies
-ManifestCollectionsStreams class>>#manuallyResolvedDependencies
-ManifestCollectionsStrings class>>#manuallyResolvedDependencies
-ManifestCollectionsSupport class>>#manuallyResolvedDependencies
-ManifestCollectionsWeak class>>#manuallyResolvedDependencies
-ManifestCompression
-ManifestCompression class>>#manuallyResolvedDependencies
-ManifestFileSystemCore
-ManifestFileSystemCore class>>#manuallyResolvedDependencies
-ManifestFiles
-ManifestFiles class>>#manuallyResolvedDependencies
-ManifestGraphicsPrimitives
-ManifestGraphicsPrimitives class>>#manuallyResolvedDependencies
-ManifestJobs
-ManifestJobs class>>#manuallyResolvedDependencies
-ManifestKernel class>>#manuallyResolvedDependencies
-ManifestMonticello
-ManifestMonticello class>>#manuallyResolvedDependencies
-ManifestMultilingualEncodings
-ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
-ManifestMultilingualTextConversion
-ManifestMultilingualTextConversion class>>#manuallyResolvedDependencies
-ManifestNetworkUUID
-ManifestNetworkUUID class>>#manuallyResolvedDependencies
-ManifestNewValueHolder
-ManifestNewValueHolder class>>#manuallyResolvedDependencies
-ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
-ManifestRPackageCore
-ManifestRPackageCore class>>#manuallyResolvedDependencies
-ManifestRegexCore
-ManifestRegexCore class>>#manuallyResolvedDependencies
-ManifestSlot
-ManifestSlot class>>#manuallyResolvedDependencies
-ManifestSystemAnnouncements
-ManifestSystemAnnouncements class>>#manuallyResolvedDependencies
-ManifestSystemChanges
-ManifestSystemChanges class>>#manuallyResolvedDependencies
-ManifestSystemCommandLine
-ManifestSystemCommandLine class>>#manuallyResolvedDependencies
-ManifestSystemFileRegistry
-ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
-ManifestSystemFinalization
-ManifestSystemLocalization
-ManifestSystemLocalization class>>#manuallyResolvedDependencies
-ManifestSystemObjectEvents
-ManifestSystemObjectEvents class>>#manuallyResolvedDependencies
-ManifestSystemPlatforms
-ManifestSystemPlatforms class>>#manuallyResolvedDependencies
-ManifestSystemSources
-ManifestSystemSources class>>#manuallyResolvedDependencies
-ManifestSystemSupport
-ManifestSystemSupport class>>#manuallyResolvedDependencies
-ManifestSystemVMEvents
-ManifestSystemVMEvents class>>#manuallyResolvedDependencies
-ManifestTextCore
-ManifestTextCore class>>#manuallyResolvedDependencies
-ManifestToolBase
-ManifestToolTranscript
-ManifestToolTranscript class>>#manuallyResolvedDependencies
-ManifestTraits
-ManifestTraits class>>#manuallyResolvedDependencies
-ManifestTranscript
-ManifestTranscript class>>#manuallyResolvedDependencies
-ManifestUIManager
-ManifestUIManager class>>#manuallyResolvedDependencies
-RGBehaviorDefinition>>#browse
-RGElementDefinition>>#browse
-RGMethodDefinition>>#browse
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50224
-ScriptLoader>>#update50225
+AST-Core.ManifestASTCore class>>#manuallyResolvedDependencies
+Announcements-Core.ManifestAnnouncementsCore
+Announcements-Core.ManifestAnnouncementsCore class>>#manuallyResolvedDependencies
+Collections-Abstract.ManifestCollectionsAbstract class>>#manuallyResolvedDependencies
+Collections-Atomic.ManifestCollectionsAtomic class>>#manuallyResolvedDependencies
+Collections-Native.ManifestCollectionsNative class>>#manuallyResolvedDependencies
+Collections-Sequenceable.ManifestCollectionsSequenceable class>>#manuallyResolvedDependencies
+Collections-Streams.ManifestCollectionsStreams class>>#manuallyResolvedDependencies
+Collections-Strings.ManifestCollectionsStrings class>>#manuallyResolvedDependencies
+Collections-Support.ManifestCollectionsSupport class>>#manuallyResolvedDependencies
+Collections-Weak.ManifestCollectionsWeak class>>#manuallyResolvedDependencies
+Compression.ManifestCompression
+Compression.ManifestCompression class>>#manuallyResolvedDependencies
+FileSystem-Core.ManifestFileSystemCore
+FileSystem-Core.ManifestFileSystemCore class>>#manuallyResolvedDependencies
+Files.ManifestFiles
+Files.ManifestFiles class>>#manuallyResolvedDependencies
+Graphics-Primitives.ManifestGraphicsPrimitives
+Graphics-Primitives.ManifestGraphicsPrimitives class>>#manuallyResolvedDependencies
+Jobs.ManifestJobs
+Jobs.ManifestJobs class>>#manuallyResolvedDependencies
+Kernel.DeepCopier>>#basicCheckClass:
+Kernel.DeepCopier>>#checkAllClasses
+Kernel.DeepCopier>>#checkBasicClasses
+Kernel.DeepCopier>>#checkClass:
+Kernel.DeepCopier>>#doesMethod:writeAllInstanceVariablesOfClass:
+Kernel.DeepCopier>>#raiseWarningsIfAny:
+Kernel.ManifestKernel class>>#manuallyResolvedDependencies
+Monticello.ManifestMonticello
+Monticello.ManifestMonticello class>>#manuallyResolvedDependencies
+Multilingual-Encodings.ManifestMultilingualEncodings
+Multilingual-Encodings.ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
+Multilingual-TextConversion.ManifestMultilingualTextConversion
+Multilingual-TextConversion.ManifestMultilingualTextConversion class>>#manuallyResolvedDependencies
+Network-UUID.ManifestNetworkUUID
+Network-UUID.ManifestNetworkUUID class>>#manuallyResolvedDependencies
+NewValueHolder.ManifestNewValueHolder
+NewValueHolder.ManifestNewValueHolder class>>#manuallyResolvedDependencies
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
+RPackage-Core.ManifestRPackageCore
+RPackage-Core.ManifestRPackageCore class>>#manuallyResolvedDependencies
+Regex-Core.ManifestRegexCore
+Regex-Core.ManifestRegexCore class>>#manuallyResolvedDependencies
+Ring-Core-Kernel.RGBehaviorDefinition>>#browse
+Ring-Core-Kernel.RGElementDefinition>>#browse
+Ring-Core-Kernel.RGMethodDefinition>>#browse
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50224
+ScriptLoader50.ScriptLoader>>#update50225
+Slot.ManifestSlot
+Slot.ManifestSlot class>>#manuallyResolvedDependencies
+System-Announcements.ManifestSystemAnnouncements
+System-Announcements.ManifestSystemAnnouncements class>>#manuallyResolvedDependencies
+System-Changes.ManifestSystemChanges
+System-Changes.ManifestSystemChanges class>>#manuallyResolvedDependencies
+System-CommandLine.ManifestSystemCommandLine
+System-CommandLine.ManifestSystemCommandLine class>>#manuallyResolvedDependencies
+System-FileRegistry.ManifestSystemFileRegistry
+System-FileRegistry.ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
+System-Finalization.ManifestSystemFinalization
+System-Localization.ManifestSystemLocalization
+System-Localization.ManifestSystemLocalization class>>#manuallyResolvedDependencies
+System-Object Events.ManifestSystemObjectEvents
+System-Object Events.ManifestSystemObjectEvents class>>#manuallyResolvedDependencies
+System-Platforms.ManifestSystemPlatforms
+System-Platforms.ManifestSystemPlatforms class>>#manuallyResolvedDependencies
+System-Sources.ManifestSystemSources
+System-Sources.ManifestSystemSources class>>#manuallyResolvedDependencies
+System-Support.ManifestSystemSupport
+System-Support.ManifestSystemSupport class>>#manuallyResolvedDependencies
+System-VMEvents.ManifestSystemVMEvents
+System-VMEvents.ManifestSystemVMEvents class>>#manuallyResolvedDependencies
+Text-Core.ManifestTextCore
+Text-Core.ManifestTextCore class>>#manuallyResolvedDependencies
+Tool-Base.ManifestToolBase
+Tool-Transcript.ManifestToolTranscript
+Tool-Transcript.ManifestToolTranscript class>>#manuallyResolvedDependencies
+Traits.ManifestTraits
+Traits.ManifestTraits class>>#manuallyResolvedDependencies
+Transcript.ManifestTranscript
+Transcript.ManifestTranscript class>>#manuallyResolvedDependencies
+UIManager.ManifestUIManager
+UIManager.ManifestUIManager class>>#manuallyResolvedDependencies

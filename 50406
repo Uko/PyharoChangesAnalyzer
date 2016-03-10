@@ -1,6 +1,6 @@
-BIConfigurableFormatter>>#handleLineForArgument:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50405
-ScriptLoader>>#update50406
-String>>#expandMacrosWithArguments:
-StringTest>>#testExpandMacros
+BlueInk-Core.BIConfigurableFormatter>>#handleLineForArgument:
+Collections-Strings.String>>#expandMacrosWithArguments:
+Collections-Tests.StringTest>>#testExpandMacros
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50405
+ScriptLoader50.ScriptLoader>>#update50406

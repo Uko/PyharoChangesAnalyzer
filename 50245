@@ -1,36 +1,36 @@
-CommandLineUIManager>>#debugContext:title:contents:
-CommandLineUIManager>>#debugProcess:context:title:full:
-Context>>#cannotReturn:
-Context>>#debug
-DummyUIManager>>#debugContext:title:contents:
-DummyUIManager>>#debugProcess:context:title:full:
-Exception>>#debug
-FontChooserMorph>>#newFontPointSizeField
-ManifestKernel class>>#manuallyResolvedDependencies
-MorphicTextAdapter
-MorphicTextAdapter>>#accept
-MorphicTextAdapter>>#announcer
-MorphicTextAdapter>>#askBeforeDiscardingEdits:
-MorphicTextAdapter>>#buildWidget
-MorphicTextAdapter>>#classOrMetaClass:
-MorphicTextAdapter>>#interactionModel
-MorphicTextAdapter>>#selectAll
-MorphicTextAdapter>>#setScrollValue:
-MorphicUIManager>>#debugContext:title:contents:
-MorphicUIManager>>#debugProcess:context:title:full:
-MorphicUIManager>>#unhandledErrorDefaultAction:
-NewListExample>>#buildTextMorph
-NonInteractiveUIManager>>#debugContext:title:contents:
-NonInteractiveUIManager>>#debugProcess:context:title:full:
-PolymorphSystemSettings class>>#morphicSettingsOn:
-Process>>#debug:title:full:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50244
-ScriptLoader>>#update50245
-SpecInterpreterTest>>#testBuildWidgetForWithSpec
-SugsMockContext>>#sourceTextArea
-TestingComposableModel class>>#testingSpec
-TestingComposableModel>>#getText
-UIManager>>#debugContext:title:contents:
-UIManager>>#debugProcess:context:title:full:
-UnhandledError>>#defaultAction
+FontChooser.FontChooserMorph>>#newFontPointSizeField
+Kernel.Context>>#cannotReturn:
+Kernel.Context>>#debug
+Kernel.Exception>>#debug
+Kernel.ManifestKernel class>>#manuallyResolvedDependencies
+Kernel.Process>>#debug:title:full:
+Kernel.UnhandledError>>#defaultAction
+Morphic-Widgets-NewList.NewListExample>>#buildTextMorph
+Polymorph-Widgets.MorphicUIManager>>#debugContext:title:contents:
+Polymorph-Widgets.MorphicUIManager>>#debugProcess:context:title:full:
+Polymorph-Widgets.MorphicUIManager>>#unhandledErrorDefaultAction:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50244
+ScriptLoader50.ScriptLoader>>#update50245
+Settings-Polymorph.PolymorphSystemSettings class>>#morphicSettingsOn:
+SmartSuggestions-Tests.SugsMockContext>>#sourceTextArea
+Spec-MorphicAdapters.MorphicTextAdapter
+Spec-MorphicAdapters.MorphicTextAdapter>>#accept
+Spec-MorphicAdapters.MorphicTextAdapter>>#announcer
+Spec-MorphicAdapters.MorphicTextAdapter>>#askBeforeDiscardingEdits:
+Spec-MorphicAdapters.MorphicTextAdapter>>#buildWidget
+Spec-MorphicAdapters.MorphicTextAdapter>>#classOrMetaClass:
+Spec-MorphicAdapters.MorphicTextAdapter>>#interactionModel
+Spec-MorphicAdapters.MorphicTextAdapter>>#selectAll
+Spec-MorphicAdapters.MorphicTextAdapter>>#setScrollValue:
+Spec-Tests.SpecInterpreterTest>>#testBuildWidgetForWithSpec
+Spec-Tests.TestingComposableModel class>>#testingSpec
+Spec-Tests.TestingComposableModel>>#getText
+UIManager.CommandLineUIManager>>#debugContext:title:contents:
+UIManager.CommandLineUIManager>>#debugProcess:context:title:full:
+UIManager.DummyUIManager>>#debugContext:title:contents:
+UIManager.DummyUIManager>>#debugProcess:context:title:full:
+UIManager.NonInteractiveUIManager>>#debugContext:title:contents:
+UIManager.NonInteractiveUIManager>>#debugProcess:context:title:full:
+UIManager.UIManager>>#debugContext:title:contents:
+UIManager.UIManager>>#debugProcess:context:title:full:

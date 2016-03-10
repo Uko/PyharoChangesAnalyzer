@@ -1,7 +1,7 @@
-MCVersion>>#loadCompleteSnapshot
-NautilusUI>>#buildPackageSearch
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50484
-ScriptLoader>>#update50485
-SymbolicBytecode>>#gtSpotterCodePreviewIn:
-SymbolicBytecode>>#spotterActDefault
+Monticello.MCVersion>>#loadCompleteSnapshot
+Nautilus.NautilusUI>>#buildPackageSearch
+OpalTools.SymbolicBytecode>>#gtSpotterCodePreviewIn:
+OpalTools.SymbolicBytecode>>#spotterActDefault
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50484
+ScriptLoader50.ScriptLoader>>#update50485

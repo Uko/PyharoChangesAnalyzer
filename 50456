@@ -1,16 +1,16 @@
-Breakpoint
-Breakpoint class>>#cleanUp
-Breakpoint class>>#initialize
-Breakpoint class>>#removeAll
-Breakpoint class>>#removeFrom:
-Breakpoint>>#install
-Breakpoint>>#remove
-HookGenerator>>#hookFor:
-HookGenerator>>#wrapCondition:link:
-HookGenerator>>#wrapInContext:link:
-RFMessageNode
-RFMessageNode>>#debugHighlightRange
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50455
-ScriptLoader>>#update50456
-SugsBreakConditionSuggestion>>#breakpointForCondition
+Reflectivity.Breakpoint
+Reflectivity.Breakpoint class>>#cleanUp
+Reflectivity.Breakpoint class>>#initialize
+Reflectivity.Breakpoint class>>#removeAll
+Reflectivity.Breakpoint class>>#removeFrom:
+Reflectivity.Breakpoint>>#install
+Reflectivity.Breakpoint>>#remove
+Reflectivity.HookGenerator>>#hookFor:
+Reflectivity.HookGenerator>>#wrapCondition:link:
+Reflectivity.HookGenerator>>#wrapInContext:link:
+Reflectivity.RFMessageNode
+Reflectivity.RFMessageNode>>#debugHighlightRange
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50455
+ScriptLoader50.ScriptLoader>>#update50456
+SmartSuggestions.SugsBreakConditionSuggestion>>#breakpointForCondition

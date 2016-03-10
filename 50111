@@ -1,37 +1,37 @@
-FileDialogWindow>>#selectPathName:
-FileList
-FileList class>>#initialize
-FileList class>>#modalFolderSelector:
-FileList class>>#newOnDirectory:
-FileList class>>#newOnDirectory:baseLabel:
-FileList class>>#newOnDirectory:baseLabel:contents:
-FileList class>>#open
-FileList class>>#openEditorOn:editString:
-FileList class>>#openMorphOn:editString:
-FileList class>>#openOn:
-FileList class>>#openOn:titled:
-FileList>>#addFullPanesTo:from:
-FileList>>#addPath:
-FileList>>#addService:
-FileList>>#addServiceOn:entitled:doing:describedAs:
-FileList>>#addServiceTitled:doing:describedAs:
-FileList>>#baseLabel:
-FileList>>#configuredServices
-FileList>>#contents:
-FileList>>#initialize
-FileList>>#itemsForDirectory:
-FileList>>#labelString
-FileList>>#morphicView
-FileList>>#morphicViewFolderSelector:
-FileList>>#morphicViewOnDirectory:
-FileList>>#morphicViewOnDirectory:baseLabel:
-FileList>>#morphicViewOnFile:
-FileList>>#perform:orSendTo:
-FileList>>#readOnlyStream
-FileList>>#updateDirectory
-FileList>>#updateFileList
-FileList>>#volumeMenu:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50110
-ScriptLoader>>#update50111
-SimpleTextGlyphInfo>>#loadFrom:
+Athens-Text.SimpleTextGlyphInfo>>#loadFrom:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50110
+ScriptLoader50.ScriptLoader>>#update50111
+Tool-FileList.FileDialogWindow>>#selectPathName:
+Tool-FileList.FileList
+Tool-FileList.FileList class>>#initialize
+Tool-FileList.FileList class>>#modalFolderSelector:
+Tool-FileList.FileList class>>#newOnDirectory:
+Tool-FileList.FileList class>>#newOnDirectory:baseLabel:
+Tool-FileList.FileList class>>#newOnDirectory:baseLabel:contents:
+Tool-FileList.FileList class>>#open
+Tool-FileList.FileList class>>#openEditorOn:editString:
+Tool-FileList.FileList class>>#openMorphOn:editString:
+Tool-FileList.FileList class>>#openOn:
+Tool-FileList.FileList class>>#openOn:titled:
+Tool-FileList.FileList>>#addFullPanesTo:from:
+Tool-FileList.FileList>>#addPath:
+Tool-FileList.FileList>>#addService:
+Tool-FileList.FileList>>#addServiceOn:entitled:doing:describedAs:
+Tool-FileList.FileList>>#addServiceTitled:doing:describedAs:
+Tool-FileList.FileList>>#baseLabel:
+Tool-FileList.FileList>>#configuredServices
+Tool-FileList.FileList>>#contents:
+Tool-FileList.FileList>>#initialize
+Tool-FileList.FileList>>#itemsForDirectory:
+Tool-FileList.FileList>>#labelString
+Tool-FileList.FileList>>#morphicView
+Tool-FileList.FileList>>#morphicViewFolderSelector:
+Tool-FileList.FileList>>#morphicViewOnDirectory:
+Tool-FileList.FileList>>#morphicViewOnDirectory:baseLabel:
+Tool-FileList.FileList>>#morphicViewOnFile:
+Tool-FileList.FileList>>#perform:orSendTo:
+Tool-FileList.FileList>>#readOnlyStream
+Tool-FileList.FileList>>#updateDirectory
+Tool-FileList.FileList>>#updateFileList
+Tool-FileList.FileList>>#volumeMenu:

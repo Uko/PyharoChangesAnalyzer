@@ -1,22 +1,22 @@
-EmbeddedFreeTypeFontFontDescription class>>#canBeInstalled
-EmbeddedFreeTypeFontFontDescription class>>#installFontsIn:
-KMPragmaKeymapBuilder>>#interpretRegistration:
-LucidaGrandeRegular class>>#canBeInstalled
-LucidaGrandeRegular class>>#initialize
-PragmaMenuAndShortcutRegistration>>#handOutItems
-PragmaMenuBuilder>>#interpretRegistration:
-RBNamespace>>#allReferencesToClass:do:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50081
-ScriptLoader>>#update50082
-ToggleMenuItemMorph>>#keyTextExpanded
-ToggleMenuItemShortcut class>>#canBeUsed
-ToggleMenuItemShortcut class>>#expand:
-ToggleMenuItemShortcut class>>#expandCondensedStyle:
-ToggleMenuItemShortcut class>>#expandFullStyle:
-ToggleMenuItemShortcut class>>#priority
-ToggleMenuItemShortcut class>>#shortcutClass
-ToggleMenuItemShortcut>>#initializeOwner:keyText:
-ToggleMenuItemShortcutWithSymbol class>>#priority
-ToggleMenuItemShortcutWithText class>>#canBeUsed
-ToggleMenuItemShortcutWithText class>>#priority
+EmbeddedFreeType.EmbeddedFreeTypeFontFontDescription class>>#canBeInstalled
+EmbeddedFreeType.EmbeddedFreeTypeFontFontDescription class>>#installFontsIn:
+EmbeddedFreeType.LucidaGrandeRegular class>>#canBeInstalled
+EmbeddedFreeType.LucidaGrandeRegular class>>#initialize
+Keymapping-Pragmas.KMPragmaKeymapBuilder>>#interpretRegistration:
+MenuRegistration.PragmaMenuAndShortcutRegistration>>#handOutItems
+MenuRegistration.PragmaMenuBuilder>>#interpretRegistration:
+Morphic-Base.ToggleMenuItemMorph>>#keyTextExpanded
+Morphic-Base.ToggleMenuItemShortcut class>>#canBeUsed
+Morphic-Base.ToggleMenuItemShortcut class>>#expand:
+Morphic-Base.ToggleMenuItemShortcut class>>#expandCondensedStyle:
+Morphic-Base.ToggleMenuItemShortcut class>>#expandFullStyle:
+Morphic-Base.ToggleMenuItemShortcut class>>#priority
+Morphic-Base.ToggleMenuItemShortcut class>>#shortcutClass
+Morphic-Base.ToggleMenuItemShortcut>>#initializeOwner:keyText:
+Morphic-Base.ToggleMenuItemShortcutWithSymbol class>>#priority
+Morphic-Base.ToggleMenuItemShortcutWithText class>>#canBeUsed
+Morphic-Base.ToggleMenuItemShortcutWithText class>>#priority
+Refactoring-Core.RBNamespace>>#allReferencesToClass:do:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50081
+ScriptLoader50.ScriptLoader>>#update50082

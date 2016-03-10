@@ -1,182 +1,182 @@
-ASTCache class>>#initialize
-ASTCache class>>#release
-BasicCommandLineHandler class>>#initialize
-BasicCommandLineHandler class>>#release
-BasicCommandLineHandler class>>#startUp:
-CPUWatcher class>>#initialize
-Class>>#release
-Clipboard class>>#initialize
-Clipboard class>>#release
-Clipboard class>>#shutDown:
-Clipboard class>>#startUp:
-Color class>>#initialize
-Color class>>#initializeColorRegistry
-Color class>>#initializeGrayToIndexMap
-Color class>>#initializeIndexedColors
-Color class>>#registerColor:named:
-Color class>>#release
-Color class>>#shutDown
-Cursor class>>#createStandardCursors
-Cursor class>>#initBottomLeft
-Cursor class>>#initBottomRight
-Cursor class>>#initCorner
-Cursor class>>#initCrossHair
-Cursor class>>#initDown
-Cursor class>>#initMarker
-Cursor class>>#initMenu
-Cursor class>>#initMove
-Cursor class>>#initNormal
-Cursor class>>#initNormalWithMask
-Cursor class>>#initOrigin
-Cursor class>>#initOverEditableText
-Cursor class>>#initRead
-Cursor class>>#initResizeLeft
-Cursor class>>#initResizeTop
-Cursor class>>#initResizeTopLeft
-Cursor class>>#initResizeTopRight
-Cursor class>>#initRightArrow
-Cursor class>>#initSquare
-Cursor class>>#initTarget
-Cursor class>>#initTopLeft
-Cursor class>>#initTopRight
-Cursor class>>#initUp
-Cursor class>>#initWait
-Cursor class>>#initWrite
-Cursor class>>#initXeq
-Cursor class>>#initialize
-Cursor class>>#makeCursorsWithMask
-Cursor class>>#startUp
-Delay class>>#initialize
-Delay class>>#release
-DiskStore class>>#checkVMVersion
-DiskStore class>>#initialize
-DiskStore class>>#release
-DiskStore class>>#shutDown:
-DiskStore class>>#startUp:
-DisplayScreen class>>#actualScreenDepth
-DisplayScreen class>>#actualScreenSize
-DisplayScreen class>>#initialize
-DisplayScreen class>>#shutDown
-DisplayScreen class>>#startUp
-EndianDetector class>>#release
-EndianDetector class>>#startUp:
-FT2Handle class>>#initialize
-FT2Handle class>>#startUp:
-FT2Handle class>>#unload
-FileLocator class>>#addResolver:
-FileLocator class>>#flushCaches
-FileLocator class>>#initialize
-FileLocator class>>#release
-FileLocator class>>#startUp:
-FileStream class>>#initialize
-FileStream class>>#release
-FileStream class>>#shutDown:
-FileStream class>>#startUp:
-Form class>>#initialize
-Form class>>#release
-Form class>>#shutDown
-FreeTypeCache class>>#clearCurrent
-FreeTypeCache class>>#initialize
-FreeTypeCache class>>#release
-FreeTypeCache class>>#shutDown:
-FreeTypeSettings class>>#initialize
-FreeTypeSettings class>>#release
-FreeTypeSettings class>>#shutDown:
-InputEventFetcher class>>#deinstall
-InputEventFetcher class>>#install
-InputEventFetcher>>#installEventLoop
-InputEventFetcher>>#terminateEventLoop
-InputEventSensor class>>#installEventSensorFramework:
-InputEventSensor class>>#installMouseDecodeTable
-InputEventSensor class>>#startUp
-InputEventSensor>>#shutDown
-InputEventSensor>>#startUp
-InternetConfiguration class>>#initialize
-InternetConfiguration class>>#release
-LanguageEnvironment class>>#initialize
-LanguageEnvironment class>>#localeChanged
-LanguageEnvironment class>>#release
-LanguageEnvironment class>>#startUp
-Locale class>>#initialize
-Locale class>>#platformEncodings
-Locale class>>#release
-LogicalFont class>>#initialize
-LogicalFont class>>#release
-MCGitHubRepository class>>#flushDownloadCache
-MCGitHubRepository class>>#initialize
-MCGitHubRepository class>>#release
-MCGitHubRepository class>>#startUp:
-MCMethodDefinition class>>#cachedDefinitions
-MCMethodDefinition class>>#flushMethodCache
-MCMethodDefinition class>>#initialize
-MCMethodDefinition class>>#release
-MCMethodDefinition class>>#shutDown
-MorphicUIManager class>>#isValidForCurrentSystemConfiguration
-MultiByteFileStream class>>#defaultToCR
-MultiByteFileStream class>>#defaultToCRLF
-MultiByteFileStream class>>#defaultToLF
-MultiByteFileStream class>>#guessDefaultLineEndConvention
-MultiByteFileStream class>>#initialize
-MultiByteFileStream class>>#startUp
-NOCCompletionTable class>>#initialize
-NOCCompletionTable class>>#release
-Nautilus class>>#initialize
-Nautilus class>>#registerToolsOn:
-Nautilus class>>#release
-NonInteractiveTranscript class>>#initialize
-NonInteractiveTranscript class>>#release
-NonInteractiveTranscript class>>#shutDown
-OSEnvironment class>>#initialize
-OSEnvironment class>>#release
-OSEnvironment class>>#shutDown:
-OSPlatform class>>#initialize
-OSPlatform class>>#release
-OSPlatform class>>#shutDown:
-OSPlatform class>>#startUp:
-PharoCommonTools class>>#initialize
-PharoCommonTools class>>#release
-PharoCommonTools class>>#shutDown:
-PharoKernelAssembly class>>#parts
-ProcessorScheduler class>>#initialize
-ProcessorScheduler class>>#release
-ProcessorScheduler class>>#startUp
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50539
-ScriptLoader>>#update50540
-ShortIntegerArray class>>#initialize
-ShortIntegerArray class>>#release
-ShortIntegerArray class>>#startUp
-ShortIntegerArray class>>#swapShortObjects
-SmallInteger class>>#initialize
-SmallInteger class>>#release
-SmallInteger class>>#startUp:
-SmalltalkImage class>>#initialize
-SmalltalkImage class>>#release
-SmalltalkImage class>>#startUp:
-SmalltalkImage class>>#wordSize
-SmalltalkImage>>#snapshotPrimitive
-Stdio class>>#initialize
-Stdio class>>#release
-StrikeFont class>>#initialize
-StrikeFont class>>#release
-StrikeFont class>>#shutDown
-Symbol class>>#allSymbolTablesDo:
-Symbol class>>#allSymbolTablesDo:after:
-Symbol class>>#allSymbols
-Symbol class>>#compactSymbolTable
-Symbol class>>#initialize
-Symbol class>>#release
-Symbol class>>#selectorsContaining:
-Symbol class>>#shutDown:
-Symbol class>>#thatStarts:skipping:
-Symbol class>>#thatStartsCaseSensitive:skipping:
-TClass>>#removeFromSystem:
-UUIDGenerator class>>#initialize
-UUIDGenerator class>>#release
-UUIDGenerator class>>#startUp
-WeakArray class>>#initialize
-WeakArray class>>#release
-WeakFinalizationList class>>#initialize
-WeakFinalizationList class>>#release
-WorldMorph class>>#initialize
-WorldMorph class>>#release
+AST-Core.ASTCache class>>#initialize
+AST-Core.ASTCache class>>#release
+Balloon.ShortIntegerArray class>>#initialize
+Balloon.ShortIntegerArray class>>#release
+Balloon.ShortIntegerArray class>>#startUp
+Balloon.ShortIntegerArray class>>#swapShortObjects
+Collections-Strings.Symbol class>>#allSymbolTablesDo:
+Collections-Strings.Symbol class>>#allSymbolTablesDo:after:
+Collections-Strings.Symbol class>>#allSymbols
+Collections-Strings.Symbol class>>#compactSymbolTable
+Collections-Strings.Symbol class>>#initialize
+Collections-Strings.Symbol class>>#release
+Collections-Strings.Symbol class>>#selectorsContaining:
+Collections-Strings.Symbol class>>#shutDown:
+Collections-Strings.Symbol class>>#thatStarts:skipping:
+Collections-Strings.Symbol class>>#thatStartsCaseSensitive:skipping:
+Collections-Weak.WeakArray class>>#initialize
+Collections-Weak.WeakArray class>>#release
+FileSystem-Core.FileLocator class>>#addResolver:
+FileSystem-Core.FileLocator class>>#flushCaches
+FileSystem-Core.FileLocator class>>#initialize
+FileSystem-Core.FileLocator class>>#release
+FileSystem-Core.FileLocator class>>#startUp:
+FileSystem-Disk.DiskStore class>>#checkVMVersion
+FileSystem-Disk.DiskStore class>>#initialize
+FileSystem-Disk.DiskStore class>>#release
+FileSystem-Disk.DiskStore class>>#shutDown:
+FileSystem-Disk.DiskStore class>>#startUp:
+Files.FileStream class>>#initialize
+Files.FileStream class>>#release
+Files.FileStream class>>#shutDown:
+Files.FileStream class>>#startUp:
+Files.MultiByteFileStream class>>#defaultToCR
+Files.MultiByteFileStream class>>#defaultToCRLF
+Files.MultiByteFileStream class>>#defaultToLF
+Files.MultiByteFileStream class>>#guessDefaultLineEndConvention
+Files.MultiByteFileStream class>>#initialize
+Files.MultiByteFileStream class>>#startUp
+Files.Stdio class>>#initialize
+Files.Stdio class>>#release
+FontInfrastructure.LogicalFont class>>#initialize
+FontInfrastructure.LogicalFont class>>#release
+FreeType.FT2Handle class>>#initialize
+FreeType.FT2Handle class>>#startUp:
+FreeType.FT2Handle class>>#unload
+FreeType.FreeTypeCache class>>#clearCurrent
+FreeType.FreeTypeCache class>>#initialize
+FreeType.FreeTypeCache class>>#release
+FreeType.FreeTypeCache class>>#shutDown:
+FreeType.FreeTypeSettings class>>#initialize
+FreeType.FreeTypeSettings class>>#release
+FreeType.FreeTypeSettings class>>#shutDown:
+Graphics-Display Objects.Cursor class>>#createStandardCursors
+Graphics-Display Objects.Cursor class>>#initBottomLeft
+Graphics-Display Objects.Cursor class>>#initBottomRight
+Graphics-Display Objects.Cursor class>>#initCorner
+Graphics-Display Objects.Cursor class>>#initCrossHair
+Graphics-Display Objects.Cursor class>>#initDown
+Graphics-Display Objects.Cursor class>>#initMarker
+Graphics-Display Objects.Cursor class>>#initMenu
+Graphics-Display Objects.Cursor class>>#initMove
+Graphics-Display Objects.Cursor class>>#initNormal
+Graphics-Display Objects.Cursor class>>#initNormalWithMask
+Graphics-Display Objects.Cursor class>>#initOrigin
+Graphics-Display Objects.Cursor class>>#initOverEditableText
+Graphics-Display Objects.Cursor class>>#initRead
+Graphics-Display Objects.Cursor class>>#initResizeLeft
+Graphics-Display Objects.Cursor class>>#initResizeTop
+Graphics-Display Objects.Cursor class>>#initResizeTopLeft
+Graphics-Display Objects.Cursor class>>#initResizeTopRight
+Graphics-Display Objects.Cursor class>>#initRightArrow
+Graphics-Display Objects.Cursor class>>#initSquare
+Graphics-Display Objects.Cursor class>>#initTarget
+Graphics-Display Objects.Cursor class>>#initTopLeft
+Graphics-Display Objects.Cursor class>>#initTopRight
+Graphics-Display Objects.Cursor class>>#initUp
+Graphics-Display Objects.Cursor class>>#initWait
+Graphics-Display Objects.Cursor class>>#initWrite
+Graphics-Display Objects.Cursor class>>#initXeq
+Graphics-Display Objects.Cursor class>>#initialize
+Graphics-Display Objects.Cursor class>>#makeCursorsWithMask
+Graphics-Display Objects.Cursor class>>#startUp
+Graphics-Display Objects.DisplayScreen class>>#actualScreenDepth
+Graphics-Display Objects.DisplayScreen class>>#actualScreenSize
+Graphics-Display Objects.DisplayScreen class>>#initialize
+Graphics-Display Objects.DisplayScreen class>>#shutDown
+Graphics-Display Objects.DisplayScreen class>>#startUp
+Graphics-Display Objects.Form class>>#initialize
+Graphics-Display Objects.Form class>>#release
+Graphics-Display Objects.Form class>>#shutDown
+Graphics-Fonts.StrikeFont class>>#initialize
+Graphics-Fonts.StrikeFont class>>#release
+Graphics-Fonts.StrikeFont class>>#shutDown
+Graphics-Primitives.Color class>>#initialize
+Graphics-Primitives.Color class>>#initializeColorRegistry
+Graphics-Primitives.Color class>>#initializeGrayToIndexMap
+Graphics-Primitives.Color class>>#initializeIndexedColors
+Graphics-Primitives.Color class>>#registerColor:named:
+Graphics-Primitives.Color class>>#release
+Graphics-Primitives.Color class>>#shutDown
+Kernel.Class>>#release
+Kernel.Delay class>>#initialize
+Kernel.Delay class>>#release
+Kernel.PharoKernelAssembly class>>#parts
+Kernel.ProcessorScheduler class>>#initialize
+Kernel.ProcessorScheduler class>>#release
+Kernel.ProcessorScheduler class>>#startUp
+Kernel.SmallInteger class>>#initialize
+Kernel.SmallInteger class>>#release
+Kernel.SmallInteger class>>#startUp:
+Metacello-GitHub.MCGitHubRepository class>>#flushDownloadCache
+Metacello-GitHub.MCGitHubRepository class>>#initialize
+Metacello-GitHub.MCGitHubRepository class>>#release
+Metacello-GitHub.MCGitHubRepository class>>#startUp:
+Monticello.MCMethodDefinition class>>#cachedDefinitions
+Monticello.MCMethodDefinition class>>#flushMethodCache
+Monticello.MCMethodDefinition class>>#initialize
+Monticello.MCMethodDefinition class>>#release
+Monticello.MCMethodDefinition class>>#shutDown
+Morphic-Core.WorldMorph class>>#initialize
+Morphic-Core.WorldMorph class>>#release
+Multilingual-Languages.LanguageEnvironment class>>#initialize
+Multilingual-Languages.LanguageEnvironment class>>#localeChanged
+Multilingual-Languages.LanguageEnvironment class>>#release
+Multilingual-Languages.LanguageEnvironment class>>#startUp
+NECompletion.NOCCompletionTable class>>#initialize
+NECompletion.NOCCompletionTable class>>#release
+Nautilus.Nautilus class>>#initialize
+Nautilus.Nautilus class>>#registerToolsOn:
+Nautilus.Nautilus class>>#release
+Network-Kernel.InternetConfiguration class>>#initialize
+Network-Kernel.InternetConfiguration class>>#release
+Network-UUID.UUIDGenerator class>>#initialize
+Network-UUID.UUIDGenerator class>>#release
+Network-UUID.UUIDGenerator class>>#startUp
+NonInteractiveTranscript.NonInteractiveTranscript class>>#initialize
+NonInteractiveTranscript.NonInteractiveTranscript class>>#release
+NonInteractiveTranscript.NonInteractiveTranscript class>>#shutDown
+Polymorph-Widgets.MorphicUIManager class>>#isValidForCurrentSystemConfiguration
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50539
+ScriptLoader50.ScriptLoader>>#update50540
+System-BasicCommandLineHandler.BasicCommandLineHandler class>>#initialize
+System-BasicCommandLineHandler.BasicCommandLineHandler class>>#release
+System-BasicCommandLineHandler.BasicCommandLineHandler class>>#startUp:
+System-Clipboard.Clipboard class>>#initialize
+System-Clipboard.Clipboard class>>#release
+System-Clipboard.Clipboard class>>#shutDown:
+System-Clipboard.Clipboard class>>#startUp:
+System-Finalization.WeakFinalizationList class>>#initialize
+System-Finalization.WeakFinalizationList class>>#release
+System-Localization.Locale class>>#initialize
+System-Localization.Locale class>>#platformEncodings
+System-Localization.Locale class>>#release
+System-OSEnvironments.OSEnvironment class>>#initialize
+System-OSEnvironments.OSEnvironment class>>#release
+System-OSEnvironments.OSEnvironment class>>#shutDown:
+System-Platforms.OSPlatform class>>#initialize
+System-Platforms.OSPlatform class>>#release
+System-Platforms.OSPlatform class>>#shutDown:
+System-Platforms.OSPlatform class>>#startUp:
+System-Support.EndianDetector class>>#release
+System-Support.EndianDetector class>>#startUp:
+System-Support.SmalltalkImage class>>#initialize
+System-Support.SmalltalkImage class>>#release
+System-Support.SmalltalkImage class>>#startUp:
+System-Support.SmalltalkImage class>>#wordSize
+System-Support.SmalltalkImage>>#snapshotPrimitive
+System-VMEvents.InputEventFetcher class>>#deinstall
+System-VMEvents.InputEventFetcher class>>#install
+System-VMEvents.InputEventFetcher>>#installEventLoop
+System-VMEvents.InputEventFetcher>>#terminateEventLoop
+System-VMEvents.InputEventSensor class>>#installEventSensorFramework:
+System-VMEvents.InputEventSensor class>>#installMouseDecodeTable
+System-VMEvents.InputEventSensor class>>#startUp
+System-VMEvents.InputEventSensor>>#shutDown
+System-VMEvents.InputEventSensor>>#startUp
+Tool-Base.PharoCommonTools class>>#initialize
+Tool-Base.PharoCommonTools class>>#release
+Tool-Base.PharoCommonTools class>>#shutDown:
+Tool-ProcessBrowser.CPUWatcher class>>#initialize
+Traits.TClass>>#removeFromSystem:

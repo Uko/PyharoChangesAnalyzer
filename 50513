@@ -1,40 +1,40 @@
-ConfigurationOfFFINB
-ConfigurationOfFFINB class>>#DevelopmentSupport
-ConfigurationOfFFINB class>>#baseConfigurationClassIfAbsent:
-ConfigurationOfFFINB class>>#ensureMetacello
-ConfigurationOfFFINB class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfFFINB class>>#isMetacelloConfig
-ConfigurationOfFFINB class>>#load
-ConfigurationOfFFINB class>>#loadBleedingEdge
-ConfigurationOfFFINB class>>#loadDevelopment
-ConfigurationOfFFINB class>>#project
-ConfigurationOfFFINB class>>#validate
-ConfigurationOfFFINB>>#alien:
-ConfigurationOfFFINB>>#baseline0_9:
-ConfigurationOfFFINB>>#customProjectAttributes
-ConfigurationOfFFINB>>#development:
-ConfigurationOfFFINB>>#ffi:
-ConfigurationOfFFINB>>#project
-ConfigurationOfFFINB>>#stable:
-ConfigurationOfFFINB>>#v0_9_0:
-ConfigurationOfFFINB>>#v0_9_1:
-ConfigurationOfFFINB>>#v0_9_2:
-FFICallout
-FFICallout>>#indirectLoader:byIndex:
-FFICallout>>#initialize
-FFICallout>>#optionAt:
-FFICallout>>#options
-FFICallout>>#options:
-FFICallout>>#parseOptions:
-FFICalloutMethodBuilder>>#createFFICallout
-FFICalloutTests>>#testParseOptions
-FFIExternalStructure class>>#structureSize
-OSPlatform>>#ffiAlignment
-Object>>#nbCall:module:options:
-Object>>#nbCall:options:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50512
-ScriptLoader>>#update50513
-SystemNavigation>>#confirmRemovalOfSelectors:on:
-TClass>>#duplicateClassWithNewName:
-Win32Platform>>#ffiAlignment
+ConfigurationOfFFINB.ConfigurationOfFFINB
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#DevelopmentSupport
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#ensureMetacello
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#isMetacelloConfig
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#load
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#loadBleedingEdge
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#loadDevelopment
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#project
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#validate
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#alien:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#baseline0_9:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#customProjectAttributes
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#development:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#ffi:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#project
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#stable:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_0:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_1:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_2:
+FFI-NB-Legacy.Object>>#nbCall:module:options:
+FFI-NB-Legacy.Object>>#nbCall:options:
+FFI-NB-Tests.FFICalloutTests>>#testParseOptions
+FFI-NB.FFICallout
+FFI-NB.FFICallout>>#indirectLoader:byIndex:
+FFI-NB.FFICallout>>#initialize
+FFI-NB.FFICallout>>#optionAt:
+FFI-NB.FFICallout>>#options
+FFI-NB.FFICallout>>#options:
+FFI-NB.FFICallout>>#parseOptions:
+FFI-NB.FFICalloutMethodBuilder>>#createFFICallout
+FFI-NB.FFIExternalStructure class>>#structureSize
+FFI-NB.OSPlatform>>#ffiAlignment
+FFI-NB.Win32Platform>>#ffiAlignment
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50512
+ScriptLoader50.ScriptLoader>>#update50513
+Tool-Base.SystemNavigation>>#confirmRemovalOfSelectors:on:
+Traits.TClass>>#duplicateClassWithNewName:

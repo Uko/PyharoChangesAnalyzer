@@ -1,15 +1,15 @@
-CombinedChar class>>#parseCompositionMappingFrom:
-EncodedCharSet class>>#ucsTable
-GB2312 class>>#initialize
-JISX0208 class>>#initialize
-KSX1001 class>>#initialize
-Latin1 class>>#initialize
-Latin1 class>>#initializeUcsTable
-ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50331
-ScriptLoader>>#update50332
-UCSTable class>>#initializeGB2312Table
-UCSTable class>>#initializeJISX0208Table
-UCSTable class>>#initializeKSX1001Table
-Unicode class>>#ucsTable
+Multilingual-Encodings.EncodedCharSet class>>#ucsTable
+Multilingual-Encodings.Latin1 class>>#initialize
+Multilingual-Encodings.Latin1 class>>#initializeUcsTable
+Multilingual-Encodings.ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
+Multilingual-Encodings.Unicode class>>#ucsTable
+Multilingual-OtherLanguages.GB2312 class>>#initialize
+Multilingual-OtherLanguages.JISX0208 class>>#initialize
+Multilingual-OtherLanguages.KSX1001 class>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50331
+ScriptLoader50.ScriptLoader>>#update50332
+Unicode-Initialization.CombinedChar class>>#parseCompositionMappingFrom:
+Unicode-Initialization.UCSTable class>>#initializeGB2312Table
+Unicode-Initialization.UCSTable class>>#initializeJISX0208Table
+Unicode-Initialization.UCSTable class>>#initializeKSX1001Table

@@ -1,26 +1,26 @@
-AbstractNautilusUI>>#buildCodePanelWithoutComment
-AbstractNautilusUI>>#buildCommentButton
-AbstractNautilusUI>>#buildHierarchyButton
-AbstractNautilusUI>>#showHierarchy:
-LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
-Nautilus
-Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
-PackageTreeNautilusUI>>#showHierarchy:
-PluggableToggleButtonMorph>>#on:getState:action:label:icon:menu:
-RPackage
-RPackage class>>#initialize
-RPackage class>>#initializeProperties
-RPackage>>#ensureProperties
-RPackage>>#properties
-RPackage>>#propertyAt:
-RPackage>>#propertyAt:ifAbsent:
-RPackage>>#propertyAt:ifAbsentPut:
-RPackage>>#propertyAt:put:
-RPackage>>#removePropertiesIfEmpty
-RPackage>>#removeProperty:
-RPackage>>#removeProperty:ifAbsent:
-RPackageTest>>#testPropertyAtPut
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50239
-ScriptLoader>>#update50240
-Slot>>#properties
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#on:getState:action:label:icon:menu:
+Nautilus.AbstractNautilusUI>>#buildCodePanelWithoutComment
+Nautilus.AbstractNautilusUI>>#buildCommentButton
+Nautilus.AbstractNautilusUI>>#buildHierarchyButton
+Nautilus.AbstractNautilusUI>>#showHierarchy:
+Nautilus.Nautilus
+Nautilus.Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
+Nautilus.PackageTreeNautilusUI>>#showHierarchy:
+NautilusGroupAutoBuilder.LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
+RPackage-Core.RPackage
+RPackage-Core.RPackage class>>#initialize
+RPackage-Core.RPackage class>>#initializeProperties
+RPackage-Core.RPackage>>#ensureProperties
+RPackage-Core.RPackage>>#properties
+RPackage-Core.RPackage>>#propertyAt:
+RPackage-Core.RPackage>>#propertyAt:ifAbsent:
+RPackage-Core.RPackage>>#propertyAt:ifAbsentPut:
+RPackage-Core.RPackage>>#propertyAt:put:
+RPackage-Core.RPackage>>#removePropertiesIfEmpty
+RPackage-Core.RPackage>>#removeProperty:
+RPackage-Core.RPackage>>#removeProperty:ifAbsent:
+RPackage-Tests.RPackageTest>>#testPropertyAtPut
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50239
+ScriptLoader50.ScriptLoader>>#update50240
+Slot.Slot>>#properties

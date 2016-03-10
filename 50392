@@ -1,16 +1,16 @@
-MCVersionReader class>>#fileReaderServicesForFile:suffix:
-MorphTreeListManager>>#basicKeyPressed:
-RBBlockNode>>#initialize
-RBParser>>#parseCascadeMessage
-RBParser>>#parsePrimitiveObject
-RBParser>>#saveCommentsDuring:
-RBPatternBlockNode>>#createBlockFor:
-RBPragmaNode>>#initialize
-RBReturnNode class>>#value:
-RBReturnNode>>#initialize
-RBReturnNode>>#stop
-RBSequenceNode>>#transformLastToReturn
-RBVariableNode>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50391
-ScriptLoader>>#update50392
+AST-Core.RBBlockNode>>#initialize
+AST-Core.RBParser>>#parseCascadeMessage
+AST-Core.RBParser>>#parsePrimitiveObject
+AST-Core.RBParser>>#saveCommentsDuring:
+AST-Core.RBPatternBlockNode>>#createBlockFor:
+AST-Core.RBPragmaNode>>#initialize
+AST-Core.RBReturnNode class>>#value:
+AST-Core.RBReturnNode>>#initialize
+AST-Core.RBReturnNode>>#stop
+AST-Core.RBVariableNode>>#initialize
+MonticelloFileServices.MCVersionReader class>>#fileReaderServicesForFile:suffix:
+Morphic-Widgets-Tree.MorphTreeListManager>>#basicKeyPressed:
+OpalCompiler-Core.RBSequenceNode>>#transformLastToReturn
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50391
+ScriptLoader50.ScriptLoader>>#update50392

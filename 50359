@@ -1,30 +1,30 @@
-ExecutionDisplayMorph
-ExecutionDisplayMorph>>#noteExecuted
-ExecutionDisplayMorph>>#noteExecution
-ExecutionDisplayMorph>>#step
-ExecutionDisplayMorph>>#stepTime
-ExecutionDisplayMorph>>#wantsSteps
-ExecutionDisplayPlugin
-ExecutionDisplayPlugin class>>#defaultPosition
-ExecutionDisplayPlugin class>>#description
-ExecutionDisplayPlugin class>>#pluginName
-ExecutionDisplayPlugin class>>#possiblePositions
-ExecutionDisplayPlugin>>#display
-ExecutionDisplayPlugin>>#initialize
-ExecutionDisplayPlugin>>#noteExectuted:
-ExecutionDisplayPlugin>>#registerTo:
-HookGenerator>>#hookFor:
-MetaLink class>>#defaultOptions
-MetaLink>>#doesNotUnderstand:
-MetaLink>>#level
-MetaLink>>#optionDisabledLink
-MetaLink>>#optionDisabledLink:
-MetaLink>>#optionMetalevel
-MetaLink>>#optionMetalevel:
-MetaLinkTest>>#testLinkOptionMetaLevel
-MorphSlot>>#write:to:
-NautilusPluginManager>>#pluginClassesSelectedIndex:
-ReflectivityControlTest>>#testLinkOptionDisabledLink
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50358
-ScriptLoader>>#update50359
+NautilusCommon.NautilusPluginManager>>#pluginClassesSelectedIndex:
+Reflectivity-Examples.ExecutionDisplayMorph
+Reflectivity-Examples.ExecutionDisplayMorph>>#noteExecuted
+Reflectivity-Examples.ExecutionDisplayMorph>>#noteExecution
+Reflectivity-Examples.ExecutionDisplayMorph>>#step
+Reflectivity-Examples.ExecutionDisplayMorph>>#stepTime
+Reflectivity-Examples.ExecutionDisplayMorph>>#wantsSteps
+Reflectivity-Examples.ExecutionDisplayPlugin
+Reflectivity-Examples.ExecutionDisplayPlugin class>>#defaultPosition
+Reflectivity-Examples.ExecutionDisplayPlugin class>>#description
+Reflectivity-Examples.ExecutionDisplayPlugin class>>#pluginName
+Reflectivity-Examples.ExecutionDisplayPlugin class>>#possiblePositions
+Reflectivity-Examples.ExecutionDisplayPlugin>>#display
+Reflectivity-Examples.ExecutionDisplayPlugin>>#initialize
+Reflectivity-Examples.ExecutionDisplayPlugin>>#noteExectuted:
+Reflectivity-Examples.ExecutionDisplayPlugin>>#registerTo:
+Reflectivity-Tests.MetaLinkTest>>#testLinkOptionMetaLevel
+Reflectivity-Tests.ReflectivityControlTest>>#testLinkOptionDisabledLink
+Reflectivity.HookGenerator>>#hookFor:
+Reflectivity.MetaLink class>>#defaultOptions
+Reflectivity.MetaLink>>#doesNotUnderstand:
+Reflectivity.MetaLink>>#level
+Reflectivity.MetaLink>>#optionDisabledLink
+Reflectivity.MetaLink>>#optionDisabledLink:
+Reflectivity.MetaLink>>#optionMetalevel
+Reflectivity.MetaLink>>#optionMetalevel:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50358
+ScriptLoader50.ScriptLoader>>#update50359
+Slot.MorphSlot>>#write:to:

@@ -1,41 +1,41 @@
-CategoryWidget>>#openFloatingEditorToRenameAtIndex:
-ClassWidget>>#openFloatingEditorToRenameAtIndex:
-Collection>>#atRandom
-Collection>>#atRandom:
-Integer>>#atRandom
-Integer>>#atRandom:
-Matrix>>#atRandom
-Matrix>>#atRandom:
-MethodWidget>>#openFloatingEditorToRenameAtIndex:
-Random
-Random class>>#bucketTest:
-Random class>>#seed:
-Random>>#initialize
-Random>>#next
-Random>>#next:
-Random>>#next:into:
-Random>>#nextInt:
-Random>>#privateNextSeed
-Random>>#privateNextValue
-Random>>#seed
-Random>>#seed:
-RandomTest
-RandomTest>>#setUp
-RandomTest>>#testIfCompletelyBroken
-RandomTest>>#testNext
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50390
-ScriptLoader>>#update50391
-SequenceableCollection>>#atRandom:
-Set>>#atRandom:
-SetTest>>#testAtRandom
-SharedRandom
-SharedRandom class>>#globalGenerator
-SharedRandom class>>#initialize
-SharedRandom>>#initialize
-SharedRandom>>#next
-SharedRandom>>#next:into:
-SharedRandom>>#nextInt:
-SpecWindowTest
-SpecWindowTest>>#testIsDisplayed
-WindowModel>>#isDisplayed
+Nautilus.CategoryWidget>>#openFloatingEditorToRenameAtIndex:
+Nautilus.ClassWidget>>#openFloatingEditorToRenameAtIndex:
+Nautilus.MethodWidget>>#openFloatingEditorToRenameAtIndex:
+Random.Collection>>#atRandom
+Random.Collection>>#atRandom:
+Random.Integer>>#atRandom
+Random.Integer>>#atRandom:
+Random.Matrix>>#atRandom
+Random.Matrix>>#atRandom:
+Random.Random
+Random.Random class>>#bucketTest:
+Random.Random class>>#seed:
+Random.Random>>#initialize
+Random.Random>>#next
+Random.Random>>#next:
+Random.Random>>#next:into:
+Random.Random>>#nextInt:
+Random.Random>>#privateNextSeed
+Random.Random>>#privateNextValue
+Random.Random>>#seed
+Random.Random>>#seed:
+Random.RandomTest
+Random.RandomTest>>#setUp
+Random.RandomTest>>#testIfCompletelyBroken
+Random.RandomTest>>#testNext
+Random.SequenceableCollection>>#atRandom:
+Random.Set>>#atRandom:
+Random.SetTest>>#testAtRandom
+Random.SharedRandom
+Random.SharedRandom class>>#globalGenerator
+Random.SharedRandom class>>#initialize
+Random.SharedRandom>>#initialize
+Random.SharedRandom>>#next
+Random.SharedRandom>>#next:into:
+Random.SharedRandom>>#nextInt:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50390
+ScriptLoader50.ScriptLoader>>#update50391
+Spec-Core.WindowModel>>#isDisplayed
+Spec-Tests.SpecWindowTest
+Spec-Tests.SpecWindowTest>>#testIsDisplayed

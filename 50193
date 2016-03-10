@@ -1,6 +1,6 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1161:
-RubAbstractTextArea class>>#editorFont
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50192
-ScriptLoader>>#update50193
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1161:
+Rubric.RubAbstractTextArea class>>#editorFont
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50192
+ScriptLoader50.ScriptLoader>>#update50193

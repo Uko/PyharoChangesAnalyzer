@@ -1,7 +1,7 @@
-ChangeSet class>>#fileReaderServicesForFile:suffix:
-ChangeSet class>>#serviceFileIntoNewChangeSet
-ChangeSet class>>#services
-MorphicTextAdapter>>#interactionModel
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50337
-ScriptLoader>>#update50338
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50337
+ScriptLoader50.ScriptLoader>>#update50338
+Spec-MorphicAdapters.MorphicTextAdapter>>#interactionModel
+System-Changes.ChangeSet class>>#fileReaderServicesForFile:suffix:
+System-Changes.ChangeSet class>>#serviceFileIntoNewChangeSet
+System-Changes.ChangeSet class>>#services

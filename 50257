@@ -1,98 +1,98 @@
-ChangeSet>>#fileOut
-MCDataStream
-MCDataStream class>>#initialize
-MCDataStream class>>#initializeTypeMap
-MCDataStream class>>#readSelectors
-MCDataStream class>>#registerClass:atIndex:usingReadSelector:usingWriteSelector:
-MCDataStream class>>#registerReaderSelector:atIndex:
-MCDataStream class>>#registerWriterSelector:atIndex:
-MCDataStream class>>#typeMap
-MCDataStream class>>#writeSelectors
-MCDataStream>>#next
-MCDataStream>>#nextPut:
-MCDataStream>>#readBitmap
-MCDataStream>>#readByteArray
-MCDataStream>>#readClass
-MCDataStream>>#readFloat
-MCDataStream>>#readMethod
-MCDataStream>>#readRectangle
-MCDataStream>>#readReference
-MCDataStream>>#readShortInst
-MCDataStream>>#readShortRef
-MCDataStream>>#readStringOld
-MCDataStream>>#readUser
-MCDataStream>>#readWordArray
-MCDataStream>>#readWordLike
-MCDataStream>>#typeIDFor:
-MCDataStream>>#writeBitmap:
-MCDataStream>>#writeByteArray:
-MCDataStream>>#writeClass:
-MCDataStream>>#writeFloat:
-MCDataStream>>#writeRectangle:
-MCDataStream>>#writeStringOld:
-MCDataStream>>#writeUser:
-MCDataStream>>#writeWordLike:
-MCOldDataStreamExtensions
-MCOldDataStreamExtensions class>>#initialize
-ManifestMonticelloOldDataStreamCompatibility
-MatrixTransform2x3 class>>#newFromStream:
-OSEnvironment
-OSEnvironment class>>#current
-OSEnvironment class>>#default
-OSEnvironment class>>#environmentFor:
-OSEnvironment class>>#initialize
-OSEnvironment class>>#isAvailable
-OSEnvironment class>>#isDefaultFor:
-OSEnvironment class>>#platform:
-OSEnvironment class>>#shutDown:
-OSEnvironment>>#asDictionary
-OSEnvironment>>#associations
-OSEnvironment>>#associationsDo:
-OSEnvironment>>#at:
-OSEnvironment>>#at:ifAbsent:
-OSEnvironment>>#at:ifAbsentPut:
-OSEnvironment>>#at:ifPresent:
-OSEnvironment>>#at:ifPresent:ifAbsent:
-OSEnvironment>>#at:put:
-OSEnvironment>>#do:
-OSEnvironment>>#getEnv:
-OSEnvironment>>#includes:
-OSEnvironment>>#includesKey:
-OSEnvironment>>#initializeWith:
-OSEnvironment>>#keys
-OSEnvironment>>#keysAndValuesDo:
-OSEnvironment>>#keysAndValuesDo:withAssociationString:
-OSEnvironment>>#keysDo:
-OSEnvironment>>#platform
-OSEnvironment>>#removeKey:
-OSEnvironment>>#unsetEnv:
-OSEnvironment>>#values
-OSEnvironment>>#valuesDo:
-OSPlatform
-OSPlatform>>#environment
-PlatformIndependentEnvironment
-PlatformIndependentEnvironment class>>#isAvailable
-PlatformIndependentEnvironment class>>#isDefaultFor:
-PlatformIndependentEnvironment>>#getEnv:
-PlatformIndependentEnvironment>>#keysAndValuesDo:
-PlatformIndependentEnvironment>>#setEnv:value:
-PlatformIndependentEnvironment>>#unsetEnv:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50256
-ScriptLoader>>#update50257
-UnixEnvironment
-UnixEnvironment class>>#isDefaultFor:
-UnixEnvironment>>#environ
-UnixEnvironment>>#environAt:
-UnixEnvironment>>#keysAndValuesDo:
-UnixEnvironment>>#setEnv:value:
-Win32Environment
-Win32Environment class>>#isDefaultFor:
-Win32Environment>>#environmentStrings
-Win32Environment>>#getEnv:
-Win32Environment>>#getEnv:buffer:size:
-Win32Environment>>#getEnvSize:
-Win32Environment>>#keysAndValuesDo:
-Win32Environment>>#setEnv:value:
-Win32Environment>>#unsetEnv:
-WordArray class>>#newFromStream:
+Graphics-Transformations.MatrixTransform2x3 class>>#newFromStream:
+Monticello-OldDataStreamCompatibility.MCOldDataStreamExtensions
+Monticello-OldDataStreamCompatibility.MCOldDataStreamExtensions class>>#initialize
+Monticello-OldDataStreamCompatibility.ManifestMonticelloOldDataStreamCompatibility
+Monticello-OldDataStreamCompatibility.WordArray class>>#newFromStream:
+Monticello.MCDataStream
+Monticello.MCDataStream class>>#initialize
+Monticello.MCDataStream class>>#initializeTypeMap
+Monticello.MCDataStream class>>#readSelectors
+Monticello.MCDataStream class>>#registerClass:atIndex:usingReadSelector:usingWriteSelector:
+Monticello.MCDataStream class>>#registerReaderSelector:atIndex:
+Monticello.MCDataStream class>>#registerWriterSelector:atIndex:
+Monticello.MCDataStream class>>#typeMap
+Monticello.MCDataStream class>>#writeSelectors
+Monticello.MCDataStream>>#next
+Monticello.MCDataStream>>#nextPut:
+Monticello.MCDataStream>>#readBitmap
+Monticello.MCDataStream>>#readByteArray
+Monticello.MCDataStream>>#readClass
+Monticello.MCDataStream>>#readFloat
+Monticello.MCDataStream>>#readMethod
+Monticello.MCDataStream>>#readRectangle
+Monticello.MCDataStream>>#readReference
+Monticello.MCDataStream>>#readShortInst
+Monticello.MCDataStream>>#readShortRef
+Monticello.MCDataStream>>#readStringOld
+Monticello.MCDataStream>>#readUser
+Monticello.MCDataStream>>#readWordArray
+Monticello.MCDataStream>>#readWordLike
+Monticello.MCDataStream>>#typeIDFor:
+Monticello.MCDataStream>>#writeBitmap:
+Monticello.MCDataStream>>#writeByteArray:
+Monticello.MCDataStream>>#writeClass:
+Monticello.MCDataStream>>#writeFloat:
+Monticello.MCDataStream>>#writeRectangle:
+Monticello.MCDataStream>>#writeStringOld:
+Monticello.MCDataStream>>#writeUser:
+Monticello.MCDataStream>>#writeWordLike:
+NativeBoost-Unix.UnixEnvironment
+NativeBoost-Unix.UnixEnvironment class>>#isDefaultFor:
+NativeBoost-Unix.UnixEnvironment>>#environ
+NativeBoost-Unix.UnixEnvironment>>#environAt:
+NativeBoost-Unix.UnixEnvironment>>#keysAndValuesDo:
+NativeBoost-Unix.UnixEnvironment>>#setEnv:value:
+NativeBoost-Win32.Win32Environment
+NativeBoost-Win32.Win32Environment class>>#isDefaultFor:
+NativeBoost-Win32.Win32Environment>>#environmentStrings
+NativeBoost-Win32.Win32Environment>>#getEnv:
+NativeBoost-Win32.Win32Environment>>#getEnv:buffer:size:
+NativeBoost-Win32.Win32Environment>>#getEnvSize:
+NativeBoost-Win32.Win32Environment>>#keysAndValuesDo:
+NativeBoost-Win32.Win32Environment>>#setEnv:value:
+NativeBoost-Win32.Win32Environment>>#unsetEnv:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50256
+ScriptLoader50.ScriptLoader>>#update50257
+System-Changes.ChangeSet>>#fileOut
+System-OSEnvironments.OSEnvironment class>>#current
+System-OSEnvironments.OSEnvironment class>>#default
+System-OSEnvironments.OSEnvironment class>>#initialize
+System-OSEnvironments.OSEnvironment class>>#shutDown:
+System-OSEnvironments.OSPlatform>>#environment
+System-Platforms.OSEnvironment
+System-Platforms.OSEnvironment class>>#environmentFor:
+System-Platforms.OSEnvironment class>>#isAvailable
+System-Platforms.OSEnvironment class>>#isDefaultFor:
+System-Platforms.OSEnvironment class>>#platform:
+System-Platforms.OSEnvironment>>#asDictionary
+System-Platforms.OSEnvironment>>#associations
+System-Platforms.OSEnvironment>>#associationsDo:
+System-Platforms.OSEnvironment>>#at:
+System-Platforms.OSEnvironment>>#at:ifAbsent:
+System-Platforms.OSEnvironment>>#at:ifAbsentPut:
+System-Platforms.OSEnvironment>>#at:ifPresent:
+System-Platforms.OSEnvironment>>#at:ifPresent:ifAbsent:
+System-Platforms.OSEnvironment>>#at:put:
+System-Platforms.OSEnvironment>>#do:
+System-Platforms.OSEnvironment>>#getEnv:
+System-Platforms.OSEnvironment>>#includes:
+System-Platforms.OSEnvironment>>#includesKey:
+System-Platforms.OSEnvironment>>#initializeWith:
+System-Platforms.OSEnvironment>>#keys
+System-Platforms.OSEnvironment>>#keysAndValuesDo:
+System-Platforms.OSEnvironment>>#keysAndValuesDo:withAssociationString:
+System-Platforms.OSEnvironment>>#keysDo:
+System-Platforms.OSEnvironment>>#platform
+System-Platforms.OSEnvironment>>#removeKey:
+System-Platforms.OSEnvironment>>#unsetEnv:
+System-Platforms.OSEnvironment>>#values
+System-Platforms.OSEnvironment>>#valuesDo:
+System-Platforms.OSPlatform
+System-Platforms.PlatformIndependentEnvironment
+System-Platforms.PlatformIndependentEnvironment class>>#isAvailable
+System-Platforms.PlatformIndependentEnvironment class>>#isDefaultFor:
+System-Platforms.PlatformIndependentEnvironment>>#getEnv:
+System-Platforms.PlatformIndependentEnvironment>>#keysAndValuesDo:
+System-Platforms.PlatformIndependentEnvironment>>#setEnv:value:
+System-Platforms.PlatformIndependentEnvironment>>#unsetEnv:

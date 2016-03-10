@@ -1,13 +1,13 @@
-AbstractBinaryFileStream>>#next
-ChangeSet class>>#fileReaderServicesForFile:suffix:
-ChangeSet class>>#initialize
-FileList class>>#itemsForDirectory:
-FileList class>>#itemsForFile:
-FileServices
-FileServices class>>#itemsForDirectory:
-FileServices class>>#itemsForFile:
-MCOrganizationDefinition>>#patchWrapper
-MczInstaller class>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50255
-ScriptLoader>>#update50256
+Files.AbstractBinaryFileStream>>#next
+Monticello.MCOrganizationDefinition>>#patchWrapper
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50255
+ScriptLoader50.ScriptLoader>>#update50256
+System-Changes.ChangeSet class>>#fileReaderServicesForFile:suffix:
+System-Changes.ChangeSet class>>#initialize
+System-FileRegistry.FileServices
+System-FileRegistry.FileServices class>>#itemsForDirectory:
+System-FileRegistry.FileServices class>>#itemsForFile:
+System-Installers.MczInstaller class>>#initialize
+Tool-FileList.FileList class>>#itemsForDirectory:
+Tool-FileList.FileList class>>#itemsForFile:

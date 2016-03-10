@@ -1,16 +1,16 @@
-AbstractNautilusUI>>#buildNewSourceTextArea
-AbstractNautilusUI>>#sourceCode
-AbstractNautilusUI>>#textMorphClass
-AbstractTool>>#browseVersionsFrom:
-ChangeSorterApplication>>#browseVersions
-ChangeSorterApplication>>#createRingMethodForRemovedSelector:inClass:
-ChangeSorterApplication>>#createRingMethodForSelector:inClass:
-ConfigurationOfCatalog>>#stable:
-ConfigurationOfCatalog>>#version051:
-GTSpotter>>#spotterCatalogProjectsFor:
-NewVersionBrowser class>>#browseVersionsForMethod:
-RBConfigurableFormatter>>#needsParenthesisFor:
-RBFormatterTests>>#testShouldNotParenthesizeDynamicArrayStatements
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50106
-ScriptLoader>>#update50107
+AST-Core.RBConfigurableFormatter>>#needsParenthesisFor:
+AST-Tests-Core.RBFormatterTests>>#testShouldNotParenthesizeDynamicArrayStatements
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version051:
+Nautilus.AbstractNautilusUI>>#buildNewSourceTextArea
+Nautilus.AbstractNautilusUI>>#sourceCode
+Nautilus.AbstractNautilusUI>>#textMorphClass
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50106
+ScriptLoader50.ScriptLoader>>#update50107
+Spec-Tools.ChangeSorterApplication>>#browseVersions
+Spec-Tools.ChangeSorterApplication>>#createRingMethodForRemovedSelector:inClass:
+Spec-Tools.ChangeSorterApplication>>#createRingMethodForSelector:inClass:
+Spec-Tools.NewVersionBrowser class>>#browseVersionsForMethod:
+Tool-Base.AbstractTool>>#browseVersionsFrom:
+Tool-Catalog.GTSpotter>>#spotterCatalogProjectsFor:

@@ -1,33 +1,33 @@
-InfiniteForm>>#fillRectangle:on:
-Object>>#basicInspect
-Object>>#explore
-Object>>#inspect
-Object>>#inspectOnce
-Object>>#inspectWithLabel:
-Object>>#inspector
-Object>>#inspectorClass
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50067
-ScriptLoader>>#update50068
-SettingBrowser class>>#menuCommandOn:
-TextMorphForFieldView
-TextMorphForFieldView>>#editorClass
-TextMorphForFieldView>>#isEditEvent:
-TextMorphForFieldView>>#keyStroke:
-TextMorphForFieldView>>#keyboardFocusChange:
-TextMorphForFieldView>>#localHandleKeystroke:
-TextMorphForFieldView>>#maxLength
-TextMorphForFieldView>>#maxLength:
-TextMorphForFieldView>>#minExtent
-TextMorphForFieldView>>#minHeight
-TextMorphForFieldView>>#minWidth
-TextMorphForFieldView>>#minimumExtent
-TextMorphForFieldView>>#mouseMove:
-TextMorphForFieldView>>#paragraph
-TextMorphForFieldView>>#sharesFindReplace
-TextMorphForFieldView>>#useFindReplaceSelection
-TextMorphForFieldView>>#useSecondarySelection
-TextMorphForFieldView>>#useSelectionBar
-ThreadSafeTranscript class>>#menuCommandOn:
-WorldState class>>#mostUsedToolsOn:
-WorldState class>>#quitItemsOn:
+Morphic-Core.WorldState class>>#mostUsedToolsOn:
+Morphic-Core.WorldState class>>#quitItemsOn:
+Polymorph-Widgets.InfiniteForm>>#fillRectangle:on:
+Polymorph-Widgets.TextMorphForFieldView
+Polymorph-Widgets.TextMorphForFieldView>>#editorClass
+Polymorph-Widgets.TextMorphForFieldView>>#isEditEvent:
+Polymorph-Widgets.TextMorphForFieldView>>#keyStroke:
+Polymorph-Widgets.TextMorphForFieldView>>#keyboardFocusChange:
+Polymorph-Widgets.TextMorphForFieldView>>#localHandleKeystroke:
+Polymorph-Widgets.TextMorphForFieldView>>#maxLength
+Polymorph-Widgets.TextMorphForFieldView>>#maxLength:
+Polymorph-Widgets.TextMorphForFieldView>>#minExtent
+Polymorph-Widgets.TextMorphForFieldView>>#minHeight
+Polymorph-Widgets.TextMorphForFieldView>>#minWidth
+Polymorph-Widgets.TextMorphForFieldView>>#minimumExtent
+Polymorph-Widgets.TextMorphForFieldView>>#mouseMove:
+Polymorph-Widgets.TextMorphForFieldView>>#paragraph
+Polymorph-Widgets.TextMorphForFieldView>>#sharesFindReplace
+Polymorph-Widgets.TextMorphForFieldView>>#useFindReplaceSelection
+Polymorph-Widgets.TextMorphForFieldView>>#useSecondarySelection
+Polymorph-Widgets.TextMorphForFieldView>>#useSelectionBar
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50067
+ScriptLoader50.ScriptLoader>>#update50068
+Spec-Inspector.Object>>#basicInspect
+Spec-Inspector.Object>>#explore
+Spec-Inspector.Object>>#inspect
+Spec-Inspector.Object>>#inspectOnce
+Spec-Inspector.Object>>#inspectWithLabel:
+Spec-Inspector.Object>>#inspector
+Spec-Inspector.Object>>#inspectorClass
+System-Settings.SettingBrowser class>>#menuCommandOn:
+Tool-Transcript.ThreadSafeTranscript class>>#menuCommandOn:

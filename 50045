@@ -1,14 +1,14 @@
-FileContentsBrowser class>>#serviceBrowseCode
-KMNamedCharKeyCombination
-KMNamedCharKeyCombination class>>#ifSpecialKey:do:
-KMNamedCharKeyCombination class>>#key:name:
-KMNamedCharKeyCombination class>>#newSpecialKeys
-KMNamedCharKeyCombination class>>#space
-KMNamedCharKeyCombination class>>#specialKeys
-KMNamedCharKeyCombination>>#name
-KMNamedCharKeyCombination>>#name:
-Object class>>#newFrom:
-Path class>>#absoluteWindowsPathRegex
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50044
-ScriptLoader>>#update50045
+FileSystem-Core.Path class>>#absoluteWindowsPathRegex
+Kernel.Object class>>#newFrom:
+Keymapping-KeyCombinations.KMNamedCharKeyCombination
+Keymapping-KeyCombinations.KMNamedCharKeyCombination class>>#ifSpecialKey:do:
+Keymapping-KeyCombinations.KMNamedCharKeyCombination class>>#key:name:
+Keymapping-KeyCombinations.KMNamedCharKeyCombination class>>#newSpecialKeys
+Keymapping-KeyCombinations.KMNamedCharKeyCombination class>>#space
+Keymapping-KeyCombinations.KMNamedCharKeyCombination class>>#specialKeys
+Keymapping-KeyCombinations.KMNamedCharKeyCombination>>#name
+Keymapping-KeyCombinations.KMNamedCharKeyCombination>>#name:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50044
+ScriptLoader50.ScriptLoader>>#update50045
+Tool-FilePackageBrowser.FileContentsBrowser class>>#serviceBrowseCode

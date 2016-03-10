@@ -1,10 +1,10 @@
-NECContext>>#createModel
-NECContextTest>>#testCreateModel
-RBDeprecateMethodRefactoring class>>#model:deprecateMethod:in:using:
-RBDeprecateMethodRefactoring>>#transform
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50481
-ScriptLoader>>#update50482
-SlotTest>>#testAsSlotCollection
-String>>#asSlotCollection
-String>>#asValidInstVarName
+NECompletion-Tests.NECContextTest>>#testCreateModel
+NECompletion.NECContext>>#createModel
+Refactoring-Core.RBDeprecateMethodRefactoring class>>#model:deprecateMethod:in:using:
+Refactoring-Core.RBDeprecateMethodRefactoring>>#transform
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50481
+ScriptLoader50.ScriptLoader>>#update50482
+Slot-Tests.SlotTest>>#testAsSlotCollection
+Slot.String>>#asSlotCollection
+Slot.String>>#asValidInstVarName

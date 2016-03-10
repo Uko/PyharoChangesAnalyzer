@@ -1,15 +1,15 @@
-HookGenerator>>#hookFor:
-MorphicUIManager>>#debugProcess:context:title:full:
-RFASTTranslator>>#visitLiteralVariableNode:
-RFLiteralVariableNode
-RFLiteralVariableNode class>>#value:
-RFLiteralVariableNode>>#acceptVisitor:
-RFLiteralVariableNode>>#binding
-RFLiteralVariableNode>>#binding:
-RFLiteralVariableNode>>#isFaulty
-RFLiteralVariableNode>>#start
-RFLiteralVariableNode>>#stop
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50397
-ScriptLoader>>#update50398
-TRBProgramNodeVisitor>>#visitLiteralVariableNode:
+Polymorph-Widgets.MorphicUIManager>>#debugProcess:context:title:full:
+Reflectivity.HookGenerator>>#hookFor:
+Reflectivity.RFASTTranslator>>#visitLiteralVariableNode:
+Reflectivity.RFLiteralVariableNode
+Reflectivity.RFLiteralVariableNode class>>#value:
+Reflectivity.RFLiteralVariableNode>>#acceptVisitor:
+Reflectivity.RFLiteralVariableNode>>#binding
+Reflectivity.RFLiteralVariableNode>>#binding:
+Reflectivity.RFLiteralVariableNode>>#isFaulty
+Reflectivity.RFLiteralVariableNode>>#start
+Reflectivity.RFLiteralVariableNode>>#stop
+Reflectivity.TRBProgramNodeVisitor>>#visitLiteralVariableNode:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50397
+ScriptLoader50.ScriptLoader>>#update50398

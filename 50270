@@ -1,39 +1,39 @@
-ChangesLog
-ChangesLog class>>#default
-ChangesLog class>>#reset
-ChangesLog>>#assureStartupStampLogged
-ChangesLog>>#logChange:
-ChangesLog>>#logClassRemoved:
-ChangesLog>>#logClassRenamed:
-ChangesLog>>#logExpressionEvaluated:
-ChangesLog>>#logMethodRemoved:
-ChangesLog>>#logSnapshot:andQuit:
-ChangesLog>>#recordStartupStamp
-ChangesLog>>#registerToAnnouncements
-Character class>>#euro
-CompiledMethod>>#hasLiteralThorough:
-FileStream class>>#initialize
-FileStream class>>#writeSourceCodeFrom:baseName:isSt:
-MacOSPlatform>>#potentialLocationsOfSourcesFile
-ManifestFiles class>>#manuallyResolvedDependencies
-OSPlatform>>#potentialLocationsOfSourcesFile
-Object>>#release
-RFASTTranslator>>#visitLiteralArrayNode:
-RFASTTranslator>>#visitLiteralNode:
-ReflectivityControlTest>>#return3
-ReflectivityControlTest>>#testInsteadBlock
-ReflectivityControlTest>>#testInsteadLiteral
-ReflectivityControlTest>>#testInsteadLiteralArray
-ReflectivityControlTest>>#testReplaceAssign
-ReflectivityControlTest>>#testReplaceReturn
-ReflectivityControlTest>>#testReplaceSend
-ReflectivityControlTest>>#testReplaceVariableReadGlobal
-ReflectivityControlTest>>#testReplaceVariableReadIvar
-ReflectivityControlTest>>#testReplaceVariableReadTemp
-ReflectivityControlTest>>#testReplaceVariableWrite
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50269
-ScriptLoader>>#update50270
-String>>#asFileName
-UnixPlatform>>#potentialLocationsOfSourcesFile
-Win32Platform>>#potentialLocationsOfSourcesFile
+Files.FileStream class>>#initialize
+Files.FileStream class>>#writeSourceCodeFrom:baseName:isSt:
+Files.MacOSPlatform>>#potentialLocationsOfSourcesFile
+Files.ManifestFiles class>>#manuallyResolvedDependencies
+Files.OSPlatform>>#potentialLocationsOfSourcesFile
+Files.String>>#asFileName
+Files.UnixPlatform>>#potentialLocationsOfSourcesFile
+Files.Win32Platform>>#potentialLocationsOfSourcesFile
+Kernel.Character class>>#euro
+Kernel.CompiledMethod>>#hasLiteralThorough:
+Kernel.Object>>#release
+Reflectivity-Tests.ReflectivityControlTest>>#return3
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadBlock
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadLiteral
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadLiteralArray
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceAssign
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceReturn
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceSend
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceVariableReadGlobal
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceVariableReadIvar
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceVariableReadTemp
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceVariableWrite
+Reflectivity.RFASTTranslator>>#visitLiteralArrayNode:
+Reflectivity.RFASTTranslator>>#visitLiteralNode:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50269
+ScriptLoader50.ScriptLoader>>#update50270
+System-Support.ChangesLog
+System-Support.ChangesLog class>>#default
+System-Support.ChangesLog class>>#reset
+System-Support.ChangesLog>>#assureStartupStampLogged
+System-Support.ChangesLog>>#logChange:
+System-Support.ChangesLog>>#logClassRemoved:
+System-Support.ChangesLog>>#logClassRenamed:
+System-Support.ChangesLog>>#logExpressionEvaluated:
+System-Support.ChangesLog>>#logMethodRemoved:
+System-Support.ChangesLog>>#logSnapshot:andQuit:
+System-Support.ChangesLog>>#recordStartupStamp
+System-Support.ChangesLog>>#registerToAnnouncements

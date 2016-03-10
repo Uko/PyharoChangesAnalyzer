@@ -1,154 +1,154 @@
-AbstractSessionHandler
-AbstractSessionHandler>>#handledId
-AbstractSessionHandler>>#printOn:
-AbstractSessionHandler>>#shutdown:
-AbstractSessionHandler>>#startup:
-ClassSessionHandler
-ClassSessionHandler class>>#forClassNamed:
-ClassSessionHandler>>#handledId
-ClassSessionHandler>>#registeredClass
-ClassSessionHandler>>#registeredClassName:
-ClassSessionHandler>>#shutdown:
-ClassSessionHandler>>#startup:
-ConfigurationOfSessionManager
-ConfigurationOfSessionManager class>>#DevelopmentSupport
-ConfigurationOfSessionManager class>>#baseConfigurationClassIfAbsent:
-ConfigurationOfSessionManager class>>#ensureMetacello
-ConfigurationOfSessionManager class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfSessionManager class>>#isMetacelloConfig
-ConfigurationOfSessionManager class>>#load
-ConfigurationOfSessionManager class>>#loadBleedingEdge
-ConfigurationOfSessionManager class>>#loadDevelopment
-ConfigurationOfSessionManager class>>#project
-ConfigurationOfSessionManager class>>#validate
-ConfigurationOfSessionManager>>#baseline01:
-ConfigurationOfSessionManager>>#customProjectAttributes
-ConfigurationOfSessionManager>>#development:
-ConfigurationOfSessionManager>>#project
-ConfigurationOfSessionManager>>#stable:
-ConfigurationOfSessionManager>>#version10:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50532
-ScriptLoader>>#update50533
-SessionCategory
-SessionCategory>>#defaultPriority
-SessionCategory>>#initialize
-SessionCategory>>#listAtPriority:
-SessionCategory>>#name
-SessionCategory>>#name:
-SessionCategory>>#printOn:
-SessionCategory>>#prioritizedList
-SessionCategory>>#register:
-SessionCategory>>#register:atPriority:
-SessionCategory>>#unregisterClassNamed:
-SessionCreationTest
-SessionCreationTest>>#testNewSession
-SessionCreationTest>>#testShutdown
-SessionCreationTest>>#testStartup
-SessionErrorHandlingTest
-SessionErrorHandlingTest>>#newTestSessionfor:
-SessionErrorHandlingTest>>#setUp
-SessionErrorHandlingTest>>#testErrorCaughtAndDefferedIfExceptionSignaledAtStartupWhenStartupUiManagerActive
-SessionErrorHandlingTest>>#testErrorCaughtIfExceptionSignaledAtShutdownWhenDefaultUiManagerActive
-SessionErrorHandlingTest>>#testErrorHandledIfExceptionSignaledAtShutdownWhenStartupUiManagerActive
-SessionErrorHandlingTest>>#testErrorHandledIfExceptionSignaledAtStartupWhenDefaultUiManagerActive
-SessionManager
-SessionManager class>>#default
-SessionManager class>>#default:
-SessionManager class>>#forCompatibility
-SessionManager class>>#initializedSessionManager
-SessionManager>>#addDeferredStartupAction:
-SessionManager>>#basicCreateCategory:
-SessionManager>>#categoryNamed:
-SessionManager>>#createCategory:
-SessionManager>>#createCategory:after:
-SessionManager>>#currentSession
-SessionManager>>#defaultPriority
-SessionManager>>#guiCategory
-SessionManager>>#initialize
-SessionManager>>#installNewSession
-SessionManager>>#installSession:
-SessionManager>>#networkCategory
-SessionManager>>#newSession
-SessionManager>>#register:
-SessionManager>>#register:inCategory:
-SessionManager>>#register:inCategory:atPriority:
-SessionManager>>#registerGuiClassNamed:
-SessionManager>>#registerGuiClassNamed:atPriority:
-SessionManager>>#registerNetworkClassNamed:
-SessionManager>>#registerSystemClassNamed:
-SessionManager>>#registerSystemClassNamed:atPriority:
-SessionManager>>#registerToolClassNamed:
-SessionManager>>#shutdownList
-SessionManager>>#snapshot:andQuit:
-SessionManager>>#startupList
-SessionManager>>#systemCategory
-SessionManager>>#toolsCategory
-SessionManager>>#uninstallSession:
-SessionManager>>#unregisterClassNamed:
-SessionManager>>#userCategory
-SessionManagerRegistrationOrderTest
-SessionManagerRegistrationOrderTest>>#register:atSystemPriority:
-SessionManagerRegistrationOrderTest>>#setUp
-SessionManagerRegistrationOrderTest>>#testCategoriesPriorityOrder
-SessionManagerRegistrationOrderTest>>#testCreateCategoryFailsIfAfterUnexistentCategory
-SessionManagerRegistrationOrderTest>>#testCustomCategoryGoesAfterSystemCategoryByDefault
-SessionManagerRegistrationOrderTest>>#testCustomCategoryOrderIsPreserved
-SessionManagerRegistrationOrderTest>>#testPriorityOrderInTheSameCategoryIsRespected
-SessionManagerRegistrationOrderTest>>#testRegisterElementByDefault
-SessionManagerRegistrationOrderTest>>#testRegisterSystemElement
-SessionManagerRegistrationOrderTest>>#testSubscriptionReverseOrder
-SessionManagerUnregistrationTest
-SessionManagerUnregistrationTest>>#setUp
-SessionManagerUnregistrationTest>>#testCanUnregisterClass
-SessionManagerUnregistrationTest>>#testUnregisterUnknownClassDoesNotFail
-StartupUIManager
-StartupUIManager class>>#isValidForCurrentSystemConfiguration
-StartupUIManager>>#activate
-StartupUIManager>>#handleError:log:
-StartupUIManager>>#inform:
-StartupUIManager>>#sessionManager
-StartupUIManager>>#uiManager
-TestSessionHandler
-TestSessionHandler class>>#onShutdown:
-TestSessionHandler class>>#onStartup:
-TestSessionHandler>>#handledId
-TestSessionHandler>>#printOn:
-TestSessionHandler>>#shutdown:
-TestSessionHandler>>#shutdownHandler:
-TestSessionHandler>>#startup:
-TestSessionHandler>>#startupHandler:
-TestStartupUIManager
-TestStartupUIManager>>#sessionManager
-TestStartupUIManager>>#sessionManager:
-TestWorkingSession
-TestWorkingSession>>#errorHandler
-TestWorkingSession>>#errorHandler:
-TestWorkingSession>>#errors
-TestWorkingSession>>#executeDeferredStartupActions:
-TestWorkingSession>>#handleError:
-TestWorkingSession>>#initialize
-TestWorkingSession>>#start:
-UIManagerSessionHandler
-UIManagerSessionHandler class>>#initialize
-UIManagerSessionHandler class>>#release
-UIManagerSessionHandler class>>#uniqueInstance
-UIManagerSessionHandler>>#handledId
-UIManagerSessionHandler>>#shutdown:
-UIManagerSessionHandler>>#startup:
-WorkingSession
-WorkingSession>>#addDeferredStartupAction:
-WorkingSession>>#creationTime
-WorkingSession>>#errorHandler
-WorkingSession>>#executeDeferredStartupActions:
-WorkingSession>>#id
-WorkingSession>>#initialize
-WorkingSession>>#install
-WorkingSession>>#manager:
-WorkingSession>>#runList:do:
-WorkingSession>>#runShutdown:
-WorkingSession>>#runStartup:
-WorkingSession>>#sid
-WorkingSession>>#start:
-WorkingSession>>#stop:
-WorkingSession>>#uninstall
+ConfigurationOfSessionManager.ConfigurationOfSessionManager
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#DevelopmentSupport
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#ensureMetacello
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#isMetacelloConfig
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#load
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#loadBleedingEdge
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#loadDevelopment
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#project
+ConfigurationOfSessionManager.ConfigurationOfSessionManager class>>#validate
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#baseline01:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#customProjectAttributes
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#development:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#project
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#stable:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#version10:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50532
+ScriptLoader50.ScriptLoader>>#update50533
+System-SessionManager-Tests.SessionCreationTest
+System-SessionManager-Tests.SessionCreationTest>>#testNewSession
+System-SessionManager-Tests.SessionCreationTest>>#testShutdown
+System-SessionManager-Tests.SessionCreationTest>>#testStartup
+System-SessionManager-Tests.SessionErrorHandlingTest
+System-SessionManager-Tests.SessionErrorHandlingTest>>#newTestSessionfor:
+System-SessionManager-Tests.SessionErrorHandlingTest>>#setUp
+System-SessionManager-Tests.SessionErrorHandlingTest>>#testErrorCaughtAndDefferedIfExceptionSignaledAtStartupWhenStartupUiManagerActive
+System-SessionManager-Tests.SessionErrorHandlingTest>>#testErrorCaughtIfExceptionSignaledAtShutdownWhenDefaultUiManagerActive
+System-SessionManager-Tests.SessionErrorHandlingTest>>#testErrorHandledIfExceptionSignaledAtShutdownWhenStartupUiManagerActive
+System-SessionManager-Tests.SessionErrorHandlingTest>>#testErrorHandledIfExceptionSignaledAtStartupWhenDefaultUiManagerActive
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#register:atSystemPriority:
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#setUp
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testCategoriesPriorityOrder
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testCreateCategoryFailsIfAfterUnexistentCategory
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testCustomCategoryGoesAfterSystemCategoryByDefault
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testCustomCategoryOrderIsPreserved
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testPriorityOrderInTheSameCategoryIsRespected
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testRegisterElementByDefault
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testRegisterSystemElement
+System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testSubscriptionReverseOrder
+System-SessionManager-Tests.SessionManagerUnregistrationTest
+System-SessionManager-Tests.SessionManagerUnregistrationTest>>#setUp
+System-SessionManager-Tests.SessionManagerUnregistrationTest>>#testCanUnregisterClass
+System-SessionManager-Tests.SessionManagerUnregistrationTest>>#testUnregisterUnknownClassDoesNotFail
+System-SessionManager-Tests.TestSessionHandler
+System-SessionManager-Tests.TestSessionHandler class>>#onShutdown:
+System-SessionManager-Tests.TestSessionHandler class>>#onStartup:
+System-SessionManager-Tests.TestSessionHandler>>#handledId
+System-SessionManager-Tests.TestSessionHandler>>#printOn:
+System-SessionManager-Tests.TestSessionHandler>>#shutdown:
+System-SessionManager-Tests.TestSessionHandler>>#shutdownHandler:
+System-SessionManager-Tests.TestSessionHandler>>#startup:
+System-SessionManager-Tests.TestSessionHandler>>#startupHandler:
+System-SessionManager-Tests.TestStartupUIManager
+System-SessionManager-Tests.TestStartupUIManager>>#sessionManager
+System-SessionManager-Tests.TestStartupUIManager>>#sessionManager:
+System-SessionManager-Tests.TestWorkingSession
+System-SessionManager-Tests.TestWorkingSession>>#errorHandler
+System-SessionManager-Tests.TestWorkingSession>>#errorHandler:
+System-SessionManager-Tests.TestWorkingSession>>#errors
+System-SessionManager-Tests.TestWorkingSession>>#executeDeferredStartupActions:
+System-SessionManager-Tests.TestWorkingSession>>#handleError:
+System-SessionManager-Tests.TestWorkingSession>>#initialize
+System-SessionManager-Tests.TestWorkingSession>>#start:
+System-SessionManager.AbstractSessionHandler
+System-SessionManager.AbstractSessionHandler>>#handledId
+System-SessionManager.AbstractSessionHandler>>#printOn:
+System-SessionManager.AbstractSessionHandler>>#shutdown:
+System-SessionManager.AbstractSessionHandler>>#startup:
+System-SessionManager.ClassSessionHandler
+System-SessionManager.ClassSessionHandler class>>#forClassNamed:
+System-SessionManager.ClassSessionHandler>>#handledId
+System-SessionManager.ClassSessionHandler>>#registeredClass
+System-SessionManager.ClassSessionHandler>>#registeredClassName:
+System-SessionManager.ClassSessionHandler>>#shutdown:
+System-SessionManager.ClassSessionHandler>>#startup:
+System-SessionManager.SessionCategory
+System-SessionManager.SessionCategory>>#defaultPriority
+System-SessionManager.SessionCategory>>#initialize
+System-SessionManager.SessionCategory>>#listAtPriority:
+System-SessionManager.SessionCategory>>#name
+System-SessionManager.SessionCategory>>#name:
+System-SessionManager.SessionCategory>>#printOn:
+System-SessionManager.SessionCategory>>#prioritizedList
+System-SessionManager.SessionCategory>>#register:
+System-SessionManager.SessionCategory>>#register:atPriority:
+System-SessionManager.SessionCategory>>#unregisterClassNamed:
+System-SessionManager.SessionManager
+System-SessionManager.SessionManager class>>#default
+System-SessionManager.SessionManager class>>#default:
+System-SessionManager.SessionManager class>>#forCompatibility
+System-SessionManager.SessionManager class>>#initializedSessionManager
+System-SessionManager.SessionManager>>#addDeferredStartupAction:
+System-SessionManager.SessionManager>>#basicCreateCategory:
+System-SessionManager.SessionManager>>#categoryNamed:
+System-SessionManager.SessionManager>>#createCategory:
+System-SessionManager.SessionManager>>#createCategory:after:
+System-SessionManager.SessionManager>>#currentSession
+System-SessionManager.SessionManager>>#defaultPriority
+System-SessionManager.SessionManager>>#guiCategory
+System-SessionManager.SessionManager>>#initialize
+System-SessionManager.SessionManager>>#installNewSession
+System-SessionManager.SessionManager>>#installSession:
+System-SessionManager.SessionManager>>#networkCategory
+System-SessionManager.SessionManager>>#newSession
+System-SessionManager.SessionManager>>#register:
+System-SessionManager.SessionManager>>#register:inCategory:
+System-SessionManager.SessionManager>>#register:inCategory:atPriority:
+System-SessionManager.SessionManager>>#registerGuiClassNamed:
+System-SessionManager.SessionManager>>#registerGuiClassNamed:atPriority:
+System-SessionManager.SessionManager>>#registerNetworkClassNamed:
+System-SessionManager.SessionManager>>#registerSystemClassNamed:
+System-SessionManager.SessionManager>>#registerSystemClassNamed:atPriority:
+System-SessionManager.SessionManager>>#registerToolClassNamed:
+System-SessionManager.SessionManager>>#shutdownList
+System-SessionManager.SessionManager>>#snapshot:andQuit:
+System-SessionManager.SessionManager>>#startupList
+System-SessionManager.SessionManager>>#systemCategory
+System-SessionManager.SessionManager>>#toolsCategory
+System-SessionManager.SessionManager>>#uninstallSession:
+System-SessionManager.SessionManager>>#unregisterClassNamed:
+System-SessionManager.SessionManager>>#userCategory
+System-SessionManager.StartupUIManager>>#sessionManager
+System-SessionManager.StartupUIManager>>#uiManager
+System-SessionManager.UIManagerSessionHandler
+System-SessionManager.UIManagerSessionHandler class>>#initialize
+System-SessionManager.UIManagerSessionHandler class>>#release
+System-SessionManager.UIManagerSessionHandler class>>#uniqueInstance
+System-SessionManager.UIManagerSessionHandler>>#handledId
+System-SessionManager.UIManagerSessionHandler>>#shutdown:
+System-SessionManager.UIManagerSessionHandler>>#startup:
+System-SessionManager.WorkingSession
+System-SessionManager.WorkingSession>>#addDeferredStartupAction:
+System-SessionManager.WorkingSession>>#creationTime
+System-SessionManager.WorkingSession>>#errorHandler
+System-SessionManager.WorkingSession>>#executeDeferredStartupActions:
+System-SessionManager.WorkingSession>>#id
+System-SessionManager.WorkingSession>>#initialize
+System-SessionManager.WorkingSession>>#install
+System-SessionManager.WorkingSession>>#manager:
+System-SessionManager.WorkingSession>>#runList:do:
+System-SessionManager.WorkingSession>>#runShutdown:
+System-SessionManager.WorkingSession>>#runStartup:
+System-SessionManager.WorkingSession>>#sid
+System-SessionManager.WorkingSession>>#start:
+System-SessionManager.WorkingSession>>#stop:
+System-SessionManager.WorkingSession>>#uninstall
+UIManager.StartupUIManager
+UIManager.StartupUIManager class>>#isValidForCurrentSystemConfiguration
+UIManager.StartupUIManager>>#activate
+UIManager.StartupUIManager>>#handleError:log:
+UIManager.StartupUIManager>>#inform:

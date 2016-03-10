@@ -1,91 +1,91 @@
-BehaviorInstallingDeclaration
-BehaviorInstallingDeclaration>>#behaviorName:
-BehaviorInstallingDeclaration>>#existsBehavior
-BehaviorInstallingDeclaration>>#isMeta:
-BehaviorInstallingDeclaration>>#targetClass
-BehaviorOwnedChunk>>#isMeta
-ChunkFileFormatParser>>#parseClassOrganization:
-ChunkFileFormatParser>>#parseCommentDeclaration:
-ChunkFileFormatParser>>#parseDeclarations
-ChunkFileFormatParser>>#parseMethodDeclarations:
-ChunkFileFormatParser>>#parseNextDeclaration
-ClassCommentChunk
-ClassCommentChunk>>#accept:
-ClassCommentChunk>>#description
-ClassCommentChunk>>#isClassCommentDeclaration
-ClassCommentChunk>>#stamp
-ClassCommentDeclaration class>>#contents:behaviorName:isMeta:stamp:
-ClassCommentDeclaration>>#import
-ClassCommentDeclaration>>#stamp:
-ClassOrganizationChunk
-ClassOrganizationChunk>>#accept:
-ClassOrganizationChunk>>#description
-ClassOrganizationChunk>>#isClassOrganizationDeclaration
-ClassOrganizationDeclaration class>>#contents:behaviorName:isMeta:
-ClassOrganizationDeclaration class>>#contents:organizer:
-ClassOrganizationDeclaration>>#import
-CodeChunk>>#accept:
-CodeChunk>>#isClassCommentDeclaration
-CodeChunk>>#isClassOrganizationDeclaration
-CodeChunk>>#isDoItDeclaration
-CodeChunk>>#isMethodDeclaration
-CodeDeclaration
-CodeDeclaration class>>#contents:
-CodeDeclaration>>#contents
-CodeDeclaration>>#contents:
-CodeDeclaration>>#import
-CodeDeclaration>>#importFor:
-CodeDeclaration>>#printOn:
-CodeImporter class>>#fileNamed:
-CodeImporter>>#evaluateDeclarations
-CodeImporter>>#parseChunks
-ConfigurationOfCodeImporter
-ConfigurationOfCodeImporter class>>#DevelopmentSupport
-ConfigurationOfCodeImporter class>>#baseConfigurationClassIfAbsent:
-ConfigurationOfCodeImporter class>>#ensureMetacello
-ConfigurationOfCodeImporter class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfCodeImporter class>>#isMetacelloConfig
-ConfigurationOfCodeImporter class>>#load
-ConfigurationOfCodeImporter class>>#loadBleedingEdge
-ConfigurationOfCodeImporter class>>#loadDevelopment
-ConfigurationOfCodeImporter class>>#project
-ConfigurationOfCodeImporter class>>#validate
-ConfigurationOfCodeImporter>>#baseline10:
-ConfigurationOfCodeImporter>>#customProjectAttributes
-ConfigurationOfCodeImporter>>#project
-ConfigurationOfCodeImporter>>#version100:
-ConfigurationOfCodeImporter>>#version110:
-DoItChunk>>#accept:
-DoItChunk>>#description
-DoItChunk>>#isDoItDeclaration
-DoItDeclaration
-DoItDeclaration>>#import
-DoItDeclaration>>#importFor:
-MethodChunk>>#accept:
-MethodChunk>>#category
-MethodChunk>>#description
-MethodChunk>>#isMethodDeclaration
-MethodChunk>>#methodSelector
-MethodChunk>>#stamp
-MethodDeclaration
-MethodDeclaration class>>#contents:behaviorName:isMeta:category:stamp:
-MethodDeclaration>>#category:
-MethodDeclaration>>#handleMissingBehavior
-MethodDeclaration>>#import
-MethodDeclaration>>#importFor:
-MethodDeclaration>>#stamp:
-STCommandLineHandler>>#installSourceFile:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50079
-ScriptLoader>>#update50080
-StyleChunk>>#accept:
-StyleChunk>>#description
-StyleDeclaration
-StyleDeclaration>>#import
-TChunkVisitor
-TChunkVisitor>>#visitClassCommentChunk:
-TChunkVisitor>>#visitClassOrganizationChunk:
-TChunkVisitor>>#visitCodeChunk:
-TChunkVisitor>>#visitDoItChunk:
-TChunkVisitor>>#visitMethodChunk:
-TChunkVisitor>>#visitStyleChunk:
+CodeImport.BehaviorInstallingDeclaration
+CodeImport.BehaviorInstallingDeclaration>>#behaviorName:
+CodeImport.BehaviorInstallingDeclaration>>#existsBehavior
+CodeImport.BehaviorInstallingDeclaration>>#isMeta:
+CodeImport.BehaviorInstallingDeclaration>>#targetClass
+CodeImport.BehaviorOwnedChunk>>#isMeta
+CodeImport.ChunkFileFormatParser>>#parseClassOrganization:
+CodeImport.ChunkFileFormatParser>>#parseCommentDeclaration:
+CodeImport.ChunkFileFormatParser>>#parseDeclarations
+CodeImport.ChunkFileFormatParser>>#parseMethodDeclarations:
+CodeImport.ChunkFileFormatParser>>#parseNextDeclaration
+CodeImport.ClassCommentChunk
+CodeImport.ClassCommentChunk>>#accept:
+CodeImport.ClassCommentChunk>>#description
+CodeImport.ClassCommentChunk>>#isClassCommentDeclaration
+CodeImport.ClassCommentChunk>>#stamp
+CodeImport.ClassCommentDeclaration class>>#contents:behaviorName:isMeta:stamp:
+CodeImport.ClassCommentDeclaration>>#import
+CodeImport.ClassCommentDeclaration>>#stamp:
+CodeImport.ClassOrganizationChunk
+CodeImport.ClassOrganizationChunk>>#accept:
+CodeImport.ClassOrganizationChunk>>#description
+CodeImport.ClassOrganizationChunk>>#isClassOrganizationDeclaration
+CodeImport.ClassOrganizationDeclaration class>>#contents:behaviorName:isMeta:
+CodeImport.ClassOrganizationDeclaration class>>#contents:organizer:
+CodeImport.ClassOrganizationDeclaration>>#import
+CodeImport.CodeChunk>>#accept:
+CodeImport.CodeChunk>>#isClassCommentDeclaration
+CodeImport.CodeChunk>>#isClassOrganizationDeclaration
+CodeImport.CodeChunk>>#isDoItDeclaration
+CodeImport.CodeChunk>>#isMethodDeclaration
+CodeImport.CodeDeclaration
+CodeImport.CodeDeclaration class>>#contents:
+CodeImport.CodeDeclaration>>#contents
+CodeImport.CodeDeclaration>>#contents:
+CodeImport.CodeDeclaration>>#import
+CodeImport.CodeDeclaration>>#importFor:
+CodeImport.CodeDeclaration>>#printOn:
+CodeImport.CodeImporter class>>#fileNamed:
+CodeImport.CodeImporter>>#evaluateDeclarations
+CodeImport.CodeImporter>>#parseChunks
+CodeImport.DoItChunk>>#accept:
+CodeImport.DoItChunk>>#description
+CodeImport.DoItChunk>>#isDoItDeclaration
+CodeImport.DoItDeclaration
+CodeImport.DoItDeclaration>>#import
+CodeImport.DoItDeclaration>>#importFor:
+CodeImport.MethodChunk>>#accept:
+CodeImport.MethodChunk>>#category
+CodeImport.MethodChunk>>#description
+CodeImport.MethodChunk>>#isMethodDeclaration
+CodeImport.MethodChunk>>#methodSelector
+CodeImport.MethodChunk>>#stamp
+CodeImport.MethodDeclaration
+CodeImport.MethodDeclaration class>>#contents:behaviorName:isMeta:category:stamp:
+CodeImport.MethodDeclaration>>#category:
+CodeImport.MethodDeclaration>>#handleMissingBehavior
+CodeImport.MethodDeclaration>>#import
+CodeImport.MethodDeclaration>>#importFor:
+CodeImport.MethodDeclaration>>#stamp:
+CodeImport.STCommandLineHandler>>#installSourceFile:
+CodeImport.StyleChunk>>#accept:
+CodeImport.StyleChunk>>#description
+CodeImport.StyleDeclaration
+CodeImport.StyleDeclaration>>#import
+CodeImport.TChunkVisitor
+CodeImport.TChunkVisitor>>#visitClassCommentChunk:
+CodeImport.TChunkVisitor>>#visitClassOrganizationChunk:
+CodeImport.TChunkVisitor>>#visitCodeChunk:
+CodeImport.TChunkVisitor>>#visitDoItChunk:
+CodeImport.TChunkVisitor>>#visitMethodChunk:
+CodeImport.TChunkVisitor>>#visitStyleChunk:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#DevelopmentSupport
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#ensureMetacello
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#isMetacelloConfig
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#load
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#loadBleedingEdge
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#loadDevelopment
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#project
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter class>>#validate
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#baseline10:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#customProjectAttributes
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#project
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#version100:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#version110:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50079
+ScriptLoader50.ScriptLoader>>#update50080

@@ -1,5 +1,5 @@
-Model
-Model>>#announcer
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50286
-ScriptLoader>>#update50287
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50286
+ScriptLoader50.ScriptLoader>>#update50287
+System-Support.Model
+System-Support.Model>>#announcer

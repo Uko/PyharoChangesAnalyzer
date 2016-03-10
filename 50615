@@ -1,0 +1,18 @@
+AST-Core.ASTCache class>>#initialize
+Balloon.ShortIntegerArray class>>#initialize
+FileSystem-Core.FileLocator class>>#initialize
+Files.MultiByteFileStream class>>#initialize
+Kernel.SmallInteger class>>#initialize
+MonticelloFileTree-Core.MCFileRepositoryInspector>>#refresh
+MonticelloGUI.MCFileRepositoryInspector>>#invalidatePackageAncestryCache
+MonticelloGUI.MCFileRepositoryInspector>>#load
+MonticelloGUI.MCFileRepositoryInspector>>#merge
+MonticelloGUI.MCFileRepositoryInspector>>#versionHighlightEmphasis:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50614
+ScriptLoader50.ScriptLoader>>#update50615
+System-Clipboard.Clipboard class>>#initialize
+System-VMEvents.InputEventFetcher class>>#install
+System-VMEvents.InputEventSensor class>>#installEventSensorFramework:
+Tool-ImageCleaner.ImageCleaner>>#cleanUpForRelease
+Tool-ProcessBrowser.CPUWatcher class>>#initialize

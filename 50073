@@ -1,45 +1,45 @@
-KMDescription>>#initializeWidgets
-LucidaGrandeRegular
-LucidaGrandeRegular class>>#fontContents
-LucidaGrandeRegular class>>#fontDirectory
-LucidaGrandeRegular class>>#fontReference
-LucidaGrandeRegular class>>#initialize
-LucidaGrandeRegular class>>#installFontsIn:
-LucidaGrandeRegular class>>#originalFileName
-MacOSPlatform>>#menuShortcutString
-OSPlatform>>#menuShortcutString
-RBBlockNode>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50072
-ScriptLoader>>#update50073
-TClassDescription>>#sourceCodeRefactoringMenu:
-ToggleMenuItemMorph>>#drawKeyTextOn:
-ToggleMenuItemMorph>>#keyTextExpanded
-ToggleMenuItemMorph>>#minWidth
-ToggleMenuItemShortcut
-ToggleMenuItemShortcut class>>#expand:
-ToggleMenuItemShortcut class>>#expandCondensedStyle:
-ToggleMenuItemShortcut class>>#expandFullStyle:
-ToggleMenuItemShortcut class>>#keyTextShortcuts
-ToggleMenuItemShortcut class>>#new
-ToggleMenuItemShortcut class>>#owner:keyText:
-ToggleMenuItemShortcut class>>#shortcutClass
-ToggleMenuItemShortcut>>#boundsForKeyText:font:
-ToggleMenuItemShortcut>>#drawOn:
-ToggleMenuItemShortcut>>#initializeOwner:keyText:
-ToggleMenuItemShortcut>>#keyText
-ToggleMenuItemShortcut>>#owner
-ToggleMenuItemShortcutWithSymbol
-ToggleMenuItemShortcutWithSymbol class>>#canBeUsed
-ToggleMenuItemShortcutWithSymbol class>>#createSymbolFont
-ToggleMenuItemShortcutWithSymbol class>>#createSymbolTable
-ToggleMenuItemShortcutWithSymbol class>>#symbolFont
-ToggleMenuItemShortcutWithSymbol class>>#symbolTable
-ToggleMenuItemShortcutWithSymbol class>>#symbolTableAt:ifAbsent:
-ToggleMenuItemShortcutWithSymbol>>#drawOn:
-ToggleMenuItemShortcutWithText
-ToggleMenuItemShortcutWithText>>#drawOn:
-UnixPlatform>>#menuShortcutString
-Win32Platform>>#menuShortcutString
-WorldState class>>#mostUsedToolsOn:
-WorldState class>>#quitItemsOn:
+AST-Core.RBBlockNode>>#initialize
+EmbeddedFreeType.LucidaGrandeRegular
+EmbeddedFreeType.LucidaGrandeRegular class>>#fontContents
+EmbeddedFreeType.LucidaGrandeRegular class>>#fontDirectory
+EmbeddedFreeType.LucidaGrandeRegular class>>#fontReference
+EmbeddedFreeType.LucidaGrandeRegular class>>#initialize
+EmbeddedFreeType.LucidaGrandeRegular class>>#installFontsIn:
+EmbeddedFreeType.LucidaGrandeRegular class>>#originalFileName
+Keymapping-Tools-Spec.KMDescription>>#initializeWidgets
+Morphic-Base.ToggleMenuItemMorph>>#drawKeyTextOn:
+Morphic-Base.ToggleMenuItemMorph>>#keyTextExpanded
+Morphic-Base.ToggleMenuItemMorph>>#minWidth
+Morphic-Base.ToggleMenuItemShortcut
+Morphic-Base.ToggleMenuItemShortcut class>>#expand:
+Morphic-Base.ToggleMenuItemShortcut class>>#expandCondensedStyle:
+Morphic-Base.ToggleMenuItemShortcut class>>#expandFullStyle:
+Morphic-Base.ToggleMenuItemShortcut class>>#keyTextShortcuts
+Morphic-Base.ToggleMenuItemShortcut class>>#new
+Morphic-Base.ToggleMenuItemShortcut class>>#owner:keyText:
+Morphic-Base.ToggleMenuItemShortcut class>>#shortcutClass
+Morphic-Base.ToggleMenuItemShortcut>>#boundsForKeyText:font:
+Morphic-Base.ToggleMenuItemShortcut>>#drawOn:
+Morphic-Base.ToggleMenuItemShortcut>>#initializeOwner:keyText:
+Morphic-Base.ToggleMenuItemShortcut>>#keyText
+Morphic-Base.ToggleMenuItemShortcut>>#owner
+Morphic-Base.ToggleMenuItemShortcutWithSymbol
+Morphic-Base.ToggleMenuItemShortcutWithSymbol class>>#canBeUsed
+Morphic-Base.ToggleMenuItemShortcutWithSymbol class>>#createSymbolFont
+Morphic-Base.ToggleMenuItemShortcutWithSymbol class>>#createSymbolTable
+Morphic-Base.ToggleMenuItemShortcutWithSymbol class>>#symbolFont
+Morphic-Base.ToggleMenuItemShortcutWithSymbol class>>#symbolTable
+Morphic-Base.ToggleMenuItemShortcutWithSymbol class>>#symbolTableAt:ifAbsent:
+Morphic-Base.ToggleMenuItemShortcutWithSymbol>>#drawOn:
+Morphic-Base.ToggleMenuItemShortcutWithText
+Morphic-Base.ToggleMenuItemShortcutWithText>>#drawOn:
+Morphic-Core.WorldState class>>#mostUsedToolsOn:
+Morphic-Core.WorldState class>>#quitItemsOn:
+NautilusRefactoring.TClassDescription>>#sourceCodeRefactoringMenu:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50072
+ScriptLoader50.ScriptLoader>>#update50073
+System-Platforms.MacOSPlatform>>#menuShortcutString
+System-Platforms.OSPlatform>>#menuShortcutString
+System-Platforms.UnixPlatform>>#menuShortcutString
+System-Platforms.Win32Platform>>#menuShortcutString

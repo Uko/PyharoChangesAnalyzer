@@ -1,6 +1,6 @@
-ChangeSet class>>#promptForDefaultChangeSetDirectoryIfNecessary
-ManifestSystemChanges class>>#manuallyResolvedDependencies
-PositionableStream>>#nextChunkText
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50330
-ScriptLoader>>#update50331
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50330
+ScriptLoader50.ScriptLoader>>#update50331
+System-Changes.ChangeSet class>>#promptForDefaultChangeSetDirectoryIfNecessary
+System-Changes.ManifestSystemChanges class>>#manuallyResolvedDependencies
+System-Changes.PositionableStream>>#nextChunkText

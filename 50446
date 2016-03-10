@@ -1,13 +1,13 @@
-AbstractPackageSelectedPlugin>>#registerTo:
-MethodContainsBreakAction
-MethodContainsBreakAction>>#actionOrder
-MethodContainsBreakAction>>#actionStateToCache
-MethodContainsBreakAction>>#isActionHandled
-MethodContainsBreakAction>>#privateActionIcon
-MethodContainsHaltAction>>#isActionHandled
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50445
-ScriptLoader>>#update50446
-TClassDescription>>#instVarNames
-TraitDescription>>#instVarNames
-WidgetExamples class>>#closeExampleDialogs
+Morphic-Examples.WidgetExamples class>>#closeExampleDialogs
+Nautilus.MethodContainsBreakAction
+Nautilus.MethodContainsBreakAction>>#actionOrder
+Nautilus.MethodContainsBreakAction>>#actionStateToCache
+Nautilus.MethodContainsBreakAction>>#isActionHandled
+Nautilus.MethodContainsBreakAction>>#privateActionIcon
+Nautilus.MethodContainsHaltAction>>#isActionHandled
+NautilusCommon.AbstractPackageSelectedPlugin>>#registerTo:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50445
+ScriptLoader50.ScriptLoader>>#update50446
+Traits.TClassDescription>>#instVarNames
+Traits.TraitDescription>>#instVarNames

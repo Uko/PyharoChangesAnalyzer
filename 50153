@@ -1,77 +1,77 @@
-GoferResolvedReference>>#version
-MCDictionaryRepository>>#goferVersionFrom:
-MCFileBasedRepository>>#versionFrom:
-MCFileBasedRepository>>#versionFromFileNamed:
-MCFileBasedRepository>>#versionFromRepositoryFromFileNamed:
-MCFileBasedRepository>>#versionInfoFromFileNamed:
-MCFileBasedRepository>>#versionNameFromFileName:
-MCFileTreeRepository>>#goferVersionFrom:
-MCRepository>>#versionFrom:
-RubWorkspaceBar
-RubWorkspaceBar class>>#key
-RubWorkspaceBar>>#backgroundColor
-RubWorkspaceBar>>#changeLineNumbersDisplay
-RubWorkspaceBar>>#changeWrappingPolicy
-RubWorkspaceBar>>#chooseEditingMode:
-RubWorkspaceBar>>#computedHeightFrom:
-RubWorkspaceBar>>#computedWidthFrom:
-RubWorkspaceBar>>#editingModeLabel
-RubWorkspaceBar>>#editingModeLabelMorph
-RubWorkspaceBar>>#fontToUse
-RubWorkspaceBar>>#initialize
-RubWorkspaceBar>>#level
-RubWorkspaceBar>>#lineNumbersDisplayLabel
-RubWorkspaceBar>>#lineNumbersDisplayLabelMorph
-RubWorkspaceBar>>#manageLayoutInBounds:
-RubWorkspaceBar>>#modeListMenu
-RubWorkspaceBar>>#noteNewOwner:
-RubWorkspaceBar>>#spacer:
-RubWorkspaceBar>>#switchToPlainTextMode
-RubWorkspaceBar>>#switchToSmalltalkScriptingMode
-RubWorkspaceBar>>#textColor
-RubWorkspaceBar>>#updateContents
-RubWorkspaceBar>>#wrappingPolicyLabel
-RubWorkspaceBar>>#wrappingPolicyLabelMorph
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50152
-ScriptLoader>>#update50153
-SmalltalkEditor>>#selectedSelector
-Workspace
-Workspace class>>#cleanUp
-Workspace class>>#lastContents
-Workspace class>>#maxKeptContents
-Workspace class>>#open
-Workspace class>>#openContents:
-Workspace class>>#registerToolsOn:
-Workspace class>>#title
-Workspace>>#addModelItemsToWindowMenu:
-Workspace>>#bindingOf:
-Workspace>>#browseBindings
-Workspace>>#contents
-Workspace>>#contents:
-Workspace>>#defaultTextModel
-Workspace>>#doItContext
-Workspace>>#doItReceiver
-Workspace>>#guessTypeForName:
-Workspace>>#hasBindingOf:
-Workspace>>#hasBindingThatBeginsWith:
-Workspace>>#initialize
-Workspace>>#initializeBindings
-Workspace>>#label:
-Workspace>>#lastContents
-Workspace>>#maxKeptContents
-Workspace>>#open
-Workspace>>#openFile:
-Workspace>>#openLabel:
-Workspace>>#openMenuAction
-Workspace>>#readStringFromFile:
-Workspace>>#saveAsMenuAction
-Workspace>>#saveString:toFile:
-Workspace>>#selectedClassOrMetaClass
-Workspace>>#selectedMethod
-Workspace>>#shiftedYellowButtonMenu
-Workspace>>#suggestedFileName
-Workspace>>#textView
-Workspace>>#useEncoding:
-Workspace>>#whenTextAccepted:
-Workspace>>#yellowButtonMenu
+Gofer-Core.GoferResolvedReference>>#version
+Gofer-Core.MCDictionaryRepository>>#goferVersionFrom:
+Gofer-Core.MCFileTreeRepository>>#goferVersionFrom:
+Monticello.MCFileBasedRepository>>#versionFrom:
+Monticello.MCFileBasedRepository>>#versionFromFileNamed:
+Monticello.MCFileBasedRepository>>#versionFromRepositoryFromFileNamed:
+Monticello.MCFileBasedRepository>>#versionInfoFromFileNamed:
+Monticello.MCFileBasedRepository>>#versionNameFromFileName:
+Monticello.MCRepository>>#versionFrom:
+NECompletion.Workspace>>#hasBindingOf:
+NECompletion.Workspace>>#selectedClassOrMetaClass
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50152
+ScriptLoader50.ScriptLoader>>#update50153
+Text-Edition.SmalltalkEditor>>#selectedSelector
+Tool-Workspace.RubWorkspaceBar
+Tool-Workspace.RubWorkspaceBar class>>#key
+Tool-Workspace.RubWorkspaceBar>>#backgroundColor
+Tool-Workspace.RubWorkspaceBar>>#changeLineNumbersDisplay
+Tool-Workspace.RubWorkspaceBar>>#changeWrappingPolicy
+Tool-Workspace.RubWorkspaceBar>>#chooseEditingMode:
+Tool-Workspace.RubWorkspaceBar>>#computedHeightFrom:
+Tool-Workspace.RubWorkspaceBar>>#computedWidthFrom:
+Tool-Workspace.RubWorkspaceBar>>#editingModeLabel
+Tool-Workspace.RubWorkspaceBar>>#editingModeLabelMorph
+Tool-Workspace.RubWorkspaceBar>>#fontToUse
+Tool-Workspace.RubWorkspaceBar>>#initialize
+Tool-Workspace.RubWorkspaceBar>>#level
+Tool-Workspace.RubWorkspaceBar>>#lineNumbersDisplayLabel
+Tool-Workspace.RubWorkspaceBar>>#lineNumbersDisplayLabelMorph
+Tool-Workspace.RubWorkspaceBar>>#manageLayoutInBounds:
+Tool-Workspace.RubWorkspaceBar>>#modeListMenu
+Tool-Workspace.RubWorkspaceBar>>#noteNewOwner:
+Tool-Workspace.RubWorkspaceBar>>#spacer:
+Tool-Workspace.RubWorkspaceBar>>#switchToPlainTextMode
+Tool-Workspace.RubWorkspaceBar>>#switchToSmalltalkScriptingMode
+Tool-Workspace.RubWorkspaceBar>>#textColor
+Tool-Workspace.RubWorkspaceBar>>#updateContents
+Tool-Workspace.RubWorkspaceBar>>#wrappingPolicyLabel
+Tool-Workspace.RubWorkspaceBar>>#wrappingPolicyLabelMorph
+Tool-Workspace.Workspace
+Tool-Workspace.Workspace class>>#cleanUp
+Tool-Workspace.Workspace class>>#lastContents
+Tool-Workspace.Workspace class>>#maxKeptContents
+Tool-Workspace.Workspace class>>#open
+Tool-Workspace.Workspace class>>#openContents:
+Tool-Workspace.Workspace class>>#registerToolsOn:
+Tool-Workspace.Workspace class>>#title
+Tool-Workspace.Workspace>>#addModelItemsToWindowMenu:
+Tool-Workspace.Workspace>>#bindingOf:
+Tool-Workspace.Workspace>>#browseBindings
+Tool-Workspace.Workspace>>#contents
+Tool-Workspace.Workspace>>#contents:
+Tool-Workspace.Workspace>>#defaultTextModel
+Tool-Workspace.Workspace>>#doItContext
+Tool-Workspace.Workspace>>#doItReceiver
+Tool-Workspace.Workspace>>#guessTypeForName:
+Tool-Workspace.Workspace>>#hasBindingThatBeginsWith:
+Tool-Workspace.Workspace>>#initialize
+Tool-Workspace.Workspace>>#initializeBindings
+Tool-Workspace.Workspace>>#label:
+Tool-Workspace.Workspace>>#lastContents
+Tool-Workspace.Workspace>>#maxKeptContents
+Tool-Workspace.Workspace>>#open
+Tool-Workspace.Workspace>>#openFile:
+Tool-Workspace.Workspace>>#openLabel:
+Tool-Workspace.Workspace>>#openMenuAction
+Tool-Workspace.Workspace>>#readStringFromFile:
+Tool-Workspace.Workspace>>#saveAsMenuAction
+Tool-Workspace.Workspace>>#saveString:toFile:
+Tool-Workspace.Workspace>>#selectedMethod
+Tool-Workspace.Workspace>>#shiftedYellowButtonMenu
+Tool-Workspace.Workspace>>#suggestedFileName
+Tool-Workspace.Workspace>>#textView
+Tool-Workspace.Workspace>>#useEncoding:
+Tool-Workspace.Workspace>>#whenTextAccepted:
+Tool-Workspace.Workspace>>#yellowButtonMenu

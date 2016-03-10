@@ -1,31 +1,31 @@
-EyeInspectorTest>>#instancesToTry
-MultiByteFileStreamFileOutTestClass
-MultiByteFileStreamFileOutTestClass class>>#scriptName
-MultiByteFileStreamTest>>#fileOutTestClass
-MultiByteFileStreamTest>>#testFileOutNonAscii
-MultiByteFileStreamTest>>#testNext
-MultiByteFileStreamTest>>#testNextMatchAll
-MultiByteFileStreamTest>>#testNextPut
-MultiByteFileStreamTest>>#testNextPutAll
-MultiByteFileStreamTest>>#testNextPutAllStartingAt
-MultiByteFileStreamTest>>#testPeek
-MultiByteFileStreamTest>>#testPeekFor
-MultiByteFileStreamTest>>#testReset
-MultiByteFileStreamTest>>#testUpToAnyOfDo
-MultiByteFileStreamTest>>#testUpToEnd
-ReflectivityControlTest>>#testAfterSequence
-SHRBTextStyler
-SHRBTextStyler>>#style:ast:
-SHRBTextStyler>>#styleCloseBracket:
-SHRBTextStyler>>#styleCloseParenthese:
-SHRBTextStyler>>#styleOpenBracket:
-SHRBTextStyler>>#styleOpenParenthese:
-SHRBTextStyler>>#visitBlockNode:
-SHRBTextStyler>>#visitMessageNode:
-SHRBTextStyler>>#visitSequenceNode:
-SHTextStylerST80 class>>#initialize
-SHTextStylerST80 class>>#unload
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50204
-ScriptLoader>>#update50205
-TextMorph>>#mouseDown:
+Morphic-Base.TextMorph>>#mouseDown:
+Multilingual-Tests.MultiByteFileStreamFileOutTestClass
+Multilingual-Tests.MultiByteFileStreamFileOutTestClass class>>#scriptName
+Multilingual-Tests.MultiByteFileStreamTest>>#fileOutTestClass
+Multilingual-Tests.MultiByteFileStreamTest>>#testFileOutNonAscii
+Multilingual-Tests.MultiByteFileStreamTest>>#testNext
+Multilingual-Tests.MultiByteFileStreamTest>>#testNextMatchAll
+Multilingual-Tests.MultiByteFileStreamTest>>#testNextPut
+Multilingual-Tests.MultiByteFileStreamTest>>#testNextPutAll
+Multilingual-Tests.MultiByteFileStreamTest>>#testNextPutAllStartingAt
+Multilingual-Tests.MultiByteFileStreamTest>>#testPeek
+Multilingual-Tests.MultiByteFileStreamTest>>#testPeekFor
+Multilingual-Tests.MultiByteFileStreamTest>>#testReset
+Multilingual-Tests.MultiByteFileStreamTest>>#testUpToAnyOfDo
+Multilingual-Tests.MultiByteFileStreamTest>>#testUpToEnd
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterSequence
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50204
+ScriptLoader50.ScriptLoader>>#update50205
+Shout.SHRBTextStyler
+Shout.SHRBTextStyler>>#style:ast:
+Shout.SHRBTextStyler>>#styleCloseBracket:
+Shout.SHRBTextStyler>>#styleCloseParenthese:
+Shout.SHRBTextStyler>>#styleOpenBracket:
+Shout.SHRBTextStyler>>#styleOpenParenthese:
+Shout.SHRBTextStyler>>#visitBlockNode:
+Shout.SHRBTextStyler>>#visitMessageNode:
+Shout.SHRBTextStyler>>#visitSequenceNode:
+Shout.SHTextStylerST80 class>>#initialize
+Shout.SHTextStylerST80 class>>#unload
+Spec-Inspector.EyeInspectorTest>>#instancesToTry

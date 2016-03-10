@@ -1,0 +1,13 @@
+Kernel.ProcessSpecificVariable class>>#initialize
+Kernel.ProcessSpecificVariable>>#valueOrNil
+MonticelloGUI.MCWorkingCopyBrowser>>#addRepository
+Nautilus.NautilusMonticello>>#addRepositoryTo:
+Nautilus.NautilusMonticello>>#newRepository
+OpalCompiler-Core.RBMethodNode>>#notShadowedTemporaryNamesFrom:
+OpalCompiler-Core.RBMethodNode>>#rewriteTempsForContext:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50583
+ScriptLoader50.ScriptLoader>>#update50584
+Versionner-Core-Commands.MBAddRepositoryCommand>>#execute
+Versionner-Core-Commands.VSCommand>>#repositoryOfPackageNamed:
+Versionner-Core-Commands.VSLoadProjectCommand>>#execute

@@ -1,20 +1,20 @@
-AbstractClassInstaller>>#copyTraitCompositionFrom:to:
-AbstractNautilusUI>>#buildTestClassDefinitionFrom:
-AbstractNautilusUI>>#defaultClassDescriptor
-AbstractNautilusUI>>#title:
-AbstractTool class>>#defineClassTemplate
-AbstractTool class>>#defineTraitTemplate
-Class>>#definitionForNautilus
-ClassModificationPropagation>>#apply
-ClassModificationPropagation>>#copyTraitCompositionAndMethods
-MCPackageManager class>>#managersForCategory:do:
-NautilusUI>>#open
-PackageTreeNautilusUI>>#defaultClassDescriptor
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50427
-ScriptLoader>>#update50428
-TClass class>>#templateForSubclassOf:category:
-TClass>>#subclass:instanceVariableNames:classVariableNames:package:
-TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:package:
-TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:package:
-Trait class>>#named:uses:package:
+Monticello.MCPackageManager class>>#managersForCategory:do:
+Nautilus.AbstractNautilusUI>>#buildTestClassDefinitionFrom:
+Nautilus.AbstractNautilusUI>>#defaultClassDescriptor
+Nautilus.AbstractNautilusUI>>#title:
+Nautilus.Class>>#definitionForNautilus
+Nautilus.NautilusUI>>#open
+Nautilus.PackageTreeNautilusUI>>#defaultClassDescriptor
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50427
+ScriptLoader50.ScriptLoader>>#update50428
+Slot.AbstractClassInstaller>>#copyTraitCompositionFrom:to:
+Slot.ClassModificationPropagation>>#apply
+Slot.ClassModificationPropagation>>#copyTraitCompositionAndMethods
+Tool-Base.AbstractTool class>>#defineClassTemplate
+Tool-Base.AbstractTool class>>#defineTraitTemplate
+Traits.TClass class>>#templateForSubclassOf:category:
+Traits.TClass>>#subclass:instanceVariableNames:classVariableNames:package:
+Traits.TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:package:
+Traits.TClass>>#subclass:uses:instanceVariableNames:classVariableNames:poolDictionaries:package:
+Traits.Trait class>>#named:uses:package:

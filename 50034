@@ -1,21 +1,21 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1214:
-RubPlainTextMode class>>#menuOn:
-RubSmalltalkCodeMode class>>#menuOn:
-RubSmalltalkEditor>>#browseIt:
-RubSmalltalkEditor>>#debugIt:
-RubSmalltalkEditor>>#doIt
-RubSmalltalkEditor>>#doIt:
-RubSmalltalkEditor>>#exploreIt:
-RubSmalltalkEditor>>#implementorsOfIt:
-RubSmalltalkEditor>>#inspectIt:
-RubSmalltalkEditor>>#methodNamesContainingIt:
-RubSmalltalkEditor>>#methodStringsContainingIt:
-RubSmalltalkEditor>>#pasteInitials:
-RubSmalltalkEditor>>#referencesToIt:
-RubSmalltalkEditor>>#save:
-RubSmalltalkEditor>>#sendersOfIt:
-RubSmalltalkEditor>>#spawnIt:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script642
-ScriptLoader>>#update50034
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1214:
+Rubric.RubPlainTextMode class>>#menuOn:
+Rubric.RubSmalltalkCodeMode class>>#menuOn:
+Rubric.RubSmalltalkEditor>>#browseIt:
+Rubric.RubSmalltalkEditor>>#debugIt:
+Rubric.RubSmalltalkEditor>>#doIt
+Rubric.RubSmalltalkEditor>>#doIt:
+Rubric.RubSmalltalkEditor>>#exploreIt:
+Rubric.RubSmalltalkEditor>>#implementorsOfIt:
+Rubric.RubSmalltalkEditor>>#inspectIt:
+Rubric.RubSmalltalkEditor>>#methodNamesContainingIt:
+Rubric.RubSmalltalkEditor>>#methodStringsContainingIt:
+Rubric.RubSmalltalkEditor>>#pasteInitials:
+Rubric.RubSmalltalkEditor>>#referencesToIt:
+Rubric.RubSmalltalkEditor>>#save:
+Rubric.RubSmalltalkEditor>>#sendersOfIt:
+Rubric.RubSmalltalkEditor>>#spawnIt:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script642
+ScriptLoader50.ScriptLoader>>#update50034

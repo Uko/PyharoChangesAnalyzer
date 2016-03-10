@@ -1,36 +1,36 @@
-CompiledMethod>>#installLink:
-CompiledMethod>>#invalidate
-FTOutlineDataSource>>#searchText:
-FTPluggableIconListMorphAdaptorDataSource>>#searchText:
-FTSearchFunction
-FTSearchFunction class>>#table:
-FTSearchFunction>>#initializeTable:
-FTSearchFunction>>#keyStroke:
-FTSearchFunction>>#searchFor:
-FTSearchFunction>>#showSearchFieldFromKeystrokeEvent:
-FTSimpleDataSource>>#searchText:
-ReflectiveMethodTest>>#testInvalidateNoJit
-RubFloatingEditorBuilder
-RubFloatingEditorBuilder class>>#exampleCommandLauncher
-RubFloatingEditorBuilder class>>#exampleEditableStringMorph
-RubFloatingEditorBuilder>>#announcerDo:
-RubFloatingEditorBuilder>>#autoAccept:
-RubFloatingEditorBuilder>>#buildEditor
-RubFloatingEditorBuilder>>#closeEditor
-RubFloatingEditorBuilder>>#customizeEditorWith:
-RubFloatingEditorBuilder>>#editorDo:
-RubFloatingEditorBuilder>>#handleListenEvent:
-RubFloatingEditorBuilder>>#initialContents:
-RubFloatingEditorBuilder>>#initialize
-RubFloatingEditorBuilder>>#openEditor
-RubFloatingEditorBuilder>>#openEditorWithContents:
-RubFloatingEditorBuilder>>#whenEditorEscapedDo:
-RubFloatingEditorBuilder>>#whenEditorLostFocus:
-RubFloatingEditorBuilder>>#whenKeystroke:
-RubFloatingEditorBuilder>>#whenReturnEntered:
-RubFloatingEditorBuilder>>#whenTextAccepted:
-RubFloatingEditorBuilder>>#withEditedContentsDo:
-RubScrolledTextMorph>>#font
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50377
-ScriptLoader>>#update50378
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#searchText:
+Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptorDataSource>>#searchText:
+Morphic-Widgets-FastTable.FTSearchFunction
+Morphic-Widgets-FastTable.FTSearchFunction class>>#table:
+Morphic-Widgets-FastTable.FTSearchFunction>>#initializeTable:
+Morphic-Widgets-FastTable.FTSearchFunction>>#keyStroke:
+Morphic-Widgets-FastTable.FTSearchFunction>>#searchFor:
+Morphic-Widgets-FastTable.FTSearchFunction>>#showSearchFieldFromKeystrokeEvent:
+Morphic-Widgets-FastTable.FTSimpleDataSource>>#searchText:
+Reflectivity-Tests.ReflectiveMethodTest>>#testInvalidateNoJit
+Reflectivity.CompiledMethod>>#installLink:
+Reflectivity.CompiledMethod>>#invalidate
+Rubric.RubFloatingEditorBuilder
+Rubric.RubFloatingEditorBuilder class>>#exampleCommandLauncher
+Rubric.RubFloatingEditorBuilder class>>#exampleEditableStringMorph
+Rubric.RubFloatingEditorBuilder>>#announcerDo:
+Rubric.RubFloatingEditorBuilder>>#autoAccept:
+Rubric.RubFloatingEditorBuilder>>#buildEditor
+Rubric.RubFloatingEditorBuilder>>#closeEditor
+Rubric.RubFloatingEditorBuilder>>#customizeEditorWith:
+Rubric.RubFloatingEditorBuilder>>#editorDo:
+Rubric.RubFloatingEditorBuilder>>#handleListenEvent:
+Rubric.RubFloatingEditorBuilder>>#initialContents:
+Rubric.RubFloatingEditorBuilder>>#initialize
+Rubric.RubFloatingEditorBuilder>>#openEditor
+Rubric.RubFloatingEditorBuilder>>#openEditorWithContents:
+Rubric.RubFloatingEditorBuilder>>#whenEditorEscapedDo:
+Rubric.RubFloatingEditorBuilder>>#whenEditorLostFocus:
+Rubric.RubFloatingEditorBuilder>>#whenKeystroke:
+Rubric.RubFloatingEditorBuilder>>#whenReturnEntered:
+Rubric.RubFloatingEditorBuilder>>#whenTextAccepted:
+Rubric.RubFloatingEditorBuilder>>#withEditedContentsDo:
+Rubric.RubScrolledTextMorph>>#font
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50377
+ScriptLoader50.ScriptLoader>>#update50378

@@ -1,57 +1,57 @@
-AthensCairoSurface class>>#primImageFromData:width:height:pitch:
-AthensCanvas>>#clipBy:during:
-AthensCanvasWrapper>>#image:at:sourceRect:rule:
-CairoFontFace>>#primSetSynthesizeEmphasis:
-CairoFontFace>>#synthesizeBold
-CairoFontFace>>#synthesizeBoldAndOblique
-CairoFontFace>>#synthesizeEmphasis:
-CairoFontFace>>#synthesizeOblique
-CairoScaledFont class>>#fromFreetypeFont:
-ConfigurationOfAthens>>#stable:
-ConfigurationOfAthens>>#version32:
-ConfigurationOfAthens>>#version34:
-ConfigurationOfTxText>>#version284:
-Paragraph>>#drawCaretOnAthensCanvas:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script622
-ScriptLoader>>#update50014
-TxAthensCharacterWrappingStrategy>>#visitCharacterSpan:
-TxAthensCursor>>#visible:
-TxBasicSpan>>#%3C
-TxBasicSpan>>#appendCopyTo:
-TxBasicSpan>>#applyAttribute:from:to:
-TxBasicTextPosition>>#isValid
-TxBasicViewMorph>>#contents:
-TxBasicViewMorph>>#fullDrawOnAthensCanvas:
-TxBasicViewMorph>>#scrollBy:
-TxBasicViewMorph>>#wrapText:
-TxBlockCursor>>#calculateNewBounds
-TxBlockCursor>>#drawOnAthensCanvas:
-TxBlockCursor>>#isBlinking
-TxCharacterSpan>>#applyAttribute:from:to:
-TxCursorAttribute
-TxCursorAttribute class>>#defaultValue
-TxInterval>>#asString
-TxInterval>>#contains:
-TxInterval>>#normalized
-TxLayoutViewMorph class>>#text:
-TxLayoutViewMorph>>#containsPoint:
-TxLayoutViewMorph>>#drawOnAthensCanvas:
-TxLayoutViewMorph>>#invalidRect:from:
-TxLayoutViewMorph>>#layoutChanged
-TxLayoutViewMorph>>#layoutPositionAt:ifOutside:
-TxLayoutViewMorph>>#transformFrom:
-TxModel>>#applyAttribute:onSelection:
-TxModel>>#applyAttribute:to:
-TxModel>>#initialize
-TxModel>>#normalize:
-TxModel>>#setNewContents
-TxTextEditorMorph
-TxTextEditorMorph class>>#exampleWithCustomCursor
-TxTextEditorMorph class>>#exampleWithEmbeddedObject
-TxTextEditorMorph class>>#text:
-TxTextEditorMorph>>#cursor:
-TxTextEditorMorph>>#cursorForPosition:
-TxTextEditorMorph>>#initializeText:
-TxTextRenderer class>>#textGoryDetails
-TxTextStyler>>#visitMessageNode:
+Athens-Cairo.AthensCairoSurface class>>#primImageFromData:width:height:pitch:
+Athens-Cairo.CairoFontFace>>#primSetSynthesizeEmphasis:
+Athens-Cairo.CairoFontFace>>#synthesizeBold
+Athens-Cairo.CairoFontFace>>#synthesizeBoldAndOblique
+Athens-Cairo.CairoFontFace>>#synthesizeEmphasis:
+Athens-Cairo.CairoFontFace>>#synthesizeOblique
+Athens-Cairo.CairoScaledFont class>>#fromFreetypeFont:
+Athens-Core.AthensCanvas>>#clipBy:during:
+Athens-Morphic.AthensCanvasWrapper>>#image:at:sourceRect:rule:
+Athens-Morphic.Paragraph>>#drawCaretOnAthensCanvas:
+ConfigurationOfAthens.ConfigurationOfAthens>>#stable:
+ConfigurationOfAthens.ConfigurationOfAthens>>#version32:
+ConfigurationOfAthens.ConfigurationOfAthens>>#version34:
+ConfigurationOfTxText.ConfigurationOfTxText>>#version284:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script622
+ScriptLoader50.ScriptLoader>>#update50014
+TxText-Athens.TxAthensCharacterWrappingStrategy>>#visitCharacterSpan:
+TxText-Athens.TxAthensCursor>>#visible:
+TxText-Athens.TxBasicViewMorph>>#contents:
+TxText-Athens.TxBasicViewMorph>>#fullDrawOnAthensCanvas:
+TxText-Athens.TxBasicViewMorph>>#scrollBy:
+TxText-Athens.TxBasicViewMorph>>#wrapText:
+TxText-Athens.TxBlockCursor>>#calculateNewBounds
+TxText-Athens.TxBlockCursor>>#drawOnAthensCanvas:
+TxText-Athens.TxBlockCursor>>#isBlinking
+TxText-Athens.TxLayoutViewMorph class>>#text:
+TxText-Athens.TxLayoutViewMorph>>#containsPoint:
+TxText-Athens.TxLayoutViewMorph>>#drawOnAthensCanvas:
+TxText-Athens.TxLayoutViewMorph>>#invalidRect:from:
+TxText-Athens.TxLayoutViewMorph>>#layoutChanged
+TxText-Athens.TxLayoutViewMorph>>#layoutPositionAt:ifOutside:
+TxText-Athens.TxLayoutViewMorph>>#transformFrom:
+TxText-Athens.TxTextEditorMorph
+TxText-Athens.TxTextEditorMorph class>>#exampleWithCustomCursor
+TxText-Athens.TxTextEditorMorph class>>#exampleWithEmbeddedObject
+TxText-Athens.TxTextEditorMorph class>>#text:
+TxText-Athens.TxTextEditorMorph>>#cursor:
+TxText-Athens.TxTextEditorMorph>>#cursorForPosition:
+TxText-Athens.TxTextEditorMorph>>#initializeText:
+TxText-Athens.TxTextRenderer class>>#textGoryDetails
+TxText-Model.TxBasicSpan>>#%3C
+TxText-Model.TxBasicSpan>>#appendCopyTo:
+TxText-Model.TxBasicSpan>>#applyAttribute:from:to:
+TxText-Model.TxBasicTextPosition>>#isValid
+TxText-Model.TxCharacterSpan>>#applyAttribute:from:to:
+TxText-Model.TxCursorAttribute
+TxText-Model.TxCursorAttribute class>>#defaultValue
+TxText-Model.TxInterval>>#asString
+TxText-Model.TxInterval>>#contains:
+TxText-Model.TxInterval>>#normalized
+TxText-Model.TxModel>>#applyAttribute:onSelection:
+TxText-Model.TxModel>>#applyAttribute:to:
+TxText-Model.TxModel>>#initialize
+TxText-Model.TxModel>>#normalize:
+TxText-Model.TxModel>>#setNewContents
+TxText-Styler.TxTextStyler>>#visitMessageNode:

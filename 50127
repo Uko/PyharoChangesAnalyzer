@@ -1,17 +1,17 @@
-RFVariableReification
-RFVariableReification class>>#key
-RFVariableReification class>>#nodes
-RFVariableReification>>#genForRBVariableNode
-ReflectiveMethodTest>>#testReifyIvarVariable
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50126
-ScriptLoader>>#update50127
-SourceFileArray>>#at:
-SourceFileArray>>#at:put:
-SourceFileArray>>#changesFileStream
-SourceFileArray>>#collect:
-SourceFileArray>>#do:
-SourceFileArray>>#reportString
-SourceFileArray>>#sourcesFileStream
-SourceFileArray>>#writeSource:preamble:onSuccess:onFail:
-SystemReporter>>#reportSources:
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyIvarVariable
+Reflectivity.RFVariableReification
+Reflectivity.RFVariableReification class>>#key
+Reflectivity.RFVariableReification class>>#nodes
+Reflectivity.RFVariableReification>>#genForRBVariableNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50126
+ScriptLoader50.ScriptLoader>>#update50127
+System-Sources.SourceFileArray>>#at:
+System-Sources.SourceFileArray>>#at:put:
+System-Sources.SourceFileArray>>#changesFileStream
+System-Sources.SourceFileArray>>#collect:
+System-Sources.SourceFileArray>>#do:
+System-Sources.SourceFileArray>>#reportString
+System-Sources.SourceFileArray>>#sourcesFileStream
+System-Sources.SourceFileArray>>#writeSource:preamble:onSuccess:onFail:
+Tool-SystemReporter.SystemReporter>>#reportSources:

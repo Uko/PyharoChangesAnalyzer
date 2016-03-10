@@ -1,51 +1,51 @@
-BitsLayout>>#extendWeak:
-DailyNonInteractiveTranscript
-DailyNonInteractiveTranscript class>>#defaultLogFileName
-DailyNonInteractiveTranscript>>#fileNameWithDate
-DailyNonInteractiveTranscript>>#initialize
-DailyNonInteractiveTranscript>>#initializeStream
-DailyNonInteractiveTranscript>>#stream
-DebugSystemSettings class>>#addDebugFilterSessingsOn:
-NonInteractiveTranscript
-NonInteractiveTranscript>>#close
-NonInteractiveTranscript>>#critical:
-NonInteractiveTranscript>>#flush
-NonInteractiveTranscript>>#initialize
-NonInteractiveTranscript>>#nextPut:
-NonInteractiveTranscript>>#nextPutAll:
-OldClassBuilderAdapter>>#superclass:variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50054
-ScriptLoader>>#update50055
-SpecDebuggerStack
-SpecDebuggerStack class>>#enabledFilters
-SpecDebuggerStack class>>#filterLinkSelectors
-SpecDebuggerStack class>>#filterLinkSelectors:
-SpecDebuggerStack class>>#linkMessagesFilter
-TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TTranscript
-TTranscript>>#%3C%3C
-TTranscript>>#clear
-TTranscript>>#close
-TTranscript>>#cr
-TTranscript>>#crShow:
-TTranscript>>#critical:
-TTranscript>>#endEntry
-TTranscript>>#flush
-TTranscript>>#nextPut:
-TTranscript>>#nextPutAll:
-TTranscript>>#print:
-TTranscript>>#show:
-TTranscript>>#space
-TTranscript>>#tab
-ThreadSafeTranscript
-ThreadSafeTranscript>>#black
-ThreadSafeTranscript>>#characterLimit
-ThreadSafeTranscript>>#clear
-ThreadSafeTranscript>>#close
-ThreadSafeTranscript>>#critical:
-ThreadSafeTranscript>>#endEntry
-ThreadSafeTranscript>>#nextPut:
-ThreadSafeTranscript>>#nextPutAll:
-ThreadSafeTranscript>>#stepGlobal
-ThreadSafeTranscript>>#white
+DebuggerModel.DebugSystemSettings class>>#addDebugFilterSessingsOn:
+NonInteractiveTranscript.DailyNonInteractiveTranscript
+NonInteractiveTranscript.DailyNonInteractiveTranscript class>>#defaultLogFileName
+NonInteractiveTranscript.DailyNonInteractiveTranscript>>#fileNameWithDate
+NonInteractiveTranscript.DailyNonInteractiveTranscript>>#initialize
+NonInteractiveTranscript.DailyNonInteractiveTranscript>>#initializeStream
+NonInteractiveTranscript.DailyNonInteractiveTranscript>>#stream
+NonInteractiveTranscript.NonInteractiveTranscript
+NonInteractiveTranscript.NonInteractiveTranscript>>#close
+NonInteractiveTranscript.NonInteractiveTranscript>>#critical:
+NonInteractiveTranscript.NonInteractiveTranscript>>#flush
+NonInteractiveTranscript.NonInteractiveTranscript>>#initialize
+NonInteractiveTranscript.NonInteractiveTranscript>>#nextPut:
+NonInteractiveTranscript.NonInteractiveTranscript>>#nextPutAll:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50054
+ScriptLoader50.ScriptLoader>>#update50055
+Slot.BitsLayout>>#extendWeak:
+Slot.OldClassBuilderAdapter>>#superclass:variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Spec-Debugger.SpecDebuggerStack
+Spec-Debugger.SpecDebuggerStack class>>#enabledFilters
+Spec-Debugger.SpecDebuggerStack class>>#filterLinkSelectors
+Spec-Debugger.SpecDebuggerStack class>>#filterLinkSelectors:
+Spec-Debugger.SpecDebuggerStack class>>#linkMessagesFilter
+Traits.TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Transcript.TTranscript
+Transcript.TTranscript>>#%3C%3C
+Transcript.TTranscript>>#clear
+Transcript.TTranscript>>#close
+Transcript.TTranscript>>#cr
+Transcript.TTranscript>>#crShow:
+Transcript.TTranscript>>#critical:
+Transcript.TTranscript>>#endEntry
+Transcript.TTranscript>>#flush
+Transcript.TTranscript>>#nextPut:
+Transcript.TTranscript>>#nextPutAll:
+Transcript.TTranscript>>#print:
+Transcript.TTranscript>>#show:
+Transcript.TTranscript>>#space
+Transcript.TTranscript>>#tab
+Transcript.ThreadSafeTranscript
+Transcript.ThreadSafeTranscript>>#black
+Transcript.ThreadSafeTranscript>>#characterLimit
+Transcript.ThreadSafeTranscript>>#clear
+Transcript.ThreadSafeTranscript>>#close
+Transcript.ThreadSafeTranscript>>#critical:
+Transcript.ThreadSafeTranscript>>#endEntry
+Transcript.ThreadSafeTranscript>>#nextPut:
+Transcript.ThreadSafeTranscript>>#nextPutAll:
+Transcript.ThreadSafeTranscript>>#stepGlobal
+Transcript.ThreadSafeTranscript>>#white

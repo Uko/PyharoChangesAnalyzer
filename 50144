@@ -1,7 +1,7 @@
-OCOpalExamples>>#exampleIfTrue
-RBMessageNode>>#isInlineIf
-RBMessageNode>>#isInlineIfNil
-RBMessageNode>>#lastIsReturn
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50143
-ScriptLoader>>#update50144
+AST-Core.RBMessageNode>>#lastIsReturn
+OpalCompiler-Core.RBMessageNode>>#isInlineIf
+OpalCompiler-Core.RBMessageNode>>#isInlineIfNil
+OpalCompiler-Tests.OCOpalExamples>>#exampleIfTrue
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50143
+ScriptLoader50.ScriptLoader>>#update50144

@@ -1,6 +1,6 @@
-MCOrganizationDefinition>>#description
-MCOrganizationDefinition>>#fullDescription
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50173
-ScriptLoader>>#update50174
-SparseLargeTable>>#zapDefaultOnlyEntries
+Collections-Sequenceable.SparseLargeTable>>#zapDefaultOnlyEntries
+Monticello.MCOrganizationDefinition>>#description
+Monticello.MCOrganizationDefinition>>#fullDescription
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50173
+ScriptLoader50.ScriptLoader>>#update50174

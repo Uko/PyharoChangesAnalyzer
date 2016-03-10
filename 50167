@@ -1,7 +1,7 @@
-PasteUpMorph class>>#initialize
-PasteUpMorph class>>#isMenuOpenByLeftClick
-PasteUpMorph class>>#shouldSwapMenuOpenerButtons
-PasteUpMorph>>#mouseDown:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50166
-ScriptLoader>>#update50167
+Morphic-Core.PasteUpMorph class>>#initialize
+Morphic-Core.PasteUpMorph class>>#isMenuOpenByLeftClick
+Morphic-Core.PasteUpMorph class>>#shouldSwapMenuOpenerButtons
+Morphic-Core.PasteUpMorph>>#mouseDown:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50166
+ScriptLoader50.ScriptLoader>>#update50167

@@ -1,0 +1,20 @@
+Collections-Strings.Symbol class>>#initialize
+Collections-Weak.WeakArray class>>#initialize
+Files.Stdio class>>#initialize
+Kernel.Context>>#doPrimitive:method:receiver:args:
+Kernel.Context>>#popIntoReceiverVariable:
+Kernel.Context>>#pushReceiverVariable:
+Kernel.Context>>#quickSend:to:with:super:
+Kernel.Context>>#send:to:with:super:
+Kernel.Context>>#storeIntoReceiverVariable:
+Multilingual-Languages.LanguageEnvironment class>>#initialize
+Network-UUID.UUIDGenerator class>>#initialize
+Polymorph-Widgets.UITheme class>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50620
+ScriptLoader50.ScriptLoader>>#update50621
+System-BasicCommandLineHandler.BasicCommandLineHandler class>>#initialize
+System-Finalization.WeakFinalizationList class>>#initialize
+System-Localization.Locale class>>#initialize
+System-Settings.SystemSettingsPersistence class>>#initialize
+System-Support.SystemDictionary>>#renameClass:from:to:

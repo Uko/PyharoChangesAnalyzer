@@ -1,11 +1,11 @@
-Color>>#fillRectangle:on:
-GrafPort>>#installStrikeFont:
-GrafPort>>#installStrikeFont:foregroundColor:backgroundColor:
-GrafPort>>#lastFont
-MCFileTreeAbstractReader>>#packageProperties
-RBArrayNode>>#initialize
-RBLiteralArrayNode class>>#value:
-RBLiteralArrayNode>>#copyInContext:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50394
-ScriptLoader>>#update50395
+AST-Core.RBArrayNode>>#initialize
+AST-Core.RBLiteralArrayNode class>>#value:
+AST-Core.RBLiteralArrayNode>>#copyInContext:
+Graphics-Primitives.Color>>#fillRectangle:on:
+Graphics-Primitives.GrafPort>>#installStrikeFont:
+Graphics-Primitives.GrafPort>>#installStrikeFont:foregroundColor:backgroundColor:
+Graphics-Primitives.GrafPort>>#lastFont
+MonticelloFileTree-Core.MCFileTreeAbstractReader>>#packageProperties
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50394
+ScriptLoader50.ScriptLoader>>#update50395

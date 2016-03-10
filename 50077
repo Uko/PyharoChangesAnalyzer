@@ -1,9 +1,9 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1216:
-Number>>#interpolateTo:at:
-Point>>#interpolateTo:at:
-RubAbstractTextArea class>>#textColor
-RubScrolledTextMorph>>#defaultBackgroundColor
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50076
-ScriptLoader>>#update50077
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1216:
+Kernel.Number>>#interpolateTo:at:
+Kernel.Point>>#interpolateTo:at:
+Rubric.RubAbstractTextArea class>>#textColor
+Rubric.RubScrolledTextMorph>>#defaultBackgroundColor
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50076
+ScriptLoader50.ScriptLoader>>#update50077

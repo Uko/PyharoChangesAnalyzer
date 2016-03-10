@@ -1,6 +1,6 @@
-MCRepository
-MCRepository>>#storeVersion:
-MCWorkingCopyBrowser>>#repositoryListMenu:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50097
-ScriptLoader>>#update50098
+Monticello.MCRepository
+Monticello.MCRepository>>#storeVersion:
+MonticelloGUI.MCWorkingCopyBrowser>>#repositoryListMenu:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50097
+ScriptLoader50.ScriptLoader>>#update50098

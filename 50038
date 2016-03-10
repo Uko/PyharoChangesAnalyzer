@@ -1,12 +1,12 @@
-AbstractNautilusUI
-AbstractNautilusUI class>>#sourceCodeMenu:
-AbstractNautilusUI>>#buildCodePane
-AbstractNautilusUI>>#buildCodePanelWithComment
-AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
-AbstractNautilusUI>>#buildCodePanelWithoutComment
-AbstractNautilusUI>>#showGroups:
-Nautilus class>>#nautilusSettingsOn:
-NautilusUI>>#selectedMethod:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script646
-ScriptLoader>>#update50038
+Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI class>>#sourceCodeMenu:
+Nautilus.AbstractNautilusUI>>#buildCodePane
+Nautilus.AbstractNautilusUI>>#buildCodePanelWithComment
+Nautilus.AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
+Nautilus.AbstractNautilusUI>>#buildCodePanelWithoutComment
+Nautilus.AbstractNautilusUI>>#showGroups:
+Nautilus.Nautilus class>>#nautilusSettingsOn:
+Nautilus.NautilusUI>>#selectedMethod:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script646
+ScriptLoader50.ScriptLoader>>#update50038

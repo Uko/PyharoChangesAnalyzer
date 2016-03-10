@@ -1,16 +1,16 @@
-Context>>#object:basicAt:
-Context>>#object:basicAt:put:
-Context>>#object:eqeq:
-Context>>#object:instVarAt:
-Context>>#object:instVarAt:put:
-Context>>#object:perform:withArguments:inClass:
-Context>>#objectSize:
-ContributingToTheCatalogHelp class>>#addingYourProject
-ContributingToTheCatalogHelp class>>#bookName
-ContributingToTheCatalogHelp class>>#pages
-RPackage>>#methods
-RPackage>>#name:
-RPackage>>#renameTo:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50511
-ScriptLoader>>#update50512
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#addingYourProject
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#bookName
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#pages
+Kernel.Context>>#object:basicAt:
+Kernel.Context>>#object:basicAt:put:
+Kernel.Context>>#object:eqeq:
+Kernel.Context>>#object:instVarAt:
+Kernel.Context>>#object:instVarAt:put:
+Kernel.Context>>#object:perform:withArguments:inClass:
+Kernel.Context>>#objectSize:
+RPackage-Core.RPackage>>#methods
+RPackage-Core.RPackage>>#name:
+RPackage-Core.RPackage>>#renameTo:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50511
+ScriptLoader50.ScriptLoader>>#update50512

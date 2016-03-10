@@ -1,15 +1,15 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1187:
-ConfigurationOfRubric>>#version1214Moose51:
-RBGuardClauseRule>>#name
-RBGuardClauseRule>>#rationale
-RBToDoCollectRule>>#name
-RubAbstractTextArea>>#textColor:
-RubSmalltalkEditor class>>#buildShortcutsOn:
-RubSmalltalkEditor>>#selectedSelector
-RubSmalltalkEditor>>#sendersOfIt
-RubTextSegmentMorph>>#from:to:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50336
-ScriptLoader>>#update50337
-SimpleBorder>>#initialize
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1187:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1214Moose51:
+Morphic-Base.SimpleBorder>>#initialize
+Refactoring-Critics.RBGuardClauseRule>>#name
+Refactoring-Critics.RBGuardClauseRule>>#rationale
+Refactoring-Critics.RBToDoCollectRule>>#name
+Rubric.RubAbstractTextArea>>#textColor:
+Rubric.RubSmalltalkEditor class>>#buildShortcutsOn:
+Rubric.RubSmalltalkEditor>>#selectedSelector
+Rubric.RubSmalltalkEditor>>#sendersOfIt
+Rubric.RubTextSegmentMorph>>#from:to:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50336
+ScriptLoader50.ScriptLoader>>#update50337

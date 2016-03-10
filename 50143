@@ -1,11 +1,11 @@
-ConfigurationOfGlamourCore>>#stable:
-ConfigurationOfGlamourCore>>#version315:
-ConfigurationOfGlamourCore>>#version316:
-PluggableMultiColumnListMorph>>#findSubmorphFor:
-PluggableMultiColumnListMorph>>#itemFromPoint:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50142
-ScriptLoader>>#update50143
-ScrollPane>>#findSubmorphFor:
-SugsMenuBuilder class>>#buildSmartActionsShortcuts:
-SugsMenuBuilder class>>#findBestNodeFor:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version315:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version316:
+Morphic-Widgets-Pluggable.PluggableMultiColumnListMorph>>#findSubmorphFor:
+Morphic-Widgets-Pluggable.PluggableMultiColumnListMorph>>#itemFromPoint:
+Morphic-Widgets-Scrolling.ScrollPane>>#findSubmorphFor:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50142
+ScriptLoader50.ScriptLoader>>#update50143
+SmartSuggestions.SugsMenuBuilder class>>#buildSmartActionsShortcuts:
+SmartSuggestions.SugsMenuBuilder class>>#findBestNodeFor:

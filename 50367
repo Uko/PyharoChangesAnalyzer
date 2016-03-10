@@ -1,37 +1,37 @@
-Author>>#checkAndSetFullNameWith:
-Author>>#fullName
-Author>>#requestFullName
-ConfigurationOfFastTable>>#stable:
-ConfigurationOfFastTable>>#version079:
-FTExamples class>>#exampleOutline1
-FTExamples class>>#exampleOutline2
-FTOutlineDataSource
-FTOutlineDataSource class>>#items:
-FTOutlineDataSource>>#cellColumn:row:
-FTOutlineDataSource>>#elementAt:
-FTOutlineDataSource>>#headerColumn:
-FTOutlineDataSource>>#items
-FTOutlineDataSource>>#items:
-FTOutlineDataSource>>#needSeparatorBefore:
-FTOutlineDataSource>>#numberOfRows
-FTOutlineDataSource>>#searchText:
-FTOutlineDataSource>>#toString:
-FTOutlineTableContainerMorph
-FTOutlineTableContainerMorph>>#drawOn:
-FTOutlineTableMorph
-FTOutlineTableMorph>>#initializeContainer
-FTSearchFunction>>#keyStroke:
-FTSearchFunction>>#searchFor:
-FTTableMorph
-FTTableMorph>>#click:
-FTTableMorph>>#initialize
-FTTableMorph>>#keyStroke:
-FTTableMorph>>#mouseDown:
-FTTableMorph>>#mouseUp:
-FTTableMorph>>#selectRowIndex:event:
-STCommandLineHandler>>#activate
-STCommandLineHandler>>#selectSourceFiles
-STCommandLineHandlerTest>>#testSelectSourceFiles
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50366
-ScriptLoader>>#update50367
+CodeImportCommandLineHandlers.STCommandLineHandler>>#activate
+CodeImportCommandLineHandlers.STCommandLineHandler>>#selectSourceFiles
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#version079:
+Morphic-Widgets-FastTable.FTExamples class>>#exampleOutline1
+Morphic-Widgets-FastTable.FTExamples class>>#exampleOutline2
+Morphic-Widgets-FastTable.FTOutlineDataSource
+Morphic-Widgets-FastTable.FTOutlineDataSource class>>#items:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#cellColumn:row:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#elementAt:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#headerColumn:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#items
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#items:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#needSeparatorBefore:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#numberOfRows
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#searchText:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#toString:
+Morphic-Widgets-FastTable.FTOutlineTableContainerMorph
+Morphic-Widgets-FastTable.FTOutlineTableContainerMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTOutlineTableMorph
+Morphic-Widgets-FastTable.FTOutlineTableMorph>>#initializeContainer
+Morphic-Widgets-FastTable.FTSearchFunction>>#keyStroke:
+Morphic-Widgets-FastTable.FTSearchFunction>>#searchFor:
+Morphic-Widgets-FastTable.FTTableMorph
+Morphic-Widgets-FastTable.FTTableMorph>>#click:
+Morphic-Widgets-FastTable.FTTableMorph>>#initialize
+Morphic-Widgets-FastTable.FTTableMorph>>#keyStroke:
+Morphic-Widgets-FastTable.FTTableMorph>>#mouseDown:
+Morphic-Widgets-FastTable.FTTableMorph>>#mouseUp:
+Morphic-Widgets-FastTable.FTTableMorph>>#selectRowIndex:event:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50366
+ScriptLoader50.ScriptLoader>>#update50367
+System-Support.Author>>#checkAndSetFullNameWith:
+System-Support.Author>>#fullName
+System-Support.Author>>#requestFullName
+Tests.STCommandLineHandlerTest>>#testSelectSourceFiles

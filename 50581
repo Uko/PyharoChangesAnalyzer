@@ -1,0 +1,12 @@
+ConfigurationOfTxText.ConfigurationOfTxText>>#version2122:
+NautilusRefactoring.NautilusRefactoring>>#performRefactoringFor:withArguments:
+NautilusRefactoring.NautilusRefactoring>>#renameTemporaryNamed:Between:from:
+NautilusRefactoring.NautilusRefactoring>>#renameTextSelectionForMethod
+ReleaseTests.ObsoleteTest>>#testClassObsolete
+ReleaseTests.ObsoleteTest>>#testFixObsoleteSharedPools
+ReleaseTests.ObsoleteTest>>#testTraitObsolete
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50580
+ScriptLoader50.ScriptLoader>>#update50581
+Spec-Tools.MessageBrowser>>#intervalOf:inCode:of:
+TxText-Athens.TxTextEditorMorph class>>#buildTextEditorKeymapsOn:

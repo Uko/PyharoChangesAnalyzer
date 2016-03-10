@@ -1,29 +1,29 @@
-AbstractNautilusUI>>#runClassTests:notifying:
-AbstractNautilusUI>>#runTestsOfClass:notifying:
-CatalogBrowser>>#availableRepositoryURLStrings
-CatalogBrowser>>#buildContextMenuOn:
-CatalogBrowser>>#defineAllRepositoriesInMCBrowser
-CatalogBrowser>>#defineAllRepositoriesInMCBrowserButton:
-CatalogBrowser>>#defineCurrentVersionRepositoryButton:
-CatalogBrowser>>#defineCurrentVersionRepositoryInMCBrowser
-CatalogBrowser>>#installStableVersionButton:
-CatalogBrowser>>#installStableVersionMenuItem:
-CatalogBrowser>>#loadConfigurationButton:
-CatalogBrowser>>#loadConfigurationMenuItem:
-CatalogBrowser>>#repositoryObjectFromURLString:
-CatalogProject class>>#availableRepositoryURLStrings
-CatalogProject class>>#createRepositoryURLtoNameMappings
-CatalogProject class>>#pharoCurrentDottedName
-CatalogProject class>>#pharoCurrentMajorName
-CatalogProject class>>#pharoDistributionRepository
-CatalogProject class>>#repositoryURLToNameMappings
-CatalogProject>>#allKeywords
-CatalogProject>>#isAvailableForCurrentPharo
-CatalogProject>>#repositoryName
-ConfigurationOfCatalog>>#stable:
-ConfigurationOfCatalog>>#version08:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50311
-ScriptLoader>>#update50312
-TEasilyThemed>>#fileSave:initialAnswer:extensions:path:
-WorldState class>>#saveAs
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version08:
+Morphic-Core.WorldState class>>#saveAs
+Nautilus.AbstractNautilusUI>>#runClassTests:notifying:
+Nautilus.AbstractNautilusUI>>#runTestsOfClass:notifying:
+Polymorph-Widgets.TEasilyThemed>>#fileSave:initialAnswer:extensions:path:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50311
+ScriptLoader50.ScriptLoader>>#update50312
+Tool-Catalog.CatalogBrowser>>#availableRepositoryURLStrings
+Tool-Catalog.CatalogBrowser>>#buildContextMenuOn:
+Tool-Catalog.CatalogBrowser>>#defineAllRepositoriesInMCBrowser
+Tool-Catalog.CatalogBrowser>>#defineAllRepositoriesInMCBrowserButton:
+Tool-Catalog.CatalogBrowser>>#defineCurrentVersionRepositoryButton:
+Tool-Catalog.CatalogBrowser>>#defineCurrentVersionRepositoryInMCBrowser
+Tool-Catalog.CatalogBrowser>>#installStableVersionButton:
+Tool-Catalog.CatalogBrowser>>#installStableVersionMenuItem:
+Tool-Catalog.CatalogBrowser>>#loadConfigurationButton:
+Tool-Catalog.CatalogBrowser>>#loadConfigurationMenuItem:
+Tool-Catalog.CatalogBrowser>>#repositoryObjectFromURLString:
+Tool-Catalog.CatalogProject class>>#availableRepositoryURLStrings
+Tool-Catalog.CatalogProject class>>#createRepositoryURLtoNameMappings
+Tool-Catalog.CatalogProject class>>#pharoCurrentDottedName
+Tool-Catalog.CatalogProject class>>#pharoCurrentMajorName
+Tool-Catalog.CatalogProject class>>#pharoDistributionRepository
+Tool-Catalog.CatalogProject class>>#repositoryURLToNameMappings
+Tool-Catalog.CatalogProject>>#allKeywords
+Tool-Catalog.CatalogProject>>#isAvailableForCurrentPharo
+Tool-Catalog.CatalogProject>>#repositoryName

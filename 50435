@@ -1,8 +1,8 @@
-AbstractTool>>#compileANewClassFrom:notifying:startingFrom:
-CompiledMethod>>#invalidate
-ReflectiveMethod>>#installCompiledMethod
-ReflectiveMethod>>#installMethod:
-ReflectiveMethod>>#installReflectiveMethod
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50434
-ScriptLoader>>#update50435
+Reflectivity.CompiledMethod>>#invalidate
+Reflectivity.ReflectiveMethod>>#installCompiledMethod
+Reflectivity.ReflectiveMethod>>#installMethod:
+Reflectivity.ReflectiveMethod>>#installReflectiveMethod
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50434
+ScriptLoader50.ScriptLoader>>#update50435
+Tool-Base.AbstractTool>>#compileANewClassFrom:notifying:startingFrom:

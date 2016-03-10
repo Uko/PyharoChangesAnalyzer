@@ -1,396 +1,396 @@
-Association>>#stonOn:
-Boolean>>#stonContainSubObjects
-Boolean>>#stonOn:
-ByteArray class>>#fromSton:
-ByteArray>>#stonContainSubObjects
-ByteArray>>#stonOn:
-Character class>>#fromSton:
-Character>>#stonOn:
-Collection class>>#fromSton:
-Collection>>#stonOn:
-ConfigurationOfSton
-ConfigurationOfSton class>>#DevelopmentSupport
-ConfigurationOfSton class>>#baseConfigurationClassIfAbsent:
-ConfigurationOfSton class>>#ensureMetacello
-ConfigurationOfSton class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfSton class>>#isMetacelloConfig
-ConfigurationOfSton class>>#load
-ConfigurationOfSton class>>#loadBleedingEdge
-ConfigurationOfSton class>>#loadDevelopment
-ConfigurationOfSton class>>#project
-ConfigurationOfSton class>>#validate
-ConfigurationOfSton>>#baseline01:
-ConfigurationOfSton>>#baseline02:
-ConfigurationOfSton>>#baseline03:
-ConfigurationOfSton>>#project
-ConfigurationOfSton>>#stable:
-ConfigurationOfSton>>#version01:
-ConfigurationOfSton>>#version02:
-ConfigurationOfSton>>#version03:
-ConfigurationOfSton>>#version04:
-ConfigurationOfSton>>#version05:
-ConfigurationOfSton>>#version06:
-ConfigurationOfSton>>#version07:
-ConfigurationOfSton>>#version08:
-ConfigurationOfSton>>#version09:
-ConfigurationOfSton>>#version10:
-ConfigurationOfSton>>#version11:
-ConfigurationOfSton>>#version12:
-ConfigurationOfSton>>#version13:
-ConfigurationOfSton>>#version14:
-Date class>>#fromSton:
-Date>>#stonContainSubObjects
-Date>>#stonOn:
-DateAndTime class>>#fromSton:
-DateAndTime>>#stonContainSubObjects
-DateAndTime>>#stonOn:
-Dictionary class>>#fromSton:
-Dictionary>>#stonOn:
-Integer>>#stonOn:
-Number>>#stonContainSubObjects
-Number>>#stonOn:
-Object class>>#fromSton:
-Object class>>#stonAllInstVarNames
-Object class>>#stonName
-Object>>#fromSton:
-Object>>#isStonReference
-Object>>#stonContainSubObjects
-Object>>#stonOn:
-Object>>#stonProcessSubObjects:
-Object>>#stonShouldWriteNilInstVars
-OrderedDictionary class>>#fromSton:
-OrderedDictionary>>#stonOn:
-Point>>#fromSton:
-Point>>#stonOn:
-RunArray class>>#fromSton:
-RunArray>>#fromSton:
-RunArray>>#stonOn:
-STON
-STON class>>#classNameKey
-STON class>>#fromStream:
-STON class>>#fromString:
-STON class>>#jsonWriter
-STON class>>#listClass
-STON class>>#mapClass
-STON class>>#put:asJsonOnStream:
-STON class>>#put:asJsonOnStreamPretty:
-STON class>>#put:onStream:
-STON class>>#put:onStreamPretty:
-STON class>>#reader
-STON class>>#toJsonString:
-STON class>>#toJsonStringPretty:
-STON class>>#toString:
-STON class>>#toStringPretty:
-STON class>>#writer
-STONLargeWriteReadTests
-STONLargeWriteReadTests>>#materialize:
-STONLargeWriteReadTests>>#serialize:
-STONLargeWriteReadTests>>#serializeJson:
-STONListWriter
-STONListWriter>>#add:
-STONMapWriter
-STONMapWriter>>#at:put:
-STONReader
-STONReader class>>#on:
-STONReader>>#acceptUnknownClasses:
-STONReader>>#allowComplexMapKeys:
-STONReader>>#atEnd
-STONReader>>#close
-STONReader>>#consumeWhitespace
-STONReader>>#convertNewLines:
-STONReader>>#error:
-STONReader>>#expectChar:
-STONReader>>#initialize
-STONReader>>#isClassChar:
-STONReader>>#isClassStartChar:
-STONReader>>#isSimpleSymbolChar:
-STONReader>>#isValidPropertyNameType:
-STONReader>>#lookupClass:
-STONReader>>#match:do:
-STONReader>>#matchChar:
-STONReader>>#newLine:
-STONReader>>#newReference
-STONReader>>#next
-STONReader>>#on:
-STONReader>>#optimizeForLargeStructures
-STONReader>>#parseCharacter
-STONReader>>#parseCharacterConvertingNewLinesOn:
-STONReader>>#parseCharacterHex
-STONReader>>#parseCharacterHexDigit
-STONReader>>#parseClass
-STONReader>>#parseConstantDo:
-STONReader>>#parseEscapedCharacter
-STONReader>>#parseList
-STONReader>>#parseListDo:
-STONReader>>#parseListSingleton
-STONReader>>#parseMap
-STONReader>>#parseMapDo:
-STONReader>>#parseNamedInstVarsFor:
-STONReader>>#parseNumber
-STONReader>>#parseNumberExponent
-STONReader>>#parseNumberFraction
-STONReader>>#parseNumberInteger
-STONReader>>#parseObject
-STONReader>>#parseReference
-STONReader>>#parseSimpleValue
-STONReader>>#parseString
-STONReader>>#parseStringInternal
-STONReader>>#parseSymbol
-STONReader>>#parseValue
-STONReader>>#processSubObjectsOf:
-STONReader>>#reset
-STONReader>>#resolveReference:
-STONReader>>#resolveReferenceIndex:
-STONReader>>#setReference:to:
-STONReader>>#storeReference:
-STONReader>>#stringStreamContents:
-STONReaderError
-STONReaderError class>>#signal:streamPosition:
-STONReaderError>>#messageText
-STONReaderError>>#streamPosition
-STONReaderError>>#streamPosition:
-STONReaderTests
-STONReaderTests>>#materialize:
-STONReaderTests>>#testAssociation
-STONReaderTests>>#testBoolean
-STONReaderTests>>#testByteArray
-STONReaderTests>>#testCharacter
-STONReaderTests>>#testConvertingNewLines
-STONReaderTests>>#testDate
-STONReaderTests>>#testDateAndTime
-STONReaderTests>>#testDictionary
-STONReaderTests>>#testDictionaryWithComplexKeys
-STONReaderTests>>#testError
-STONReaderTests>>#testFloat
-STONReaderTests>>#testIdentityDictionary
-STONReaderTests>>#testIllegalCharacterEscapes
-STONReaderTests>>#testInteger
-STONReaderTests>>#testJsonString
-STONReaderTests>>#testList
-STONReaderTests>>#testMap
-STONReaderTests>>#testMultiple
-STONReaderTests>>#testNewSymbol
-STONReaderTests>>#testNil
-STONReaderTests>>#testNull
-STONReaderTests>>#testObject
-STONReaderTests>>#testOrderedCollection
-STONReaderTests>>#testPoint
-STONReaderTests>>#testReferenceCycle
-STONReaderTests>>#testReferenceSharing
-STONReaderTests>>#testStreaming
-STONReaderTests>>#testString
-STONReaderTests>>#testSymbol
-STONReaderTests>>#testTime
-STONReaderTests>>#testUnknownClasses
-STONReaderTests>>#testUser
-STONReaderTests>>#testUser2
-STONReaderTests>>#testWhitespace
-STONReference
-STONReference class>>#index:
-STONReference>>#=
-STONReference>>#hash
-STONReference>>#index
-STONReference>>#index:
-STONReference>>#isStonReference
-STONReference>>#printOn:
-STONShortListWriter
-STONShortListWriter>>#add:
-STONStreamWriter
-STONStreamWriter class>>#on:
-STONStreamWriter>>#initialize
-STONStreamWriter>>#on:
-STONTestDomainObject
-STONTestDomainObject class>>#dummy
-STONTestDomainObject class>>#stonName
-STONTestDomainObject>>#=
-STONTestDomainObject>>#boolean
-STONTestDomainObject>>#boolean:
-STONTestDomainObject>>#bytes
-STONTestDomainObject>>#bytes:
-STONTestDomainObject>>#color
-STONTestDomainObject>>#color:
-STONTestDomainObject>>#created
-STONTestDomainObject>>#created:
-STONTestDomainObject>>#description
-STONTestDomainObject>>#description:
-STONTestDomainObject>>#float
-STONTestDomainObject>>#float:
-STONTestDomainObject>>#hash
-STONTestDomainObject>>#initialize
-STONTestDomainObject>>#integer
-STONTestDomainObject>>#integer:
-STONTestDomainObject>>#modified
-STONTestDomainObject>>#modified:
-STONTestDomainObject>>#tags
-STONTestDomainObject>>#tags:
-STONTestMap
-STONTestMap class>>#classTree
-STONTestMap class>>#classTree:
-STONTestMap class>>#classTreeExtended
-STONTestMap class>>#classTreeExtended:
-STONTestMap class>>#stonName
-STONTestMap>>#printElementsOn:
-STONTestUser
-STONTestUser class>>#dummy
-STONTestUser class>>#stonName
-STONTestUser2
-STONTestUser2 class>>#stonName
-STONTestUser2>>#fromSton:
-STONTestUser2>>#stonOn:
-STONTestUser3
-STONTestUser3 class>>#stonAllInstVarNames
-STONTestUser3 class>>#stonName
-STONTestUser3>>#stonShouldWriteNilInstVars
-STONTestUser>>#=
-STONTestUser>>#enabled
-STONTestUser>>#enabled:
-STONTestUser>>#hash
-STONTestUser>>#initialize
-STONTestUser>>#password
-STONTestUser>>#password:
-STONTestUser>>#username
-STONTestUser>>#username:
-STONTests
-STONTests class>>#fastReadFromFileNamed:
-STONTests class>>#fastWrite:toFileNamed:
-STONTests class>>#readFromFileNamed:
-STONTests class>>#write:toFileNamed:
-STONTests>>#testFromString
-STONTests>>#testPrettyPrinting
-STONTests>>#testRoomExitCycles
-STONTests>>#testToString
-STONWritePrettyPrinterReadTests
-STONWritePrettyPrinterReadTests>>#serialize:
-STONWritePrettyPrinterReadTests>>#serializeJson:
-STONWriteReadTests
-STONWriteReadTests>>#materialize:
-STONWriteReadTests>>#serialize:
-STONWriteReadTests>>#serializeAndMaterialize:
-STONWriteReadTests>>#serializeAndMaterializeJsonMode:
-STONWriteReadTests>>#serializeJson:
-STONWriteReadTests>>#testAssociations
-STONWriteReadTests>>#testCharacters
-STONWriteReadTests>>#testCollections
-STONWriteReadTests>>#testDatesAndTimes
-STONWriteReadTests>>#testDomainObject
-STONWriteReadTests>>#testEmpty
-STONWriteReadTests>>#testFloats
-STONWriteReadTests>>#testJsonMode
-STONWriteReadTests>>#testOrderedDictionary
-STONWriteReadTests>>#testPrimitives
-STONWriteReadTests>>#testSmallDictionary
-STONWriteReadTests>>#testSmallIntegers
-STONWriteReadTests>>#testStrings
-STONWriteReadTests>>#testSymbols
-STONWriteReadTests>>#testTextAndRunArray
-STONWriteReadTests>>#testUser
-STONWriteReadTests>>#testUser2
-STONWriter
-STONWriter class>>#initialize
-STONWriter class>>#initializeSTONCharacters
-STONWriter class>>#initializeSTONSimpleSymbolCharacters
-STONWriter class>>#isSimpleSymbolChar:
-STONWriter class>>#on:
-STONWriter>>#close
-STONWriter>>#encodeCharacter:
-STONWriter>>#encodeKey:value:
-STONWriter>>#encodeList:
-STONWriter>>#encodeMap:
-STONWriter>>#encodeString:
-STONWriter>>#encodeStringKeepingNewLines:
-STONWriter>>#error:
-STONWriter>>#indentedDo:
-STONWriter>>#initialize
-STONWriter>>#isSimpleSymbol:
-STONWriter>>#jsonMode:
-STONWriter>>#keepNewLines:
-STONWriter>>#listElementSeparator
-STONWriter>>#mapElementSeparator
-STONWriter>>#newLine:
-STONWriter>>#newlineIndent
-STONWriter>>#nextPut:
-STONWriter>>#on:
-STONWriter>>#optimizeForLargeStructures
-STONWriter>>#prettyPrint:
-STONWriter>>#prettyPrintSpace
-STONWriter>>#referencePolicy:
-STONWriter>>#reset
-STONWriter>>#shortListElementSeparator
-STONWriter>>#with:do:
-STONWriter>>#writeAssociation:
-STONWriter>>#writeBoolean:
-STONWriter>>#writeFloat:
-STONWriter>>#writeInteger:
-STONWriter>>#writeList:
-STONWriter>>#writeMap:
-STONWriter>>#writeNull
-STONWriter>>#writeObject:
-STONWriter>>#writeObject:do:
-STONWriter>>#writeObject:listSingleton:
-STONWriter>>#writeObject:streamList:
-STONWriter>>#writeObject:streamMap:
-STONWriter>>#writeObject:streamShortList:
-STONWriter>>#writeReference:
-STONWriter>>#writeString:
-STONWriter>>#writeSymbol:
-STONWriterError
-STONWriterTests
-STONWriterTests>>#serialize:
-STONWriterTests>>#serializeJson:
-STONWriterTests>>#serializePretty:
-STONWriterTests>>#testAssociation
-STONWriterTests>>#testBoolean
-STONWriterTests>>#testByteArray
-STONWriterTests>>#testCustomNewline
-STONWriterTests>>#testDate
-STONWriterTests>>#testDateAndTime
-STONWriterTests>>#testDictionary
-STONWriterTests>>#testDictionaryWithComplexKeys
-STONWriterTests>>#testDoubleQuotedString
-STONWriterTests>>#testEmptyArrayPretty
-STONWriterTests>>#testEmptyDictionaryPretty
-STONWriterTests>>#testFloat
-STONWriterTests>>#testIdentityDictionary
-STONWriterTests>>#testInteger
-STONWriterTests>>#testIsSimpleSymbol
-STONWriterTests>>#testKeepingNewLines
-STONWriterTests>>#testList
-STONWriterTests>>#testMap
-STONWriterTests>>#testNil
-STONWriterTests>>#testNull
-STONWriterTests>>#testOrderedCollection
-STONWriterTests>>#testPoint
-STONWriterTests>>#testReferenceCycle
-STONWriterTests>>#testReferenceSharing
-STONWriterTests>>#testReferenceSharingError
-STONWriterTests>>#testReferenceSharingIgnore
-STONWriterTests>>#testRestrictedClassesInJsonMode
-STONWriterTests>>#testString
-STONWriterTests>>#testSymbol
-STONWriterTests>>#testSymbolAsString
-STONWriterTests>>#testTime
-STONWriterTests>>#testUser
-STONWriterTests>>#testUser2
-STONWriterTests>>#testUser3Nil
-STONWriterTests>>#testUserNil
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50071
-ScriptLoader>>#update50072
-SequenceableCollection class>>#fromSton:
-SequenceableCollection>>#stonOn:
-SmallDictionary class>>#fromSton:
-SmallDictionary>>#stonOn:
-SmalltalkImage>>#imageName
-SmalltalkImage>>#imageName:
-SmalltalkImage>>#imagePath
-String>>#stonContainSubObjects
-String>>#stonOn:
-Symbol>>#stonOn:
-Text class>>#fromSton:
-Text>>#fromSton:
-Text>>#stonOn:
-Time class>>#fromSton:
-Time>>#stonContainSubObjects
-Time>>#stonOn:
-UndefinedObject>>#stonContainSubObjects
-UndefinedObject>>#stonOn:
+ConfigurationOfSton.ConfigurationOfSton
+ConfigurationOfSton.ConfigurationOfSton class>>#DevelopmentSupport
+ConfigurationOfSton.ConfigurationOfSton class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfSton.ConfigurationOfSton class>>#ensureMetacello
+ConfigurationOfSton.ConfigurationOfSton class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfSton.ConfigurationOfSton class>>#isMetacelloConfig
+ConfigurationOfSton.ConfigurationOfSton class>>#load
+ConfigurationOfSton.ConfigurationOfSton class>>#loadBleedingEdge
+ConfigurationOfSton.ConfigurationOfSton class>>#loadDevelopment
+ConfigurationOfSton.ConfigurationOfSton class>>#project
+ConfigurationOfSton.ConfigurationOfSton class>>#validate
+ConfigurationOfSton.ConfigurationOfSton>>#baseline01:
+ConfigurationOfSton.ConfigurationOfSton>>#baseline02:
+ConfigurationOfSton.ConfigurationOfSton>>#baseline03:
+ConfigurationOfSton.ConfigurationOfSton>>#project
+ConfigurationOfSton.ConfigurationOfSton>>#stable:
+ConfigurationOfSton.ConfigurationOfSton>>#version01:
+ConfigurationOfSton.ConfigurationOfSton>>#version02:
+ConfigurationOfSton.ConfigurationOfSton>>#version03:
+ConfigurationOfSton.ConfigurationOfSton>>#version04:
+ConfigurationOfSton.ConfigurationOfSton>>#version05:
+ConfigurationOfSton.ConfigurationOfSton>>#version06:
+ConfigurationOfSton.ConfigurationOfSton>>#version07:
+ConfigurationOfSton.ConfigurationOfSton>>#version08:
+ConfigurationOfSton.ConfigurationOfSton>>#version09:
+ConfigurationOfSton.ConfigurationOfSton>>#version10:
+ConfigurationOfSton.ConfigurationOfSton>>#version11:
+ConfigurationOfSton.ConfigurationOfSton>>#version12:
+ConfigurationOfSton.ConfigurationOfSton>>#version13:
+ConfigurationOfSton.ConfigurationOfSton>>#version14:
+STON-Core.Association>>#stonOn:
+STON-Core.Boolean>>#stonContainSubObjects
+STON-Core.Boolean>>#stonOn:
+STON-Core.ByteArray class>>#fromSton:
+STON-Core.ByteArray>>#stonContainSubObjects
+STON-Core.ByteArray>>#stonOn:
+STON-Core.Character class>>#fromSton:
+STON-Core.Character>>#stonOn:
+STON-Core.Collection class>>#fromSton:
+STON-Core.Collection>>#stonOn:
+STON-Core.Date class>>#fromSton:
+STON-Core.Date>>#stonContainSubObjects
+STON-Core.Date>>#stonOn:
+STON-Core.DateAndTime class>>#fromSton:
+STON-Core.DateAndTime>>#stonContainSubObjects
+STON-Core.DateAndTime>>#stonOn:
+STON-Core.Dictionary class>>#fromSton:
+STON-Core.Dictionary>>#stonOn:
+STON-Core.Integer>>#stonOn:
+STON-Core.Number>>#stonContainSubObjects
+STON-Core.Number>>#stonOn:
+STON-Core.Object class>>#fromSton:
+STON-Core.Object class>>#stonAllInstVarNames
+STON-Core.Object class>>#stonName
+STON-Core.Object>>#fromSton:
+STON-Core.Object>>#isStonReference
+STON-Core.Object>>#stonContainSubObjects
+STON-Core.Object>>#stonOn:
+STON-Core.Object>>#stonProcessSubObjects:
+STON-Core.Object>>#stonShouldWriteNilInstVars
+STON-Core.OrderedDictionary class>>#fromSton:
+STON-Core.OrderedDictionary>>#stonOn:
+STON-Core.Point>>#fromSton:
+STON-Core.Point>>#stonOn:
+STON-Core.RunArray class>>#fromSton:
+STON-Core.RunArray>>#fromSton:
+STON-Core.RunArray>>#stonOn:
+STON-Core.STON
+STON-Core.STON class>>#classNameKey
+STON-Core.STON class>>#fromStream:
+STON-Core.STON class>>#fromString:
+STON-Core.STON class>>#jsonWriter
+STON-Core.STON class>>#listClass
+STON-Core.STON class>>#mapClass
+STON-Core.STON class>>#put:asJsonOnStream:
+STON-Core.STON class>>#put:asJsonOnStreamPretty:
+STON-Core.STON class>>#put:onStream:
+STON-Core.STON class>>#put:onStreamPretty:
+STON-Core.STON class>>#reader
+STON-Core.STON class>>#toJsonString:
+STON-Core.STON class>>#toJsonStringPretty:
+STON-Core.STON class>>#toString:
+STON-Core.STON class>>#toStringPretty:
+STON-Core.STON class>>#writer
+STON-Core.STONListWriter
+STON-Core.STONListWriter>>#add:
+STON-Core.STONMapWriter
+STON-Core.STONMapWriter>>#at:put:
+STON-Core.STONReader
+STON-Core.STONReader class>>#on:
+STON-Core.STONReader>>#acceptUnknownClasses:
+STON-Core.STONReader>>#allowComplexMapKeys:
+STON-Core.STONReader>>#atEnd
+STON-Core.STONReader>>#close
+STON-Core.STONReader>>#consumeWhitespace
+STON-Core.STONReader>>#convertNewLines:
+STON-Core.STONReader>>#error:
+STON-Core.STONReader>>#expectChar:
+STON-Core.STONReader>>#initialize
+STON-Core.STONReader>>#isClassChar:
+STON-Core.STONReader>>#isClassStartChar:
+STON-Core.STONReader>>#isSimpleSymbolChar:
+STON-Core.STONReader>>#isValidPropertyNameType:
+STON-Core.STONReader>>#lookupClass:
+STON-Core.STONReader>>#match:do:
+STON-Core.STONReader>>#matchChar:
+STON-Core.STONReader>>#newLine:
+STON-Core.STONReader>>#newReference
+STON-Core.STONReader>>#next
+STON-Core.STONReader>>#on:
+STON-Core.STONReader>>#optimizeForLargeStructures
+STON-Core.STONReader>>#parseCharacter
+STON-Core.STONReader>>#parseCharacterConvertingNewLinesOn:
+STON-Core.STONReader>>#parseCharacterHex
+STON-Core.STONReader>>#parseCharacterHexDigit
+STON-Core.STONReader>>#parseClass
+STON-Core.STONReader>>#parseConstantDo:
+STON-Core.STONReader>>#parseEscapedCharacter
+STON-Core.STONReader>>#parseList
+STON-Core.STONReader>>#parseListDo:
+STON-Core.STONReader>>#parseListSingleton
+STON-Core.STONReader>>#parseMap
+STON-Core.STONReader>>#parseMapDo:
+STON-Core.STONReader>>#parseNamedInstVarsFor:
+STON-Core.STONReader>>#parseNumber
+STON-Core.STONReader>>#parseNumberExponent
+STON-Core.STONReader>>#parseNumberFraction
+STON-Core.STONReader>>#parseNumberInteger
+STON-Core.STONReader>>#parseObject
+STON-Core.STONReader>>#parseReference
+STON-Core.STONReader>>#parseSimpleValue
+STON-Core.STONReader>>#parseString
+STON-Core.STONReader>>#parseStringInternal
+STON-Core.STONReader>>#parseSymbol
+STON-Core.STONReader>>#parseValue
+STON-Core.STONReader>>#processSubObjectsOf:
+STON-Core.STONReader>>#reset
+STON-Core.STONReader>>#resolveReference:
+STON-Core.STONReader>>#resolveReferenceIndex:
+STON-Core.STONReader>>#setReference:to:
+STON-Core.STONReader>>#storeReference:
+STON-Core.STONReader>>#stringStreamContents:
+STON-Core.STONReaderError
+STON-Core.STONReaderError class>>#signal:streamPosition:
+STON-Core.STONReaderError>>#messageText
+STON-Core.STONReaderError>>#streamPosition
+STON-Core.STONReaderError>>#streamPosition:
+STON-Core.STONReference
+STON-Core.STONReference class>>#index:
+STON-Core.STONReference>>#=
+STON-Core.STONReference>>#hash
+STON-Core.STONReference>>#index
+STON-Core.STONReference>>#index:
+STON-Core.STONReference>>#isStonReference
+STON-Core.STONReference>>#printOn:
+STON-Core.STONShortListWriter
+STON-Core.STONShortListWriter>>#add:
+STON-Core.STONStreamWriter
+STON-Core.STONStreamWriter class>>#on:
+STON-Core.STONStreamWriter>>#initialize
+STON-Core.STONStreamWriter>>#on:
+STON-Core.STONWriter
+STON-Core.STONWriter class>>#initialize
+STON-Core.STONWriter class>>#initializeSTONCharacters
+STON-Core.STONWriter class>>#initializeSTONSimpleSymbolCharacters
+STON-Core.STONWriter class>>#isSimpleSymbolChar:
+STON-Core.STONWriter class>>#on:
+STON-Core.STONWriter>>#close
+STON-Core.STONWriter>>#encodeCharacter:
+STON-Core.STONWriter>>#encodeKey:value:
+STON-Core.STONWriter>>#encodeList:
+STON-Core.STONWriter>>#encodeMap:
+STON-Core.STONWriter>>#encodeString:
+STON-Core.STONWriter>>#encodeStringKeepingNewLines:
+STON-Core.STONWriter>>#error:
+STON-Core.STONWriter>>#indentedDo:
+STON-Core.STONWriter>>#initialize
+STON-Core.STONWriter>>#isSimpleSymbol:
+STON-Core.STONWriter>>#jsonMode:
+STON-Core.STONWriter>>#keepNewLines:
+STON-Core.STONWriter>>#listElementSeparator
+STON-Core.STONWriter>>#mapElementSeparator
+STON-Core.STONWriter>>#newLine:
+STON-Core.STONWriter>>#newlineIndent
+STON-Core.STONWriter>>#nextPut:
+STON-Core.STONWriter>>#on:
+STON-Core.STONWriter>>#optimizeForLargeStructures
+STON-Core.STONWriter>>#prettyPrint:
+STON-Core.STONWriter>>#prettyPrintSpace
+STON-Core.STONWriter>>#referencePolicy:
+STON-Core.STONWriter>>#reset
+STON-Core.STONWriter>>#shortListElementSeparator
+STON-Core.STONWriter>>#with:do:
+STON-Core.STONWriter>>#writeAssociation:
+STON-Core.STONWriter>>#writeBoolean:
+STON-Core.STONWriter>>#writeFloat:
+STON-Core.STONWriter>>#writeInteger:
+STON-Core.STONWriter>>#writeList:
+STON-Core.STONWriter>>#writeMap:
+STON-Core.STONWriter>>#writeNull
+STON-Core.STONWriter>>#writeObject:
+STON-Core.STONWriter>>#writeObject:do:
+STON-Core.STONWriter>>#writeObject:listSingleton:
+STON-Core.STONWriter>>#writeObject:streamList:
+STON-Core.STONWriter>>#writeObject:streamMap:
+STON-Core.STONWriter>>#writeObject:streamShortList:
+STON-Core.STONWriter>>#writeReference:
+STON-Core.STONWriter>>#writeString:
+STON-Core.STONWriter>>#writeSymbol:
+STON-Core.STONWriterError
+STON-Core.SequenceableCollection class>>#fromSton:
+STON-Core.SequenceableCollection>>#stonOn:
+STON-Core.SmallDictionary class>>#fromSton:
+STON-Core.SmallDictionary>>#stonOn:
+STON-Core.String>>#stonContainSubObjects
+STON-Core.String>>#stonOn:
+STON-Core.Symbol>>#stonOn:
+STON-Core.Text class>>#fromSton:
+STON-Core.Text>>#fromSton:
+STON-Core.Text>>#stonOn:
+STON-Core.Time class>>#fromSton:
+STON-Core.Time>>#stonContainSubObjects
+STON-Core.Time>>#stonOn:
+STON-Core.UndefinedObject>>#stonContainSubObjects
+STON-Core.UndefinedObject>>#stonOn:
+STON-Tests.STONLargeWriteReadTests
+STON-Tests.STONLargeWriteReadTests>>#materialize:
+STON-Tests.STONLargeWriteReadTests>>#serialize:
+STON-Tests.STONLargeWriteReadTests>>#serializeJson:
+STON-Tests.STONReaderTests
+STON-Tests.STONReaderTests>>#materialize:
+STON-Tests.STONReaderTests>>#testAssociation
+STON-Tests.STONReaderTests>>#testBoolean
+STON-Tests.STONReaderTests>>#testByteArray
+STON-Tests.STONReaderTests>>#testCharacter
+STON-Tests.STONReaderTests>>#testConvertingNewLines
+STON-Tests.STONReaderTests>>#testDate
+STON-Tests.STONReaderTests>>#testDateAndTime
+STON-Tests.STONReaderTests>>#testDictionary
+STON-Tests.STONReaderTests>>#testDictionaryWithComplexKeys
+STON-Tests.STONReaderTests>>#testError
+STON-Tests.STONReaderTests>>#testFloat
+STON-Tests.STONReaderTests>>#testIdentityDictionary
+STON-Tests.STONReaderTests>>#testIllegalCharacterEscapes
+STON-Tests.STONReaderTests>>#testInteger
+STON-Tests.STONReaderTests>>#testJsonString
+STON-Tests.STONReaderTests>>#testList
+STON-Tests.STONReaderTests>>#testMap
+STON-Tests.STONReaderTests>>#testMultiple
+STON-Tests.STONReaderTests>>#testNewSymbol
+STON-Tests.STONReaderTests>>#testNil
+STON-Tests.STONReaderTests>>#testNull
+STON-Tests.STONReaderTests>>#testObject
+STON-Tests.STONReaderTests>>#testOrderedCollection
+STON-Tests.STONReaderTests>>#testPoint
+STON-Tests.STONReaderTests>>#testReferenceCycle
+STON-Tests.STONReaderTests>>#testReferenceSharing
+STON-Tests.STONReaderTests>>#testStreaming
+STON-Tests.STONReaderTests>>#testString
+STON-Tests.STONReaderTests>>#testSymbol
+STON-Tests.STONReaderTests>>#testTime
+STON-Tests.STONReaderTests>>#testUnknownClasses
+STON-Tests.STONReaderTests>>#testUser
+STON-Tests.STONReaderTests>>#testUser2
+STON-Tests.STONReaderTests>>#testWhitespace
+STON-Tests.STONTestDomainObject
+STON-Tests.STONTestDomainObject class>>#dummy
+STON-Tests.STONTestDomainObject class>>#stonName
+STON-Tests.STONTestDomainObject>>#=
+STON-Tests.STONTestDomainObject>>#boolean
+STON-Tests.STONTestDomainObject>>#boolean:
+STON-Tests.STONTestDomainObject>>#bytes
+STON-Tests.STONTestDomainObject>>#bytes:
+STON-Tests.STONTestDomainObject>>#color
+STON-Tests.STONTestDomainObject>>#color:
+STON-Tests.STONTestDomainObject>>#created
+STON-Tests.STONTestDomainObject>>#created:
+STON-Tests.STONTestDomainObject>>#description
+STON-Tests.STONTestDomainObject>>#description:
+STON-Tests.STONTestDomainObject>>#float
+STON-Tests.STONTestDomainObject>>#float:
+STON-Tests.STONTestDomainObject>>#hash
+STON-Tests.STONTestDomainObject>>#initialize
+STON-Tests.STONTestDomainObject>>#integer
+STON-Tests.STONTestDomainObject>>#integer:
+STON-Tests.STONTestDomainObject>>#modified
+STON-Tests.STONTestDomainObject>>#modified:
+STON-Tests.STONTestDomainObject>>#tags
+STON-Tests.STONTestDomainObject>>#tags:
+STON-Tests.STONTestMap
+STON-Tests.STONTestMap class>>#classTree
+STON-Tests.STONTestMap class>>#classTree:
+STON-Tests.STONTestMap class>>#classTreeExtended
+STON-Tests.STONTestMap class>>#classTreeExtended:
+STON-Tests.STONTestMap class>>#stonName
+STON-Tests.STONTestMap>>#printElementsOn:
+STON-Tests.STONTestUser
+STON-Tests.STONTestUser class>>#dummy
+STON-Tests.STONTestUser class>>#stonName
+STON-Tests.STONTestUser2
+STON-Tests.STONTestUser2 class>>#stonName
+STON-Tests.STONTestUser2>>#fromSton:
+STON-Tests.STONTestUser2>>#stonOn:
+STON-Tests.STONTestUser3
+STON-Tests.STONTestUser3 class>>#stonAllInstVarNames
+STON-Tests.STONTestUser3 class>>#stonName
+STON-Tests.STONTestUser3>>#stonShouldWriteNilInstVars
+STON-Tests.STONTestUser>>#=
+STON-Tests.STONTestUser>>#enabled
+STON-Tests.STONTestUser>>#enabled:
+STON-Tests.STONTestUser>>#hash
+STON-Tests.STONTestUser>>#initialize
+STON-Tests.STONTestUser>>#password
+STON-Tests.STONTestUser>>#password:
+STON-Tests.STONTestUser>>#username
+STON-Tests.STONTestUser>>#username:
+STON-Tests.STONTests
+STON-Tests.STONTests class>>#fastReadFromFileNamed:
+STON-Tests.STONTests class>>#fastWrite:toFileNamed:
+STON-Tests.STONTests class>>#readFromFileNamed:
+STON-Tests.STONTests class>>#write:toFileNamed:
+STON-Tests.STONTests>>#testFromString
+STON-Tests.STONTests>>#testPrettyPrinting
+STON-Tests.STONTests>>#testRoomExitCycles
+STON-Tests.STONTests>>#testToString
+STON-Tests.STONWritePrettyPrinterReadTests
+STON-Tests.STONWritePrettyPrinterReadTests>>#serialize:
+STON-Tests.STONWritePrettyPrinterReadTests>>#serializeJson:
+STON-Tests.STONWriteReadTests
+STON-Tests.STONWriteReadTests>>#materialize:
+STON-Tests.STONWriteReadTests>>#serialize:
+STON-Tests.STONWriteReadTests>>#serializeAndMaterialize:
+STON-Tests.STONWriteReadTests>>#serializeAndMaterializeJsonMode:
+STON-Tests.STONWriteReadTests>>#serializeJson:
+STON-Tests.STONWriteReadTests>>#testAssociations
+STON-Tests.STONWriteReadTests>>#testCharacters
+STON-Tests.STONWriteReadTests>>#testCollections
+STON-Tests.STONWriteReadTests>>#testDatesAndTimes
+STON-Tests.STONWriteReadTests>>#testDomainObject
+STON-Tests.STONWriteReadTests>>#testEmpty
+STON-Tests.STONWriteReadTests>>#testFloats
+STON-Tests.STONWriteReadTests>>#testJsonMode
+STON-Tests.STONWriteReadTests>>#testOrderedDictionary
+STON-Tests.STONWriteReadTests>>#testPrimitives
+STON-Tests.STONWriteReadTests>>#testSmallDictionary
+STON-Tests.STONWriteReadTests>>#testSmallIntegers
+STON-Tests.STONWriteReadTests>>#testStrings
+STON-Tests.STONWriteReadTests>>#testSymbols
+STON-Tests.STONWriteReadTests>>#testTextAndRunArray
+STON-Tests.STONWriteReadTests>>#testUser
+STON-Tests.STONWriteReadTests>>#testUser2
+STON-Tests.STONWriterTests
+STON-Tests.STONWriterTests>>#serialize:
+STON-Tests.STONWriterTests>>#serializeJson:
+STON-Tests.STONWriterTests>>#serializePretty:
+STON-Tests.STONWriterTests>>#testAssociation
+STON-Tests.STONWriterTests>>#testBoolean
+STON-Tests.STONWriterTests>>#testByteArray
+STON-Tests.STONWriterTests>>#testCustomNewline
+STON-Tests.STONWriterTests>>#testDate
+STON-Tests.STONWriterTests>>#testDateAndTime
+STON-Tests.STONWriterTests>>#testDictionary
+STON-Tests.STONWriterTests>>#testDictionaryWithComplexKeys
+STON-Tests.STONWriterTests>>#testDoubleQuotedString
+STON-Tests.STONWriterTests>>#testEmptyArrayPretty
+STON-Tests.STONWriterTests>>#testEmptyDictionaryPretty
+STON-Tests.STONWriterTests>>#testFloat
+STON-Tests.STONWriterTests>>#testIdentityDictionary
+STON-Tests.STONWriterTests>>#testInteger
+STON-Tests.STONWriterTests>>#testIsSimpleSymbol
+STON-Tests.STONWriterTests>>#testKeepingNewLines
+STON-Tests.STONWriterTests>>#testList
+STON-Tests.STONWriterTests>>#testMap
+STON-Tests.STONWriterTests>>#testNil
+STON-Tests.STONWriterTests>>#testNull
+STON-Tests.STONWriterTests>>#testOrderedCollection
+STON-Tests.STONWriterTests>>#testPoint
+STON-Tests.STONWriterTests>>#testReferenceCycle
+STON-Tests.STONWriterTests>>#testReferenceSharing
+STON-Tests.STONWriterTests>>#testReferenceSharingError
+STON-Tests.STONWriterTests>>#testReferenceSharingIgnore
+STON-Tests.STONWriterTests>>#testRestrictedClassesInJsonMode
+STON-Tests.STONWriterTests>>#testString
+STON-Tests.STONWriterTests>>#testSymbol
+STON-Tests.STONWriterTests>>#testSymbolAsString
+STON-Tests.STONWriterTests>>#testTime
+STON-Tests.STONWriterTests>>#testUser
+STON-Tests.STONWriterTests>>#testUser2
+STON-Tests.STONWriterTests>>#testUser3Nil
+STON-Tests.STONWriterTests>>#testUserNil
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50071
+ScriptLoader50.ScriptLoader>>#update50072
+System-Support.SmalltalkImage>>#imageName
+System-Support.SmalltalkImage>>#imageName:
+System-Support.SmalltalkImage>>#imagePath

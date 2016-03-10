@@ -1,6 +1,6 @@
-MCFileTreeRepository class>>#urlAsFileReference:
-MCFileTreeRepository>>#versionInfoFromVersionNamed:
-MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrlWithRelativePath
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50492
-ScriptLoader>>#update50493
+Metacello-MC.MCFileTreeRepository>>#versionInfoFromVersionNamed:
+Monticello-Tests.MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrlWithRelativePath
+MonticelloFileTree-Core.MCFileTreeRepository class>>#urlAsFileReference:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50492
+ScriptLoader50.ScriptLoader>>#update50493

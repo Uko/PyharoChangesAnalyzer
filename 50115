@@ -1,255 +1,255 @@
-AJInstruction>>#insert:
-ChangeSet>>#fileOutClassDefinition:on:
-Class>>#fileOutOn:initializing:
-ClassOrganization>>#fileOutCommentOn:
-ClassOrganization>>#putCommentOnFile:numbered:moveSource:forClass:
-CriticBrowser
-CriticBrowser class>>#criticsBrowserMenuOn:
-CriticBrowser class>>#defaultSpec
-CriticBrowser class>>#icon
-CriticBrowser class>>#open
-CriticBrowser class>>#openOnCurrentWorkingConfiguration
-CriticBrowser class>>#openOnRule:onEnvironment:
-CriticBrowser class>>#openOnWorkingConfiguration:
-CriticBrowser class>>#packagesMenu:
-CriticBrowser class>>#theme
-CriticBrowser>>#addModelItemsToWindowMenu:
-CriticBrowser>>#addRuleToFalsePositive
-CriticBrowser>>#applyRules
-CriticBrowser>>#browseRule
-CriticBrowser>>#classModified:
-CriticBrowser>>#colorForRule:
-CriticBrowser>>#criticModel
-CriticBrowser>>#environment
-CriticBrowser>>#environment:
-CriticBrowser>>#initialExtent
-CriticBrowser>>#initialize
-CriticBrowser>>#initializePresenter
-CriticBrowser>>#initializeWidgets
-CriticBrowser>>#logButton
-CriticBrowser>>#logInManifest
-CriticBrowser>>#menu:shifted:
-CriticBrowser>>#methodAdded:
-CriticBrowser>>#methodModified:
-CriticBrowser>>#methodRemoved:
-CriticBrowser>>#onWindowClosed
-CriticBrowser>>#open
-CriticBrowser>>#reapplyAllRules
-CriticBrowser>>#reapplyRule:
-CriticBrowser>>#reapplyThisRule
-CriticBrowser>>#registerToAnnouncements
-CriticBrowser>>#removeRuleToFalsePositive
-CriticBrowser>>#removeTestCase:
-CriticBrowser>>#resetButton
-CriticBrowser>>#rules:
-CriticBrowser>>#rulesModel
-CriticBrowser>>#setActionLogButtom
-CriticBrowser>>#setActionResetButtom
-CriticBrowser>>#setLogButton
-CriticBrowser>>#setResetButton
-CriticBrowser>>#setTitle:
-CriticBrowser>>#stringMorphForRule:
-CriticBrowser>>#taskbarIcon
-CriticBrowser>>#title
-CriticBrowser>>#updateTree
-CriticToolbar
-CriticToolbar class>>#defaultSpec
-CriticToolbar>>#browseCritic
-CriticToolbar>>#browseModel
-CriticToolbar>>#critic:
-CriticToolbar>>#falsepositiveModel
-CriticToolbar>>#initialize
-CriticToolbar>>#initializeWidgets
-CriticToolbar>>#registerForChanges
-CriticToolbar>>#rule:
-CriticToolbar>>#setBrowseModel
-CriticToolbar>>#setFalsepositiveModel
-CriticToolbar>>#setFocusOrder
-CriticToolbar>>#setTransformModel
-CriticToolbar>>#transformCritic
-CriticToolbar>>#transformModel
-CriticToolbar>>#whenFalsePositiveClickedDo:
-CriticWorkingConfiguration
-CriticWorkingConfiguration class>>#current
-CriticWorkingConfiguration class>>#exists
-CriticWorkingConfiguration class>>#new
-CriticWorkingConfiguration class>>#reset
-CriticWorkingConfiguration>>#environment
-CriticWorkingConfiguration>>#environment:
-CriticWorkingConfiguration>>#logInManifest
-CriticWorkingConfiguration>>#logInManifest:
-CriticWorkingConfiguration>>#removeTestCase
-CriticWorkingConfiguration>>#removeTestCase:
-CriticWorkingConfiguration>>#rule
-CriticWorkingConfiguration>>#rule:
-CriticsCache
-CriticsCache>>#addAllCriticToFalsePositive:forRule:on:
-CriticsCache>>#addAllCriticToToDo:forRule:on:
-CriticsCache>>#addCritic:forRule:
-CriticsCache>>#addFalsePositive:forRule:
-CriticsCache>>#addFalsePositiveClass:
-CriticsCache>>#addFalsePositiveRule:forPackage:
-CriticsCache>>#addToDo:forRule:
-CriticsCache>>#browser:
-CriticsCache>>#builderManifestClass
-CriticsCache>>#cacheChange
-CriticsCache>>#cacheChanged
-CriticsCache>>#cacheNotChanged
-CriticsCache>>#checker:
-CriticsCache>>#criticsOf:
-CriticsCache>>#falsePositiveOf:
-CriticsCache>>#initCache
-CriticsCache>>#initialize
-CriticsCache>>#isFalsePositive:forRule:
-CriticsCache>>#isToDo:forRule:
-CriticsCache>>#itemRemoved:
-CriticsCache>>#logFalsePositiveClassInManifest
-CriticsCache>>#logFalsePositiveInManifest
-CriticsCache>>#logFalsePositiveRulesInManifest
-CriticsCache>>#logInManifest
-CriticsCache>>#logToDosInManifest
-CriticsCache>>#packageOf:
-CriticsCache>>#packages:
-CriticsCache>>#removeAllCriticToFalsePositive:forRule:on:
-CriticsCache>>#removeAllCriticToToDo:forRule:on:
-CriticsCache>>#removeCritic:forRule:
-CriticsCache>>#removeFalsePositive:forRule:
-CriticsCache>>#removeFalsePositiveClass:
-CriticsCache>>#removeFalsePositiveRule:forPackage:
-CriticsCache>>#removeToDo:forRule:
-CriticsCache>>#replaceAll:by:
-CriticsCache>>#toDosOf:
-CriticsCache>>#updateBrowser
-FileList>>#readOnlyStream
-MCCodeTool>>#fileOutMessage
-Metaclass>>#fileOutOn:
-Metaclass>>#fileOutOn:initializing:
-MetaclassTest>>#testMetaclassAndTraitClassRespectsPolymorphismRules
-MorphicWindowAdapter>>#title
-RBMultiEnvironment>>#isMultiEnvironment
-RBMultiEnvironment>>#removeClass:
-RBMultiEnvironment>>#smallLintCritics
-ResetWindow
-ResetWindow class>>#defaultSpec
-ResetWindow class>>#title
-ResetWindow>>#currentConfigurationModel
-ResetWindow>>#initialExtent
-ResetWindow>>#initializeWidgets
-ResetWindow>>#resetModel
-ResetWindow>>#setCurrentConfigurationModel
-ResetWindow>>#setFocusOrder
-ResetWindow>>#setResetModel
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50114
-ScriptLoader>>#update50115
-SelectBrowser
-SelectBrowser class>>#defaultSpec
-SelectBrowser>>#addAllButtonModel
-SelectBrowser>>#addButtonModel
-SelectBrowser>>#initialExtent
-SelectBrowser>>#initializeWidgets
-SelectBrowser>>#items:
-SelectBrowser>>#nextAction
-SelectBrowser>>#nextButtonModel
-SelectBrowser>>#removeAllButtonModel
-SelectBrowser>>#removeButtonModel
-SelectBrowser>>#selectedModel
-SelectBrowser>>#setAddAllButtonModel
-SelectBrowser>>#setAddButtonModel
-SelectBrowser>>#setFocusOrder
-SelectBrowser>>#setNextButtonModel
-SelectBrowser>>#setRemoveAllButtonModel
-SelectBrowser>>#setRemoveButtonModel
-SelectBrowser>>#toSelectModel
-SelectPackageBrowser
-SelectPackageBrowser class>>#defaultSpec
-SelectPackageBrowser class>>#open
-SelectPackageBrowser class>>#title
-SelectPackageBrowser>>#addAllItems
-SelectPackageBrowser>>#addItems
-SelectPackageBrowser>>#addTestCaseClasses
-SelectPackageBrowser>>#initialize
-SelectPackageBrowser>>#initializeWidgets
-SelectPackageBrowser>>#nextAction
-SelectPackageBrowser>>#removeAllItems
-SelectPackageBrowser>>#removeItems
-SelectPackageBrowser>>#removeTestPackage
-SelectPackageBrowser>>#removeTestPackageModel
-SelectPackageBrowser>>#setRemoveTestPackageModel
-SelectPackageBrowser>>#sort:
-SelectRuleBrowser
-SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
-SelectRuleBrowser class>>#title
-SelectRuleBrowser>>#addAllItems
-SelectRuleBrowser>>#addItems
-SelectRuleBrowser>>#defaultRulesRootName
-SelectRuleBrowser>>#environment:
-SelectRuleBrowser>>#initialize
-SelectRuleBrowser>>#items:
-SelectRuleBrowser>>#nextAction
-SelectRuleBrowser>>#removeAllItems
-SelectRuleBrowser>>#removeItems
-SelectRuleBrowser>>#removeTestCase:
-SelectRuleBrowser>>#updateTree
-SingleCodeCriticResultList
-SingleCodeCriticResultList class>>#defaultSpec
-SingleCodeCriticResultList class>>#exclamationIcon
-SingleCodeCriticResultList class>>#exclamationIconContents
-SingleCodeCriticResultList class>>#initialize
-SingleCodeCriticResultList class>>#title
-SingleCodeCriticResultList class>>#wrenchOrangeIcon
-SingleCodeCriticResultList class>>#wrenchOrangeIconContents
-SingleCodeCriticResultList>>#addCriticToFalsePositive
-SingleCodeCriticResultList>>#addCriticToToDo
-SingleCodeCriticResultList>>#addMarkingMenuItemsTo:
-SingleCodeCriticResultList>>#addNavigationMenuItemsTo:
-SingleCodeCriticResultList>>#addRuleToFalsePositive
-SingleCodeCriticResultList>>#browseCritic
-SingleCodeCriticResultList>>#cache:
-SingleCodeCriticResultList>>#criticsModel
-SingleCodeCriticResultList>>#criticsModelContains:
-SingleCodeCriticResultList>>#criticsOf:
-SingleCodeCriticResultList>>#defaultColor
-SingleCodeCriticResultList>>#falsePositiveColor
-SingleCodeCriticResultList>>#formatCritic:
-SingleCodeCriticResultList>>#iconFor:
-SingleCodeCriticResultList>>#implementorsOfCritic
-SingleCodeCriticResultList>>#initialize
-SingleCodeCriticResultList>>#initializeActionToPerformOnTextModel
-SingleCodeCriticResultList>>#initializeDisplayCritic:forRule:
-SingleCodeCriticResultList>>#initializePresenter
-SingleCodeCriticResultList>>#initializeShortcuts
-SingleCodeCriticResultList>>#initializeTextInputFieldModel
-SingleCodeCriticResultList>>#initializeToolBar
-SingleCodeCriticResultList>>#initializeWidgets
-SingleCodeCriticResultList>>#menu:shifted:
-SingleCodeCriticResultList>>#removeCriticToFalsePositive
-SingleCodeCriticResultList>>#removeCriticToToDo
-SingleCodeCriticResultList>>#removeRuleToFalsePositive
-SingleCodeCriticResultList>>#resetSelection
-SingleCodeCriticResultList>>#rule
-SingleCodeCriticResultList>>#rule:
-SingleCodeCriticResultList>>#selectionIntervalFor:
-SingleCodeCriticResultList>>#sendersOfCritic
-SingleCodeCriticResultList>>#setTextModelForClassOrMethod:
-SingleCodeCriticResultList>>#setTextModelForNil
-SingleCodeCriticResultList>>#setTextModelForTransformationRule:
-SingleCodeCriticResultList>>#textInputFieldModel
-SingleCodeCriticResultList>>#textModel
-SingleCodeCriticResultList>>#toDoColor
-SingleCodeCriticResultList>>#toolbarModel
-SingleCodeCriticResultList>>#transformCritic
-SingleCodeCriticResultList>>#updateList
-SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel
-SystemOrganizer>>#fileOutCategory:on:initializing:
-TClass>>#fileOut
-TClass>>#fileOutOn:
-TClass>>#fileOutOn:initializing:
-TClassDescription>>#fileOutCategory:
-TClassDescription>>#fileOutCategory:on:moveSource:toFile:
-TClassDescription>>#fileOutChangedMessages:on:
-TClassDescription>>#fileOutMethod:on:
-TClassDescription>>#fileOutOn:
-TClassDescription>>#printMethodChunk:on:
-TaskListMorph>>#newPreviewMorph
-Trait>>#fileOutOn:initializing:
+AsmJit-Instructions.AJInstruction>>#insert:
+Kernel.Class>>#fileOutOn:initializing:
+Kernel.ClassOrganization>>#fileOutCommentOn:
+Kernel.ClassOrganization>>#putCommentOnFile:numbered:moveSource:forClass:
+Kernel.Metaclass>>#fileOutOn:
+Kernel.Metaclass>>#fileOutOn:initializing:
+KernelTests.MetaclassTest>>#testMetaclassAndTraitClassRespectsPolymorphismRules
+Manifest-CriticBrowser.CriticBrowser
+Manifest-CriticBrowser.CriticBrowser class>>#criticsBrowserMenuOn:
+Manifest-CriticBrowser.CriticBrowser class>>#defaultSpec
+Manifest-CriticBrowser.CriticBrowser class>>#icon
+Manifest-CriticBrowser.CriticBrowser class>>#open
+Manifest-CriticBrowser.CriticBrowser class>>#openOnCurrentWorkingConfiguration
+Manifest-CriticBrowser.CriticBrowser class>>#openOnRule:onEnvironment:
+Manifest-CriticBrowser.CriticBrowser class>>#openOnWorkingConfiguration:
+Manifest-CriticBrowser.CriticBrowser class>>#packagesMenu:
+Manifest-CriticBrowser.CriticBrowser class>>#theme
+Manifest-CriticBrowser.CriticBrowser>>#addModelItemsToWindowMenu:
+Manifest-CriticBrowser.CriticBrowser>>#addRuleToFalsePositive
+Manifest-CriticBrowser.CriticBrowser>>#applyRules
+Manifest-CriticBrowser.CriticBrowser>>#browseRule
+Manifest-CriticBrowser.CriticBrowser>>#classModified:
+Manifest-CriticBrowser.CriticBrowser>>#colorForRule:
+Manifest-CriticBrowser.CriticBrowser>>#criticModel
+Manifest-CriticBrowser.CriticBrowser>>#environment
+Manifest-CriticBrowser.CriticBrowser>>#environment:
+Manifest-CriticBrowser.CriticBrowser>>#initialExtent
+Manifest-CriticBrowser.CriticBrowser>>#initialize
+Manifest-CriticBrowser.CriticBrowser>>#initializePresenter
+Manifest-CriticBrowser.CriticBrowser>>#initializeWidgets
+Manifest-CriticBrowser.CriticBrowser>>#logButton
+Manifest-CriticBrowser.CriticBrowser>>#logInManifest
+Manifest-CriticBrowser.CriticBrowser>>#menu:shifted:
+Manifest-CriticBrowser.CriticBrowser>>#methodAdded:
+Manifest-CriticBrowser.CriticBrowser>>#methodModified:
+Manifest-CriticBrowser.CriticBrowser>>#methodRemoved:
+Manifest-CriticBrowser.CriticBrowser>>#onWindowClosed
+Manifest-CriticBrowser.CriticBrowser>>#open
+Manifest-CriticBrowser.CriticBrowser>>#reapplyAllRules
+Manifest-CriticBrowser.CriticBrowser>>#reapplyRule:
+Manifest-CriticBrowser.CriticBrowser>>#reapplyThisRule
+Manifest-CriticBrowser.CriticBrowser>>#registerToAnnouncements
+Manifest-CriticBrowser.CriticBrowser>>#removeRuleToFalsePositive
+Manifest-CriticBrowser.CriticBrowser>>#removeTestCase:
+Manifest-CriticBrowser.CriticBrowser>>#resetButton
+Manifest-CriticBrowser.CriticBrowser>>#rules:
+Manifest-CriticBrowser.CriticBrowser>>#rulesModel
+Manifest-CriticBrowser.CriticBrowser>>#setActionLogButtom
+Manifest-CriticBrowser.CriticBrowser>>#setActionResetButtom
+Manifest-CriticBrowser.CriticBrowser>>#setLogButton
+Manifest-CriticBrowser.CriticBrowser>>#setResetButton
+Manifest-CriticBrowser.CriticBrowser>>#setTitle:
+Manifest-CriticBrowser.CriticBrowser>>#stringMorphForRule:
+Manifest-CriticBrowser.CriticBrowser>>#taskbarIcon
+Manifest-CriticBrowser.CriticBrowser>>#title
+Manifest-CriticBrowser.CriticBrowser>>#updateTree
+Manifest-CriticBrowser.CriticToolbar
+Manifest-CriticBrowser.CriticToolbar class>>#defaultSpec
+Manifest-CriticBrowser.CriticToolbar>>#browseCritic
+Manifest-CriticBrowser.CriticToolbar>>#browseModel
+Manifest-CriticBrowser.CriticToolbar>>#critic:
+Manifest-CriticBrowser.CriticToolbar>>#falsepositiveModel
+Manifest-CriticBrowser.CriticToolbar>>#initialize
+Manifest-CriticBrowser.CriticToolbar>>#initializeWidgets
+Manifest-CriticBrowser.CriticToolbar>>#registerForChanges
+Manifest-CriticBrowser.CriticToolbar>>#rule:
+Manifest-CriticBrowser.CriticToolbar>>#setBrowseModel
+Manifest-CriticBrowser.CriticToolbar>>#setFalsepositiveModel
+Manifest-CriticBrowser.CriticToolbar>>#setFocusOrder
+Manifest-CriticBrowser.CriticToolbar>>#setTransformModel
+Manifest-CriticBrowser.CriticToolbar>>#transformCritic
+Manifest-CriticBrowser.CriticToolbar>>#transformModel
+Manifest-CriticBrowser.CriticToolbar>>#whenFalsePositiveClickedDo:
+Manifest-CriticBrowser.CriticWorkingConfiguration
+Manifest-CriticBrowser.CriticWorkingConfiguration class>>#current
+Manifest-CriticBrowser.CriticWorkingConfiguration class>>#exists
+Manifest-CriticBrowser.CriticWorkingConfiguration class>>#new
+Manifest-CriticBrowser.CriticWorkingConfiguration class>>#reset
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#environment
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#environment:
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#logInManifest
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#logInManifest:
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#removeTestCase
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#removeTestCase:
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#rule
+Manifest-CriticBrowser.CriticWorkingConfiguration>>#rule:
+Manifest-CriticBrowser.CriticsCache
+Manifest-CriticBrowser.CriticsCache>>#addAllCriticToFalsePositive:forRule:on:
+Manifest-CriticBrowser.CriticsCache>>#addAllCriticToToDo:forRule:on:
+Manifest-CriticBrowser.CriticsCache>>#addCritic:forRule:
+Manifest-CriticBrowser.CriticsCache>>#addFalsePositive:forRule:
+Manifest-CriticBrowser.CriticsCache>>#addFalsePositiveClass:
+Manifest-CriticBrowser.CriticsCache>>#addFalsePositiveRule:forPackage:
+Manifest-CriticBrowser.CriticsCache>>#addToDo:forRule:
+Manifest-CriticBrowser.CriticsCache>>#browser:
+Manifest-CriticBrowser.CriticsCache>>#builderManifestClass
+Manifest-CriticBrowser.CriticsCache>>#cacheChange
+Manifest-CriticBrowser.CriticsCache>>#cacheChanged
+Manifest-CriticBrowser.CriticsCache>>#cacheNotChanged
+Manifest-CriticBrowser.CriticsCache>>#checker:
+Manifest-CriticBrowser.CriticsCache>>#criticsOf:
+Manifest-CriticBrowser.CriticsCache>>#falsePositiveOf:
+Manifest-CriticBrowser.CriticsCache>>#initCache
+Manifest-CriticBrowser.CriticsCache>>#initialize
+Manifest-CriticBrowser.CriticsCache>>#isFalsePositive:forRule:
+Manifest-CriticBrowser.CriticsCache>>#isToDo:forRule:
+Manifest-CriticBrowser.CriticsCache>>#itemRemoved:
+Manifest-CriticBrowser.CriticsCache>>#logFalsePositiveClassInManifest
+Manifest-CriticBrowser.CriticsCache>>#logFalsePositiveInManifest
+Manifest-CriticBrowser.CriticsCache>>#logFalsePositiveRulesInManifest
+Manifest-CriticBrowser.CriticsCache>>#logInManifest
+Manifest-CriticBrowser.CriticsCache>>#logToDosInManifest
+Manifest-CriticBrowser.CriticsCache>>#packageOf:
+Manifest-CriticBrowser.CriticsCache>>#packages:
+Manifest-CriticBrowser.CriticsCache>>#removeAllCriticToFalsePositive:forRule:on:
+Manifest-CriticBrowser.CriticsCache>>#removeAllCriticToToDo:forRule:on:
+Manifest-CriticBrowser.CriticsCache>>#removeCritic:forRule:
+Manifest-CriticBrowser.CriticsCache>>#removeFalsePositive:forRule:
+Manifest-CriticBrowser.CriticsCache>>#removeFalsePositiveClass:
+Manifest-CriticBrowser.CriticsCache>>#removeFalsePositiveRule:forPackage:
+Manifest-CriticBrowser.CriticsCache>>#removeToDo:forRule:
+Manifest-CriticBrowser.CriticsCache>>#replaceAll:by:
+Manifest-CriticBrowser.CriticsCache>>#toDosOf:
+Manifest-CriticBrowser.CriticsCache>>#updateBrowser
+Manifest-CriticBrowser.RBMultiEnvironment>>#isMultiEnvironment
+Manifest-CriticBrowser.RBMultiEnvironment>>#removeClass:
+Manifest-CriticBrowser.RBMultiEnvironment>>#smallLintCritics
+Manifest-CriticBrowser.ResetWindow
+Manifest-CriticBrowser.ResetWindow class>>#defaultSpec
+Manifest-CriticBrowser.ResetWindow class>>#title
+Manifest-CriticBrowser.ResetWindow>>#currentConfigurationModel
+Manifest-CriticBrowser.ResetWindow>>#initialExtent
+Manifest-CriticBrowser.ResetWindow>>#initializeWidgets
+Manifest-CriticBrowser.ResetWindow>>#resetModel
+Manifest-CriticBrowser.ResetWindow>>#setCurrentConfigurationModel
+Manifest-CriticBrowser.ResetWindow>>#setFocusOrder
+Manifest-CriticBrowser.ResetWindow>>#setResetModel
+Manifest-CriticBrowser.SelectBrowser
+Manifest-CriticBrowser.SelectBrowser class>>#defaultSpec
+Manifest-CriticBrowser.SelectBrowser>>#addAllButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#addButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#initialExtent
+Manifest-CriticBrowser.SelectBrowser>>#initializeWidgets
+Manifest-CriticBrowser.SelectBrowser>>#items:
+Manifest-CriticBrowser.SelectBrowser>>#nextAction
+Manifest-CriticBrowser.SelectBrowser>>#nextButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#removeAllButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#removeButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#selectedModel
+Manifest-CriticBrowser.SelectBrowser>>#setAddAllButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#setAddButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#setFocusOrder
+Manifest-CriticBrowser.SelectBrowser>>#setNextButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#setRemoveAllButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#setRemoveButtonModel
+Manifest-CriticBrowser.SelectBrowser>>#toSelectModel
+Manifest-CriticBrowser.SelectPackageBrowser
+Manifest-CriticBrowser.SelectPackageBrowser class>>#defaultSpec
+Manifest-CriticBrowser.SelectPackageBrowser class>>#open
+Manifest-CriticBrowser.SelectPackageBrowser class>>#title
+Manifest-CriticBrowser.SelectPackageBrowser>>#addAllItems
+Manifest-CriticBrowser.SelectPackageBrowser>>#addItems
+Manifest-CriticBrowser.SelectPackageBrowser>>#addTestCaseClasses
+Manifest-CriticBrowser.SelectPackageBrowser>>#initialize
+Manifest-CriticBrowser.SelectPackageBrowser>>#initializeWidgets
+Manifest-CriticBrowser.SelectPackageBrowser>>#nextAction
+Manifest-CriticBrowser.SelectPackageBrowser>>#removeAllItems
+Manifest-CriticBrowser.SelectPackageBrowser>>#removeItems
+Manifest-CriticBrowser.SelectPackageBrowser>>#removeTestPackage
+Manifest-CriticBrowser.SelectPackageBrowser>>#removeTestPackageModel
+Manifest-CriticBrowser.SelectPackageBrowser>>#setRemoveTestPackageModel
+Manifest-CriticBrowser.SelectPackageBrowser>>#sort:
+Manifest-CriticBrowser.SelectRuleBrowser
+Manifest-CriticBrowser.SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
+Manifest-CriticBrowser.SelectRuleBrowser class>>#title
+Manifest-CriticBrowser.SelectRuleBrowser>>#addAllItems
+Manifest-CriticBrowser.SelectRuleBrowser>>#addItems
+Manifest-CriticBrowser.SelectRuleBrowser>>#defaultRulesRootName
+Manifest-CriticBrowser.SelectRuleBrowser>>#environment:
+Manifest-CriticBrowser.SelectRuleBrowser>>#initialize
+Manifest-CriticBrowser.SelectRuleBrowser>>#items:
+Manifest-CriticBrowser.SelectRuleBrowser>>#nextAction
+Manifest-CriticBrowser.SelectRuleBrowser>>#removeAllItems
+Manifest-CriticBrowser.SelectRuleBrowser>>#removeItems
+Manifest-CriticBrowser.SelectRuleBrowser>>#removeTestCase:
+Manifest-CriticBrowser.SelectRuleBrowser>>#updateTree
+Manifest-CriticBrowser.SingleCodeCriticResultList
+Manifest-CriticBrowser.SingleCodeCriticResultList class>>#defaultSpec
+Manifest-CriticBrowser.SingleCodeCriticResultList class>>#exclamationIcon
+Manifest-CriticBrowser.SingleCodeCriticResultList class>>#exclamationIconContents
+Manifest-CriticBrowser.SingleCodeCriticResultList class>>#initialize
+Manifest-CriticBrowser.SingleCodeCriticResultList class>>#title
+Manifest-CriticBrowser.SingleCodeCriticResultList class>>#wrenchOrangeIcon
+Manifest-CriticBrowser.SingleCodeCriticResultList class>>#wrenchOrangeIconContents
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#addCriticToFalsePositive
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#addCriticToToDo
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#addMarkingMenuItemsTo:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#addNavigationMenuItemsTo:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#addRuleToFalsePositive
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#browseCritic
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#cache:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#criticsModel
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#criticsModelContains:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#criticsOf:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#defaultColor
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#falsePositiveColor
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#formatCritic:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#iconFor:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#implementorsOfCritic
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initialize
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initializeActionToPerformOnTextModel
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initializeDisplayCritic:forRule:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initializePresenter
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initializeShortcuts
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initializeTextInputFieldModel
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initializeToolBar
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#initializeWidgets
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#menu:shifted:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#removeCriticToFalsePositive
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#removeCriticToToDo
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#removeRuleToFalsePositive
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#resetSelection
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#rule
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#rule:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#selectionIntervalFor:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#sendersOfCritic
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#setTextModelForClassOrMethod:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#setTextModelForNil
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#setTextModelForTransformationRule:
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#textInputFieldModel
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#textModel
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#toDoColor
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#toolbarModel
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#transformCritic
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#updateList
+Manifest-CriticBrowser.SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel
+MonticelloGUI.MCCodeTool>>#fileOutMessage
+Morphic-Widgets-Taskbar.TaskListMorph>>#newPreviewMorph
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50114
+ScriptLoader50.ScriptLoader>>#update50115
+Spec-MorphicAdapters.MorphicWindowAdapter>>#title
+System-Changes.ChangeSet>>#fileOutClassDefinition:on:
+System-Support.SystemOrganizer>>#fileOutCategory:on:initializing:
+Tool-FileList.FileList>>#readOnlyStream
+Traits.TClass>>#fileOut
+Traits.TClass>>#fileOutOn:
+Traits.TClass>>#fileOutOn:initializing:
+Traits.TClassDescription>>#fileOutCategory:
+Traits.TClassDescription>>#fileOutCategory:on:moveSource:toFile:
+Traits.TClassDescription>>#fileOutChangedMessages:on:
+Traits.TClassDescription>>#fileOutMethod:on:
+Traits.TClassDescription>>#fileOutOn:
+Traits.TClassDescription>>#printMethodChunk:on:
+Traits.Trait>>#fileOutOn:initializing:

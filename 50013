@@ -1,7 +1,7 @@
-SHRBTextStyler>>#addStyle:attribute:from:to:
-SHRBTextStyler>>#visitMessageNode:
-SHRBTextStyler>>#visitMethodNode:
-SHRBTextStyler>>#visitPragmaNode:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script621
-ScriptLoader>>#update50013
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script621
+ScriptLoader50.ScriptLoader>>#update50013
+Shout.SHRBTextStyler>>#addStyle:attribute:from:to:
+Shout.SHRBTextStyler>>#visitMessageNode:
+Shout.SHRBTextStyler>>#visitMethodNode:
+Shout.SHRBTextStyler>>#visitPragmaNode:

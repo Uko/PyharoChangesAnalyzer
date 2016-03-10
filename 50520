@@ -1,12 +1,12 @@
-LayoutFrame class>>#fractions:
-LayoutFrame class>>#fractions:offsets:
-LayoutFrame class>>#offsets:
-LayoutFrame>>#=
-LayoutFrame>>#bottomFraction
-LayoutFrame>>#hash
-LayoutFrameTest>>#testIdentity
-PaginatedMorphTreeModel class>>#example
-PaginatedMorphTreeMorphTests>>#testPager
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50519
-ScriptLoader>>#update50520
+Morphic-Base.LayoutFrame class>>#fractions:
+Morphic-Base.LayoutFrame class>>#fractions:offsets:
+Morphic-Base.LayoutFrame class>>#offsets:
+Morphic-Base.LayoutFrame>>#=
+Morphic-Base.LayoutFrame>>#bottomFraction
+Morphic-Base.LayoutFrame>>#hash
+Morphic-Tests.LayoutFrameTest>>#testIdentity
+Morphic-Tests.PaginatedMorphTreeMorphTests>>#testPager
+Morphic-Widgets-Tree.PaginatedMorphTreeModel class>>#example
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50519
+ScriptLoader50.ScriptLoader>>#update50520

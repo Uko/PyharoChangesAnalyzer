@@ -1,0 +1,14 @@
+HudsonBuildTools20.HDTestReport>>#runCase:
+HudsonBuildTools20.HDTestReport>>#writeError:andStack:for:
+MonticelloGUI.MCTool>>#textMorph:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50596
+ScriptLoader50.ScriptLoader>>#update50597
+SmartSuggestions.DiffMorph>>#sugsContext
+SmartSuggestions.MCTool>>#sugsContext
+SmartSuggestions.SugsDiffModelContext
+SmartSuggestions.SugsDiffModelContext>>#selectedInterval
+SmartSuggestions.SugsDiffModelContext>>#selectedMethod
+SmartSuggestions.SugsMonticelloToolContext
+SmartSuggestions.SugsMonticelloToolContext>>#selectedMethod
+SmartSuggestions.SugsMonticelloToolContext>>#sourceTextArea

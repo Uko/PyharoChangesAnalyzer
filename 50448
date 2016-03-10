@@ -1,141 +1,141 @@
-ConfigurationOfFastTable>>#stable:
-ConfigurationOfFastTable>>#version080:
-FTAllItemsStrategy
-FTAllItemsStrategy>>#filter
-FTAllItemsStrategy>>#initializeNewSearch
-FTAllItemsStrategy>>#matchingFilter:
-FTAllItemsStrategy>>#newStaticItemFrom:
-FTAllItemsStrategy>>#optionalOperations
-FTAllItemsStrategy>>#realSearch
-FTAllItemsStrategy>>#searchIn:
-FTAllItemsStrategy>>#unexpandAllChildOf:
-FTBasicItem
-FTBasicItem>>#children
-FTBasicItem>>#data:
-FTBasicItem>>#expand
-FTBasicItem>>#expandAll
-FTBasicItem>>#expandAllTo:
-FTBasicItem>>#expandAndRefresh
-FTBasicItem>>#isRootItem
-FTBasicItem>>#unexpand
-FTBasicItem>>#unexpandAndRefresh
-FTBasicItem>>#updateData
-FTDataSource>>#readyToBeDisplayed
-FTDataSource>>#realElementAt:
-FTExamples class>>#exampleListWithExplicitFilter
-FTExamples class>>#exampleListWithExplicitFilterAndActionButton
-FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
-FTExamples class>>#exampleListWithExplicitSearch
-FTExamples class>>#exampleTree1
-FTExamples class>>#exampleTree2
-FTExamples class>>#exampleTreeWithAllItemsFilter
-FTExamples class>>#exampleTreeWithAllItemsSearch
-FTExamples class>>#exampleTreeWithRootFilter
-FTExamples class>>#exampleTreeWithRootSearch
-FTExamples class>>#exampleTreeWithVisibleItemsFilter
-FTExamples class>>#exampleTreeWithVisibleItemsSearch
-FTExamples class>>#exampleexampleOneSubLevelTree
-FTFilterFunction>>#filter
-FTFilterFunctionWithAction>>#execute
-FTRootItem
-FTRootItem>>#children
-FTRootItem>>#children:
-FTRootItem>>#data:
-FTRootItem>>#dataSource:
-FTRootItem>>#expandAll
-FTRootItem>>#expandAllTo:
-FTRootItem>>#isExpanded
-FTRootItem>>#updateData
-FTRootItemsStrategy
-FTRootItemsStrategy>>#filter
-FTRootItemsStrategy>>#realSearch
-FTSearchFunction>>#search
-FTSearchFunction>>#searchFor:
-FTStaticBasicItem
-FTStaticBasicItem>>#calculateChildren
-FTStaticBasicItem>>#children
-FTStaticBasicItem>>#children:
-FTStaticBasicItem>>#dataSource:
-FTStaticBasicItem>>#updateData
-FTTableContainerMorph>>#drawOn:
-FTTableMorph>>#isVerticalScrollBarVisible
-FTTableMorph>>#keyStrokeArrowDown:
-FTTableMorph>>#keyStrokeArrowUp:
-FTTableMorph>>#recalculateVerticalScrollBarVisibilityIfHidden:
-FTTableMorph>>#resizeVerticalScrollBar
-FTTableMorph>>#rowIndexToVerticalScrollBarValue:
-FTTableMorph>>#selectRowIndex:event:
-FTTableMorph>>#showMenuForRowIndex:columnIndex:
-FTTableMorph>>#themeChanged
-FTTableMorph>>#verticalScrollBarValue:
-FTTreeDataSource
-FTTreeDataSource class>>#defaultSearchStrategies
-FTTreeDataSource class>>#initialize
-FTTreeDataSource class>>#root:children:
-FTTreeDataSource class>>#rootItemFor:
-FTTreeDataSource class>>#roots:children:
-FTTreeDataSource class>>#searchStrategies
-FTTreeDataSource class>>#searchStrategies:
-FTTreeDataSource>>#addSourceToRootItem
-FTTreeDataSource>>#buttonFor:
-FTTreeDataSource>>#canDisplayChildrenOf:
-FTTreeDataSource>>#cellColumn:row:
-FTTreeDataSource>>#elementAt:
-FTTreeDataSource>>#expandAll
-FTTreeDataSource>>#expandAllTo:
-FTTreeDataSource>>#expandRoots
-FTTreeDataSource>>#maxDepth
-FTTreeDataSource>>#newDataSourceMatching:
-FTTreeDataSource>>#numberOfRows
-FTTreeDataSource>>#realElementAt:
-FTTreeDataSource>>#rootItem
-FTTreeDataSource>>#rootItem:
-FTTreeDataSource>>#rootsItems
-FTTreeDataSource>>#searchStrategy
-FTTreeDataSource>>#searchStrategy:
-FTTreeDataSource>>#searchText:
-FTTreeDataSource>>#updateData
-FTTreeFunctionStrategy
-FTTreeFunctionStrategy class>>#filterWith:dataSource:
-FTTreeFunctionStrategy class>>#searchWith:dataSource:
-FTTreeFunctionStrategy>>#dataSource:
-FTTreeFunctionStrategy>>#filter
-FTTreeFunctionStrategy>>#isMatching:
-FTTreeFunctionStrategy>>#optionalOperations
-FTTreeFunctionStrategy>>#pattern:
-FTTreeFunctionStrategy>>#realSearch
-FTTreeFunctionStrategy>>#search
-FTTreeItem
-FTTreeItem class>>#data:from:
-FTTreeItem class>>#expandedForm
-FTTreeItem class>>#unexpandedForm
-FTTreeItem>>#asString
-FTTreeItem>>#calculateChildren
-FTTreeItem>>#children
-FTTreeItem>>#data
-FTTreeItem>>#data:
-FTTreeItem>>#depth
-FTTreeItem>>#depth:
-FTTreeItem>>#expandAll
-FTTreeItem>>#expandAllTo:
-FTTreeItem>>#expandedButton
-FTTreeItem>>#generateButton
-FTTreeItem>>#hasChildren
-FTTreeItem>>#initialize
-FTTreeItem>>#isExpanded
-FTTreeItem>>#numberOfChildren
-FTTreeItem>>#numberOfVisibleChildren
-FTTreeItem>>#printOn:
-FTTreeItem>>#refreshTable
-FTTreeItem>>#unexpandedButton
-FTTreeItem>>#updateData
-FTVisibleItemsStrategy
-FTVisibleItemsStrategy>>#filter
-FTVisibleItemsStrategy>>#matchingFilter:
-FTVisibleItemsStrategy>>#newStaticItemFrom:
-FTVisibleItemsStrategy>>#realSearch
-RBVariableNotDefinedRule>>#basicCheck:
-RBVariableNotDefinedRule>>#checkMethod:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50447
-ScriptLoader>>#update50448
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#version080:
+Morphic-Widgets-FastTable.FTAllItemsStrategy
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#filter
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#initializeNewSearch
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#matchingFilter:
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#newStaticItemFrom:
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#optionalOperations
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#realSearch
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#searchIn:
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#unexpandAllChildOf:
+Morphic-Widgets-FastTable.FTBasicItem
+Morphic-Widgets-FastTable.FTBasicItem>>#children
+Morphic-Widgets-FastTable.FTBasicItem>>#data:
+Morphic-Widgets-FastTable.FTBasicItem>>#expand
+Morphic-Widgets-FastTable.FTBasicItem>>#expandAll
+Morphic-Widgets-FastTable.FTBasicItem>>#expandAllTo:
+Morphic-Widgets-FastTable.FTBasicItem>>#expandAndRefresh
+Morphic-Widgets-FastTable.FTBasicItem>>#isRootItem
+Morphic-Widgets-FastTable.FTBasicItem>>#unexpand
+Morphic-Widgets-FastTable.FTBasicItem>>#unexpandAndRefresh
+Morphic-Widgets-FastTable.FTBasicItem>>#updateData
+Morphic-Widgets-FastTable.FTDataSource>>#readyToBeDisplayed
+Morphic-Widgets-FastTable.FTDataSource>>#realElementAt:
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitFilterAndActionButton
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitSearch
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTree1
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTree2
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithAllItemsFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithAllItemsSearch
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithRootFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithRootSearch
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithVisibleItemsFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithVisibleItemsSearch
+Morphic-Widgets-FastTable.FTExamples class>>#exampleexampleOneSubLevelTree
+Morphic-Widgets-FastTable.FTFilterFunction>>#filter
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#execute
+Morphic-Widgets-FastTable.FTRootItem
+Morphic-Widgets-FastTable.FTRootItem>>#children
+Morphic-Widgets-FastTable.FTRootItem>>#children:
+Morphic-Widgets-FastTable.FTRootItem>>#data:
+Morphic-Widgets-FastTable.FTRootItem>>#dataSource:
+Morphic-Widgets-FastTable.FTRootItem>>#expandAll
+Morphic-Widgets-FastTable.FTRootItem>>#expandAllTo:
+Morphic-Widgets-FastTable.FTRootItem>>#isExpanded
+Morphic-Widgets-FastTable.FTRootItem>>#updateData
+Morphic-Widgets-FastTable.FTRootItemsStrategy
+Morphic-Widgets-FastTable.FTRootItemsStrategy>>#filter
+Morphic-Widgets-FastTable.FTRootItemsStrategy>>#realSearch
+Morphic-Widgets-FastTable.FTSearchFunction>>#search
+Morphic-Widgets-FastTable.FTSearchFunction>>#searchFor:
+Morphic-Widgets-FastTable.FTStaticBasicItem
+Morphic-Widgets-FastTable.FTStaticBasicItem>>#calculateChildren
+Morphic-Widgets-FastTable.FTStaticBasicItem>>#children
+Morphic-Widgets-FastTable.FTStaticBasicItem>>#children:
+Morphic-Widgets-FastTable.FTStaticBasicItem>>#dataSource:
+Morphic-Widgets-FastTable.FTStaticBasicItem>>#updateData
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTTableMorph>>#isVerticalScrollBarVisible
+Morphic-Widgets-FastTable.FTTableMorph>>#keyStrokeArrowDown:
+Morphic-Widgets-FastTable.FTTableMorph>>#keyStrokeArrowUp:
+Morphic-Widgets-FastTable.FTTableMorph>>#recalculateVerticalScrollBarVisibilityIfHidden:
+Morphic-Widgets-FastTable.FTTableMorph>>#resizeVerticalScrollBar
+Morphic-Widgets-FastTable.FTTableMorph>>#rowIndexToVerticalScrollBarValue:
+Morphic-Widgets-FastTable.FTTableMorph>>#selectRowIndex:event:
+Morphic-Widgets-FastTable.FTTableMorph>>#showMenuForRowIndex:columnIndex:
+Morphic-Widgets-FastTable.FTTableMorph>>#themeChanged
+Morphic-Widgets-FastTable.FTTableMorph>>#verticalScrollBarValue:
+Morphic-Widgets-FastTable.FTTreeDataSource
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#defaultSearchStrategies
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#initialize
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#root:children:
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#rootItemFor:
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#roots:children:
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#searchStrategies
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#searchStrategies:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#addSourceToRootItem
+Morphic-Widgets-FastTable.FTTreeDataSource>>#buttonFor:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#canDisplayChildrenOf:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#cellColumn:row:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#elementAt:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#expandAll
+Morphic-Widgets-FastTable.FTTreeDataSource>>#expandAllTo:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#expandRoots
+Morphic-Widgets-FastTable.FTTreeDataSource>>#maxDepth
+Morphic-Widgets-FastTable.FTTreeDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#numberOfRows
+Morphic-Widgets-FastTable.FTTreeDataSource>>#realElementAt:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#rootItem
+Morphic-Widgets-FastTable.FTTreeDataSource>>#rootItem:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#rootsItems
+Morphic-Widgets-FastTable.FTTreeDataSource>>#searchStrategy
+Morphic-Widgets-FastTable.FTTreeDataSource>>#searchStrategy:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#searchText:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#updateData
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy class>>#filterWith:dataSource:
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy class>>#searchWith:dataSource:
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#dataSource:
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#filter
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#isMatching:
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#optionalOperations
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#pattern:
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#realSearch
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#search
+Morphic-Widgets-FastTable.FTTreeItem
+Morphic-Widgets-FastTable.FTTreeItem class>>#data:from:
+Morphic-Widgets-FastTable.FTTreeItem class>>#expandedForm
+Morphic-Widgets-FastTable.FTTreeItem class>>#unexpandedForm
+Morphic-Widgets-FastTable.FTTreeItem>>#asString
+Morphic-Widgets-FastTable.FTTreeItem>>#calculateChildren
+Morphic-Widgets-FastTable.FTTreeItem>>#children
+Morphic-Widgets-FastTable.FTTreeItem>>#data
+Morphic-Widgets-FastTable.FTTreeItem>>#data:
+Morphic-Widgets-FastTable.FTTreeItem>>#depth
+Morphic-Widgets-FastTable.FTTreeItem>>#depth:
+Morphic-Widgets-FastTable.FTTreeItem>>#expandAll
+Morphic-Widgets-FastTable.FTTreeItem>>#expandAllTo:
+Morphic-Widgets-FastTable.FTTreeItem>>#expandedButton
+Morphic-Widgets-FastTable.FTTreeItem>>#generateButton
+Morphic-Widgets-FastTable.FTTreeItem>>#hasChildren
+Morphic-Widgets-FastTable.FTTreeItem>>#initialize
+Morphic-Widgets-FastTable.FTTreeItem>>#isExpanded
+Morphic-Widgets-FastTable.FTTreeItem>>#numberOfChildren
+Morphic-Widgets-FastTable.FTTreeItem>>#numberOfVisibleChildren
+Morphic-Widgets-FastTable.FTTreeItem>>#printOn:
+Morphic-Widgets-FastTable.FTTreeItem>>#refreshTable
+Morphic-Widgets-FastTable.FTTreeItem>>#unexpandedButton
+Morphic-Widgets-FastTable.FTTreeItem>>#updateData
+Morphic-Widgets-FastTable.FTVisibleItemsStrategy
+Morphic-Widgets-FastTable.FTVisibleItemsStrategy>>#filter
+Morphic-Widgets-FastTable.FTVisibleItemsStrategy>>#matchingFilter:
+Morphic-Widgets-FastTable.FTVisibleItemsStrategy>>#newStaticItemFrom:
+Morphic-Widgets-FastTable.FTVisibleItemsStrategy>>#realSearch
+Refactoring-Critics.RBVariableNotDefinedRule>>#basicCheck:
+Refactoring-Critics.RBVariableNotDefinedRule>>#checkMethod:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50447
+ScriptLoader50.ScriptLoader>>#update50448

@@ -1,10 +1,10 @@
-AbstractTool class>>#defineClassTemplate
-MethodClassifier
-MethodClassifier>>#buildPragmaDictionary
-MethodClassifier>>#classify:
-MethodClassifier>>#classifyByKnownPragma:
-MethodClassifier>>#initialize
-MethodWidget>>#selectNextMethod
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50402
-ScriptLoader>>#update50403
+Nautilus.MethodWidget>>#selectNextMethod
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50402
+ScriptLoader50.ScriptLoader>>#update50403
+Tool-Base.AbstractTool class>>#defineClassTemplate
+Tool-Base.MethodClassifier
+Tool-Base.MethodClassifier>>#buildPragmaDictionary
+Tool-Base.MethodClassifier>>#classify:
+Tool-Base.MethodClassifier>>#classifyByKnownPragma:
+Tool-Base.MethodClassifier>>#initialize

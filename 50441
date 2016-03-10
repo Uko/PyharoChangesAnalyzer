@@ -1,22 +1,22 @@
-Breakpoint2
-Breakpoint2 class>>#break
-Breakpoint2 class>>#installOn:
-Breakpoint2 class>>#removeAll
-Breakpoint2 class>>#removeFrom:
-BreakpointManager
-CompiledMethod>>#hasBreakpoint
-CompiledMethod>>#removeLink:
-LiteralVariable>>#removeLink:
-MethodContainsHaltAction>>#isActionHandled
-MethodWidget class>>#elementsMenu:
-NautilusUI>>#toggleBreakOnEntryIn:
-NautilusUI>>#toggleBreakPoint
-RBProgramNode>>#removeLink:
-RGMethodDefinition>>#removeLink:
-ReflectiveMethod>>#metaLinkOptions
-ReflectiveMethod>>#removeLink:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50440
-ScriptLoader>>#update50441
-Slot>>#removeLink:
-TemporaryVariable>>#removeLink:
+Nautilus.MethodContainsHaltAction>>#isActionHandled
+Nautilus.MethodWidget class>>#elementsMenu:
+Nautilus.NautilusUI>>#toggleBreakOnEntryIn:
+Nautilus.NautilusUI>>#toggleBreakPoint
+Reflectivity.Breakpoint2
+Reflectivity.Breakpoint2 class>>#break
+Reflectivity.Breakpoint2 class>>#installOn:
+Reflectivity.Breakpoint2 class>>#removeAll
+Reflectivity.Breakpoint2 class>>#removeFrom:
+Reflectivity.BreakpointManager
+Reflectivity.CompiledMethod>>#hasBreakpoint
+Reflectivity.CompiledMethod>>#removeLink:
+Reflectivity.LiteralVariable>>#removeLink:
+Reflectivity.RBProgramNode>>#removeLink:
+Reflectivity.RGMethodDefinition>>#removeLink:
+Reflectivity.ReflectiveMethod>>#metaLinkOptions
+Reflectivity.ReflectiveMethod>>#removeLink:
+Reflectivity.Slot>>#removeLink:
+Reflectivity.TemporaryVariable>>#removeLink:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50440
+ScriptLoader50.ScriptLoader>>#update50441

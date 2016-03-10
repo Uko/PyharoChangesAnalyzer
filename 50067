@@ -1,6 +1,6 @@
-OCASTTranslator>>#emitCaseOf:
-OCASTTranslator>>#emitCaseOf:otherwiseBlock:
-OCASTTranslator>>#emitCaseOfOtherwise:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50066
-ScriptLoader>>#update50067
+OpalCompiler-Core.OCASTTranslator>>#emitCaseOf:
+OpalCompiler-Core.OCASTTranslator>>#emitCaseOf:otherwiseBlock:
+OpalCompiler-Core.OCASTTranslator>>#emitCaseOfOtherwise:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50066
+ScriptLoader50.ScriptLoader>>#update50067

@@ -1,48 +1,48 @@
-Context>>#doNop
-Decompiler>>#doNop
-HookGenerator>>#entity:node:links:
-HookGenerator>>#genReification:for:
-HookGenerator>>#preamble
-InstructionClient>>#doNop
-LiteralVariable>>#availableReifications
-MetaLink>>#checkForCompatibilityWith:
-RBProgramNode>>#availableReifications
-RFArgumentsReification class>>#entities
-RFClassReification class>>#entities
-RFEReceiverReification class>>#entities
-RFEntityReification class>>#entities
-RFEntityReification>>#genForInstanceVariableSlot
-RFEntityReification>>#genForLiteralVariable
-RFEntityReification>>#genForRBProgramNode
-RFLinkReification class>>#entities
-RFNameReification class>>#entities
-RFNameReification>>#genForInstanceVariableSlot
-RFNameReification>>#genForLiteralVariable
-RFNameReification>>#genForRBAssignmentNode
-RFNameReification>>#genForRBVariableNode
-RFNewValueReification class>>#entities
-RFNodeReification class>>#entities
-RFNodeReification>>#genForRBProgramNode
-RFObjectReification class>>#entities
-RFReification
-RFReification class>>#entities
-RFReification class>>#entity:link:
-RFReification>>#entity:
-RFSelectorReification class>>#entities
-RFSelectorReification>>#genForRBMessageNode
-RFSelectorReification>>#genForRBMethodNode
-RFSenderReification class>>#entities
-RFThisContextReification class>>#entities
-RFValueReification class>>#nodes
-RFValueReification>>#genForInstanceVariableSlot
-RFValueReification>>#genForLiteralVariable
-RFValueReification>>#genForRBAssignmentNode
-RFValueReification>>#genForRBVariableNode
-RFVariableReification class>>#entities
-RFVariableReification>>#genForInstanceVariableSlot
-RFVariableReification>>#genForLiteralVariable
-RFVariableReification>>#genForRBVariableNode
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50395
-ScriptLoader>>#update50396
-Slot>>#availableReifications
+Compiler.Decompiler>>#doNop
+Kernel.Context>>#doNop
+Kernel.InstructionClient>>#doNop
+Reflectivity.HookGenerator>>#entity:node:links:
+Reflectivity.HookGenerator>>#genReification:for:
+Reflectivity.HookGenerator>>#preamble
+Reflectivity.LiteralVariable>>#availableReifications
+Reflectivity.MetaLink>>#checkForCompatibilityWith:
+Reflectivity.RBProgramNode>>#availableReifications
+Reflectivity.RFArgumentsReification class>>#entities
+Reflectivity.RFClassReification class>>#entities
+Reflectivity.RFEReceiverReification class>>#entities
+Reflectivity.RFEntityReification class>>#entities
+Reflectivity.RFEntityReification>>#genForInstanceVariableSlot
+Reflectivity.RFEntityReification>>#genForLiteralVariable
+Reflectivity.RFEntityReification>>#genForRBProgramNode
+Reflectivity.RFLinkReification class>>#entities
+Reflectivity.RFNameReification class>>#entities
+Reflectivity.RFNameReification>>#genForInstanceVariableSlot
+Reflectivity.RFNameReification>>#genForLiteralVariable
+Reflectivity.RFNameReification>>#genForRBAssignmentNode
+Reflectivity.RFNameReification>>#genForRBVariableNode
+Reflectivity.RFNewValueReification class>>#entities
+Reflectivity.RFNodeReification class>>#entities
+Reflectivity.RFNodeReification>>#genForRBProgramNode
+Reflectivity.RFObjectReification class>>#entities
+Reflectivity.RFReification
+Reflectivity.RFReification class>>#entities
+Reflectivity.RFReification class>>#entity:link:
+Reflectivity.RFReification>>#entity:
+Reflectivity.RFSelectorReification class>>#entities
+Reflectivity.RFSelectorReification>>#genForRBMessageNode
+Reflectivity.RFSelectorReification>>#genForRBMethodNode
+Reflectivity.RFSenderReification class>>#entities
+Reflectivity.RFThisContextReification class>>#entities
+Reflectivity.RFValueReification class>>#nodes
+Reflectivity.RFValueReification>>#genForInstanceVariableSlot
+Reflectivity.RFValueReification>>#genForLiteralVariable
+Reflectivity.RFValueReification>>#genForRBAssignmentNode
+Reflectivity.RFValueReification>>#genForRBVariableNode
+Reflectivity.RFVariableReification class>>#entities
+Reflectivity.RFVariableReification>>#genForInstanceVariableSlot
+Reflectivity.RFVariableReification>>#genForLiteralVariable
+Reflectivity.RFVariableReification>>#genForRBVariableNode
+Reflectivity.Slot>>#availableReifications
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50395
+ScriptLoader50.ScriptLoader>>#update50396

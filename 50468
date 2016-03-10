@@ -1,24 +1,24 @@
-RBIdentifierToken>>#isKeywordPattern
-RBScanner
-RBScanner class>>#cascadePatternCharacter
-RBScanner class>>#initializeClassificationTable
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50467
-ScriptLoader>>#update50468
-SugsMenuBuilder class>>#findSuggestionsFor:
-SugsSuggestionFactory class>>#createWatchpointCommand
-SugsSuggestionFactory class>>#createWatchpointDeleteHistoryCommand
-SugsWatchpointSuggestion>>#isValidForContext
-Watchpoint>>#compiledMethod
-WatchpointWindow
-WatchpointWindow class>>#defaultSpec
-WatchpointWindow>>#extent
-WatchpointWindow>>#initializePresenter
-WatchpointWindow>>#initializeWidgets
-WatchpointWindow>>#lessItems
-WatchpointWindow>>#menu
-WatchpointWindow>>#menu:
-WatchpointWindow>>#moreItems
-WatchpointWindow>>#refreshItems
-WatchpointWindow>>#setupMenu
-WatchpointWindow>>#title
+AST-Core.RBIdentifierToken>>#isKeywordPattern
+AST-Core.RBScanner
+AST-Core.RBScanner class>>#cascadePatternCharacter
+AST-Core.RBScanner class>>#initializeClassificationTable
+Reflectivity-Tools.Watchpoint>>#compiledMethod
+Reflectivity-Tools.WatchpointWindow
+Reflectivity-Tools.WatchpointWindow class>>#defaultSpec
+Reflectivity-Tools.WatchpointWindow>>#extent
+Reflectivity-Tools.WatchpointWindow>>#initializePresenter
+Reflectivity-Tools.WatchpointWindow>>#initializeWidgets
+Reflectivity-Tools.WatchpointWindow>>#lessItems
+Reflectivity-Tools.WatchpointWindow>>#menu
+Reflectivity-Tools.WatchpointWindow>>#menu:
+Reflectivity-Tools.WatchpointWindow>>#moreItems
+Reflectivity-Tools.WatchpointWindow>>#refreshItems
+Reflectivity-Tools.WatchpointWindow>>#setupMenu
+Reflectivity-Tools.WatchpointWindow>>#title
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50467
+ScriptLoader50.ScriptLoader>>#update50468
+SmartSuggestions.SugsMenuBuilder class>>#findSuggestionsFor:
+SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointDeleteHistoryCommand
+SmartSuggestions.SugsWatchpointSuggestion>>#isValidForContext

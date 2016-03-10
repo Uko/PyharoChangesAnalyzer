@@ -1,0 +1,9 @@
+Athens-Cairo.CairoFontMetricsProvider>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
+Athens-Cairo.CairoFontMetricsProvider>>#glyphsOf:from:to:
+Athens-Cairo.CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
+Athens-Cairo.CairoFreetypeFontRenderer>>#glyphsOf:from:to:
+ConfigurationOfAthens.ConfigurationOfAthens>>#stable:
+ConfigurationOfAthens.ConfigurationOfAthens>>#version381:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50594
+ScriptLoader50.ScriptLoader>>#update50595

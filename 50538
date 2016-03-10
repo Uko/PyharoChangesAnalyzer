@@ -1,12 +1,12 @@
-ConfigurationOfUnifiedFFI>>#stable:
-ConfigurationOfUnifiedFFI>>#v0_10_1:
-FFIExternalObject>>#resourceData
-FFIExternalType class>>#sizeOf:
-RestartDebugAction>>#defaultKeyText
-ResumeDebugAction>>#defaultKeyText
-SVColorSelectorMorph>>#hideLocation
-SVColorSelectorMorph>>#showLocation
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50537
-ScriptLoader>>#update50538
-StepOverDebugAction>>#defaultKeyText
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_10_1:
+DebuggerActions.RestartDebugAction>>#defaultKeyText
+DebuggerActions.ResumeDebugAction>>#defaultKeyText
+DebuggerActions.StepOverDebugAction>>#defaultKeyText
+Morphic-Widgets-ColorPicker.SVColorSelectorMorph>>#hideLocation
+Morphic-Widgets-ColorPicker.SVColorSelectorMorph>>#showLocation
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50537
+ScriptLoader50.ScriptLoader>>#update50538
+UnifiedFFI.FFIExternalObject>>#resourceData
+UnifiedFFI.FFIExternalType class>>#sizeOf:

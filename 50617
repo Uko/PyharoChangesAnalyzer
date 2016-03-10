@@ -1,0 +1,32 @@
+FileSystem-Disk.DiskStore class>>#initialize
+FontInfrastructure.LogicalFont class>>#initialize
+FreeType.FT2Handle class>>#initialize
+FreeType.FreeTypeCache class>>#initialize
+FreeType.FreeTypeSettings class>>#initialize
+NECompletion.NOCCompletionTable class>>#initialize
+Network-Kernel.InternetConfiguration class>>#initialize
+Refactoring-Critics.RBSelfSentNotImplementedRule
+Refactoring-Critics.RBSelfSentNotImplementedRule class>>#checksMethod
+Refactoring-Critics.RBSelfSentNotImplementedRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#basicCheck:
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#checkMethod:
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#group
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#name
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#rationale
+Refactoring-Critics.RBSelfSentNotImplementedRule>>#severity
+Refactoring-Critics.RBSentNotImplementedRule>>#basicCheck:
+Refactoring-Critics.RBSentNotImplementedRule>>#checkMethod:
+Refactoring-Critics.RBSentNotImplementedRule>>#rationale
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50616
+ScriptLoader50.ScriptLoader>>#update50617
+SmartSuggestions.SugsAbstractContext class>>#contextFor:
+SmartSuggestions.SugsAbstractContext>>#selectedInterval
+SmartSuggestions.SugsNullContext
+SmartSuggestions.SugsNullContext>>#selectedClass
+SmartSuggestions.SugsNullContext>>#selectedMethod
+SmartSuggestions.SugsNullContext>>#sourceTextArea
+System-OSEnvironments.OSEnvironment class>>#initialize
+System-Platforms.OSPlatform class>>#initialize
+System-Support.EndianDetector class>>#initialize
+Tool-Base.PharoCommonTools class>>#initialize

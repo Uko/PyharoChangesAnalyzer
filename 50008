@@ -1,6 +1,6 @@
-RemotesManager>>#selected:changed:
-RemotesManager>>#selectedRemotes:
-RemotesManager>>#title
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script616
-ScriptLoader>>#update50008
+Komitter.RemotesManager>>#selected:changed:
+Komitter.RemotesManager>>#selectedRemotes:
+Komitter.RemotesManager>>#title
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script616
+ScriptLoader50.ScriptLoader>>#update50008

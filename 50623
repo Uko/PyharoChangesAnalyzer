@@ -1,0 +1,13 @@
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_3_6:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_11_6:
+Renraku.RBSelfSentNotImplementedRule>>#check:forCriticsDo:ifNone:
+Renraku.RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50622
+ScriptLoader50.ScriptLoader>>#update50623
+Slot.PharoClassInstaller>>#updateClass:to:
+Traits.TClassDescription>>#updateInstances:from:isMeta:
+Traits.TClassDescription>>#updateInstancesFrom:

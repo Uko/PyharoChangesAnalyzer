@@ -1,59 +1,60 @@
-ChangeSorterApplication>>#browseMethodFull
-ChangeSorterApplication>>#openChangeSetBrowser
-ClassListNodeExample>>#browseItem
-ClassTreeNodeExample>>#browseItem
-CompiledMethod>>#browse
-DeepCopier>>#warnInstanceVariableNotCopiedIn:selector:
-FinderClassNode>>#browseClass
-FinderMethodNode>>#browseClass
-FinderNode>>#browseClass
-FinderPragmaNode>>#browse
-KeymapBrowser>>#browseDefinitionOfSelectedShortcut
-KomitSliceUI>>#setTitleFrom:
-LinkWrapper>>#links
-LinkWrapper>>#removeLink:
-LinkWrapper>>#uninstall
-MCCodeTool>>#browseMethodFull
-MessageBrowser class>>#messageBrowserListMenu:
-MetaLink>>#installOnVariable:
-NECEntry>>#browseWith:
-NECSelectorEntry>>#browseWith:
-Nautilus class>>#fullOnClass:
-Nautilus class>>#fullOnClass:selector:
-Nautilus class>>#fullOnClass:selector:highlight:
-Nautilus class>>#fullOnEnvironment:
-Nautilus class>>#newOnClass:
-Nautilus class>>#newOnClass:selector:
-Nautilus class>>#openOnClass:selector:highlight:
-NautilusRefactoring>>#openEnvironment:for:
-OCAbstractVariable>>#variable
-OCLiteralVariable>>#variable
-OCSlotVariable>>#variable
-Object>>#browse
-PSMCPatchMorph>>#browseClass
-PackageClassNodeExample>>#browseItem
-PackageMethodNodeExample>>#browseItem
-PluggableButtonMorph>>#browseAction
-ProcessBrowser>>#browseContext
-RFASTTranslator>>#visitVariableNode:
-RFASTTranslator>>#visitVariableValue:
-RGBehaviorDefinition>>#browse
-RGElementDefinition>>#browse
-RGMethodDefinition>>#browse
-ReflectiveMethodTest>>#testSetLinkOnInstanceVariable
-ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50222
-ScriptLoader>>#update50223
-SettingNode>>#browseDeclaration
-Slot>>#link:
-SmalltalkEditor>>#browseClassFrom:
-SmalltalkEditor>>#internalCallToBrowse:
-SpecDebuggerStack>>#browseMethodFull
-SyntaxErrorDebugger>>#browseMethodFull
-SystemNavigation>>#browseAllUsersOfTrait:
-SystemNavigation>>#browseClassesWithNamesContaining:caseSensitive:
-TBehavior>>#browse
-TInspectorActions>>#browseSelectedObjectClass
-TestReviver>>#browse:
-TimeProfilerNode>>#browseItem
+Deprecated50.Nautilus class>>#fullOnClass:
+Deprecated50.Nautilus class>>#fullOnClass:selector:
+Deprecated50.Nautilus class>>#fullOnClass:selector:highlight:
+Deprecated50.Nautilus class>>#fullOnEnvironment:
+Deprecated50.Nautilus class>>#newOnClass:
+Deprecated50.Nautilus class>>#newOnClass:selector:
+HudsonBuildTools20.TestReviver>>#browse:
+Kernel.DeepCopier>>#warnInstanceVariableNotCopiedIn:selector:
+Komitter.KomitSliceUI>>#setTitleFrom:
+MonticelloGUI.MCCodeTool>>#browseMethodFull
+Morphic-Examples.ClassListNodeExample>>#browseItem
+Morphic-Examples.ClassTreeNodeExample>>#browseItem
+Morphic-Examples.PackageClassNodeExample>>#browseItem
+Morphic-Examples.PackageMethodNodeExample>>#browseItem
+Morphic-Widgets-Basic.PluggableButtonMorph>>#browseAction
+NECompletion.NECEntry>>#browseWith:
+NECompletion.NECSelectorEntry>>#browseWith:
+Nautilus.Nautilus class>>#fullOnClass:selector:
+Nautilus.Nautilus class>>#openOnClass:selector:highlight:
+NautilusRefactoring.NautilusRefactoring>>#openEnvironment:for:
+OpalCompiler-Core.OCAbstractVariable>>#variable
+OpalCompiler-Core.OCLiteralVariable>>#variable
+OpalCompiler-Core.OCSlotVariable>>#variable
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnInstanceVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
+Reflectivity.LinkWrapper>>#links
+Reflectivity.LinkWrapper>>#removeLink:
+Reflectivity.LinkWrapper>>#uninstall
+Reflectivity.MetaLink>>#installOnVariable:
+Reflectivity.RFASTTranslator>>#visitVariableNode:
+Reflectivity.RFASTTranslator>>#visitVariableValue:
+Reflectivity.Slot>>#link:
+Ring-Core-Kernel.RGBehaviorDefinition>>#browse
+Ring-Core-Kernel.RGElementDefinition>>#browse
+Ring-Core-Kernel.RGMethodDefinition>>#browse
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50222
+ScriptLoader50.ScriptLoader>>#update50223
+Spec-Debugger.SpecDebuggerStack>>#browseMethodFull
+Spec-Inspector.TInspectorActions>>#browseSelectedObjectClass
+Spec-Tools.ChangeSorterApplication>>#browseMethodFull
+Spec-Tools.ChangeSorterApplication>>#openChangeSetBrowser
+Spec-Tools.KeymapBrowser>>#browseDefinitionOfSelectedShortcut
+Spec-Tools.MessageBrowser class>>#messageBrowserListMenu:
+System-Settings.SettingNode>>#browseDeclaration
+Text-Edition.SmalltalkEditor>>#browseClassFrom:
+Text-Edition.SmalltalkEditor>>#internalCallToBrowse:
+Tool-Base.CompiledMethod>>#browse
+Tool-Base.Object>>#browse
+Tool-Base.SystemNavigation>>#browseAllUsersOfTrait:
+Tool-Base.SystemNavigation>>#browseClassesWithNamesContaining:caseSensitive:
+Tool-Diff.PSMCPatchMorph>>#browseClass
+Tool-Finder.FinderClassNode>>#browseClass
+Tool-Finder.FinderMethodNode>>#browseClass
+Tool-Finder.FinderNode>>#browseClass
+Tool-Finder.FinderPragmaNode>>#browse
+Tool-ProcessBrowser.ProcessBrowser>>#browseContext
+Tool-Profilers.TimeProfilerNode>>#browseItem
+Tools.SyntaxErrorDebugger>>#browseMethodFull
+Tools.TBehavior>>#browse

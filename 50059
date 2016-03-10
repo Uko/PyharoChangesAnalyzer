@@ -1,7 +1,7 @@
-NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
-OCKeyedSet>>#collect:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50058
-ScriptLoader>>#update50059
-Set>>#collect:
-SetTest>>#testCollect
+Collections-Unordered.Set>>#collect:
+CollectionsTests.SetTest>>#testCollect
+NautilusRefactoring.NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
+OpalCompiler-Core.OCKeyedSet>>#collect:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50058
+ScriptLoader50.ScriptLoader>>#update50059

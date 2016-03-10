@@ -1,59 +1,59 @@
-BorderedMorph>>#addBorderStyleMenuItems:hand:
-FallbackMenu>>#menu
-HaloMorph>>#doDebug:with:
-KeyedTreeTest>>#testMerge
-KeyedTreeTest>>#testSubtrees
-LRUCacheTests>>#testRemoveAll
-MenuMorph class>>#example
-MenuMorph>>#addTitle:icon:
-MenuMorph>>#createTitleMorph
-MenuMorph>>#stayUp:
-MenuMorph>>#toggleStayUp
-MenuTitleMorph>>#bigTitle:
-MenuTitleMorph>>#boxExtent
-MenuTitleMorph>>#iconButtonCalling:withForm:helpText:
-MenuTitleMorph>>#onlyCloseAndPinable
-MenuTitleMorph>>#pinBoxClicked
-MenuTitleMorph>>#pinColor
-MenuTitleMorph>>#pinForm
-MenuTitleMorph>>#updatePinForm
-MenuTitleMorph>>#withPinBox
-Morph>>#addHaloActionsTo:
-Morph>>#addTitleForHaloMenu:
-Morph>>#addYellowButtonMenuItemsTo:event:
-Morph>>#buildDebugMenu:
-Morph>>#buildHandleMenu:
-Morph>>#buildMetaMenu:
-Morph>>#invokeMetaMenu:
-PasteUpMorph>>#popUpContentsMenu:
-PluggableMenuSpec>>#asMenuMorph
-RBParserTest>>#testSymbolLiteral
-RBScanner>>#scanLiteral
-RFClassReification class>>#nodes
-RFClassReification>>#genForInstanceVariableSlot
-RFClassReification>>#genForLiteralVariable
-RFClassReification>>#genForRBProgramNode
-RFClassReification>>#generate
-RFEntityReification class>>#nodes
-RFEntityReification>>#genForInstanceVariableSlot
-RFLinkReification class>>#nodes
-RFLinkReification>>#genForInstanceVariableSlot
-RFObjectReification class>>#nodes
-RFObjectReification>>#genForInstanceVariableSlot
-RFThisContextReification class>>#nodes
-RFThisContextReification>>#genForInstanceVariableSlot
-RFValueReification class>>#nodes
-RFValueReification>>#genForInstanceVariableSlot
-RFVariableReification class>>#nodes
-RFVariableReification>>#genForInstanceVariableSlot
-ReflectivityReificationTest>>#testReifySlotClass
-ReflectivityReificationTest>>#testReifySlotValue
-ReflectivityReificationTest>>#testReifySlotVariable
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50350
-ScriptLoader>>#update50351
-SelectPackageBrowser class>>#defaultSpec
-VSReleaseDevelopmentVersionCommandTest>>#generateTestVersion
-WorldMorph>>#buildMetaMenu:
-WorldMorph>>#contentsMenu:
-WorldState class>>#windowsOn:
+AST-Core.RBScanner>>#scanLiteral
+AST-Tests-Core.RBParserTest>>#testSymbolLiteral
+Collections-Tests.KeyedTreeTest>>#testMerge
+Collections-Tests.KeyedTreeTest>>#testSubtrees
+MenuRegistration.FallbackMenu>>#menu
+Morphic-Base.HaloMorph>>#doDebug:with:
+Morphic-Base.MenuMorph class>>#example
+Morphic-Base.MenuMorph>>#addTitle:icon:
+Morphic-Base.MenuMorph>>#createTitleMorph
+Morphic-Base.MenuMorph>>#stayUp:
+Morphic-Base.MenuMorph>>#toggleStayUp
+Morphic-Base.MenuTitleMorph>>#bigTitle:
+Morphic-Base.MenuTitleMorph>>#boxExtent
+Morphic-Base.MenuTitleMorph>>#iconButtonCalling:withForm:helpText:
+Morphic-Base.MenuTitleMorph>>#onlyCloseAndPinable
+Morphic-Base.MenuTitleMorph>>#pinBoxClicked
+Morphic-Base.MenuTitleMorph>>#pinColor
+Morphic-Base.MenuTitleMorph>>#pinForm
+Morphic-Base.MenuTitleMorph>>#updatePinForm
+Morphic-Base.MenuTitleMorph>>#withPinBox
+Morphic-Base.PluggableMenuSpec>>#asMenuMorph
+Morphic-Base.WorldState class>>#windowsOn:
+Morphic-Core.BorderedMorph>>#addBorderStyleMenuItems:hand:
+Morphic-Core.Morph>>#addHaloActionsTo:
+Morphic-Core.Morph>>#addTitleForHaloMenu:
+Morphic-Core.Morph>>#addYellowButtonMenuItemsTo:event:
+Morphic-Core.Morph>>#buildDebugMenu:
+Morphic-Core.Morph>>#buildHandleMenu:
+Morphic-Core.Morph>>#buildMetaMenu:
+Morphic-Core.Morph>>#invokeMetaMenu:
+Morphic-Core.PasteUpMorph>>#popUpContentsMenu:
+Morphic-Core.WorldMorph>>#buildMetaMenu:
+Morphic-Core.WorldMorph>>#contentsMenu:
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifySlotClass
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifySlotValue
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifySlotVariable
+Reflectivity.RFClassReification class>>#nodes
+Reflectivity.RFClassReification>>#genForInstanceVariableSlot
+Reflectivity.RFClassReification>>#genForLiteralVariable
+Reflectivity.RFClassReification>>#genForRBProgramNode
+Reflectivity.RFClassReification>>#generate
+Reflectivity.RFEntityReification class>>#nodes
+Reflectivity.RFEntityReification>>#genForInstanceVariableSlot
+Reflectivity.RFLinkReification class>>#nodes
+Reflectivity.RFLinkReification>>#genForInstanceVariableSlot
+Reflectivity.RFObjectReification class>>#nodes
+Reflectivity.RFObjectReification>>#genForInstanceVariableSlot
+Reflectivity.RFThisContextReification class>>#nodes
+Reflectivity.RFThisContextReification>>#genForInstanceVariableSlot
+Reflectivity.RFValueReification class>>#nodes
+Reflectivity.RFValueReification>>#genForInstanceVariableSlot
+Reflectivity.RFVariableReification class>>#nodes
+Reflectivity.RFVariableReification>>#genForInstanceVariableSlot
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50350
+ScriptLoader50.ScriptLoader>>#update50351
+System-CachingTests.LRUCacheTests>>#testRemoveAll
+Tool-CriticBrowser.SelectPackageBrowser class>>#defaultSpec
+Versionner-Tests-Core-Commands.VSReleaseDevelopmentVersionCommandTest>>#generateTestVersion

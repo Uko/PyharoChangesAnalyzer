@@ -1,14 +1,14 @@
-FontSet class>>#fileOut
-InternetConfiguration class>>#configureHttpProxy
-InternetConfiguration class>>#setHttpProxy
-InternetConfiguration class>>#startUp
-MCDataStream class>>#fileNamed:
-MCDataStream class>>#newFileNamed:
-MCDataStream class>>#readOnlyFileNamed:
-MacOSPlatform>>#configureHttpProxy
-OSPlatform>>#configureHttpProxy
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script643
-ScriptLoader>>#update50035
-SmalltalkImage>>#saveChangesInFileNamed:
-StandardFileStream>>#compressFile
+Compression.StandardFileStream>>#compressFile
+Graphics-Fonts.FontSet class>>#fileOut
+Monticello.MCDataStream class>>#fileNamed:
+Monticello.MCDataStream class>>#newFileNamed:
+Monticello.MCDataStream class>>#readOnlyFileNamed:
+Network-Kernel.InternetConfiguration class>>#configureHttpProxy
+Network-Kernel.InternetConfiguration class>>#setHttpProxy
+Network-Kernel.InternetConfiguration class>>#startUp
+Network-Kernel.MacOSPlatform>>#configureHttpProxy
+Network-Kernel.OSPlatform>>#configureHttpProxy
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script643
+ScriptLoader50.ScriptLoader>>#update50035
+System-Support.SmalltalkImage>>#saveChangesInFileNamed:

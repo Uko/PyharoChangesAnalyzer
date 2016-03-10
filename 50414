@@ -1,152 +1,152 @@
-ConfigurationOfFastTable>>#baseline03:
-ConfigurationOfFastTable>>#development:
-ConfigurationOfFastTable>>#stable:
-ConfigurationOfFastTable>>#version0710:
-ConfigurationOfFastTable>>#version0711:
-FTCellMorph
-FTCellMorph>>#drawOn:
-FTCellMorph>>#initialize
-FTCellMorph>>#withTopSeparator
-FTDataSource>>#newDataSourceMatching:
-FTDataSource>>#toString:
-FTEasyListDataSource>>#menuColumn:row:
-FTExampleMethodModel>>#createActionIconOn:
-FTExamples class>>#exampleEasyList1
-FTExamples class>>#exampleEditableList1
-FTExamples class>>#exampleFilterableList
-FTExamples class>>#exampleListWithExplicitFilter
-FTExamples class>>#exampleListWithExplicitFilterAndActionButton
-FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
-FTExamples class>>#exampleListWithExplicitSearch
-FTExamples class>>#exampleOutline1
-FTExamples class>>#exampleOutline2
-FTFilterFunction
-FTFilterFunction>>#colorText:
-FTFilterFunction>>#filter
-FTFilterFunction>>#filterWith:
-FTFilterFunction>>#ghostText
-FTFilterFunction>>#initializeFilter
-FTFilterFunction>>#keyStroke:
-FTFilterFunction>>#patternFromString:
-FTFilterFunction>>#reinitializeTable
-FTFilterFunction>>#reset
-FTFilterFunction>>#showFilterFieldFromKeystrokeEvent:
-FTFilterFunction>>#spawnFilterUpdateThread
-FTFilterFunction>>#update:
-FTFilterFunctionWithAction
-FTFilterFunctionWithAction class>>#table:action:named:
-FTFilterFunctionWithAction>>#action:named:
-FTFilterFunctionWithAction>>#beExplicite
-FTFilterFunctionWithAction>>#execute
-FTFilterFunctionWithAction>>#initializeActionButtonNamed:
-FTFilterFunctionWithAction>>#resizeButton
-FTFilterFunctionWithAction>>#resizeField
-FTFilterFunctionWithAction>>#resizeWidget
-FTFunction
-FTFunction class>>#isAbstract
-FTFunction class>>#table:
-FTFunction>>#beExplicite
-FTFunction>>#initializeTable:
-FTFunction>>#isExplicite
-FTFunction>>#keyStroke:
-FTFunction>>#reset
-FTFunction>>#resizeContainerFrom:to:
-FTFunction>>#resizeWidget
-FTFunctionWithField
-FTFunctionWithField class>>#isAbstract
-FTFunctionWithField>>#beExplicite
-FTFunctionWithField>>#fieldHeigh
-FTFunctionWithField>>#ghostText
-FTFunctionWithField>>#initializeMorph
-FTFunctionWithField>>#isExplicite
-FTFunctionWithField>>#resizeContainerFrom:to:
-FTFunctionWithField>>#resizeWidget
-FTFunctionWithField>>#update:
-FTNilFunction
-FTNilFunction>>#beExplicite
-FTNilFunction>>#isExplicite
-FTNilFunction>>#keyStroke:
-FTNilFunction>>#reset
-FTNilFunction>>#resizeContainerFrom:to:
-FTNilFunction>>#resizeWidget
-FTOutlineDataSource>>#cellColumn:row:
-FTOutlineDataSource>>#needSeparatorBefore:
-FTOutlineDataSource>>#newDataSourceMatching:
-FTPluggableIconListMorphAdaptor>>#updateList
-FTPluggableIconListMorphAdaptorDataSource>>#cellColumn:row:
-FTPluggableIconListMorphAdaptorDataSource>>#newDataSourceMatching:
-FTSearchFunction
-FTSearchFunction class>>#new
-FTSearchFunction>>#ghostText
-FTSearchFunction>>#reset
-FTSearchFunction>>#search
-FTSearchFunction>>#searchFor:
-FTSearchFunction>>#table
-FTSearchFunction>>#update:
-FTSelectionStrategy class>>#table:
-FTSelectionStrategy>>#initializeTable:
-FTSimpleDataSource>>#newDataSourceMatching:
-FTTableMorph
-FTTableMorph class>>#defaultRowHeight
-FTTableMorph class>>#with:
-FTTableMorph>>#defaultContainer
-FTTableMorph>>#disableFunction
-FTTableMorph>>#enableFilter
-FTTableMorph>>#enableFilterWithAction:
-FTTableMorph>>#enableFilterWithAction:named:
-FTTableMorph>>#enableSearch
-FTTableMorph>>#explicitFunction
-FTTableMorph>>#initializeContainer
-FTTableMorph>>#keyStroke:
-FTTableMorph>>#keyStrokeArrowDown:
-FTTableMorph>>#keyStrokeArrowUp:
-FTTableMorph>>#keyStrokeSearch:
-FTTableMorph>>#refresh
-FTTableMorph>>#resetFunction
-FTTableMorph>>#resetPosition
-FTTableMorph>>#resizeAllSubviews
-FTTableMorph>>#resizeColumns
-FTTableMorph>>#resizeContainer
-FTTableMorph>>#wantsDroppedMorph:event:
-FTTreeDataSource
-FTTreeDataSource class>>#emptyMorph
-FTTreeDataSource class>>#roots:children:
-FTTreeDataSource>>#canDisplayChildrenOf:
-FTTreeDataSource>>#cellColumn:row:
-FTTreeDataSource>>#childrenBlock
-FTTreeDataSource>>#childrenBlock:
-FTTreeDataSource>>#elementAt:
-FTTreeDataSource>>#items
-FTTreeDataSource>>#items:
-FTTreeDataSource>>#maxDepth:
-FTTreeDataSource>>#newDataSourceMatching:
-FTTreeDataSource>>#numberOfRows
-FTTreeDataSource>>#searchText:
-FTTreeItem
-FTTreeItem class>>#data:from:
-FTTreeItem class>>#expandedForm
-FTTreeItem class>>#unexpandedForm
-FTTreeItem>>#asString
-FTTreeItem>>#calculateChildren
-FTTreeItem>>#childAt:
-FTTreeItem>>#children
-FTTreeItem>>#data
-FTTreeItem>>#data:
-FTTreeItem>>#dataSource
-FTTreeItem>>#dataSource:
-FTTreeItem>>#depth
-FTTreeItem>>#depth:
-FTTreeItem>>#expand
-FTTreeItem>>#expandedButton
-FTTreeItem>>#generateButton
-FTTreeItem>>#initialize
-FTTreeItem>>#isExpanded
-FTTreeItem>>#numberOfVisibleChildren
-FTTreeItem>>#printOn:
-FTTreeItem>>#refreshTable
-FTTreeItem>>#selfOrChildAt:
-FTTreeItem>>#unexpand
-FTTreeItem>>#unexpandedButton
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50413
-ScriptLoader>>#update50414
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#baseline03:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#development:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#version0710:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#version0711:
+Morphic-Widgets-FastTable.FTCellMorph
+Morphic-Widgets-FastTable.FTCellMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTCellMorph>>#initialize
+Morphic-Widgets-FastTable.FTCellMorph>>#withTopSeparator
+Morphic-Widgets-FastTable.FTDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTDataSource>>#toString:
+Morphic-Widgets-FastTable.FTEasyListDataSource>>#menuColumn:row:
+Morphic-Widgets-FastTable.FTExampleMethodModel>>#createActionIconOn:
+Morphic-Widgets-FastTable.FTExamples class>>#exampleEasyList1
+Morphic-Widgets-FastTable.FTExamples class>>#exampleEditableList1
+Morphic-Widgets-FastTable.FTExamples class>>#exampleFilterableList
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitFilterAndActionButton
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitFilterAndActionButton2
+Morphic-Widgets-FastTable.FTExamples class>>#exampleListWithExplicitSearch
+Morphic-Widgets-FastTable.FTExamples class>>#exampleOutline1
+Morphic-Widgets-FastTable.FTExamples class>>#exampleOutline2
+Morphic-Widgets-FastTable.FTFilterFunction
+Morphic-Widgets-FastTable.FTFilterFunction>>#colorText:
+Morphic-Widgets-FastTable.FTFilterFunction>>#filter
+Morphic-Widgets-FastTable.FTFilterFunction>>#filterWith:
+Morphic-Widgets-FastTable.FTFilterFunction>>#ghostText
+Morphic-Widgets-FastTable.FTFilterFunction>>#initializeFilter
+Morphic-Widgets-FastTable.FTFilterFunction>>#keyStroke:
+Morphic-Widgets-FastTable.FTFilterFunction>>#patternFromString:
+Morphic-Widgets-FastTable.FTFilterFunction>>#reinitializeTable
+Morphic-Widgets-FastTable.FTFilterFunction>>#reset
+Morphic-Widgets-FastTable.FTFilterFunction>>#showFilterFieldFromKeystrokeEvent:
+Morphic-Widgets-FastTable.FTFilterFunction>>#spawnFilterUpdateThread
+Morphic-Widgets-FastTable.FTFilterFunction>>#update:
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction class>>#table:action:named:
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#action:named:
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#beExplicite
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#execute
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#initializeActionButtonNamed:
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#resizeButton
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#resizeField
+Morphic-Widgets-FastTable.FTFilterFunctionWithAction>>#resizeWidget
+Morphic-Widgets-FastTable.FTFunction
+Morphic-Widgets-FastTable.FTFunction class>>#isAbstract
+Morphic-Widgets-FastTable.FTFunction class>>#table:
+Morphic-Widgets-FastTable.FTFunction>>#beExplicite
+Morphic-Widgets-FastTable.FTFunction>>#initializeTable:
+Morphic-Widgets-FastTable.FTFunction>>#isExplicite
+Morphic-Widgets-FastTable.FTFunction>>#keyStroke:
+Morphic-Widgets-FastTable.FTFunction>>#reset
+Morphic-Widgets-FastTable.FTFunction>>#resizeContainerFrom:to:
+Morphic-Widgets-FastTable.FTFunction>>#resizeWidget
+Morphic-Widgets-FastTable.FTFunctionWithField
+Morphic-Widgets-FastTable.FTFunctionWithField class>>#isAbstract
+Morphic-Widgets-FastTable.FTFunctionWithField>>#beExplicite
+Morphic-Widgets-FastTable.FTFunctionWithField>>#fieldHeigh
+Morphic-Widgets-FastTable.FTFunctionWithField>>#ghostText
+Morphic-Widgets-FastTable.FTFunctionWithField>>#initializeMorph
+Morphic-Widgets-FastTable.FTFunctionWithField>>#isExplicite
+Morphic-Widgets-FastTable.FTFunctionWithField>>#resizeContainerFrom:to:
+Morphic-Widgets-FastTable.FTFunctionWithField>>#resizeWidget
+Morphic-Widgets-FastTable.FTFunctionWithField>>#update:
+Morphic-Widgets-FastTable.FTNilFunction
+Morphic-Widgets-FastTable.FTNilFunction>>#beExplicite
+Morphic-Widgets-FastTable.FTNilFunction>>#isExplicite
+Morphic-Widgets-FastTable.FTNilFunction>>#keyStroke:
+Morphic-Widgets-FastTable.FTNilFunction>>#reset
+Morphic-Widgets-FastTable.FTNilFunction>>#resizeContainerFrom:to:
+Morphic-Widgets-FastTable.FTNilFunction>>#resizeWidget
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#cellColumn:row:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#needSeparatorBefore:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptor>>#updateList
+Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptorDataSource>>#cellColumn:row:
+Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptorDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTSearchFunction
+Morphic-Widgets-FastTable.FTSearchFunction class>>#new
+Morphic-Widgets-FastTable.FTSearchFunction>>#ghostText
+Morphic-Widgets-FastTable.FTSearchFunction>>#reset
+Morphic-Widgets-FastTable.FTSearchFunction>>#search
+Morphic-Widgets-FastTable.FTSearchFunction>>#searchFor:
+Morphic-Widgets-FastTable.FTSearchFunction>>#table
+Morphic-Widgets-FastTable.FTSearchFunction>>#update:
+Morphic-Widgets-FastTable.FTSelectionStrategy class>>#table:
+Morphic-Widgets-FastTable.FTSelectionStrategy>>#initializeTable:
+Morphic-Widgets-FastTable.FTSimpleDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTTableMorph
+Morphic-Widgets-FastTable.FTTableMorph class>>#defaultRowHeight
+Morphic-Widgets-FastTable.FTTableMorph class>>#with:
+Morphic-Widgets-FastTable.FTTableMorph>>#defaultContainer
+Morphic-Widgets-FastTable.FTTableMorph>>#disableFunction
+Morphic-Widgets-FastTable.FTTableMorph>>#enableFilter
+Morphic-Widgets-FastTable.FTTableMorph>>#enableFilterWithAction:
+Morphic-Widgets-FastTable.FTTableMorph>>#enableFilterWithAction:named:
+Morphic-Widgets-FastTable.FTTableMorph>>#enableSearch
+Morphic-Widgets-FastTable.FTTableMorph>>#explicitFunction
+Morphic-Widgets-FastTable.FTTableMorph>>#initializeContainer
+Morphic-Widgets-FastTable.FTTableMorph>>#keyStroke:
+Morphic-Widgets-FastTable.FTTableMorph>>#keyStrokeArrowDown:
+Morphic-Widgets-FastTable.FTTableMorph>>#keyStrokeArrowUp:
+Morphic-Widgets-FastTable.FTTableMorph>>#keyStrokeSearch:
+Morphic-Widgets-FastTable.FTTableMorph>>#refresh
+Morphic-Widgets-FastTable.FTTableMorph>>#resetFunction
+Morphic-Widgets-FastTable.FTTableMorph>>#resetPosition
+Morphic-Widgets-FastTable.FTTableMorph>>#resizeAllSubviews
+Morphic-Widgets-FastTable.FTTableMorph>>#resizeColumns
+Morphic-Widgets-FastTable.FTTableMorph>>#resizeContainer
+Morphic-Widgets-FastTable.FTTableMorph>>#wantsDroppedMorph:event:
+Morphic-Widgets-FastTable.FTTreeDataSource
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#emptyMorph
+Morphic-Widgets-FastTable.FTTreeDataSource class>>#roots:children:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#canDisplayChildrenOf:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#cellColumn:row:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#childrenBlock
+Morphic-Widgets-FastTable.FTTreeDataSource>>#childrenBlock:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#elementAt:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#items
+Morphic-Widgets-FastTable.FTTreeDataSource>>#items:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#maxDepth:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#numberOfRows
+Morphic-Widgets-FastTable.FTTreeDataSource>>#searchText:
+Morphic-Widgets-FastTable.FTTreeItem
+Morphic-Widgets-FastTable.FTTreeItem class>>#data:from:
+Morphic-Widgets-FastTable.FTTreeItem class>>#expandedForm
+Morphic-Widgets-FastTable.FTTreeItem class>>#unexpandedForm
+Morphic-Widgets-FastTable.FTTreeItem>>#asString
+Morphic-Widgets-FastTable.FTTreeItem>>#calculateChildren
+Morphic-Widgets-FastTable.FTTreeItem>>#childAt:
+Morphic-Widgets-FastTable.FTTreeItem>>#children
+Morphic-Widgets-FastTable.FTTreeItem>>#data
+Morphic-Widgets-FastTable.FTTreeItem>>#data:
+Morphic-Widgets-FastTable.FTTreeItem>>#dataSource
+Morphic-Widgets-FastTable.FTTreeItem>>#dataSource:
+Morphic-Widgets-FastTable.FTTreeItem>>#depth
+Morphic-Widgets-FastTable.FTTreeItem>>#depth:
+Morphic-Widgets-FastTable.FTTreeItem>>#expand
+Morphic-Widgets-FastTable.FTTreeItem>>#expandedButton
+Morphic-Widgets-FastTable.FTTreeItem>>#generateButton
+Morphic-Widgets-FastTable.FTTreeItem>>#initialize
+Morphic-Widgets-FastTable.FTTreeItem>>#isExpanded
+Morphic-Widgets-FastTable.FTTreeItem>>#numberOfVisibleChildren
+Morphic-Widgets-FastTable.FTTreeItem>>#printOn:
+Morphic-Widgets-FastTable.FTTreeItem>>#refreshTable
+Morphic-Widgets-FastTable.FTTreeItem>>#selfOrChildAt:
+Morphic-Widgets-FastTable.FTTreeItem>>#unexpand
+Morphic-Widgets-FastTable.FTTreeItem>>#unexpandedButton
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50413
+ScriptLoader50.ScriptLoader>>#update50414

@@ -1,96 +1,96 @@
-CurrentImage
-CurrentImage>>#packages
-ExternalBrowser
-ExternalBrowser class>>#browseStream:
-ExternalBrowser class>>#defaultSpec
-ExternalBrowser class>>#fileReaderServicesForFile:suffix:
-ExternalBrowser class>>#initialize
-ExternalBrowser class>>#openOn:
-ExternalBrowser class>>#serviceBrowseCode
-ExternalBrowser class>>#services
-ExternalBrowser>>#classes
-ExternalBrowser>>#classesOfPackage:
-ExternalBrowser>>#initialExtent
-ExternalBrowser>>#initializeClassList
-ExternalBrowser>>#initializeMethodBodyPane
-ExternalBrowser>>#initializePackageList
-ExternalBrowser>>#initializePresenter
-ExternalBrowser>>#initializeProtocolList
-ExternalBrowser>>#initializeSelectorList
-ExternalBrowser>>#initializeWidgets
-ExternalBrowser>>#method
-ExternalBrowser>>#method:
-ExternalBrowser>>#methodFor:
-ExternalBrowser>>#model:
-ExternalBrowser>>#packages
-ExternalBrowser>>#populatePackages
-ExternalBrowser>>#protocols
-ExternalBrowser>>#protocolsOfClass:
-ExternalBrowser>>#refreshClasses:
-ExternalBrowser>>#resetClassSelection
-ExternalBrowser>>#resetMethodBodyPane
-ExternalBrowser>>#resetProtocolSelection
-ExternalBrowser>>#resetSelectorSelection
-ExternalBrowser>>#selectors
-ExternalBrowser>>#selectors:
-ExternalBrowser>>#selectorsOfProtocol:
-ExternalBrowser>>#showClassSide
-ExternalBrowser>>#title
-ExternalBrowser>>#wireClasses
-ExternalBrowser>>#wirePackages
-ExternalBrowser>>#wireProtocols
-ExternalBrowser>>#wireSelectors
-ExternalChangesBrowser
-ExternalChangesBrowser class>>#defaultSpec
-ExternalChangesBrowser class>>#openOn:
-ExternalChangesBrowser>>#buildMenu:
-ExternalChangesBrowser>>#canCompareToCurrent
-ExternalChangesBrowser>>#changeDescription:
-ExternalChangesBrowser>>#changeSetName:
-ExternalChangesBrowser>>#changes
-ExternalChangesBrowser>>#codePane
-ExternalChangesBrowser>>#compareToCurrent:
-ExternalChangesBrowser>>#deselectAllButton
-ExternalChangesBrowser>>#fileIn:
-ExternalChangesBrowser>>#fileInSelectedButton
-ExternalChangesBrowser>>#initialExtent
-ExternalChangesBrowser>>#initializePresenter
-ExternalChangesBrowser>>#initializeWidgets
-ExternalChangesBrowser>>#selectAllButton
-MCMethodDefinition>>#summary
-MCStReader>>#classDefinitionFrom:
-MCStReader>>#classInstVarNamesFor:
-MCStReader>>#commentFor:
-MCStReader>>#commentStampFor:
-MCStReader>>#loadDefinitions
-MCStReader>>#methodDefinitionsFor:
-MCStReaderTest>>#methodWithStyle
-RGBehaviorDefinition>>#hasDefinitionSource
-RGMethodDefinition>>#asMCMethodDefinition
-RingChunkImporter
-RingChunkImporter class>>#fromFileNamed:
-RingChunkImporter class>>#fromStream:
-RingChunkImporter>>#classDefinition:with:
-RingChunkImporter>>#classNamed:
-RingChunkImporter>>#classes
-RingChunkImporter>>#createClassNamed:
-RingChunkImporter>>#createTraitNamed:
-RingChunkImporter>>#doIts
-RingChunkImporter>>#fileInFrom:
-RingChunkImporter>>#fromFileNamed:
-RingChunkImporter>>#initialize
-RingChunkImporter>>#metaClassDefinition:with:
-RingChunkImporter>>#metaTraitDefinition:with:
-RingChunkImporter>>#msgClassComment:with:
-RingChunkImporter>>#packages
-RingChunkImporter>>#removedMethod:with:
-RingChunkImporter>>#scannedSource:
-RingChunkImporter>>#traitDefinition:with:
-RingChunkImporter>>#visitClassCommentChunk:
-RingChunkImporter>>#visitClassOrganizationChunk:
-RingChunkImporter>>#visitDoItChunk:
-RingChunkImporter>>#visitMethodChunk:
-RingChunkImporter>>#visitStyleChunk:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50092
-ScriptLoader>>#update50093
+Monticello-Tests.MCStReaderTest>>#methodWithStyle
+Monticello.MCMethodDefinition>>#summary
+Monticello.MCStReader>>#classDefinitionFrom:
+Monticello.MCStReader>>#classInstVarNamesFor:
+Monticello.MCStReader>>#commentFor:
+Monticello.MCStReader>>#commentStampFor:
+Monticello.MCStReader>>#loadDefinitions
+Monticello.MCStReader>>#methodDefinitionsFor:
+Ring-Core-Kernel.RGBehaviorDefinition>>#hasDefinitionSource
+Ring-Monticello.RGMethodDefinition>>#asMCMethodDefinition
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50092
+ScriptLoader50.ScriptLoader>>#update50093
+Tool-ExternalBrowser.CurrentImage
+Tool-ExternalBrowser.CurrentImage>>#packages
+Tool-ExternalBrowser.ExternalBrowser
+Tool-ExternalBrowser.ExternalBrowser class>>#browseStream:
+Tool-ExternalBrowser.ExternalBrowser class>>#defaultSpec
+Tool-ExternalBrowser.ExternalBrowser class>>#fileReaderServicesForFile:suffix:
+Tool-ExternalBrowser.ExternalBrowser class>>#initialize
+Tool-ExternalBrowser.ExternalBrowser class>>#openOn:
+Tool-ExternalBrowser.ExternalBrowser class>>#serviceBrowseCode
+Tool-ExternalBrowser.ExternalBrowser class>>#services
+Tool-ExternalBrowser.ExternalBrowser>>#classes
+Tool-ExternalBrowser.ExternalBrowser>>#classesOfPackage:
+Tool-ExternalBrowser.ExternalBrowser>>#initialExtent
+Tool-ExternalBrowser.ExternalBrowser>>#initializeClassList
+Tool-ExternalBrowser.ExternalBrowser>>#initializeMethodBodyPane
+Tool-ExternalBrowser.ExternalBrowser>>#initializePackageList
+Tool-ExternalBrowser.ExternalBrowser>>#initializePresenter
+Tool-ExternalBrowser.ExternalBrowser>>#initializeProtocolList
+Tool-ExternalBrowser.ExternalBrowser>>#initializeSelectorList
+Tool-ExternalBrowser.ExternalBrowser>>#initializeWidgets
+Tool-ExternalBrowser.ExternalBrowser>>#method
+Tool-ExternalBrowser.ExternalBrowser>>#method:
+Tool-ExternalBrowser.ExternalBrowser>>#methodFor:
+Tool-ExternalBrowser.ExternalBrowser>>#model:
+Tool-ExternalBrowser.ExternalBrowser>>#packages
+Tool-ExternalBrowser.ExternalBrowser>>#populatePackages
+Tool-ExternalBrowser.ExternalBrowser>>#protocols
+Tool-ExternalBrowser.ExternalBrowser>>#protocolsOfClass:
+Tool-ExternalBrowser.ExternalBrowser>>#refreshClasses:
+Tool-ExternalBrowser.ExternalBrowser>>#resetClassSelection
+Tool-ExternalBrowser.ExternalBrowser>>#resetMethodBodyPane
+Tool-ExternalBrowser.ExternalBrowser>>#resetProtocolSelection
+Tool-ExternalBrowser.ExternalBrowser>>#resetSelectorSelection
+Tool-ExternalBrowser.ExternalBrowser>>#selectors
+Tool-ExternalBrowser.ExternalBrowser>>#selectors:
+Tool-ExternalBrowser.ExternalBrowser>>#selectorsOfProtocol:
+Tool-ExternalBrowser.ExternalBrowser>>#showClassSide
+Tool-ExternalBrowser.ExternalBrowser>>#title
+Tool-ExternalBrowser.ExternalBrowser>>#wireClasses
+Tool-ExternalBrowser.ExternalBrowser>>#wirePackages
+Tool-ExternalBrowser.ExternalBrowser>>#wireProtocols
+Tool-ExternalBrowser.ExternalBrowser>>#wireSelectors
+Tool-ExternalBrowser.ExternalChangesBrowser
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#defaultSpec
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#openOn:
+Tool-ExternalBrowser.ExternalChangesBrowser>>#buildMenu:
+Tool-ExternalBrowser.ExternalChangesBrowser>>#canCompareToCurrent
+Tool-ExternalBrowser.ExternalChangesBrowser>>#changeDescription:
+Tool-ExternalBrowser.ExternalChangesBrowser>>#changeSetName:
+Tool-ExternalBrowser.ExternalChangesBrowser>>#changes
+Tool-ExternalBrowser.ExternalChangesBrowser>>#codePane
+Tool-ExternalBrowser.ExternalChangesBrowser>>#compareToCurrent:
+Tool-ExternalBrowser.ExternalChangesBrowser>>#deselectAllButton
+Tool-ExternalBrowser.ExternalChangesBrowser>>#fileIn:
+Tool-ExternalBrowser.ExternalChangesBrowser>>#fileInSelectedButton
+Tool-ExternalBrowser.ExternalChangesBrowser>>#initialExtent
+Tool-ExternalBrowser.ExternalChangesBrowser>>#initializePresenter
+Tool-ExternalBrowser.ExternalChangesBrowser>>#initializeWidgets
+Tool-ExternalBrowser.ExternalChangesBrowser>>#selectAllButton
+Tool-ExternalBrowser.RingChunkImporter
+Tool-ExternalBrowser.RingChunkImporter class>>#fromFileNamed:
+Tool-ExternalBrowser.RingChunkImporter class>>#fromStream:
+Tool-ExternalBrowser.RingChunkImporter>>#classDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#classNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#classes
+Tool-ExternalBrowser.RingChunkImporter>>#createClassNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#createTraitNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#doIts
+Tool-ExternalBrowser.RingChunkImporter>>#fileInFrom:
+Tool-ExternalBrowser.RingChunkImporter>>#fromFileNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#initialize
+Tool-ExternalBrowser.RingChunkImporter>>#metaClassDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#metaTraitDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#msgClassComment:with:
+Tool-ExternalBrowser.RingChunkImporter>>#packages
+Tool-ExternalBrowser.RingChunkImporter>>#removedMethod:with:
+Tool-ExternalBrowser.RingChunkImporter>>#scannedSource:
+Tool-ExternalBrowser.RingChunkImporter>>#traitDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#visitClassCommentChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitClassOrganizationChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitDoItChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitMethodChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitStyleChunk:

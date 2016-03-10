@@ -1,10 +1,10 @@
-AbstractNautilusUI>>#classIconFor:
-MCVersion>>#loadCompletePackageSnapshot
-MCVersion>>#loadCompleteSnapshot
-MCWorkingCopy>>#completeSnapshot
-Nautilus class>>#nautilusSettingsOn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50479
-ScriptLoader>>#update50480
-SettingDeclaration>>#inputWidget
-SystemNavigation>>#browseAllImplementorsOf:
+Monticello.MCVersion>>#loadCompletePackageSnapshot
+Monticello.MCVersion>>#loadCompleteSnapshot
+Monticello.MCWorkingCopy>>#completeSnapshot
+Nautilus.AbstractNautilusUI>>#classIconFor:
+Nautilus.Nautilus class>>#nautilusSettingsOn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50479
+ScriptLoader50.ScriptLoader>>#update50480
+System-Settings.SettingDeclaration>>#inputWidget
+Tool-Base.SystemNavigation>>#browseAllImplementorsOf:

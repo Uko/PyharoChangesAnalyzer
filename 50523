@@ -1,28 +1,28 @@
-ConfigurationOfFastTable>>#stable:
-ConfigurationOfFastTable>>#version082:
-DebuggerTest
-FTBasicItem>>#calculateChildren
-FTBasicItem>>#getChildren
-FTExamples class>>#exampleTree1
-FTExamples class>>#exampleTree2
-FTExamples class>>#exampleTreeWithAllItemsFilter
-FTExamples class>>#exampleTreeWithAllItemsSearch
-FTExamples class>>#exampleTreeWithRootFilter
-FTExamples class>>#exampleTreeWithRootSearch
-FTExamples class>>#exampleTreeWithVisibleItemsFilter
-FTExamples class>>#exampleTreeWithVisibleItemsSearch
-FTFunction>>#disable
-FTFunctionWithField>>#disable
-FTNilFunction>>#disable
-FTTableContainerMorph>>#drawOn:
-FTTableMorph>>#disableFunction
-FTTableMorph>>#extent:
-GLMRubricSmalltalkTextModel>>#sugsContext
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50522
-ScriptLoader>>#update50523
-SpecDebuggerTest>>#testBasic
-SugsGlamourCodeContext
-SugsGlamourCodeContext>>#selectedClass
-SugsGlamourCodeContext>>#selectedMethod
-SugsGlamourCodeContext>>#sourceTextArea
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#version082:
+Morphic-Widgets-FastTable.FTBasicItem>>#calculateChildren
+Morphic-Widgets-FastTable.FTBasicItem>>#getChildren
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTree1
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTree2
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithAllItemsFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithAllItemsSearch
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithRootFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithRootSearch
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithVisibleItemsFilter
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTreeWithVisibleItemsSearch
+Morphic-Widgets-FastTable.FTFunction>>#disable
+Morphic-Widgets-FastTable.FTFunctionWithField>>#disable
+Morphic-Widgets-FastTable.FTNilFunction>>#disable
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTTableMorph>>#disableFunction
+Morphic-Widgets-FastTable.FTTableMorph>>#extent:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50522
+ScriptLoader50.ScriptLoader>>#update50523
+SmartSuggestions.GLMRubricSmalltalkTextModel>>#sugsContext
+SmartSuggestions.SugsGlamourCodeContext
+SmartSuggestions.SugsGlamourCodeContext>>#selectedClass
+SmartSuggestions.SugsGlamourCodeContext>>#selectedMethod
+SmartSuggestions.SugsGlamourCodeContext>>#sourceTextArea
+Tools-Test.DebuggerTest
+Tools-Test.SpecDebuggerTest>>#testBasic

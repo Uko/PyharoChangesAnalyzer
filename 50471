@@ -1,6 +1,6 @@
-ChangeSorterApplication>>#removeMessage
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50470
-ScriptLoader>>#update50471
-WatchpointWindow>>#extent
-WatchpointWindow>>#setupMenu
+Reflectivity-Tools.WatchpointWindow>>#extent
+Reflectivity-Tools.WatchpointWindow>>#setupMenu
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50470
+ScriptLoader50.ScriptLoader>>#update50471
+Spec-Tools.ChangeSorterApplication>>#removeMessage

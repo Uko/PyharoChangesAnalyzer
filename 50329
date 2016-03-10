@@ -1,17 +1,17 @@
-CatalogBrowser>>#installStableVersion:onSuccess:
-CatalogBrowser>>#onLoadFrom:
-CodeImporter>>#flushChangesFile
-ConfigurationOfCatalog>>#stable:
-ConfigurationOfCatalog>>#version09:
-ConfigurationOfCodeImporter>>#baseline112:
-ConfigurationOfCodeImporter>>#development:
-ConfigurationOfCodeImporter>>#stable:
-ConfigurationOfCodeImporter>>#version112:
-GTSpotter>>#spotterCatalogProjectsFor:
-ManifestCodeImport
-ManifestCodeImport class>>#manuallyResolvedDependencies
-RFASTTranslatorForValue>>#visitSequenceNode:
-ReflectivityControlTest>>#testInsteadBlockSequence
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50328
-ScriptLoader>>#update50329
+CodeImport.CodeImporter>>#flushChangesFile
+CodeImport.ManifestCodeImport
+CodeImport.ManifestCodeImport class>>#manuallyResolvedDependencies
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version09:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#baseline112:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#development:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#stable:
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#version112:
+Reflectivity-Tests.ReflectivityControlTest>>#testInsteadBlockSequence
+Reflectivity.RFASTTranslatorForValue>>#visitSequenceNode:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50328
+ScriptLoader50.ScriptLoader>>#update50329
+Tool-Catalog.CatalogBrowser>>#installStableVersion:onSuccess:
+Tool-Catalog.CatalogBrowser>>#onLoadFrom:
+Tool-Catalog.GTSpotter>>#spotterCatalogProjectsFor:

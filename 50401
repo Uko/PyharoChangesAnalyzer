@@ -1,14 +1,14 @@
-AboutDialogWindow
-AboutDialogWindow class>>#open
-AboutDialogWindow class>>#openForPharo
-AboutDialogWindow>>#defaultLabel
-AbstractNautilusUI
-AbstractNautilusUI>>#classifier
-AbstractNautilusUI>>#initialize
-ExternalChangesBrowser class>>#fileReaderServicesForFile:suffix:
-FileStream class>>#changesFileSuffixes
-FileStream class>>#isChangesFileSuffix:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50400
-ScriptLoader>>#update50401
-SmalltalkImage>>#aboutThisSystem
+Files.FileStream class>>#changesFileSuffixes
+Files.FileStream class>>#isChangesFileSuffix:
+Morphic-Base.SmalltalkImage>>#aboutThisSystem
+Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI>>#classifier
+Nautilus.AbstractNautilusUI>>#initialize
+Polymorph-Widgets.AboutDialogWindow
+Polymorph-Widgets.AboutDialogWindow class>>#open
+Polymorph-Widgets.AboutDialogWindow class>>#openForPharo
+Polymorph-Widgets.AboutDialogWindow>>#defaultLabel
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50400
+ScriptLoader50.ScriptLoader>>#update50401
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#fileReaderServicesForFile:suffix:

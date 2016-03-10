@@ -1,41 +1,41 @@
-ClassQueryTest
-ClassQueryTest>>#testAllCallsOn
-ClassQueryTest>>#testAllCallsOnASymbol
-ClassQueryTest>>#testReferencedClasses
-JobTest
-JobTest>>#tearDown
-JobTest>>#testChildJob
-JobTest>>#testCurrentJob
-JobTest>>#testJobAnnouncements
-JobTest>>#testLookupJob
-JobTest>>#testOwner
-JobTest>>#testProgress
-JobTest>>#testProgressChangeByCurrentValue
-JobTest>>#testSingleJob
-ManifestASTCore class>>#manuallyResolvedDependencies
-ManifestCompression class>>#manuallyResolvedDependencies
-ManifestJobs class>>#ignoredDependencies
-ManifestMonticello class>>#manuallyResolvedDependencies
-ManifestOpalCompilerCore class>>#ignoredDependencies
-ManifestOpalCompilerCore class>>#rejectRules
-ManifestOpalCompilerCore class>>#ruleAssignmentInIfTrueRuleV1TruePositive
-ManifestOpalCompilerCore class>>#ruleBadMessageRuleV1FalsePositive
-ManifestOpalCompilerCore class>>#ruleMethodHasNoTimeStampRuleV1TruePositive
-ManifestOpalCompilerCore class>>#ruleTempsReadBeforeWrittenRuleV1FalsePositive
-ManifestOpalCompilerCore class>>#ruleToDoCollectRuleV1FalsePositive
-ManifestOpalCompilerCore class>>#ruleVariableAssignedLiteralRuleV1FalsePositive
-ManifestRingMonticello class>>#manuallyResolvedDependencies
-ManifestSlot class>>#manuallyResolvedDependencies
-ManifestSystemChanges class>>#manuallyResolvedDependencies
-ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
-ManifestSystemSources class>>#manuallyResolvedDependencies
-ManifestSystemSupport class>>#manuallyResolvedDependencies
-ManifestTraits class>>#manuallyResolvedDependencies
-ManifestTranscript class>>#manuallyResolvedDependencies
-ManifestUIManager class>>#ignoredDependencies
-ManifestUIManager class>>#manuallyResolvedDependencies
-MethodQueryTest
-MethodQueryTest>>#testReferencedClasses
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50294
-ScriptLoader>>#update50295
+AST-Core.ManifestASTCore class>>#manuallyResolvedDependencies
+Compression.ManifestCompression class>>#manuallyResolvedDependencies
+Jobs.JobTest
+Jobs.JobTest>>#tearDown
+Jobs.JobTest>>#testChildJob
+Jobs.JobTest>>#testCurrentJob
+Jobs.JobTest>>#testJobAnnouncements
+Jobs.JobTest>>#testLookupJob
+Jobs.JobTest>>#testOwner
+Jobs.JobTest>>#testProgress
+Jobs.JobTest>>#testProgressChangeByCurrentValue
+Jobs.JobTest>>#testSingleJob
+Jobs.ManifestJobs class>>#ignoredDependencies
+Monticello.ManifestMonticello class>>#manuallyResolvedDependencies
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ignoredDependencies
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#rejectRules
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleAssignmentInIfTrueRuleV1TruePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleBadMessageRuleV1FalsePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleMethodHasNoTimeStampRuleV1TruePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleTempsReadBeforeWrittenRuleV1FalsePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleToDoCollectRuleV1FalsePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleVariableAssignedLiteralRuleV1FalsePositive
+Ring-Monticello.ManifestRingMonticello class>>#manuallyResolvedDependencies
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50294
+ScriptLoader50.ScriptLoader>>#update50295
+Slot.ManifestSlot class>>#manuallyResolvedDependencies
+System-Changes.ManifestSystemChanges class>>#manuallyResolvedDependencies
+System-FileRegistry.ManifestSystemFileRegistry class>>#manuallyResolvedDependencies
+System-Sources.ManifestSystemSources class>>#manuallyResolvedDependencies
+System-Support.ClassQueryTest
+System-Support.ClassQueryTest>>#testAllCallsOn
+System-Support.ClassQueryTest>>#testAllCallsOnASymbol
+System-Support.ClassQueryTest>>#testReferencedClasses
+System-Support.ManifestSystemSupport class>>#manuallyResolvedDependencies
+System-Support.MethodQueryTest
+System-Support.MethodQueryTest>>#testReferencedClasses
+Traits.ManifestTraits class>>#manuallyResolvedDependencies
+Transcript.ManifestTranscript class>>#manuallyResolvedDependencies
+UIManager.ManifestUIManager class>>#ignoredDependencies
+UIManager.ManifestUIManager class>>#manuallyResolvedDependencies

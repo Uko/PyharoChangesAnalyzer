@@ -1,63 +1,63 @@
-ConfigurationOfGlamourCore>>#development:
-ConfigurationOfGlamourCore>>#stable:
-ConfigurationOfGlamourCore>>#version322:
-ConfigurationOfGlamourCore>>#version323:
-GLMActionButtonBrick class>>#gtExample
-GLMAlertBrick class>>#gtExample
-GLMBandBrick class>>#gtExample
-GLMBasicExamples>>#compoundTaggedTree
-GLMBrick class>>#gtExampleZindex
-GLMButtonBrick class>>#gtExample
-GLMCheckboxBrick class>>#gtExample
-GLMCheckboxBrick class>>#gtExampleWithLabel
-GLMCollapsableBrick class>>#gtExample
-GLMCompositeBrick class>>#gtExampleList
-GLMCompositeBrick class>>#gtExampleListClassMethods
-GLMCompositeBrick class>>#gtExampleListWithCustomItems
-GLMCompositeBrick class>>#gtExamplePharoMethod
-GLMCompositeBrick class>>#gtExampleTable
-GLMEditableLabelBrick class>>#gtExample
-GLMFormBrick class>>#gtExample
-GLMLabelBrick class>>#gtExample
-GLMLabelBrick class>>#gtExampleWithPopup
-GLMMorphicListingRenderer>>#textInputFor:withHelpMessage:
-GLMPagerBarBrick>>#pagerModel:
-GLMPagerBrick>>#pagerModel:
-GLMPagerButtonsPaneBrick>>#addButton:
-GLMPagerButtonsPaneBrick>>#pagerModel:
-GLMPagerScrollSlidingBrick>>#pagerModel:
-GLMPopupBrick class>>#gtExampleAllTypes
-GLMPopupBrick class>>#gtExampleAllTypesBelow
-GLMRubEditingAreaBrick class>>#gtExample
-GLMRubEditingAreaBrick class>>#gtExampleBand
-GLMRubEditingAreaBrick class>>#gtExampleBasic
-GLMRubEditingAreaBrick class>>#gtExampleFill
-GLMRubEditingAreaBrick class>>#gtExampleScrollPane
-GLMRubScrolledTextBrick class>>#gtExample
-GLMRubScrolledTextBrick class>>#gtExampleBand
-GLMRubTextFieldBrick class>>#gtExample
-GLMRubTextFieldBrick class>>#gtExampleFullSpaceFill
-GLMRubTextFieldBrick class>>#gtExampleFullSpaceFillCentered
-GLMRubTextFieldBrick class>>#gtExampleHSpaceFill
-GLMRubTextFieldBrick class>>#gtExampleVSpaceFill
-GLMRubTextFieldBrick class>>#gtExampleVSpaceFillCentered
-GLMRubTextFieldBrick class>>#gtExampleWithBorder
-GLMTreeBrick class>>#gtExample
-GLMWhitespaceTheme>>#checkboxSelectedForm
-GLMWhitespaceTheme>>#checkboxUnselectedForm
-GLMWhitespaceTheme>>#menuPinForm
-GLMWhitespaceTheme>>#newCheckboxMarkerForm
-GLMWhitespaceTheme>>#newRadioButtonMarkerForm
-GLMWhitespaceTheme>>#newWindowCloseForm
-GLMWhitespaceTheme>>#newWindowMaximizeForm
-GLMWhitespaceTheme>>#newWindowMenuForm
-GLMWhitespaceTheme>>#newWindowMenuPassiveForm
-GLMWhitespaceTheme>>#newWindowMinimizeForm
-GLMWhitespaceTheme>>#radioButtonForm
-GLMWhitespaceTheme>>#radioButtonSelectedForm
-GLMWhitespaceTheme>>#windowClosePassiveForm
-GLMWhitespaceTheme>>#windowMaximizePassiveForm
-GLMWhitespaceTheme>>#windowMinimizePassiveForm
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50356
-ScriptLoader>>#update50357
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#development:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version322:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version323:
+Glamour-Examples.GLMBasicExamples>>#compoundTaggedTree
+Glamour-Morphic-Brick.GLMActionButtonBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMAlertBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMBandBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMBrick class>>#gtExampleZindex
+Glamour-Morphic-Brick.GLMButtonBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMCheckboxBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMCheckboxBrick class>>#gtExampleWithLabel
+Glamour-Morphic-Brick.GLMCollapsableBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMCompositeBrick class>>#gtExampleList
+Glamour-Morphic-Brick.GLMCompositeBrick class>>#gtExampleListClassMethods
+Glamour-Morphic-Brick.GLMCompositeBrick class>>#gtExampleListWithCustomItems
+Glamour-Morphic-Brick.GLMCompositeBrick class>>#gtExamplePharoMethod
+Glamour-Morphic-Brick.GLMCompositeBrick class>>#gtExampleTable
+Glamour-Morphic-Brick.GLMEditableLabelBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMFormBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMLabelBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMLabelBrick class>>#gtExampleWithPopup
+Glamour-Morphic-Brick.GLMPopupBrick class>>#gtExampleAllTypes
+Glamour-Morphic-Brick.GLMPopupBrick class>>#gtExampleAllTypesBelow
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExampleBand
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExampleBasic
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExampleFill
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExampleScrollPane
+Glamour-Morphic-Brick.GLMRubScrolledTextBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMRubScrolledTextBrick class>>#gtExampleBand
+Glamour-Morphic-Brick.GLMRubTextFieldBrick class>>#gtExample
+Glamour-Morphic-Brick.GLMRubTextFieldBrick class>>#gtExampleFullSpaceFill
+Glamour-Morphic-Brick.GLMRubTextFieldBrick class>>#gtExampleFullSpaceFillCentered
+Glamour-Morphic-Brick.GLMRubTextFieldBrick class>>#gtExampleHSpaceFill
+Glamour-Morphic-Brick.GLMRubTextFieldBrick class>>#gtExampleVSpaceFill
+Glamour-Morphic-Brick.GLMRubTextFieldBrick class>>#gtExampleVSpaceFillCentered
+Glamour-Morphic-Brick.GLMRubTextFieldBrick class>>#gtExampleWithBorder
+Glamour-Morphic-Brick.GLMTreeBrick class>>#gtExample
+Glamour-Morphic-Pager.GLMPagerBarBrick>>#pagerModel:
+Glamour-Morphic-Pager.GLMPagerBrick>>#pagerModel:
+Glamour-Morphic-Pager.GLMPagerButtonsPaneBrick>>#addButton:
+Glamour-Morphic-Pager.GLMPagerButtonsPaneBrick>>#pagerModel:
+Glamour-Morphic-Pager.GLMPagerScrollSlidingBrick>>#pagerModel:
+Glamour-Morphic-Renderer.GLMMorphicListingRenderer>>#textInputFor:withHelpMessage:
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#checkboxSelectedForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#checkboxUnselectedForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#menuPinForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#newCheckboxMarkerForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#newRadioButtonMarkerForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#newWindowCloseForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#newWindowMaximizeForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#newWindowMenuForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#newWindowMenuPassiveForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#newWindowMinimizeForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#radioButtonForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#radioButtonSelectedForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#windowClosePassiveForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#windowMaximizePassiveForm
+Glamour-Morphic-Theme.GLMWhitespaceTheme>>#windowMinimizePassiveForm
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50356
+ScriptLoader50.ScriptLoader>>#update50357

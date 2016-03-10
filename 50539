@@ -1,174 +1,174 @@
-BaselineOfQualityAssistant>>#baseline:
-BaselineOfQualityAssistant>>#preLoadDoIt
-BaselineOfQualityAssistant>>#removeExtensionMethods
-CompiledMethod>>#asCollectedEntity
-CompiledMethod>>#ban:
-CompiledMethod>>#critics
-CompiledMethod>>#gtInspectorCriticsIn:
-CompiledMethod>>#guidedBan:
-CompiledMethod>>#overriddenMethods
-CompiledMethod>>#spotterQACriticsFor:
-ConfigurationOfQualityAssistant>>#development:
-ConfigurationOfQualityAssistant>>#pre2_3_0:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#v2_2_2:
-ConfigurationOfQualityAssistant>>#v2_3_0:
-ConfigurationOfRenraku>>#development:
-ConfigurationOfRenraku>>#pre0_10_0:
-ConfigurationOfRenraku>>#stable:
-ConfigurationOfRenraku>>#v0_10_0:
-ConfigurationOfRenraku>>#v0_11_0:
-ConfigurationOfRenraku>>#v0_11_1:
-Object>>#asCollectedEntity
-Object>>#externalProperties
-QANautilusPlugin class>>#install
-QANautilusPlugin class>>#isInstalled
-QANautilusPlugin>>#criticSelected:
-QANautilusPlugin>>#packageSelected:
-QANautilusPlugin>>#registerTo:
-QANautilusPluginMorph>>#displayCritic:
-QANautilusPluginMorph>>#initializeUpdateTask
-QANautilusPluginMorph>>#setTaskAction
-QARCriticEvent>>#fromAnnouncement:
-QASettings class>>#inspectorPlugginSettingsOn:
-QASettings class>>#nautilusPlugin
-QASettings class>>#nautilusPlugin:
-QASettings class>>#qaGroupSettingsOn:
-QASettings class>>#qaNautilusPlugginSettingOn:
-QASettings class>>#spotterPluginSettingsOn:
-RBBadMessageRule>>#check:forCriticsDo:ifNone:
-RBCascadeNode>>#leftmostChainReceiver
-RBDefineBasickCheckRule>>#check:forCriticsDo:ifNone:
-RBLintRule class>>#checksAST
-RBMessageNode>>#leftmostChainReceiver
-RBMethodNode>>#asCollectedEntity
-RBMethodNode>>#ban:
-RBMethodNode>>#critics
-RBMethodNode>>#guidedBan:
-RBOnlyReadOrWrittenVariableRule>>#check:forCriticsDo:ifNone:
-RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
-RBUndeclaredReferenceRule>>#check:forCriticsDo:ifNone:
-RBUnreferencedVariablesRule>>#check:forCriticsDo:ifNone:
-RBVariableNotDefinedRule>>#check:forCriticsDo:ifNone:
-RPackage>>#asCollectedEntity
-RPackage>>#ban:
-RPackage>>#critics
-RPackage>>#guidedBan:
-RPackage>>#package
-ReAbstractCritic
-ReAbstractCritic class>>#withAnchor:by:
-ReAbstractCritic>>#actions
-ReAbstractCritic>>#ban
-ReAbstractCritic>>#gtInspectorDescriptionIn:
-ReAbstractCritic>>#gtInspectorSourceCodeIn:
-ReAbstractCritic>>#guidedBan
-ReAbstractCritic>>#icon
-ReAbstractCritic>>#initializeRule:sourceAnchor:
-ReAbstractCritic>>#initializeRule:target:
-ReAbstractCritic>>#isCritic
-ReAbstractCritic>>#popDescriptionUp
-ReAbstractCritic>>#spotterPreviewRationaleIn:
-ReBasicMethodRule
-ReBasicMethodRule class>>#checksMethod
-ReBasicMethodRule class>>#isVisible
-ReBasicMethodRule class>>#uniqueIdentifierName
-ReBasicMethodRule>>#checkMethod:
-ReBasicMethodRule>>#resultClass
-ReBasicTreeRule
-ReBasicTreeRule class>>#checksAST
-ReBasicTreeRule class>>#isVisible
-ReBasicTreeRule class>>#uniqueIdentifierName
-ReBasicTreeRule>>#checkMethod:
-ReBasicTreeRule>>#resultClass
-ReCriticTest>>#testTarget
-ReFeedbacker
-ReFeedbacker class>>#feedback:positive:About:
-ReInspectorPresentationsNonBlockSetup
-ReInspectorPresentationsNonBlockSetup>>#basicCheck:
-ReInspectorPresentationsNonBlockSetup>>#check:forCriticsDo:ifNone:
-ReInspectorPresentationsNonBlockSetup>>#group
-ReInspectorPresentationsNonBlockSetup>>#name
-ReInspectorPresentationsNonBlockSetup>>#presentationScriptingMathods
-ReInspectorPresentationsNonlazyCode
-ReInspectorPresentationsNonlazyCode>>#basicCheck:
-ReInspectorPresentationsNonlazyCode>>#check:forCriticsDo:ifNone:
-ReInspectorPresentationsNonlazyCode>>#group
-ReInspectorPresentationsNonlazyCode>>#name
-ReInspectorPresentationsNonlazyCode>>#presentation:isTheLeftmostRecepientIn:
-ReIntervalSourceAnchor
-ReIntervalSourceAnchor class>>#entity:interval:
-ReIntervalSourceAnchor>>#gtInspectorSourceCodeIn:
-ReIntervalSourceAnchor>>#initializeEnitity:interval:
-ReIntervalSourceAnchor>>#interval
-ReIntervalSourceAnchor>>#providesInterval
-ReMissingMethodCritic
-ReMissingMethodCritic>>#change
-ReMissingMethodCritic>>#methodHeader
-ReMissingMethodCritic>>#title
-ReProperty
-ReProperty>>#actions
-ReProperty>>#icon
-ReProperty>>#initializeSourceAnchor:
-ReProperty>>#isCritic
-ReProperty>>#sourceAnchor
-ReProperty>>#title
-RePropertyAction
-RePropertyAction>>#actOnCritic:ofEntity:
-RePropertyAction>>#action
-RePropertyAction>>#action:
-RePropertyAction>>#description
-RePropertyAction>>#description:
-RePropertyAction>>#icon
-RePropertyAction>>#icon:
-RePropertyAction>>#initialize
-ReReturnMethodRule
-ReReturnMethodRule>>#basicCheck:
-ReReturnMethodRule>>#group
-ReReturnMethodRule>>#name
-ReReturnMethodRule>>#severity
-ReReuseBasickCkeck
-ReReuseBasickCkeck>>#basicCheck:
-ReReuseBasickCkeck>>#group
-ReReuseBasickCkeck>>#lintCheckSelectors
-ReReuseBasickCkeck>>#name
-ReReuseBasickCkeck>>#severity
-ReRuleManager
-ReRuleManager>>#astRules
-ReRuleManager>>#initializeRules
-ReRuleManager>>#packageRules
-ReSearchStringSourceAnchor
-ReSearchStringSourceAnchor class>>#entity:string:
-ReSearchStringSourceAnchor>>#gtInspectorSourceCodeIn:
-ReSearchStringSourceAnchor>>#initializeEnitity:searchString:
-ReSearchStringSourceAnchor>>#interval
-ReSearchStringSourceAnchor>>#providesInterval
-ReSearchStringSourceAnchor>>#searchString
-ReSourceAnchor
-ReSourceAnchor class>>#entity:
-ReSourceAnchor>>#entity
-ReSourceAnchor>>#gtInspectorSourceCodeIn:
-ReSourceAnchor>>#initializeEnitity:
-ReSourceAnchor>>#interval
-ReSourceAnchor>>#providesInterval
-ReSourceAnchor>>#sourceEntity
-ReStringBasedCritic class>>#for:by:badString:
-ReStringBasedCritic>>#change
-ReStringBasedCritic>>#initializeRule:target:badString:
-ReStringBasedCritic>>#title
-ReStringSearchCritic
-ReStringSearchCritic>>#providesChange
-ReSystemAnnouncer>>#notifyCritic:of:BannedOn:
-ReSystemAnnouncer>>#notifyEntity:CriticizedWith:
-ReTransformationCritic
-ReTransformationCritic>>#change
-ReTrivialCritic
-ReTrivialCritic>>#change
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50538
-ScriptLoader>>#update50539
-TBehavior>>#ban:
-TBehavior>>#critics
-TBehavior>>#gtInspectorCriticsIn:
-TBehavior>>#guidedBan:
-TBehavior>>#spotterQACriticsFor:
-TClassDescription>>#asCollectedEntity
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#preLoadDoIt
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#removeExtensionMethods
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#pre2_3_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_2_2:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_3_0:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#development:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#pre0_10_0:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_10_0:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_11_0:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_11_1:
+QualityAssistant.CompiledMethod>>#gtInspectorCriticsIn:
+QualityAssistant.CompiledMethod>>#guidedBan:
+QualityAssistant.CompiledMethod>>#spotterQACriticsFor:
+QualityAssistant.QANautilusPlugin class>>#install
+QualityAssistant.QANautilusPlugin class>>#isInstalled
+QualityAssistant.QANautilusPlugin>>#criticSelected:
+QualityAssistant.QANautilusPlugin>>#packageSelected:
+QualityAssistant.QANautilusPlugin>>#registerTo:
+QualityAssistant.QANautilusPluginMorph>>#displayCritic:
+QualityAssistant.QANautilusPluginMorph>>#initializeUpdateTask
+QualityAssistant.QANautilusPluginMorph>>#setTaskAction
+QualityAssistant.QASettings class>>#inspectorPlugginSettingsOn:
+QualityAssistant.QASettings class>>#nautilusPlugin
+QualityAssistant.QASettings class>>#nautilusPlugin:
+QualityAssistant.QASettings class>>#qaGroupSettingsOn:
+QualityAssistant.QASettings class>>#qaNautilusPlugginSettingOn:
+QualityAssistant.QASettings class>>#spotterPluginSettingsOn:
+QualityAssistant.ReAbstractCritic>>#gtInspectorDescriptionIn:
+QualityAssistant.ReAbstractCritic>>#icon
+QualityAssistant.ReAbstractCritic>>#popDescriptionUp
+QualityAssistant.ReAbstractCritic>>#spotterPreviewRationaleIn:
+QualityAssistant.TBehavior>>#gtInspectorCriticsIn:
+QualityAssistant.TBehavior>>#guidedBan:
+QualityAssistant.TBehavior>>#spotterQACriticsFor:
+QualityAssistantRecording.CompiledMethod>>#asCollectedEntity
+QualityAssistantRecording.Object>>#asCollectedEntity
+QualityAssistantRecording.QARCriticEvent>>#fromAnnouncement:
+QualityAssistantRecording.RBMethodNode>>#asCollectedEntity
+QualityAssistantRecording.RPackage>>#asCollectedEntity
+QualityAssistantRecording.TClassDescription>>#asCollectedEntity
+Renraku-Test.ReCriticTest>>#testTarget
+Renraku.CompiledMethod>>#ban:
+Renraku.CompiledMethod>>#critics
+Renraku.CompiledMethod>>#overriddenMethods
+Renraku.Object>>#externalProperties
+Renraku.RBBadMessageRule>>#check:forCriticsDo:ifNone:
+Renraku.RBCascadeNode>>#leftmostChainReceiver
+Renraku.RBDefineBasickCheckRule>>#check:forCriticsDo:ifNone:
+Renraku.RBLintRule class>>#checksAST
+Renraku.RBMessageNode>>#leftmostChainReceiver
+Renraku.RBMethodNode>>#ban:
+Renraku.RBMethodNode>>#critics
+Renraku.RBMethodNode>>#guidedBan:
+Renraku.RBOnlyReadOrWrittenVariableRule>>#check:forCriticsDo:ifNone:
+Renraku.RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
+Renraku.RBUndeclaredReferenceRule>>#check:forCriticsDo:ifNone:
+Renraku.RBUnreferencedVariablesRule>>#check:forCriticsDo:ifNone:
+Renraku.RBVariableNotDefinedRule>>#check:forCriticsDo:ifNone:
+Renraku.RPackage>>#ban:
+Renraku.RPackage>>#critics
+Renraku.RPackage>>#guidedBan:
+Renraku.RPackage>>#package
+Renraku.ReAbstractCritic
+Renraku.ReAbstractCritic class>>#withAnchor:by:
+Renraku.ReAbstractCritic>>#actions
+Renraku.ReAbstractCritic>>#ban
+Renraku.ReAbstractCritic>>#gtInspectorSourceCodeIn:
+Renraku.ReAbstractCritic>>#guidedBan
+Renraku.ReAbstractCritic>>#initializeRule:sourceAnchor:
+Renraku.ReAbstractCritic>>#initializeRule:target:
+Renraku.ReAbstractCritic>>#isCritic
+Renraku.ReBasicMethodRule
+Renraku.ReBasicMethodRule class>>#checksMethod
+Renraku.ReBasicMethodRule class>>#isVisible
+Renraku.ReBasicMethodRule class>>#uniqueIdentifierName
+Renraku.ReBasicMethodRule>>#checkMethod:
+Renraku.ReBasicMethodRule>>#resultClass
+Renraku.ReBasicTreeRule
+Renraku.ReBasicTreeRule class>>#checksAST
+Renraku.ReBasicTreeRule class>>#isVisible
+Renraku.ReBasicTreeRule class>>#uniqueIdentifierName
+Renraku.ReBasicTreeRule>>#checkMethod:
+Renraku.ReBasicTreeRule>>#resultClass
+Renraku.ReFeedbacker
+Renraku.ReFeedbacker class>>#feedback:positive:About:
+Renraku.ReInspectorPresentationsNonBlockSetup
+Renraku.ReInspectorPresentationsNonBlockSetup>>#basicCheck:
+Renraku.ReInspectorPresentationsNonBlockSetup>>#check:forCriticsDo:ifNone:
+Renraku.ReInspectorPresentationsNonBlockSetup>>#group
+Renraku.ReInspectorPresentationsNonBlockSetup>>#name
+Renraku.ReInspectorPresentationsNonBlockSetup>>#presentationScriptingMathods
+Renraku.ReInspectorPresentationsNonlazyCode
+Renraku.ReInspectorPresentationsNonlazyCode>>#basicCheck:
+Renraku.ReInspectorPresentationsNonlazyCode>>#check:forCriticsDo:ifNone:
+Renraku.ReInspectorPresentationsNonlazyCode>>#group
+Renraku.ReInspectorPresentationsNonlazyCode>>#name
+Renraku.ReInspectorPresentationsNonlazyCode>>#presentation:isTheLeftmostRecepientIn:
+Renraku.ReIntervalSourceAnchor
+Renraku.ReIntervalSourceAnchor class>>#entity:interval:
+Renraku.ReIntervalSourceAnchor>>#gtInspectorSourceCodeIn:
+Renraku.ReIntervalSourceAnchor>>#initializeEnitity:interval:
+Renraku.ReIntervalSourceAnchor>>#interval
+Renraku.ReIntervalSourceAnchor>>#providesInterval
+Renraku.ReMissingMethodCritic
+Renraku.ReMissingMethodCritic>>#change
+Renraku.ReMissingMethodCritic>>#methodHeader
+Renraku.ReMissingMethodCritic>>#title
+Renraku.ReProperty
+Renraku.ReProperty>>#actions
+Renraku.ReProperty>>#icon
+Renraku.ReProperty>>#initializeSourceAnchor:
+Renraku.ReProperty>>#isCritic
+Renraku.ReProperty>>#sourceAnchor
+Renraku.ReProperty>>#title
+Renraku.RePropertyAction
+Renraku.RePropertyAction>>#actOnCritic:ofEntity:
+Renraku.RePropertyAction>>#action
+Renraku.RePropertyAction>>#action:
+Renraku.RePropertyAction>>#description
+Renraku.RePropertyAction>>#description:
+Renraku.RePropertyAction>>#icon
+Renraku.RePropertyAction>>#icon:
+Renraku.RePropertyAction>>#initialize
+Renraku.ReReturnMethodRule
+Renraku.ReReturnMethodRule>>#basicCheck:
+Renraku.ReReturnMethodRule>>#group
+Renraku.ReReturnMethodRule>>#name
+Renraku.ReReturnMethodRule>>#severity
+Renraku.ReReuseBasickCkeck
+Renraku.ReReuseBasickCkeck>>#basicCheck:
+Renraku.ReReuseBasickCkeck>>#group
+Renraku.ReReuseBasickCkeck>>#lintCheckSelectors
+Renraku.ReReuseBasickCkeck>>#name
+Renraku.ReReuseBasickCkeck>>#severity
+Renraku.ReRuleManager
+Renraku.ReRuleManager>>#astRules
+Renraku.ReRuleManager>>#initializeRules
+Renraku.ReRuleManager>>#packageRules
+Renraku.ReSearchStringSourceAnchor
+Renraku.ReSearchStringSourceAnchor class>>#entity:string:
+Renraku.ReSearchStringSourceAnchor>>#gtInspectorSourceCodeIn:
+Renraku.ReSearchStringSourceAnchor>>#initializeEnitity:searchString:
+Renraku.ReSearchStringSourceAnchor>>#interval
+Renraku.ReSearchStringSourceAnchor>>#providesInterval
+Renraku.ReSearchStringSourceAnchor>>#searchString
+Renraku.ReSourceAnchor
+Renraku.ReSourceAnchor class>>#entity:
+Renraku.ReSourceAnchor>>#entity
+Renraku.ReSourceAnchor>>#gtInspectorSourceCodeIn:
+Renraku.ReSourceAnchor>>#initializeEnitity:
+Renraku.ReSourceAnchor>>#interval
+Renraku.ReSourceAnchor>>#providesInterval
+Renraku.ReSourceAnchor>>#sourceEntity
+Renraku.ReStringBasedCritic class>>#for:by:badString:
+Renraku.ReStringBasedCritic>>#change
+Renraku.ReStringBasedCritic>>#initializeRule:target:badString:
+Renraku.ReStringBasedCritic>>#title
+Renraku.ReStringSearchCritic
+Renraku.ReStringSearchCritic>>#providesChange
+Renraku.ReSystemAnnouncer>>#notifyCritic:of:BannedOn:
+Renraku.ReSystemAnnouncer>>#notifyEntity:CriticizedWith:
+Renraku.ReTransformationCritic
+Renraku.ReTransformationCritic>>#change
+Renraku.ReTrivialCritic
+Renraku.ReTrivialCritic>>#change
+Renraku.TBehavior>>#ban:
+Renraku.TBehavior>>#critics
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50538
+ScriptLoader50.ScriptLoader>>#update50539

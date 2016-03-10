@@ -1,171 +1,171 @@
-ConfigurationOfZincHTTPComponents>>#stable:
-ConfigurationOfZincHTTPComponents>>#version263:
-ConfigurationOfZincHTTPComponents>>#version264:
-ConfigurationOfZincHTTPComponents>>#version265:
-ConfigurationOfZincHTTPComponents>>#version266:
-ConfigurationOfZincHTTPComponents>>#version267:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50412
-ScriptLoader>>#update50413
-ZdcAbstractSocketStream>>#close
-ZdcByteArrayManager
-ZdcByteArrayManager class>>#cleanUp
-ZdcByteArrayManager class>>#current
-ZdcByteArrayManager class>>#current:
-ZdcByteArrayManager>>#byteArrayOfSize:zero:
-ZdcByteArrayManager>>#initialize
-ZdcByteArrayManager>>#limit:
-ZdcByteArrayManager>>#poolForSize:
-ZdcByteArrayManager>>#recycle:
-ZdcByteArrayManager>>#resources
-ZdcByteArrayManager>>#totalSize
-ZdcByteArrayManagerTests
-ZdcByteArrayManagerTests>>#testClearing
-ZdcByteArrayManagerTests>>#testSimple
-ZdcIOBuffer class>>#onByteArrayOfSize:
-ZdcIOBuffer>>#bufferSize
-ZdcIOBuffer>>#close
-ZdcIOBuffer>>#printOn:
-ZdcSecureSocketStream>>#close
-ZdcSecureSocketStream>>#initializeBuffers
-ZnByteEncoder
-ZnByteEncoder class>>#cp850Mapping
-ZnByteEncoder class>>#generateByteToUnicodeSpec:
-ZnByteEncoder class>>#handlesEncoding:
-ZnByteEncoder class>>#initialize
-ZnByteEncoder class>>#initializeByteTextConverters
-ZnByteEncoder class>>#iso88591
-ZnByteEncoder class>>#iso88591Mapping
-ZnByteEncoder class>>#latin1
-ZnByteEncoder class>>#mappingToIdentifiers
-ZnByteEncoder class>>#newForEncoding:
-ZnByteEncoder class>>#newFromUrl:
-ZnByteEncoder class>>#parseUnicodeOrgSpec:
-ZnByteEncoder class>>#tablesFromSpec:
-ZnByteEncoder class>>#top128FromUnicodeSpec:
-ZnByteEncoder>>#backOnStream:
-ZnByteEncoder>>#beLenient
-ZnByteEncoder>>#byteDomain
-ZnByteEncoder>>#byteToUnicode:
-ZnByteEncoder>>#characterDomain
-ZnByteEncoder>>#encodedByteCountFor:
-ZnByteEncoder>>#identifier
-ZnByteEncoder>>#identifier:
-ZnByteEncoder>>#initialize
-ZnByteEncoder>>#isLenient
-ZnByteEncoder>>#isStrict
-ZnByteEncoder>>#nextFromStream:
-ZnByteEncoder>>#nextPut:toStream:
-ZnByteEncoder>>#printOn:
-ZnByteEncoder>>#unicodeToByte:
-ZnCharacterEncoder class>>#ascii
-ZnCharacterEncoder class>>#canonicalEncodingIdentifier:
-ZnCharacterEncoder class>>#newForEncoding:
-ZnCharacterEncoder class>>#utf8
-ZnCharacterEncoderTests>>#testByteEncoderFromUrl
-ZnClient>>#logConnectionEstablishedTo:started:
-ZnClient>>#newConnectionTo:
-ZnClient>>#options
-ZnClient>>#options:
-ZnClient>>#patch
-ZnClient>>#patch:contents:
-ZnClient>>#readResponse
-ZnClient>>#setupTLSTo:
-ZnClientTests>>#testConnectionCloseOnReuseTimeout
-ZnClientTests>>#testIfFailNonExistingHost
-ZnClientTests>>#testIfModifiedSinceNotModified
-ZnClientTests>>#testOptions
-ZnClientTests>>#testPatch
-ZnCommonLogFormat
-ZnCommonLogFormat>>#clientIPAddressFrom:
-ZnCommonLogFormat>>#combined
-ZnCommonLogFormat>>#combined:
-ZnCommonLogFormat>>#format:on:
-ZnCommonLogFormat>>#formatCombinedFields:on:
-ZnCommonLogFormat>>#formatRequest:on:
-ZnCommonLogFormat>>#formatResponse:on:
-ZnCommonLogFormat>>#formatTimestamp:on:
-ZnCommonLogFormat>>#initialize
-ZnCommonLogFormat>>#userFrom:
-ZnConnectionEstablishedEvent
-ZnConnectionEstablishedEvent>>#printContentsOn:
-ZnConnectionEstablishedEvent>>#proxy
-ZnConnectionEstablishedEvent>>#proxy:
-ZnDefaultServerDelegate class>>#empty
-ZnDefaultServerDelegate>>#map:to:
-ZnEasyTests>>#testGetJpeg
-ZnEntityReader>>#contentType
-ZnEntityReader>>#readEntity
-ZnEntityTests>>#testUnspecifiedEncoding
-ZnEntityWriter>>#contentType
-ZnEntityWriter>>#writeEntity:
-ZnHTTPSTests>>#testGetPharoVersion
-ZnHeaders>>#contentType
-ZnHeaders>>#readFrom:
-ZnHeaders>>#request:
-ZnHeadersTests>>#testReadingMultilineNonBinary
-ZnLogEvent>>#initialize
-ZnMimeType>>#=
-ZnMimeType>>#hasSameParametersAs:
-ZnNetworkingUtils class>>#proxyUrl
-ZnNetworkingUtils class>>#secureSocketStreamOn:
-ZnNetworkingUtils>>#proxyUrl
-ZnNetworkingUtils>>#secureSocketStreamOn:
-ZnNetworkingUtils>>#socketStreamToProxy
-ZnNullEncoder class>>#handlesEncoding:
-ZnReadEvalPrintDelegate>>#evaluate:
-ZnRequest class>>#options:
-ZnRequest class>>#patch:
-ZnRequestLine>>#writeOn:
-ZnRespond
-ZnRespond class>>#signalWith:
-ZnRespond>>#response
-ZnRespond>>#response:
-ZnResponse class>>#badRequest:
-ZnResponse class>>#badRequest:entity:
-ZnResponse class>>#created:
-ZnResponse class>>#created:entity:
-ZnResponse class>>#methodNotAllowed:
-ZnResponse class>>#methodNotAllowed:entity:
-ZnResponse class>>#noContent
-ZnResponse class>>#notFound:
-ZnResponse class>>#notFound:entity:
-ZnResponse class>>#notModified
-ZnResponse class>>#ok:
-ZnResponse class>>#redirect:
-ZnResponse class>>#redirect:entity:
-ZnResponse class>>#serverError:
-ZnResponse class>>#serverErrorWithEntity:
-ZnResponse class>>#statusCode:
-ZnResponse class>>#statusLine:
-ZnResponse class>>#unauthorized:
-ZnResponse class>>#unauthorized:entity:
-ZnResponseTests>>#testDefaultUTF8Encoding
-ZnResponseTests>>#testSlashdotGzipChunked
-ZnServerTests>>#testCustomDefaultDelegate
-ZnServerTests>>#testRespond
-ZnSimplifiedByteEncoder
-ZnSimplifiedByteEncoder class>>#asciiMapping
-ZnSimplifiedByteEncoder class>>#byteTextConverters
-ZnSimplifiedByteEncoder class>>#knownEncodingIdentifiers
-ZnSimplifiedByteEncoder class>>#mappingToIdentifiers
-ZnSingleThreadedServer>>#handleRequestProtected:
-ZnStatusLine class>>#noContent
-ZnStatusLine>>#printCodeAndReasonOn:
-ZnStatusLine>>#printOn:
-ZnStatusLine>>#readFrom:
-ZnStatusLine>>#reason
-ZnStatusLine>>#version:
-ZnStringEntity>>#initializeEncoder
-ZnUrl class>>#defaultPortForScheme:
-ZnUrl class>>#image
-ZnUrl>>#+
-ZnUrl>>#asFileUrl
-ZnUrl>>#authorityWithPort
-ZnUrl>>#hasSecureScheme
-ZnUrl>>#portIfAbsent:
-ZnUrl>>#portOrDefault
-ZnUrlTests>>#testAsFileUrl
-ZnUrlTests>>#testImage
-ZnUrlTests>>#testPlus
-ZnUrlTests>>#testPortIfAbsent
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#stable:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version263:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version264:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version265:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version266:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version267:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50412
+ScriptLoader50.ScriptLoader>>#update50413
+Zinc-Character-Encoding-Core.ZnByteEncoder
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#cp850Mapping
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#generateByteToUnicodeSpec:
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#handlesEncoding:
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#initialize
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#initializeByteTextConverters
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#iso88591
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#iso88591Mapping
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#latin1
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#mappingToIdentifiers
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#newForEncoding:
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#newFromUrl:
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#parseUnicodeOrgSpec:
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#tablesFromSpec:
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#top128FromUnicodeSpec:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#backOnStream:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#beLenient
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#byteDomain
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#byteToUnicode:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#characterDomain
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#encodedByteCountFor:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#identifier
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#identifier:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#initialize
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#isLenient
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#isStrict
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#nextPut:toStream:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#printOn:
+Zinc-Character-Encoding-Core.ZnByteEncoder>>#unicodeToByte:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder class>>#ascii
+Zinc-Character-Encoding-Core.ZnCharacterEncoder class>>#canonicalEncodingIdentifier:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder class>>#newForEncoding:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder class>>#utf8
+Zinc-Character-Encoding-Core.ZnNullEncoder class>>#handlesEncoding:
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder class>>#asciiMapping
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder class>>#byteTextConverters
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder class>>#knownEncodingIdentifiers
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder class>>#mappingToIdentifiers
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testByteEncoderFromUrl
+Zinc-HTTP.ZnClient>>#logConnectionEstablishedTo:started:
+Zinc-HTTP.ZnClient>>#newConnectionTo:
+Zinc-HTTP.ZnClient>>#options
+Zinc-HTTP.ZnClient>>#options:
+Zinc-HTTP.ZnClient>>#patch
+Zinc-HTTP.ZnClient>>#patch:contents:
+Zinc-HTTP.ZnClient>>#readResponse
+Zinc-HTTP.ZnClient>>#setupTLSTo:
+Zinc-HTTP.ZnCommonLogFormat
+Zinc-HTTP.ZnCommonLogFormat>>#clientIPAddressFrom:
+Zinc-HTTP.ZnCommonLogFormat>>#combined
+Zinc-HTTP.ZnCommonLogFormat>>#combined:
+Zinc-HTTP.ZnCommonLogFormat>>#format:on:
+Zinc-HTTP.ZnCommonLogFormat>>#formatCombinedFields:on:
+Zinc-HTTP.ZnCommonLogFormat>>#formatRequest:on:
+Zinc-HTTP.ZnCommonLogFormat>>#formatResponse:on:
+Zinc-HTTP.ZnCommonLogFormat>>#formatTimestamp:on:
+Zinc-HTTP.ZnCommonLogFormat>>#initialize
+Zinc-HTTP.ZnCommonLogFormat>>#userFrom:
+Zinc-HTTP.ZnConnectionEstablishedEvent
+Zinc-HTTP.ZnConnectionEstablishedEvent>>#printContentsOn:
+Zinc-HTTP.ZnConnectionEstablishedEvent>>#proxy
+Zinc-HTTP.ZnConnectionEstablishedEvent>>#proxy:
+Zinc-HTTP.ZnDefaultServerDelegate class>>#empty
+Zinc-HTTP.ZnDefaultServerDelegate>>#map:to:
+Zinc-HTTP.ZnEntityReader>>#contentType
+Zinc-HTTP.ZnEntityReader>>#readEntity
+Zinc-HTTP.ZnEntityWriter>>#contentType
+Zinc-HTTP.ZnEntityWriter>>#writeEntity:
+Zinc-HTTP.ZnHeaders>>#contentType
+Zinc-HTTP.ZnHeaders>>#readFrom:
+Zinc-HTTP.ZnHeaders>>#request:
+Zinc-HTTP.ZnLogEvent>>#initialize
+Zinc-HTTP.ZnNetworkingUtils class>>#proxyUrl
+Zinc-HTTP.ZnNetworkingUtils class>>#secureSocketStreamOn:
+Zinc-HTTP.ZnNetworkingUtils>>#proxyUrl
+Zinc-HTTP.ZnNetworkingUtils>>#secureSocketStreamOn:
+Zinc-HTTP.ZnNetworkingUtils>>#socketStreamToProxy
+Zinc-HTTP.ZnReadEvalPrintDelegate>>#evaluate:
+Zinc-HTTP.ZnRequest class>>#options:
+Zinc-HTTP.ZnRequest class>>#patch:
+Zinc-HTTP.ZnRequestLine>>#writeOn:
+Zinc-HTTP.ZnRespond
+Zinc-HTTP.ZnRespond class>>#signalWith:
+Zinc-HTTP.ZnRespond>>#response
+Zinc-HTTP.ZnRespond>>#response:
+Zinc-HTTP.ZnResponse class>>#badRequest:
+Zinc-HTTP.ZnResponse class>>#badRequest:entity:
+Zinc-HTTP.ZnResponse class>>#created:
+Zinc-HTTP.ZnResponse class>>#created:entity:
+Zinc-HTTP.ZnResponse class>>#methodNotAllowed:
+Zinc-HTTP.ZnResponse class>>#methodNotAllowed:entity:
+Zinc-HTTP.ZnResponse class>>#noContent
+Zinc-HTTP.ZnResponse class>>#notFound:
+Zinc-HTTP.ZnResponse class>>#notFound:entity:
+Zinc-HTTP.ZnResponse class>>#notModified
+Zinc-HTTP.ZnResponse class>>#ok:
+Zinc-HTTP.ZnResponse class>>#redirect:
+Zinc-HTTP.ZnResponse class>>#redirect:entity:
+Zinc-HTTP.ZnResponse class>>#serverError:
+Zinc-HTTP.ZnResponse class>>#serverErrorWithEntity:
+Zinc-HTTP.ZnResponse class>>#statusCode:
+Zinc-HTTP.ZnResponse class>>#statusLine:
+Zinc-HTTP.ZnResponse class>>#unauthorized:
+Zinc-HTTP.ZnResponse class>>#unauthorized:entity:
+Zinc-HTTP.ZnSingleThreadedServer>>#handleRequestProtected:
+Zinc-HTTP.ZnStatusLine class>>#noContent
+Zinc-HTTP.ZnStatusLine>>#printCodeAndReasonOn:
+Zinc-HTTP.ZnStatusLine>>#printOn:
+Zinc-HTTP.ZnStatusLine>>#readFrom:
+Zinc-HTTP.ZnStatusLine>>#reason
+Zinc-HTTP.ZnStatusLine>>#version:
+Zinc-HTTP.ZnStringEntity>>#initializeEncoder
+Zinc-Resource-Meta-Core.ZnMimeType>>#=
+Zinc-Resource-Meta-Core.ZnMimeType>>#hasSameParametersAs:
+Zinc-Resource-Meta-Core.ZnUrl class>>#defaultPortForScheme:
+Zinc-Resource-Meta-Core.ZnUrl class>>#image
+Zinc-Resource-Meta-Core.ZnUrl>>#+
+Zinc-Resource-Meta-Core.ZnUrl>>#asFileUrl
+Zinc-Resource-Meta-Core.ZnUrl>>#authorityWithPort
+Zinc-Resource-Meta-Core.ZnUrl>>#hasSecureScheme
+Zinc-Resource-Meta-Core.ZnUrl>>#portIfAbsent:
+Zinc-Resource-Meta-Core.ZnUrl>>#portOrDefault
+Zinc-Resource-Meta-Tests.ZnUrlTests>>#testAsFileUrl
+Zinc-Resource-Meta-Tests.ZnUrlTests>>#testImage
+Zinc-Resource-Meta-Tests.ZnUrlTests>>#testPlus
+Zinc-Resource-Meta-Tests.ZnUrlTests>>#testPortIfAbsent
+Zinc-Tests.ZnClientTests>>#testConnectionCloseOnReuseTimeout
+Zinc-Tests.ZnClientTests>>#testIfFailNonExistingHost
+Zinc-Tests.ZnClientTests>>#testIfModifiedSinceNotModified
+Zinc-Tests.ZnClientTests>>#testOptions
+Zinc-Tests.ZnClientTests>>#testPatch
+Zinc-Tests.ZnEasyTests>>#testGetJpeg
+Zinc-Tests.ZnEntityTests>>#testUnspecifiedEncoding
+Zinc-Tests.ZnHeadersTests>>#testReadingMultilineNonBinary
+Zinc-Tests.ZnResponseTests>>#testDefaultUTF8Encoding
+Zinc-Tests.ZnResponseTests>>#testSlashdotGzipChunked
+Zinc-Tests.ZnServerTests>>#testCustomDefaultDelegate
+Zinc-Tests.ZnServerTests>>#testRespond
+Zinc-Zodiac.ZnHTTPSTests>>#testGetPharoVersion
+Zodiac-Core.ZdcAbstractSocketStream>>#close
+Zodiac-Core.ZdcByteArrayManager
+Zodiac-Core.ZdcByteArrayManager class>>#cleanUp
+Zodiac-Core.ZdcByteArrayManager class>>#current
+Zodiac-Core.ZdcByteArrayManager class>>#current:
+Zodiac-Core.ZdcByteArrayManager>>#byteArrayOfSize:zero:
+Zodiac-Core.ZdcByteArrayManager>>#initialize
+Zodiac-Core.ZdcByteArrayManager>>#limit:
+Zodiac-Core.ZdcByteArrayManager>>#poolForSize:
+Zodiac-Core.ZdcByteArrayManager>>#recycle:
+Zodiac-Core.ZdcByteArrayManager>>#resources
+Zodiac-Core.ZdcByteArrayManager>>#totalSize
+Zodiac-Core.ZdcIOBuffer class>>#onByteArrayOfSize:
+Zodiac-Core.ZdcIOBuffer>>#bufferSize
+Zodiac-Core.ZdcIOBuffer>>#close
+Zodiac-Core.ZdcIOBuffer>>#printOn:
+Zodiac-Core.ZdcSecureSocketStream>>#close
+Zodiac-Core.ZdcSecureSocketStream>>#initializeBuffers
+Zodiac-Tests.ZdcByteArrayManagerTests
+Zodiac-Tests.ZdcByteArrayManagerTests>>#testClearing
+Zodiac-Tests.ZdcByteArrayManagerTests>>#testSimple

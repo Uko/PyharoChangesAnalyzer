@@ -1,0 +1,22 @@
+Alien.Alien
+Alien.Alien class>>#atAddress:
+Alien.Alien class>>#atAddress:dataSize:
+Alien.Alien class>>#ensureInSpecialObjectsArray
+Alien.Alien class>>#forPointer:
+Alien.Alien class>>#initialize
+Alien.Alien class>>#libcName
+Alien.Alien class>>#new:
+Alien.Alien class>>#newC:
+Alien.Alien class>>#newGC:
+Alien.Alien class>>#rawNewC:
+Alien.Alien class>>#startUp:
+Alien.Alien>>#isPointer
+Alien.Alien>>#storeOn:
+Alien.AlienSunit>>#testLongLong
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#baseline0_11:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#development:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_11_2:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50549
+ScriptLoader50.ScriptLoader>>#update50550

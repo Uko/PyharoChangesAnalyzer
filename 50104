@@ -1,6 +1,6 @@
-AbstractTutorial class>>#contentsOfTutorials
-PharoTutorial class>>#contents
-PharoTutorialHelp class>>#listOfTutorials
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50103
-ScriptLoader>>#update50104
+ProfStef-Core.AbstractTutorial class>>#contentsOfTutorials
+ProfStef-Core.PharoTutorial class>>#contents
+ProfStef-Help.PharoTutorialHelp class>>#listOfTutorials
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50103
+ScriptLoader50.ScriptLoader>>#update50104

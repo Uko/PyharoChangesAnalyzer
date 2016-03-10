@@ -1,12 +1,12 @@
-Color class>>#h:s:l:
-Color class>>#h:s:l:alpha:
-Color class>>#h:s:v:alpha:
-Color>>#initializeHue:saturation:brightness:alpha:
-Color>>#initializeHue:saturation:lightness:alpha:
-CompiledMethod>>#gtInspectorCriticsIn:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#v1_1_2:
-OCVariableSpecialisatioTest>>#testVarTemp
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50190
-ScriptLoader>>#update50191
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_1_2:
+Graphics-Primitives.Color class>>#h:s:l:
+Graphics-Primitives.Color class>>#h:s:l:alpha:
+Graphics-Primitives.Color class>>#h:s:v:alpha:
+Graphics-Primitives.Color>>#initializeHue:saturation:brightness:alpha:
+Graphics-Primitives.Color>>#initializeHue:saturation:lightness:alpha:
+OpalCompiler-Tests.OCVariableSpecialisatioTest>>#testVarTemp
+QualityAssistant.CompiledMethod>>#gtInspectorCriticsIn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50190
+ScriptLoader50.ScriptLoader>>#update50191

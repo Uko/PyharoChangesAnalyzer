@@ -1,0 +1,202 @@
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#baseline0_13:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#development:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_13_1:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_14:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_14_1:
+FFI-Kernel.ByteArray>>#longPointerAt:
+FFI-Kernel.ByteArray>>#longPointerAt:put:
+FFI-Kernel.ByteArray>>#pointerAt:
+FFI-Kernel.ByteArray>>#pointerAt:put:
+FFI-Kernel.ByteArray>>#shortPointerAt:
+FFI-Kernel.ByteArray>>#shortPointerAt:put:
+FFI-Kernel.ByteArray>>#unsignedLongLongAt:
+FFI-Kernel.ByteArray>>#unsignedLongLongAt:put:
+FFI-Kernel.ExternalAddress class>>#initialize
+FFI-Kernel.ExternalAddress class>>#new
+FFI-Kernel.ExternalAddress class>>#new:
+FFI-Kernel.ExternalAddress class>>#startUp:
+FFI-Kernel.ExternalAddress class>>#wordSize
+FFI-Kernel.ExternalAddress>>#asByteArrayPointer
+FFI-Kernel.ExternalAddress>>#asInteger
+FFI-Kernel.ExternalAddress>>#fromInteger:
+FFI-Kernel.ExternalAddress>>#shallowCopy
+FFI-Kernel.ExternalForm>>#setManualSurfacePointer:
+FFI-Kernel.ExternalFunction>>#tryInvokeWithArguments:
+FFI-Kernel.ExternalStructure class>>#compileFields:withAccessors:
+FFI-Kernel.ExternalStructure class>>#defineFieldAccessorsFor:startingAt:type:
+FFI-Kernel.ExternalStructure class>>#maybeCompileAccessor:withSelector:
+FFI-Kernel.ExternalStructure class>>#pointerSize
+FFI-Kernel.ExternalStructure class>>#typedef
+FFI-Kernel.ExternalType
+FFI-Kernel.ExternalType>>#asPointerType:
+FFI-Kernel.ExternalType>>#pointerSize
+FFI-Kernel.ExternalType>>#pointerSize:
+FFI-Kernel.ExternalType>>#printAtomicType:on:
+FFI-Kernel.ExternalType>>#printStructureFieldStartingAt:withName:inClass:on:indent:
+FFI-Kernel.ExternalType>>#printTypedefOn:
+FFI-Kernel.ExternalType>>#readFieldAt:
+FFI-Kernel.ExternalType>>#typedef
+FFI-Kernel.ExternalType>>#writeFieldAt:with:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50623
+ScriptLoader50.ScriptLoader>>#update50624
+UnifiedFFI-Legacy.Object>>#nbCall:module:options:
+UnifiedFFI-Tests.FFIExternalEnumerationTests
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#enumClass
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#ffiTestCall:format:to:
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#ffiTestReturn:format:to:
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#testCall
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#testEnumIdents
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#testEnumIncludes
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#testFromInteger
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#testNewError
+UnifiedFFI-Tests.FFIExternalEnumerationTests>>#testReturn
+UnifiedFFI-Tests.FFITestEnumeration
+UnifiedFFI-Tests.FFITestEnumeration class>>#AAA
+UnifiedFFI-Tests.FFITestEnumeration class>>#BBB
+UnifiedFFI-Tests.FFITestEnumeration class>>#CCC
+UnifiedFFI-Tests.FFITestEnumeration class>>#DDD
+UnifiedFFI-Tests.FFITestEnumeration class>>#enumDecl
+UnifiedFFI-Tests.FFITestEnumeration class>>#initialize
+UnifiedFFI.ExternalAddress class>>#fromString:
+UnifiedFFI.ExternalAddress class>>#null
+UnifiedFFI.ExternalAddress>>#readString
+UnifiedFFI.ExternalAddress>>#rollToArity:
+UnifiedFFI.ExternalAddress>>#writeString:
+UnifiedFFI.ExternalData>>#readString
+UnifiedFFI.ExternalType>>#atomicSelector
+UnifiedFFI.FFIBool class>>#externalTypeSize
+UnifiedFFI.FFIBool>>#externalType
+UnifiedFFI.FFICallbackType>>#instanceVariableName
+UnifiedFFI.FFICharacterType class>>#externalTypeSize
+UnifiedFFI.FFICharacterType>>#externalType
+UnifiedFFI.FFIConst>>#pointerArity:
+UnifiedFFI.FFIExternalEnumeration
+UnifiedFFI.FFIExternalEnumeration class>>#asExternalTypeOn:
+UnifiedFFI.FFIExternalEnumeration class>>#at:
+UnifiedFFI.FFIExternalEnumeration class>>#defineEnumAccesorFor:
+UnifiedFFI.FFIExternalEnumeration class>>#enumDecl
+UnifiedFFI.FFIExternalEnumeration class>>#enumerationDictionary
+UnifiedFFI.FFIExternalEnumeration class>>#fromInteger:
+UnifiedFFI.FFIExternalEnumeration class>>#generatedEnumProtocolName
+UnifiedFFI.FFIExternalEnumeration class>>#includes:
+UnifiedFFI.FFIExternalEnumeration class>>#initialize
+UnifiedFFI.FFIExternalEnumeration class>>#initializeEnumeration
+UnifiedFFI.FFIExternalEnumeration class>>#itemAt:
+UnifiedFFI.FFIExternalEnumeration class>>#itemAt:ifAbsent:
+UnifiedFFI.FFIExternalEnumeration class>>#new
+UnifiedFFI.FFIExternalEnumeration class>>#rebuildEnumAccessors
+UnifiedFFI.FFIExternalEnumeration class>>#representationType
+UnifiedFFI.FFIExternalEnumeration>>#=
+UnifiedFFI.FFIExternalEnumeration>>#item
+UnifiedFFI.FFIExternalEnumeration>>#printOn:
+UnifiedFFI.FFIExternalEnumeration>>#value
+UnifiedFFI.FFIExternalEnumeration>>#value:
+UnifiedFFI.FFIExternalEnumerationType
+UnifiedFFI.FFIExternalEnumerationType class>>#defaultPointerArity
+UnifiedFFI.FFIExternalEnumerationType class>>#objectClass:
+UnifiedFFI.FFIExternalEnumerationType class>>#objectClass:representationType:
+UnifiedFFI.FFIExternalEnumerationType>>#externalType
+UnifiedFFI.FFIExternalEnumerationType>>#externalTypeSize
+UnifiedFFI.FFIExternalEnumerationType>>#instanceVariableName
+UnifiedFFI.FFIExternalEnumerationType>>#needsArityRolling
+UnifiedFFI.FFIExternalEnumerationType>>#readEnumAt:
+UnifiedFFI.FFIExternalEnumerationType>>#readFieldAt:
+UnifiedFFI.FFIExternalEnumerationType>>#representationType
+UnifiedFFI.FFIExternalEnumerationType>>#representationType:
+UnifiedFFI.FFIExternalEnumerationType>>#writeFieldAt:with:
+UnifiedFFI.FFIExternalObject
+UnifiedFFI.FFIExternalObjectType class>>#defaultPointerArity
+UnifiedFFI.FFIExternalObjectType>>#emitArgument:context:
+UnifiedFFI.FFIExternalObjectType>>#emitReturn:resultTempVar:context:
+UnifiedFFI.FFIExternalObjectType>>#emitReturnArgument:context:
+UnifiedFFI.FFIExternalObjectType>>#externalType
+UnifiedFFI.FFIExternalObjectType>>#externalTypeSize
+UnifiedFFI.FFIExternalObjectType>>#instanceVariableName
+UnifiedFFI.FFIExternalString>>#externalType
+UnifiedFFI.FFIExternalString>>#externalTypeSize
+UnifiedFFI.FFIExternalStructure
+UnifiedFFI.FFIExternalStructure class>>#externalNewAutoRelease
+UnifiedFFI.FFIExternalStructureFieldSpec>>#compileSpec
+UnifiedFFI.FFIExternalStructureType>>#basicHandle:at:
+UnifiedFFI.FFIExternalStructureType>>#externalTypeSize
+UnifiedFFI.FFIExternalStructureType>>#readReferenceAt:
+UnifiedFFI.FFIExternalType class>>#defaultPointerArity
+UnifiedFFI.FFIExternalType class>>#externalType
+UnifiedFFI.FFIExternalType class>>#resolveType:
+UnifiedFFI.FFIExternalType class>>#sizeOf:
+UnifiedFFI.FFIExternalType>>#basicEmitArgument:context:
+UnifiedFFI.FFIExternalType>>#emitArgument:context:
+UnifiedFFI.FFIExternalType>>#emitPointerArityRoll:context:
+UnifiedFFI.FFIExternalType>>#externalType
+UnifiedFFI.FFIExternalType>>#externalTypeSize
+UnifiedFFI.FFIExternalType>>#initialize
+UnifiedFFI.FFIExternalType>>#pointerArity:
+UnifiedFFI.FFIExternalType>>#typeSize
+UnifiedFFI.FFIExternalType>>#valueSize
+UnifiedFFI.FFIExternalValueHolder
+UnifiedFFI.FFIExternalValueHolder class>>#asExternalTypeOn:
+UnifiedFFI.FFIExternalValueHolder class>>#reset
+UnifiedFFI.FFIExternalValueHolder class>>#type
+UnifiedFFI.FFIExternalValueHolder class>>#typeDecl
+UnifiedFFI.FFIExternalValueHolder>>#initialize
+UnifiedFFI.FFIExternalValueHolder>>#type
+UnifiedFFI.FFIExternalValueHolder>>#value
+UnifiedFFI.FFIExternalValueHolder>>#value:
+UnifiedFFI.FFIExternalValueHolderType
+UnifiedFFI.FFIExternalValueHolderType class>>#objectClass:
+UnifiedFFI.FFIExternalValueHolderType class>>#objectClass:representationType:
+UnifiedFFI.FFIExternalValueHolderType>>#externalType
+UnifiedFFI.FFIExternalValueHolderType>>#externalTypeSize
+UnifiedFFI.FFIExternalValueHolderType>>#instanceVariableName
+UnifiedFFI.FFIExternalValueHolderType>>#needsArityRolling
+UnifiedFFI.FFIExternalValueHolderType>>#readEnumAt:
+UnifiedFFI.FFIExternalValueHolderType>>#readFieldAt:
+UnifiedFFI.FFIExternalValueHolderType>>#representationType
+UnifiedFFI.FFIExternalValueHolderType>>#representationType:
+UnifiedFFI.FFIExternalValueHolderType>>#writeFieldAt:with:
+UnifiedFFI.FFIFloat128 class>>#externalTypeSize
+UnifiedFFI.FFIFloat128>>#externalType
+UnifiedFFI.FFIFloat16 class>>#externalTypeSize
+UnifiedFFI.FFIFloat16>>#externalType
+UnifiedFFI.FFIFloat32 class>>#externalTypeSize
+UnifiedFFI.FFIFloat32>>#emitPointerArityRoll:context:
+UnifiedFFI.FFIFloat32>>#externalType
+UnifiedFFI.FFIFloat64 class>>#externalTypeSize
+UnifiedFFI.FFIFloat64>>#emitPointerArityRoll:context:
+UnifiedFFI.FFIFloat64>>#externalType
+UnifiedFFI.FFIFunctionArgument>>#emitArgument:context:
+UnifiedFFI.FFIFunctionArgument>>#emitArgument:context:objectClass:instVarName:
+UnifiedFFI.FFIFunctionArgument>>#emitPointerArityRoll:context:arity:
+UnifiedFFI.FFIInt16>>#externalType
+UnifiedFFI.FFIInt32>>#externalType
+UnifiedFFI.FFIInt64>>#externalType
+UnifiedFFI.FFIInt8>>#externalType
+UnifiedFFI.FFIMethodArgument>>#emitArgument:context:
+UnifiedFFI.FFIMethodArgument>>#emitArgument:context:objectClass:instVarName:
+UnifiedFFI.FFIOop>>#externalType
+UnifiedFFI.FFIOop>>#externalTypeSize
+UnifiedFFI.FFISizeT>>#externalType
+UnifiedFFI.FFISizeT>>#valueSize
+UnifiedFFI.FFIUInt16 class>>#externalTypeSize
+UnifiedFFI.FFIUInt16>>#externalType
+UnifiedFFI.FFIUInt32 class>>#externalTypeSize
+UnifiedFFI.FFIUInt32>>#externalType
+UnifiedFFI.FFIUInt64 class>>#externalTypeSize
+UnifiedFFI.FFIUInt64>>#externalType
+UnifiedFFI.FFIUInt8 class>>#externalTypeSize
+UnifiedFFI.FFIUInt8>>#externalType
+UnifiedFFI.FFIVoid>>#externalType
+UnifiedFFI.FFIVoid>>#externalTypeSize
+UnifiedFFI.Float>>#pointer
+UnifiedFFI.Float>>#pointerDouble
+UnifiedFFI.Float>>#pointerFloat
+UnifiedFFI.Float>>#rollAsDoubleToArity:
+UnifiedFFI.Float>>#rollAsFloatToArity:
+UnifiedFFI.Float>>#rollToArity:
+UnifiedFFI.OSPlatform>>#ffiCallingConvention
+UnifiedFFI.Object>>#ffiCallingConvention
+UnifiedFFI.Object>>#rollToArity:
+UnifiedFFI.UndefinedObject>>#rollToArity:
+UnifiedFFI.Win32Platform>>#ffiCallingConvention

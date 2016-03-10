@@ -1,13 +1,13 @@
-Date class>>#dayNames
-Date class>>#daysInMonth
-Date class>>#monthNames
-MCFileTreeAbstractReader>>#hasMonticelloMetadata
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50469
-ScriptLoader>>#update50470
-SugsMockContext>>#message:
-SugsWatchpointSuggestion>>#isValidForContext
-SugsWatchpointSuggestion>>#label
-SugsWatchpointSuggestion>>#selectedNodeHasWatchpoint
-WatchpointWindow>>#setupMenu
-Year>>#daysInMonth
+Kernel.Date class>>#dayNames
+Kernel.Date class>>#daysInMonth
+Kernel.Date class>>#monthNames
+Kernel.Year>>#daysInMonth
+MonticelloFileTree-Core.MCFileTreeAbstractReader>>#hasMonticelloMetadata
+Reflectivity-Tools.WatchpointWindow>>#setupMenu
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50469
+ScriptLoader50.ScriptLoader>>#update50470
+SmartSuggestions-Tests.SugsMockContext>>#message:
+SmartSuggestions.SugsWatchpointSuggestion>>#isValidForContext
+SmartSuggestions.SugsWatchpointSuggestion>>#label
+SmartSuggestions.SugsWatchpointSuggestion>>#selectedNodeHasWatchpoint

@@ -1,42 +1,42 @@
-ChangeSet class>>#fileReaderServicesForFile:suffix:
-ChangeSet class>>#serviceFileIntoNewChangeSet
-ChangeSet class>>#services
-DeepCopier
-MessageSend
-MethodWidget>>#selectNextMethod
-Object class>>#flushEvents
-Object>>#actionForEvent:
-Object>>#actionForEvent:ifAbsent:
-Object>>#actionMap
-Object>>#actionSequenceForEvent:
-Object>>#actionsDo:
-Object>>#asActionSequence
-Object>>#createActionMap
-Object>>#hasActionForEvent:
-Object>>#hasActionsWithReceiver:
-Object>>#releaseActionMap
-Object>>#removeAction:forEvent:
-Object>>#removeActionsForEvent:
-Object>>#removeActionsSatisfying:
-Object>>#removeActionsSatisfying:forEvent:
-Object>>#removeActionsWithReceiver:
-Object>>#removeActionsWithReceiver:forEvent:
-Object>>#setActionSequence:forEvent:
-Object>>#triggerEvent:
-Object>>#triggerEvent:with:
-Object>>#triggerEvent:withArguments:
-Object>>#updateableActionMap
-Object>>#when:evaluate:
-Object>>#when:send:to:
-Object>>#when:send:to:with:
-Object>>#when:send:to:withArguments:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50229
-ScriptLoader>>#update50230
-WeakActionSequence
-WeakActionSequence>>#asActionSequence
-WeakActionSequence>>#asMinimalRepresentation
-WeakActionSequence>>#printOn:
-WeakActionSequence>>#value
-WeakActionSequence>>#valueWithArguments:
-WeakMessageSend
+Kernel.DeepCopier
+Kernel.MessageSend
+Kernel.Object class>>#flushEvents
+Kernel.Object>>#actionForEvent:
+Kernel.Object>>#actionForEvent:ifAbsent:
+Kernel.Object>>#actionMap
+Kernel.Object>>#actionSequenceForEvent:
+Kernel.Object>>#actionsDo:
+Kernel.Object>>#asActionSequence
+Kernel.Object>>#createActionMap
+Kernel.Object>>#hasActionForEvent:
+Kernel.Object>>#hasActionsWithReceiver:
+Kernel.Object>>#releaseActionMap
+Kernel.Object>>#removeAction:forEvent:
+Kernel.Object>>#removeActionsForEvent:
+Kernel.Object>>#removeActionsSatisfying:
+Kernel.Object>>#removeActionsSatisfying:forEvent:
+Kernel.Object>>#removeActionsWithReceiver:
+Kernel.Object>>#removeActionsWithReceiver:forEvent:
+Kernel.Object>>#setActionSequence:forEvent:
+Kernel.Object>>#triggerEvent:
+Kernel.Object>>#triggerEvent:with:
+Kernel.Object>>#triggerEvent:withArguments:
+Kernel.Object>>#updateableActionMap
+Kernel.Object>>#when:evaluate:
+Kernel.Object>>#when:send:to:
+Kernel.Object>>#when:send:to:with:
+Kernel.Object>>#when:send:to:withArguments:
+Kernel.WeakActionSequence
+Kernel.WeakActionSequence>>#asActionSequence
+Kernel.WeakActionSequence>>#asMinimalRepresentation
+Kernel.WeakActionSequence>>#printOn:
+Kernel.WeakActionSequence>>#value
+Kernel.WeakActionSequence>>#valueWithArguments:
+Kernel.WeakMessageSend
+Nautilus.MethodWidget>>#selectNextMethod
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50229
+ScriptLoader50.ScriptLoader>>#update50230
+System-FileRegistry.ChangeSet class>>#fileReaderServicesForFile:suffix:
+System-FileRegistry.ChangeSet class>>#serviceFileIntoNewChangeSet
+System-FileRegistry.ChangeSet class>>#services

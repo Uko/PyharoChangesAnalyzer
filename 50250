@@ -1,18 +1,18 @@
-AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
-AbstractNautilusUI>>#sourceCodeMenu:shifted:
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1181:
-MorphicTextAdapter>>#canChangeText
-MorphicTextAdapter>>#selectFrom:to:
-MorphicTextAdapter>>#selectionInterval
-NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
-NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
-RubScrolledTextModel>>#clearUndoManager
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50249
-ScriptLoader>>#update50250
-TClassDescription>>#sourceCodeRefactoring:
-TClassDescription>>#sourceCodeRefactoringMenu:
-TextModel>>#beForCode
-TextModel>>#beForText
-TextModel>>#getMenu
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1181:
+Nautilus.AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+Nautilus.AbstractNautilusUI>>#sourceCodeMenu:shifted:
+NautilusRefactoring.NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
+NautilusRefactoring.NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
+NautilusRefactoring.TClassDescription>>#sourceCodeRefactoring:
+NautilusRefactoring.TClassDescription>>#sourceCodeRefactoringMenu:
+Rubric.RubScrolledTextModel>>#clearUndoManager
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50249
+ScriptLoader50.ScriptLoader>>#update50250
+Spec-Core.TextModel>>#beForCode
+Spec-Core.TextModel>>#beForText
+Spec-Core.TextModel>>#getMenu
+Spec-MorphicAdapters.MorphicTextAdapter>>#canChangeText
+Spec-MorphicAdapters.MorphicTextAdapter>>#selectFrom:to:
+Spec-MorphicAdapters.MorphicTextAdapter>>#selectionInterval

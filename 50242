@@ -1,327 +1,327 @@
-ASTCache class>>#reset
-ASTCache class>>#shutDown
-ASTCacheReset
-ASTCacheResetTest
-ASTCacheResetTest>>#annotatedMethod
-ASTCacheResetTest>>#increment
-ASTCacheResetTest>>#setUp
-ASTCacheResetTest>>#tearDown
-ASTCacheResetTest>>#testCacheResetPreserveLinks
-AbstractCompiler class>>#compilerSettingsOn:
-CCompilationContext class>>#initialize
-Categorizer>>#changeFromString:
-Categorizer>>#stringForFileOut
-ChunkWriteStream
-ChunkWriteStream>>#bang
-ChunkWriteStream>>#doesNotUnderstand:
-ChunkWriteStream>>#nextChunkPut:
-ChunkWriteStream>>#nextPut:
-ChunkWriteStream>>#terminatorMark
-Class>>#fileOutOn:initializing:
-ClassOrganization>>#changeFromCategorySpecs:
-ClassOrganization>>#changeFromString:
-ClassOrganization>>#fileOutCommentOn:
-ClassOrganization>>#internalChangeFromString:
-ClassOrganization>>#putCommentOnFile:forClass:
-ClassOrganization>>#stringForFileOut
-CompilationContext class>>#initialize
-CompiledMethod>>#putSource:class:category:withStamp:priorMethod:
-CompiledMethod>>#putSource:withPreamble:
-IRBytecodeGenerator>>#v3VMHeader:
-ManifestOpalCompilerCore class>>#ruleClassNotReferencedRuleV1FalsePositive
-ManifestOpalCompilerCore class>>#ruleConsistencyCheckRuleV1FalsePositive
-ManifestOpalCompilerCore class>>#ruleEqualsTrueRuleV1FalsePositive
-ManifestOpalCompilerCore class>>#ruleImplementedNotSentRuleV1FalsePositive
-ManifestOpalCompilerCore class>>#ruleMissingSubclassResponsibilityRuleV1FalsePositive
-Metaclass>>#fileOutOn:
-Metaclass>>#fileOutOn:initializing:
-OpalBytecodeEncoder
-OpalBytecodeEncoder class>>#nonExtensionBytecodeAt:in:
-OpalBytecodeEncoder class>>#specialSelectors
-OpalBytecodeEncoder class>>#stackDeltaForPrimitive:in:
-OpalBytecodeEncoder>>#bindAndJuggle:
-OpalBytecodeEncoder>>#blockExtentsToTempsMap
-OpalBytecodeEncoder>>#genPushNClosureTemps:
-OpalBytecodeEncoder>>#genPushSpecialLiteral:
-OpalBytecodeEncoder>>#hasGeneratedMethod
-OpalBytecodeEncoder>>#methodStreamPosition
-OpalBytecodeEncoder>>#nextPut:
-OpalBytecodeEncoder>>#noteBlockExtent:hasLocals:
-OpalBytecodeEncoder>>#outOfRangeError:index:range:to:
-OpalBytecodeEncoder>>#rootNode
-OpalBytecodeEncoder>>#rootNode:
-OpalBytecodeEncoder>>#sizeBranchPopFalse:
-OpalBytecodeEncoder>>#sizeBranchPopTrue:
-OpalBytecodeEncoder>>#sizeCallPrimitive:
-OpalBytecodeEncoder>>#sizeDup
-OpalBytecodeEncoder>>#sizeJump:
-OpalBytecodeEncoder>>#sizeJumpLong:
-OpalBytecodeEncoder>>#sizeOpcodeSelector:withArguments:
-OpalBytecodeEncoder>>#sizePop
-OpalBytecodeEncoder>>#sizePushClosureCopyNumCopiedValues:numArgs:jumpSize:
-OpalBytecodeEncoder>>#sizePushConsArray:
-OpalBytecodeEncoder>>#sizePushInstVar:
-OpalBytecodeEncoder>>#sizePushInstVarLong:
-OpalBytecodeEncoder>>#sizePushLiteral:
-OpalBytecodeEncoder>>#sizePushLiteralVar:
-OpalBytecodeEncoder>>#sizePushNewArray:
-OpalBytecodeEncoder>>#sizePushReceiver
-OpalBytecodeEncoder>>#sizePushRemoteTemp:inVectorAt:
-OpalBytecodeEncoder>>#sizePushSpecialLiteral:
-OpalBytecodeEncoder>>#sizePushTemp:
-OpalBytecodeEncoder>>#sizePushThisContext
-OpalBytecodeEncoder>>#sizeReturnReceiver
-OpalBytecodeEncoder>>#sizeReturnSpecialLiteral:
-OpalBytecodeEncoder>>#sizeReturnTop
-OpalBytecodeEncoder>>#sizeReturnTopToCaller
-OpalBytecodeEncoder>>#sizeSend:numArgs:
-OpalBytecodeEncoder>>#sizeSendSuper:numArgs:
-OpalBytecodeEncoder>>#sizeStoreInstVar:
-OpalBytecodeEncoder>>#sizeStoreInstVarLong:
-OpalBytecodeEncoder>>#sizeStoreLiteralVar:
-OpalBytecodeEncoder>>#sizeStorePopInstVar:
-OpalBytecodeEncoder>>#sizeStorePopInstVarLong:
-OpalBytecodeEncoder>>#sizeStorePopLiteralVar:
-OpalBytecodeEncoder>>#sizeStorePopRemoteTemp:inVectorAt:
-OpalBytecodeEncoder>>#sizeStorePopTemp:
-OpalBytecodeEncoder>>#sizeStoreRemoteTemp:inVectorAt:
-OpalBytecodeEncoder>>#sizeStoreTemp:
-OpalBytecodeEncoder>>#sizeTrapIfNotInstanceOf:
-OpalBytecodeEncoder>>#stream:
-OpalBytecodeEncoder>>#streamToMethod:
-OpalBytecodeEncoder>>#supportsClosureOpcodes
-OpalEncoder
-OpalEncoderForLongFormV3
-OpalEncoderForLongFormV3>>#genBranchPopFalse:
-OpalEncoderForLongFormV3>>#genBranchPopTrue:
-OpalEncoderForLongFormV3>>#genDup
-OpalEncoderForLongFormV3>>#genJump:
-OpalEncoderForLongFormV3>>#genJumpLong:
-OpalEncoderForLongFormV3>>#genPop
-OpalEncoderForLongFormV3>>#genPushInstVar:
-OpalEncoderForLongFormV3>>#genPushInstVarLong:
-OpalEncoderForLongFormV3>>#genPushLiteral:
-OpalEncoderForLongFormV3>>#genPushLiteralVar:
-OpalEncoderForLongFormV3>>#genPushReceiver
-OpalEncoderForLongFormV3>>#genPushSpecialLiteral:
-OpalEncoderForLongFormV3>>#genPushTemp:
-OpalEncoderForLongFormV3>>#genPushThisContext
-OpalEncoderForLongFormV3>>#genReturnReceiver
-OpalEncoderForLongFormV3>>#genReturnSpecialLiteral:
-OpalEncoderForLongFormV3>>#genReturnTop
-OpalEncoderForLongFormV3>>#genReturnTopToCaller
-OpalEncoderForLongFormV3>>#genSend:numArgs:
-OpalEncoderForLongFormV3>>#genSendSuper:numArgs:
-OpalEncoderForLongFormV3>>#genStoreInstVar:
-OpalEncoderForLongFormV3>>#genStoreInstVarLong:
-OpalEncoderForLongFormV3>>#genStoreLiteralVar:
-OpalEncoderForLongFormV3>>#genStorePopInstVar:
-OpalEncoderForLongFormV3>>#genStorePopInstVarLong:
-OpalEncoderForLongFormV3>>#genStorePopLiteralVar:
-OpalEncoderForLongFormV3>>#genStorePopTemp:
-OpalEncoderForLongFormV3>>#genStoreTemp:
-OpalEncoderForLongFormV3PlusClosures
-OpalEncoderForLongFormV3PlusClosures>>#genPushClosureCopyNumCopiedValues:numArgs:jumpSize:
-OpalEncoderForLongFormV3PlusClosures>>#genPushConsArray:
-OpalEncoderForLongFormV3PlusClosures>>#genPushNewArray:
-OpalEncoderForLongFormV3PlusClosures>>#genPushRemoteTemp:inVectorAt:
-OpalEncoderForLongFormV3PlusClosures>>#genStorePopRemoteTemp:inVectorAt:
-OpalEncoderForLongFormV3PlusClosures>>#genStoreRemoteTemp:inVectorAt:
-OpalEncoderForLongFormV3PlusClosures>>#supportsClosureOpcodes
-OpalEncoderForSistaV1
-OpalEncoderForSistaV1 class>>#backJumpBytecodeSize
-OpalEncoderForSistaV1 class>>#bindingReadScanBlockFor:using:
-OpalEncoderForSistaV1 class>>#bindingWriteScanBlockFor:using:
-OpalEncoderForSistaV1 class>>#bytecodeSize:
-OpalEncoderForSistaV1 class>>#callPrimitiveCode
-OpalEncoderForSistaV1 class>>#extensionsAt:in:into:
-OpalEncoderForSistaV1 class>>#instVarReadScanBlockFor:using:
-OpalEncoderForSistaV1 class>>#instVarWriteScanBlockFor:using:
-OpalEncoderForSistaV1 class>>#interpretJumpIfCondIn:
-OpalEncoderForSistaV1 class>>#interpretJumpIn:
-OpalEncoderForSistaV1 class>>#interpretNextInstructionFor:in:
-OpalEncoderForSistaV1 class>>#isBlockReturnAt:in:
-OpalEncoderForSistaV1 class>>#isBranchIfFalseAt:in:
-OpalEncoderForSistaV1 class>>#isBranchIfTrueAt:in:
-OpalEncoderForSistaV1 class>>#isCreateBlockAt:in:
-OpalEncoderForSistaV1 class>>#isExtension:
-OpalEncoderForSistaV1 class>>#isJumpAt:in:
-OpalEncoderForSistaV1 class>>#isJustPopAt:in:
-OpalEncoderForSistaV1 class>>#isRealSendAt:in:
-OpalEncoderForSistaV1 class>>#isReturnAt:in:
-OpalEncoderForSistaV1 class>>#isReturnTopFromMethodAt:in:
-OpalEncoderForSistaV1 class>>#isSendAt:in:
-OpalEncoderForSistaV1 class>>#isStoreAt:in:
-OpalEncoderForSistaV1 class>>#isStorePopAt:in:
-OpalEncoderForSistaV1 class>>#markerOrNilFor:
-OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
-OpalEncoderForSistaV1 class>>#nonExtensionBytecodeAt:in:
-OpalEncoderForSistaV1 class>>#numLocalTempsForBlockAt:in:
-OpalEncoderForSistaV1 class>>#prepareMethod:forSimulationWith:
-OpalEncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at:
-OpalEncoderForSistaV1 class>>#sendsToSuperFor:
-OpalEncoderForSistaV1 class>>#specialLiterals
-OpalEncoderForSistaV1 class>>#stackDeltaForPrimitive:in:
-OpalEncoderForSistaV1 class>>#superSendScanBlockUsing:
-OpalEncoderForSistaV1 class>>#supportsClosures
-OpalEncoderForSistaV1 class>>#unusedBytecode
-OpalEncoderForSistaV1>>#genBranchIfNotInstanceOf:distance:
-OpalEncoderForSistaV1>>#genBranchPopFalse:
-OpalEncoderForSistaV1>>#genBranchPopFalseLong:
-OpalEncoderForSistaV1>>#genBranchPopTrue:
-OpalEncoderForSistaV1>>#genBranchPopTrueLong:
-OpalEncoderForSistaV1>>#genCallInlinePrimitive:
-OpalEncoderForSistaV1>>#genCallPrimitive:
-OpalEncoderForSistaV1>>#genDup
-OpalEncoderForSistaV1>>#genInlineSmallIntegerAdd
-OpalEncoderForSistaV1>>#genJump:
-OpalEncoderForSistaV1>>#genJumpLong:
-OpalEncoderForSistaV1>>#genNop
-OpalEncoderForSistaV1>>#genPop
-OpalEncoderForSistaV1>>#genPushCharacter:
-OpalEncoderForSistaV1>>#genPushClosureCopyNumCopiedValues:numArgs:jumpSize:
-OpalEncoderForSistaV1>>#genPushConsArray:
-OpalEncoderForSistaV1>>#genPushInstVar:
-OpalEncoderForSistaV1>>#genPushInstVarLong:
-OpalEncoderForSistaV1>>#genPushInteger:
-OpalEncoderForSistaV1>>#genPushLiteral:
-OpalEncoderForSistaV1>>#genPushLiteralVar:
-OpalEncoderForSistaV1>>#genPushNClosureTemps:
-OpalEncoderForSistaV1>>#genPushNewArray:
-OpalEncoderForSistaV1>>#genPushReceiver
-OpalEncoderForSistaV1>>#genPushRemoteTemp:inVectorAt:
-OpalEncoderForSistaV1>>#genPushSpecialLiteral:
-OpalEncoderForSistaV1>>#genPushTemp:
-OpalEncoderForSistaV1>>#genPushThisContext
-OpalEncoderForSistaV1>>#genReturnReceiver
-OpalEncoderForSistaV1>>#genReturnSpecialLiteral:
-OpalEncoderForSistaV1>>#genReturnTop
-OpalEncoderForSistaV1>>#genReturnTopToCaller
-OpalEncoderForSistaV1>>#genSend:numArgs:
-OpalEncoderForSistaV1>>#genSendDirectedSuper:numArgs:
-OpalEncoderForSistaV1>>#genSendSpecial:numArgs:
-OpalEncoderForSistaV1>>#genSendSuper:numArgs:
-OpalEncoderForSistaV1>>#genSignedSingleExtendB:
-OpalEncoderForSistaV1>>#genStoreInstVar:
-OpalEncoderForSistaV1>>#genStoreInstVarLong:
-OpalEncoderForSistaV1>>#genStoreLiteralVar:
-OpalEncoderForSistaV1>>#genStorePopInstVar:
-OpalEncoderForSistaV1>>#genStorePopInstVarLong:
-OpalEncoderForSistaV1>>#genStorePopLiteralVar:
-OpalEncoderForSistaV1>>#genStorePopRemoteTemp:inVectorAt:
-OpalEncoderForSistaV1>>#genStorePopTemp:
-OpalEncoderForSistaV1>>#genStoreRemoteTemp:inVectorAt:
-OpalEncoderForSistaV1>>#genStoreTemp:
-OpalEncoderForSistaV1>>#genTrap
-OpalEncoderForSistaV1>>#genTrapIfNotInstanceOf:
-OpalEncoderForSistaV1>>#genUnsignedMultipleExtendA:
-OpalEncoderForSistaV1>>#genUnsignedSingleExtendA:
-OpalEncoderForSistaV1>>#genUnsignedSingleExtendB:
-OpalEncoderForSistaV1>>#isSpecialLiteralForPush:
-OpalEncoderForV3
-OpalEncoderForV3 class>>#supportsClosures
-OpalEncoderForV3>>#genBranchPopFalse:
-OpalEncoderForV3>>#genBranchPopTrue:
-OpalEncoderForV3>>#genDup
-OpalEncoderForV3>>#genJump:
-OpalEncoderForV3>>#genJumpLong:
-OpalEncoderForV3>>#genPop
-OpalEncoderForV3>>#genPushInstVar:
-OpalEncoderForV3>>#genPushInstVarLong:
-OpalEncoderForV3>>#genPushLiteral:
-OpalEncoderForV3>>#genPushLiteralVar:
-OpalEncoderForV3>>#genPushReceiver
-OpalEncoderForV3>>#genPushSpecialLiteral:
-OpalEncoderForV3>>#genPushTemp:
-OpalEncoderForV3>>#genPushThisContext
-OpalEncoderForV3>>#genReturnReceiver
-OpalEncoderForV3>>#genReturnSpecialLiteral:
-OpalEncoderForV3>>#genReturnTop
-OpalEncoderForV3>>#genReturnTopToCaller
-OpalEncoderForV3>>#genSend:numArgs:
-OpalEncoderForV3>>#genSendSpecial:numArgs:
-OpalEncoderForV3>>#genSendSuper:numArgs:
-OpalEncoderForV3>>#genStoreInstVar:
-OpalEncoderForV3>>#genStoreInstVarLong:
-OpalEncoderForV3>>#genStoreLiteralVar:
-OpalEncoderForV3>>#genStorePopInstVar:
-OpalEncoderForV3>>#genStorePopInstVarLong:
-OpalEncoderForV3>>#genStorePopLiteralVar:
-OpalEncoderForV3>>#genStorePopTemp:
-OpalEncoderForV3>>#genStoreTemp:
-OpalEncoderForV3>>#isSpecialLiteralForPush:
-OpalEncoderForV3PlusClosures
-OpalEncoderForV3PlusClosures class>>#backJumpBytecodeSize
-OpalEncoderForV3PlusClosures class>>#bindingReadScanBlockFor:using:
-OpalEncoderForV3PlusClosures class>>#bindingWriteScanBlockFor:using:
-OpalEncoderForV3PlusClosures class>>#bytecodeSize:
-OpalEncoderForV3PlusClosures class>>#callPrimitiveCode
-OpalEncoderForV3PlusClosures class>>#instVarReadScanBlockFor:using:
-OpalEncoderForV3PlusClosures class>>#instVarWriteScanBlockFor:using:
-OpalEncoderForV3PlusClosures class>>#interpretJumpIfCondIn:
-OpalEncoderForV3PlusClosures class>>#interpretJumpIn:
-OpalEncoderForV3PlusClosures class>>#interpretNextInstructionFor:in:
-OpalEncoderForV3PlusClosures class>>#isBlockReturnAt:in:
-OpalEncoderForV3PlusClosures class>>#isBranchIfFalseAt:in:
-OpalEncoderForV3PlusClosures class>>#isBranchIfTrueAt:in:
-OpalEncoderForV3PlusClosures class>>#isCreateBlockAt:in:
-OpalEncoderForV3PlusClosures class>>#isJumpAt:in:
-OpalEncoderForV3PlusClosures class>>#isJustPopAt:in:
-OpalEncoderForV3PlusClosures class>>#isReturnAt:in:
-OpalEncoderForV3PlusClosures class>>#isSendAt:in:
-OpalEncoderForV3PlusClosures class>>#isStoreAt:in:
-OpalEncoderForV3PlusClosures class>>#isStorePopAt:in:
-OpalEncoderForV3PlusClosures class>>#markerOrNilFor:
-OpalEncoderForV3PlusClosures class>>#nonExtensionBytecodeAt:in:
-OpalEncoderForV3PlusClosures class>>#numLocalTempsForBlockAt:in:
-OpalEncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith:
-OpalEncoderForV3PlusClosures class>>#selectorToSendOrItselfFor:in:at:
-OpalEncoderForV3PlusClosures class>>#sendsToSuperFor:
-OpalEncoderForV3PlusClosures class>>#specialLiterals
-OpalEncoderForV3PlusClosures class>>#supportsClosures
-OpalEncoderForV3PlusClosures class>>#unusedBytecode
-OpalEncoderForV3PlusClosures>>#genPushClosureCopyNumCopiedValues:numArgs:jumpSize:
-OpalEncoderForV3PlusClosures>>#genPushConsArray:
-OpalEncoderForV3PlusClosures>>#genPushNewArray:
-OpalEncoderForV3PlusClosures>>#genPushRemoteTemp:inVectorAt:
-OpalEncoderForV3PlusClosures>>#genStorePopRemoteTemp:inVectorAt:
-OpalEncoderForV3PlusClosures>>#genStoreRemoteTemp:inVectorAt:
-OpalEncoderForV3PlusClosures>>#supportsClosureOpcodes
-ProtocolOrganizer>>#stringForFileOut
-RPackage>>#fileOut
-RPackageTag>>#fileOut
-ReflectiveMethod>>#compiledMethod:
-ReflectiveMethod>>#destroyTwin
-ReflectiveMethod>>#reinstallASTInCache
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50241
-ScriptLoader>>#update50242
-SystemOrganizer>>#fileOut
-SystemOrganizer>>#fileOutCategory:
-SystemOrganizer>>#fileOutCategory:on:
-SystemOrganizer>>#fileOutCategory:on:initializing:
-TApplyingOnClassSide>>#fileOutInitializerOn:
-TApplyingOnClassSide>>#nonTrivial
-TClass>>#fileOut
-TClass>>#fileOutInitializerOn:
-TClass>>#fileOutOn:
-TClass>>#fileOutOn:initializing:
-TClass>>#fileOutPool:onFileStream:
-TClass>>#fileOutSharedPoolsOn:
-TClass>>#hasSharedPools
-TClass>>#removeFromChanges
-TClass>>#shouldFileOutPool:
-TClass>>#shouldFileOutPools
-TClassDescription>>#commentStamp:
-TClassDescription>>#fileOutCategory:
-TClassDescription>>#fileOutCategory:on:
-TClassDescription>>#fileOutChangedMessages:on:
-TClassDescription>>#fileOutMethod:
-TClassDescription>>#fileOutMethod:on:
-TClassDescription>>#fileOutOn:
-TClassDescription>>#fileOutOrganizationOn:
-TClassDescription>>#logMethodSource:forMethod:inCategory:withStamp:
-TClassDescription>>#printCategoryChunk:on:withStamp:priorMethod:
-TClassDescription>>#printMethodChunk:on:
-TClassDescription>>#selectorsToFileOutCategory:
-Trait>>#fileOutOn:initializing:
+AST-Core.ASTCache class>>#reset
+AST-Core.ASTCache class>>#shutDown
+AST-Core.ASTCacheReset
+CodeImport.ChunkWriteStream
+CodeImport.ChunkWriteStream>>#bang
+CodeImport.ChunkWriteStream>>#doesNotUnderstand:
+CodeImport.ChunkWriteStream>>#nextChunkPut:
+CodeImport.ChunkWriteStream>>#nextPut:
+CodeImport.ChunkWriteStream>>#terminatorMark
+Kernel.Categorizer>>#changeFromString:
+Kernel.Categorizer>>#stringForFileOut
+Kernel.Class>>#fileOutOn:initializing:
+Kernel.ClassOrganization>>#changeFromCategorySpecs:
+Kernel.ClassOrganization>>#changeFromString:
+Kernel.ClassOrganization>>#fileOutCommentOn:
+Kernel.ClassOrganization>>#internalChangeFromString:
+Kernel.ClassOrganization>>#putCommentOnFile:forClass:
+Kernel.ClassOrganization>>#stringForFileOut
+Kernel.CompiledMethod>>#putSource:class:category:withStamp:priorMethod:
+Kernel.CompiledMethod>>#putSource:withPreamble:
+Kernel.Metaclass>>#fileOutOn:
+Kernel.Metaclass>>#fileOutOn:initializing:
+Kernel.ProtocolOrganizer>>#stringForFileOut
+OpalCompiler-Core.AbstractCompiler class>>#compilerSettingsOn:
+OpalCompiler-Core.CCompilationContext class>>#initialize
+OpalCompiler-Core.CompilationContext class>>#initialize
+OpalCompiler-Core.IRBytecodeGenerator>>#v3VMHeader:
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleClassNotReferencedRuleV1FalsePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleConsistencyCheckRuleV1FalsePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleEqualsTrueRuleV1FalsePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleImplementedNotSentRuleV1FalsePositive
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleMissingSubclassResponsibilityRuleV1FalsePositive
+OpalCompiler-Core.OpalBytecodeEncoder
+OpalCompiler-Core.OpalBytecodeEncoder class>>#nonExtensionBytecodeAt:in:
+OpalCompiler-Core.OpalBytecodeEncoder class>>#specialSelectors
+OpalCompiler-Core.OpalBytecodeEncoder class>>#stackDeltaForPrimitive:in:
+OpalCompiler-Core.OpalBytecodeEncoder>>#bindAndJuggle:
+OpalCompiler-Core.OpalBytecodeEncoder>>#blockExtentsToTempsMap
+OpalCompiler-Core.OpalBytecodeEncoder>>#genPushNClosureTemps:
+OpalCompiler-Core.OpalBytecodeEncoder>>#genPushSpecialLiteral:
+OpalCompiler-Core.OpalBytecodeEncoder>>#hasGeneratedMethod
+OpalCompiler-Core.OpalBytecodeEncoder>>#methodStreamPosition
+OpalCompiler-Core.OpalBytecodeEncoder>>#nextPut:
+OpalCompiler-Core.OpalBytecodeEncoder>>#noteBlockExtent:hasLocals:
+OpalCompiler-Core.OpalBytecodeEncoder>>#outOfRangeError:index:range:to:
+OpalCompiler-Core.OpalBytecodeEncoder>>#rootNode
+OpalCompiler-Core.OpalBytecodeEncoder>>#rootNode:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeBranchPopFalse:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeBranchPopTrue:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeCallPrimitive:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeDup
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeJump:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeJumpLong:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeOpcodeSelector:withArguments:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePop
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushClosureCopyNumCopiedValues:numArgs:jumpSize:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushConsArray:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushInstVar:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushInstVarLong:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushLiteral:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushLiteralVar:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushNewArray:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushReceiver
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushSpecialLiteral:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushTemp:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizePushThisContext
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeReturnReceiver
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeReturnSpecialLiteral:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeReturnTop
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeReturnTopToCaller
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeSend:numArgs:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeSendSuper:numArgs:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStoreInstVar:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStoreInstVarLong:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStoreLiteralVar:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStorePopInstVar:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStorePopInstVarLong:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStorePopLiteralVar:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStorePopRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStorePopTemp:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStoreRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeStoreTemp:
+OpalCompiler-Core.OpalBytecodeEncoder>>#sizeTrapIfNotInstanceOf:
+OpalCompiler-Core.OpalBytecodeEncoder>>#stream:
+OpalCompiler-Core.OpalBytecodeEncoder>>#streamToMethod:
+OpalCompiler-Core.OpalBytecodeEncoder>>#supportsClosureOpcodes
+OpalCompiler-Core.OpalEncoder
+OpalCompiler-Core.OpalEncoderForLongFormV3
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genBranchPopFalse:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genBranchPopTrue:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genDup
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genJump:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genJumpLong:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPop
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushInstVar:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushInstVarLong:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushLiteral:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushLiteralVar:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushReceiver
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushSpecialLiteral:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushTemp:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genPushThisContext
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genReturnReceiver
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genReturnSpecialLiteral:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genReturnTop
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genReturnTopToCaller
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genSend:numArgs:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genSendSuper:numArgs:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStoreInstVar:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStoreInstVarLong:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStoreLiteralVar:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStorePopInstVar:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStorePopInstVarLong:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStorePopLiteralVar:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStorePopTemp:
+OpalCompiler-Core.OpalEncoderForLongFormV3>>#genStoreTemp:
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures>>#genPushClosureCopyNumCopiedValues:numArgs:jumpSize:
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures>>#genPushConsArray:
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures>>#genPushNewArray:
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures>>#genPushRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures>>#genStorePopRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures>>#genStoreRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForLongFormV3PlusClosures>>#supportsClosureOpcodes
+OpalCompiler-Core.OpalEncoderForSistaV1
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#backJumpBytecodeSize
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#bindingReadScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#bindingWriteScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#bytecodeSize:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#callPrimitiveCode
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#extensionsAt:in:into:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#instVarReadScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#instVarWriteScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#interpretJumpIfCondIn:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#interpretJumpIn:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#interpretNextInstructionFor:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isBlockReturnAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isBranchIfFalseAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isBranchIfTrueAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isCreateBlockAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isExtension:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isJumpAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isJustPopAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isRealSendAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isReturnAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isReturnTopFromMethodAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isSendAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isStoreAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#isStorePopAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#markerOrNilFor:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#method:refersInBytecodeToLiteral:specialSelectorIndex:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#nonExtensionBytecodeAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#numLocalTempsForBlockAt:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#prepareMethod:forSimulationWith:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#selectorToSendOrItselfFor:in:at:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#sendsToSuperFor:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#specialLiterals
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#stackDeltaForPrimitive:in:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#superSendScanBlockUsing:
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#supportsClosures
+OpalCompiler-Core.OpalEncoderForSistaV1 class>>#unusedBytecode
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genBranchIfNotInstanceOf:distance:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genBranchPopFalse:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genBranchPopFalseLong:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genBranchPopTrue:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genBranchPopTrueLong:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genCallInlinePrimitive:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genCallPrimitive:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genDup
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genInlineSmallIntegerAdd
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genJump:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genJumpLong:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genNop
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPop
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushCharacter:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushClosureCopyNumCopiedValues:numArgs:jumpSize:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushConsArray:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushInstVar:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushInstVarLong:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushInteger:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushLiteral:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushLiteralVar:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushNClosureTemps:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushNewArray:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushReceiver
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushSpecialLiteral:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushTemp:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genPushThisContext
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genReturnReceiver
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genReturnSpecialLiteral:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genReturnTop
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genReturnTopToCaller
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genSend:numArgs:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genSendDirectedSuper:numArgs:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genSendSpecial:numArgs:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genSendSuper:numArgs:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genSignedSingleExtendB:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStoreInstVar:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStoreInstVarLong:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStoreLiteralVar:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStorePopInstVar:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStorePopInstVarLong:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStorePopLiteralVar:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStorePopRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStorePopTemp:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStoreRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genStoreTemp:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genTrap
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genTrapIfNotInstanceOf:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genUnsignedMultipleExtendA:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genUnsignedSingleExtendA:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#genUnsignedSingleExtendB:
+OpalCompiler-Core.OpalEncoderForSistaV1>>#isSpecialLiteralForPush:
+OpalCompiler-Core.OpalEncoderForV3
+OpalCompiler-Core.OpalEncoderForV3 class>>#supportsClosures
+OpalCompiler-Core.OpalEncoderForV3>>#genBranchPopFalse:
+OpalCompiler-Core.OpalEncoderForV3>>#genBranchPopTrue:
+OpalCompiler-Core.OpalEncoderForV3>>#genDup
+OpalCompiler-Core.OpalEncoderForV3>>#genJump:
+OpalCompiler-Core.OpalEncoderForV3>>#genJumpLong:
+OpalCompiler-Core.OpalEncoderForV3>>#genPop
+OpalCompiler-Core.OpalEncoderForV3>>#genPushInstVar:
+OpalCompiler-Core.OpalEncoderForV3>>#genPushInstVarLong:
+OpalCompiler-Core.OpalEncoderForV3>>#genPushLiteral:
+OpalCompiler-Core.OpalEncoderForV3>>#genPushLiteralVar:
+OpalCompiler-Core.OpalEncoderForV3>>#genPushReceiver
+OpalCompiler-Core.OpalEncoderForV3>>#genPushSpecialLiteral:
+OpalCompiler-Core.OpalEncoderForV3>>#genPushTemp:
+OpalCompiler-Core.OpalEncoderForV3>>#genPushThisContext
+OpalCompiler-Core.OpalEncoderForV3>>#genReturnReceiver
+OpalCompiler-Core.OpalEncoderForV3>>#genReturnSpecialLiteral:
+OpalCompiler-Core.OpalEncoderForV3>>#genReturnTop
+OpalCompiler-Core.OpalEncoderForV3>>#genReturnTopToCaller
+OpalCompiler-Core.OpalEncoderForV3>>#genSend:numArgs:
+OpalCompiler-Core.OpalEncoderForV3>>#genSendSpecial:numArgs:
+OpalCompiler-Core.OpalEncoderForV3>>#genSendSuper:numArgs:
+OpalCompiler-Core.OpalEncoderForV3>>#genStoreInstVar:
+OpalCompiler-Core.OpalEncoderForV3>>#genStoreInstVarLong:
+OpalCompiler-Core.OpalEncoderForV3>>#genStoreLiteralVar:
+OpalCompiler-Core.OpalEncoderForV3>>#genStorePopInstVar:
+OpalCompiler-Core.OpalEncoderForV3>>#genStorePopInstVarLong:
+OpalCompiler-Core.OpalEncoderForV3>>#genStorePopLiteralVar:
+OpalCompiler-Core.OpalEncoderForV3>>#genStorePopTemp:
+OpalCompiler-Core.OpalEncoderForV3>>#genStoreTemp:
+OpalCompiler-Core.OpalEncoderForV3>>#isSpecialLiteralForPush:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#backJumpBytecodeSize
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#bindingReadScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#bindingWriteScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#bytecodeSize:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#callPrimitiveCode
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#instVarReadScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#instVarWriteScanBlockFor:using:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#interpretJumpIfCondIn:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#interpretJumpIn:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#interpretNextInstructionFor:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isBlockReturnAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isBranchIfFalseAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isBranchIfTrueAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isCreateBlockAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isJumpAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isJustPopAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isReturnAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isSendAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isStoreAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#isStorePopAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#markerOrNilFor:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#nonExtensionBytecodeAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#numLocalTempsForBlockAt:in:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#selectorToSendOrItselfFor:in:at:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#sendsToSuperFor:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#specialLiterals
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#supportsClosures
+OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#unusedBytecode
+OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#genPushClosureCopyNumCopiedValues:numArgs:jumpSize:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#genPushConsArray:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#genPushNewArray:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#genPushRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#genStorePopRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#genStoreRemoteTemp:inVectorAt:
+OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#supportsClosureOpcodes
+RPackage-Core.RPackage>>#fileOut
+RPackage-Core.RPackageTag>>#fileOut
+Reflectivity-Tests.ASTCacheResetTest
+Reflectivity-Tests.ASTCacheResetTest>>#annotatedMethod
+Reflectivity-Tests.ASTCacheResetTest>>#increment
+Reflectivity-Tests.ASTCacheResetTest>>#setUp
+Reflectivity-Tests.ASTCacheResetTest>>#tearDown
+Reflectivity-Tests.ASTCacheResetTest>>#testCacheResetPreserveLinks
+Reflectivity.ReflectiveMethod>>#compiledMethod:
+Reflectivity.ReflectiveMethod>>#destroyTwin
+Reflectivity.ReflectiveMethod>>#reinstallASTInCache
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50241
+ScriptLoader50.ScriptLoader>>#update50242
+System-Support.SystemOrganizer>>#fileOut
+System-Support.SystemOrganizer>>#fileOutCategory:
+System-Support.SystemOrganizer>>#fileOutCategory:on:
+System-Support.SystemOrganizer>>#fileOutCategory:on:initializing:
+Traits.TApplyingOnClassSide>>#fileOutInitializerOn:
+Traits.TApplyingOnClassSide>>#nonTrivial
+Traits.TClass>>#fileOut
+Traits.TClass>>#fileOutInitializerOn:
+Traits.TClass>>#fileOutOn:
+Traits.TClass>>#fileOutOn:initializing:
+Traits.TClass>>#fileOutPool:onFileStream:
+Traits.TClass>>#fileOutSharedPoolsOn:
+Traits.TClass>>#hasSharedPools
+Traits.TClass>>#removeFromChanges
+Traits.TClass>>#shouldFileOutPool:
+Traits.TClass>>#shouldFileOutPools
+Traits.TClassDescription>>#commentStamp:
+Traits.TClassDescription>>#fileOutCategory:
+Traits.TClassDescription>>#fileOutCategory:on:
+Traits.TClassDescription>>#fileOutChangedMessages:on:
+Traits.TClassDescription>>#fileOutMethod:
+Traits.TClassDescription>>#fileOutMethod:on:
+Traits.TClassDescription>>#fileOutOn:
+Traits.TClassDescription>>#fileOutOrganizationOn:
+Traits.TClassDescription>>#logMethodSource:forMethod:inCategory:withStamp:
+Traits.TClassDescription>>#printCategoryChunk:on:withStamp:priorMethod:
+Traits.TClassDescription>>#printMethodChunk:on:
+Traits.TClassDescription>>#selectorsToFileOutCategory:
+Traits.Trait>>#fileOutOn:initializing:

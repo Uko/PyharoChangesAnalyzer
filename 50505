@@ -1,8 +1,8 @@
-BehaviorTest>>#testCompactAndUncompactClass
-BehaviorTest>>#testUncompactClassNotAllowed
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50504
-ScriptLoader>>#update50505
-SizeInMemoryTest>>#testSizeInMemoryCompactClasses
-TBehavior>>#isEphemeronClass
-TBehavior>>#isImmediateClass
+Kernel-Tests.BehaviorTest>>#testCompactAndUncompactClass
+Kernel-Tests.BehaviorTest>>#testUncompactClassNotAllowed
+Kernel-Tests.SizeInMemoryTest>>#testSizeInMemoryCompactClasses
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50504
+ScriptLoader50.ScriptLoader>>#update50505
+Traits.TBehavior>>#isEphemeronClass
+Traits.TBehavior>>#isImmediateClass

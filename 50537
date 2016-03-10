@@ -1,9 +1,9 @@
-DangerousClassNotifier class>>#shouldNotBeRedefined:
-ReleaseTest>>#testMethodsWithUnboundGlobals
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50536
-ScriptLoader>>#update50537
-SlotErrorsTest>>#testDangerousClassesConditions
-SlotIntegrationTest>>#testSmallIntegerLayout
-SmalltalkImage>>#newSpecialObjectsArray
-SystemNavigation>>#methodsWithUnboundGlobals
+ReleaseTests.ReleaseTest>>#testMethodsWithUnboundGlobals
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50536
+ScriptLoader50.ScriptLoader>>#update50537
+Slot-Tests.SlotErrorsTest>>#testDangerousClassesConditions
+Slot-Tests.SlotIntegrationTest>>#testSmallIntegerLayout
+Slot.DangerousClassNotifier class>>#shouldNotBeRedefined:
+System-Support.SmalltalkImage>>#newSpecialObjectsArray
+System-Support.SystemNavigation>>#methodsWithUnboundGlobals

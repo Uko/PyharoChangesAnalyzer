@@ -1,6 +1,6 @@
-NautilusUI>>#updatePackageGroupAndClassList
-RubScrolledTextMorph>>#drawHighlightsOn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50527
-ScriptLoader>>#update50528
-ToolDockingBarMorph>>#buildButtonFor:
+Nautilus.NautilusUI>>#updatePackageGroupAndClassList
+Rubric.RubScrolledTextMorph>>#drawHighlightsOn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50527
+ScriptLoader50.ScriptLoader>>#update50528
+Spec-Core.ToolDockingBarMorph>>#buildButtonFor:

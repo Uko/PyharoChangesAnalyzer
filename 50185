@@ -1,170 +1,170 @@
-BaselineOfQualityAssistant
-BaselineOfQualityAssistant>>#baseline:
-BaselineOfQualityAssistant>>#installPlugin
-BaselineOfRenraku
-BaselineOfRenraku>>#baseline:
-CompiledMethod>>#cachedCritics
-CompiledMethod>>#critics
-CompiledMethod>>#gtInspectorCriticsIn:
-CompiledMethod>>#guidedSkip:
-CompiledMethod>>#skip:
-CompiledMethod>>#spotterQACriticsFor:
-CompiledMethod>>#wipeCritics
-ConfigurationOfQualityAssistant
-ConfigurationOfQualityAssistant class>>#catalogChangeLog
-ConfigurationOfQualityAssistant class>>#catalogContactInfo
-ConfigurationOfQualityAssistant class>>#catalogDescription
-ConfigurationOfQualityAssistant class>>#catalogKeyClassesAndExample
-ConfigurationOfQualityAssistant class>>#catalogKeywords
-ConfigurationOfQualityAssistant>>#development:
-ConfigurationOfQualityAssistant>>#pre1_2_0:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#v0_1_0:
-ConfigurationOfQualityAssistant>>#v0_1_1:
-ConfigurationOfQualityAssistant>>#v0_1_2:
-ConfigurationOfQualityAssistant>>#v0_2_0:
-ConfigurationOfQualityAssistant>>#v0_2_1:
-ConfigurationOfQualityAssistant>>#v0_2_2:
-ConfigurationOfQualityAssistant>>#v0_2_3:
-ConfigurationOfQualityAssistant>>#v0_2_4:
-ConfigurationOfQualityAssistant>>#v0_2_5:
-ConfigurationOfQualityAssistant>>#v0_3_0:
-ConfigurationOfQualityAssistant>>#v0_4_0:
-ConfigurationOfQualityAssistant>>#v0_4_1:
-ConfigurationOfQualityAssistant>>#v0_4_2:
-ConfigurationOfQualityAssistant>>#v0_5_0:
-ConfigurationOfQualityAssistant>>#v0_5_1:
-ConfigurationOfQualityAssistant>>#v0_6_0:
-ConfigurationOfQualityAssistant>>#v0_6_1:
-ConfigurationOfQualityAssistant>>#v1_0_0:
-ConfigurationOfQualityAssistant>>#v1_1_0:
-ConfigurationOfQualityAssistant>>#v1_1_1:
-NonfocusablePluggableIconListMorph
-NonfocusablePluggableIconListMorph>>#takesKeyboardFocus
-QualityAssistantPlugin
-QualityAssistantPlugin class>>#defaultPosition
-QualityAssistantPlugin class>>#install
-QualityAssistantPlugin class>>#pluginName
-QualityAssistantPlugin class>>#possiblePositions
-QualityAssistantPlugin class>>#uninstall
-QualityAssistantPlugin>>#criticSelected:
-QualityAssistantPlugin>>#currentEntity
-QualityAssistantPlugin>>#display
-QualityAssistantPlugin>>#initialize
-QualityAssistantPlugin>>#registerTo:
-QualityAssistantPlugin>>#selectionChanged:
-QualityAssistantPlugin>>#updateMorph
-QualityAssistantPluginMorph
-QualityAssistantPluginMorph>>#adoptPaneColor:
-QualityAssistantPluginMorph>>#allowToSelect
-QualityAssistantPluginMorph>>#autofixButtonFor:
-QualityAssistantPluginMorph>>#buildConfirmationCheckbox:
-QualityAssistantPluginMorph>>#buildConfirmationHeader:
-QualityAssistantPluginMorph>>#buildConfirmationMessage:
-QualityAssistantPluginMorph>>#createButton
-QualityAssistantPluginMorph>>#displayCritic:
-QualityAssistantPluginMorph>>#entity
-QualityAssistantPluginMorph>>#entity:
-QualityAssistantPluginMorph>>#fixAutomatically:
-QualityAssistantPluginMorph>>#getCritics
-QualityAssistantPluginMorph>>#guardedReportUseless:andRemove:
-QualityAssistantPluginMorph>>#iconFor:at:
-QualityAssistantPluginMorph>>#iconMaxSize
-QualityAssistantPluginMorph>>#infoButtonFor:
-QualityAssistantPluginMorph>>#initialize
-QualityAssistantPluginMorph>>#initializeList
-QualityAssistantPluginMorph>>#initializeProgress
-QualityAssistantPluginMorph>>#initializeUpdateTask
-QualityAssistantPluginMorph>>#pluginDelegate
-QualityAssistantPluginMorph>>#pluginDelegate:
-QualityAssistantPluginMorph>>#qualityChanged:
-QualityAssistantPluginMorph>>#reportUseless:andRemove:
-QualityAssistantPluginMorph>>#revalidateEntity
-QualityAssistantPluginMorph>>#selected:
-QualityAssistantPluginMorph>>#skipButtonFor:
-QualityAssistantPluginMorph>>#updateList
-QualityAssistantPluginMorph>>#uselessButtonFor:
-QualityAssistantSettings
-QualityAssistantSettings class>>#reportWithoutAsking
-QualityAssistantSettings class>>#reportWithoutAsking:
-QualityAssistantSettings class>>#reportWithoutAskingSettingOn:
-RBTransformationRule>>#suggestedCode:
-ReComplainer
-ReComplainer class>>#complainAbout:
-ReComplainer class>>#uuid
-ReCritic
-ReCritic class>>#for:by:
-ReCritic class>>#for:by:at:
-ReCritic>>#description
-ReCritic>>#fixAutomatically
-ReCritic>>#gtInspectorDescriptionIn:
-ReCritic>>#gtInspectorSourceCodeIn:
-ReCritic>>#guidedSkip
-ReCritic>>#hasSelection
-ReCritic>>#icon
-ReCritic>>#initializeRule:target:
-ReCritic>>#initializeRule:target:selection:
-ReCritic>>#isAutofixable
-ReCritic>>#popDescriptionUp
-ReCritic>>#reportUselessness
-ReCritic>>#rule
-ReCritic>>#selection
-ReCritic>>#skip
-ReCritic>>#spotterPreviewCodeIn:
-ReCritic>>#spotterPreviewRationaleIn:
-ReCritic>>#suggestedCode
-ReCritic>>#target
-ReCritic>>#title
-ReCriticTest
-ReCriticTest>>#testDescription
-ReCriticTest>>#testIsAutoFixable
-ReCriticTest>>#testRule
-ReCriticTest>>#testSkip
-ReCriticTest>>#testSkip1
-ReCriticTest>>#testTarget
-ReCriticTest>>#testTitle
-ReEngine
-ReEngine class>>#initialize
-ReEngine class>>#uniqueInstance
-ReEngine>>#classCommented:
-ReEngine>>#classDefinitionModified:
-ReEngine>>#classModified:
-ReEngine>>#initialize
-ReEngine>>#methodModified:
-ReEngine>>#methodRecategorized:
-ReEngine>>#resetCriticCache:
-ReEngine>>#rules
-ReEngine>>#subscribe
-ReEngine>>#unSubscribe
-ReQualityChanged
-ReQualityChanged class>>#of:
-ReQualityChanged>>#entity
-ReQualityChanged>>#entity:
-RenrakuBaseTestCase
-RenrakuBaseTestCase>>#setUp
-RenrakuBaseTestCase>>#tearDown
-RenrakuTest
-RenrakuTest>>#testNoClassComment
-RenrakuTest>>#testSkip
-RenrakuTest>>#testSkip1
-RenrakuTest>>#testSkip2
-RenrakuTest>>#testUnclassifiedMethod
-RenrakuTest>>#testUnusedVar
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50184
-ScriptLoader>>#update50185
-SystemAnnouncer>>#qualityChanged:
-TBehavior>>#cachedCritics
-TBehavior>>#critics
-TBehavior>>#gtInspectorCriticsIn:
-TBehavior>>#guidedSkip:
-TBehavior>>#skip:
-TBehavior>>#spotterQACriticsFor:
-TBehavior>>#wipeCritics
-TheManifestBuilder>>#skipRule:for:
-TheManifestBuilder>>#skipsRule:for:
-ThemeIcons>>#repairIcon
-ThemeIcons>>#repairIconContents
-ThemeIcons>>#smallInformationIcon
-ThemeIcons>>#smallQAIcon
-ThemeIcons>>#smallQAIconContents
+BaselineOfQualityAssistant.BaselineOfQualityAssistant
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#installPlugin
+BaselineOfRenraku.BaselineOfRenraku
+BaselineOfRenraku.BaselineOfRenraku>>#baseline:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant class>>#catalogChangeLog
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant class>>#catalogContactInfo
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant class>>#catalogDescription
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant class>>#catalogKeyClassesAndExample
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant class>>#catalogKeywords
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#pre1_2_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_1_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_1_1:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_1_2:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_2_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_2_1:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_2_2:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_2_3:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_2_4:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_2_5:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_3_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_4_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_4_1:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_4_2:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_5_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_5_1:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_6_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v0_6_1:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_0_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_1_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_1_1:
+QualityAssistant.CompiledMethod>>#gtInspectorCriticsIn:
+QualityAssistant.CompiledMethod>>#guidedSkip:
+QualityAssistant.CompiledMethod>>#spotterQACriticsFor:
+QualityAssistant.NonfocusablePluggableIconListMorph
+QualityAssistant.NonfocusablePluggableIconListMorph>>#takesKeyboardFocus
+QualityAssistant.QualityAssistantPlugin
+QualityAssistant.QualityAssistantPlugin class>>#defaultPosition
+QualityAssistant.QualityAssistantPlugin class>>#install
+QualityAssistant.QualityAssistantPlugin class>>#pluginName
+QualityAssistant.QualityAssistantPlugin class>>#possiblePositions
+QualityAssistant.QualityAssistantPlugin class>>#uninstall
+QualityAssistant.QualityAssistantPlugin>>#criticSelected:
+QualityAssistant.QualityAssistantPlugin>>#currentEntity
+QualityAssistant.QualityAssistantPlugin>>#display
+QualityAssistant.QualityAssistantPlugin>>#initialize
+QualityAssistant.QualityAssistantPlugin>>#registerTo:
+QualityAssistant.QualityAssistantPlugin>>#selectionChanged:
+QualityAssistant.QualityAssistantPlugin>>#updateMorph
+QualityAssistant.QualityAssistantPluginMorph
+QualityAssistant.QualityAssistantPluginMorph>>#adoptPaneColor:
+QualityAssistant.QualityAssistantPluginMorph>>#allowToSelect
+QualityAssistant.QualityAssistantPluginMorph>>#autofixButtonFor:
+QualityAssistant.QualityAssistantPluginMorph>>#buildConfirmationCheckbox:
+QualityAssistant.QualityAssistantPluginMorph>>#buildConfirmationHeader:
+QualityAssistant.QualityAssistantPluginMorph>>#buildConfirmationMessage:
+QualityAssistant.QualityAssistantPluginMorph>>#createButton
+QualityAssistant.QualityAssistantPluginMorph>>#displayCritic:
+QualityAssistant.QualityAssistantPluginMorph>>#entity
+QualityAssistant.QualityAssistantPluginMorph>>#entity:
+QualityAssistant.QualityAssistantPluginMorph>>#fixAutomatically:
+QualityAssistant.QualityAssistantPluginMorph>>#getCritics
+QualityAssistant.QualityAssistantPluginMorph>>#guardedReportUseless:andRemove:
+QualityAssistant.QualityAssistantPluginMorph>>#iconFor:at:
+QualityAssistant.QualityAssistantPluginMorph>>#iconMaxSize
+QualityAssistant.QualityAssistantPluginMorph>>#infoButtonFor:
+QualityAssistant.QualityAssistantPluginMorph>>#initialize
+QualityAssistant.QualityAssistantPluginMorph>>#initializeList
+QualityAssistant.QualityAssistantPluginMorph>>#initializeProgress
+QualityAssistant.QualityAssistantPluginMorph>>#initializeUpdateTask
+QualityAssistant.QualityAssistantPluginMorph>>#pluginDelegate
+QualityAssistant.QualityAssistantPluginMorph>>#pluginDelegate:
+QualityAssistant.QualityAssistantPluginMorph>>#qualityChanged:
+QualityAssistant.QualityAssistantPluginMorph>>#reportUseless:andRemove:
+QualityAssistant.QualityAssistantPluginMorph>>#revalidateEntity
+QualityAssistant.QualityAssistantPluginMorph>>#selected:
+QualityAssistant.QualityAssistantPluginMorph>>#skipButtonFor:
+QualityAssistant.QualityAssistantPluginMorph>>#updateList
+QualityAssistant.QualityAssistantPluginMorph>>#uselessButtonFor:
+QualityAssistant.QualityAssistantSettings
+QualityAssistant.QualityAssistantSettings class>>#reportWithoutAsking
+QualityAssistant.QualityAssistantSettings class>>#reportWithoutAsking:
+QualityAssistant.QualityAssistantSettings class>>#reportWithoutAskingSettingOn:
+QualityAssistant.ReCritic>>#gtInspectorDescriptionIn:
+QualityAssistant.ReCritic>>#gtInspectorSourceCodeIn:
+QualityAssistant.ReCritic>>#guidedSkip
+QualityAssistant.ReCritic>>#icon
+QualityAssistant.ReCritic>>#popDescriptionUp
+QualityAssistant.ReCritic>>#spotterPreviewCodeIn:
+QualityAssistant.ReCritic>>#spotterPreviewRationaleIn:
+QualityAssistant.TBehavior>>#gtInspectorCriticsIn:
+QualityAssistant.TBehavior>>#guidedSkip:
+QualityAssistant.TBehavior>>#spotterQACriticsFor:
+QualityAssistant.ThemeIcons>>#repairIcon
+QualityAssistant.ThemeIcons>>#repairIconContents
+QualityAssistant.ThemeIcons>>#smallInformationIcon
+QualityAssistant.ThemeIcons>>#smallQAIcon
+QualityAssistant.ThemeIcons>>#smallQAIconContents
+Renraku-Test.ReCriticTest
+Renraku-Test.ReCriticTest>>#testDescription
+Renraku-Test.ReCriticTest>>#testIsAutoFixable
+Renraku-Test.ReCriticTest>>#testRule
+Renraku-Test.ReCriticTest>>#testSkip
+Renraku-Test.ReCriticTest>>#testSkip1
+Renraku-Test.ReCriticTest>>#testTarget
+Renraku-Test.ReCriticTest>>#testTitle
+Renraku-Test.RenrakuBaseTestCase
+Renraku-Test.RenrakuBaseTestCase>>#setUp
+Renraku-Test.RenrakuBaseTestCase>>#tearDown
+Renraku-Test.RenrakuTest
+Renraku-Test.RenrakuTest>>#testNoClassComment
+Renraku-Test.RenrakuTest>>#testSkip
+Renraku-Test.RenrakuTest>>#testSkip1
+Renraku-Test.RenrakuTest>>#testSkip2
+Renraku-Test.RenrakuTest>>#testUnclassifiedMethod
+Renraku-Test.RenrakuTest>>#testUnusedVar
+Renraku.CompiledMethod>>#cachedCritics
+Renraku.CompiledMethod>>#critics
+Renraku.CompiledMethod>>#skip:
+Renraku.CompiledMethod>>#wipeCritics
+Renraku.RBTransformationRule>>#suggestedCode:
+Renraku.ReComplainer
+Renraku.ReComplainer class>>#complainAbout:
+Renraku.ReComplainer class>>#uuid
+Renraku.ReCritic
+Renraku.ReCritic class>>#for:by:
+Renraku.ReCritic class>>#for:by:at:
+Renraku.ReCritic>>#description
+Renraku.ReCritic>>#fixAutomatically
+Renraku.ReCritic>>#hasSelection
+Renraku.ReCritic>>#initializeRule:target:
+Renraku.ReCritic>>#initializeRule:target:selection:
+Renraku.ReCritic>>#isAutofixable
+Renraku.ReCritic>>#reportUselessness
+Renraku.ReCritic>>#rule
+Renraku.ReCritic>>#selection
+Renraku.ReCritic>>#skip
+Renraku.ReCritic>>#suggestedCode
+Renraku.ReCritic>>#target
+Renraku.ReCritic>>#title
+Renraku.ReEngine
+Renraku.ReEngine class>>#initialize
+Renraku.ReEngine class>>#uniqueInstance
+Renraku.ReEngine>>#classCommented:
+Renraku.ReEngine>>#classDefinitionModified:
+Renraku.ReEngine>>#classModified:
+Renraku.ReEngine>>#initialize
+Renraku.ReEngine>>#methodModified:
+Renraku.ReEngine>>#methodRecategorized:
+Renraku.ReEngine>>#resetCriticCache:
+Renraku.ReEngine>>#rules
+Renraku.ReEngine>>#subscribe
+Renraku.ReEngine>>#unSubscribe
+Renraku.ReQualityChanged
+Renraku.ReQualityChanged class>>#of:
+Renraku.ReQualityChanged>>#entity
+Renraku.ReQualityChanged>>#entity:
+Renraku.SystemAnnouncer>>#qualityChanged:
+Renraku.TBehavior>>#cachedCritics
+Renraku.TBehavior>>#critics
+Renraku.TBehavior>>#skip:
+Renraku.TBehavior>>#wipeCritics
+Renraku.TheManifestBuilder>>#skipRule:for:
+Renraku.TheManifestBuilder>>#skipsRule:for:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50184
+ScriptLoader50.ScriptLoader>>#update50185

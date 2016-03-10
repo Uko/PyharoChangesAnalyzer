@@ -1,15 +1,15 @@
-AbstractLayout>>#instVarNames
-ClassDescription>>#superclass:layout:
-InstructionStream class>>#instVarNamesAndOffsetsDo:
-NautilusRefactoring>>#class:andInstVariable:
-OCAbstractScope>>#sourceInterval
-OCClassScope>>#gtInspectorSourceCodeIn:
-OCInstanceScope>>#gtInspectorSourceCodeIn:
-PointerLayout>>#instVarNames
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50283
-ScriptLoader>>#update50284
-TClassDescription>>#instVarIndexFor:ifAbsent:
-TClassDescription>>#instVarNameForIndex:
-TClassDescription>>#instVarNamesAndOffsetsDo:
-TClassDescription>>#instanceVariableNamesDo:
+Fuel.TClassDescription>>#instanceVariableNamesDo:
+Kernel.InstructionStream class>>#instVarNamesAndOffsetsDo:
+NautilusRefactoring.NautilusRefactoring>>#class:andInstVariable:
+OpalTools.OCAbstractScope>>#sourceInterval
+OpalTools.OCClassScope>>#gtInspectorSourceCodeIn:
+OpalTools.OCInstanceScope>>#gtInspectorSourceCodeIn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50283
+ScriptLoader50.ScriptLoader>>#update50284
+Slot.AbstractLayout>>#instVarNames
+Slot.ClassDescription>>#superclass:layout:
+Slot.PointerLayout>>#instVarNames
+Traits.TClassDescription>>#instVarIndexFor:ifAbsent:
+Traits.TClassDescription>>#instVarNameForIndex:
+Traits.TClassDescription>>#instVarNamesAndOffsetsDo:

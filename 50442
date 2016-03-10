@@ -1,26 +1,26 @@
-AbstractNautilusUI>>#showSourceCode:
-Breakpoint class>>#inNode:
-Breakpoint class>>#removeFrom:
-Breakpoint2
-Breakpoint2 class>>#break
-Breakpoint>>#condition:
-Breakpoint>>#haltLink
-Breakpoint>>#haltLinkOneShot
-Breakpoint>>#initialize
-CompiledMethod>>#hasBreakpoint
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version23:
-EyeInspectorTest>>#testErrorRaised
-NautilusUI>>#debugTest:
-NautilusUI>>#toggleBreakOnEntryIn:
-RubWorkspaceExample class>>#exampleWindowWithScrolledText
-RubWorkspaceExample class>>#exampleWithCustomShortcut
-RubWorkspaceExample class>>#open
-RubWorkspaceExample class>>#spyAnnouncer
-RubWorkspaceExample class>>#title
-RubWorkspaceExample class>>#windowWithScrolledText:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50441
-ScriptLoader>>#update50442
-SugsBreakpointSuggestion>>#breakpointForCondition
-SugsBreakpointSuggestion>>#execute
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version23:
+Nautilus.AbstractNautilusUI>>#showSourceCode:
+Nautilus.NautilusUI>>#debugTest:
+Nautilus.NautilusUI>>#toggleBreakOnEntryIn:
+Reflectivity.Breakpoint class>>#inNode:
+Reflectivity.Breakpoint class>>#removeFrom:
+Reflectivity.Breakpoint2
+Reflectivity.Breakpoint2 class>>#break
+Reflectivity.Breakpoint>>#condition:
+Reflectivity.Breakpoint>>#haltLink
+Reflectivity.Breakpoint>>#haltLinkOneShot
+Reflectivity.Breakpoint>>#initialize
+Reflectivity.CompiledMethod>>#hasBreakpoint
+Rubric.RubWorkspaceExample class>>#exampleWindowWithScrolledText
+Rubric.RubWorkspaceExample class>>#exampleWithCustomShortcut
+Rubric.RubWorkspaceExample class>>#open
+Rubric.RubWorkspaceExample class>>#spyAnnouncer
+Rubric.RubWorkspaceExample class>>#title
+Rubric.RubWorkspaceExample class>>#windowWithScrolledText:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50441
+ScriptLoader50.ScriptLoader>>#update50442
+SmartSuggestions.SugsBreakpointSuggestion>>#breakpointForCondition
+SmartSuggestions.SugsBreakpointSuggestion>>#execute
+Spec-Inspector.EyeInspectorTest>>#testErrorRaised

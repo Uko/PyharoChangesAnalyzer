@@ -1,12 +1,12 @@
-OCSlotVariable>>#specialCommands
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script649
-ScriptLoader>>#update50041
-SugsAbstractContext>>#selectedNode
-SugsBreakpointSuggestion
-SugsBreakpointSuggestion>>#breakpointForCondition
-SugsBreakpointSuggestion>>#breakpointSelectionMenu
-SugsBreakpointSuggestion>>#execute
-SugsBreakpointSuggestion>>#label
-SugsBreakpointSuggestion>>#selectedNodeHasMetalink
-SugsSuggestionFactory class>>#createBreakAtLineCommand
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script649
+ScriptLoader50.ScriptLoader>>#update50041
+SmartSuggestions.OCSlotVariable>>#specialCommands
+SmartSuggestions.SugsAbstractContext>>#selectedNode
+SmartSuggestions.SugsBreakpointSuggestion
+SmartSuggestions.SugsBreakpointSuggestion>>#breakpointForCondition
+SmartSuggestions.SugsBreakpointSuggestion>>#breakpointSelectionMenu
+SmartSuggestions.SugsBreakpointSuggestion>>#execute
+SmartSuggestions.SugsBreakpointSuggestion>>#label
+SmartSuggestions.SugsBreakpointSuggestion>>#selectedNodeHasMetalink
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakAtLineCommand

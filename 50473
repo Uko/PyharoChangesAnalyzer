@@ -1,13 +1,13 @@
-AbstractNautilusUI>>#selectedClassOrMetaClass
-AbstractTool>>#defineTrait:notifying:
-MethodContainsBreakAction>>#privateActionIcon
-MethodWidget class>>#elementsMenu:
-NautilusUI>>#toggleBreakConditionOnEntryIn:
-NautilusUI>>#toggleBreakOnceOnEntryIn:
-NautilusUI>>#toggleBreakPoint
-NautilusUI>>#toggleBreakpointCondition
-NautilusUI>>#toggleBreakpointOnce
-RFASTTranslator>>#visitAssignmentNode:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50472
-ScriptLoader>>#update50473
+Nautilus.AbstractNautilusUI>>#selectedClassOrMetaClass
+Nautilus.MethodContainsBreakAction>>#privateActionIcon
+Nautilus.MethodWidget class>>#elementsMenu:
+Nautilus.NautilusUI>>#toggleBreakConditionOnEntryIn:
+Nautilus.NautilusUI>>#toggleBreakOnceOnEntryIn:
+Nautilus.NautilusUI>>#toggleBreakPoint
+Nautilus.NautilusUI>>#toggleBreakpointCondition
+Nautilus.NautilusUI>>#toggleBreakpointOnce
+Reflectivity.RFASTTranslator>>#visitAssignmentNode:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50472
+ScriptLoader50.ScriptLoader>>#update50473
+Tool-Base.AbstractTool>>#defineTrait:notifying:

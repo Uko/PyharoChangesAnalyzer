@@ -1,18 +1,18 @@
-BlockLocalTempCounter>>#directedSuperSend:numArgs:
-BytecodeEncoder class>>#nonExtensionBytecodeAt:in:
-BytecodeEncoder>>#sizeCallPrimitive:
-Context>>#directedSuperSend:numArgs:
-EncoderForSistaV1 class>>#numLocalTempsForBlockAt:in:
-EncoderForSistaV1>>#genBranchIfNotInstanceOf:distance:
-EncoderForSistaV1>>#genSend:numArgs:
-EncoderForSistaV1>>#isSpecialLiteralForPush:
-EncoderForV3>>#isSpecialLiteralForPush:
-EncoderForV3PlusClosures class>>#bytecodeSize:
-EncoderForV3PlusClosures class>>#callPrimitiveCode
-IRBytecodeGenerator>>#v3VMHeader:
-InstructionClient>>#callPrimitive:
-InstructionClient>>#directedSuperSend:numArgs:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50050
-ScriptLoader>>#update50051
-SymbolicBytecodeBuilder>>#pushClosureTemps:
+Compiler.BytecodeEncoder class>>#nonExtensionBytecodeAt:in:
+Compiler.BytecodeEncoder>>#sizeCallPrimitive:
+Compiler.EncoderForSistaV1 class>>#numLocalTempsForBlockAt:in:
+Compiler.EncoderForSistaV1>>#genBranchIfNotInstanceOf:distance:
+Compiler.EncoderForSistaV1>>#genSend:numArgs:
+Compiler.EncoderForSistaV1>>#isSpecialLiteralForPush:
+Compiler.EncoderForV3>>#isSpecialLiteralForPush:
+Compiler.EncoderForV3PlusClosures class>>#bytecodeSize:
+Compiler.EncoderForV3PlusClosures class>>#callPrimitiveCode
+Kernel.BlockLocalTempCounter>>#directedSuperSend:numArgs:
+Kernel.Context>>#directedSuperSend:numArgs:
+Kernel.InstructionClient>>#callPrimitive:
+Kernel.InstructionClient>>#directedSuperSend:numArgs:
+Kernel.SymbolicBytecodeBuilder>>#pushClosureTemps:
+OpalCompiler-Core.IRBytecodeGenerator>>#v3VMHeader:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50050
+ScriptLoader50.ScriptLoader>>#update50051

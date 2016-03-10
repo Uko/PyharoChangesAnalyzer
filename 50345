@@ -1,18 +1,18 @@
-PharoCriticRules
-PharoCriticRules class>>#pharoIntegrationLintRule
-RBCompositeLintRule class>>#pharoHardLintRules
-RBCompositeLintRule class>>#pharoSoftLintRules
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50344
-ScriptLoader>>#update50345
-SelectRuleBrowser
-SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
-SelectRuleBrowser>>#addAllItems
-SelectRuleBrowser>>#addItems
-SelectRuleBrowser>>#initialize
-SelectRuleBrowser>>#isSelected:
-SelectRuleBrowser>>#items:
-SelectRuleBrowser>>#nextAction
-SelectRuleBrowser>>#removeAllItems
-SelectRuleBrowser>>#removeItems
-ThemeSettings>>#menuColor
+Polymorph-Widgets.ThemeSettings>>#menuColor
+Refactoring-Critics.PharoCriticRules
+Refactoring-Critics.PharoCriticRules class>>#pharoIntegrationLintRule
+Refactoring-Critics.RBCompositeLintRule class>>#pharoHardLintRules
+Refactoring-Critics.RBCompositeLintRule class>>#pharoSoftLintRules
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50344
+ScriptLoader50.ScriptLoader>>#update50345
+Tool-CriticBrowser.SelectRuleBrowser
+Tool-CriticBrowser.SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
+Tool-CriticBrowser.SelectRuleBrowser>>#addAllItems
+Tool-CriticBrowser.SelectRuleBrowser>>#addItems
+Tool-CriticBrowser.SelectRuleBrowser>>#initialize
+Tool-CriticBrowser.SelectRuleBrowser>>#isSelected:
+Tool-CriticBrowser.SelectRuleBrowser>>#items:
+Tool-CriticBrowser.SelectRuleBrowser>>#nextAction
+Tool-CriticBrowser.SelectRuleBrowser>>#removeAllItems
+Tool-CriticBrowser.SelectRuleBrowser>>#removeItems

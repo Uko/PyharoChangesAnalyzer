@@ -1,61 +1,61 @@
-Break
-Break class>>#break
-Breakpoint
-Breakpoint class>>#cleanUp
-Breakpoint class>>#initialize
-Breakpoint class>>#removeAll
-Breakpoint class>>#removeFrom:
-Breakpoint>>#always
-Breakpoint>>#breakLink
-Breakpoint>>#breakLinkConditional
-Breakpoint>>#breakLinkOneShot
-Breakpoint>>#condition:
-Breakpoint>>#install
-Breakpoint>>#level
-Breakpoint>>#level:
-Breakpoint>>#link
-Breakpoint>>#link:
-Breakpoint>>#node
-Breakpoint>>#node:
-Breakpoint>>#once
-Breakpoint>>#remove
-BreakpointIconStyler
-BreakpointIconStyler>>#highlightColor
-BreakpointIconStyler>>#icon
-BreakpointIconStyler>>#iconBlock:
-BreakpointIconStyler>>#iconLabel
-BreakpointIconStyler>>#iconLabel:
-BreakpointIconStyler>>#shouldStyleNode:
-DebugSession>>#terminate
-DropEvent>>#sentTo:
-DropFilesEvent>>#sentTo:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50466
-ScriptLoader>>#update50467
-SyntaxErrorDebugger>>#release
-WPDummy>>#exampleMessageSend
-WPDummy>>#exampleOperation
-Watchpoint>>#install
-WatchpointIconStyler>>#iconBlock:
-WatchpointTests>>#testSendMessage
-WatchpointTests>>#testTimestamp
-WatchpointWindow
-WatchpointWindow class>>#defaultSpec
-WatchpointWindow class>>#new
-WatchpointWindow class>>#on:
-WatchpointWindow class>>#openOn:
-WatchpointWindow>>#defaultWindowModelClass
-WatchpointWindow>>#extent
-WatchpointWindow>>#initializePresenter
-WatchpointWindow>>#initializeWidgets
-WatchpointWindow>>#inspectIt
-WatchpointWindow>>#inspectIt:
-WatchpointWindow>>#label
-WatchpointWindow>>#label:
-WatchpointWindow>>#list
-WatchpointWindow>>#list:
-WatchpointWindow>>#refreshItems
-WatchpointWindow>>#step
-WatchpointWindow>>#title
-WatchpointWindow>>#watchpoint
-WatchpointWindow>>#watchpoint:
+DebuggerModel.DebugSession>>#terminate
+Morphic-Base.DropFilesEvent>>#sentTo:
+Morphic-Core.DropEvent>>#sentTo:
+Reflectivity-Examples.BreakpointIconStyler
+Reflectivity-Examples.BreakpointIconStyler>>#highlightColor
+Reflectivity-Examples.BreakpointIconStyler>>#icon
+Reflectivity-Examples.BreakpointIconStyler>>#iconBlock:
+Reflectivity-Examples.BreakpointIconStyler>>#iconLabel
+Reflectivity-Examples.BreakpointIconStyler>>#iconLabel:
+Reflectivity-Examples.BreakpointIconStyler>>#shouldStyleNode:
+Reflectivity-Tools-Tests.WPDummy>>#exampleMessageSend
+Reflectivity-Tools-Tests.WPDummy>>#exampleOperation
+Reflectivity-Tools-Tests.WatchpointTests>>#testSendMessage
+Reflectivity-Tools-Tests.WatchpointTests>>#testTimestamp
+Reflectivity-Tools.Watchpoint>>#install
+Reflectivity-Tools.WatchpointIconStyler>>#iconBlock:
+Reflectivity-Tools.WatchpointWindow
+Reflectivity-Tools.WatchpointWindow class>>#defaultSpec
+Reflectivity-Tools.WatchpointWindow class>>#new
+Reflectivity-Tools.WatchpointWindow class>>#on:
+Reflectivity-Tools.WatchpointWindow class>>#openOn:
+Reflectivity-Tools.WatchpointWindow>>#defaultWindowModelClass
+Reflectivity-Tools.WatchpointWindow>>#extent
+Reflectivity-Tools.WatchpointWindow>>#initializePresenter
+Reflectivity-Tools.WatchpointWindow>>#initializeWidgets
+Reflectivity-Tools.WatchpointWindow>>#inspectIt
+Reflectivity-Tools.WatchpointWindow>>#inspectIt:
+Reflectivity-Tools.WatchpointWindow>>#label
+Reflectivity-Tools.WatchpointWindow>>#label:
+Reflectivity-Tools.WatchpointWindow>>#list
+Reflectivity-Tools.WatchpointWindow>>#list:
+Reflectivity-Tools.WatchpointWindow>>#refreshItems
+Reflectivity-Tools.WatchpointWindow>>#step
+Reflectivity-Tools.WatchpointWindow>>#title
+Reflectivity-Tools.WatchpointWindow>>#watchpoint
+Reflectivity-Tools.WatchpointWindow>>#watchpoint:
+Reflectivity.Break
+Reflectivity.Break class>>#break
+Reflectivity.Breakpoint
+Reflectivity.Breakpoint class>>#cleanUp
+Reflectivity.Breakpoint class>>#initialize
+Reflectivity.Breakpoint class>>#removeAll
+Reflectivity.Breakpoint class>>#removeFrom:
+Reflectivity.Breakpoint>>#always
+Reflectivity.Breakpoint>>#breakLink
+Reflectivity.Breakpoint>>#breakLinkConditional
+Reflectivity.Breakpoint>>#breakLinkOneShot
+Reflectivity.Breakpoint>>#condition:
+Reflectivity.Breakpoint>>#install
+Reflectivity.Breakpoint>>#level
+Reflectivity.Breakpoint>>#level:
+Reflectivity.Breakpoint>>#link
+Reflectivity.Breakpoint>>#link:
+Reflectivity.Breakpoint>>#node
+Reflectivity.Breakpoint>>#node:
+Reflectivity.Breakpoint>>#once
+Reflectivity.Breakpoint>>#remove
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50466
+ScriptLoader50.ScriptLoader>>#update50467
+Tools.SyntaxErrorDebugger>>#release

@@ -1,8 +1,8 @@
-Class>>#copy
-CustomHelp class>>#isUsed
-RBLintRule class>>#isUsed
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50444
-ScriptLoader>>#update50445
-SystemWindow>>#keyStroke:
-TestCase class>>#isUsed
+HelpSystem-Core.CustomHelp class>>#isUsed
+Kernel.Class>>#copy
+Polymorph-Widgets.SystemWindow>>#keyStroke:
+Refactoring-Critics.RBLintRule class>>#isUsed
+SUnit-Core.TestCase class>>#isUsed
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50444
+ScriptLoader50.ScriptLoader>>#update50445

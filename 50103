@@ -1,106 +1,106 @@
-AbstractNautilusUI>>#registerToMCAnnouncements
-CatalogBrowser
-CatalogBrowser class>>#iconFor:
-CatalogBrowser class>>#menuCommandOn:
-CatalogBrowser class>>#open
-CatalogBrowser class>>#title
-CatalogBrowser>>#buildBrowser
-CatalogBrowser>>#iconFor:
-CatalogBrowser>>#installStableVersion:onSuccess:
-CatalogBrowser>>#loadConfiguration:onSuccess:
-CatalogBrowser>>#onInstallFrom:
-CatalogBrowser>>#onLoadFrom:
-CatalogBrowser>>#onRefreshFrom:
-CatalogBrowser>>#open
-CatalogBrowser>>#provider
-CatalogBrowser>>#refresh
-CatalogProject
-CatalogProject class>>#createRepositoryNames
-CatalogProject class>>#fromDictionary:
-CatalogProject class>>#repositoryNames
-CatalogProject class>>#unknownRepository
-CatalogProject>>#allKeywords
-CatalogProject>>#contactInfo
-CatalogProject>>#description
-CatalogProject>>#fromDictionary:
-CatalogProject>>#fullDescription
-CatalogProject>>#installStableVersion
-CatalogProject>>#isAvailableForCurrentPharo
-CatalogProject>>#keywords
-CatalogProject>>#loadConfiguration
-CatalogProject>>#matches:
-CatalogProject>>#matches:with:
-CatalogProject>>#name
-CatalogProject>>#packageName
-CatalogProject>>#printOn:
-CatalogProject>>#repository
-CatalogProject>>#repositoryUrl
-CatalogProject>>#spotterPreviewIn:
-CatalogProvider
-CatalogProvider>>#loadProjects
-CatalogProvider>>#projects
-CatalogProvider>>#refresh
-ConfigurationOfCatalog
-ConfigurationOfCatalog class>>#DevelopmentSupport
-ConfigurationOfCatalog class>>#baseConfigurationClassIfAbsent:
-ConfigurationOfCatalog class>>#ensureMetacello
-ConfigurationOfCatalog class>>#ensureMetacelloBaseConfiguration
-ConfigurationOfCatalog class>>#isMetacelloConfig
-ConfigurationOfCatalog class>>#load
-ConfigurationOfCatalog class>>#loadBleedingEdge
-ConfigurationOfCatalog class>>#loadDevelopment
-ConfigurationOfCatalog class>>#project
-ConfigurationOfCatalog class>>#validate
-ConfigurationOfCatalog>>#baseline01:
-ConfigurationOfCatalog>>#baseline02:
-ConfigurationOfCatalog>>#baseline03:
-ConfigurationOfCatalog>>#baseline04:
-ConfigurationOfCatalog>>#customProjectAttributes
-ConfigurationOfCatalog>>#development:
-ConfigurationOfCatalog>>#project
-ConfigurationOfCatalog>>#stable:
-ConfigurationOfCatalog>>#version011:
-ConfigurationOfCatalog>>#version01:
-ConfigurationOfCatalog>>#version021:
-ConfigurationOfCatalog>>#version02:
-ConfigurationOfCatalog>>#version031:
-ConfigurationOfCatalog>>#version03:
-ConfigurationOfCatalog>>#version04:
-GTSpotter>>#spotterCatalogProjectsFor:
-MCAnnouncementTest
-MCAnnouncementTest>>#testMCVersionSaved
-MCRepository>>#storeVersion:
-MCVersionSaved
-MCVersionSaved class>>#version:repository:
-MCVersionSaved>>#=
-MCVersionSaved>>#hash
-MCVersionSaved>>#initializeWithVersion:repository:
-MCVersionSaved>>#printOn:
-MCVersionSaved>>#repository
-MCVersionSaved>>#version
-MCWorkingCopyBrowser>>#registerToAnnouncer
-MultiByteFileStream>>#nextPreamble
-PositionableStream>>#nextPreamble
-RFThisContextReification>>#genForRBProgramNode
-RFValueReification>>#genForRBAssignmentNode
-ReflectiveMethodTest>>#testLinkWithMetaArg
-ReflectiveMethodTest>>#testReifyGlobalName
-ReflectiveMethodTest>>#testReifyIvarName
-ReflectiveMethodTest>>#testReifyIvarValue
-ReflectiveMethodTest>>#testReifyMethodSelector
-ReflectiveMethodTest>>#testReifyNode
-ReflectiveMethodTest>>#testReifySendSelector
-ReflectiveMethodTest>>#testReifySendThisContext
-ReflectivityExamples
-ReflectivityExamples>>#exampleIvarRead
-ReflectivityExamples>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50102
-ScriptLoader>>#update50103
-SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
-ThemeIcons>>#catalogIcon
-ThemeIcons>>#catalogIconContents
-ThemeIcons>>#configIcon
-ThemeIcons>>#configIconContents
-ThemeIcons>>#configIconLoaded
-ThemeIcons>>#configIconLoadedContents
+ConfigurationOfCatalog.ConfigurationOfCatalog
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#DevelopmentSupport
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#ensureMetacello
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#isMetacelloConfig
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#load
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#loadBleedingEdge
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#loadDevelopment
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#project
+ConfigurationOfCatalog.ConfigurationOfCatalog class>>#validate
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#baseline01:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#baseline02:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#baseline03:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#baseline04:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#customProjectAttributes
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#development:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#project
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version011:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version01:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version021:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version02:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version031:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version03:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version04:
+Files.MultiByteFileStream>>#nextPreamble
+Monticello-Tests.MCAnnouncementTest
+Monticello-Tests.MCAnnouncementTest>>#testMCVersionSaved
+Monticello.MCRepository>>#storeVersion:
+Monticello.MCVersionSaved
+Monticello.MCVersionSaved class>>#version:repository:
+Monticello.MCVersionSaved>>#=
+Monticello.MCVersionSaved>>#hash
+Monticello.MCVersionSaved>>#initializeWithVersion:repository:
+Monticello.MCVersionSaved>>#printOn:
+Monticello.MCVersionSaved>>#repository
+Monticello.MCVersionSaved>>#version
+MonticelloGUI.MCWorkingCopyBrowser>>#registerToAnnouncer
+Nautilus.AbstractNautilusUI>>#registerToMCAnnouncements
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithMetaArg
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyGlobalName
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyIvarName
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyIvarValue
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyMethodSelector
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyNode
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifySendSelector
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifySendThisContext
+Reflectivity-Tests.ReflectivityExamples
+Reflectivity-Tests.ReflectivityExamples>>#exampleIvarRead
+Reflectivity-Tests.ReflectivityExamples>>#initialize
+Reflectivity.RFThisContextReification>>#genForRBProgramNode
+Reflectivity.RFValueReification>>#genForRBAssignmentNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50102
+ScriptLoader50.ScriptLoader>>#update50103
+System-Changes.PositionableStream>>#nextPreamble
+System-Sources.SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+Tool-Catalog.CatalogBrowser
+Tool-Catalog.CatalogBrowser class>>#iconFor:
+Tool-Catalog.CatalogBrowser class>>#menuCommandOn:
+Tool-Catalog.CatalogBrowser class>>#open
+Tool-Catalog.CatalogBrowser class>>#title
+Tool-Catalog.CatalogBrowser>>#buildBrowser
+Tool-Catalog.CatalogBrowser>>#iconFor:
+Tool-Catalog.CatalogBrowser>>#installStableVersion:onSuccess:
+Tool-Catalog.CatalogBrowser>>#loadConfiguration:onSuccess:
+Tool-Catalog.CatalogBrowser>>#onInstallFrom:
+Tool-Catalog.CatalogBrowser>>#onLoadFrom:
+Tool-Catalog.CatalogBrowser>>#onRefreshFrom:
+Tool-Catalog.CatalogBrowser>>#open
+Tool-Catalog.CatalogBrowser>>#provider
+Tool-Catalog.CatalogBrowser>>#refresh
+Tool-Catalog.CatalogProject
+Tool-Catalog.CatalogProject class>>#createRepositoryNames
+Tool-Catalog.CatalogProject class>>#fromDictionary:
+Tool-Catalog.CatalogProject class>>#repositoryNames
+Tool-Catalog.CatalogProject class>>#unknownRepository
+Tool-Catalog.CatalogProject>>#allKeywords
+Tool-Catalog.CatalogProject>>#contactInfo
+Tool-Catalog.CatalogProject>>#description
+Tool-Catalog.CatalogProject>>#fromDictionary:
+Tool-Catalog.CatalogProject>>#fullDescription
+Tool-Catalog.CatalogProject>>#installStableVersion
+Tool-Catalog.CatalogProject>>#isAvailableForCurrentPharo
+Tool-Catalog.CatalogProject>>#keywords
+Tool-Catalog.CatalogProject>>#loadConfiguration
+Tool-Catalog.CatalogProject>>#matches:
+Tool-Catalog.CatalogProject>>#matches:with:
+Tool-Catalog.CatalogProject>>#name
+Tool-Catalog.CatalogProject>>#packageName
+Tool-Catalog.CatalogProject>>#printOn:
+Tool-Catalog.CatalogProject>>#repository
+Tool-Catalog.CatalogProject>>#repositoryUrl
+Tool-Catalog.CatalogProject>>#spotterPreviewIn:
+Tool-Catalog.CatalogProvider
+Tool-Catalog.CatalogProvider>>#loadProjects
+Tool-Catalog.CatalogProvider>>#projects
+Tool-Catalog.CatalogProvider>>#refresh
+Tool-Catalog.GTSpotter>>#spotterCatalogProjectsFor:
+Tool-Catalog.ThemeIcons>>#catalogIcon
+Tool-Catalog.ThemeIcons>>#catalogIconContents
+Tool-ConfigurationBrowser.ThemeIcons>>#configIcon
+Tool-ConfigurationBrowser.ThemeIcons>>#configIconContents
+Tool-ConfigurationBrowser.ThemeIcons>>#configIconLoaded
+Tool-ConfigurationBrowser.ThemeIcons>>#configIconLoadedContents

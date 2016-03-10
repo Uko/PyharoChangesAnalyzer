@@ -1,243 +1,243 @@
-AbsolutePath>>#acceptSettings:
-AbsolutePathStoredSetting
-AbsolutePathStoredSetting>>#realValue
-AbstractFileReference>>#acceptSettings:
-AbstractFontStoredSetting
-AbstractFontStoredSetting>>#emphasized
-AbstractFontStoredSetting>>#emphasized:
-AbstractFontStoredSetting>>#familyName
-AbstractFontStoredSetting>>#familyName:
-AbstractFontStoredSetting>>#fontClassName
-AbstractFontStoredSetting>>#fontClassName:
-AbstractFontStoredSetting>>#pointSize
-AbstractFontStoredSetting>>#pointSize:
-AbstractStoredSetting
-AbstractStoredSetting>>#isForSettingNode:
-AbstractStoredSetting>>#realValue
-AbstractStoredSetting>>#settingNodeIdentifier
-AbstractStoredSetting>>#settingNodeIdentifier:
-AbstractStoredSetting>>#updateSettingNode:
-Class>>#acceptSettings:
-ClassStoredSetting
-ClassStoredSetting>>#realValue
-FileLocator>>#acceptSettings:
-FileLocatorStoredSetting
-FileLocatorStoredSetting>>#origin:
-FileLocatorStoredSetting>>#pathSegments:
-FileLocatorStoredSetting>>#realValue
-LogicalFont>>#acceptSettings:
-LogicalFontStoredSetting
-LogicalFontStoredSetting>>#fallbackFamilyNames
-LogicalFontStoredSetting>>#fallbackFamilyNames:
-LogicalFontStoredSetting>>#realValue
-LogicalFontStoredSetting>>#slantValue
-LogicalFontStoredSetting>>#slantValue:
-LogicalFontStoredSetting>>#stretchValue
-LogicalFontStoredSetting>>#stretchValue:
-LogicalFontStoredSetting>>#weightValue
-LogicalFontStoredSetting>>#weightValue:
-MockSettings
-MockSettings class>>#booleanSetting
-MockSettings class>>#booleanSetting:
-MockSettings class>>#booleanSettingNode
-MockSettings class>>#booleanSettingNodeOn:
-MockSettings class>>#cacheDirectory
-MockSettings class>>#cacheDirectory:
-MockSettings class>>#cacheDirectorySettingNode
-MockSettings class>>#changedClassStoredSettingVariable
-MockSettings class>>#cleanUp
-MockSettings class>>#defaultDirectoryName
-MockSettings class>>#defaultDirectoryName:
-MockSettings class>>#monticelloSettingsOn:
-MockSettings class>>#nodeSettings
-MockSettings class>>#notExistingClassStoredSettingSTONString
-MockSettings class>>#oneStoredSettingSTONString
-MockSettings class>>#rangeSetting
-MockSettings class>>#rangeSetting:
-MockSettings class>>#rangeSettingNode
-MockSettings class>>#rangeSettingNodeOn:
-MockSettings class>>#settingTree
-MockSettings class>>#storedSettings
-MockSettings class>>#twoStoredSettingsSTONString
-Object>>#acceptSettings:
-PragmaSetting>>#acceptSettings:
-RelativePath>>#acceptSettings:
-RelativePathStoredSetting
-RelativePathStoredSetting>>#realValue
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50387
-ScriptLoader>>#update50388
-SettingBrowser>>#loadSettings
-SettingBrowser>>#setAllToDefault
-SettingBrowser>>#storeSettings
-SettingBrowser>>#toolBarIn:
-SettingDeclaration>>#acceptSettings:
-SettingNode>>#deleteStoredValue
-SettingNode>>#isAnotherValueStored
-SettingNode>>#isCurrentValueStored
-SettingNode>>#isNotCurrentValueStored
-SettingNode>>#isStored
-SettingNode>>#loadFromDisk
-SettingNode>>#menu:shifted:
-SettingNode>>#persistence
-SettingNode>>#realValue
-SettingNode>>#realValue:
-SettingNode>>#saveToDisk
-SettingNode>>#settingNodeIdentifier
-SettingNode>>#settingNodeIdentifierOn:
-SettingNode>>#storedValue
-SettingTree
-SettingTree>>#persistence
-SettingTree>>#storeSettingNodes
-SettingTree>>#updateSettingNodes
-SettingTreeBuilder>>#mocksystemsettings
-SettingsStonReader
-SettingsStonReader>>#load
-SettingsStonReader>>#secureLoad
-SettingsStonReader>>#storedSettings
-SettingsStonReader>>#stream
-SettingsStonReader>>#stream:
-SettingsStonReaderTest
-SettingsStonReaderTest>>#setUp
-SettingsStonReaderTest>>#testBasic
-SettingsStonReaderTest>>#testEmptyStream
-SettingsStonReaderTest>>#testLoad
-SettingsStonReaderTest>>#testLoadNotExistingClassNameForRealValue
-SettingsStonReaderTest>>#testLoadTwoObjects
-SettingsStonReaderTest>>#testNonExistingStoredSettingVariable
-SettingsStonReaderTest>>#testStoredSettingsIsNil
-SettingsStonWriter
-SettingsStonWriter>>#addSetting:
-SettingsStonWriter>>#addSettings:
-SettingsStonWriter>>#initialize
-SettingsStonWriter>>#store
-SettingsStonWriter>>#stream
-SettingsStonWriter>>#stream:
-SettingsStonWriterTest
-SettingsStonWriterTest>>#setUp
-SettingsStonWriterTest>>#testBasic
-SettingsStonWriterTest>>#testEmptyStream
-SettingsStonWriterTest>>#testStore
-SettingsStonWriterTest>>#testStoreTwoObjects
-StoredSetting
-StoredSetting>>#=
-StoredSetting>>#hash
-StoredSetting>>#realValue
-StoredSetting>>#realValue:
-StoredSettingsFactory
-StoredSettingsFactory>>#from:
-StoredSettingsFactory>>#fromSettingNodes:
-StoredSettingsFactory>>#newAbsolutePathStoredSetting
-StoredSettingsFactory>>#newClassStoredSetting
-StoredSettingsFactory>>#newFileLocatorStoreSetting
-StoredSettingsFactory>>#newFileReferenceStoredSetting
-StoredSettingsFactory>>#newLogicalFontStoredSetting
-StoredSettingsFactory>>#newRelativePathStoredSetting
-StoredSettingsFactory>>#newStoredSetting
-StoredSettingsFactory>>#newStrikeFontStoredSetting
-StoredSettingsFactory>>#newThemeIconsStoredSetting
-StoredSettingsFactory>>#visitAbsolutePath:
-StoredSettingsFactory>>#visitAbstractFileReference:
-StoredSettingsFactory>>#visitClass:
-StoredSettingsFactory>>#visitFileLocator:
-StoredSettingsFactory>>#visitLogicalFont:
-StoredSettingsFactory>>#visitObject:
-StoredSettingsFactory>>#visitPragmaSetting:
-StoredSettingsFactory>>#visitRelativePath:
-StoredSettingsFactory>>#visitSettingDeclaration:
-StoredSettingsFactory>>#visitStrikeFont:
-StoredSettingsFactory>>#visitThemeIcons:
-StoredSettingsMerger
-StoredSettingsMerger>>#addStoredSetting:
-StoredSettingsMerger>>#addStoredSettings:
-StoredSettingsMerger>>#initialize
-StoredSettingsMerger>>#storedSettings
-StoredSettingsMergerTest
-StoredSettingsMergerTest>>#setUp
-StoredSettingsMergerTest>>#testEmpty
-StoredSettingsMergerTest>>#testStoredSettings
-StrikeFont>>#acceptSettings:
-StrikeFontSet>>#acceptSettings:
-StrikeFontSetStoredSetting
-StrikeFontSetStoredSetting>>#realValue
-StrikeFontStoredSetting
-StrikeFontStoredSetting>>#realValue
-SystemSettingsPersistence
-SystemSettingsPersistence class>>#cleanUp
-SystemSettingsPersistence class>>#default
-SystemSettingsPersistence class>>#defaultPreferenceFileReference
-SystemSettingsPersistence class>>#deleteSettingNode:
-SystemSettingsPersistence class>>#initialize
-SystemSettingsPersistence class>>#resumeSystemSettings
-SystemSettingsPersistence class>>#settingTree:
-SystemSettingsPersistence class>>#startUp:
-SystemSettingsPersistence class>>#storeIdentifier:
-SystemSettingsPersistence class>>#storeSettingNode:
-SystemSettingsPersistence class>>#storeSettingNodes
-SystemSettingsPersistence class>>#storeSettingNodes:
-SystemSettingsPersistence class>>#storedValueForSettingNode:
-SystemSettingsPersistence class>>#updateSettingNode:
-SystemSettingsPersistence class>>#updateSettingNodes
-SystemSettingsPersistence class>>#updateSettingNodes:
-SystemSettingsPersistence>>#allStoredSettings
-SystemSettingsPersistence>>#deleteSettingNode:
-SystemSettingsPersistence>>#deleteSettingNodes:
-SystemSettingsPersistence>>#fileReference
-SystemSettingsPersistence>>#fileReference:
-SystemSettingsPersistence>>#mergeStoredSettings:
-SystemSettingsPersistence>>#nodeNamed:
-SystemSettingsPersistence>>#readStream
-SystemSettingsPersistence>>#removeFileReference
-SystemSettingsPersistence>>#settingNodeForStoredSetting:
-SystemSettingsPersistence>>#settingTree
-SystemSettingsPersistence>>#settingTree:
-SystemSettingsPersistence>>#settingsNodesFromIdentifiers:
-SystemSettingsPersistence>>#storeExactStoredSettings:
-SystemSettingsPersistence>>#storeIdentifier:
-SystemSettingsPersistence>>#storeIdentifiers:
-SystemSettingsPersistence>>#storeSettingNode:
-SystemSettingsPersistence>>#storeSettingNodes
-SystemSettingsPersistence>>#storeSettingNodes:
-SystemSettingsPersistence>>#storeStoredSettings:
-SystemSettingsPersistence>>#storedSettingForSettingNode:
-SystemSettingsPersistence>>#storedSettingsForSettingNodes:
-SystemSettingsPersistence>>#storedValueForSettingNode:
-SystemSettingsPersistence>>#testOpening
-SystemSettingsPersistence>>#updateSettingNode:
-SystemSettingsPersistence>>#updateSettingNodes
-SystemSettingsPersistence>>#updateSettingNodes:
-SystemSettingsPersistence>>#writeStream
-SystemSettingsPersistenceTest
-SystemSettingsPersistenceTest>>#booleanSettingNode
-SystemSettingsPersistenceTest>>#rangeSettingNode
-SystemSettingsPersistenceTest>>#setUp
-SystemSettingsPersistenceTest>>#systemSettingNodeList
-SystemSettingsPersistenceTest>>#tearDown
-SystemSettingsPersistenceTest>>#testAccessRealValues
-SystemSettingsPersistenceTest>>#testAccessibleRealValues
-SystemSettingsPersistenceTest>>#testAllStoredSettings
-SystemSettingsPersistenceTest>>#testRealValueModification
-SystemSettingsPersistenceTest>>#testRealValues
-SystemSettingsPersistenceTest>>#testSettingNodeIdentifierForChildNode
-SystemSettingsPersistenceTest>>#testSettingNodeIdentifierForRootNode
-SystemSettingsPersistenceTest>>#testStoreAndLoadAllSystemSettings
-SystemSettingsPersistenceTest>>#testStoreBooleanToSton
-SystemSettingsPersistenceTest>>#testStoreIdentifier
-SystemSettingsPersistenceTest>>#testStoreSettingNode
-SystemSettingsPersistenceTest>>#testStoreSettingNodeTwice
-SystemSettingsPersistenceTest>>#testStoreSettingNodes
-SystemSettingsPersistenceTest>>#testStoreTwoSettingNodeSeparately
-SystemSettingsPersistenceTest>>#testStoredValueForSetting
-SystemSettingsPersistenceTest>>#testStoredValueForSettingNoStoredValue
-SystemSettingsPersistenceTest>>#testUniqueIdentifiers
-SystemSettingsPersistenceTest>>#testUniqueNames
-SystemSettingsPersistenceTest>>#testUpdateAllSettings
-SystemSettingsPersistenceTest>>#testWriteAndReadBoolean
-ThemeIcons>>#acceptSettings:
-ThemeIconsStoredSetting
-ThemeIconsStoredSetting>>#name
-ThemeIconsStoredSetting>>#name:
-ThemeIconsStoredSetting>>#realValue
-ThemeIconsStoredSetting>>#url
-ThemeIconsStoredSetting>>#url:
-UITheme>>#backgroundColor
+Glamour-Morphic-Theme.UITheme>>#backgroundColor
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50387
+ScriptLoader50.ScriptLoader>>#update50388
+System-Settings-Tests.MockSettings
+System-Settings-Tests.MockSettings class>>#booleanSetting
+System-Settings-Tests.MockSettings class>>#booleanSetting:
+System-Settings-Tests.MockSettings class>>#booleanSettingNode
+System-Settings-Tests.MockSettings class>>#booleanSettingNodeOn:
+System-Settings-Tests.MockSettings class>>#cacheDirectory
+System-Settings-Tests.MockSettings class>>#cacheDirectory:
+System-Settings-Tests.MockSettings class>>#cacheDirectorySettingNode
+System-Settings-Tests.MockSettings class>>#changedClassStoredSettingVariable
+System-Settings-Tests.MockSettings class>>#cleanUp
+System-Settings-Tests.MockSettings class>>#defaultDirectoryName
+System-Settings-Tests.MockSettings class>>#defaultDirectoryName:
+System-Settings-Tests.MockSettings class>>#monticelloSettingsOn:
+System-Settings-Tests.MockSettings class>>#nodeSettings
+System-Settings-Tests.MockSettings class>>#notExistingClassStoredSettingSTONString
+System-Settings-Tests.MockSettings class>>#oneStoredSettingSTONString
+System-Settings-Tests.MockSettings class>>#rangeSetting
+System-Settings-Tests.MockSettings class>>#rangeSetting:
+System-Settings-Tests.MockSettings class>>#rangeSettingNode
+System-Settings-Tests.MockSettings class>>#rangeSettingNodeOn:
+System-Settings-Tests.MockSettings class>>#settingTree
+System-Settings-Tests.MockSettings class>>#storedSettings
+System-Settings-Tests.MockSettings class>>#twoStoredSettingsSTONString
+System-Settings-Tests.SettingTreeBuilder>>#mocksystemsettings
+System-Settings-Tests.SettingsStonReaderTest
+System-Settings-Tests.SettingsStonReaderTest>>#setUp
+System-Settings-Tests.SettingsStonReaderTest>>#testBasic
+System-Settings-Tests.SettingsStonReaderTest>>#testEmptyStream
+System-Settings-Tests.SettingsStonReaderTest>>#testLoad
+System-Settings-Tests.SettingsStonReaderTest>>#testLoadNotExistingClassNameForRealValue
+System-Settings-Tests.SettingsStonReaderTest>>#testLoadTwoObjects
+System-Settings-Tests.SettingsStonReaderTest>>#testNonExistingStoredSettingVariable
+System-Settings-Tests.SettingsStonReaderTest>>#testStoredSettingsIsNil
+System-Settings-Tests.SettingsStonWriterTest
+System-Settings-Tests.SettingsStonWriterTest>>#setUp
+System-Settings-Tests.SettingsStonWriterTest>>#testBasic
+System-Settings-Tests.SettingsStonWriterTest>>#testEmptyStream
+System-Settings-Tests.SettingsStonWriterTest>>#testStore
+System-Settings-Tests.SettingsStonWriterTest>>#testStoreTwoObjects
+System-Settings-Tests.StoredSettingsMergerTest
+System-Settings-Tests.StoredSettingsMergerTest>>#setUp
+System-Settings-Tests.StoredSettingsMergerTest>>#testEmpty
+System-Settings-Tests.StoredSettingsMergerTest>>#testStoredSettings
+System-Settings-Tests.SystemSettingsPersistenceTest
+System-Settings-Tests.SystemSettingsPersistenceTest>>#booleanSettingNode
+System-Settings-Tests.SystemSettingsPersistenceTest>>#rangeSettingNode
+System-Settings-Tests.SystemSettingsPersistenceTest>>#setUp
+System-Settings-Tests.SystemSettingsPersistenceTest>>#systemSettingNodeList
+System-Settings-Tests.SystemSettingsPersistenceTest>>#tearDown
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testAccessRealValues
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testAccessibleRealValues
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testAllStoredSettings
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testRealValueModification
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testRealValues
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testSettingNodeIdentifierForChildNode
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testSettingNodeIdentifierForRootNode
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoreAndLoadAllSystemSettings
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoreBooleanToSton
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoreIdentifier
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoreSettingNode
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoreSettingNodeTwice
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoreSettingNodes
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoreTwoSettingNodeSeparately
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoredValueForSetting
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testStoredValueForSettingNoStoredValue
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testUniqueIdentifiers
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testUniqueNames
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testUpdateAllSettings
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testWriteAndReadBoolean
+System-Settings.AbsolutePath>>#acceptSettings:
+System-Settings.AbsolutePathStoredSetting
+System-Settings.AbsolutePathStoredSetting>>#realValue
+System-Settings.AbstractFileReference>>#acceptSettings:
+System-Settings.AbstractFontStoredSetting
+System-Settings.AbstractFontStoredSetting>>#emphasized
+System-Settings.AbstractFontStoredSetting>>#emphasized:
+System-Settings.AbstractFontStoredSetting>>#familyName
+System-Settings.AbstractFontStoredSetting>>#familyName:
+System-Settings.AbstractFontStoredSetting>>#fontClassName
+System-Settings.AbstractFontStoredSetting>>#fontClassName:
+System-Settings.AbstractFontStoredSetting>>#pointSize
+System-Settings.AbstractFontStoredSetting>>#pointSize:
+System-Settings.AbstractStoredSetting
+System-Settings.AbstractStoredSetting>>#isForSettingNode:
+System-Settings.AbstractStoredSetting>>#realValue
+System-Settings.AbstractStoredSetting>>#settingNodeIdentifier
+System-Settings.AbstractStoredSetting>>#settingNodeIdentifier:
+System-Settings.AbstractStoredSetting>>#updateSettingNode:
+System-Settings.Class>>#acceptSettings:
+System-Settings.ClassStoredSetting
+System-Settings.ClassStoredSetting>>#realValue
+System-Settings.FileLocator>>#acceptSettings:
+System-Settings.FileLocatorStoredSetting
+System-Settings.FileLocatorStoredSetting>>#origin:
+System-Settings.FileLocatorStoredSetting>>#pathSegments:
+System-Settings.FileLocatorStoredSetting>>#realValue
+System-Settings.LogicalFont>>#acceptSettings:
+System-Settings.LogicalFontStoredSetting
+System-Settings.LogicalFontStoredSetting>>#fallbackFamilyNames
+System-Settings.LogicalFontStoredSetting>>#fallbackFamilyNames:
+System-Settings.LogicalFontStoredSetting>>#realValue
+System-Settings.LogicalFontStoredSetting>>#slantValue
+System-Settings.LogicalFontStoredSetting>>#slantValue:
+System-Settings.LogicalFontStoredSetting>>#stretchValue
+System-Settings.LogicalFontStoredSetting>>#stretchValue:
+System-Settings.LogicalFontStoredSetting>>#weightValue
+System-Settings.LogicalFontStoredSetting>>#weightValue:
+System-Settings.Object>>#acceptSettings:
+System-Settings.PragmaSetting>>#acceptSettings:
+System-Settings.RelativePath>>#acceptSettings:
+System-Settings.RelativePathStoredSetting
+System-Settings.RelativePathStoredSetting>>#realValue
+System-Settings.SettingBrowser>>#loadSettings
+System-Settings.SettingBrowser>>#setAllToDefault
+System-Settings.SettingBrowser>>#storeSettings
+System-Settings.SettingBrowser>>#toolBarIn:
+System-Settings.SettingDeclaration>>#acceptSettings:
+System-Settings.SettingNode>>#deleteStoredValue
+System-Settings.SettingNode>>#isAnotherValueStored
+System-Settings.SettingNode>>#isCurrentValueStored
+System-Settings.SettingNode>>#isNotCurrentValueStored
+System-Settings.SettingNode>>#isStored
+System-Settings.SettingNode>>#loadFromDisk
+System-Settings.SettingNode>>#menu:shifted:
+System-Settings.SettingNode>>#persistence
+System-Settings.SettingNode>>#realValue
+System-Settings.SettingNode>>#realValue:
+System-Settings.SettingNode>>#saveToDisk
+System-Settings.SettingNode>>#settingNodeIdentifier
+System-Settings.SettingNode>>#settingNodeIdentifierOn:
+System-Settings.SettingNode>>#storedValue
+System-Settings.SettingTree
+System-Settings.SettingTree>>#persistence
+System-Settings.SettingTree>>#storeSettingNodes
+System-Settings.SettingTree>>#updateSettingNodes
+System-Settings.SettingsStonReader
+System-Settings.SettingsStonReader>>#load
+System-Settings.SettingsStonReader>>#secureLoad
+System-Settings.SettingsStonReader>>#storedSettings
+System-Settings.SettingsStonReader>>#stream
+System-Settings.SettingsStonReader>>#stream:
+System-Settings.SettingsStonWriter
+System-Settings.SettingsStonWriter>>#addSetting:
+System-Settings.SettingsStonWriter>>#addSettings:
+System-Settings.SettingsStonWriter>>#initialize
+System-Settings.SettingsStonWriter>>#store
+System-Settings.SettingsStonWriter>>#stream
+System-Settings.SettingsStonWriter>>#stream:
+System-Settings.StoredSetting
+System-Settings.StoredSetting>>#=
+System-Settings.StoredSetting>>#hash
+System-Settings.StoredSetting>>#realValue
+System-Settings.StoredSetting>>#realValue:
+System-Settings.StoredSettingsFactory
+System-Settings.StoredSettingsFactory>>#from:
+System-Settings.StoredSettingsFactory>>#fromSettingNodes:
+System-Settings.StoredSettingsFactory>>#newAbsolutePathStoredSetting
+System-Settings.StoredSettingsFactory>>#newClassStoredSetting
+System-Settings.StoredSettingsFactory>>#newFileLocatorStoreSetting
+System-Settings.StoredSettingsFactory>>#newFileReferenceStoredSetting
+System-Settings.StoredSettingsFactory>>#newLogicalFontStoredSetting
+System-Settings.StoredSettingsFactory>>#newRelativePathStoredSetting
+System-Settings.StoredSettingsFactory>>#newStoredSetting
+System-Settings.StoredSettingsFactory>>#newStrikeFontStoredSetting
+System-Settings.StoredSettingsFactory>>#newThemeIconsStoredSetting
+System-Settings.StoredSettingsFactory>>#visitAbsolutePath:
+System-Settings.StoredSettingsFactory>>#visitAbstractFileReference:
+System-Settings.StoredSettingsFactory>>#visitClass:
+System-Settings.StoredSettingsFactory>>#visitFileLocator:
+System-Settings.StoredSettingsFactory>>#visitLogicalFont:
+System-Settings.StoredSettingsFactory>>#visitObject:
+System-Settings.StoredSettingsFactory>>#visitPragmaSetting:
+System-Settings.StoredSettingsFactory>>#visitRelativePath:
+System-Settings.StoredSettingsFactory>>#visitSettingDeclaration:
+System-Settings.StoredSettingsFactory>>#visitStrikeFont:
+System-Settings.StoredSettingsFactory>>#visitThemeIcons:
+System-Settings.StoredSettingsMerger
+System-Settings.StoredSettingsMerger>>#addStoredSetting:
+System-Settings.StoredSettingsMerger>>#addStoredSettings:
+System-Settings.StoredSettingsMerger>>#initialize
+System-Settings.StoredSettingsMerger>>#storedSettings
+System-Settings.StrikeFont>>#acceptSettings:
+System-Settings.StrikeFontSet>>#acceptSettings:
+System-Settings.StrikeFontSetStoredSetting
+System-Settings.StrikeFontSetStoredSetting>>#realValue
+System-Settings.StrikeFontStoredSetting
+System-Settings.StrikeFontStoredSetting>>#realValue
+System-Settings.SystemSettingsPersistence
+System-Settings.SystemSettingsPersistence class>>#cleanUp
+System-Settings.SystemSettingsPersistence class>>#default
+System-Settings.SystemSettingsPersistence class>>#defaultPreferenceFileReference
+System-Settings.SystemSettingsPersistence class>>#deleteSettingNode:
+System-Settings.SystemSettingsPersistence class>>#initialize
+System-Settings.SystemSettingsPersistence class>>#resumeSystemSettings
+System-Settings.SystemSettingsPersistence class>>#settingTree:
+System-Settings.SystemSettingsPersistence class>>#startUp:
+System-Settings.SystemSettingsPersistence class>>#storeIdentifier:
+System-Settings.SystemSettingsPersistence class>>#storeSettingNode:
+System-Settings.SystemSettingsPersistence class>>#storeSettingNodes
+System-Settings.SystemSettingsPersistence class>>#storeSettingNodes:
+System-Settings.SystemSettingsPersistence class>>#storedValueForSettingNode:
+System-Settings.SystemSettingsPersistence class>>#updateSettingNode:
+System-Settings.SystemSettingsPersistence class>>#updateSettingNodes
+System-Settings.SystemSettingsPersistence class>>#updateSettingNodes:
+System-Settings.SystemSettingsPersistence>>#allStoredSettings
+System-Settings.SystemSettingsPersistence>>#deleteSettingNode:
+System-Settings.SystemSettingsPersistence>>#deleteSettingNodes:
+System-Settings.SystemSettingsPersistence>>#fileReference
+System-Settings.SystemSettingsPersistence>>#fileReference:
+System-Settings.SystemSettingsPersistence>>#mergeStoredSettings:
+System-Settings.SystemSettingsPersistence>>#nodeNamed:
+System-Settings.SystemSettingsPersistence>>#readStream
+System-Settings.SystemSettingsPersistence>>#removeFileReference
+System-Settings.SystemSettingsPersistence>>#settingNodeForStoredSetting:
+System-Settings.SystemSettingsPersistence>>#settingTree
+System-Settings.SystemSettingsPersistence>>#settingTree:
+System-Settings.SystemSettingsPersistence>>#settingsNodesFromIdentifiers:
+System-Settings.SystemSettingsPersistence>>#storeExactStoredSettings:
+System-Settings.SystemSettingsPersistence>>#storeIdentifier:
+System-Settings.SystemSettingsPersistence>>#storeIdentifiers:
+System-Settings.SystemSettingsPersistence>>#storeSettingNode:
+System-Settings.SystemSettingsPersistence>>#storeSettingNodes
+System-Settings.SystemSettingsPersistence>>#storeSettingNodes:
+System-Settings.SystemSettingsPersistence>>#storeStoredSettings:
+System-Settings.SystemSettingsPersistence>>#storedSettingForSettingNode:
+System-Settings.SystemSettingsPersistence>>#storedSettingsForSettingNodes:
+System-Settings.SystemSettingsPersistence>>#storedValueForSettingNode:
+System-Settings.SystemSettingsPersistence>>#testOpening
+System-Settings.SystemSettingsPersistence>>#updateSettingNode:
+System-Settings.SystemSettingsPersistence>>#updateSettingNodes
+System-Settings.SystemSettingsPersistence>>#updateSettingNodes:
+System-Settings.SystemSettingsPersistence>>#writeStream
+System-Settings.ThemeIcons>>#acceptSettings:
+System-Settings.ThemeIconsStoredSetting
+System-Settings.ThemeIconsStoredSetting>>#name
+System-Settings.ThemeIconsStoredSetting>>#name:
+System-Settings.ThemeIconsStoredSetting>>#realValue
+System-Settings.ThemeIconsStoredSetting>>#url
+System-Settings.ThemeIconsStoredSetting>>#url:

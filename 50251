@@ -1,25 +1,25 @@
-AbstractNautilusUI class>>#buildBrowseShortcutsOn:
-AbstractNautilusUI class>>#buildExtraShortcutsOn:
-AbstractNautilusUI class>>#buildFindShortcutsOn:
-AbstractNautilusUI class>>#buildGotoNavigationShortcutsOn:
-AbstractNautilusUI class>>#buildRunTestKeymappingsOn:
-AbstractNautilusUI>>#packageRegistered:
-KomitClassNode>>#initialize
-KomitLeaf>>#initialize
-KomitNode>>#initialize
-KomitPackage
-KomitPackage>>#flush
-KomitPackage>>#package:
-KomitPackage>>#patch
-Nautilus
-Nautilus class>>#buildGroupManager
-Nautilus class>>#cleanUp
-Nautilus class>>#configurationPackages
-Nautilus class>>#configurationsGroupName
-Nautilus class>>#maxSize:
-Nautilus>>#selectedClass:
-PackageGroup>>#elements
-PackageTreeModel>>#packagesAsNodes
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50250
-ScriptLoader>>#update50251
+Komitter.KomitClassNode>>#initialize
+Komitter.KomitLeaf>>#initialize
+Komitter.KomitNode>>#initialize
+Komitter.KomitPackage
+Komitter.KomitPackage>>#flush
+Komitter.KomitPackage>>#package:
+Komitter.KomitPackage>>#patch
+Nautilus-GroupManager.PackageGroup>>#elements
+Nautilus.AbstractNautilusUI class>>#buildBrowseShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildExtraShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildFindShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildGotoNavigationShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildRunTestKeymappingsOn:
+Nautilus.AbstractNautilusUI>>#packageRegistered:
+Nautilus.Nautilus
+Nautilus.Nautilus class>>#buildGroupManager
+Nautilus.Nautilus class>>#cleanUp
+Nautilus.Nautilus class>>#configurationPackages
+Nautilus.Nautilus class>>#configurationsGroupName
+Nautilus.Nautilus class>>#maxSize:
+Nautilus.Nautilus>>#selectedClass:
+Nautilus.PackageTreeModel>>#packagesAsNodes
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50250
+ScriptLoader50.ScriptLoader>>#update50251

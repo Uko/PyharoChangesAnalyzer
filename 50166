@@ -1,116 +1,116 @@
-ChangesBrowser
-ChangesBrowser class>>#defaultSpec
-ChangesBrowser>>#accept
-ChangesBrowser>>#cancel
-ChangesBrowser>>#changes
-ChangesBrowser>>#changes:
-ChangesBrowser>>#initializePresenter
-ChangesBrowser>>#open
-ChangesBrowser>>#pickedChanges
-ChangesBrowser>>#scopeChooser
-ChangesBrowser>>#setFocus
-ChangesBrowserTest
-ChangesBrowserTest>>#setUp
-ChangesBrowserTest>>#testBuildDiffFor
-ChangesBrowserTest>>#testChanges
-ChangesBrowserTest>>#testInitializeWidgets
-ChangesBrowserTest>>#testPickedChanges
-ChangesBrowserTest>>#testPickedChangesAfterSelect
-ExternalChangesBrowser>>#initializePresenter
-LessonView
-LessonView>>#buildText
-LessonView>>#buildWindow
-LessonView>>#close
-LessonView>>#doItContext
-LessonView>>#doItReceiver
-LessonView>>#initialize
-LessonView>>#open
-LessonView>>#selectedClassOrMetaClass
-LessonView>>#shoutMorph
-LessonView>>#showLesson:withTitle:
-LessonView>>#sourceTextModel
-LessonView>>#text
-LessonView>>#window
-OCUndeclaredVariableWarning>>#defineClass:
-OCUndeclaredVariableWarning>>#openMenuIn:
-PharoSyntaxTutorial>>#basicTypesArray
-PharoSyntaxTutorial>>#basicTypesCharacters
-PharoSyntaxTutorial>>#basicTypesDynamicArray
-PharoSyntaxTutorial>>#basicTypesNumbers
-PharoSyntaxTutorial>>#basicTypesString
-PharoSyntaxTutorial>>#basicTypesSymbol
-PharoSyntaxTutorial>>#blocks
-PharoSyntaxTutorial>>#blocksAssignation
-PharoSyntaxTutorial>>#conditionals
-PharoSyntaxTutorial>>#divideTwoByZero
-PharoSyntaxTutorial>>#doingVSPrinting
-PharoSyntaxTutorial>>#inspecting
-PharoSyntaxTutorial>>#instantiation
-PharoSyntaxTutorial>>#iterators
-PharoSyntaxTutorial>>#loops
-PharoSyntaxTutorial>>#mathematicalPrecedence
-PharoSyntaxTutorial>>#messageSyntaxBinary
-PharoSyntaxTutorial>>#messageSyntaxCascade
-PharoSyntaxTutorial>>#messageSyntaxCascadeShouldNotBeHere
-PharoSyntaxTutorial>>#messageSyntaxExecutionOrder
-PharoSyntaxTutorial>>#messageSyntaxExecutionOrderParentheses
-PharoSyntaxTutorial>>#messageSyntaxKeyword
-PharoSyntaxTutorial>>#messageSyntaxUnary
-PharoSyntaxTutorial>>#pharoEnvironment
-PharoSyntaxTutorial>>#prepareDebuggerExample
-PharoSyntaxTutorial>>#printing
-PharoSyntaxTutorial>>#reflection
-PharoSyntaxTutorial>>#reflectionContinued
-PharoSyntaxTutorial>>#theEnd
-PharoSyntaxTutorial>>#welcome
-PharoTutorial class>>#contents
-PharoTutorial class>>#first
-PharoTutorial class>>#go
-PharoTutorial class>>#goOn:
-PharoTutorial class>>#last
-PharoTutorial class>>#next
-PharoTutorial class>>#openPharoZenWorkspace
-PharoTutorial class>>#pharoZenValues
-PharoTutorial class>>#pharoZenValuesContents
-PharoTutorial class>>#previous
-PharoTutorial class>>#reset
-PharoTutorial class>>#tutorial:lesson:
-PharoTutorial class>>#tutorial:lessonAt:
-PharoTutorial>>#close
-PharoTutorial>>#first
-PharoTutorial>>#go
-PharoTutorial>>#goOn:
-PharoTutorial>>#helpBrowserWindow
-PharoTutorial>>#last
-PharoTutorial>>#lessonView
-PharoTutorial>>#lessonView:
-PharoTutorial>>#next
-PharoTutorial>>#open
-PharoTutorial>>#player
-PharoTutorial>>#player:
-PharoTutorial>>#previous
-PharoTutorial>>#showCurrentLesson
-PharoTutorial>>#tutorial:lesson:
-PharoTutorial>>#tutorial:lessonAt:
-PharoTutorial>>#tutorialPositionString
-PharoTutorial>>#tutorialSizeString
-PharoTutorialTestGo>>#tearDown
-PharoTutorialTestGo>>#testGoOnMockTutorial
-PharoTutorialTestGo>>#testGoOpenSmalltalkSyntaxTutorial
-PharoTutorialTestGo>>#testGoTwiceShowLessonViewIfNotVisible
-PharoTutorialTestGo>>#testGoTwiceUseSameLessonView
-PharoTutorialTestGoOnMockTutorial>>#setUp
-PharoTutorialTestGoOnMockTutorial>>#tearDown
-PharoTutorialTestGoOnMockTutorial>>#testFirstLessonShouldBeDisplayed
-PharoTutorialTestGoOnMockTutorial>>#testLastShouldGoToThirdLesson
-PharoTutorialTestGoOnMockTutorial>>#testLastThenFirstShouldGoToFirstLesson
-PharoTutorialTestGoOnMockTutorial>>#testLastThenPreviousShouldGoToSecondLesson
-PharoTutorialTestGoOnMockTutorial>>#testNextShouldGoToSecondLesson
-PharoTutorialTestNavigation>>#setUp
-ProfStef
-ProfStef class>>#aboutPharoZen
-ProfStef class>>#default
-ProfStef class>>#menuCommandOn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50165
-ScriptLoader>>#update50166
+NautilusRefactoring.ChangesBrowser
+NautilusRefactoring.ChangesBrowser class>>#defaultSpec
+NautilusRefactoring.ChangesBrowser>>#accept
+NautilusRefactoring.ChangesBrowser>>#cancel
+NautilusRefactoring.ChangesBrowser>>#changes
+NautilusRefactoring.ChangesBrowser>>#changes:
+NautilusRefactoring.ChangesBrowser>>#initializePresenter
+NautilusRefactoring.ChangesBrowser>>#open
+NautilusRefactoring.ChangesBrowser>>#pickedChanges
+NautilusRefactoring.ChangesBrowser>>#scopeChooser
+NautilusRefactoring.ChangesBrowser>>#setFocus
+NautilusRefactoring.ChangesBrowserTest
+NautilusRefactoring.ChangesBrowserTest>>#setUp
+NautilusRefactoring.ChangesBrowserTest>>#testBuildDiffFor
+NautilusRefactoring.ChangesBrowserTest>>#testChanges
+NautilusRefactoring.ChangesBrowserTest>>#testInitializeWidgets
+NautilusRefactoring.ChangesBrowserTest>>#testPickedChanges
+NautilusRefactoring.ChangesBrowserTest>>#testPickedChangesAfterSelect
+OpalCompiler-Core.OCUndeclaredVariableWarning>>#defineClass:
+OpalCompiler-Core.OCUndeclaredVariableWarning>>#openMenuIn:
+ProfStef-Core.LessonView
+ProfStef-Core.LessonView>>#buildText
+ProfStef-Core.LessonView>>#buildWindow
+ProfStef-Core.LessonView>>#close
+ProfStef-Core.LessonView>>#doItContext
+ProfStef-Core.LessonView>>#doItReceiver
+ProfStef-Core.LessonView>>#initialize
+ProfStef-Core.LessonView>>#open
+ProfStef-Core.LessonView>>#selectedClassOrMetaClass
+ProfStef-Core.LessonView>>#shoutMorph
+ProfStef-Core.LessonView>>#showLesson:withTitle:
+ProfStef-Core.LessonView>>#sourceTextModel
+ProfStef-Core.LessonView>>#text
+ProfStef-Core.LessonView>>#window
+ProfStef-Core.PharoSyntaxTutorial>>#basicTypesArray
+ProfStef-Core.PharoSyntaxTutorial>>#basicTypesCharacters
+ProfStef-Core.PharoSyntaxTutorial>>#basicTypesDynamicArray
+ProfStef-Core.PharoSyntaxTutorial>>#basicTypesNumbers
+ProfStef-Core.PharoSyntaxTutorial>>#basicTypesString
+ProfStef-Core.PharoSyntaxTutorial>>#basicTypesSymbol
+ProfStef-Core.PharoSyntaxTutorial>>#blocks
+ProfStef-Core.PharoSyntaxTutorial>>#blocksAssignation
+ProfStef-Core.PharoSyntaxTutorial>>#conditionals
+ProfStef-Core.PharoSyntaxTutorial>>#divideTwoByZero
+ProfStef-Core.PharoSyntaxTutorial>>#doingVSPrinting
+ProfStef-Core.PharoSyntaxTutorial>>#inspecting
+ProfStef-Core.PharoSyntaxTutorial>>#instantiation
+ProfStef-Core.PharoSyntaxTutorial>>#iterators
+ProfStef-Core.PharoSyntaxTutorial>>#loops
+ProfStef-Core.PharoSyntaxTutorial>>#mathematicalPrecedence
+ProfStef-Core.PharoSyntaxTutorial>>#messageSyntaxBinary
+ProfStef-Core.PharoSyntaxTutorial>>#messageSyntaxCascade
+ProfStef-Core.PharoSyntaxTutorial>>#messageSyntaxCascadeShouldNotBeHere
+ProfStef-Core.PharoSyntaxTutorial>>#messageSyntaxExecutionOrder
+ProfStef-Core.PharoSyntaxTutorial>>#messageSyntaxExecutionOrderParentheses
+ProfStef-Core.PharoSyntaxTutorial>>#messageSyntaxKeyword
+ProfStef-Core.PharoSyntaxTutorial>>#messageSyntaxUnary
+ProfStef-Core.PharoSyntaxTutorial>>#pharoEnvironment
+ProfStef-Core.PharoSyntaxTutorial>>#prepareDebuggerExample
+ProfStef-Core.PharoSyntaxTutorial>>#printing
+ProfStef-Core.PharoSyntaxTutorial>>#reflection
+ProfStef-Core.PharoSyntaxTutorial>>#reflectionContinued
+ProfStef-Core.PharoSyntaxTutorial>>#theEnd
+ProfStef-Core.PharoSyntaxTutorial>>#welcome
+ProfStef-Core.PharoTutorial class>>#contents
+ProfStef-Core.PharoTutorial class>>#first
+ProfStef-Core.PharoTutorial class>>#go
+ProfStef-Core.PharoTutorial class>>#goOn:
+ProfStef-Core.PharoTutorial class>>#last
+ProfStef-Core.PharoTutorial class>>#next
+ProfStef-Core.PharoTutorial class>>#openPharoZenWorkspace
+ProfStef-Core.PharoTutorial class>>#pharoZenValues
+ProfStef-Core.PharoTutorial class>>#pharoZenValuesContents
+ProfStef-Core.PharoTutorial class>>#previous
+ProfStef-Core.PharoTutorial class>>#reset
+ProfStef-Core.PharoTutorial class>>#tutorial:lesson:
+ProfStef-Core.PharoTutorial class>>#tutorial:lessonAt:
+ProfStef-Core.PharoTutorial>>#close
+ProfStef-Core.PharoTutorial>>#first
+ProfStef-Core.PharoTutorial>>#go
+ProfStef-Core.PharoTutorial>>#goOn:
+ProfStef-Core.PharoTutorial>>#helpBrowserWindow
+ProfStef-Core.PharoTutorial>>#last
+ProfStef-Core.PharoTutorial>>#lessonView
+ProfStef-Core.PharoTutorial>>#lessonView:
+ProfStef-Core.PharoTutorial>>#next
+ProfStef-Core.PharoTutorial>>#open
+ProfStef-Core.PharoTutorial>>#player
+ProfStef-Core.PharoTutorial>>#player:
+ProfStef-Core.PharoTutorial>>#previous
+ProfStef-Core.PharoTutorial>>#showCurrentLesson
+ProfStef-Core.PharoTutorial>>#tutorial:lesson:
+ProfStef-Core.PharoTutorial>>#tutorial:lessonAt:
+ProfStef-Core.PharoTutorial>>#tutorialPositionString
+ProfStef-Core.PharoTutorial>>#tutorialSizeString
+ProfStef-Core.ProfStef
+ProfStef-Core.ProfStef class>>#aboutPharoZen
+ProfStef-Core.ProfStef class>>#default
+ProfStef-Core.ProfStef class>>#menuCommandOn:
+ProfStef-Tests.PharoTutorialTestGo>>#tearDown
+ProfStef-Tests.PharoTutorialTestGo>>#testGoOnMockTutorial
+ProfStef-Tests.PharoTutorialTestGo>>#testGoOpenSmalltalkSyntaxTutorial
+ProfStef-Tests.PharoTutorialTestGo>>#testGoTwiceShowLessonViewIfNotVisible
+ProfStef-Tests.PharoTutorialTestGo>>#testGoTwiceUseSameLessonView
+ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#setUp
+ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#tearDown
+ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#testFirstLessonShouldBeDisplayed
+ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#testLastShouldGoToThirdLesson
+ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#testLastThenFirstShouldGoToFirstLesson
+ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#testLastThenPreviousShouldGoToSecondLesson
+ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#testNextShouldGoToSecondLesson
+ProfStef-Tests.PharoTutorialTestNavigation>>#setUp
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50165
+ScriptLoader50.ScriptLoader>>#update50166
+Tool-ExternalBrowser.ExternalChangesBrowser>>#initializePresenter

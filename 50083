@@ -1,5 +1,5 @@
-BehaviorOwnedChunk>>#behaviorName
-ConfigurationOfCodeImporter>>#version111:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50082
-ScriptLoader>>#update50083
+CodeImport.BehaviorOwnedChunk>>#behaviorName
+ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#version111:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50082
+ScriptLoader50.ScriptLoader>>#update50083

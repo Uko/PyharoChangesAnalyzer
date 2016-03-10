@@ -1,9 +1,9 @@
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50128
-ScriptLoader>>#update50129
-SourceFileArray class>>#new:
-SourceFileArray>>#changesFileStream:
-SourceFileArray>>#initialize
-SourceFileArray>>#readOnlyCopy
-SourceFileArray>>#size
-SourceFileArray>>#sourcesFileStream:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50128
+ScriptLoader50.ScriptLoader>>#update50129
+System-Sources.SourceFileArray class>>#new:
+System-Sources.SourceFileArray>>#changesFileStream:
+System-Sources.SourceFileArray>>#initialize
+System-Sources.SourceFileArray>>#readOnlyCopy
+System-Sources.SourceFileArray>>#size
+System-Sources.SourceFileArray>>#sourcesFileStream:

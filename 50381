@@ -1,41 +1,41 @@
-Collection>>#atRandom
-Collection>>#atRandom:
-Context class>>#basicNew:
-Context>>#debugStack:on:
-Context>>#debugStackOn:
-Context>>#printOn:
-Context>>#shortDebugStack
-Exception>>#freeze
-Integer>>#atRandom
-Integer>>#atRandom:
-Matrix>>#atRandom
-Matrix>>#atRandom:
-Random
-Random class>>#bucketTest:
-Random class>>#seed:
-Random>>#initialize
-Random>>#next
-Random>>#next:
-Random>>#next:into:
-Random>>#nextInt:
-Random>>#privateNextSeed
-Random>>#privateNextValue
-Random>>#seed
-Random>>#seed:
-RandomTest
-RandomTest>>#setUp
-RandomTest>>#testIfCompletelyBroken
-RandomTest>>#testNext
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50380
-ScriptLoader>>#update50381
-SequenceableCollection>>#atRandom:
-Set>>#atRandom:
-SetTest>>#testAtRandom
-SharedRandom
-SharedRandom class>>#globalGenerator
-SharedRandom class>>#initialize
-SharedRandom>>#initialize
-SharedRandom>>#next
-SharedRandom>>#next:into:
-SharedRandom>>#nextInt:
+Collections-Abstract.Collection>>#atRandom
+Collections-Abstract.Collection>>#atRandom:
+Collections-Abstract.SequenceableCollection>>#atRandom:
+Collections-Tests.SetTest>>#testAtRandom
+Collections-Unordered.Matrix>>#atRandom
+Collections-Unordered.Matrix>>#atRandom:
+Collections-Unordered.Set>>#atRandom:
+Kernel-Tests.RandomTest
+Kernel-Tests.RandomTest>>#setUp
+Kernel.Context class>>#basicNew:
+Kernel.Context>>#debugStack:on:
+Kernel.Context>>#debugStackOn:
+Kernel.Context>>#printOn:
+Kernel.Context>>#shortDebugStack
+Kernel.Exception>>#freeze
+Kernel.Integer>>#atRandom
+Kernel.Integer>>#atRandom:
+Kernel.Random
+Kernel.Random class>>#bucketTest:
+Kernel.Random class>>#seed:
+Kernel.Random>>#initialize
+Kernel.Random>>#next
+Kernel.Random>>#next:
+Kernel.Random>>#nextInt:
+Random.Random>>#next:into:
+Random.Random>>#privateNextSeed
+Random.Random>>#privateNextValue
+Random.Random>>#seed
+Random.Random>>#seed:
+Random.RandomTest>>#testIfCompletelyBroken
+Random.RandomTest>>#testNext
+Random.SharedRandom
+Random.SharedRandom class>>#globalGenerator
+Random.SharedRandom class>>#initialize
+Random.SharedRandom>>#initialize
+Random.SharedRandom>>#next
+Random.SharedRandom>>#next:into:
+Random.SharedRandom>>#nextInt:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50380
+ScriptLoader50.ScriptLoader>>#update50381

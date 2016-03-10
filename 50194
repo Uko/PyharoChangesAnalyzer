@@ -1,19 +1,19 @@
-ConfigurationOfTxText>>#version211:
-DropListExample>>#initializeWidgets
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50193
-ScriptLoader>>#update50194
-SettingBrowser class>>#viewAllSettings
-SettingDeclaration>>#displayExportAction
-SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
-SimulateMouseSpecification>>#testSimulateRightClick
-StartupPreferencesLoader class>>#example
-TxScrollbarDecorator>>#initScrollbar
-TxScrollbarDecorator>>#setContainer:
-TxScrollbarDecorator>>#setupView:
-TxSlider class>>#test
-TxTextStyler>>#addAttribute:startPosition:stopPosition:
-TxTextStyler>>#addAttributes:startPosition:stopPosition:
-TxTextStyler>>#addStyle:startPosition:stopPosition:
-TxTextStyler>>#visitMessageNode:
-TxWorkspace>>#wireEvents
+ConfigurationOfTxText.ConfigurationOfTxText>>#version211:
+SUnit-UITesting.SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
+SUnit-UITesting.SimulateMouseSpecification>>#testSimulateRightClick
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50193
+ScriptLoader50.ScriptLoader>>#update50194
+Spec-Examples.DropListExample>>#initializeWidgets
+StartupPreferences.SettingDeclaration>>#displayExportAction
+StartupPreferences.StartupPreferencesLoader class>>#example
+System-Settings.SettingBrowser class>>#viewAllSettings
+Tool-TxWorkspace.TxWorkspace>>#wireEvents
+TxText-Athens.TxScrollbarDecorator>>#initScrollbar
+TxText-Athens.TxScrollbarDecorator>>#setContainer:
+TxText-Athens.TxScrollbarDecorator>>#setupView:
+TxText-Athens.TxSlider class>>#test
+TxText-Styler.TxTextStyler>>#addAttribute:startPosition:stopPosition:
+TxText-Styler.TxTextStyler>>#addAttributes:startPosition:stopPosition:
+TxText-Styler.TxTextStyler>>#addStyle:startPosition:stopPosition:
+TxText-Styler.TxTextStyler>>#visitMessageNode:

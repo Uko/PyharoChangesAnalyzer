@@ -1,8 +1,8 @@
-Behavior>>#largeIdentityHash
-MethodFinderTest>>#testPointY
-ProtoObject>>#pointersToExcept:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50507
-ScriptLoader>>#update50508
-SmalltalkImage>>#newSpecialObjectsArray
-SystemNavigation>>#allObjectsDo:
+Kernel.Behavior>>#largeIdentityHash
+Kernel.ProtoObject>>#pointersToExcept:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50507
+ScriptLoader50.ScriptLoader>>#update50508
+System-Support.SmalltalkImage>>#newSpecialObjectsArray
+System-Support.SystemNavigation>>#allObjectsDo:
+Tools-Test.MethodFinderTest>>#testPointY

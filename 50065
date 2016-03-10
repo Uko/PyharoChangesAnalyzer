@@ -1,47 +1,47 @@
-Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-RFLinkReification
-RFLinkReification class>>#key
-RFLinkReification class>>#nodes
-RFLinkReification>>#genForRBProgramNode
-RFNewValueReification
-RFNewValueReification class>>#key
-RFNewValueReification class>>#nodes
-RFNewValueReification>>#genForRBAssignmentNode
-RFNodeReification
-RFNodeReification class>>#key
-RFNodeReification class>>#nodes
-RFNodeReification>>#genForRBProgramNode
-RFReification>>#genForRBAssignmentNode
-RFReification>>#genForRBBlockNode
-RFReification>>#genForRBCascadeNode
-RFReification>>#genForRBLiteralNode
-RFReification>>#genForRBProgramNode
-RFReification>>#genForRBReturnNode
-RFReification>>#genForRBSequenceNode
-RFReification>>#genForRBVariableNode
-RFSelectorReification
-RFSelectorReification class>>#key
-RFSelectorReification class>>#nodes
-RFSelectorReification>>#genForRBMessageNode
-RFSelectorReification>>#genForRBMethodNode
-RFTArgumentsReification
-RFTArgumentsReification class>>#key
-RFTArgumentsReification class>>#nodes
-RFTArgumentsReification>>#genForRBProgramNode
-RFThisContextReification
-RFThisContextReification class>>#key
-RFThisContextReification class>>#nodes
-RFThisContextReification>>#genForRBProgramNode
-RFValueReification
-RFValueReification class>>#key
-RFValueReification class>>#nodes
-RFValueReification>>#genForRBAssignmentNode
-RFValueReification>>#genForRBTempVariableNode
-RFValueReification>>#genForRBVariableNode
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50064
-ScriptLoader>>#update50065
-TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
-TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Kernel.Class>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Reflectivity.RFLinkReification
+Reflectivity.RFLinkReification class>>#key
+Reflectivity.RFLinkReification class>>#nodes
+Reflectivity.RFLinkReification>>#genForRBProgramNode
+Reflectivity.RFNewValueReification
+Reflectivity.RFNewValueReification class>>#key
+Reflectivity.RFNewValueReification class>>#nodes
+Reflectivity.RFNewValueReification>>#genForRBAssignmentNode
+Reflectivity.RFNodeReification
+Reflectivity.RFNodeReification class>>#key
+Reflectivity.RFNodeReification class>>#nodes
+Reflectivity.RFNodeReification>>#genForRBProgramNode
+Reflectivity.RFReification>>#genForRBAssignmentNode
+Reflectivity.RFReification>>#genForRBBlockNode
+Reflectivity.RFReification>>#genForRBCascadeNode
+Reflectivity.RFReification>>#genForRBLiteralNode
+Reflectivity.RFReification>>#genForRBProgramNode
+Reflectivity.RFReification>>#genForRBReturnNode
+Reflectivity.RFReification>>#genForRBSequenceNode
+Reflectivity.RFReification>>#genForRBVariableNode
+Reflectivity.RFSelectorReification
+Reflectivity.RFSelectorReification class>>#key
+Reflectivity.RFSelectorReification class>>#nodes
+Reflectivity.RFSelectorReification>>#genForRBMessageNode
+Reflectivity.RFSelectorReification>>#genForRBMethodNode
+Reflectivity.RFTArgumentsReification
+Reflectivity.RFTArgumentsReification class>>#key
+Reflectivity.RFTArgumentsReification class>>#nodes
+Reflectivity.RFTArgumentsReification>>#genForRBProgramNode
+Reflectivity.RFThisContextReification
+Reflectivity.RFThisContextReification class>>#key
+Reflectivity.RFThisContextReification class>>#nodes
+Reflectivity.RFThisContextReification>>#genForRBProgramNode
+Reflectivity.RFValueReification
+Reflectivity.RFValueReification class>>#key
+Reflectivity.RFValueReification class>>#nodes
+Reflectivity.RFValueReification>>#genForRBAssignmentNode
+Reflectivity.RFValueReification>>#genForRBTempVariableNode
+Reflectivity.RFValueReification>>#genForRBVariableNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50064
+ScriptLoader50.ScriptLoader>>#update50065
+Traits.TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Traits.TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Traits.TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Traits.TClass>>#weakSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

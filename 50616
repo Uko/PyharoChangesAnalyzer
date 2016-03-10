@@ -1,0 +1,26 @@
+ConfigurationOfVersionner.ConfigurationOfVersionner>>#stable:
+ConfigurationOfVersionner.ConfigurationOfVersionner>>#version2138:
+Morphic-Examples.PluggableButtonMorphExample class>>#exampleButtonFont
+Morphic-Widgets-Basic.PluggableButtonMorph
+Morphic-Widgets-Basic.PluggableButtonMorph>>#font
+Morphic-Widgets-Basic.PluggableButtonMorph>>#font:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#getFontSelector
+Morphic-Widgets-Basic.PluggableButtonMorph>>#getFontSelector:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#label:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#newLabel
+Morphic-Widgets-Basic.PluggableButtonMorph>>#update:
+Network-Kernel.NetworkSystemSettings class>>#isAnExceptionFor:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50615
+ScriptLoader50.ScriptLoader>>#update50616
+Spec-Core.ButtonModel
+Spec-Core.ButtonModel>>#font
+Spec-Core.ButtonModel>>#font:
+Spec-Core.ButtonModel>>#initialize
+Spec-Core.ButtonModel>>#whenFontChangedDo:
+Spec-Examples.DynamicWidgetChange>>#changeToButton
+Spec-Examples.DynamicWidgetChange>>#changeToList
+Spec-MorphicAdapters.MorphicButtonAdapter>>#buildWidget
+Spec-MorphicAdapters.MorphicButtonAdapter>>#font
+Versionner-Spec-Browser.VersionnerProjectPanel>>#browseSelectedProject
+Versionner-Spec-Browser.VersionnerProjectPanel>>#requiredProjectMenu:

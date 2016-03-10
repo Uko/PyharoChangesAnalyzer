@@ -1,22 +1,22 @@
-AbstractClassWidget>>#dragPassengersFor:inMorph:
-AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
-AbstractMethodWidget>>#buildUpAndDownArrowIcon:
-AbstractMethodWidget>>#dragPassengersFor:inMorph:
-AbstractMethodWidget>>#elementsMenu:shifted:
-AbstractMethodWidget>>#methodIconFor:
-AbstractMethodWidget>>#methodsIconsCache
-AbstractMethodWidget>>#okToChange
-AbstractMethodWidget>>#rebuildUpAndDownArrowIconFrom:
-AbstractMethodWidget>>#selectedMethod
-AbstractMethodWidget>>#selectedMethod:
-AbstractMethodWidget>>#setIcon:for:
-AbstractMethodWidget>>#showInstance
-ClassWidget
-MethodWidget
-MethodWidget class>>#methodsIconsCache
-MethodWidget class>>#resetMethodIconCache
-MethodWidget>>#initialize
-PackageWidget
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50436
-ScriptLoader>>#update50437
+Nautilus.AbstractClassWidget>>#dragPassengersFor:inMorph:
+Nautilus.AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
+Nautilus.AbstractMethodWidget>>#buildUpAndDownArrowIcon:
+Nautilus.AbstractMethodWidget>>#dragPassengersFor:inMorph:
+Nautilus.AbstractMethodWidget>>#elementsMenu:shifted:
+Nautilus.AbstractMethodWidget>>#methodIconFor:
+Nautilus.AbstractMethodWidget>>#methodsIconsCache
+Nautilus.AbstractMethodWidget>>#okToChange
+Nautilus.AbstractMethodWidget>>#rebuildUpAndDownArrowIconFrom:
+Nautilus.AbstractMethodWidget>>#selectedMethod
+Nautilus.AbstractMethodWidget>>#selectedMethod:
+Nautilus.AbstractMethodWidget>>#setIcon:for:
+Nautilus.AbstractMethodWidget>>#showInstance
+Nautilus.ClassWidget
+Nautilus.MethodWidget
+Nautilus.MethodWidget class>>#methodsIconsCache
+Nautilus.MethodWidget class>>#resetMethodIconCache
+Nautilus.MethodWidget>>#initialize
+Nautilus.PackageWidget
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50436
+ScriptLoader50.ScriptLoader>>#update50437

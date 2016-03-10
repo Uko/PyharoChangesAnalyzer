@@ -1,13 +1,13 @@
-AbstractNautilusUI>>#classIconFor:
-AthensCairoMatrix>>#copyFromMatrix:
-AthensCairoMatrix>>#postCopy
-AthensCairoMatrix>>#restoreAfter:
-AthensCairoMatrixTest
-AthensCairoMatrixTest>>#testCopy
-AthensCairoMatrixTest>>#testInverted
-MorphicLabelAdapter>>#buildWidget
-NativeBoost class>>#isEnabled
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50510
-ScriptLoader>>#update50511
-TestCase class>>#hasTestSelectors
+Athens-Cairo.AthensCairoMatrix>>#copyFromMatrix:
+Athens-Cairo.AthensCairoMatrix>>#postCopy
+Athens-Cairo.AthensCairoMatrix>>#restoreAfter:
+Athens-Cairo.AthensCairoMatrixTest
+Athens-Cairo.AthensCairoMatrixTest>>#testCopy
+Athens-Cairo.AthensCairoMatrixTest>>#testInverted
+NativeBoost-Core.NativeBoost class>>#isEnabled
+Nautilus.AbstractNautilusUI>>#classIconFor:
+SUnit-Core.TestCase class>>#hasTestSelectors
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50510
+ScriptLoader50.ScriptLoader>>#update50511
+Spec-MorphicAdapters.MorphicLabelAdapter>>#buildWidget

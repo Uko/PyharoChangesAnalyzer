@@ -1,11 +1,11 @@
-ConfigurationOfShoreLineReporter>>#stable:
-ConfigurationOfShoreLineReporter>>#version020:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50293
-ScriptLoader>>#update50294
-SlReportPreDebugAction>>#appliesToDebugger:
-SlReportWindow class>>#forDebugger:
-SlReportWindow>>#generateReport
-SlReportWindow>>#initializeWidgets
-SlReportWindow>>#reportSummary
-SlotClassBuilder>>#validateClassName
+ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#stable:
+ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#version020:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50293
+ScriptLoader50.ScriptLoader>>#update50294
+ShoreLine-Report-UI.SlReportPreDebugAction>>#appliesToDebugger:
+ShoreLine-Report-UI.SlReportWindow class>>#forDebugger:
+ShoreLine-Report-UI.SlReportWindow>>#generateReport
+ShoreLine-Report-UI.SlReportWindow>>#initializeWidgets
+ShoreLine-Report-UI.SlReportWindow>>#reportSummary
+Slot.SlotClassBuilder>>#validateClassName

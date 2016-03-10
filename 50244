@@ -1,13 +1,14 @@
-GZipReadStream class>>#unload
-MCSnapshotBrowserTest>>#assertTextIs:
-MCSnapshotBrowserTest>>#textMorph
-ManifestCompression class>>#manuallyResolvedDependencies
-NautilusPluginManager
-NautilusPluginManager>>#buildDescriptionTextArea
-NautilusPluginManager>>#pluginClassesSelectedIndex:
-NautilusPluginManager>>#textModel
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50243
-ScriptLoader>>#update50244
-ZipArchive class>>#initialize
-ZipArchive class>>#unload
+Compression-Registration.GZipReadStream class>>#unload
+Compression-Registration.ZipArchive class>>#initialize
+Compression-Registration.ZipArchive class>>#unload
+Compression.ManifestCompression class>>#manuallyResolvedDependencies
+Compression.ZipArchive class>>#initialize
+Monticello-Tests.MCSnapshotBrowserTest>>#assertTextIs:
+Monticello-Tests.MCSnapshotBrowserTest>>#textMorph
+NautilusCommon.NautilusPluginManager
+NautilusCommon.NautilusPluginManager>>#buildDescriptionTextArea
+NautilusCommon.NautilusPluginManager>>#pluginClassesSelectedIndex:
+NautilusCommon.NautilusPluginManager>>#textModel
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50243
+ScriptLoader50.ScriptLoader>>#update50244

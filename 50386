@@ -1,60 +1,60 @@
-CriticBrowser>>#applyRules
-CriticBrowser>>#menu:shifted:
-PharoCriticRules class>>#pharoHardLintRules
-PharoKernelAssembly class>>#parts
-RBArchitectureLintRule
-RBArchitectureLintRule class>>#isVisible
-RBArchitectureLintRule class>>#uniqueIdentifierName
-RBArchitectureLintRule>>#group
-RBArchitectureLintRule>>#isArchitecturalRule
-RBArchitectureLintRule>>#resultClass
-RBBrowserEnvironment>>#withoutClasses:
-RBCompositeLintRule>>#checkPackage:
-RBLintRule>>#checkPackage:
-RBLintRule>>#isArchitecturalRule
-RBPackageEnvironment>>#smallLintCritics
-RBPharoBootstrapAnalyzerStubWithNewDependency
-RBPharoBootstrapAnalyzerStubWithNewDependency>>#dependenciesOf:
-RBPharoBootstrapAnalyzerStubWithNoNewDependency
-RBPharoBootstrapAnalyzerStubWithNoNewDependency>>#dependenciesOf:
-RBPharoBootstrapRule
-RBPharoBootstrapRule class>>#uniqueIdentifierName
-RBPharoBootstrapRule>>#assertNoNewExternalDependency
-RBPharoBootstrapRule>>#bootstrapPackages
-RBPharoBootstrapRule>>#checkPackage:
-RBPharoBootstrapRule>>#collectionsPackages
-RBPharoBootstrapRule>>#dependencyChecker
-RBPharoBootstrapRule>>#name
-RBPharoBootstrapRuleTest
-RBPharoBootstrapRuleTest>>#setUp
-RBPharoBootstrapRuleTest>>#tearDown
-RBPharoBootstrapRuleTest>>#testRuleDoesNotFailIfAppliedOnNonBootstrapPackage
-RBPharoBootstrapRuleTest>>#testRuleDoesNotFailIfNoNewExternalDependency
-RBPharoBootstrapRuleTest>>#testRuleFailsIfAnyNewExternalDependencyFound
-RBSmalllintChecker>>#checkPackage:
-RBSmalllintChecker>>#run
-RBUnaryAccessingMethodWithoutReturnRule>>#basicCheck:
-RPackage>>#browse
-RPackage>>#criticNameOn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50385
-ScriptLoader>>#update50386
-SelectPackageBrowser>>#addAllItems
-SelectPackageBrowser>>#addItems
-SelectPackageBrowser>>#removeAllItems
-SelectPackageBrowser>>#removeItems
-SelectPackageBrowser>>#sort:
-SelectPackageBrowser>>#sort:withAll:
-SelectPackageBrowser>>#sort:withoutAll:
-SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
-SelectRuleBrowser>>#removeItems
-SingleCodeCriticResultList>>#addNavigationMenuItemsTo:
-SingleCodeCriticResultList>>#browseCritic
-SingleCodeCriticResultList>>#browseDependencies
-SingleCodeCriticResultList>>#menu:shifted:
-SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel
-SmalllintManifestChecker>>#criticsOf:
-SmalllintManifestChecker>>#runRules:onPackage:withoutTestCase:
-SystemWindow
-SystemWindow>>#announce:
-TheManifestBuilder>>#isFalsePositive:onRule:version:
+Kernel.PharoKernelAssembly class>>#parts
+Manifest-Core.RBPackageEnvironment>>#smallLintCritics
+Manifest-Core.RPackage>>#criticNameOn:
+Manifest-Core.SmalllintManifestChecker>>#criticsOf:
+Manifest-Core.SmalllintManifestChecker>>#runRules:onPackage:withoutTestCase:
+Manifest-Core.TheManifestBuilder>>#isFalsePositive:onRule:version:
+Morphic-Widgets-Windows.SystemWindow
+Morphic-Widgets-Windows.SystemWindow>>#announce:
+Refactoring-Critics.PharoCriticRules class>>#pharoHardLintRules
+Refactoring-Critics.RBArchitectureLintRule
+Refactoring-Critics.RBArchitectureLintRule class>>#isVisible
+Refactoring-Critics.RBArchitectureLintRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBArchitectureLintRule>>#group
+Refactoring-Critics.RBArchitectureLintRule>>#isArchitecturalRule
+Refactoring-Critics.RBArchitectureLintRule>>#resultClass
+Refactoring-Critics.RBCompositeLintRule>>#checkPackage:
+Refactoring-Critics.RBLintRule>>#checkPackage:
+Refactoring-Critics.RBLintRule>>#isArchitecturalRule
+Refactoring-Critics.RBPharoBootstrapRule
+Refactoring-Critics.RBPharoBootstrapRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBPharoBootstrapRule>>#assertNoNewExternalDependency
+Refactoring-Critics.RBPharoBootstrapRule>>#bootstrapPackages
+Refactoring-Critics.RBPharoBootstrapRule>>#checkPackage:
+Refactoring-Critics.RBPharoBootstrapRule>>#collectionsPackages
+Refactoring-Critics.RBPharoBootstrapRule>>#dependencyChecker
+Refactoring-Critics.RBPharoBootstrapRule>>#name
+Refactoring-Critics.RBSmalllintChecker>>#checkPackage:
+Refactoring-Critics.RBSmalllintChecker>>#run
+Refactoring-Critics.RBUnaryAccessingMethodWithoutReturnRule>>#basicCheck:
+Refactoring-Environment.RBBrowserEnvironment>>#withoutClasses:
+Refactoring-Tests-Critics.RBPharoBootstrapAnalyzerStubWithNewDependency
+Refactoring-Tests-Critics.RBPharoBootstrapAnalyzerStubWithNewDependency>>#dependenciesOf:
+Refactoring-Tests-Critics.RBPharoBootstrapAnalyzerStubWithNoNewDependency
+Refactoring-Tests-Critics.RBPharoBootstrapAnalyzerStubWithNoNewDependency>>#dependenciesOf:
+Refactoring-Tests-Critics.RBPharoBootstrapRuleTest
+Refactoring-Tests-Critics.RBPharoBootstrapRuleTest>>#setUp
+Refactoring-Tests-Critics.RBPharoBootstrapRuleTest>>#tearDown
+Refactoring-Tests-Critics.RBPharoBootstrapRuleTest>>#testRuleDoesNotFailIfAppliedOnNonBootstrapPackage
+Refactoring-Tests-Critics.RBPharoBootstrapRuleTest>>#testRuleDoesNotFailIfNoNewExternalDependency
+Refactoring-Tests-Critics.RBPharoBootstrapRuleTest>>#testRuleFailsIfAnyNewExternalDependencyFound
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50385
+ScriptLoader50.ScriptLoader>>#update50386
+Tool-Base.RPackage>>#browse
+Tool-CriticBrowser.CriticBrowser>>#applyRules
+Tool-CriticBrowser.CriticBrowser>>#menu:shifted:
+Tool-CriticBrowser.SelectPackageBrowser>>#addAllItems
+Tool-CriticBrowser.SelectPackageBrowser>>#addItems
+Tool-CriticBrowser.SelectPackageBrowser>>#removeAllItems
+Tool-CriticBrowser.SelectPackageBrowser>>#removeItems
+Tool-CriticBrowser.SelectPackageBrowser>>#sort:
+Tool-CriticBrowser.SelectPackageBrowser>>#sort:withAll:
+Tool-CriticBrowser.SelectPackageBrowser>>#sort:withoutAll:
+Tool-CriticBrowser.SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
+Tool-CriticBrowser.SelectRuleBrowser>>#removeItems
+Tool-CriticBrowser.SingleCodeCriticResultList>>#addNavigationMenuItemsTo:
+Tool-CriticBrowser.SingleCodeCriticResultList>>#browseCritic
+Tool-CriticBrowser.SingleCodeCriticResultList>>#browseDependencies
+Tool-CriticBrowser.SingleCodeCriticResultList>>#menu:shifted:
+Tool-CriticBrowser.SingleCodeCriticResultList>>#whenSelectedItemChangesOnListModel

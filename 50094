@@ -1,251 +1,251 @@
-AbstractBinaryFileStream
-AbstractBinaryFileStream class>>#on:
-AbstractBinaryFileStream>>#atEnd
-AbstractBinaryFileStream>>#cr
-AbstractBinaryFileStream>>#crlf
-AbstractBinaryFileStream>>#file
-AbstractBinaryFileStream>>#file:
-AbstractBinaryFileStream>>#lf
-AbstractBinaryFileStream>>#next
-AbstractBinaryFileStream>>#next:
-AbstractBinaryFileStream>>#nextPut:
-AbstractBinaryFileStream>>#nextPutAll:
-AbstractBinaryFileStream>>#onPositionDo:
-AbstractBinaryFileStream>>#peek
-AbstractBinaryFileStream>>#position
-AbstractBinaryFileStream>>#printOn:
-AbstractBinaryFileStream>>#skip:
-AbstractBinaryFileStream>>#upTo:
-AbstractBinaryFileStream>>#upToAnyOf:
-AsyncFile
-BinaryFileStream
-BinaryFileStream>>#atEnd
-BinaryFileStream>>#initialize
-BinaryFileStream>>#onPositionDo:
-BinaryFileStream>>#peek
-BinaryFileStream>>#position
-BinaryFileStream>>#position:
-BinaryFileStream>>#skip:
-BinaryFileStream>>#upToEnd
-BinaryFileStreamTest
-BinaryFileStreamTest>>#fileStreamClass
-BinaryFileStreamTest>>#fileStreamForFileNamed:
-BinaryFileStreamTest>>#tearDown
-BinaryFileStreamTest>>#testEmptyFileIsAtEnd
-BinaryFileStreamTest>>#testFileWithSomeBytesSizeIsNotZero
-BinaryFileStreamTest>>#testFullFileIsAtEnd
-BinaryFileStreamTest>>#testOpenFile
-BinaryFileStreamTest>>#testPeekDoesNotAdvanceTheStream
-BinaryFileStreamTest>>#testReadFullFileIsAtEnd
-BinaryFileStreamTest>>#testReadLessThanAvailableYieldsJustRead
-BinaryFileStreamTest>>#testReadMoreThanAvailableYieldsOnlyAvailable
-BinaryFileStreamTest>>#testReadMultipleBytes
-BinaryFileStreamTest>>#testReadWhenNothingAvailableYieldsNil
-BinaryFileStreamTest>>#testSkipLecture
-BinaryFileStreamTest>>#testWriteMultipleBytes
-BinaryFileStreamTest>>#testWriteReadInt
-BinaryFileStreamTest>>#testWriteToClosedFileFails
-CannotDeleteFileException
-File
-File class>>#forceNewFileNamed:
-File class>>#named:
-File class>>#openFileNamed:
-File class>>#openReadOnlyFileNamed:
-File class>>#register:
-File class>>#registry
-File class>>#retryWithGC:until:forFileNamed:
-File class>>#unregister:
-File>>#atEnd
-File>>#basicOpenForWrite:
-File>>#close
-File>>#closed
-File>>#delete
-File>>#exists
-File>>#flush
-File>>#named:
-File>>#open
-File>>#openForAppend
-File>>#openForRead
-File>>#openForWrite
-File>>#openForWrite:
-File>>#openOnHandle:name:forWrite:
-File>>#position
-File>>#position:
-File>>#primAtEnd:
-File>>#primClose:
-File>>#primCloseNoError:
-File>>#primDelete:
-File>>#primFlush:
-File>>#primGetPosition:
-File>>#primOpen:writable:
-File>>#primRead:into:startingAt:count:
-File>>#primSetPosition:to:
-File>>#primSize:
-File>>#primSizeNoError:
-File>>#primTruncate:to:
-File>>#primWrite:from:startingAt:count:
-File>>#read:
-File>>#read:into:startingAt:
-File>>#readInto:startingAt:count:
-File>>#readStream
-File>>#register
-File>>#seekAbsolute:
-File>>#seekRelative:
-File>>#size
-File>>#truncate
-File>>#truncate:
-File>>#unregister
-File>>#write:
-File>>#writeAll:
-File>>#writeAmount:from:startingAt:
-FileDoesNotExistException
-FileException>>#messageText
-FileExistsException
-FileStream
-FileStreamException
-FileStreamException class>>#fileName:
-FileStreamException>>#fileName
-FileStreamException>>#fileName:
-FileStreamException>>#isResumable
-FileTest
-FileTest>>#tearDown
-FileTest>>#testCannotOpenFileTwice
-FileTest>>#testCreateFileObjectDoesNotCreateFile
-FileTest>>#testEmptyFileSizeIsZero
-FileTest>>#testFileAtEnd
-FileTest>>#testFileBufferedRead
-FileTest>>#testFileDelete
-FileTest>>#testFileExists
-FileTest>>#testFileWriteBufferedString
-FileTest>>#testFileWriteFullString
-FileTest>>#testForceNewFileDeletesExistingFile
-FileTest>>#testOpenFileForReadDoesNotDeleteExistingFile
-FileTest>>#testOpeningFileNormallyDoesNotDeleteExistingFile
-FileTest>>#testOpeningFileObjectCreatesFile
-FileTest>>#testOpeningFileSetsPositionAtBeggining
-FileTest>>#testSeekAbsoluteCannotBeNegative
-FileTest>>#testSeekAbsoluteChangesPositionAbsolutely
-FileTest>>#testSeekRelativeMovesFromCurrentPosition
-FileWriteError
-MultiByteFileStream
-PharoChangesCondenser
-PharoChangesCondenser class>>#condense
-PharoChangesCondenser>>#backupOldChanges
-PharoChangesCondenser>>#basicCondense
-PharoChangesCondenser>>#condense
-PharoChangesCondenser>>#condenseClassOrTrait:
-PharoChangesCondenser>>#condenseClassesAndTraits
-PharoChangesCondenser>>#fileIndex
-PharoChangesCondenser>>#initialize
-PharoChangesCondenser>>#installNewChangesFile
-PharoChangesCondenser>>#nextChunkDo:
-PharoChangesCondenser>>#nextCommentChunkDo:
-PharoChangesCondenser>>#originalFile
-PharoChangesCondenser>>#reset
-PharoChangesCondenser>>#shouldCondenseMethod:
-PharoChangesCondenser>>#sourceCodeOfMethod:
-PharoChangesCondenser>>#sourceStreamOfMethod:
-PharoChangesCondenser>>#stampOfMethod:
-PharoChangesCondenser>>#swapClassComment:
-PharoChangesCondenser>>#swapSourcePointerOfClassOrTrait:
-PharoChangesCondenser>>#swapSourcePointerOfMethod:
-PharoChangesCondenser>>#swapSourcePointers
-PharoChangesCondenser>>#temporaryFile
-PharoChangesCondenser>>#updateQuitPosition
-PharoChangesCondenser>>#writeClassComment:
-PharoChangesCondenser>>#writeMethodSource:
-PharoChangesCondenser>>#writeRemoteString:for:
-PharoFilesOpener
-PharoFilesOpener class>>#default
-PharoFilesOpener class>>#reset
-PharoFilesOpener>>#badContentMsg
-PharoFilesOpener>>#cannotLocateMsg
-PharoFilesOpener>>#cannotWriteMsg
-PharoFilesOpener>>#changesFileOrNil
-PharoFilesOpener>>#changesName
-PharoFilesOpener>>#ignoreIfFail:
-PharoFilesOpener>>#inform:withChangesRef:
-PharoFilesOpener>>#inform:withRef:
-PharoFilesOpener>>#inform:withSourceRef:
-PharoFilesOpener>>#informCannotLocateSources
-PharoFilesOpener>>#informProblemInChanges:
-PharoFilesOpener>>#lastImagePath
-PharoFilesOpener>>#openChanges:
-PharoFilesOpener>>#openSources
-PharoFilesOpener>>#openSources:forImage:
-PharoFilesOpener>>#setInformAboutReadOnlyChanges
-PharoFilesOpener>>#shouldInformAboutReadOnlyChanges
-PharoFilesOpener>>#sourcesFileOrNil
-PharoFilesOpener>>#sourcesName
-PharoFilesOpener>>#unsetInformAboutReadOnlyChanges
-PharoSourcesCondenser
-PharoSourcesCondenser class>>#condenseNewSources
-PharoSourcesCondenser>>#backupOldChanges
-PharoSourcesCondenser>>#fileIndex
-PharoSourcesCondenser>>#installFreshChangesFile
-PharoSourcesCondenser>>#newSourceVersion:
-PharoSourcesCondenser>>#originalFile
-PharoSourcesCondenser>>#shouldCondenseMethod:
-PharoSourcesCondenser>>#temporaryFile
-PharoSourcesCondenser>>#updateQuitPosition
-PharoSourcesCondenser>>#writeClassComment:
-RemoteString
-RemoteString class>>#newFileNumber:position:
-RemoteString class>>#newString:onFileNumber:
-RemoteString class>>#newString:onFileNumber:toFile:
-RemoteString>>#fileNumber:position:
-RemoteString>>#fileStream
-RemoteString>>#last
-RemoteString>>#position
-RemoteString>>#setSourcePointer:
-RemoteString>>#sourceFileNumber
-RemoteString>>#sourcePointer
-RemoteString>>#string
-RemoteString>>#string:onFileNumber:
-RemoteString>>#string:onFileNumber:toFile:
-RemoteString>>#text
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50093
-ScriptLoader>>#update50094
-SourceFileArray
-SourceFileArray class>>#install
-SourceFileArray class>>#new:
-SourceFileArray>>#at:
-SourceFileArray>>#at:put:
-SourceFileArray>>#changeRecordsFor:detect:
-SourceFileArray>>#changeRecordsFor:do:
-SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
-SourceFileArray>>#close
-SourceFileArray>>#ensureOpen
-SourceFileArray>>#fileIndexFromSourcePointer:
-SourceFileArray>>#filePositionFromSourcePointer:
-SourceFileArray>>#getPreambleFrom:at:
-SourceFileArray>>#initialize
-SourceFileArray>>#initialize:
-SourceFileArray>>#protocolAt:
-SourceFileArray>>#protocolAt:for:
-SourceFileArray>>#readOnlyDo:
-SourceFileArray>>#size
-SourceFileArray>>#sourceCodeAt:
-SourceFileArray>>#sourceDataPointers
-SourceFileArray>>#sourcePointerFromFileIndex:andPosition:
-SourceFileArray>>#sourcedDataAt:
-SourceFileArray>>#timeStampAt:
-SourceFileArray>>#timeStampAt:for:
-StandardFileStream
-Stdio
-Stdio class>>#cleanStdioHandles
-Stdio class>>#initialize
-Stdio class>>#standardIOStreamNamed:forWrite:
-Stdio class>>#startUp:
-Stdio class>>#stderr
-Stdio class>>#stdin
-Stdio class>>#stdioHandles
-Stdio class>>#stdout
-StdioStream
-StdioStream>>#atEnd
-StdioStream>>#next:
-StdioStream>>#onPositionDo:
-StdioStream>>#peek
-StdioStream>>#position
-UUIDGenerator>>#makeUnixSeed
+Files-Tests.BinaryFileStreamTest
+Files-Tests.BinaryFileStreamTest>>#fileStreamClass
+Files-Tests.BinaryFileStreamTest>>#fileStreamForFileNamed:
+Files-Tests.BinaryFileStreamTest>>#tearDown
+Files-Tests.BinaryFileStreamTest>>#testEmptyFileIsAtEnd
+Files-Tests.BinaryFileStreamTest>>#testFileWithSomeBytesSizeIsNotZero
+Files-Tests.BinaryFileStreamTest>>#testFullFileIsAtEnd
+Files-Tests.BinaryFileStreamTest>>#testOpenFile
+Files-Tests.BinaryFileStreamTest>>#testPeekDoesNotAdvanceTheStream
+Files-Tests.BinaryFileStreamTest>>#testReadFullFileIsAtEnd
+Files-Tests.BinaryFileStreamTest>>#testReadLessThanAvailableYieldsJustRead
+Files-Tests.BinaryFileStreamTest>>#testReadMoreThanAvailableYieldsOnlyAvailable
+Files-Tests.BinaryFileStreamTest>>#testReadMultipleBytes
+Files-Tests.BinaryFileStreamTest>>#testReadWhenNothingAvailableYieldsNil
+Files-Tests.BinaryFileStreamTest>>#testSkipLecture
+Files-Tests.BinaryFileStreamTest>>#testWriteMultipleBytes
+Files-Tests.BinaryFileStreamTest>>#testWriteReadInt
+Files-Tests.BinaryFileStreamTest>>#testWriteToClosedFileFails
+Files-Tests.FileTest
+Files-Tests.FileTest>>#tearDown
+Files-Tests.FileTest>>#testCannotOpenFileTwice
+Files-Tests.FileTest>>#testCreateFileObjectDoesNotCreateFile
+Files-Tests.FileTest>>#testEmptyFileSizeIsZero
+Files-Tests.FileTest>>#testFileAtEnd
+Files-Tests.FileTest>>#testFileBufferedRead
+Files-Tests.FileTest>>#testFileDelete
+Files-Tests.FileTest>>#testFileExists
+Files-Tests.FileTest>>#testFileWriteBufferedString
+Files-Tests.FileTest>>#testFileWriteFullString
+Files-Tests.FileTest>>#testForceNewFileDeletesExistingFile
+Files-Tests.FileTest>>#testOpenFileForReadDoesNotDeleteExistingFile
+Files-Tests.FileTest>>#testOpeningFileNormallyDoesNotDeleteExistingFile
+Files-Tests.FileTest>>#testOpeningFileObjectCreatesFile
+Files-Tests.FileTest>>#testOpeningFileSetsPositionAtBeggining
+Files-Tests.FileTest>>#testSeekAbsoluteCannotBeNegative
+Files-Tests.FileTest>>#testSeekAbsoluteChangesPositionAbsolutely
+Files-Tests.FileTest>>#testSeekRelativeMovesFromCurrentPosition
+Files.AbstractBinaryFileStream
+Files.AbstractBinaryFileStream class>>#on:
+Files.AbstractBinaryFileStream>>#atEnd
+Files.AbstractBinaryFileStream>>#cr
+Files.AbstractBinaryFileStream>>#crlf
+Files.AbstractBinaryFileStream>>#file
+Files.AbstractBinaryFileStream>>#file:
+Files.AbstractBinaryFileStream>>#lf
+Files.AbstractBinaryFileStream>>#next
+Files.AbstractBinaryFileStream>>#next:
+Files.AbstractBinaryFileStream>>#nextPut:
+Files.AbstractBinaryFileStream>>#nextPutAll:
+Files.AbstractBinaryFileStream>>#onPositionDo:
+Files.AbstractBinaryFileStream>>#peek
+Files.AbstractBinaryFileStream>>#position
+Files.AbstractBinaryFileStream>>#printOn:
+Files.AbstractBinaryFileStream>>#skip:
+Files.AbstractBinaryFileStream>>#upTo:
+Files.AbstractBinaryFileStream>>#upToAnyOf:
+Files.AsyncFile
+Files.BinaryFileStream
+Files.BinaryFileStream>>#atEnd
+Files.BinaryFileStream>>#initialize
+Files.BinaryFileStream>>#onPositionDo:
+Files.BinaryFileStream>>#peek
+Files.BinaryFileStream>>#position
+Files.BinaryFileStream>>#position:
+Files.BinaryFileStream>>#skip:
+Files.BinaryFileStream>>#upToEnd
+Files.CannotDeleteFileException
+Files.File
+Files.File class>>#forceNewFileNamed:
+Files.File class>>#named:
+Files.File class>>#openFileNamed:
+Files.File class>>#openReadOnlyFileNamed:
+Files.File class>>#register:
+Files.File class>>#registry
+Files.File class>>#retryWithGC:until:forFileNamed:
+Files.File class>>#unregister:
+Files.File>>#atEnd
+Files.File>>#basicOpenForWrite:
+Files.File>>#close
+Files.File>>#closed
+Files.File>>#delete
+Files.File>>#exists
+Files.File>>#flush
+Files.File>>#named:
+Files.File>>#open
+Files.File>>#openForAppend
+Files.File>>#openForRead
+Files.File>>#openForWrite
+Files.File>>#openForWrite:
+Files.File>>#openOnHandle:name:forWrite:
+Files.File>>#position
+Files.File>>#position:
+Files.File>>#primAtEnd:
+Files.File>>#primClose:
+Files.File>>#primCloseNoError:
+Files.File>>#primDelete:
+Files.File>>#primFlush:
+Files.File>>#primGetPosition:
+Files.File>>#primOpen:writable:
+Files.File>>#primRead:into:startingAt:count:
+Files.File>>#primSetPosition:to:
+Files.File>>#primSize:
+Files.File>>#primSizeNoError:
+Files.File>>#primTruncate:to:
+Files.File>>#primWrite:from:startingAt:count:
+Files.File>>#read:
+Files.File>>#read:into:startingAt:
+Files.File>>#readInto:startingAt:count:
+Files.File>>#readStream
+Files.File>>#register
+Files.File>>#seekAbsolute:
+Files.File>>#seekRelative:
+Files.File>>#size
+Files.File>>#truncate
+Files.File>>#truncate:
+Files.File>>#unregister
+Files.File>>#write:
+Files.File>>#writeAll:
+Files.File>>#writeAmount:from:startingAt:
+Files.FileDoesNotExistException
+Files.FileException>>#messageText
+Files.FileExistsException
+Files.FileStream
+Files.FileStreamException
+Files.FileStreamException class>>#fileName:
+Files.FileStreamException>>#fileName
+Files.FileStreamException>>#fileName:
+Files.FileStreamException>>#isResumable
+Files.FileWriteError
+Files.MultiByteFileStream
+Files.PharoChangesCondenser
+Files.PharoChangesCondenser class>>#condense
+Files.PharoChangesCondenser>>#backupOldChanges
+Files.PharoChangesCondenser>>#basicCondense
+Files.PharoChangesCondenser>>#condense
+Files.PharoChangesCondenser>>#condenseClassOrTrait:
+Files.PharoChangesCondenser>>#condenseClassesAndTraits
+Files.PharoChangesCondenser>>#fileIndex
+Files.PharoChangesCondenser>>#initialize
+Files.PharoChangesCondenser>>#installNewChangesFile
+Files.PharoChangesCondenser>>#nextChunkDo:
+Files.PharoChangesCondenser>>#nextCommentChunkDo:
+Files.PharoChangesCondenser>>#originalFile
+Files.PharoChangesCondenser>>#reset
+Files.PharoChangesCondenser>>#shouldCondenseMethod:
+Files.PharoChangesCondenser>>#sourceCodeOfMethod:
+Files.PharoChangesCondenser>>#sourceStreamOfMethod:
+Files.PharoChangesCondenser>>#stampOfMethod:
+Files.PharoChangesCondenser>>#swapClassComment:
+Files.PharoChangesCondenser>>#swapSourcePointerOfClassOrTrait:
+Files.PharoChangesCondenser>>#swapSourcePointerOfMethod:
+Files.PharoChangesCondenser>>#swapSourcePointers
+Files.PharoChangesCondenser>>#temporaryFile
+Files.PharoChangesCondenser>>#updateQuitPosition
+Files.PharoChangesCondenser>>#writeClassComment:
+Files.PharoChangesCondenser>>#writeMethodSource:
+Files.PharoChangesCondenser>>#writeRemoteString:for:
+Files.PharoFilesOpener
+Files.PharoFilesOpener class>>#default
+Files.PharoFilesOpener class>>#reset
+Files.PharoFilesOpener>>#badContentMsg
+Files.PharoFilesOpener>>#cannotLocateMsg
+Files.PharoFilesOpener>>#cannotWriteMsg
+Files.PharoFilesOpener>>#changesFileOrNil
+Files.PharoFilesOpener>>#changesName
+Files.PharoFilesOpener>>#ignoreIfFail:
+Files.PharoFilesOpener>>#inform:withChangesRef:
+Files.PharoFilesOpener>>#inform:withRef:
+Files.PharoFilesOpener>>#inform:withSourceRef:
+Files.PharoFilesOpener>>#informCannotLocateSources
+Files.PharoFilesOpener>>#informProblemInChanges:
+Files.PharoFilesOpener>>#lastImagePath
+Files.PharoFilesOpener>>#openChanges:
+Files.PharoFilesOpener>>#openSources
+Files.PharoFilesOpener>>#openSources:forImage:
+Files.PharoFilesOpener>>#setInformAboutReadOnlyChanges
+Files.PharoFilesOpener>>#shouldInformAboutReadOnlyChanges
+Files.PharoFilesOpener>>#sourcesFileOrNil
+Files.PharoFilesOpener>>#sourcesName
+Files.PharoFilesOpener>>#unsetInformAboutReadOnlyChanges
+Files.PharoSourcesCondenser
+Files.PharoSourcesCondenser class>>#condenseNewSources
+Files.PharoSourcesCondenser>>#backupOldChanges
+Files.PharoSourcesCondenser>>#fileIndex
+Files.PharoSourcesCondenser>>#installFreshChangesFile
+Files.PharoSourcesCondenser>>#newSourceVersion:
+Files.PharoSourcesCondenser>>#originalFile
+Files.PharoSourcesCondenser>>#shouldCondenseMethod:
+Files.PharoSourcesCondenser>>#temporaryFile
+Files.PharoSourcesCondenser>>#updateQuitPosition
+Files.PharoSourcesCondenser>>#writeClassComment:
+Files.RemoteString
+Files.RemoteString class>>#newFileNumber:position:
+Files.RemoteString class>>#newString:onFileNumber:
+Files.RemoteString class>>#newString:onFileNumber:toFile:
+Files.RemoteString>>#fileNumber:position:
+Files.RemoteString>>#fileStream
+Files.RemoteString>>#last
+Files.RemoteString>>#position
+Files.RemoteString>>#setSourcePointer:
+Files.RemoteString>>#sourceFileNumber
+Files.RemoteString>>#sourcePointer
+Files.RemoteString>>#string
+Files.RemoteString>>#string:onFileNumber:
+Files.RemoteString>>#string:onFileNumber:toFile:
+Files.RemoteString>>#text
+Files.SourceFileArray
+Files.SourceFileArray class>>#install
+Files.SourceFileArray class>>#new:
+Files.SourceFileArray>>#at:
+Files.SourceFileArray>>#at:put:
+Files.SourceFileArray>>#changeRecordsFor:detect:
+Files.SourceFileArray>>#changeRecordsFor:do:
+Files.SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+Files.SourceFileArray>>#close
+Files.SourceFileArray>>#ensureOpen
+Files.SourceFileArray>>#fileIndexFromSourcePointer:
+Files.SourceFileArray>>#filePositionFromSourcePointer:
+Files.SourceFileArray>>#getPreambleFrom:at:
+Files.SourceFileArray>>#initialize
+Files.SourceFileArray>>#initialize:
+Files.SourceFileArray>>#protocolAt:
+Files.SourceFileArray>>#protocolAt:for:
+Files.SourceFileArray>>#readOnlyDo:
+Files.SourceFileArray>>#size
+Files.SourceFileArray>>#sourceCodeAt:
+Files.SourceFileArray>>#sourceDataPointers
+Files.SourceFileArray>>#sourcePointerFromFileIndex:andPosition:
+Files.SourceFileArray>>#sourcedDataAt:
+Files.SourceFileArray>>#timeStampAt:
+Files.SourceFileArray>>#timeStampAt:for:
+Files.StandardFileStream
+Files.Stdio
+Files.Stdio class>>#cleanStdioHandles
+Files.Stdio class>>#initialize
+Files.Stdio class>>#standardIOStreamNamed:forWrite:
+Files.Stdio class>>#startUp:
+Files.Stdio class>>#stderr
+Files.Stdio class>>#stdin
+Files.Stdio class>>#stdioHandles
+Files.Stdio class>>#stdout
+Files.StdioStream
+Files.StdioStream>>#atEnd
+Files.StdioStream>>#next:
+Files.StdioStream>>#onPositionDo:
+Files.StdioStream>>#peek
+Files.StdioStream>>#position
+Network-UUID.UUIDGenerator>>#makeUnixSeed
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50093
+ScriptLoader50.ScriptLoader>>#update50094

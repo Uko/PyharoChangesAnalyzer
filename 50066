@@ -1,8 +1,8 @@
-AbstractNautilusUI>>#title
-ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVariableNames:classVariableNames:category:
-ClassFactoryWithOrganization>>#newSubclassOf:instanceVariableNames:classVariableNames:category:
-Interval>>#sum
-Nautilus>>#labelString
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50065
-ScriptLoader>>#update50066
+Collections-Sequenceable.Interval>>#sum
+Nautilus.AbstractNautilusUI>>#title
+Nautilus.Nautilus>>#labelString
+SUnit-Core.ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVariableNames:classVariableNames:category:
+SUnit-Core.ClassFactoryWithOrganization>>#newSubclassOf:instanceVariableNames:classVariableNames:category:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50065
+ScriptLoader50.ScriptLoader>>#update50066

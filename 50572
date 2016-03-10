@@ -1,0 +1,39 @@
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#baseline0_12:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#development:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_11_3:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_12:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_12_1:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#loadConfiguration:version:
+ScriptLoader50.ScriptLoader>>#script50571
+ScriptLoader50.ScriptLoader>>#update50572
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiCopyString:to:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiDoubleAbs:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiFloatAbs:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiIntAbs:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiLibraryName
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiLongLongAbs:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestContantFormat:to:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestContantFormat:value:to:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiToLower:
+UnifiedFFI-Tests.FFICalloutAPITests>>#primFromByteArray:toExternalAddress:size:
+UnifiedFFI-Tests.FFICalloutAPITests>>#testByteArrayToExternalAddress
+UnifiedFFI-Tests.FFICalloutAPITests>>#testCallWithAllConstParameter
+UnifiedFFI-Tests.FFICalloutAPITests>>#testCallWithConstParameter
+UnifiedFFI-Tests.FFICalloutAPITests>>#testCharCall
+UnifiedFFI-Tests.FFICalloutAPITests>>#testDoubleCall
+UnifiedFFI-Tests.FFICalloutAPITests>>#testFloatCall
+UnifiedFFI-Tests.FFICalloutAPITests>>#testIntCall
+UnifiedFFI-Tests.FFICalloutAPITests>>#testLongLongs
+UnifiedFFI-Tests.FFICalloutAPITests>>#testPrintString
+UnifiedFFI-Tests.FFICalloutTests>>#testBuildingFnSpec
+UnifiedFFI.ExternalAddress>>#adoptAddress:
+UnifiedFFI.FFICallout class>>#initializeTypeAliases
+UnifiedFFI.FFIExternalObject class>>#finalizeResourceData:
+UnifiedFFI.FFIExternalStructure class>>#compileFields:withAccessors:
+UnifiedFFI.FFIMethodRegistry class>>#initializeStartUpList
+UnifiedFFI.FFIOop>>#basicHandle:at:
+UnifiedFFI.FFIOop>>#basicHandle:at:put:
+UnifiedFFI.Integer>>#asExternalTypeOn:
+UnifiedFFI.SmallInteger>>#unrollFromArity:

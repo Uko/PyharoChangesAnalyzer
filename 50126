@@ -1,8 +1,8 @@
-OCASTTranslator>>#visitReturnNode:
-RFValueReification class>>#nodes
-RFValueReification>>#genForRBReturnNode
-RFValueReification>>#preamble:
-ReflectiveMethodTest>>#testReifyReturnValue
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50125
-ScriptLoader>>#update50126
+OpalCompiler-Core.OCASTTranslator>>#visitReturnNode:
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyReturnValue
+Reflectivity.RFValueReification class>>#nodes
+Reflectivity.RFValueReification>>#genForRBReturnNode
+Reflectivity.RFValueReification>>#preamble:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50125
+ScriptLoader50.ScriptLoader>>#update50126

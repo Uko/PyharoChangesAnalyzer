@@ -1,87 +1,87 @@
-BaselineOfQualityAssistant>>#baseline:
-BaselineOfQualityAssistant>>#installPlugin
-BaselineOfQualityAssistant>>#unstallObsoletePlugin
-ConfigurationOfQualityAssistant>>#development:
-ConfigurationOfQualityAssistant>>#pre1_3_0:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#v1_3_0:
-ConfigurationOfRenraku>>#development:
-ConfigurationOfRenraku>>#pre0_5_0:
-ConfigurationOfRenraku>>#stable:
-ConfigurationOfRenraku>>#v0_5_0:
-DelayMicrosecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
-DelayMillisecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
-HelpIcons
-HelpIcons class>>#blankIcon
-HelpIcons class>>#bookIcon
-HelpIcons class>>#iconNamed:
-HelpIcons class>>#icons
-HelpIcons class>>#packageIcon
-HelpIcons class>>#pageIcon
-HelpIcons class>>#refreshIcon
-HelpIcons class>>#reset
-HelpIconsTest
-HelpIconsTest>>#defaultTestClass
-HelpIconsTest>>#testIconCaching
-QAFeedbackMorph
-QAFeedbackMorph>>#critic
-QAFeedbackMorph>>#critic:
-QAFeedbackMorph>>#finalizeFeedback:withComment:
-QAFeedbackMorph>>#fireDialogWithFeedback:
-QAFeedbackMorph>>#initialize
-QAFeedbackMorph>>#initializeNegativeFeedback
-QAFeedbackMorph>>#initializePositiveFeedback
-QualityAssistantPlugin
-QualityAssistantPlugin class>>#defaultPosition
-QualityAssistantPlugin class>>#install
-QualityAssistantPlugin class>>#pluginName
-QualityAssistantPlugin class>>#possiblePositions
-QualityAssistantPlugin class>>#uninstall
-QualityAssistantPlugin>>#criticSelected:
-QualityAssistantPlugin>>#currentEntity
-QualityAssistantPlugin>>#display
-QualityAssistantPlugin>>#initialize
-QualityAssistantPlugin>>#registerTo:
-QualityAssistantPlugin>>#selectionChanged:
-QualityAssistantPlugin>>#updateMorph
-QualityAssistantPluginMorph
-QualityAssistantPluginMorph>>#adoptPaneColor:
-QualityAssistantPluginMorph>>#allowToSelect
-QualityAssistantPluginMorph>>#autofixButtonFor:
-QualityAssistantPluginMorph>>#buildConfirmationCheckbox:
-QualityAssistantPluginMorph>>#buildConfirmationHeader:
-QualityAssistantPluginMorph>>#buildConfirmationMessage:
-QualityAssistantPluginMorph>>#classCommented:
-QualityAssistantPluginMorph>>#displayCritic:
-QualityAssistantPluginMorph>>#entity
-QualityAssistantPluginMorph>>#entity:
-QualityAssistantPluginMorph>>#fixAutomatically:
-QualityAssistantPluginMorph>>#getCritics
-QualityAssistantPluginMorph>>#iconFor:at:
-QualityAssistantPluginMorph>>#iconMaxSize
-QualityAssistantPluginMorph>>#infoButtonFor:
-QualityAssistantPluginMorph>>#initialize
-QualityAssistantPluginMorph>>#initializeList
-QualityAssistantPluginMorph>>#initializeProgress
-QualityAssistantPluginMorph>>#initializeUpdateTask
-QualityAssistantPluginMorph>>#methodModified:
-QualityAssistantPluginMorph>>#pluginDelegate
-QualityAssistantPluginMorph>>#pluginDelegate:
-QualityAssistantPluginMorph>>#selected:
-QualityAssistantPluginMorph>>#skipButtonFor:
-QualityAssistantPluginMorph>>#subscribe
-QualityAssistantPluginMorph>>#updateList
-ReComplainer
-ReComplainer class>>#complainAbout:
-ReComplainer class>>#uuid
-ReCritic>>#provideNegativeFeedback:
-ReCritic>>#providePositiveFeedback:
-ReFeedbacker class>>#negativeFeedback:About:
-ReFeedbacker class>>#positiveFeedback:About:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50261
-ScriptLoader>>#update50262
-ThemeIcons>>#thumbsDownIcon
-ThemeIcons>>#thumbsUpIcon
-ThemeIcons>>#thumbsUpIconContents
-ThemeIcons>>#tumbsDownIconContents
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#installPlugin
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#unstallObsoletePlugin
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#pre1_3_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_3_0:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#development:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#pre0_5_0:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_5_0:
+Deprecated50.HelpIcons class>>#iconNamed:
+HelpSystem-Core.HelpIcons
+HelpSystem-Core.HelpIcons class>>#blankIcon
+HelpSystem-Core.HelpIcons class>>#bookIcon
+HelpSystem-Core.HelpIcons class>>#icons
+HelpSystem-Core.HelpIcons class>>#packageIcon
+HelpSystem-Core.HelpIcons class>>#pageIcon
+HelpSystem-Core.HelpIcons class>>#refreshIcon
+HelpSystem-Core.HelpIcons class>>#reset
+HelpSystem-Tests.HelpIconsTest
+HelpSystem-Tests.HelpIconsTest>>#defaultTestClass
+HelpSystem-Tests.HelpIconsTest>>#testIconCaching
+KernelTests.DelayMicrosecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
+KernelTests.DelayMillisecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
+QualityAssistant.QAFeedbackMorph
+QualityAssistant.QAFeedbackMorph>>#critic
+QualityAssistant.QAFeedbackMorph>>#critic:
+QualityAssistant.QAFeedbackMorph>>#finalizeFeedback:withComment:
+QualityAssistant.QAFeedbackMorph>>#fireDialogWithFeedback:
+QualityAssistant.QAFeedbackMorph>>#initialize
+QualityAssistant.QAFeedbackMorph>>#initializeNegativeFeedback
+QualityAssistant.QAFeedbackMorph>>#initializePositiveFeedback
+QualityAssistant.QualityAssistantPlugin
+QualityAssistant.QualityAssistantPlugin class>>#defaultPosition
+QualityAssistant.QualityAssistantPlugin class>>#install
+QualityAssistant.QualityAssistantPlugin class>>#pluginName
+QualityAssistant.QualityAssistantPlugin class>>#possiblePositions
+QualityAssistant.QualityAssistantPlugin class>>#uninstall
+QualityAssistant.QualityAssistantPlugin>>#criticSelected:
+QualityAssistant.QualityAssistantPlugin>>#currentEntity
+QualityAssistant.QualityAssistantPlugin>>#display
+QualityAssistant.QualityAssistantPlugin>>#initialize
+QualityAssistant.QualityAssistantPlugin>>#registerTo:
+QualityAssistant.QualityAssistantPlugin>>#selectionChanged:
+QualityAssistant.QualityAssistantPlugin>>#updateMorph
+QualityAssistant.QualityAssistantPluginMorph
+QualityAssistant.QualityAssistantPluginMorph>>#adoptPaneColor:
+QualityAssistant.QualityAssistantPluginMorph>>#allowToSelect
+QualityAssistant.QualityAssistantPluginMorph>>#autofixButtonFor:
+QualityAssistant.QualityAssistantPluginMorph>>#buildConfirmationCheckbox:
+QualityAssistant.QualityAssistantPluginMorph>>#buildConfirmationHeader:
+QualityAssistant.QualityAssistantPluginMorph>>#buildConfirmationMessage:
+QualityAssistant.QualityAssistantPluginMorph>>#classCommented:
+QualityAssistant.QualityAssistantPluginMorph>>#displayCritic:
+QualityAssistant.QualityAssistantPluginMorph>>#entity
+QualityAssistant.QualityAssistantPluginMorph>>#entity:
+QualityAssistant.QualityAssistantPluginMorph>>#fixAutomatically:
+QualityAssistant.QualityAssistantPluginMorph>>#getCritics
+QualityAssistant.QualityAssistantPluginMorph>>#iconFor:at:
+QualityAssistant.QualityAssistantPluginMorph>>#iconMaxSize
+QualityAssistant.QualityAssistantPluginMorph>>#infoButtonFor:
+QualityAssistant.QualityAssistantPluginMorph>>#initialize
+QualityAssistant.QualityAssistantPluginMorph>>#initializeList
+QualityAssistant.QualityAssistantPluginMorph>>#initializeProgress
+QualityAssistant.QualityAssistantPluginMorph>>#initializeUpdateTask
+QualityAssistant.QualityAssistantPluginMorph>>#methodModified:
+QualityAssistant.QualityAssistantPluginMorph>>#pluginDelegate
+QualityAssistant.QualityAssistantPluginMorph>>#pluginDelegate:
+QualityAssistant.QualityAssistantPluginMorph>>#selected:
+QualityAssistant.QualityAssistantPluginMorph>>#skipButtonFor:
+QualityAssistant.QualityAssistantPluginMorph>>#subscribe
+QualityAssistant.QualityAssistantPluginMorph>>#updateList
+QualityAssistant.ThemeIcons>>#thumbsDownIcon
+QualityAssistant.ThemeIcons>>#thumbsUpIcon
+QualityAssistant.ThemeIcons>>#thumbsUpIconContents
+QualityAssistant.ThemeIcons>>#tumbsDownIconContents
+Renraku.ReComplainer
+Renraku.ReComplainer class>>#complainAbout:
+Renraku.ReComplainer class>>#uuid
+Renraku.ReCritic>>#provideNegativeFeedback:
+Renraku.ReCritic>>#providePositiveFeedback:
+Renraku.ReFeedbacker class>>#negativeFeedback:About:
+Renraku.ReFeedbacker class>>#positiveFeedback:About:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50261
+ScriptLoader50.ScriptLoader>>#update50262

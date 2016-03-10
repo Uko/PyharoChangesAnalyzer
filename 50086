@@ -1,33 +1,33 @@
-AbstractNautilusUI
-AbstractNautilusUI>>#buildNewCommentText
-AbstractNautilusUI>>#okToChangeComment
-CompiledMethod>>#containsHalt
-CompiledMethod>>#isScriptMethodWithScript
-KeymapBrowser class>>#keymapBrowserMenuOn:
-KeymapBrowser class>>#taskbarIcon
-MethodClassInitializeAction>>#isActionHandled
-MethodContainsFlagsAction>>#isActionHandled
-MethodContainsHaltAction>>#isActionHandled
-MethodIsExampleAction>>#isActionHandled
-MethodIsScriptAction>>#isActionHandled
-MethodIsScriptAction>>#isScriptMethod
-MethodIsScriptAction>>#privateActionIcon
-MethodIsScriptAction>>#runScript
-MethodIsScriptWithArgumentAction
-MethodIsScriptWithArgumentAction>>#actionOrder
-MethodIsScriptWithArgumentAction>>#isActionHandled
-MethodIsScriptWithArgumentAction>>#privateActionIcon
-MethodIsScriptWithArgumentAction>>#runScript
-MethodOveridesAction>>#isActionHandled
-MethodOveridesAction>>#isOverridden
-MethodOveridesAction>>#isOverride
-NautilusUI class>>#initializeCache
-ScriptLoader>>#addHomeRepositoryToAllPackagesExcept:
-ScriptLoader>>#addRepositoryToPackagesWithConfiguration
-ScriptLoader>>#cleanRepositories
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#flushCaches
-ScriptLoader>>#script50085
-ScriptLoader>>#update50086
-ThemeIcons>>#keymapBrowserIcon
-ThemeIcons>>#keymapBrowserIconContents
+Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI>>#buildNewCommentText
+Nautilus.AbstractNautilusUI>>#okToChangeComment
+Nautilus.MethodClassInitializeAction>>#isActionHandled
+Nautilus.MethodContainsFlagsAction>>#isActionHandled
+Nautilus.MethodContainsHaltAction>>#isActionHandled
+Nautilus.MethodIsExampleAction>>#isActionHandled
+Nautilus.MethodIsScriptAction>>#isActionHandled
+Nautilus.MethodIsScriptAction>>#isScriptMethod
+Nautilus.MethodIsScriptAction>>#privateActionIcon
+Nautilus.MethodIsScriptAction>>#runScript
+Nautilus.MethodIsScriptWithArgumentAction
+Nautilus.MethodIsScriptWithArgumentAction>>#actionOrder
+Nautilus.MethodIsScriptWithArgumentAction>>#isActionHandled
+Nautilus.MethodIsScriptWithArgumentAction>>#privateActionIcon
+Nautilus.MethodIsScriptWithArgumentAction>>#runScript
+Nautilus.MethodOveridesAction>>#isActionHandled
+Nautilus.MethodOveridesAction>>#isOverridden
+Nautilus.MethodOveridesAction>>#isOverride
+Nautilus.NautilusUI class>>#initializeCache
+NautilusCommon.CompiledMethod>>#containsHalt
+NautilusCommon.CompiledMethod>>#isScriptMethodWithScript
+ScriptLoader50.ScriptLoader>>#addHomeRepositoryToAllPackagesExcept:
+ScriptLoader50.ScriptLoader>>#addRepositoryToPackagesWithConfiguration
+ScriptLoader50.ScriptLoader>>#cleanRepositories
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#flushCaches
+ScriptLoader50.ScriptLoader>>#script50085
+ScriptLoader50.ScriptLoader>>#update50086
+Spec-Tools.KeymapBrowser class>>#keymapBrowserMenuOn:
+Spec-Tools.KeymapBrowser class>>#taskbarIcon
+Spec-Tools.ThemeIcons>>#keymapBrowserIcon
+Spec-Tools.ThemeIcons>>#keymapBrowserIconContents

@@ -1,30 +1,30 @@
-AbstractNautilusUI>>#browseVariableReferences
-AbstractNautilusUI>>#buildVariableMenuFor:variablesFrom:menuItemBy:
-HookGenerator
-HookGenerator class>>#entity:node:
-HookGenerator class>>#node:
-HookGenerator>>#genReification:for:
-HookGenerator>>#node:links:
-HookGenerator>>#preamble
-HookGenerator>>#selectorForNode
-HookGenerator>>#wrapCondition:link:
-MetaLink class>>#defaultOptions
-MetaLink>>#condition:
-RFASTTranslator>>#visitVariableValue:
-RFNameReification class>>#nodes
-RFNameReification>>#genForInstanceVariableSlot
-RFReification>>#genForGlobalVariable
-RFReification>>#genForInstanceVariableSlot
-RFSemanticAnalyzer>>#analyseForLinksForVariables:
-RFSemanticAnalyzer>>#visitVariableNode:
-RFVariableReification class>>#nodes
-ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
-ReflectivityControlTest>>#testAfterClassVariable
-ReflectivityControlTest>>#testLinkoptionInlineCondition
-ReflectivityControlTest>>#testLinkoptionInlineMetaObject
-ReflectivityExamples>>#exampleIvarRead
-ReflectivityReificationTest>>#testReifySlotName
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50348
-ScriptLoader>>#update50349
-Slot>>#removeLink:
+Nautilus.AbstractNautilusUI>>#browseVariableReferences
+Nautilus.AbstractNautilusUI>>#buildVariableMenuFor:variablesFrom:menuItemBy:
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterClassVariable
+Reflectivity-Tests.ReflectivityControlTest>>#testLinkoptionInlineCondition
+Reflectivity-Tests.ReflectivityControlTest>>#testLinkoptionInlineMetaObject
+Reflectivity-Tests.ReflectivityExamples>>#exampleIvarRead
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifySlotName
+Reflectivity.HookGenerator
+Reflectivity.HookGenerator class>>#entity:node:
+Reflectivity.HookGenerator class>>#node:
+Reflectivity.HookGenerator>>#genReification:for:
+Reflectivity.HookGenerator>>#node:links:
+Reflectivity.HookGenerator>>#preamble
+Reflectivity.HookGenerator>>#selectorForNode
+Reflectivity.HookGenerator>>#wrapCondition:link:
+Reflectivity.MetaLink class>>#defaultOptions
+Reflectivity.MetaLink>>#condition:
+Reflectivity.RFASTTranslator>>#visitVariableValue:
+Reflectivity.RFNameReification class>>#nodes
+Reflectivity.RFNameReification>>#genForInstanceVariableSlot
+Reflectivity.RFReification>>#genForGlobalVariable
+Reflectivity.RFReification>>#genForInstanceVariableSlot
+Reflectivity.RFSemanticAnalyzer>>#analyseForLinksForVariables:
+Reflectivity.RFSemanticAnalyzer>>#visitVariableNode:
+Reflectivity.RFVariableReification class>>#nodes
+Reflectivity.Slot>>#removeLink:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50348
+ScriptLoader50.ScriptLoader>>#update50349

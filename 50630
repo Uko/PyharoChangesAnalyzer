@@ -1,0 +1,16 @@
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_14_2:
+Nautilus.NautilusUI class>>#buildHistoryShortcutsOn:
+RingChunkImporter.RingChunkImporter>>#msgClassComment:with:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50629
+ScriptLoader50.ScriptLoader>>#update50630
+Slot.ClassVariable>>#astNodes
+Slot.GlobalVariable>>#astNodes
+Slot.Slot>>#astNodes
+Slot.TemporaryVariable>>#astNodes
+UnifiedFFI.ByteArray>>#rollAsDoubleToArity:
+UnifiedFFI.ByteArray>>#rollAsFloatToArity:
+UnifiedFFI.ExternalAddress class>>#fromAddress:
+UnifiedFFI.ExternalAddress>>#fromAddress:
+UnifiedFFI.FFIUInt32>>#basicHandle:at:

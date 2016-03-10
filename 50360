@@ -1,9 +1,9 @@
-ConfigurationOfVersionner>>#stable:
-ConfigurationOfVersionner>>#version2135:
-MetaLink>>#installOn:
-ReflectiveMethodTest>>#testSetLinkWithPragmaOptionsPerClass
-ReflectivityExamples class>>#exampleMethodWithMetaLinkOptionsViaClass
-ReflectivityExamples class>>#metaLinkOptions
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50359
-ScriptLoader>>#update50360
+ConfigurationOfVersionner.ConfigurationOfVersionner>>#stable:
+ConfigurationOfVersionner.ConfigurationOfVersionner>>#version2135:
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkWithPragmaOptionsPerClass
+Reflectivity-Tests.ReflectivityExamples class>>#exampleMethodWithMetaLinkOptionsViaClass
+Reflectivity-Tests.ReflectivityExamples class>>#metaLinkOptions
+Reflectivity.MetaLink>>#installOn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50359
+ScriptLoader50.ScriptLoader>>#update50360

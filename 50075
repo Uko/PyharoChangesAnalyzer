@@ -1,21 +1,21 @@
-AbstractNautilusUI
-AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
-AbstractNautilusUI>>#buildNewCommentText
-AbstractNautilusUI>>#newCommentTextModel
-AbstractNautilusUI>>#updateCommentWith:
-AbstractNautilusUI>>#whenTextUpdatedInCommentPane:
-FT2Handle class>>#initialize
-FT2Handle class>>#shutDown:
-FT2Handle class>>#startUp:
-NautilusUI>>#selectedClassWithoutChangingSelection:
-NautilusUI>>#unselectClass
-NautilusUI>>#updateOnClassSelection
-PackageTreeNautilusTest>>#assertSelectedCompiledMethod
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50074
-ScriptLoader>>#update50075
-SimpleEditor class>>#initializeCmdKeyShortcuts
-SimpleEditor class>>#initializeShiftCmdKeyShortcuts
-SmalltalkEditor class>>#initializeCmdKeyShortcuts
-TextEditor class>>#initializeBasicCmdKeyShortcuts
-TextEditor class>>#initializeBasicShiftCmdKeyShortcuts
+FreeType.FT2Handle class>>#initialize
+FreeType.FT2Handle class>>#shutDown:
+FreeType.FT2Handle class>>#startUp:
+Nautilus-Tests.PackageTreeNautilusTest>>#assertSelectedCompiledMethod
+Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
+Nautilus.AbstractNautilusUI>>#buildNewCommentText
+Nautilus.AbstractNautilusUI>>#newCommentTextModel
+Nautilus.AbstractNautilusUI>>#updateCommentWith:
+Nautilus.AbstractNautilusUI>>#whenTextUpdatedInCommentPane:
+Nautilus.NautilusUI>>#selectedClassWithoutChangingSelection:
+Nautilus.NautilusUI>>#unselectClass
+Nautilus.NautilusUI>>#updateOnClassSelection
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50074
+ScriptLoader50.ScriptLoader>>#update50075
+Text-Edition.SimpleEditor class>>#initializeCmdKeyShortcuts
+Text-Edition.SimpleEditor class>>#initializeShiftCmdKeyShortcuts
+Text-Edition.SmalltalkEditor class>>#initializeCmdKeyShortcuts
+Text-Edition.TextEditor class>>#initializeBasicCmdKeyShortcuts
+Text-Edition.TextEditor class>>#initializeBasicShiftCmdKeyShortcuts

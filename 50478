@@ -1,7 +1,7 @@
-AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
-Breakpoint class>>#browseAll
-MenuItemMorph>>#activateOwnerMenu:
-RubScrolledTextMorph>>#beForSmalltalkCode
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50477
-ScriptLoader>>#update50478
+Morphic-Base.MenuItemMorph>>#activateOwnerMenu:
+Nautilus.AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+Reflectivity-Tools.Breakpoint class>>#browseAll
+Rubric.RubScrolledTextMorph>>#beForSmalltalkCode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50477
+ScriptLoader50.ScriptLoader>>#update50478

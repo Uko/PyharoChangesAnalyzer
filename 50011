@@ -1,6 +1,6 @@
-ClassTestCase>>#testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses
-RBEquivalentSuperclassMethodsRule>>#checkMethod:
-RBEquivalentSuperclassMethodsRule>>#ignoredSelectors
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script619
-ScriptLoader>>#update50011
+Refactoring-Critics.ClassTestCase>>#testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses
+Refactoring-Critics.RBEquivalentSuperclassMethodsRule>>#checkMethod:
+Refactoring-Critics.RBEquivalentSuperclassMethodsRule>>#ignoredSelectors
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script619
+ScriptLoader50.ScriptLoader>>#update50011

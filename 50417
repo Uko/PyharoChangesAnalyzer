@@ -1,8 +1,8 @@
-MethodFinder>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50416
-ScriptLoader>>#update50417
-SystemWindow
-SystemWindow>>#initialize
-SystemWindow>>#isActive
-UTF8InvalidText
+Morphic-Widgets-Windows.SystemWindow
+Multilingual-TextConversion.UTF8InvalidText
+Polymorph-Widgets.SystemWindow>>#initialize
+Polymorph-Widgets.SystemWindow>>#isActive
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50416
+ScriptLoader50.ScriptLoader>>#update50417
+Tool-Finder.MethodFinder>>#initialize

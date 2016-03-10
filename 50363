@@ -1,15 +1,15 @@
-BlockClosure>>#sourceNode
-ClassWidget>>#setCachedHierarchyClass:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50362
-ScriptLoader>>#update50363
-SortHierarchically class>>#buildHierarchyForClass:
-SortHierarchicallyIndentNode
-SortHierarchicallyIndentNode class>>#on:indentBy:
-SortHierarchicallyIndentNode>>#element
-SortHierarchicallyIndentNode>>#indent
-SortHierarchicallyIndentNode>>#printOn:
-SortHierarchicallyIndentNode>>#setElement:
-SortHierarchicallyIndentNode>>#setIndent:
-TBehavior>>#hierarchyClassTree
-TClass>>#hasSubclasses
+Nautilus.ClassWidget>>#setCachedHierarchyClass:
+Nautilus.SortHierarchically class>>#buildHierarchyForClass:
+Nautilus.SortHierarchicallyIndentNode
+Nautilus.SortHierarchicallyIndentNode class>>#on:indentBy:
+Nautilus.SortHierarchicallyIndentNode>>#element
+Nautilus.SortHierarchicallyIndentNode>>#indent
+Nautilus.SortHierarchicallyIndentNode>>#printOn:
+Nautilus.SortHierarchicallyIndentNode>>#setElement:
+Nautilus.SortHierarchicallyIndentNode>>#setIndent:
+Nautilus.TBehavior>>#hierarchyClassTree
+OpalCompiler-Core.BlockClosure>>#sourceNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50362
+ScriptLoader50.ScriptLoader>>#update50363
+Traits.TClass>>#hasSubclasses

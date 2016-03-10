@@ -1,15 +1,15 @@
-CodeSearchingRule class>>#uniqueIdentifierName
-DiffMorph>>#calibrateScrollbar
-DiffMorph>>#verticalScroll:
-PackageTreeNautilusUI>>#showHierarchy:
-RBExplicitRequirementMethodsRule class>>#uniqueIdentifierName
-RBRemoveAssignmentWithoutEffectRule class>>#uniqueIdentifierName
-RBRuleIfNotEmptyDo class>>#uniqueIdentifierName
-RBRuleIfNotNilDo class>>#uniqueIdentifierName
-RBSmalllintTest>>#testUniqueIdentifierName
-RBSmalltalkGlobalsRule class>>#uniqueIdentifierName
-RBUnaryAccessingMethodWithoutReturnRule class>>#uniqueIdentifierName
-RBkeysDoRule class>>#uniqueIdentifierName
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50282
-ScriptLoader>>#update50283
+Nautilus.PackageTreeNautilusUI>>#showHierarchy:
+NautilusRefactoring.CodeSearchingRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBExplicitRequirementMethodsRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBRemoveAssignmentWithoutEffectRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBRuleIfNotEmptyDo class>>#uniqueIdentifierName
+Refactoring-Critics.RBRuleIfNotNilDo class>>#uniqueIdentifierName
+Refactoring-Critics.RBSmalltalkGlobalsRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBUnaryAccessingMethodWithoutReturnRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBkeysDoRule class>>#uniqueIdentifierName
+Refactoring-Tests-Critics.RBSmalllintTest>>#testUniqueIdentifierName
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50282
+ScriptLoader50.ScriptLoader>>#update50283
+Tool-Diff.DiffMorph>>#calibrateScrollbar
+Tool-Diff.DiffMorph>>#verticalScroll:

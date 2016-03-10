@@ -1,37 +1,37 @@
-RBAbstractClass>>#existingMethodsThatReferTo:
-RBSelectorEnvironment class>>#referencesTo:in:
-RingChunkImporter
-RingChunkImporter class>>#fromFileNamed:
-RingChunkImporter class>>#fromStream:
-RingChunkImporter>>#classDefinition:with:
-RingChunkImporter>>#classNamed:
-RingChunkImporter>>#classes
-RingChunkImporter>>#createClassNamed:
-RingChunkImporter>>#createTraitNamed:
-RingChunkImporter>>#doIts
-RingChunkImporter>>#fileInFrom:
-RingChunkImporter>>#fromFileNamed:
-RingChunkImporter>>#initialize
-RingChunkImporter>>#metaClassDefinition:with:
-RingChunkImporter>>#metaTraitDefinition:with:
-RingChunkImporter>>#msgClassComment:with:
-RingChunkImporter>>#packages
-RingChunkImporter>>#removedMethod:with:
-RingChunkImporter>>#scannedSource:
-RingChunkImporter>>#traitDefinition:with:
-RingChunkImporter>>#visitClassCommentChunk:
-RingChunkImporter>>#visitClassOrganizationChunk:
-RingChunkImporter>>#visitDoItChunk:
-RingChunkImporter>>#visitMethodChunk:
-RingChunkImporter>>#visitStyleChunk:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50257
-ScriptLoader>>#update50258
-SystemNavigation>>#allCallsOn:from:
-SystemNavigation>>#allLocalCallsOn:ofClass:
-SystemNavigation>>#allReferencesTo:
-SystemNavigation>>#allSendersOf:
-SystemNavigation>>#isUnsentMessage:
-TBehavior>>#thoroughHasSelectorReferringTo:
-TBehavior>>#thoroughWhichSelectorsReferTo:
-TBehavior>>#whichSelectorsReferTo:
+Refactoring-Core.RBAbstractClass>>#existingMethodsThatReferTo:
+Refactoring-Environment.RBSelectorEnvironment class>>#referencesTo:in:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50257
+ScriptLoader50.ScriptLoader>>#update50258
+System-Support.SystemNavigation>>#allCallsOn:from:
+System-Support.SystemNavigation>>#allLocalCallsOn:ofClass:
+System-Support.SystemNavigation>>#allReferencesTo:
+System-Support.SystemNavigation>>#allSendersOf:
+System-Support.SystemNavigation>>#isUnsentMessage:
+Tool-ExternalBrowser.RingChunkImporter
+Tool-ExternalBrowser.RingChunkImporter class>>#fromFileNamed:
+Tool-ExternalBrowser.RingChunkImporter class>>#fromStream:
+Tool-ExternalBrowser.RingChunkImporter>>#classDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#classNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#classes
+Tool-ExternalBrowser.RingChunkImporter>>#createClassNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#createTraitNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#doIts
+Tool-ExternalBrowser.RingChunkImporter>>#fileInFrom:
+Tool-ExternalBrowser.RingChunkImporter>>#fromFileNamed:
+Tool-ExternalBrowser.RingChunkImporter>>#initialize
+Tool-ExternalBrowser.RingChunkImporter>>#metaClassDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#metaTraitDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#msgClassComment:with:
+Tool-ExternalBrowser.RingChunkImporter>>#packages
+Tool-ExternalBrowser.RingChunkImporter>>#removedMethod:with:
+Tool-ExternalBrowser.RingChunkImporter>>#scannedSource:
+Tool-ExternalBrowser.RingChunkImporter>>#traitDefinition:with:
+Tool-ExternalBrowser.RingChunkImporter>>#visitClassCommentChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitClassOrganizationChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitDoItChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitMethodChunk:
+Tool-ExternalBrowser.RingChunkImporter>>#visitStyleChunk:
+Traits.TBehavior>>#thoroughHasSelectorReferringTo:
+Traits.TBehavior>>#thoroughWhichSelectorsReferTo:
+Traits.TBehavior>>#whichSelectorsReferTo:

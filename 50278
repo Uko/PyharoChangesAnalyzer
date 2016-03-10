@@ -1,7 +1,7 @@
-ImageReadWriter class>>#formFromStream:
-RBConsistencyCheckRule>>#initialize
-RBConsistencyCheckRule>>#name
-RBSentNotImplementedRule>>#checkMethod:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50277
-ScriptLoader>>#update50278
+Graphics-Files.ImageReadWriter class>>#formFromStream:
+Refactoring-Critics.RBConsistencyCheckRule>>#initialize
+Refactoring-Critics.RBConsistencyCheckRule>>#name
+Refactoring-Critics.RBSentNotImplementedRule>>#checkMethod:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50277
+ScriptLoader50.ScriptLoader>>#update50278

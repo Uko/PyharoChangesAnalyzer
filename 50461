@@ -1,40 +1,40 @@
-CommandLineUIManager>>#debugProcess:context:title:full:
-Context>>#cannotReturn:
-DebugSession
-DebugSession class>>#logDebuggerStackToFile
-DebugSession class>>#named:on:startedAt:
-DebugSession>>#detectUIProcess
-DebugSession>>#isAboutUIProcess
-DebugSession>>#logStackToFileIfNeeded
-DebugSession>>#name
-DebugSession>>#name:
-DebugSession>>#signalDebuggerError:
-DebugSession>>#stepIntoUntil:
-DebugSystemSettings class>>#debugSettingsOn:
-DebuggerTest>>#testBasic
-DummyUIManager>>#openDebuggerOn:context:label:fullView:notification:
-Exception>>#debug
-FuelOutStackDebugAction class>>#serializeTestFailureContext:toFileNamed:
-MorphicUIManager>>#openDebuggerOn:context:label:fullView:notification:
-MorphicUIManager>>#warningDefaultAction:
-NonInteractiveUIManager>>#openDebuggerOn:context:label:fullView:notification:
-Process>>#debug:title:full:
-Process>>#newDebugSessionNamed:startedAt:
-RubSmalltalkEditor>>#debug:receiver:in:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50460
-ScriptLoader>>#update50461
-SmalltalkEditor>>#debug:receiver:in:
-SpecDebugger class>>#context:
-SpecDebugger class>>#on:
-SpecDebugger class>>#openInterrupt:onProcess:
-SpecDebugger class>>#openOn:withFullView:
-SpecDebugger class>>#openOn:withFullView:andNotification:
-SpecDebugger>>#openWithFullView
-SpecDebugger>>#openWithFullViewAndTitle:
-SpecDebugger>>#openWithNotification:
-SpecDebugger>>#process:context:
-SpecDebugger>>#session:
-SyntaxErrorDebugger>>#debug
-UIManager>>#openDebuggerOn:context:label:fullView:
-UIManager>>#openDebuggerOn:context:label:fullView:notification:
+DebuggerModel.DebugSession
+DebuggerModel.DebugSession class>>#logDebuggerStackToFile
+DebuggerModel.DebugSession class>>#named:on:startedAt:
+DebuggerModel.DebugSession>>#detectUIProcess
+DebuggerModel.DebugSession>>#isAboutUIProcess
+DebuggerModel.DebugSession>>#logStackToFileIfNeeded
+DebuggerModel.DebugSession>>#name
+DebuggerModel.DebugSession>>#name:
+DebuggerModel.DebugSession>>#signalDebuggerError:
+DebuggerModel.DebugSession>>#stepIntoUntil:
+DebuggerModel.DebugSystemSettings class>>#debugSettingsOn:
+DebuggerModel.Process>>#newDebugSessionNamed:startedAt:
+FuelTools-Debugger.FuelOutStackDebugAction class>>#serializeTestFailureContext:toFileNamed:
+Kernel.Context>>#cannotReturn:
+Kernel.Exception>>#debug
+Kernel.Process>>#debug:title:full:
+Polymorph-Widgets.MorphicUIManager>>#openDebuggerOn:context:label:fullView:notification:
+Polymorph-Widgets.MorphicUIManager>>#warningDefaultAction:
+Rubric.RubSmalltalkEditor>>#debug:receiver:in:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50460
+ScriptLoader50.ScriptLoader>>#update50461
+Spec-Debugger.SpecDebugger class>>#context:
+Spec-Debugger.SpecDebugger class>>#on:
+Spec-Debugger.SpecDebugger class>>#openInterrupt:onProcess:
+Spec-Debugger.SpecDebugger class>>#openOn:withFullView:
+Spec-Debugger.SpecDebugger class>>#openOn:withFullView:andNotification:
+Spec-Debugger.SpecDebugger>>#openWithFullView
+Spec-Debugger.SpecDebugger>>#openWithFullViewAndTitle:
+Spec-Debugger.SpecDebugger>>#openWithNotification:
+Spec-Debugger.SpecDebugger>>#process:context:
+Spec-Debugger.SpecDebugger>>#session:
+Text-Edition.SmalltalkEditor>>#debug:receiver:in:
+Tools-Test.DebuggerTest>>#testBasic
+Tools.SyntaxErrorDebugger>>#debug
+UIManager.CommandLineUIManager>>#debugProcess:context:title:full:
+UIManager.DummyUIManager>>#openDebuggerOn:context:label:fullView:notification:
+UIManager.NonInteractiveUIManager>>#openDebuggerOn:context:label:fullView:notification:
+UIManager.UIManager>>#openDebuggerOn:context:label:fullView:
+UIManager.UIManager>>#openDebuggerOn:context:label:fullView:notification:

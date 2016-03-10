@@ -1,11 +1,11 @@
-EncodedCharSet class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
-HowToContributeHelp
-HowToContributeHelp class>>#bookName
-HowToContributeHelp class>>#introduction
-HowToContributeHelp class>>#pages
-LanguageEnvironment class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
-ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
-ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50314
-ScriptLoader>>#update50315
+HowToContributeHelp.HowToContributeHelp
+HowToContributeHelp.HowToContributeHelp class>>#bookName
+HowToContributeHelp.HowToContributeHelp class>>#introduction
+HowToContributeHelp.HowToContributeHelp class>>#pages
+Multilingual-Encodings.EncodedCharSet class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
+Multilingual-Encodings.ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
+Multilingual-Languages.LanguageEnvironment class>>#scanMultibyteCharactersFrom:to:in:with:rightX:font:
+Multilingual-Languages.ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50314
+ScriptLoader50.ScriptLoader>>#update50315

@@ -1,0 +1,15 @@
+Athens-Cairo.AthensCairoSurface class>>#createFromFile:ifFailed:
+Athens-Cairo.CairoFontFace>>#initialize
+Athens-Cairo.CairoFontFace>>#initializeWithFreetypeFace:
+Athens-Cairo.CairoFontOptions>>#initialize
+Athens-Cairo.CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
+Athens-Cairo.CairoFreetypeFontRenderer>>#glyphsOf:from:to:
+Athens-Cairo.CairoScaledFont>>#initWithFace:
+Athens-Cairo.CairoScaledFont>>#initialize
+Morphic-Core.Morph>>#flash
+Morphic-Core.Morph>>#flashDone:
+Morphic-Core.Morph>>#flashFillStyle
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50547
+ScriptLoader50.ScriptLoader>>#update50548
+Shout.SHRBTextStyler>>#style:ast:

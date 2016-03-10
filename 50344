@@ -1,63 +1,63 @@
-AbstractNautilusUI>>#browseVariableReferences
-AbstractNautilusUI>>#buildVariableReferencesMenuFrom:withIcon:contentBy:
-RFClassReification class>>#nodes
-RFClassReification>>#genForLiteralVariable
-RFLinkReification class>>#nodes
-RFLinkReification>>#genForLiteralVariable
-RFNameReification class>>#nodes
-RFObjectReification class>>#nodes
-RFObjectReification>>#genForLiteralVariable
-RFReification>>#genForGlobalVariable
-RFThisContextReification class>>#nodes
-RFThisContextReification>>#genForLiteralVariable
-RFValueReification class>>#nodes
-RFVariableReification class>>#nodes
-RFVariableReification>>#genForLiteralVariable
-RFVariableReification>>#genForRBVariableNode
-ReflectivityReificationTest>>#testReifyClassVariableClass
-ReflectivityReificationTest>>#testReifyClassVariableContext
-ReflectivityReificationTest>>#testReifyClassVariableLink
-ReflectivityReificationTest>>#testReifyClassVariableObject
-ReflectivityReificationTest>>#testReifyClassVariableValue
-ReflectivityReificationTest>>#testReifyClassVariableVariable
-ReflectivityReificationTest>>#testReifyGlobalVariableName
-ReflectivityReificationTest>>#testReifyGlobalVariableValue
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50343
-ScriptLoader>>#update50344
-ThemeSettings>>#applySettingsFrom:
-ThemeSettings>>#autoMenuColor
-ThemeSettings>>#autoMenuColor:
-ThemeSettings>>#balloonHelpDelayTime
-ThemeSettings>>#balloonHelpDelayTime:
-ThemeSettings>>#balloonHelpEnabled
-ThemeSettings>>#balloonHelpEnabled:
-ThemeSettings>>#buttonColor
-ThemeSettings>>#buttonColor:
-ThemeSettings>>#defaultButtonColor
-ThemeSettings>>#derivedMenuColor
-ThemeSettings>>#fallbackMenuColor
-ThemeSettings>>#flatMenu
-ThemeSettings>>#flatMenu:
-ThemeSettings>>#fromConfiguration:
-ThemeSettings>>#maxBalloonHelpLineLength
-ThemeSettings>>#maxBalloonHelpLineLength:
-ThemeSettings>>#menuBorderColor
-ThemeSettings>>#menuBorderWidth
-ThemeSettings>>#menuColor
-ThemeSettings>>#menuColor:
-ThemeSettings>>#menuKeyboardControl
-ThemeSettings>>#menuKeyboardFocusColor
-ThemeSettings>>#menuSelectionColor
-ThemeSettings>>#menuSelectionColor:
-ThemeSettings>>#menuSelectionTextColor
-ThemeSettings>>#menuSelectionTextColor:
-ThemeSettings>>#menuShadowColor
-ThemeSettings>>#menuTitleBorderColor
-ThemeSettings>>#menuTitleColor
-ThemeSettings>>#menuTitleColor:
-ThemeSettings>>#progressBarColor
-ThemeSettings>>#progressBarColor:
-ThemeSettings>>#progressBarProgressColor
-ThemeSettings>>#progressBarProgressColor:
-ThemeSettings>>#toConfiguration:
+Nautilus.AbstractNautilusUI>>#browseVariableReferences
+Nautilus.AbstractNautilusUI>>#buildVariableReferencesMenuFrom:withIcon:contentBy:
+Polymorph-Widgets.ThemeSettings>>#applySettingsFrom:
+Polymorph-Widgets.ThemeSettings>>#autoMenuColor
+Polymorph-Widgets.ThemeSettings>>#autoMenuColor:
+Polymorph-Widgets.ThemeSettings>>#balloonHelpDelayTime
+Polymorph-Widgets.ThemeSettings>>#balloonHelpDelayTime:
+Polymorph-Widgets.ThemeSettings>>#balloonHelpEnabled
+Polymorph-Widgets.ThemeSettings>>#balloonHelpEnabled:
+Polymorph-Widgets.ThemeSettings>>#buttonColor
+Polymorph-Widgets.ThemeSettings>>#buttonColor:
+Polymorph-Widgets.ThemeSettings>>#defaultButtonColor
+Polymorph-Widgets.ThemeSettings>>#derivedMenuColor
+Polymorph-Widgets.ThemeSettings>>#fallbackMenuColor
+Polymorph-Widgets.ThemeSettings>>#flatMenu
+Polymorph-Widgets.ThemeSettings>>#flatMenu:
+Polymorph-Widgets.ThemeSettings>>#fromConfiguration:
+Polymorph-Widgets.ThemeSettings>>#maxBalloonHelpLineLength
+Polymorph-Widgets.ThemeSettings>>#maxBalloonHelpLineLength:
+Polymorph-Widgets.ThemeSettings>>#menuBorderColor
+Polymorph-Widgets.ThemeSettings>>#menuBorderWidth
+Polymorph-Widgets.ThemeSettings>>#menuColor
+Polymorph-Widgets.ThemeSettings>>#menuColor:
+Polymorph-Widgets.ThemeSettings>>#menuKeyboardControl
+Polymorph-Widgets.ThemeSettings>>#menuKeyboardFocusColor
+Polymorph-Widgets.ThemeSettings>>#menuSelectionColor
+Polymorph-Widgets.ThemeSettings>>#menuSelectionColor:
+Polymorph-Widgets.ThemeSettings>>#menuSelectionTextColor
+Polymorph-Widgets.ThemeSettings>>#menuSelectionTextColor:
+Polymorph-Widgets.ThemeSettings>>#menuShadowColor
+Polymorph-Widgets.ThemeSettings>>#menuTitleBorderColor
+Polymorph-Widgets.ThemeSettings>>#menuTitleColor
+Polymorph-Widgets.ThemeSettings>>#menuTitleColor:
+Polymorph-Widgets.ThemeSettings>>#progressBarColor
+Polymorph-Widgets.ThemeSettings>>#progressBarColor:
+Polymorph-Widgets.ThemeSettings>>#progressBarProgressColor
+Polymorph-Widgets.ThemeSettings>>#progressBarProgressColor:
+Polymorph-Widgets.ThemeSettings>>#toConfiguration:
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyClassVariableClass
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyClassVariableContext
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyClassVariableLink
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyClassVariableObject
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyClassVariableValue
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyClassVariableVariable
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyGlobalVariableName
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyGlobalVariableValue
+Reflectivity.RFClassReification class>>#nodes
+Reflectivity.RFClassReification>>#genForLiteralVariable
+Reflectivity.RFLinkReification class>>#nodes
+Reflectivity.RFLinkReification>>#genForLiteralVariable
+Reflectivity.RFNameReification class>>#nodes
+Reflectivity.RFObjectReification class>>#nodes
+Reflectivity.RFObjectReification>>#genForLiteralVariable
+Reflectivity.RFReification>>#genForGlobalVariable
+Reflectivity.RFThisContextReification class>>#nodes
+Reflectivity.RFThisContextReification>>#genForLiteralVariable
+Reflectivity.RFValueReification class>>#nodes
+Reflectivity.RFVariableReification class>>#nodes
+Reflectivity.RFVariableReification>>#genForLiteralVariable
+Reflectivity.RFVariableReification>>#genForRBVariableNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50343
+ScriptLoader50.ScriptLoader>>#update50344

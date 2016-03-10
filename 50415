@@ -1,18 +1,18 @@
-AbstractNautilusUI
-AbstractNautilusUI>>#classIconFor:
-AbstractNautilusUI>>#initialize
-MCLazyVersionInfo>>#loadAncestorsAndStepChildren
-MCLazyVersionInfo>>#setAncestors:
-MCLazyVersionInfo>>#setStepChildren:
-MCTool
-MCTool class>>#flushMCVersionCache
-MCTool class>>#initMCVersionCache
-MCTool class>>#mcVersionCache
-MCVersionInfo>>#loadAncestorsAndStepChildren
-MCVersionInfo>>#setAncestors:
-MCVersionInfo>>#setStepChildren:
-Nautilus
-Nautilus>>#uiClass
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50414
-ScriptLoader>>#update50415
+Monticello.MCLazyVersionInfo>>#setAncestors:
+Monticello.MCLazyVersionInfo>>#setStepChildren:
+Monticello.MCVersionInfo>>#loadAncestorsAndStepChildren
+Monticello.MCVersionInfo>>#setAncestors:
+Monticello.MCVersionInfo>>#setStepChildren:
+MonticelloGUI.MCLazyVersionInfo>>#loadAncestorsAndStepChildren
+MonticelloGUI.MCTool
+MonticelloGUI.MCTool class>>#flushMCVersionCache
+MonticelloGUI.MCTool class>>#initMCVersionCache
+MonticelloGUI.MCTool class>>#mcVersionCache
+Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI>>#classIconFor:
+Nautilus.AbstractNautilusUI>>#initialize
+Nautilus.Nautilus
+Nautilus.Nautilus>>#uiClass
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50414
+ScriptLoader50.ScriptLoader>>#update50415

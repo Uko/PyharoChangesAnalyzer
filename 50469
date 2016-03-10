@@ -1,32 +1,32 @@
-AbstractIconStyler>>#addIconStyle:from:to:color:
-AbstractIconStyler>>#iconFor:
-BreakpointIconStyler>>#iconFor:
-ImageCleaner>>#cleanUpForRelease
-ImageCleaner>>#examplePackages
-ImageCleaner>>#helpPackages
-ImageCleaner>>#removeEmptyCategories
-ImageCleaner>>#removeEmptyPackages
-MetalinkIconStyler>>#iconFor:
-RPackage>>#isEmpty
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50468
-ScriptLoader>>#update50469
-SugsMenuBuilder class>>#showMenuFor:
-SugsSuggestionFactory class>>#cleanUp
-SugsSuggestionFactory class>>#createBreakCommand
-SugsSuggestionFactory class>>#createBreakConditionCommand
-SugsSuggestionFactory class>>#createBreakOnceCommand
-Watchpoint
-Watchpoint class>>#in:named:
-Watchpoint>>#initialize
-Watchpoint>>#install
-Watchpoint>>#isRecording
-Watchpoint>>#start
-Watchpoint>>#stop
-Watchpoint>>#uninstall
-WatchpointIconStyler>>#iconFor:
-WatchpointTests>>#testAddSameWatchpointSameNode
-WatchpointTests>>#testAddWatchpoint
-WatchpointTests>>#testAddWatchpointsSameNode
-WatchpointTests>>#testStopRecording
-WatchpointTests>>#testWatchpointTwice
+RPackage-Core.RPackage>>#isEmpty
+Reflectivity-Examples.MetalinkIconStyler>>#iconFor:
+Reflectivity-Tools-Tests.WatchpointTests>>#testAddSameWatchpointSameNode
+Reflectivity-Tools-Tests.WatchpointTests>>#testAddWatchpoint
+Reflectivity-Tools-Tests.WatchpointTests>>#testAddWatchpointsSameNode
+Reflectivity-Tools-Tests.WatchpointTests>>#testStopRecording
+Reflectivity-Tools-Tests.WatchpointTests>>#testWatchpointTwice
+Reflectivity-Tools.AbstractIconStyler>>#addIconStyle:from:to:color:
+Reflectivity-Tools.AbstractIconStyler>>#iconFor:
+Reflectivity-Tools.BreakpointIconStyler>>#iconFor:
+Reflectivity-Tools.Watchpoint
+Reflectivity-Tools.Watchpoint class>>#in:named:
+Reflectivity-Tools.Watchpoint>>#initialize
+Reflectivity-Tools.Watchpoint>>#install
+Reflectivity-Tools.Watchpoint>>#isRecording
+Reflectivity-Tools.Watchpoint>>#start
+Reflectivity-Tools.Watchpoint>>#stop
+Reflectivity-Tools.Watchpoint>>#uninstall
+Reflectivity-Tools.WatchpointIconStyler>>#iconFor:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50468
+ScriptLoader50.ScriptLoader>>#update50469
+SmartSuggestions.SugsMenuBuilder class>>#showMenuFor:
+SmartSuggestions.SugsSuggestionFactory class>>#cleanUp
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakConditionCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakOnceCommand
+Tool-ImageCleaner.ImageCleaner>>#cleanUpForRelease
+Tool-ImageCleaner.ImageCleaner>>#examplePackages
+Tool-ImageCleaner.ImageCleaner>>#helpPackages
+Tool-ImageCleaner.ImageCleaner>>#removeEmptyCategories
+Tool-ImageCleaner.ImageCleaner>>#removeEmptyPackages

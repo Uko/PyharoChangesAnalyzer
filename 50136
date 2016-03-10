@@ -1,33 +1,33 @@
-Collection>>#do:displayingProgress:every:
-Job class>>#current
-Job class>>#exampleCurrentValue
-Job class>>#exampleProgress
-Job>>#announcer
-Job>>#lookup:ifNone:
-Job>>#parent
-Job>>#prepareForRunning
-Job>>#progress:
-Job>>#run
-JobAnnouncement class>>#on:
-JobAnnouncement>>#max
-JobAnnouncement>>#min
-JobAnnouncement>>#progress
-JobAnnouncement>>#title
-JobChange
-JobDetector
-JobEnd
-JobStart
-JobStartNotification
-JobStartNotification>>#job
-JobStartNotification>>#job:
-JobTest>>#testJobAnnouncements
-MetaLinkTest>>#testCotrolInstead
-RBProgramNode>>#hasMetalinkInstead
-RBProgramNode>>#insteadHooks
-RBProgramNode>>#insteadLinks
-RFASTTranslator>>#visitNode:
-RFSemanticAnalyzer>>#analyseForLinks:
-ReflectiveMethodTest>>#testReplaceSimple
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50135
-ScriptLoader>>#update50136
+Jobs.Job class>>#current
+Jobs.Job class>>#exampleCurrentValue
+Jobs.Job class>>#exampleProgress
+Jobs.Job>>#announcer
+Jobs.Job>>#lookup:ifNone:
+Jobs.Job>>#parent
+Jobs.Job>>#prepareForRunning
+Jobs.Job>>#progress:
+Jobs.Job>>#run
+Jobs.JobAnnouncement class>>#on:
+Jobs.JobAnnouncement>>#max
+Jobs.JobAnnouncement>>#min
+Jobs.JobAnnouncement>>#progress
+Jobs.JobAnnouncement>>#title
+Jobs.JobChange
+Jobs.JobDetector
+Jobs.JobEnd
+Jobs.JobStart
+Jobs.JobStartNotification
+Jobs.JobStartNotification>>#job
+Jobs.JobStartNotification>>#job:
+KernelTests.JobTest>>#testJobAnnouncements
+Reflectivity-Tests.MetaLinkTest>>#testCotrolInstead
+Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceSimple
+Reflectivity.RBProgramNode>>#hasMetalinkInstead
+Reflectivity.RBProgramNode>>#insteadHooks
+Reflectivity.RBProgramNode>>#insteadLinks
+Reflectivity.RFASTTranslator>>#visitNode:
+Reflectivity.RFSemanticAnalyzer>>#analyseForLinks:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50135
+ScriptLoader50.ScriptLoader>>#update50136
+UIManager.Collection>>#do:displayingProgress:every:

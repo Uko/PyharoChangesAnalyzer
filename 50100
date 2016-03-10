@@ -1,13 +1,13 @@
-RFNameReification
-RFNameReification class>>#key
-RFNameReification class>>#nodes
-RFNameReification>>#genForRBVariableNode
-ReflectiveMethodTest>>#testReifyName
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50099
-ScriptLoader>>#update50100
-SystemNavigation>>#allBehaviorsDo:
-SystemNavigation>>#allClassesAndTraits
-SystemNavigation>>#allClassesInPackageNamed:
-SystemNavigation>>#browseClassCommentsWithString:matchCase:
-SystemNavigation>>#removeAllButPackages:
+Reflectivity-Tests.ReflectiveMethodTest>>#testReifyName
+Reflectivity.RFNameReification
+Reflectivity.RFNameReification class>>#key
+Reflectivity.RFNameReification class>>#nodes
+Reflectivity.RFNameReification>>#genForRBVariableNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50099
+ScriptLoader50.ScriptLoader>>#update50100
+System-Support.SystemNavigation>>#allBehaviorsDo:
+System-Support.SystemNavigation>>#allClassesAndTraits
+System-Support.SystemNavigation>>#allClassesInPackageNamed:
+System-Support.SystemNavigation>>#removeAllButPackages:
+Tool-Base.SystemNavigation>>#browseClassCommentsWithString:matchCase:

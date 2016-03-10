@@ -1,13 +1,13 @@
-AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
-AbstractNautilusUI>>#classParentRenamed:
-AbstractNautilusUI>>#registerToSystemAnnouncements
-AbstractNautilusUI>>#updateSourceCodeAreaWith:
-HookGenerator>>#hookFor:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50473
-ScriptLoader>>#update50474
-SugsSuggestionFactory class>>#createBreakCommand
-SugsSuggestionFactory class>>#createBreakConditionCommand
-SugsSuggestionFactory class>>#createBreakOnceCommand
-SugsSuggestionFactory class>>#createFindImplementors
-SugsSuggestionFactory class>>#createWatchpointCommand
+Nautilus.AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+Nautilus.AbstractNautilusUI>>#classParentRenamed:
+Nautilus.AbstractNautilusUI>>#registerToSystemAnnouncements
+Nautilus.AbstractNautilusUI>>#updateSourceCodeAreaWith:
+Reflectivity.HookGenerator>>#hookFor:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50473
+ScriptLoader50.ScriptLoader>>#update50474
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakConditionCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakOnceCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createFindImplementors
+SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointCommand

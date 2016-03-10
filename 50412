@@ -1,7 +1,7 @@
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50411
-ScriptLoader>>#update50412
-StartupPreferencesLoader class>>#startupGeneralPrefererencesFolderMenuOn:
-StartupPreferencesLoader class>>#startupLoaderMenuOn:
-StartupPreferencesLoader class>>#startupPreferencesVersionFolderMenuOn:
-StartupPreferencesLoader class>>#systemStartupMenuOn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50411
+ScriptLoader50.ScriptLoader>>#update50412
+StartupPreferences.StartupPreferencesLoader class>>#startupGeneralPrefererencesFolderMenuOn:
+StartupPreferences.StartupPreferencesLoader class>>#startupLoaderMenuOn:
+StartupPreferences.StartupPreferencesLoader class>>#startupPreferencesVersionFolderMenuOn:
+StartupPreferences.StartupPreferencesLoader class>>#systemStartupMenuOn:

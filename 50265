@@ -1,18 +1,18 @@
-BlockClosure>>#temporaryVariableNamed:
-CompiledMethod>>#removeSavedTemp:
-CompiledMethod>>#saveTemp:
-CompiledMethod>>#savedTemps
-CompiledMethod>>#temporaryVariableNamed:
-Context>>#temporaryVariableNamed:
-Object>>#displayString
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50264
-ScriptLoader>>#update50265
-TemporaryVariable class>>#name:block:
-TemporaryVariable class>>#name:context:
-TemporaryVariable class>>#name:method:
-TemporaryVariable>>#yourselfOrSaved
-TemporaryVariableTest>>#testPropertyAtPutPersistent
-TemporaryVariableTest>>#testPropertyBlockPersistent
-TemporaryVariableTest>>#testPropertyContextPersistent
-WorldMorph>>#buildMetaMenu:
+Kernel.Object>>#displayString
+Morphic-Core.WorldMorph>>#buildMetaMenu:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50264
+ScriptLoader50.ScriptLoader>>#update50265
+Slot-Tests.TemporaryVariableTest>>#testPropertyAtPutPersistent
+Slot-Tests.TemporaryVariableTest>>#testPropertyBlockPersistent
+Slot-Tests.TemporaryVariableTest>>#testPropertyContextPersistent
+Slot.BlockClosure>>#temporaryVariableNamed:
+Slot.CompiledMethod>>#removeSavedTemp:
+Slot.CompiledMethod>>#saveTemp:
+Slot.CompiledMethod>>#savedTemps
+Slot.CompiledMethod>>#temporaryVariableNamed:
+Slot.Context>>#temporaryVariableNamed:
+Slot.TemporaryVariable class>>#name:block:
+Slot.TemporaryVariable class>>#name:context:
+Slot.TemporaryVariable class>>#name:method:
+Slot.TemporaryVariable>>#yourselfOrSaved

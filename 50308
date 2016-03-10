@@ -1,10 +1,10 @@
-RFASTTranslator>>#visitMethodNode:
-ReflectiveMethod>>#compileAndInstallCompiledMethod
-ReflectiveMethod>>#generatePrimitiveWrapper
-ReflectiveMethodTest>>#testSetLinkInPrimitive
-ReflectiveMethodTest>>#testSetLinkOnPrimitive
-ReflectivityLinkTest>>#testPrimitiveWithLinkExecuteWrapper
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50307
-ScriptLoader>>#update50308
-SystemSystemSettings class>>#systemSettingOn:
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkInPrimitive
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnPrimitive
+Reflectivity-Tests.ReflectivityLinkTest>>#testPrimitiveWithLinkExecuteWrapper
+Reflectivity.RFASTTranslator>>#visitMethodNode:
+Reflectivity.ReflectiveMethod>>#compileAndInstallCompiledMethod
+Reflectivity.ReflectiveMethod>>#generatePrimitiveWrapper
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50307
+ScriptLoader50.ScriptLoader>>#update50308
+Settings-System.SystemSystemSettings class>>#systemSettingOn:

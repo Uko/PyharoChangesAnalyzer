@@ -1,165 +1,165 @@
-AbstractCategoryWidget>>#dragPassengersFor:inMorph:
-AbstractCategoryWidget>>#wantsDroppedMorph:event:inMorph:
-AbstractClassWidget>>#dragPassengersFor:inMorph:
-AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
-AbstractMethodWidget>>#dragPassengersFor:inMorph:
-AbstractWidget class>>#listClass
-CategoryWidget>>#buildCategoriesList
-ClassWidget>>#buildClassesList
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version142:
-ConfigurationOfRubric>>#version143:
-ConfigurationOfRubric>>#version15:
-MCCredentialsRequest
-MCCredentialsRequest class>>#signalUrl:
-MCCredentialsRequest class>>#signalUrl:username:password:
-MCCredentialsRequest>>#defaultAction
-MCCredentialsRequest>>#password
-MCCredentialsRequest>>#password:
-MCCredentialsRequest>>#passwordMessagePrompt
-MCCredentialsRequest>>#url
-MCCredentialsRequest>>#url:
-MCCredentialsRequest>>#userMessagePrompt
-MCCredentialsRequest>>#username
-MCCredentialsRequest>>#username:
-MCFtpRepository
-MCFtpRepository class>>#creationTemplate
-MCFtpRepository class>>#description
-MCFtpRepository class>>#host:directory:user:password:
-MCFtpRepository class>>#templateCreationSelector
-MCFtpRepository>>#clientDo:
-MCFtpRepository>>#description
-MCFtpRepository>>#directory:
-MCFtpRepository>>#host:
-MCFtpRepository>>#loadAllFileNames
-MCFtpRepository>>#parseDirectoryListing:
-MCFtpRepository>>#password:
-MCFtpRepository>>#readStreamForFileNamed:do:
-MCFtpRepository>>#user:
-MCFtpRepository>>#writeStreamForFileNamed:replace:do:
-MCGemstoneRepository
-MCGemstoneRepository class>>#baseURL
-MCGemstoneRepository class>>#description
-MCGemstoneRepository class>>#isResponsibleFor:
-MCGemstoneRepository>>#includesVersionNamed:
-MCHttpRepository
-MCHttpRepository class>>#baseURL
-MCHttpRepository class>>#clearPasswords
-MCHttpRepository class>>#creationTemplate
-MCHttpRepository class>>#creationTemplateLocation:user:password:
-MCHttpRepository class>>#description
-MCHttpRepository class>>#isResponsibleFor:
-MCHttpRepository class>>#location:
-MCHttpRepository class>>#location:user:password:
-MCHttpRepository class>>#pharoInboxRepository
-MCHttpRepository class>>#pharoRepository
-MCHttpRepository class>>#project:
-MCHttpRepository class>>#repositoryClassFor:
-MCHttpRepository>>#asCreationTemplate
-MCHttpRepository>>#assertBinaryResponse:
-MCHttpRepository>>#assertNonBinaryResponse:
-MCHttpRepository>>#cacheRawVersionNamed:stream:
-MCHttpRepository>>#credentials
-MCHttpRepository>>#credentials:
-MCHttpRepository>>#description
-MCHttpRepository>>#displayProgress:during:
-MCHttpRepository>>#entityStreamContents:
-MCHttpRepository>>#flushCache
-MCHttpRepository>>#handleUnsuccessfulResponse:
-MCHttpRepository>>#httpClient
-MCHttpRepository>>#loadAllFileNames
-MCHttpRepository>>#location
-MCHttpRepository>>#location:
-MCHttpRepository>>#locationWithTrailingSlash
-MCHttpRepository>>#parseFileNamesFromStream:
-MCHttpRepository>>#password
-MCHttpRepository>>#password:
-MCHttpRepository>>#project
-MCHttpRepository>>#readStreamForFileNamed:do:
-MCHttpRepository>>#urlForFileNamed:
-MCHttpRepository>>#user
-MCHttpRepository>>#user:
-MCHttpRepository>>#userAndPasswordFromSettingsDo:
-MCHttpRepository>>#versionReaderForFileNamed:
-MCHttpRepository>>#versionReaderForFileNamed:do:
-MCHttpRepository>>#writeStreamForFileNamed:replace:do:
-MCPermissionDenied
-MCPermissionDenied class>>#signalFor:
-MCPermissionDenied>>#repository
-MCPermissionDenied>>#repository:
-MCRepository>>#storeVersion:
-MCRepositoryGroup>>#removeHTTPRepositoryLocationNamed:
-MCServerCredentials
-MCServerCredentials class>>#user:password:
-MCServerCredentials>>#password
-MCServerCredentials>>#password:
-MCServerCredentials>>#username
-MCServerCredentials>>#username:
-MCServerRegistry
-MCServerRegistry class>>#uniqueInstance
-MCServerRegistry>>#initialize
-MCServerRegistry>>#on:beUser:withPassword:
-MCServerRegistry>>#repositoryAt:credentialsDo:
-MCSmalltalkhubRepository
-MCSmalltalkhubRepository class>>#baseURL
-MCSmalltalkhubRepository class>>#creationTemplate
-MCSmalltalkhubRepository class>>#creationTemplateOwner:project:user:password:
-MCSmalltalkhubRepository class>>#description
-MCSmalltalkhubRepository class>>#hostName
-MCSmalltalkhubRepository class>>#isResponsibleFor:
-MCSmalltalkhubRepository class>>#owner:project:
-MCSmalltalkhubRepository class>>#owner:project:user:password:
-MCSmalltalkhubRepository class>>#smalltalkhubUrl
-MCSmalltalkhubRepository>>#asCreationTemplate
-MCSmalltalkhubRepository>>#includesFileNamed:
-MCSmalltalkhubRepository>>#includesVersionNamed:
-MCSmalltalkhubRepository>>#loadAllFileNames
-MCSmalltalkhubRepository>>#location
-MCSmalltalkhubRepository>>#location:
-MCSmalltalkhubRepository>>#locationWithTrailingSlash
-MCSmalltalkhubRepository>>#owner
-MCSmalltalkhubRepository>>#owner:
-MCSmalltalkhubRepository>>#parseFileNamesFromStream:
-MCSmalltalkhubRepository>>#project
-MCSmalltalkhubRepository>>#project:
-MCSqueaksourceRepository
-MCSqueaksourceRepository class>>#baseURL
-MCSqueaksourceRepository class>>#description
-MCSqueaksourceRepository class>>#isResponsibleFor:
-MCSqueaksourceRepository>>#includesFileNamed:
-MCSqueaksourceRepository>>#includesVersionNamed:
-MethodWidget>>#buildMethodsList
-Nautilus class>>#nautilusSettingsOn:
-Nautilus class>>#useExperimentalFastTable
-Nautilus class>>#useExperimentalFastTable:
-PackageListWidget>>#buildPackagesList
-RubAbstractTextArea>>#drawSubmorphsOn:
-RubAbstractTextArea>>#drawSubmorphsOnAthensCanvas:
-RubExtraSelectionDecorator
-RubExtraSelectionDecorator>>#computeSelectionShapes
-RubScrolledTextMorph>>#correctFrom:to:with:
-RubScrolledTextMorph>>#drawFocusBorder
-RubScrolledTextMorph>>#drawFocusBorder:
-RubScrolledTextMorph>>#textMorph
-RubScrolledTextMorph>>#withFocusBorder
-RubScrolledTextMorph>>#withoutFocusBorder
-RubShoutStylerDecorator
-RubShoutStylerDecorator class>>#minTextSizeForStylingInBackground
-RubShoutStylerDecorator class>>#minTextSizeForStylingInBackground:
-RubShoutStylerDecorator class>>#rubricSettingsOn:
-RubShoutStylerDecorator>>#minTextSizeForStylingInBackground
-RubShoutStylerDecorator>>#replaceFrom:to:with:
-RubShoutStylerDecorator>>#style:
-RubShoutStylerDecorator>>#stylerStyled:
-RubShoutStylerDecorator>>#stylerStyledInBackground:
-RubShoutStylerDecorator>>#text:
-RubSmalltalkEditor class>>#buildShortcutsOn:
-RubTextScrollPane
-RubTextScrollPane>>#drawFocusBorder
-RubTextScrollPane>>#drawFocusBorder:
-RubTextScrollPane>>#drawSubmorphsOn:
-RubTextScrollPane>>#drawSubmorphsOnAthensCanvas:
-RubTextScrollPane>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50137
-ScriptLoader>>#update50138
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version142:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version143:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version15:
+Monticello.MCCredentialsRequest
+Monticello.MCCredentialsRequest class>>#signalUrl:
+Monticello.MCCredentialsRequest class>>#signalUrl:username:password:
+Monticello.MCCredentialsRequest>>#defaultAction
+Monticello.MCCredentialsRequest>>#password
+Monticello.MCCredentialsRequest>>#password:
+Monticello.MCCredentialsRequest>>#passwordMessagePrompt
+Monticello.MCCredentialsRequest>>#url
+Monticello.MCCredentialsRequest>>#url:
+Monticello.MCCredentialsRequest>>#userMessagePrompt
+Monticello.MCCredentialsRequest>>#username
+Monticello.MCCredentialsRequest>>#username:
+Monticello.MCFtpRepository
+Monticello.MCFtpRepository class>>#creationTemplate
+Monticello.MCFtpRepository class>>#description
+Monticello.MCFtpRepository class>>#host:directory:user:password:
+Monticello.MCFtpRepository class>>#templateCreationSelector
+Monticello.MCFtpRepository>>#clientDo:
+Monticello.MCFtpRepository>>#description
+Monticello.MCFtpRepository>>#directory:
+Monticello.MCFtpRepository>>#host:
+Monticello.MCFtpRepository>>#loadAllFileNames
+Monticello.MCFtpRepository>>#parseDirectoryListing:
+Monticello.MCFtpRepository>>#password:
+Monticello.MCFtpRepository>>#readStreamForFileNamed:do:
+Monticello.MCFtpRepository>>#user:
+Monticello.MCFtpRepository>>#writeStreamForFileNamed:replace:do:
+Monticello.MCGemstoneRepository
+Monticello.MCGemstoneRepository class>>#baseURL
+Monticello.MCGemstoneRepository class>>#description
+Monticello.MCGemstoneRepository class>>#isResponsibleFor:
+Monticello.MCGemstoneRepository>>#includesVersionNamed:
+Monticello.MCHttpRepository
+Monticello.MCHttpRepository class>>#baseURL
+Monticello.MCHttpRepository class>>#clearPasswords
+Monticello.MCHttpRepository class>>#creationTemplate
+Monticello.MCHttpRepository class>>#creationTemplateLocation:user:password:
+Monticello.MCHttpRepository class>>#description
+Monticello.MCHttpRepository class>>#isResponsibleFor:
+Monticello.MCHttpRepository class>>#location:
+Monticello.MCHttpRepository class>>#location:user:password:
+Monticello.MCHttpRepository class>>#pharoInboxRepository
+Monticello.MCHttpRepository class>>#pharoRepository
+Monticello.MCHttpRepository class>>#project:
+Monticello.MCHttpRepository class>>#repositoryClassFor:
+Monticello.MCHttpRepository>>#asCreationTemplate
+Monticello.MCHttpRepository>>#assertBinaryResponse:
+Monticello.MCHttpRepository>>#assertNonBinaryResponse:
+Monticello.MCHttpRepository>>#cacheRawVersionNamed:stream:
+Monticello.MCHttpRepository>>#credentials
+Monticello.MCHttpRepository>>#credentials:
+Monticello.MCHttpRepository>>#description
+Monticello.MCHttpRepository>>#displayProgress:during:
+Monticello.MCHttpRepository>>#entityStreamContents:
+Monticello.MCHttpRepository>>#flushCache
+Monticello.MCHttpRepository>>#handleUnsuccessfulResponse:
+Monticello.MCHttpRepository>>#httpClient
+Monticello.MCHttpRepository>>#loadAllFileNames
+Monticello.MCHttpRepository>>#location
+Monticello.MCHttpRepository>>#location:
+Monticello.MCHttpRepository>>#locationWithTrailingSlash
+Monticello.MCHttpRepository>>#parseFileNamesFromStream:
+Monticello.MCHttpRepository>>#password
+Monticello.MCHttpRepository>>#password:
+Monticello.MCHttpRepository>>#project
+Monticello.MCHttpRepository>>#readStreamForFileNamed:do:
+Monticello.MCHttpRepository>>#urlForFileNamed:
+Monticello.MCHttpRepository>>#user
+Monticello.MCHttpRepository>>#user:
+Monticello.MCHttpRepository>>#userAndPasswordFromSettingsDo:
+Monticello.MCHttpRepository>>#versionReaderForFileNamed:
+Monticello.MCHttpRepository>>#versionReaderForFileNamed:do:
+Monticello.MCHttpRepository>>#writeStreamForFileNamed:replace:do:
+Monticello.MCPermissionDenied
+Monticello.MCPermissionDenied class>>#signalFor:
+Monticello.MCPermissionDenied>>#repository
+Monticello.MCPermissionDenied>>#repository:
+Monticello.MCRepository>>#storeVersion:
+Monticello.MCRepositoryGroup>>#removeHTTPRepositoryLocationNamed:
+Monticello.MCServerCredentials
+Monticello.MCServerCredentials class>>#user:password:
+Monticello.MCServerCredentials>>#password
+Monticello.MCServerCredentials>>#password:
+Monticello.MCServerCredentials>>#username
+Monticello.MCServerCredentials>>#username:
+Monticello.MCServerRegistry
+Monticello.MCServerRegistry class>>#uniqueInstance
+Monticello.MCServerRegistry>>#initialize
+Monticello.MCServerRegistry>>#on:beUser:withPassword:
+Monticello.MCServerRegistry>>#repositoryAt:credentialsDo:
+Monticello.MCSmalltalkhubRepository
+Monticello.MCSmalltalkhubRepository class>>#baseURL
+Monticello.MCSmalltalkhubRepository class>>#creationTemplate
+Monticello.MCSmalltalkhubRepository class>>#creationTemplateOwner:project:user:password:
+Monticello.MCSmalltalkhubRepository class>>#description
+Monticello.MCSmalltalkhubRepository class>>#hostName
+Monticello.MCSmalltalkhubRepository class>>#isResponsibleFor:
+Monticello.MCSmalltalkhubRepository class>>#owner:project:
+Monticello.MCSmalltalkhubRepository class>>#owner:project:user:password:
+Monticello.MCSmalltalkhubRepository class>>#smalltalkhubUrl
+Monticello.MCSmalltalkhubRepository>>#asCreationTemplate
+Monticello.MCSmalltalkhubRepository>>#includesFileNamed:
+Monticello.MCSmalltalkhubRepository>>#includesVersionNamed:
+Monticello.MCSmalltalkhubRepository>>#loadAllFileNames
+Monticello.MCSmalltalkhubRepository>>#location
+Monticello.MCSmalltalkhubRepository>>#location:
+Monticello.MCSmalltalkhubRepository>>#locationWithTrailingSlash
+Monticello.MCSmalltalkhubRepository>>#owner
+Monticello.MCSmalltalkhubRepository>>#owner:
+Monticello.MCSmalltalkhubRepository>>#parseFileNamesFromStream:
+Monticello.MCSmalltalkhubRepository>>#project
+Monticello.MCSmalltalkhubRepository>>#project:
+Monticello.MCSqueaksourceRepository
+Monticello.MCSqueaksourceRepository class>>#baseURL
+Monticello.MCSqueaksourceRepository class>>#description
+Monticello.MCSqueaksourceRepository class>>#isResponsibleFor:
+Monticello.MCSqueaksourceRepository>>#includesFileNamed:
+Monticello.MCSqueaksourceRepository>>#includesVersionNamed:
+Nautilus.AbstractCategoryWidget>>#dragPassengersFor:inMorph:
+Nautilus.AbstractCategoryWidget>>#wantsDroppedMorph:event:inMorph:
+Nautilus.AbstractClassWidget>>#dragPassengersFor:inMorph:
+Nautilus.AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
+Nautilus.AbstractMethodWidget>>#dragPassengersFor:inMorph:
+Nautilus.AbstractWidget class>>#listClass
+Nautilus.CategoryWidget>>#buildCategoriesList
+Nautilus.ClassWidget>>#buildClassesList
+Nautilus.MethodWidget>>#buildMethodsList
+Nautilus.Nautilus class>>#nautilusSettingsOn:
+Nautilus.Nautilus class>>#useExperimentalFastTable
+Nautilus.Nautilus class>>#useExperimentalFastTable:
+Nautilus.PackageListWidget>>#buildPackagesList
+Rubric.RubAbstractTextArea>>#drawSubmorphsOn:
+Rubric.RubAbstractTextArea>>#drawSubmorphsOnAthensCanvas:
+Rubric.RubExtraSelectionDecorator
+Rubric.RubExtraSelectionDecorator>>#computeSelectionShapes
+Rubric.RubScrolledTextMorph>>#correctFrom:to:with:
+Rubric.RubScrolledTextMorph>>#drawFocusBorder
+Rubric.RubScrolledTextMorph>>#drawFocusBorder:
+Rubric.RubScrolledTextMorph>>#textMorph
+Rubric.RubScrolledTextMorph>>#withFocusBorder
+Rubric.RubScrolledTextMorph>>#withoutFocusBorder
+Rubric.RubShoutStylerDecorator
+Rubric.RubShoutStylerDecorator class>>#minTextSizeForStylingInBackground
+Rubric.RubShoutStylerDecorator class>>#minTextSizeForStylingInBackground:
+Rubric.RubShoutStylerDecorator class>>#rubricSettingsOn:
+Rubric.RubShoutStylerDecorator>>#minTextSizeForStylingInBackground
+Rubric.RubShoutStylerDecorator>>#replaceFrom:to:with:
+Rubric.RubShoutStylerDecorator>>#style:
+Rubric.RubShoutStylerDecorator>>#stylerStyled:
+Rubric.RubShoutStylerDecorator>>#stylerStyledInBackground:
+Rubric.RubShoutStylerDecorator>>#text:
+Rubric.RubSmalltalkEditor class>>#buildShortcutsOn:
+Rubric.RubTextScrollPane
+Rubric.RubTextScrollPane>>#drawFocusBorder
+Rubric.RubTextScrollPane>>#drawFocusBorder:
+Rubric.RubTextScrollPane>>#drawSubmorphsOn:
+Rubric.RubTextScrollPane>>#drawSubmorphsOnAthensCanvas:
+Rubric.RubTextScrollPane>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50137
+ScriptLoader50.ScriptLoader>>#update50138

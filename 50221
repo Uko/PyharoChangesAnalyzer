@@ -1,20 +1,20 @@
-AbstractNautilusUI>>#selectNextMethod
-ClassAPIHelpBuilder>>#build
-ClassAPIHelpBuilder>>#buildSubnodesForMethods
-ClassAPIHelpBuilder>>#buildSubnodesForSubclasses
-CustomHelp class>>#icon
-HelpBrowser class>>#taskbarIcon
-HelpBrowser>>#initWindow
-HelpTopicListItemWrapper>>#icon
-MCClassDefinition>>#classInstanceVariables
-MCClassDefinition>>#classVariables
-MCClassDefinition>>#hasComplexVariables
-MCClassDefinition>>#instanceVariables
-MethodWidget>>#selectNextMethod
-NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
-NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
-NautilusUI>>#methodRemoved:
-NautilusUI>>#selectNextMethod
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50220
-ScriptLoader>>#update50221
+HelpSystem-Core.ClassAPIHelpBuilder>>#build
+HelpSystem-Core.ClassAPIHelpBuilder>>#buildSubnodesForMethods
+HelpSystem-Core.ClassAPIHelpBuilder>>#buildSubnodesForSubclasses
+HelpSystem-Core.CustomHelp class>>#icon
+HelpSystem-Core.HelpBrowser>>#initWindow
+HelpSystem-Core.HelpTopicListItemWrapper>>#icon
+Monticello.MCClassDefinition>>#classInstanceVariables
+Monticello.MCClassDefinition>>#classVariables
+Monticello.MCClassDefinition>>#hasComplexVariables
+Monticello.MCClassDefinition>>#instanceVariables
+Nautilus.AbstractNautilusUI>>#selectNextMethod
+Nautilus.MethodWidget>>#selectNextMethod
+Nautilus.NautilusUI>>#methodRemoved:
+Nautilus.NautilusUI>>#selectNextMethod
+NautilusRefactoring.NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
+NautilusRefactoring.NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
+Polymorph-TaskbarIcons.HelpBrowser class>>#taskbarIcon
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50220
+ScriptLoader50.ScriptLoader>>#update50221

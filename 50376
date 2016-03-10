@@ -1,7 +1,7 @@
-ConfigurationOfTxText>>#stable:
-ConfigurationOfTxText>>#version2121:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50375
-ScriptLoader>>#update50376
-TxTextStyler>>#visitMessageNode:
-TxTextStyler>>#visitSelfNode:
+ConfigurationOfTxText.ConfigurationOfTxText>>#stable:
+ConfigurationOfTxText.ConfigurationOfTxText>>#version2121:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50375
+ScriptLoader50.ScriptLoader>>#update50376
+TxText-Styler.TxTextStyler>>#visitMessageNode:
+TxText-Styler.TxTextStyler>>#visitSelfNode:

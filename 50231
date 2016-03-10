@@ -1,19 +1,19 @@
-GlobalForTesting
-LinkWrapperGlobal>>#uninstall
-NECPreferences class>>#defaultPopupDelay
-NECPreferences class>>#defaultPopupShortcut
-NECPreferences class>>#defaultPopupShowAutomatic
-NECPreferences class>>#defaultSpaceAfterCompletion
-NECPreferences class>>#initialize
-ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
-ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
-ReflectivityControlTest>>#testAfterVariable
-ReflectivityControlTest>>#testBeforeVariable
-ReflectivityControlTest>>#testReplaceVariableReadGlobal
-ReflectivityExamples>>#exampleGlobalRead
-ReflectivityReificationTest>>#testReifyGlobalName
-ReflectivityReificationTest>>#testReifyGlobalValue
-ReflectivityReificationTest>>#testReifyGlobalVariable
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50230
-ScriptLoader>>#update50231
+NECompletion.NECPreferences class>>#defaultPopupDelay
+NECompletion.NECPreferences class>>#defaultPopupShortcut
+NECompletion.NECPreferences class>>#defaultPopupShowAutomatic
+NECompletion.NECPreferences class>>#defaultSpaceAfterCompletion
+NECompletion.NECPreferences class>>#initialize
+Reflectivity-Tests.GlobalForTesting
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
+Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterVariable
+Reflectivity-Tests.ReflectivityControlTest>>#testBeforeVariable
+Reflectivity-Tests.ReflectivityControlTest>>#testReplaceVariableReadGlobal
+Reflectivity-Tests.ReflectivityExamples>>#exampleGlobalRead
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyGlobalName
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyGlobalValue
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyGlobalVariable
+Reflectivity.LinkWrapperGlobal>>#uninstall
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50230
+ScriptLoader50.ScriptLoader>>#update50231

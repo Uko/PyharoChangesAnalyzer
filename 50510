@@ -1,33 +1,33 @@
-GTInspectorHelp
-GTInspectorHelp class>>#bookName
-GTInspectorHelp class>>#contact
-GTInspectorHelp class>>#overview
-GTInspectorHelp class>>#pages
-GTInspectorHelp class>>#roassal
-GTInspectorHelp class>>#table
-ImportingResourceHelp class>>#importingIcon
-MetacelloPharo30Platform
-MetacelloPharo30Platform class>>#initialize
-MetacelloPharo30Platform>>#compiler
-MetacelloPharo30Platform>>#defaultDirectory
-MetacelloPharo30Platform>>#defaultRepositoryDescription
-MetacelloPharo30Platform>>#directoryFromPath:relativeTo:
-MetacelloPharo30Platform>>#downloadJSON:username:pass:
-MetacelloPharo30Platform>>#downloadZipArchive:to:
-MetacelloPharo30Platform>>#ensureDirectoryExists:
-MetacelloPharo30Platform>>#extractRepositoryFrom:to:
-MetacelloPharo30Platform>>#fileDirectoryClass
-MetacelloPharo30Platform>>#fileFromPath:relativeTo:
-MetacelloPharo30Platform>>#fileHandleOn:
-MetacelloPharo30Platform>>#newVersionForWorkingCopy:
-MetacelloPharo30Platform>>#packageInfoFor:
-MetacelloPharo30Platform>>#parentDirectoryOf:
-MetacelloPharo30Platform>>#readStreamOn:do:
-MetacelloPharo30Platform>>#recursiveDelete:
-MetacelloPharo30Platform>>#registerPackageNamed:
-MetacelloPharo30Platform>>#string:includesSubstring:
-MetacelloPharo30Platform>>#suspendSystemUpdateEventsDuring:
-MetacelloPharo30Platform>>#tempFileFor:suffix:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50509
-ScriptLoader>>#update50510
+GTInspector-Help.GTInspectorHelp
+GTInspector-Help.GTInspectorHelp class>>#bookName
+GTInspector-Help.GTInspectorHelp class>>#contact
+GTInspector-Help.GTInspectorHelp class>>#overview
+GTInspector-Help.GTInspectorHelp class>>#pages
+GTInspector-Help.GTInspectorHelp class>>#roassal
+GTInspector-Help.GTInspectorHelp class>>#table
+ImportingResource-Help.ImportingResourceHelp class>>#importingIcon
+Metacello-Platform.pharo30.MetacelloPharo30Platform
+Metacello-Platform.pharo30.MetacelloPharo30Platform class>>#initialize
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#compiler
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#defaultDirectory
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#defaultRepositoryDescription
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#directoryFromPath:relativeTo:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#downloadJSON:username:pass:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#downloadZipArchive:to:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#ensureDirectoryExists:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#extractRepositoryFrom:to:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#fileDirectoryClass
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#fileFromPath:relativeTo:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#fileHandleOn:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#newVersionForWorkingCopy:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#packageInfoFor:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#parentDirectoryOf:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#readStreamOn:do:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#recursiveDelete:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#registerPackageNamed:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#string:includesSubstring:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#suspendSystemUpdateEventsDuring:
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#tempFileFor:suffix:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50509
+ScriptLoader50.ScriptLoader>>#update50510

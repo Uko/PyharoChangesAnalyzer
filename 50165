@@ -1,18 +1,18 @@
-ASTCache class>>#shutDown
-AbstractNautilusUI>>#dragPassengersFor:inMorph:
-AbstractNautilusUI>>#dragTransferTypeForMorph:
-AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph:
-AbstractWidget>>#dragTransferTypeForMorph:
-CompiledMethod>>#hasLinks
-CompiledMethod>>#reflectiveMethod
-DropListMorph>>#hideList
-DropListMorph>>#listMouseDown:
-PasteUpMorph
-PasteUpMorph class>>#shouldSwapMenuOpenerButtons
-PasteUpMorph class>>#shouldSwapMenuOpenerButtons:
-PasteUpMorph class>>#shouldSwapMenuOpenerButtonsSetting:
-PasteUpMorph>>#mouseDown:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50164
-ScriptLoader>>#update50165
-SmalltalkImage>>#metacelloPlatformAttributes
+AST-Core.ASTCache class>>#shutDown
+Morphic-Core.PasteUpMorph
+Morphic-Core.PasteUpMorph class>>#shouldSwapMenuOpenerButtons
+Morphic-Core.PasteUpMorph class>>#shouldSwapMenuOpenerButtons:
+Morphic-Core.PasteUpMorph class>>#shouldSwapMenuOpenerButtonsSetting:
+Morphic-Core.PasteUpMorph>>#mouseDown:
+Nautilus.AbstractNautilusUI>>#dragPassengersFor:inMorph:
+Nautilus.AbstractNautilusUI>>#dragTransferTypeForMorph:
+Nautilus.AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph:
+Nautilus.AbstractWidget>>#dragTransferTypeForMorph:
+Polymorph-Widgets.DropListMorph>>#hideList
+Polymorph-Widgets.DropListMorph>>#listMouseDown:
+Reflectivity.CompiledMethod>>#hasLinks
+Reflectivity.CompiledMethod>>#reflectiveMethod
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50164
+ScriptLoader50.ScriptLoader>>#update50165
+System-Support.SmalltalkImage>>#metacelloPlatformAttributes

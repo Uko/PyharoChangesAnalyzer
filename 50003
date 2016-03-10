@@ -1,5 +1,5 @@
-NumberParser class>>#isNumber:
-NumberParserTest>>#testIsNumber
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script611
-ScriptLoader>>#update50003
+AST-Core.NumberParser class>>#isNumber:
+AST-Tests-Core.NumberParserTest>>#testIsNumber
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script611
+ScriptLoader50.ScriptLoader>>#update50003

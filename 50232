@@ -1,277 +1,277 @@
-BIConfigurableFormatter
-BIConfigurableFormatter class>>#announceASettingChange
-BIConfigurableFormatter class>>#cascadedMessageInsideParentheses
-BIConfigurableFormatter class>>#cascadedMessageInsideParentheses:
-BIConfigurableFormatter class>>#format:
-BIConfigurableFormatter class>>#format:withIndents:
-BIConfigurableFormatter class>>#formatAsYouReadPolicy
-BIConfigurableFormatter class>>#formatAsYouReadPolicy:
-BIConfigurableFormatter class>>#formatCommentWithStatements
-BIConfigurableFormatter class>>#formatCommentWithStatements:
-BIConfigurableFormatter class>>#indentString
-BIConfigurableFormatter class>>#indentString:
-BIConfigurableFormatter class>>#indentsForKeywords
-BIConfigurableFormatter class>>#indentsForKeywords:
-BIConfigurableFormatter class>>#initialize
-BIConfigurableFormatter class>>#keepBlockInMessage
-BIConfigurableFormatter class>>#keepBlockInMessage:
-BIConfigurableFormatter class>>#lineUpBlockBrackets
-BIConfigurableFormatter class>>#lineUpBlockBrackets:
-BIConfigurableFormatter class>>#maxLineLength
-BIConfigurableFormatter class>>#maxLineLength:
-BIConfigurableFormatter class>>#methodSignatureOnMultipleLines
-BIConfigurableFormatter class>>#methodSignatureOnMultipleLines:
-BIConfigurableFormatter class>>#minimumNewLinesBetweenStatements
-BIConfigurableFormatter class>>#minimumNewLinesBetweenStatements:
-BIConfigurableFormatter class>>#multiLineMessages
-BIConfigurableFormatter class>>#multiLineMessages:
-BIConfigurableFormatter class>>#newLineAfterCascade
-BIConfigurableFormatter class>>#newLineAfterCascade:
-BIConfigurableFormatter class>>#newLineBeforeFirstCascade
-BIConfigurableFormatter class>>#newLineBeforeFirstCascade:
-BIConfigurableFormatter class>>#newLineBeforeFirstKeyword
-BIConfigurableFormatter class>>#newLineBeforeFirstKeyword:
-BIConfigurableFormatter class>>#newLinesAfterMethodComment
-BIConfigurableFormatter class>>#newLinesAfterMethodComment:
-BIConfigurableFormatter class>>#newLinesAfterMethodPattern
-BIConfigurableFormatter class>>#newLinesAfterMethodPattern:
-BIConfigurableFormatter class>>#newLinesAfterTemporaries
-BIConfigurableFormatter class>>#newLinesAfterTemporaries:
-BIConfigurableFormatter class>>#numberOfArgumentsForMultiLine
-BIConfigurableFormatter class>>#numberOfArgumentsForMultiLine:
-BIConfigurableFormatter class>>#oneLineMessages
-BIConfigurableFormatter class>>#oneLineMessages:
-BIConfigurableFormatter class>>#periodsAsTerminators
-BIConfigurableFormatter class>>#periodsAsTerminators:
-BIConfigurableFormatter class>>#periodsAtEndOfBlock
-BIConfigurableFormatter class>>#periodsAtEndOfBlock:
-BIConfigurableFormatter class>>#periodsAtEndOfMethod
-BIConfigurableFormatter class>>#periodsAtEndOfMethod:
-BIConfigurableFormatter class>>#retainBlankLinesBeforeComments
-BIConfigurableFormatter class>>#retainBlankLinesBeforeComments:
-BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements
-BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements:
-BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize
-BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize:
-BIConfigurableFormatter class>>#settingsOn:
-BIConfigurableFormatter class>>#stringFollowingReturn
-BIConfigurableFormatter class>>#stringFollowingReturn:
-BIConfigurableFormatter class>>#stringInsideBlocks
-BIConfigurableFormatter class>>#stringInsideBlocks:
-BIConfigurableFormatter class>>#stringInsideParentheses
-BIConfigurableFormatter class>>#stringInsideParentheses:
-BIConfigurableFormatter class>>#traditionalBinaryPrecedenceArray
-BIConfigurableFormatter class>>#traditionalBinaryPrecedenceArray:
-BIConfigurableFormatter class>>#useBasicCommentFormat
-BIConfigurableFormatter class>>#useBasicCommentFormat:
-BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses
-BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses:
-BIConfigurableFormatter>>#addNewLinesBeforeStatementStartingAt:
-BIConfigurableFormatter>>#basicFormatCommentFor:
-BIConfigurableFormatter>>#bracketWith:around:
-BIConfigurableFormatter>>#cascadedMessageInsideParentheses
-BIConfigurableFormatter>>#cascadedMessageInsideParentheses:
-BIConfigurableFormatter>>#characterSeparatorMethodSignatureFor:
-BIConfigurableFormatter>>#codeStream
-BIConfigurableFormatter>>#codeStream:
-BIConfigurableFormatter>>#containerWidth:
-BIConfigurableFormatter>>#currentLineLength
-BIConfigurableFormatter>>#format:
-BIConfigurableFormatter>>#formatArray:
-BIConfigurableFormatter>>#formatBlock:
-BIConfigurableFormatter>>#formatBlockArgumentsFor:
-BIConfigurableFormatter>>#formatCommentWithStatements
-BIConfigurableFormatter>>#formatCommentWithStatements:
-BIConfigurableFormatter>>#formatCommentsFor:
-BIConfigurableFormatter>>#formatMessageNodeInAMessageStreamFor:
-BIConfigurableFormatter>>#formatMethodBodyFor:
-BIConfigurableFormatter>>#formatMethodCommentFor:
-BIConfigurableFormatter>>#formatMethodPatternFor:
-BIConfigurableFormatter>>#formatPragmasFor:
-BIConfigurableFormatter>>#formatSelectorAndArguments:
-BIConfigurableFormatter>>#formatSelectorAndArguments:firstSeparator:restSeparator:
-BIConfigurableFormatter>>#formatSequenceNodeStatementsFor:
-BIConfigurableFormatter>>#formatStatementCommentsFor:
-BIConfigurableFormatter>>#formatTemporariesFor:
-BIConfigurableFormatter>>#formattedSourceFor:
-BIConfigurableFormatter>>#handleLineForArgument:
-BIConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
-BIConfigurableFormatter>>#hasAMultiLineMessageArgument:
-BIConfigurableFormatter>>#indent
-BIConfigurableFormatter>>#indent:
-BIConfigurableFormatter>>#indent:around:
-BIConfigurableFormatter>>#indentAround:
-BIConfigurableFormatter>>#indentString
-BIConfigurableFormatter>>#indentString:
-BIConfigurableFormatter>>#indentsForKeywords
-BIConfigurableFormatter>>#indentsForKeywords:
-BIConfigurableFormatter>>#initialize
-BIConfigurableFormatter>>#installNewContext:
-BIConfigurableFormatter>>#installNewValueInContext:
-BIConfigurableFormatter>>#isInCascadeNode
-BIConfigurableFormatter>>#isInCascadeNode:
-BIConfigurableFormatter>>#isLineTooLong:
-BIConfigurableFormatter>>#isMultiLineMessage:
-BIConfigurableFormatter>>#keepBlockInMessage
-BIConfigurableFormatter>>#keepBlockInMessage:
-BIConfigurableFormatter>>#lineStart
-BIConfigurableFormatter>>#lineStart:
-BIConfigurableFormatter>>#lineUpBlockBrackets
-BIConfigurableFormatter>>#lineUpBlockBrackets:
-BIConfigurableFormatter>>#maxLineLength
-BIConfigurableFormatter>>#maxLineLength:
-BIConfigurableFormatter>>#methodSignatureOnMultipleLines
-BIConfigurableFormatter>>#methodSignatureOnMultipleLines:
-BIConfigurableFormatter>>#minimumNewLinesBetweenStatements
-BIConfigurableFormatter>>#minimumNewLinesBetweenStatements:
-BIConfigurableFormatter>>#multiLineMessages
-BIConfigurableFormatter>>#multiLineMessages:
-BIConfigurableFormatter>>#needsMethodSignatureOnMultipleLinesFor:
-BIConfigurableFormatter>>#needsParenthesisFor:
-BIConfigurableFormatter>>#newLine
-BIConfigurableFormatter>>#newLineAfterCascade
-BIConfigurableFormatter>>#newLineAfterCascade:
-BIConfigurableFormatter>>#newLineBeforeFirstCascade
-BIConfigurableFormatter>>#newLineBeforeFirstCascade:
-BIConfigurableFormatter>>#newLineBeforeFirstKeyword
-BIConfigurableFormatter>>#newLineBeforeFirstKeyword:
-BIConfigurableFormatter>>#newLines:
-BIConfigurableFormatter>>#newLinesAfterMethodComment
-BIConfigurableFormatter>>#newLinesAfterMethodComment:
-BIConfigurableFormatter>>#newLinesAfterMethodPattern
-BIConfigurableFormatter>>#newLinesAfterMethodPattern:
-BIConfigurableFormatter>>#newLinesAfterTemporaries
-BIConfigurableFormatter>>#newLinesAfterTemporaries:
-BIConfigurableFormatter>>#newLinesBeforeStartingAt:
-BIConfigurableFormatter>>#numberOfArgumentsForMultiLine
-BIConfigurableFormatter>>#numberOfArgumentsForMultiLine:
-BIConfigurableFormatter>>#oneLineMessages
-BIConfigurableFormatter>>#oneLineMessages:
-BIConfigurableFormatter>>#periodsAsTerminators
-BIConfigurableFormatter>>#periodsAsTerminators:
-BIConfigurableFormatter>>#periodsAtEndOfBlock
-BIConfigurableFormatter>>#periodsAtEndOfBlock:
-BIConfigurableFormatter>>#periodsAtEndOfMethod
-BIConfigurableFormatter>>#periodsAtEndOfMethod:
-BIConfigurableFormatter>>#precedenceOf:greaterThan:
-BIConfigurableFormatter>>#privateFormatMethodPatternMonoLineFor:
-BIConfigurableFormatter>>#privateFormatMethodPatternMultiLineFor:
-BIConfigurableFormatter>>#resizeComment:withFirstLineShorterOf:
-BIConfigurableFormatter>>#resizeCommentFor:startingAt:
-BIConfigurableFormatter>>#resizeStringDependingOnWindowSizeFor:
-BIConfigurableFormatter>>#retainBlankLinesBeforeComments
-BIConfigurableFormatter>>#retainBlankLinesBeforeComments:
-BIConfigurableFormatter>>#retainBlankLinesBetweenStatements
-BIConfigurableFormatter>>#retainBlankLinesBetweenStatements:
-BIConfigurableFormatter>>#selectorAndArgumentCombinedMaxSize
-BIConfigurableFormatter>>#selectorAndArgumentCombinedMaxSize:
-BIConfigurableFormatter>>#space
-BIConfigurableFormatter>>#stringFollowingReturn
-BIConfigurableFormatter>>#stringFollowingReturn:
-BIConfigurableFormatter>>#stringInsideBlocks
-BIConfigurableFormatter>>#stringInsideBlocks:
-BIConfigurableFormatter>>#stringInsideParentheses
-BIConfigurableFormatter>>#stringInsideParentheses:
-BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray
-BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray:
-BIConfigurableFormatter>>#useBasicCommentFormat
-BIConfigurableFormatter>>#useBasicCommentFormat:
-BIConfigurableFormatter>>#useTraditionalBinaryPrecedenceForParentheses
-BIConfigurableFormatter>>#useTraditionalBinaryPrecedenceForParentheses:
-BIConfigurableFormatter>>#visitArrayNode:
-BIConfigurableFormatter>>#visitAssignmentNode:
-BIConfigurableFormatter>>#visitBlockNode:
-BIConfigurableFormatter>>#visitCascadeNode:
-BIConfigurableFormatter>>#visitLiteralArrayNode:
-BIConfigurableFormatter>>#visitLiteralNode:
-BIConfigurableFormatter>>#visitMessageNode:
-BIConfigurableFormatter>>#visitMethodNode:
-BIConfigurableFormatter>>#visitNode:
-BIConfigurableFormatter>>#visitPatternBlockNode:
-BIConfigurableFormatter>>#visitPatternWrapperBlockNode:
-BIConfigurableFormatter>>#visitPragmaNode:
-BIConfigurableFormatter>>#visitReturnNode:
-BIConfigurableFormatter>>#visitSequenceNode:
-BIConfigurableFormatter>>#visitVariableNode:
-BIConfigurableFormatter>>#willBeMultiline:
-BIConfigurableFormatter>>#with:and:do:separatedBy:
-BIConfigurableFormatter>>#writeString:
-BIConfigurableFormatterFormattingTest>>#formatterClass
-BIFormatSettingsExample
-BIFormatSettingsExample>>#cascadedMessageInsideParenthesesExample
-BIFormatSettingsExample>>#keepBlockInMessageExample
-BIFormatSettingsExample>>#lineUpBlockBracketsExample
-BIFormatSettingsExample>>#newLineAfterCascadeExample
-BIFormatSettingsExample>>#newLineBeforeFirstCascadeExample
-BIFormatSettingsExample>>#newLineBeforeFirstKeywordExample
-BIPrettyPrinterContext
-BIPrettyPrinterContext>>#cascadedMessageInsideParentheses
-BIPrettyPrinterContext>>#cascadedMessageInsideParentheses:
-BIPrettyPrinterContext>>#formatCommentWithStatements
-BIPrettyPrinterContext>>#formatCommentWithStatements:
-BIPrettyPrinterContext>>#indentString
-BIPrettyPrinterContext>>#indentString:
-BIPrettyPrinterContext>>#indentsForKeywords
-BIPrettyPrinterContext>>#indentsForKeywords:
-BIPrettyPrinterContext>>#initialize
-BIPrettyPrinterContext>>#keepBlockInMessage
-BIPrettyPrinterContext>>#keepBlockInMessage:
-BIPrettyPrinterContext>>#lineUpBlockBrackets
-BIPrettyPrinterContext>>#lineUpBlockBrackets:
-BIPrettyPrinterContext>>#maxLineLength
-BIPrettyPrinterContext>>#maxLineLength:
-BIPrettyPrinterContext>>#methodSignatureOnMultipleLines
-BIPrettyPrinterContext>>#methodSignatureOnMultipleLines:
-BIPrettyPrinterContext>>#minimumNewLinesBetweenStatements
-BIPrettyPrinterContext>>#minimumNewLinesBetweenStatements:
-BIPrettyPrinterContext>>#multiLineMessages
-BIPrettyPrinterContext>>#multiLineMessages:
-BIPrettyPrinterContext>>#newLineAfterCascade
-BIPrettyPrinterContext>>#newLineAfterCascade:
-BIPrettyPrinterContext>>#newLineBeforeFirstCascade
-BIPrettyPrinterContext>>#newLineBeforeFirstCascade:
-BIPrettyPrinterContext>>#newLineBeforeFirstKeyword
-BIPrettyPrinterContext>>#newLineBeforeFirstKeyword:
-BIPrettyPrinterContext>>#newLinesAfterMethodComment
-BIPrettyPrinterContext>>#newLinesAfterMethodComment:
-BIPrettyPrinterContext>>#newLinesAfterMethodPattern
-BIPrettyPrinterContext>>#newLinesAfterMethodPattern:
-BIPrettyPrinterContext>>#newLinesAfterTemporaries
-BIPrettyPrinterContext>>#newLinesAfterTemporaries:
-BIPrettyPrinterContext>>#numberOfArgumentsForMultiLine
-BIPrettyPrinterContext>>#numberOfArgumentsForMultiLine:
-BIPrettyPrinterContext>>#oneLineMessages
-BIPrettyPrinterContext>>#oneLineMessages:
-BIPrettyPrinterContext>>#periodsAtEndOfBlock
-BIPrettyPrinterContext>>#periodsAtEndOfBlock:
-BIPrettyPrinterContext>>#periodsAtEndOfMethod
-BIPrettyPrinterContext>>#periodsAtEndOfMethod:
-BIPrettyPrinterContext>>#retainBlankLinesBeforeComments
-BIPrettyPrinterContext>>#retainBlankLinesBeforeComments:
-BIPrettyPrinterContext>>#retainBlankLinesBetweenStatements
-BIPrettyPrinterContext>>#retainBlankLinesBetweenStatements:
-BIPrettyPrinterContext>>#selectorAndArgumentCombinedMaxSize
-BIPrettyPrinterContext>>#selectorAndArgumentCombinedMaxSize:
-BIPrettyPrinterContext>>#stringFollowingReturn
-BIPrettyPrinterContext>>#stringFollowingReturn:
-BIPrettyPrinterContext>>#stringInsideBlocks
-BIPrettyPrinterContext>>#stringInsideBlocks:
-BIPrettyPrinterContext>>#stringInsideParentheses
-BIPrettyPrinterContext>>#stringInsideParentheses:
-BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray
-BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray:
-BIPrettyPrinterContext>>#useBasicCommentFormat
-BIPrettyPrinterContext>>#useBasicCommentFormat:
-BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParentheses
-BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParentheses:
-BISettingsChanged
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version118:
-RPackage>>#renameTo:
-RubNullGetMenuPolicy
-RubNullGetMenuPolicy>>#lookupMenu
-RubNullGetMenuPolicy>>#lookupShiftMenu
-RubSmalltalkEditor>>#browseClassFrom:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50231
-ScriptLoader>>#update50232
+AST-Core.BIConfigurableFormatter
+AST-Core.BIConfigurableFormatter class>>#announceASettingChange
+AST-Core.BIConfigurableFormatter class>>#cascadedMessageInsideParentheses
+AST-Core.BIConfigurableFormatter class>>#cascadedMessageInsideParentheses:
+AST-Core.BIConfigurableFormatter class>>#format:
+AST-Core.BIConfigurableFormatter class>>#format:withIndents:
+AST-Core.BIConfigurableFormatter class>>#formatAsYouReadPolicy
+AST-Core.BIConfigurableFormatter class>>#formatAsYouReadPolicy:
+AST-Core.BIConfigurableFormatter class>>#formatCommentWithStatements
+AST-Core.BIConfigurableFormatter class>>#formatCommentWithStatements:
+AST-Core.BIConfigurableFormatter class>>#indentString
+AST-Core.BIConfigurableFormatter class>>#indentString:
+AST-Core.BIConfigurableFormatter class>>#indentsForKeywords
+AST-Core.BIConfigurableFormatter class>>#indentsForKeywords:
+AST-Core.BIConfigurableFormatter class>>#initialize
+AST-Core.BIConfigurableFormatter class>>#keepBlockInMessage
+AST-Core.BIConfigurableFormatter class>>#keepBlockInMessage:
+AST-Core.BIConfigurableFormatter class>>#lineUpBlockBrackets
+AST-Core.BIConfigurableFormatter class>>#lineUpBlockBrackets:
+AST-Core.BIConfigurableFormatter class>>#maxLineLength
+AST-Core.BIConfigurableFormatter class>>#maxLineLength:
+AST-Core.BIConfigurableFormatter class>>#methodSignatureOnMultipleLines
+AST-Core.BIConfigurableFormatter class>>#methodSignatureOnMultipleLines:
+AST-Core.BIConfigurableFormatter class>>#minimumNewLinesBetweenStatements
+AST-Core.BIConfigurableFormatter class>>#minimumNewLinesBetweenStatements:
+AST-Core.BIConfigurableFormatter class>>#multiLineMessages
+AST-Core.BIConfigurableFormatter class>>#multiLineMessages:
+AST-Core.BIConfigurableFormatter class>>#newLineAfterCascade
+AST-Core.BIConfigurableFormatter class>>#newLineAfterCascade:
+AST-Core.BIConfigurableFormatter class>>#newLineBeforeFirstCascade
+AST-Core.BIConfigurableFormatter class>>#newLineBeforeFirstCascade:
+AST-Core.BIConfigurableFormatter class>>#newLineBeforeFirstKeyword
+AST-Core.BIConfigurableFormatter class>>#newLineBeforeFirstKeyword:
+AST-Core.BIConfigurableFormatter class>>#newLinesAfterMethodComment
+AST-Core.BIConfigurableFormatter class>>#newLinesAfterMethodComment:
+AST-Core.BIConfigurableFormatter class>>#newLinesAfterMethodPattern
+AST-Core.BIConfigurableFormatter class>>#newLinesAfterMethodPattern:
+AST-Core.BIConfigurableFormatter class>>#newLinesAfterTemporaries
+AST-Core.BIConfigurableFormatter class>>#newLinesAfterTemporaries:
+AST-Core.BIConfigurableFormatter class>>#numberOfArgumentsForMultiLine
+AST-Core.BIConfigurableFormatter class>>#numberOfArgumentsForMultiLine:
+AST-Core.BIConfigurableFormatter class>>#oneLineMessages
+AST-Core.BIConfigurableFormatter class>>#oneLineMessages:
+AST-Core.BIConfigurableFormatter class>>#periodsAsTerminators
+AST-Core.BIConfigurableFormatter class>>#periodsAsTerminators:
+AST-Core.BIConfigurableFormatter class>>#periodsAtEndOfBlock
+AST-Core.BIConfigurableFormatter class>>#periodsAtEndOfBlock:
+AST-Core.BIConfigurableFormatter class>>#periodsAtEndOfMethod
+AST-Core.BIConfigurableFormatter class>>#periodsAtEndOfMethod:
+AST-Core.BIConfigurableFormatter class>>#retainBlankLinesBeforeComments
+AST-Core.BIConfigurableFormatter class>>#retainBlankLinesBeforeComments:
+AST-Core.BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements
+AST-Core.BIConfigurableFormatter class>>#retainBlankLinesBetweenStatements:
+AST-Core.BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize
+AST-Core.BIConfigurableFormatter class>>#selectorAndArgumentCombinedMaxSize:
+AST-Core.BIConfigurableFormatter class>>#settingsOn:
+AST-Core.BIConfigurableFormatter class>>#stringFollowingReturn
+AST-Core.BIConfigurableFormatter class>>#stringFollowingReturn:
+AST-Core.BIConfigurableFormatter class>>#stringInsideBlocks
+AST-Core.BIConfigurableFormatter class>>#stringInsideBlocks:
+AST-Core.BIConfigurableFormatter class>>#stringInsideParentheses
+AST-Core.BIConfigurableFormatter class>>#stringInsideParentheses:
+AST-Core.BIConfigurableFormatter class>>#traditionalBinaryPrecedenceArray
+AST-Core.BIConfigurableFormatter class>>#traditionalBinaryPrecedenceArray:
+AST-Core.BIConfigurableFormatter class>>#useBasicCommentFormat
+AST-Core.BIConfigurableFormatter class>>#useBasicCommentFormat:
+AST-Core.BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses
+AST-Core.BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses:
+AST-Core.BIConfigurableFormatter>>#addNewLinesBeforeStatementStartingAt:
+AST-Core.BIConfigurableFormatter>>#basicFormatCommentFor:
+AST-Core.BIConfigurableFormatter>>#bracketWith:around:
+AST-Core.BIConfigurableFormatter>>#cascadedMessageInsideParentheses
+AST-Core.BIConfigurableFormatter>>#cascadedMessageInsideParentheses:
+AST-Core.BIConfigurableFormatter>>#characterSeparatorMethodSignatureFor:
+AST-Core.BIConfigurableFormatter>>#codeStream
+AST-Core.BIConfigurableFormatter>>#codeStream:
+AST-Core.BIConfigurableFormatter>>#containerWidth:
+AST-Core.BIConfigurableFormatter>>#currentLineLength
+AST-Core.BIConfigurableFormatter>>#format:
+AST-Core.BIConfigurableFormatter>>#formatArray:
+AST-Core.BIConfigurableFormatter>>#formatBlock:
+AST-Core.BIConfigurableFormatter>>#formatBlockArgumentsFor:
+AST-Core.BIConfigurableFormatter>>#formatCommentWithStatements
+AST-Core.BIConfigurableFormatter>>#formatCommentWithStatements:
+AST-Core.BIConfigurableFormatter>>#formatCommentsFor:
+AST-Core.BIConfigurableFormatter>>#formatMessageNodeInAMessageStreamFor:
+AST-Core.BIConfigurableFormatter>>#formatMethodBodyFor:
+AST-Core.BIConfigurableFormatter>>#formatMethodCommentFor:
+AST-Core.BIConfigurableFormatter>>#formatMethodPatternFor:
+AST-Core.BIConfigurableFormatter>>#formatPragmasFor:
+AST-Core.BIConfigurableFormatter>>#formatSelectorAndArguments:
+AST-Core.BIConfigurableFormatter>>#formatSelectorAndArguments:firstSeparator:restSeparator:
+AST-Core.BIConfigurableFormatter>>#formatSequenceNodeStatementsFor:
+AST-Core.BIConfigurableFormatter>>#formatStatementCommentsFor:
+AST-Core.BIConfigurableFormatter>>#formatTemporariesFor:
+AST-Core.BIConfigurableFormatter>>#formattedSourceFor:
+AST-Core.BIConfigurableFormatter>>#handleLineForArgument:
+AST-Core.BIConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
+AST-Core.BIConfigurableFormatter>>#hasAMultiLineMessageArgument:
+AST-Core.BIConfigurableFormatter>>#indent
+AST-Core.BIConfigurableFormatter>>#indent:
+AST-Core.BIConfigurableFormatter>>#indent:around:
+AST-Core.BIConfigurableFormatter>>#indentAround:
+AST-Core.BIConfigurableFormatter>>#indentString
+AST-Core.BIConfigurableFormatter>>#indentString:
+AST-Core.BIConfigurableFormatter>>#indentsForKeywords
+AST-Core.BIConfigurableFormatter>>#indentsForKeywords:
+AST-Core.BIConfigurableFormatter>>#initialize
+AST-Core.BIConfigurableFormatter>>#installNewContext:
+AST-Core.BIConfigurableFormatter>>#installNewValueInContext:
+AST-Core.BIConfigurableFormatter>>#isInCascadeNode
+AST-Core.BIConfigurableFormatter>>#isInCascadeNode:
+AST-Core.BIConfigurableFormatter>>#isLineTooLong:
+AST-Core.BIConfigurableFormatter>>#isMultiLineMessage:
+AST-Core.BIConfigurableFormatter>>#keepBlockInMessage
+AST-Core.BIConfigurableFormatter>>#keepBlockInMessage:
+AST-Core.BIConfigurableFormatter>>#lineStart
+AST-Core.BIConfigurableFormatter>>#lineStart:
+AST-Core.BIConfigurableFormatter>>#lineUpBlockBrackets
+AST-Core.BIConfigurableFormatter>>#lineUpBlockBrackets:
+AST-Core.BIConfigurableFormatter>>#maxLineLength
+AST-Core.BIConfigurableFormatter>>#maxLineLength:
+AST-Core.BIConfigurableFormatter>>#methodSignatureOnMultipleLines
+AST-Core.BIConfigurableFormatter>>#methodSignatureOnMultipleLines:
+AST-Core.BIConfigurableFormatter>>#minimumNewLinesBetweenStatements
+AST-Core.BIConfigurableFormatter>>#minimumNewLinesBetweenStatements:
+AST-Core.BIConfigurableFormatter>>#multiLineMessages
+AST-Core.BIConfigurableFormatter>>#multiLineMessages:
+AST-Core.BIConfigurableFormatter>>#needsMethodSignatureOnMultipleLinesFor:
+AST-Core.BIConfigurableFormatter>>#needsParenthesisFor:
+AST-Core.BIConfigurableFormatter>>#newLine
+AST-Core.BIConfigurableFormatter>>#newLineAfterCascade
+AST-Core.BIConfigurableFormatter>>#newLineAfterCascade:
+AST-Core.BIConfigurableFormatter>>#newLineBeforeFirstCascade
+AST-Core.BIConfigurableFormatter>>#newLineBeforeFirstCascade:
+AST-Core.BIConfigurableFormatter>>#newLineBeforeFirstKeyword
+AST-Core.BIConfigurableFormatter>>#newLineBeforeFirstKeyword:
+AST-Core.BIConfigurableFormatter>>#newLines:
+AST-Core.BIConfigurableFormatter>>#newLinesAfterMethodComment
+AST-Core.BIConfigurableFormatter>>#newLinesAfterMethodComment:
+AST-Core.BIConfigurableFormatter>>#newLinesAfterMethodPattern
+AST-Core.BIConfigurableFormatter>>#newLinesAfterMethodPattern:
+AST-Core.BIConfigurableFormatter>>#newLinesAfterTemporaries
+AST-Core.BIConfigurableFormatter>>#newLinesAfterTemporaries:
+AST-Core.BIConfigurableFormatter>>#newLinesBeforeStartingAt:
+AST-Core.BIConfigurableFormatter>>#numberOfArgumentsForMultiLine
+AST-Core.BIConfigurableFormatter>>#numberOfArgumentsForMultiLine:
+AST-Core.BIConfigurableFormatter>>#oneLineMessages
+AST-Core.BIConfigurableFormatter>>#oneLineMessages:
+AST-Core.BIConfigurableFormatter>>#periodsAsTerminators
+AST-Core.BIConfigurableFormatter>>#periodsAsTerminators:
+AST-Core.BIConfigurableFormatter>>#periodsAtEndOfBlock
+AST-Core.BIConfigurableFormatter>>#periodsAtEndOfBlock:
+AST-Core.BIConfigurableFormatter>>#periodsAtEndOfMethod
+AST-Core.BIConfigurableFormatter>>#periodsAtEndOfMethod:
+AST-Core.BIConfigurableFormatter>>#precedenceOf:greaterThan:
+AST-Core.BIConfigurableFormatter>>#privateFormatMethodPatternMonoLineFor:
+AST-Core.BIConfigurableFormatter>>#privateFormatMethodPatternMultiLineFor:
+AST-Core.BIConfigurableFormatter>>#resizeComment:withFirstLineShorterOf:
+AST-Core.BIConfigurableFormatter>>#resizeCommentFor:startingAt:
+AST-Core.BIConfigurableFormatter>>#resizeStringDependingOnWindowSizeFor:
+AST-Core.BIConfigurableFormatter>>#retainBlankLinesBeforeComments
+AST-Core.BIConfigurableFormatter>>#retainBlankLinesBeforeComments:
+AST-Core.BIConfigurableFormatter>>#retainBlankLinesBetweenStatements
+AST-Core.BIConfigurableFormatter>>#retainBlankLinesBetweenStatements:
+AST-Core.BIConfigurableFormatter>>#selectorAndArgumentCombinedMaxSize
+AST-Core.BIConfigurableFormatter>>#selectorAndArgumentCombinedMaxSize:
+AST-Core.BIConfigurableFormatter>>#space
+AST-Core.BIConfigurableFormatter>>#stringFollowingReturn
+AST-Core.BIConfigurableFormatter>>#stringFollowingReturn:
+AST-Core.BIConfigurableFormatter>>#stringInsideBlocks
+AST-Core.BIConfigurableFormatter>>#stringInsideBlocks:
+AST-Core.BIConfigurableFormatter>>#stringInsideParentheses
+AST-Core.BIConfigurableFormatter>>#stringInsideParentheses:
+AST-Core.BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray
+AST-Core.BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray:
+AST-Core.BIConfigurableFormatter>>#useBasicCommentFormat
+AST-Core.BIConfigurableFormatter>>#useBasicCommentFormat:
+AST-Core.BIConfigurableFormatter>>#useTraditionalBinaryPrecedenceForParentheses
+AST-Core.BIConfigurableFormatter>>#useTraditionalBinaryPrecedenceForParentheses:
+AST-Core.BIConfigurableFormatter>>#visitArrayNode:
+AST-Core.BIConfigurableFormatter>>#visitAssignmentNode:
+AST-Core.BIConfigurableFormatter>>#visitBlockNode:
+AST-Core.BIConfigurableFormatter>>#visitCascadeNode:
+AST-Core.BIConfigurableFormatter>>#visitLiteralArrayNode:
+AST-Core.BIConfigurableFormatter>>#visitLiteralNode:
+AST-Core.BIConfigurableFormatter>>#visitMessageNode:
+AST-Core.BIConfigurableFormatter>>#visitMethodNode:
+AST-Core.BIConfigurableFormatter>>#visitNode:
+AST-Core.BIConfigurableFormatter>>#visitPatternBlockNode:
+AST-Core.BIConfigurableFormatter>>#visitPatternWrapperBlockNode:
+AST-Core.BIConfigurableFormatter>>#visitPragmaNode:
+AST-Core.BIConfigurableFormatter>>#visitReturnNode:
+AST-Core.BIConfigurableFormatter>>#visitSequenceNode:
+AST-Core.BIConfigurableFormatter>>#visitVariableNode:
+AST-Core.BIConfigurableFormatter>>#willBeMultiline:
+AST-Core.BIConfigurableFormatter>>#with:and:do:separatedBy:
+AST-Core.BIConfigurableFormatter>>#writeString:
+AST-Core.BIFormatSettingsExample
+AST-Core.BIFormatSettingsExample>>#cascadedMessageInsideParenthesesExample
+AST-Core.BIFormatSettingsExample>>#keepBlockInMessageExample
+AST-Core.BIFormatSettingsExample>>#lineUpBlockBracketsExample
+AST-Core.BIFormatSettingsExample>>#newLineAfterCascadeExample
+AST-Core.BIFormatSettingsExample>>#newLineBeforeFirstCascadeExample
+AST-Core.BIFormatSettingsExample>>#newLineBeforeFirstKeywordExample
+AST-Core.BIPrettyPrinterContext
+AST-Core.BIPrettyPrinterContext>>#cascadedMessageInsideParentheses
+AST-Core.BIPrettyPrinterContext>>#cascadedMessageInsideParentheses:
+AST-Core.BIPrettyPrinterContext>>#formatCommentWithStatements
+AST-Core.BIPrettyPrinterContext>>#formatCommentWithStatements:
+AST-Core.BIPrettyPrinterContext>>#indentString
+AST-Core.BIPrettyPrinterContext>>#indentString:
+AST-Core.BIPrettyPrinterContext>>#indentsForKeywords
+AST-Core.BIPrettyPrinterContext>>#indentsForKeywords:
+AST-Core.BIPrettyPrinterContext>>#initialize
+AST-Core.BIPrettyPrinterContext>>#keepBlockInMessage
+AST-Core.BIPrettyPrinterContext>>#keepBlockInMessage:
+AST-Core.BIPrettyPrinterContext>>#lineUpBlockBrackets
+AST-Core.BIPrettyPrinterContext>>#lineUpBlockBrackets:
+AST-Core.BIPrettyPrinterContext>>#maxLineLength
+AST-Core.BIPrettyPrinterContext>>#maxLineLength:
+AST-Core.BIPrettyPrinterContext>>#methodSignatureOnMultipleLines
+AST-Core.BIPrettyPrinterContext>>#methodSignatureOnMultipleLines:
+AST-Core.BIPrettyPrinterContext>>#minimumNewLinesBetweenStatements
+AST-Core.BIPrettyPrinterContext>>#minimumNewLinesBetweenStatements:
+AST-Core.BIPrettyPrinterContext>>#multiLineMessages
+AST-Core.BIPrettyPrinterContext>>#multiLineMessages:
+AST-Core.BIPrettyPrinterContext>>#newLineAfterCascade
+AST-Core.BIPrettyPrinterContext>>#newLineAfterCascade:
+AST-Core.BIPrettyPrinterContext>>#newLineBeforeFirstCascade
+AST-Core.BIPrettyPrinterContext>>#newLineBeforeFirstCascade:
+AST-Core.BIPrettyPrinterContext>>#newLineBeforeFirstKeyword
+AST-Core.BIPrettyPrinterContext>>#newLineBeforeFirstKeyword:
+AST-Core.BIPrettyPrinterContext>>#newLinesAfterMethodComment
+AST-Core.BIPrettyPrinterContext>>#newLinesAfterMethodComment:
+AST-Core.BIPrettyPrinterContext>>#newLinesAfterMethodPattern
+AST-Core.BIPrettyPrinterContext>>#newLinesAfterMethodPattern:
+AST-Core.BIPrettyPrinterContext>>#newLinesAfterTemporaries
+AST-Core.BIPrettyPrinterContext>>#newLinesAfterTemporaries:
+AST-Core.BIPrettyPrinterContext>>#numberOfArgumentsForMultiLine
+AST-Core.BIPrettyPrinterContext>>#numberOfArgumentsForMultiLine:
+AST-Core.BIPrettyPrinterContext>>#oneLineMessages
+AST-Core.BIPrettyPrinterContext>>#oneLineMessages:
+AST-Core.BIPrettyPrinterContext>>#periodsAtEndOfBlock
+AST-Core.BIPrettyPrinterContext>>#periodsAtEndOfBlock:
+AST-Core.BIPrettyPrinterContext>>#periodsAtEndOfMethod
+AST-Core.BIPrettyPrinterContext>>#periodsAtEndOfMethod:
+AST-Core.BIPrettyPrinterContext>>#retainBlankLinesBeforeComments
+AST-Core.BIPrettyPrinterContext>>#retainBlankLinesBeforeComments:
+AST-Core.BIPrettyPrinterContext>>#retainBlankLinesBetweenStatements
+AST-Core.BIPrettyPrinterContext>>#retainBlankLinesBetweenStatements:
+AST-Core.BIPrettyPrinterContext>>#selectorAndArgumentCombinedMaxSize
+AST-Core.BIPrettyPrinterContext>>#selectorAndArgumentCombinedMaxSize:
+AST-Core.BIPrettyPrinterContext>>#stringFollowingReturn
+AST-Core.BIPrettyPrinterContext>>#stringFollowingReturn:
+AST-Core.BIPrettyPrinterContext>>#stringInsideBlocks
+AST-Core.BIPrettyPrinterContext>>#stringInsideBlocks:
+AST-Core.BIPrettyPrinterContext>>#stringInsideParentheses
+AST-Core.BIPrettyPrinterContext>>#stringInsideParentheses:
+AST-Core.BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray
+AST-Core.BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray:
+AST-Core.BIPrettyPrinterContext>>#useBasicCommentFormat
+AST-Core.BIPrettyPrinterContext>>#useBasicCommentFormat:
+AST-Core.BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParentheses
+AST-Core.BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParentheses:
+AST-Core.BISettingsChanged
+BlueInk-Tests.BIConfigurableFormatterFormattingTest>>#formatterClass
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version118:
+RPackage-Core.RPackage>>#renameTo:
+Rubric.RubNullGetMenuPolicy
+Rubric.RubNullGetMenuPolicy>>#lookupMenu
+Rubric.RubNullGetMenuPolicy>>#lookupShiftMenu
+Rubric.RubSmalltalkEditor>>#browseClassFrom:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50231
+ScriptLoader50.ScriptLoader>>#update50232

@@ -1,32 +1,32 @@
-MenuItemMorph>>#countingMenu
-MenuItemMorph>>#deselectItem
-MenuItemMorph>>#insistMenu
-MenuItemMorph>>#invokeWithEvent:
-MenuItemMorph>>#isEnabled:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50520
-ScriptLoader>>#update50521
-ShortcutReminderMorph
-ShortcutReminderMorph class>>#countingMenu
-ShortcutReminderMorph class>>#enableShortcutReminder
-ShortcutReminderMorph class>>#enableShortcutReminder:
-ShortcutReminderMorph class>>#initialize
-ShortcutReminderMorph class>>#settingsOn:
-ShortcutReminderMorph class>>#startUp:
-ShortcutReminderMorph class>>#timesShortcutReminder
-ShortcutReminderMorph class>>#timesShortcutReminder:
-ShortcutReminderMorph class>>#with:
-ShortcutReminderMorph>>#alpha
-ShortcutReminderMorph>>#alpha:
-ShortcutReminderMorph>>#countingMenu
-ShortcutReminderMorph>>#initialize
-ShortcutReminderMorph>>#resetAlpha
-ShortcutReminderMorph>>#step
-ShortcutReminderMorph>>#stepTime
-ShortcutReminderMorph>>#text:
-ShortcutReminderMorph>>#wantsSteps
-ToggleMenuItemMorph>>#drawKeyTextOn:
-ToggleMenuItemMorph>>#itemShortcut
-ToggleMenuItemShortcutWithSymbol>>#drawOn:
-ToggleMenuItemShortcutWithSymbol>>#text
-ToggleMenuItemShortcutWithText>>#text
+Morphic-Base.MenuItemMorph>>#countingMenu
+Morphic-Base.MenuItemMorph>>#deselectItem
+Morphic-Base.MenuItemMorph>>#insistMenu
+Morphic-Base.MenuItemMorph>>#invokeWithEvent:
+Morphic-Base.MenuItemMorph>>#isEnabled:
+Morphic-Base.ShortcutReminderMorph
+Morphic-Base.ShortcutReminderMorph class>>#countingMenu
+Morphic-Base.ShortcutReminderMorph class>>#enableShortcutReminder
+Morphic-Base.ShortcutReminderMorph class>>#enableShortcutReminder:
+Morphic-Base.ShortcutReminderMorph class>>#initialize
+Morphic-Base.ShortcutReminderMorph class>>#settingsOn:
+Morphic-Base.ShortcutReminderMorph class>>#startUp:
+Morphic-Base.ShortcutReminderMorph class>>#timesShortcutReminder
+Morphic-Base.ShortcutReminderMorph class>>#timesShortcutReminder:
+Morphic-Base.ShortcutReminderMorph class>>#with:
+Morphic-Base.ShortcutReminderMorph>>#alpha
+Morphic-Base.ShortcutReminderMorph>>#alpha:
+Morphic-Base.ShortcutReminderMorph>>#countingMenu
+Morphic-Base.ShortcutReminderMorph>>#initialize
+Morphic-Base.ShortcutReminderMorph>>#resetAlpha
+Morphic-Base.ShortcutReminderMorph>>#step
+Morphic-Base.ShortcutReminderMorph>>#stepTime
+Morphic-Base.ShortcutReminderMorph>>#text:
+Morphic-Base.ShortcutReminderMorph>>#wantsSteps
+Morphic-Base.ToggleMenuItemMorph>>#drawKeyTextOn:
+Morphic-Base.ToggleMenuItemMorph>>#itemShortcut
+Morphic-Base.ToggleMenuItemShortcutWithSymbol>>#drawOn:
+Morphic-Base.ToggleMenuItemShortcutWithSymbol>>#text
+Morphic-Base.ToggleMenuItemShortcutWithText>>#text
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50520
+ScriptLoader50.ScriptLoader>>#update50521

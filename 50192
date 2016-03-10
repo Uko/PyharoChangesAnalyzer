@@ -1,25 +1,25 @@
-CodeSearchingRule class>>#isVisible
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version116:
-MethodWidget>>#invalidateCacheEntryFor:
-OCASTClosureAnalyzer>>#changeVariableClass:
-RBGlobalNode
-RBGlobalNode>>#acceptVisitor:
-RBGlobalNode>>#isGlobal
-RBInstanceVariableNode
-RBInstanceVariableNode>>#acceptVisitor:
-RBInstanceVariableNode>>#isInstance
-RFReification>>#genForRBGlobalNode
-RFReification>>#genForRBInstanceVariableNode
-RubAbstractTextArea
-RubAbstractTextArea class>>#editorFont
-RubAbstractTextArea class>>#rubricSettingsOn:
-RubScrolledTextMorph>>#configureGhostText:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50191
-ScriptLoader>>#update50192
-SugsMenuBuilderTest>>#testFindBestNodeForClassItsRBVariable
-SugsMenuBuilderTest>>#testFindBestNodeForClassVarItsRBVariable
-SugsMenuBuilderTest>>#testFindBestNodeForInstanceVariableItsRBVariable
-TRBProgramNodeVisitor>>#visitGlobalNode:
-TRBProgramNodeVisitor>>#visitInstanceVariableNode:
+AST-Core.RBGlobalNode
+AST-Core.RBGlobalNode>>#acceptVisitor:
+AST-Core.RBGlobalNode>>#isGlobal
+AST-Core.RBInstanceVariableNode
+AST-Core.RBInstanceVariableNode>>#acceptVisitor:
+AST-Core.RBInstanceVariableNode>>#isInstance
+AST-Core.TRBProgramNodeVisitor>>#visitGlobalNode:
+AST-Core.TRBProgramNodeVisitor>>#visitInstanceVariableNode:
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version116:
+Nautilus.MethodWidget>>#invalidateCacheEntryFor:
+NautilusRefactoring.CodeSearchingRule class>>#isVisible
+OpalCompiler-Core.OCASTClosureAnalyzer>>#changeVariableClass:
+Reflectivity.RFReification>>#genForRBGlobalNode
+Reflectivity.RFReification>>#genForRBInstanceVariableNode
+Rubric.RubAbstractTextArea
+Rubric.RubAbstractTextArea class>>#editorFont
+Rubric.RubAbstractTextArea class>>#rubricSettingsOn:
+Rubric.RubScrolledTextMorph>>#configureGhostText:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50191
+ScriptLoader50.ScriptLoader>>#update50192
+SmartSuggestions-Tests.SugsMenuBuilderTest>>#testFindBestNodeForClassItsRBVariable
+SmartSuggestions-Tests.SugsMenuBuilderTest>>#testFindBestNodeForClassVarItsRBVariable
+SmartSuggestions-Tests.SugsMenuBuilderTest>>#testFindBestNodeForInstanceVariableItsRBVariable

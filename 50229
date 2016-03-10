@@ -1,97 +1,97 @@
-Author class>>#reset
-Author>>#fullName:
-Author>>#fullNamePerSe
-Canvas class>>#gtExampleWorldCanvasWithAlpha
-Canvas class>>#gtExampleWorldCanvasWithShadow
-ConfigurationOfGTInspectorCore>>#stable:
-ConfigurationOfGTInspectorCore>>#version2018:
-ConfigurationOfGTPlaygroundCore>>#stable:
-ConfigurationOfGTPlaygroundCore>>#version218:
-ConfigurationOfGTSpotter>>#stable:
-ConfigurationOfGTSpotter>>#version129:
-ConfigurationOfGToolkitCore>>#development:
-ConfigurationOfGToolkitCore>>#stable:
-ConfigurationOfGToolkitCore>>#version305:
-ConfigurationOfGlamourCore>>#stable:
-ConfigurationOfGlamourCore>>#version319:
-Dictionary>>#gtInspectorKeysIn:
-GLMErrorPopper>>#initializeTextMorph
-GLMExamplesBrowser>>#exampleIn:
-GLMMorphicMorphRenderer
-GLMMorphicMorphRenderer>>#actOnPresentationUpdated:
-GLMMorphicMorphRenderer>>#render:
-GLMMorphicWidgetRenderer>>#scrollMorphFor:
-GLMPopper>>#computeOriginFor:
-GLMPopper>>#withString:from:
-GLMPrintPopper>>#initializeTextMorph
-GLMRubEditingAreaBrick class>>#gtExampleBand
-GLMRubEditingAreaBrick class>>#gtExampleBasic
-GLMRubEditingAreaBrick class>>#gtExampleScrollPane
-GTFilter
-GTFilter>>#applyFilter
-GTFilter>>#applyFilterInContext:error:
-GTFilter>>#defaultFilteredItems
-GTFilter>>#filteredItems
-GTFilter>>#filteredItems:
-GTFilter>>#hasFilteredItems
-GTFilter>>#itemFilterNameFor:
-GTFilter>>#prepareFilterInContext:
-GTFilter>>#value:
-GTFilterAlike>>#applyFilterWithQuery
-GTFilterSubstring>>#applyFilterWithQuery
-GTNullFilter>>#applyFilterWithQuery
-GTPlayground>>#actOnBrowserClosing:
-GTPlayground>>#codeIn:
-GTPlayground>>#codePresentationIn:
-GTPlayground>>#compose
-GTSimpleMethodsBrowser>>#classesIn:
-GTSimpleMethodsBrowser>>#methodsIn:
-GTSimpleMethodsBrowser>>#sourceOf:for:in:
-GTSpotter>>#setText:from:
-GTSpotterMorph>>#bindingDictionnary
-GTSpotterMorph>>#initializeListeners
-GTStringFilter>>#applyFilter
-GTStringFilter>>#applyFilterWithoutQuery
-GTUnorderedFilter>>#applyFilterWithQuery
-HelpTopic>>#gtInspectorActionOpenHelpBrowser
-HelpTopic>>#gtTopicIcon
-MCHttpRepository>>#password
-MCHttpRepository>>#user
-Morph>>#addHalo:
-Morph>>#color:
-Morph>>#fillStyle:
-Morph>>#gtInspectorMappingsIn:
-Morph>>#gtInspectorMorphIn:
-Morph>>#gtInspectorSubmorphsIn:
-Morph>>#invokeMetaMenu:
-NBFFICallbackType>>#pushAsValue:
-PasteUpMorph>>#dropFiles:
-PharoCommandLineHandler class>>#activateWith:
-PluggableTextMorph>>#accept
-PluggableTextMorph>>#basicHasUnacceptedEdits:
-PluggableTextMorph>>#doIt
-RBProgramNode>>#gtInspectorSourceCodeIn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50228
-ScriptLoader>>#update50229
-SettingNode>>#gtInspectorLiveIn:
-SmalltalkEditor class>>#smalltalkEditorMenuOn:
-SmalltalkEditor>>#browseIt:
-SmalltalkEditor>>#debugIt:
-SmalltalkEditor>>#doIt
-SmalltalkEditor>>#doIt:
-SmalltalkEditor>>#exploreIt:
-SmalltalkEditor>>#fileItIn:
-SmalltalkEditor>>#implementorsOfIt:
-SmalltalkEditor>>#inspectIt:
-SmalltalkEditor>>#methodNamesContainingIt:
-SmalltalkEditor>>#methodStringsContainingIt:
-SmalltalkEditor>>#pasteInitials:
-SmalltalkEditor>>#referencesToIt:
-SmalltalkEditor>>#save:
-SmalltalkEditor>>#sendersOfIt:
-SmalltalkEditor>>#spawnIt:
-SmalltalkImage>>#handleStartupErrors:
-SpecDebugger class>>#openOn:context:label:contents:fullView:
-StartupPreferencesLoader>>#load:
-WorldState class>>#quitSession
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#stable:
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#version2018:
+ConfigurationOfGTPlaygroundCore.ConfigurationOfGTPlaygroundCore>>#stable:
+ConfigurationOfGTPlaygroundCore.ConfigurationOfGTPlaygroundCore>>#version218:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version129:
+ConfigurationOfGToolkitCore.ConfigurationOfGToolkitCore>>#development:
+ConfigurationOfGToolkitCore.ConfigurationOfGToolkitCore>>#stable:
+ConfigurationOfGToolkitCore.ConfigurationOfGToolkitCore>>#version305:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version319:
+GT-Inspector.GTSimpleMethodsBrowser>>#classesIn:
+GT-Inspector.GTSimpleMethodsBrowser>>#methodsIn:
+GT-Inspector.GTSimpleMethodsBrowser>>#sourceOf:for:in:
+GT-InspectorExtensions-Core.Canvas class>>#gtExampleWorldCanvasWithAlpha
+GT-InspectorExtensions-Core.Canvas class>>#gtExampleWorldCanvasWithShadow
+GT-InspectorExtensions-Core.Dictionary>>#gtInspectorKeysIn:
+GT-InspectorExtensions-Core.HelpTopic>>#gtInspectorActionOpenHelpBrowser
+GT-InspectorExtensions-Core.Morph>>#gtInspectorMappingsIn:
+GT-InspectorExtensions-Core.Morph>>#gtInspectorMorphIn:
+GT-InspectorExtensions-Core.Morph>>#gtInspectorSubmorphsIn:
+GT-InspectorExtensions-Core.RBProgramNode>>#gtInspectorSourceCodeIn:
+GT-InspectorExtensions-Core.SettingNode>>#gtInspectorLiveIn:
+GT-Playground.GTPlayground>>#actOnBrowserClosing:
+GT-Playground.GTPlayground>>#codeIn:
+GT-Playground.GTPlayground>>#codePresentationIn:
+GT-Playground.GTPlayground>>#compose
+GT-Spotter.GTFilter
+GT-Spotter.GTFilter>>#applyFilter
+GT-Spotter.GTFilter>>#applyFilterInContext:error:
+GT-Spotter.GTFilter>>#defaultFilteredItems
+GT-Spotter.GTFilter>>#filteredItems
+GT-Spotter.GTFilter>>#filteredItems:
+GT-Spotter.GTFilter>>#hasFilteredItems
+GT-Spotter.GTFilter>>#itemFilterNameFor:
+GT-Spotter.GTFilter>>#prepareFilterInContext:
+GT-Spotter.GTFilter>>#value:
+GT-Spotter.GTFilterAlike>>#applyFilterWithQuery
+GT-Spotter.GTFilterSubstring>>#applyFilterWithQuery
+GT-Spotter.GTNullFilter>>#applyFilterWithQuery
+GT-Spotter.GTSpotter>>#setText:from:
+GT-Spotter.GTSpotterMorph>>#bindingDictionnary
+GT-Spotter.GTSpotterMorph>>#initializeListeners
+GT-Spotter.GTStringFilter>>#applyFilter
+GT-Spotter.GTStringFilter>>#applyFilterWithoutQuery
+GT-Spotter.GTUnorderedFilter>>#applyFilterWithQuery
+GT-SpotterExtensions-Core.HelpTopic>>#gtTopicIcon
+Glamour-Examples.GLMExamplesBrowser>>#exampleIn:
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExampleBand
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExampleBasic
+Glamour-Morphic-Brick.GLMRubEditingAreaBrick class>>#gtExampleScrollPane
+Glamour-Morphic-Renderer.GLMMorphicMorphRenderer
+Glamour-Morphic-Renderer.GLMMorphicMorphRenderer>>#actOnPresentationUpdated:
+Glamour-Morphic-Renderer.GLMMorphicMorphRenderer>>#render:
+Glamour-Morphic-Renderer.GLMMorphicWidgetRenderer>>#scrollMorphFor:
+Glamour-Morphic-Widgets.GLMErrorPopper>>#initializeTextMorph
+Glamour-Morphic-Widgets.GLMPopper>>#computeOriginFor:
+Glamour-Morphic-Widgets.GLMPopper>>#withString:from:
+Glamour-Morphic-Widgets.GLMPrintPopper>>#initializeTextMorph
+MonticelloRemoteRepositories.MCHttpRepository>>#password
+MonticelloRemoteRepositories.MCHttpRepository>>#user
+Morphic-Base.Morph>>#addHalo:
+Morphic-Core.Morph>>#color:
+Morphic-Core.Morph>>#fillStyle:
+Morphic-Core.Morph>>#invokeMetaMenu:
+Morphic-Core.PasteUpMorph>>#dropFiles:
+Morphic-Core.WorldState class>>#quitSession
+Morphic-Widgets-Pluggable.PluggableTextMorph>>#accept
+Morphic-Widgets-Pluggable.PluggableTextMorph>>#basicHasUnacceptedEdits:
+Morphic-Widgets-Pluggable.PluggableTextMorph>>#doIt
+NativeBoost-Core.NBFFICallbackType>>#pushAsValue:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50228
+ScriptLoader50.ScriptLoader>>#update50229
+Spec-Debugger.SpecDebugger class>>#openOn:context:label:contents:fullView:
+StartupPreferences.StartupPreferencesLoader>>#load:
+System-CommandLineHandler.PharoCommandLineHandler class>>#activateWith:
+System-Support.Author class>>#reset
+System-Support.Author>>#fullName:
+System-Support.Author>>#fullNamePerSe
+System-Support.SmalltalkImage>>#handleStartupErrors:
+Text-Edition.SmalltalkEditor class>>#smalltalkEditorMenuOn:
+Text-Edition.SmalltalkEditor>>#browseIt:
+Text-Edition.SmalltalkEditor>>#debugIt:
+Text-Edition.SmalltalkEditor>>#doIt
+Text-Edition.SmalltalkEditor>>#doIt:
+Text-Edition.SmalltalkEditor>>#exploreIt:
+Text-Edition.SmalltalkEditor>>#fileItIn:
+Text-Edition.SmalltalkEditor>>#implementorsOfIt:
+Text-Edition.SmalltalkEditor>>#inspectIt:
+Text-Edition.SmalltalkEditor>>#methodNamesContainingIt:
+Text-Edition.SmalltalkEditor>>#methodStringsContainingIt:
+Text-Edition.SmalltalkEditor>>#pasteInitials:
+Text-Edition.SmalltalkEditor>>#referencesToIt:
+Text-Edition.SmalltalkEditor>>#save:
+Text-Edition.SmalltalkEditor>>#sendersOfIt:
+Text-Edition.SmalltalkEditor>>#spawnIt:

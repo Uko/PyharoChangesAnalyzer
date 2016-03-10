@@ -1,16 +1,16 @@
-CodeImporter class>>#chunksFromFileNamed:
-CodeImporter class>>#chunksFromStream:
-ExternalChangesBrowser class>>#fileReaderServicesForFile:suffix:
-ExternalChangesBrowser class>>#initialize
-ExternalChangesBrowser class>>#openOnFileName:
-ExternalChangesBrowser class>>#openOnStream:
-ExternalChangesBrowser class>>#registerToolsOn:
-ExternalChangesBrowser class>>#serviceBrowseCSOrSTFile
-ExternalChangesBrowser class>>#services
-ExternalChangesBrowser class>>#taskbarIcon
-ExternalChangesBrowser>>#changeSetName:
-Nautilus>>#parentOfClass:
-NautilusUI>>#selectedClassWithoutChangingSelection:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50096
-ScriptLoader>>#update50097
+CodeImport.CodeImporter class>>#chunksFromFileNamed:
+CodeImport.CodeImporter class>>#chunksFromStream:
+Nautilus.Nautilus>>#parentOfClass:
+Nautilus.NautilusUI>>#selectedClassWithoutChangingSelection:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50096
+ScriptLoader50.ScriptLoader>>#update50097
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#fileReaderServicesForFile:suffix:
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#initialize
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#openOnFileName:
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#openOnStream:
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#registerToolsOn:
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#serviceBrowseCSOrSTFile
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#services
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#taskbarIcon
+Tool-ExternalBrowser.ExternalChangesBrowser>>#changeSetName:

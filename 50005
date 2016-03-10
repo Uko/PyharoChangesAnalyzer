@@ -1,10 +1,10 @@
-HelpBrowser>>#menu
-LessonView>>#menu
-OCASTTranslator>>#visitNode:
-ReflectiveMethodTest>>#testUninstallLinkAndRun
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script613
-ScriptLoader>>#update50005
-SpecExamples class>>#firstExample
-SpecExamples class>>#secondExample
-SpecHelpTopics class>>#introduction
+HelpSystem-Core.HelpBrowser>>#menu
+OpalCompiler-Core.OCASTTranslator>>#visitNode:
+ProfStef-Core.LessonView>>#menu
+Reflectivity-Tests.ReflectiveMethodTest>>#testUninstallLinkAndRun
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script613
+ScriptLoader50.ScriptLoader>>#update50005
+Spec-Help.SpecExamples class>>#firstExample
+Spec-Help.SpecExamples class>>#secondExample
+Spec-Help.SpecHelpTopics class>>#introduction

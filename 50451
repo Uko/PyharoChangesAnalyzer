@@ -1,36 +1,36 @@
-ButtonClicked
-MultistateButtonMorph>>#activate
-MultistateButtonMorph>>#addUpAction:
-MultistateButtonMorph>>#extent:
-MultistateButtonMorph>>#handlesMouseDown:
-MultistateButtonMorph>>#handlesMouseOver:
-MultistateButtonMorph>>#handlesMouseOverDragging:
-MultistateButtonMorph>>#mouseDown:
-MultistateButtonMorph>>#mouseEnter:
-MultistateButtonMorph>>#mouseEnterDragging:
-MultistateButtonMorph>>#mouseLeave:
-MultistateButtonMorph>>#mouseLeaveDragging:
-MultistateButtonMorph>>#mouseUp:
-MultistateButtonMorph>>#passivate
-MultistateButtonMorph>>#privateMoveBy:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50450
-ScriptLoader>>#update50451
-SugsBreakAlwaysSuggestion
-SugsBreakAlwaysSuggestion>>#execute
-SugsBreakAlwaysSuggestion>>#label
-SugsBreakConditionSuggestion
-SugsBreakConditionSuggestion>>#execute
-SugsBreakConditionSuggestion>>#isValidForContext
-SugsBreakConditionSuggestion>>#label
-SugsBreakOnceSuggestion
-SugsBreakOnceSuggestion>>#execute
-SugsBreakOnceSuggestion>>#isValidForContext
-SugsBreakOnceSuggestion>>#label
-SugsBreakpointSuggestion>>#breakpointForCondition
-SugsBreakpointSuggestion>>#label
-SugsBreakpointSuggestion>>#selectedNodeHasBreakpoint
-SugsSuggestionFactory class>>#cleanUp
-SugsSuggestionFactory class>>#createBreakAtLineCommand
-SugsSuggestionFactory class>>#createBreakConditionCommand
-SugsSuggestionFactory class>>#createBreakOnceCommand
+Morphic-Widgets-Basic.ButtonClicked
+Morphic-Widgets-Basic.MultistateButtonMorph>>#activate
+Morphic-Widgets-Basic.MultistateButtonMorph>>#addUpAction:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#extent:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#handlesMouseDown:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#handlesMouseOver:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#handlesMouseOverDragging:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseDown:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseEnter:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseEnterDragging:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseLeave:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseLeaveDragging:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseUp:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#passivate
+Morphic-Widgets-Basic.MultistateButtonMorph>>#privateMoveBy:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50450
+ScriptLoader50.ScriptLoader>>#update50451
+SmartSuggestions.SugsBreakAlwaysSuggestion
+SmartSuggestions.SugsBreakAlwaysSuggestion>>#execute
+SmartSuggestions.SugsBreakAlwaysSuggestion>>#label
+SmartSuggestions.SugsBreakConditionSuggestion
+SmartSuggestions.SugsBreakConditionSuggestion>>#execute
+SmartSuggestions.SugsBreakConditionSuggestion>>#isValidForContext
+SmartSuggestions.SugsBreakConditionSuggestion>>#label
+SmartSuggestions.SugsBreakOnceSuggestion
+SmartSuggestions.SugsBreakOnceSuggestion>>#execute
+SmartSuggestions.SugsBreakOnceSuggestion>>#isValidForContext
+SmartSuggestions.SugsBreakOnceSuggestion>>#label
+SmartSuggestions.SugsBreakpointSuggestion>>#breakpointForCondition
+SmartSuggestions.SugsBreakpointSuggestion>>#label
+SmartSuggestions.SugsBreakpointSuggestion>>#selectedNodeHasBreakpoint
+SmartSuggestions.SugsSuggestionFactory class>>#cleanUp
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakAtLineCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakConditionCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createBreakOnceCommand

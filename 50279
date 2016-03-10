@@ -1,554 +1,554 @@
-AthensCairoSDLSurface
-AthensCairoSDLSurface class>>#newFromPixels:width:height:pitch:
-AthensCairoSurface class>>#fromSDLSurface:
-ConfigurationOfOSWindow>>#baseline04:
-ConfigurationOfOSWindow>>#baseline05:
-ConfigurationOfOSWindow>>#baseline06:
-ConfigurationOfOSWindow>>#development:
-ConfigurationOfOSWindow>>#stable:
-ConfigurationOfOSWindow>>#version122:
-ConfigurationOfOSWindow>>#version123:
-ConfigurationOfOSWindow>>#version124:
-ConfigurationOfOSWindow>>#version125:
-DraggableCallback
-DraggableCallback class>>#fnSpec
-EyeInspector>>#initializeWidgets
-MorphicTextAdapter>>#buildWidget
-MorphicTextAdapter>>#classOrMetaClass:
-MorphicTextAdapter>>#isForSmalltalkCode
-MorphicTextAdapter>>#setEditingModeFor:withBehavior:
-OSEvent>>#window
-OSKeyboardEvent>>#printOn:
-OSMouseEvent>>#initialize
-OSMouseWheelEvent>>#accept:
-OSNullWindowDriver>>#createWindowWithAttributes:osWindow:
-OSNullWindowDriver>>#isNullDriver
-OSNullWindowHandle>>#attributes:
-OSNullWindowHandle>>#bounds:
-OSNullWindowHandle>>#clipboardText
-OSNullWindowHandle>>#clipboardText:
-OSNullWindowHandle>>#destroy
-OSNullWindowHandle>>#extent
-OSNullWindowHandle>>#extent:
-OSNullWindowHandle>>#hide
-OSNullWindowHandle>>#isValid
-OSNullWindowHandle>>#newFormRenderer:
-OSNullWindowHandle>>#position
-OSNullWindowHandle>>#position:
-OSNullWindowHandle>>#show
-OSNullWindowHandle>>#title
-OSNullWindowHandle>>#title:
-OSSDL2AthensRenderer
-OSSDL2AthensRenderer class>>#for:
-OSSDL2AthensRenderer>>#createAthensSurface
-OSSDL2AthensRenderer>>#createRenderer
-OSSDL2AthensRenderer>>#createSDLSurface
-OSSDL2AthensRenderer>>#createTexture
-OSSDL2AthensRenderer>>#destroy
-OSSDL2AthensRenderer>>#initialize
-OSSDL2AthensRenderer>>#resetAthensSurface
-OSSDL2AthensRenderer>>#resetRessources
-OSSDL2AthensRenderer>>#resetSDLSurface
-OSSDL2AthensRenderer>>#resetTexture
-OSSDL2AthensRenderer>>#resized
-OSSDL2AthensRenderer>>#updateAll
-OSSDL2AthensRenderer>>#updateRectangle:
-OSSDL2Driver
-OSSDL2Driver>>#convertEvent:
-OSSDL2Driver>>#createWindowWithAttributes:osWindow:
-OSSDL2Driver>>#initialize
-OSSDL2Driver>>#initializeWindowMap
-OSSDL2Driver>>#setupEventLoop
-OSSDL2Driver>>#unregisterWindow:
-OSSDL2Driver>>#visitDropEvent:
-OSSDL2Driver>>#visitFingerDownEvent:
-OSSDL2Driver>>#visitFingerMotionEvent:
-OSSDL2Driver>>#visitFingerUpEvent:
-OSSDL2FormRenderer>>#createTexture
-OSSDL2FormRenderer>>#destroy
-OSSDL2FormRenderer>>#initialize
-OSSDL2FormRenderer>>#updateAll
-OSSDL2FormRenderer>>#updateRectangle:
-OSSDL2FormRenderer>>#useDeferredUpdates
-OSSDL2FormRenderer>>#validate
-OSSDL2GLRenderer
-OSSDL2WindowHandle>>#destroy
-OSSDL2WindowHandle>>#getFlags
-OSSDL2WindowHandle>>#hide
-OSSDL2WindowHandle>>#maximize
-OSSDL2WindowHandle>>#minimize
-OSSDL2WindowHandle>>#newAthensRenderer
-OSSDL2WindowHandle>>#restore
-OSSDL2WindowHandle>>#setDraggableArea:
-OSSDL2WindowHandle>>#show
-OSSDL2WindowHandle>>#title
-OSSDL2WindowHandle>>#toggleBorderOff
-OSSDL2WindowHandle>>#toggleBorderOn
-OSSDL2WindowHandle>>#visitWindowEvent:
-OSTextInputEvent>>#initialize
-OSTouchActionPointerDownEvent>>#accept:
-OSTouchActionPointerUpEvent>>#accept:
-OSTouchDirectionnalGestureDetector
-OSTouchDirectionnalGestureDetector>>#dDist
-OSTouchFingerTracker class>>#for:
-OSTouchGestureDetector
-OSTouchGestureDetector>>#centerOfAllFingers
-OSTouchGestureDetector>>#deviceId
-OSTouchGestureFactory class>>#onDeviceId:
-OSTouchGestureFactory class>>#reinitializeAllSubclasses
-OSTouchGestureFactory class>>#touchGestureSettingsOn:
-OSTouchGestureFactory>>#activeFingers
-OSTouchGestureFactory>>#activeFingers:
-OSTouchGestureFactory>>#deviceId:
-OSTouchGestureFactory>>#sendToEventHandler:
-OSTouchGestureNeedingThreshold>>#initialize
-OSTouchGestureNeedingThresholdDetector
-OSTouchGestureNeedingThresholdDetector class>>#initialize
-OSTouchGestureNeedingThresholdDetector class>>#minDistanceBeforeDetection
-OSTouchGestureNeedingThresholdDetector class>>#minDistanceBeforeDetection:
-OSTouchGestureNeedingThresholdDetector>>#beginConditions
-OSTouchGestureNeedingThresholdDetector>>#distanceTravelledForEachFingers
-OSTouchGestureNeedingThresholdDetector>>#eachFingersHadTravelledEnough
-OSTouchHold class>>#maxDistanceTravelledSettingsOn:
-OSTouchHold class>>#touchHoldSettingsOn:
-OSTouchHold class>>#waitingTimeSettingsOn:
-OSTouchHold>>#createHoldEvent
-OSTouchHold>>#initialize
-OSTouchHold>>#necessaryFingers
-OSTouchHold>>#visitTouchPointerUpEvent:
-OSTouchHoldDetector
-OSTouchHoldDetector class>>#initialize
-OSTouchHoldDetector class>>#maxDistanceTravelled
-OSTouchHoldDetector class>>#maxDistanceTravelled:
-OSTouchHoldDetector class>>#waitingTime
-OSTouchHoldDetector class>>#waitingTime:
-OSTouchHoldDetector>>#createWaitingProcess
-OSTouchHoldDetector>>#visitTouchPointerDownEvent:
-OSTouchMoveEvent>>#position
-OSTouchMoveEvent>>#position:
-OSTouchOneDirectionGesture>>#direction
-OSTouchOneDirectionGesture>>#direction:
-OSTouchOneDirectionGestureDetector
-OSTouchOneDirectionGestureDetector>>#allFingersGoesInTheSameDirection
-OSTouchOneDirectionGestureDetector>>#beginConditions
-OSTouchOneDirectionGestureDetector>>#dDist
-OSTouchOneFingerDoubleTap class>>#doubleTouchSpeedSettingsOn:
-OSTouchOneFingerDoubleTap class>>#maxDistanceSettingsOn:
-OSTouchOneFingerDoubleTap class>>#touchDoubleTapSettingsOn:
-OSTouchOneFingerDoubleTap>>#checkDoubleTouch
-OSTouchOneFingerDoubleTap>>#createEvent
-OSTouchOneFingerDoubleTap>>#initialize
-OSTouchOneFingerDoubleTap>>#reinitialize
-OSTouchOneFingerDoubleTap>>#visitTouchPointerDownEvent:
-OSTouchOneFingerDoubleTapDetector
-OSTouchOneFingerDoubleTapDetector class>>#doubleTouchSpeed
-OSTouchOneFingerDoubleTapDetector class>>#doubleTouchSpeed:
-OSTouchOneFingerDoubleTapDetector class>>#initialize
-OSTouchOneFingerDoubleTapDetector class>>#maxDistance
-OSTouchOneFingerDoubleTapDetector class>>#maxDistance:
-OSTouchOneFingerDoubleTapEvent>>#accept:
-OSTouchOneFingerHold>>#necessaryFingers
-OSTouchOneFingerHoldDetector
-OSTouchOneFingerHoldDetector>>#createHoldEvent
-OSTouchOneFingerHoldEvent>>#accept:
-OSTouchPinch class>>#maxDistanceBetweenFingersLineSettingsOn:
-OSTouchPinch class>>#minDistanceBeforeDetectionSettingsOn:
-OSTouchPinch class>>#touchPinchSettingsOn:
-OSTouchPinch>>#createEventBeginning
-OSTouchPinch>>#createEventEnding
-OSTouchPinch>>#dDist
-OSTouchPinch>>#eventClassBeginGesture
-OSTouchPinch>>#eventClassEndGesture
-OSTouchPinch>>#initialize
-OSTouchPinchDetector
-OSTouchPinchDetector class>>#initialize
-OSTouchPinchDetector class>>#maxDistanceBetweenFingersLine
-OSTouchPinchDetector class>>#maxDistanceBetweenFingersLine:
-OSTouchPinchDetector>>#areFingersLinesNotTooFarApart
-OSTouchPinchDetector>>#beginConditions
-OSTouchPinchDetector>>#createEventDuringMove
-OSTouchPinchDetector>>#doesFingersGoesInOppositeDirection
-OSTouchPinchDetector>>#fingersDistanceFromCenter
-OSTouchPunctualGestureDetector
-OSTouchRotation class>>#minAngleBeforeDetectionSettingsOn:
-OSTouchRotation class>>#touchRotationSettingsOn:
-OSTouchRotation>>#createEventBeginning
-OSTouchRotation>>#createEventDuringMove
-OSTouchRotation>>#createEventEnding
-OSTouchRotation>>#eventClassBeginGesture
-OSTouchRotation>>#eventClassEndGesture
-OSTouchRotation>>#eventClassMoveGesture
-OSTouchRotation>>#updateCurrentAngle
-OSTouchRotation>>#visitTouchPointerDownEvent:
-OSTouchRotation>>#visitTouchPointerMoveEvent:
-OSTouchRotationDetector
-OSTouchRotationDetector class>>#minAngleBeforeDetection
-OSTouchRotationDetector class>>#minAngleBeforeDetection:
-OSTouchRotationDetector>>#beginConditions
-OSTouchRotationDetector>>#initialize
-OSTouchRotationDetector>>#isBrinkAngleOverwhelmed
-OSTouchRotationDetector>>#vectorBetweenFirstAndLastFingers
-OSTouchScroll class>>#minDistanceBeforeDetectionSettingsOn:
-OSTouchScroll class>>#persistentDirectionSettingsOn:
-OSTouchScroll class>>#touchScrollSettingsOn:
-OSTouchScroll>>#createEventBeginning
-OSTouchScroll>>#createEventDuringMove
-OSTouchScroll>>#createEventEnding
-OSTouchScroll>>#eventClassBeginGesture
-OSTouchScroll>>#eventClassEndGesture
-OSTouchScroll>>#eventClassMoveGesture
-OSTouchScroll>>#initialize
-OSTouchScroll>>#isKeepingDirection
-OSTouchScrollDetector
-OSTouchScrollDetector class>>#initialize
-OSTouchScrollDetector class>>#persistentDirection
-OSTouchScrollDetector class>>#persistentDirection:
-OSTouchScrollDetector>>#beginConditions
-OSTouchStateGesture>>#createEventBeginning
-OSTouchStateGesture>>#createEventDuringMove
-OSTouchStateGesture>>#createEventEnding
-OSTouchStateGesture>>#hasGoodNumberOfFingers
-OSTouchStateGesture>>#initialize
-OSTouchStateGesture>>#necessaryFingers
-OSTouchStateGestureDetector
-OSTouchStateGestureDetector>>#beginConditions
-OSTouchStateGestureDetector>>#stayActiveConditions
-OSTouchStateGestureDetector>>#tryToEndGesture
-OSTouchStateGestureDetector>>#tryToGoThroughNextState
-OSTouchStateGestureDetector>>#tryToStartGesture
-OSTouchStateGestureDetector>>#visitTouchPointerDownEvent:
-OSTouchStateGestureDetector>>#visitTouchPointerMoveEvent:
-OSTouchStateGestureDetector>>#visitTouchPointerUpEvent:
-OSTouchSwipe class>>#minDistToBorderSettingsOn:
-OSTouchSwipe class>>#minDistanceBeforeDetectionSettingsOn:
-OSTouchSwipe class>>#touchSwipeSettingsOn:
-OSTouchSwipe>>#createEventBeginning
-OSTouchSwipe>>#createEventDuringMove
-OSTouchSwipe>>#createEventEnding
-OSTouchSwipe>>#eventClassAbortGesture
-OSTouchSwipe>>#eventClassBeginGesture
-OSTouchSwipe>>#eventClassEndGesture
-OSTouchSwipe>>#eventClassMoveGesture
-OSTouchSwipe>>#initialize
-OSTouchSwipeDetector
-OSTouchSwipeDetector class>>#initialize
-OSTouchSwipeDetector class>>#minDistToBorder
-OSTouchSwipeDetector class>>#minDistToBorder:
-OSTouchSwipeDetector>>#areFingersCloseToABorder
-OSTouchSwipeDetector>>#beginConditions
-OSTouchSwipeDetector>>#eventClassMoveGesture
-OSTouchThreeFingersScroll>>#eventClassBeginGesture
-OSTouchThreeFingersScroll>>#eventClassEndGesture
-OSTouchThreeFingersScroll>>#eventClassMoveGesture
-OSTouchThreeFingersScroll>>#necessaryFingers
-OSTouchThreeFingersScrollBeginEvent>>#accept:
-OSTouchThreeFingersScrollDetector
-OSTouchThreeFingersScrollEndEvent>>#accept:
-OSTouchThreeFingersScrollMoveEvent>>#accept:
-OSTouchThreeFingersSwipe>>#eventClassAbortGesture
-OSTouchThreeFingersSwipe>>#eventClassBeginGesture
-OSTouchThreeFingersSwipe>>#eventClassEndGesture
-OSTouchThreeFingersSwipe>>#eventClassMoveGesture
-OSTouchThreeFingersSwipe>>#necessaryFingers
-OSTouchThreeFingersSwipeAbortEvent>>#accept:
-OSTouchThreeFingersSwipeBeginEvent>>#accept:
-OSTouchThreeFingersSwipeDetector
-OSTouchThreeFingersSwipeEndEvent>>#accept:
-OSTouchThreeFingersSwipeMoveEvent>>#accept:
-OSTouchTwoFingersPinch>>#eventClassBeginGesture
-OSTouchTwoFingersPinch>>#eventClassEndGesture
-OSTouchTwoFingersPinch>>#necessaryFingers
-OSTouchTwoFingersPinchBeginEvent>>#accept:
-OSTouchTwoFingersPinchDetector
-OSTouchTwoFingersPinchDetector>>#eventClassMoveGesture
-OSTouchTwoFingersPinchEndEvent>>#accept:
-OSTouchTwoFingersPinchMoveEvent
-OSTouchTwoFingersPinchMoveEvent>>#accept:
-OSTouchTwoFingersRotation>>#eventClassBeginGesture
-OSTouchTwoFingersRotation>>#eventClassEndGesture
-OSTouchTwoFingersRotation>>#eventClassMoveGesture
-OSTouchTwoFingersRotation>>#necessaryFingers
-OSTouchTwoFingersRotationBeginEvent>>#accept:
-OSTouchTwoFingersRotationDetector
-OSTouchTwoFingersRotationEndEvent>>#accept:
-OSTouchTwoFingersRotationMoveEvent>>#accept:
-OSTouchTwoFingersScroll>>#eventClassBeginGesture
-OSTouchTwoFingersScroll>>#eventClassEndGesture
-OSTouchTwoFingersScroll>>#eventClassMoveGesture
-OSTouchTwoFingersScroll>>#necessaryFingers
-OSTouchTwoFingersScrollDetector
-OSVMWindowHandle>>#hide
-OSVMWindowHandle>>#position
-OSVMWindowHandle>>#show
-OSWindow
-OSWindow>>#destroy
-OSWindow>>#getFlags
-OSWindow>>#hide
-OSWindow>>#initWithAttributes:
-OSWindow>>#maximize
-OSWindow>>#minimize
-OSWindow>>#newAthensRenderer
-OSWindow>>#registerWindow
-OSWindow>>#restore
-OSWindow>>#setDraggableArea:
-OSWindow>>#show
-OSWindow>>#toggleBorderOff
-OSWindow>>#toggleBorderOn
-OSWindowAnimated
-OSWindowAnimated>>#destroy
-OSWindowAnimated>>#initWithAttributes:
-OSWindowAthensDrawingExampleEventHandler
-OSWindowAthensDrawingExampleEventHandler>>#visitMouseButtonPressEvent:
-OSWindowAthensDrawingExampleEventHandler>>#visitMouseButtonReleaseEvent:
-OSWindowAthensDrawingExampleEventHandler>>#visitMouseMoveEvent:
-OSWindowAthensExampleEventHandler
-OSWindowAthensExampleEventHandler>>#athensExample
-OSWindowAthensExampleEventHandler>>#athensExample:
-OSWindowAthensExampleEventHandler>>#visitWindowCloseEvent:
-OSWindowAthensRenderer
-OSWindowAthensRenderer>>#athensSurface
-OSWindowAthensRenderer>>#checkSession
-OSWindowAthensRenderer>>#destroy
-OSWindowAthensRenderer>>#initialize
-OSWindowAttributes
-OSWindowAttributes>>#borderless
-OSWindowAttributes>>#borderless:
-OSWindowAttributes>>#createWindowHandleFor:
-OSWindowAttributes>>#initialize
-OSWindowBench>>#benchEventProcessing
-OSWindowClipboard>>#chooseRecentClipping
-OSWindowClipboard>>#clipboardText
-OSWindowClipboard>>#clipboardText:
-OSWindowClipboard>>#noteRecentClipping:
-OSWindowDriver>>#createWindowWithAttributes:osWindow:
-OSWindowDropEvent
-OSWindowDropEvent>>#filePath
-OSWindowDropEvent>>#filePath:
-OSWindowDropEvent>>#printOn:
-OSWindowDropEvent>>#timestamp
-OSWindowDropEvent>>#timestamp:
-OSWindowEventFilter>>#eventHandler
-OSWindowEventFilter>>#eventHandler:
-OSWindowEventGestureVisitor>>#handleGestureEvent:
-OSWindowEventGestureVisitor>>#visitTouchActionPointerDownEvent:
-OSWindowEventGestureVisitor>>#visitTouchActionPointerMoveEvent:
-OSWindowEventGestureVisitor>>#visitTouchActionPointerUpEvent:
-OSWindowEventGestureVisitor>>#visitTouchOneFingerHoldEvent:
-OSWindowEventGestureVisitor>>#visitTouchTwoFingersPinchMoveEvent:
-OSWindowEventVisitor>>#handleEvent:
-OSWindowEventVisitor>>#visitTouchPointerDownEvent:
-OSWindowEventVisitor>>#visitTouchPointerMoveEvent:
-OSWindowEventVisitor>>#visitTouchPointerUpEvent:
-OSWindowEventVisitor>>#visitWindowMaximizedEvent:
-OSWindowEventVisitor>>#visitWindowMinimizedEvent:
-OSWindowExposeEvent
-OSWindowExposeEvent>>#defaultAction
-OSWindowExposeEvent>>#timestamp
-OSWindowExposeEvent>>#timestamp:
-OSWindowFrameEvent>>#accept:
-OSWindowGLRenderer>>#getProcAddress:
-OSWindowGLRenderer>>#makeCurrent
-OSWindowGLRenderer>>#swapBuffers
-OSWindowGestureEventHandler
-OSWindowGestureEventHandler>>#touchExample:
-OSWindowGestureEventHandler>>#visitTouchActionPointerDownEvent:
-OSWindowGestureEventHandler>>#visitTouchActionPointerMoveEvent:
-OSWindowGestureEventHandler>>#visitTouchActionPointerUpEvent:
-OSWindowGestureEventHandler>>#visitTouchOneFingerDoubleTapEvent:
-OSWindowGestureEventHandler>>#visitTouchOneFingerHoldEvent:
-OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeAbortEvent:
-OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeBeginEvent:
-OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeEndEvent:
-OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeMoveEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersPinchBeginEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersPinchEndEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersPinchMoveEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersRotationBeginEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersRotationEndEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersRotationMoveEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersScrollBeginEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersScrollEndEvent:
-OSWindowGestureEventHandler>>#visitTouchTwoFingersScrollMoveEvent:
-OSWindowGestureEventHandler>>#visitWindowCloseEvent:
-OSWindowGestureHandler>>#fingersFromDevice:
-OSWindowGestureHandler>>#registerGesture:
-OSWindowGestureHandler>>#trackFinger:
-OSWindowGestureHandler>>#unregisterGesture:
-OSWindowGestureHandler>>#untrackFinger:
-OSWindowGestureHandler>>#updateGesturesActiveFingers
-OSWindowGestureHandler>>#visitTouchPointerDownEvent:
-OSWindowGestureHandler>>#visitTouchPointerMoveEvent:
-OSWindowGestureHandler>>#visitTouchPointerUpEvent:
-OSWindowHandle>>#bounds
-OSWindowHandle>>#hide
-OSWindowHandle>>#position
-OSWindowHandle>>#show
-OSWindowMaximizedEvent
-OSWindowMaximizedEvent>>#accept:
-OSWindowMinimizedEvent
-OSWindowMinimizedEvent>>#accept:
-OSWindowMorphicEventHandler>>#activeHand
-OSWindowMorphicEventHandler>>#convertModifiers:
-OSWindowMorphicEventHandler>>#visitTextInputEvent:
-OSWindowMorphicEventHandler>>#visitUnknownEvent:
-OSWindowMouseLeaveEvent>>#accept:
-OSWindowRenderThread
-OSWindowRenderThread class>>#createRenderThread
-OSWindowRenderThread class>>#performAnimationFrames
-OSWindowRenderThreadOperation
-OSWindowRenderer>>#destroy
-OSWindowRenderer>>#initialize
-OSWindowRenderer>>#resized
-OSWindowResizeEvent>>#accept:
-OSWindowResizeEvent>>#defaultAction
-OSWindowResizeEvent>>#height:
-OSWindowResizeEvent>>#width:
-OSWindowTest>>#testCreatingWindow
-OSWindowTest>>#testNewWindowDefaults
-OSWindowTest>>#testSettingUpWindow
-OSWindowTouchEventHandler
-OSWindowTouchEventHandler>>#touchExample:
-OSWindowTouchEventHandler>>#visitTouchPointerDownEvent:
-OSWindowTouchEventHandler>>#visitTouchPointerMoveEvent:
-OSWindowTouchEventHandler>>#visitTouchPointerUpEvent:
-OSWindowTouchEventHandler>>#visitWindowCloseEvent:
-Rectangle>>#asSDLRect
-SDL2 class>>#createRGBSurfaceForCairoWidth:height:
-SDL2 class>>#primCreateRGBSurfaceForCairoWidth:height:
-SDL2AthensDrawingExample
-SDL2AthensDrawingExample>>#clearStrokes
-SDL2AthensDrawingExample>>#clearSurface
-SDL2AthensDrawingExample>>#createEventHandler
-SDL2AthensDrawingExample>>#endStroke
-SDL2AthensDrawingExample>>#initialize
-SDL2AthensDrawingExample>>#moveAt:
-SDL2AthensDrawingExample>>#redraw
-SDL2AthensDrawingExample>>#startStrokeAt:
-SDL2AthensExample
-SDL2AthensExample>>#createDrawingProcess
-SDL2AthensExample>>#createEventHandler
-SDL2AthensExample>>#defaultExtent
-SDL2AthensExample>>#destroy
-SDL2AthensExample>>#initializeFromSurface
-SDL2AthensExample>>#maxFPS
-SDL2AthensExample>>#open
-SDL2AthensExample>>#redraw
-SDL2AthensExample>>#redrawAndUpdateSurface
-SDL2AthensExample>>#updateSurface
-SDL2Example
-SDL2Example>>#osWindow
-SDL2Example>>#simpleBlackWindow
-SDL2Example>>#simpleDrawDisplay
-SDL2Example>>#simpleDrawWindow
-SDL2Example>>#simpleWindow
-SDL2Handle>>#nbLibraryNameOrHandle
-SDL2TouchExample
-SDL2TouchExample class>>#example
-SDL2TouchExample>>#backgroundColor
-SDL2TouchExample>>#beginMove:at:
-SDL2TouchExample>>#clearSurface
-SDL2TouchExample>>#createEventHandler
-SDL2TouchExample>>#drawCircleAt:color:
-SDL2TouchExample>>#drawMoves
-SDL2TouchExample>>#endMove:at:
-SDL2TouchExample>>#initialize
-SDL2TouchExample>>#initializeFromSurface
-SDL2TouchExample>>#move:at:
-SDL2TouchExample>>#redraw
-SDL2TouchGestureExample
-SDL2TouchGestureExample class>>#example
-SDL2TouchGestureExample2
-SDL2TouchGestureExample2 class>>#example
-SDL2TouchGestureExample2>>#abortedSwipe
-SDL2TouchGestureExample2>>#beginPinch:
-SDL2TouchGestureExample2>>#beginRotation:
-SDL2TouchGestureExample2>>#beginScroll:
-SDL2TouchGestureExample2>>#beginSwipe:
-SDL2TouchGestureExample2>>#changeColors
-SDL2TouchGestureExample2>>#createEventHandler
-SDL2TouchGestureExample2>>#displayAbortMessage
-SDL2TouchGestureExample2>>#drawBlackBackground
-SDL2TouchGestureExample2>>#drawCircle
-SDL2TouchGestureExample2>>#endPinch:
-SDL2TouchGestureExample2>>#endRotation:
-SDL2TouchGestureExample2>>#endScroll:
-SDL2TouchGestureExample2>>#endSwipe:
-SDL2TouchGestureExample2>>#generateCircleOfSize:
-SDL2TouchGestureExample2>>#initialize
-SDL2TouchGestureExample2>>#initializeFromSurface
-SDL2TouchGestureExample2>>#pinch:
-SDL2TouchGestureExample2>>#randomizeCircleColor
-SDL2TouchGestureExample2>>#redraw
-SDL2TouchGestureExample2>>#rotation:
-SDL2TouchGestureExample2>>#scroll:
-SDL2TouchGestureExample2>>#swipe:
-SDL2TouchGestureExample2>>#switchDiscoMode
-SDL2TouchGestureExample2>>#windowCenter
-SDL2TouchGestureExample>>#beginPinch:
-SDL2TouchGestureExample>>#beginScroll:
-SDL2TouchGestureExample>>#createEventHandler
-SDL2TouchGestureExample>>#drawCircle
-SDL2TouchGestureExample>>#endPinch:
-SDL2TouchGestureExample>>#endScroll:
-SDL2TouchGestureExample>>#generateCircleOfSize:
-SDL2TouchGestureExample>>#initialize
-SDL2TouchGestureExample>>#pinch:
-SDL2TouchGestureExample>>#redraw
-SDL2TouchGestureExample>>#scroll:
-SDL2TouchStateMachine
-SDL2TouchStateMachine class>>#for:
-SDL2TouchStateMachine>>#add:
-SDL2TouchStateMachine>>#color
-SDL2TouchStateMachine>>#finish
-SDL2TouchStateMachine>>#finish:
-SDL2TouchStateMachine>>#first
-SDL2TouchStateMachine>>#first:
-SDL2TouchStateMachine>>#initialize
-SDL2TouchStateMachine>>#move
-SDL2TouchStateMachine>>#move:
-SDL2TuioObjectStateMachine
-SDL2TuioObjectStateMachine>>#angle
-SDL2TuioObjectStateMachine>>#angle:
-SDL2TuioObjectStateMachine>>#color
-SDL2TuioObjectStateMachine>>#color:
-SDL2TuioObjectStateMachine>>#initialize
-SDL2TuioObjectStateMachine>>#objectId
-SDL2TuioObjectStateMachine>>#objectId:
-SDL2TuioObjectStateMachine>>#objectNumber
-SDL2TuioObjectStateMachine>>#objectNumber:
-SDL_DropEvent
-SDL_DropEvent class>>#eventType
-SDL_DropEvent class>>#fieldsDesc
-SDL_DropEvent>>#accept:
-SDL_Event class>>#initialize
-SDL_Renderer class>>#destroyRenderer:
-SDL_Renderer class>>#finalizeResourceData:
-SDL_Renderer>>#createTextureFormat:access:width:height:
-SDL_Renderer>>#destroy
-SDL_Renderer>>#initialize
-SDL_Renderer>>#primCreateTextureFormat:access:width:height:
-SDL_Surface class>>#finalizeResourceData:
-SDL_Surface class>>#freeSurface:
-SDL_Surface>>#initialize
-SDL_TextInputEvent>>#strlen
-SDL_TextInputEvent>>#text
-SDL_Texture class>>#destroyTexture:
-SDL_Texture class>>#finalizeResourceData:
-SDL_Texture>>#initialize
-SDL_Texture>>#lockPixels:pitch:
-SDL_Texture>>#unlock
-SDL_Window>>#createRenderer:flags:
-SDL_Window>>#hide
-SDL_Window>>#primCreateRenderer:flags:
-SDL_Window>>#show
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50279
-ScriptLoader>>#update50279
-TextModel
-TextModel>>#beForCode
-TextModel>>#beForText
-TextModel>>#getMenu
-TextModel>>#initialize
-TextModel>>#isForSmalltalkCode
-TextModel>>#isForSmalltalkCode:
-TextModel>>#textArea
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#baseline04:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#baseline05:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#baseline06:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#development:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#stable:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#version122:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#version123:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#version124:
+ConfigurationOfOSWindow.ConfigurationOfOSWindow>>#version125:
+OSWindow-Core.OSEvent>>#window
+OSWindow-Core.OSKeyboardEvent>>#printOn:
+OSWindow-Core.OSMouseEvent>>#initialize
+OSWindow-Core.OSMouseWheelEvent>>#accept:
+OSWindow-Core.OSNullWindowDriver>>#createWindowWithAttributes:osWindow:
+OSWindow-Core.OSNullWindowDriver>>#isNullDriver
+OSWindow-Core.OSNullWindowHandle>>#attributes:
+OSWindow-Core.OSNullWindowHandle>>#bounds:
+OSWindow-Core.OSNullWindowHandle>>#clipboardText
+OSWindow-Core.OSNullWindowHandle>>#clipboardText:
+OSWindow-Core.OSNullWindowHandle>>#destroy
+OSWindow-Core.OSNullWindowHandle>>#extent
+OSWindow-Core.OSNullWindowHandle>>#extent:
+OSWindow-Core.OSNullWindowHandle>>#hide
+OSWindow-Core.OSNullWindowHandle>>#isValid
+OSWindow-Core.OSNullWindowHandle>>#newFormRenderer:
+OSWindow-Core.OSNullWindowHandle>>#position
+OSWindow-Core.OSNullWindowHandle>>#position:
+OSWindow-Core.OSNullWindowHandle>>#show
+OSWindow-Core.OSNullWindowHandle>>#title
+OSWindow-Core.OSNullWindowHandle>>#title:
+OSWindow-Core.OSTextInputEvent>>#initialize
+OSWindow-Core.OSTouchActionPointerDownEvent>>#accept:
+OSWindow-Core.OSTouchActionPointerUpEvent>>#accept:
+OSWindow-Core.OSTouchDirectionnalGestureDetector
+OSWindow-Core.OSTouchDirectionnalGestureDetector>>#dDist
+OSWindow-Core.OSTouchFingerTracker class>>#for:
+OSWindow-Core.OSTouchGestureDetector
+OSWindow-Core.OSTouchGestureDetector>>#centerOfAllFingers
+OSWindow-Core.OSTouchGestureDetector>>#deviceId
+OSWindow-Core.OSTouchGestureFactory class>>#onDeviceId:
+OSWindow-Core.OSTouchGestureFactory class>>#reinitializeAllSubclasses
+OSWindow-Core.OSTouchGestureFactory class>>#touchGestureSettingsOn:
+OSWindow-Core.OSTouchGestureFactory>>#activeFingers
+OSWindow-Core.OSTouchGestureFactory>>#activeFingers:
+OSWindow-Core.OSTouchGestureFactory>>#deviceId:
+OSWindow-Core.OSTouchGestureFactory>>#sendToEventHandler:
+OSWindow-Core.OSTouchGestureNeedingThreshold>>#initialize
+OSWindow-Core.OSTouchGestureNeedingThresholdDetector
+OSWindow-Core.OSTouchGestureNeedingThresholdDetector class>>#initialize
+OSWindow-Core.OSTouchGestureNeedingThresholdDetector class>>#minDistanceBeforeDetection
+OSWindow-Core.OSTouchGestureNeedingThresholdDetector class>>#minDistanceBeforeDetection:
+OSWindow-Core.OSTouchGestureNeedingThresholdDetector>>#beginConditions
+OSWindow-Core.OSTouchGestureNeedingThresholdDetector>>#distanceTravelledForEachFingers
+OSWindow-Core.OSTouchGestureNeedingThresholdDetector>>#eachFingersHadTravelledEnough
+OSWindow-Core.OSTouchHold class>>#maxDistanceTravelledSettingsOn:
+OSWindow-Core.OSTouchHold class>>#touchHoldSettingsOn:
+OSWindow-Core.OSTouchHold class>>#waitingTimeSettingsOn:
+OSWindow-Core.OSTouchHold>>#createHoldEvent
+OSWindow-Core.OSTouchHold>>#initialize
+OSWindow-Core.OSTouchHold>>#necessaryFingers
+OSWindow-Core.OSTouchHold>>#visitTouchPointerUpEvent:
+OSWindow-Core.OSTouchHoldDetector
+OSWindow-Core.OSTouchHoldDetector class>>#initialize
+OSWindow-Core.OSTouchHoldDetector class>>#maxDistanceTravelled
+OSWindow-Core.OSTouchHoldDetector class>>#maxDistanceTravelled:
+OSWindow-Core.OSTouchHoldDetector class>>#waitingTime
+OSWindow-Core.OSTouchHoldDetector class>>#waitingTime:
+OSWindow-Core.OSTouchHoldDetector>>#createWaitingProcess
+OSWindow-Core.OSTouchHoldDetector>>#visitTouchPointerDownEvent:
+OSWindow-Core.OSTouchMoveEvent>>#position
+OSWindow-Core.OSTouchMoveEvent>>#position:
+OSWindow-Core.OSTouchOneDirectionGesture>>#direction
+OSWindow-Core.OSTouchOneDirectionGesture>>#direction:
+OSWindow-Core.OSTouchOneDirectionGestureDetector
+OSWindow-Core.OSTouchOneDirectionGestureDetector>>#allFingersGoesInTheSameDirection
+OSWindow-Core.OSTouchOneDirectionGestureDetector>>#beginConditions
+OSWindow-Core.OSTouchOneDirectionGestureDetector>>#dDist
+OSWindow-Core.OSTouchOneFingerDoubleTap class>>#doubleTouchSpeedSettingsOn:
+OSWindow-Core.OSTouchOneFingerDoubleTap class>>#maxDistanceSettingsOn:
+OSWindow-Core.OSTouchOneFingerDoubleTap class>>#touchDoubleTapSettingsOn:
+OSWindow-Core.OSTouchOneFingerDoubleTap>>#checkDoubleTouch
+OSWindow-Core.OSTouchOneFingerDoubleTap>>#createEvent
+OSWindow-Core.OSTouchOneFingerDoubleTap>>#initialize
+OSWindow-Core.OSTouchOneFingerDoubleTap>>#reinitialize
+OSWindow-Core.OSTouchOneFingerDoubleTap>>#visitTouchPointerDownEvent:
+OSWindow-Core.OSTouchOneFingerDoubleTapDetector
+OSWindow-Core.OSTouchOneFingerDoubleTapDetector class>>#doubleTouchSpeed
+OSWindow-Core.OSTouchOneFingerDoubleTapDetector class>>#doubleTouchSpeed:
+OSWindow-Core.OSTouchOneFingerDoubleTapDetector class>>#initialize
+OSWindow-Core.OSTouchOneFingerDoubleTapDetector class>>#maxDistance
+OSWindow-Core.OSTouchOneFingerDoubleTapDetector class>>#maxDistance:
+OSWindow-Core.OSTouchOneFingerDoubleTapEvent>>#accept:
+OSWindow-Core.OSTouchOneFingerHold>>#necessaryFingers
+OSWindow-Core.OSTouchOneFingerHoldDetector
+OSWindow-Core.OSTouchOneFingerHoldDetector>>#createHoldEvent
+OSWindow-Core.OSTouchOneFingerHoldEvent>>#accept:
+OSWindow-Core.OSTouchPinch class>>#maxDistanceBetweenFingersLineSettingsOn:
+OSWindow-Core.OSTouchPinch class>>#minDistanceBeforeDetectionSettingsOn:
+OSWindow-Core.OSTouchPinch class>>#touchPinchSettingsOn:
+OSWindow-Core.OSTouchPinch>>#createEventBeginning
+OSWindow-Core.OSTouchPinch>>#createEventEnding
+OSWindow-Core.OSTouchPinch>>#dDist
+OSWindow-Core.OSTouchPinch>>#eventClassBeginGesture
+OSWindow-Core.OSTouchPinch>>#eventClassEndGesture
+OSWindow-Core.OSTouchPinch>>#initialize
+OSWindow-Core.OSTouchPinchDetector
+OSWindow-Core.OSTouchPinchDetector class>>#initialize
+OSWindow-Core.OSTouchPinchDetector class>>#maxDistanceBetweenFingersLine
+OSWindow-Core.OSTouchPinchDetector class>>#maxDistanceBetweenFingersLine:
+OSWindow-Core.OSTouchPinchDetector>>#areFingersLinesNotTooFarApart
+OSWindow-Core.OSTouchPinchDetector>>#beginConditions
+OSWindow-Core.OSTouchPinchDetector>>#createEventDuringMove
+OSWindow-Core.OSTouchPinchDetector>>#doesFingersGoesInOppositeDirection
+OSWindow-Core.OSTouchPinchDetector>>#fingersDistanceFromCenter
+OSWindow-Core.OSTouchPunctualGestureDetector
+OSWindow-Core.OSTouchRotation class>>#minAngleBeforeDetectionSettingsOn:
+OSWindow-Core.OSTouchRotation class>>#touchRotationSettingsOn:
+OSWindow-Core.OSTouchRotation>>#createEventBeginning
+OSWindow-Core.OSTouchRotation>>#createEventDuringMove
+OSWindow-Core.OSTouchRotation>>#createEventEnding
+OSWindow-Core.OSTouchRotation>>#eventClassBeginGesture
+OSWindow-Core.OSTouchRotation>>#eventClassEndGesture
+OSWindow-Core.OSTouchRotation>>#eventClassMoveGesture
+OSWindow-Core.OSTouchRotation>>#updateCurrentAngle
+OSWindow-Core.OSTouchRotation>>#visitTouchPointerDownEvent:
+OSWindow-Core.OSTouchRotation>>#visitTouchPointerMoveEvent:
+OSWindow-Core.OSTouchRotationDetector
+OSWindow-Core.OSTouchRotationDetector class>>#minAngleBeforeDetection
+OSWindow-Core.OSTouchRotationDetector class>>#minAngleBeforeDetection:
+OSWindow-Core.OSTouchRotationDetector>>#beginConditions
+OSWindow-Core.OSTouchRotationDetector>>#initialize
+OSWindow-Core.OSTouchRotationDetector>>#isBrinkAngleOverwhelmed
+OSWindow-Core.OSTouchRotationDetector>>#vectorBetweenFirstAndLastFingers
+OSWindow-Core.OSTouchScroll class>>#minDistanceBeforeDetectionSettingsOn:
+OSWindow-Core.OSTouchScroll class>>#persistentDirectionSettingsOn:
+OSWindow-Core.OSTouchScroll class>>#touchScrollSettingsOn:
+OSWindow-Core.OSTouchScroll>>#createEventBeginning
+OSWindow-Core.OSTouchScroll>>#createEventDuringMove
+OSWindow-Core.OSTouchScroll>>#createEventEnding
+OSWindow-Core.OSTouchScroll>>#eventClassBeginGesture
+OSWindow-Core.OSTouchScroll>>#eventClassEndGesture
+OSWindow-Core.OSTouchScroll>>#eventClassMoveGesture
+OSWindow-Core.OSTouchScroll>>#initialize
+OSWindow-Core.OSTouchScroll>>#isKeepingDirection
+OSWindow-Core.OSTouchScrollDetector
+OSWindow-Core.OSTouchScrollDetector class>>#initialize
+OSWindow-Core.OSTouchScrollDetector class>>#persistentDirection
+OSWindow-Core.OSTouchScrollDetector class>>#persistentDirection:
+OSWindow-Core.OSTouchScrollDetector>>#beginConditions
+OSWindow-Core.OSTouchStateGesture>>#createEventBeginning
+OSWindow-Core.OSTouchStateGesture>>#createEventDuringMove
+OSWindow-Core.OSTouchStateGesture>>#createEventEnding
+OSWindow-Core.OSTouchStateGesture>>#hasGoodNumberOfFingers
+OSWindow-Core.OSTouchStateGesture>>#initialize
+OSWindow-Core.OSTouchStateGesture>>#necessaryFingers
+OSWindow-Core.OSTouchStateGestureDetector
+OSWindow-Core.OSTouchStateGestureDetector>>#beginConditions
+OSWindow-Core.OSTouchStateGestureDetector>>#stayActiveConditions
+OSWindow-Core.OSTouchStateGestureDetector>>#tryToEndGesture
+OSWindow-Core.OSTouchStateGestureDetector>>#tryToGoThroughNextState
+OSWindow-Core.OSTouchStateGestureDetector>>#tryToStartGesture
+OSWindow-Core.OSTouchStateGestureDetector>>#visitTouchPointerDownEvent:
+OSWindow-Core.OSTouchStateGestureDetector>>#visitTouchPointerMoveEvent:
+OSWindow-Core.OSTouchStateGestureDetector>>#visitTouchPointerUpEvent:
+OSWindow-Core.OSTouchSwipe class>>#minDistToBorderSettingsOn:
+OSWindow-Core.OSTouchSwipe class>>#minDistanceBeforeDetectionSettingsOn:
+OSWindow-Core.OSTouchSwipe class>>#touchSwipeSettingsOn:
+OSWindow-Core.OSTouchSwipe>>#createEventBeginning
+OSWindow-Core.OSTouchSwipe>>#createEventDuringMove
+OSWindow-Core.OSTouchSwipe>>#createEventEnding
+OSWindow-Core.OSTouchSwipe>>#eventClassAbortGesture
+OSWindow-Core.OSTouchSwipe>>#eventClassBeginGesture
+OSWindow-Core.OSTouchSwipe>>#eventClassEndGesture
+OSWindow-Core.OSTouchSwipe>>#eventClassMoveGesture
+OSWindow-Core.OSTouchSwipe>>#initialize
+OSWindow-Core.OSTouchSwipeDetector
+OSWindow-Core.OSTouchSwipeDetector class>>#initialize
+OSWindow-Core.OSTouchSwipeDetector class>>#minDistToBorder
+OSWindow-Core.OSTouchSwipeDetector class>>#minDistToBorder:
+OSWindow-Core.OSTouchSwipeDetector>>#areFingersCloseToABorder
+OSWindow-Core.OSTouchSwipeDetector>>#beginConditions
+OSWindow-Core.OSTouchSwipeDetector>>#eventClassMoveGesture
+OSWindow-Core.OSTouchThreeFingersScroll>>#eventClassBeginGesture
+OSWindow-Core.OSTouchThreeFingersScroll>>#eventClassEndGesture
+OSWindow-Core.OSTouchThreeFingersScroll>>#eventClassMoveGesture
+OSWindow-Core.OSTouchThreeFingersScroll>>#necessaryFingers
+OSWindow-Core.OSTouchThreeFingersScrollBeginEvent>>#accept:
+OSWindow-Core.OSTouchThreeFingersScrollDetector
+OSWindow-Core.OSTouchThreeFingersScrollEndEvent>>#accept:
+OSWindow-Core.OSTouchThreeFingersScrollMoveEvent>>#accept:
+OSWindow-Core.OSTouchThreeFingersSwipe>>#eventClassAbortGesture
+OSWindow-Core.OSTouchThreeFingersSwipe>>#eventClassBeginGesture
+OSWindow-Core.OSTouchThreeFingersSwipe>>#eventClassEndGesture
+OSWindow-Core.OSTouchThreeFingersSwipe>>#eventClassMoveGesture
+OSWindow-Core.OSTouchThreeFingersSwipe>>#necessaryFingers
+OSWindow-Core.OSTouchThreeFingersSwipeAbortEvent>>#accept:
+OSWindow-Core.OSTouchThreeFingersSwipeBeginEvent>>#accept:
+OSWindow-Core.OSTouchThreeFingersSwipeDetector
+OSWindow-Core.OSTouchThreeFingersSwipeEndEvent>>#accept:
+OSWindow-Core.OSTouchThreeFingersSwipeMoveEvent>>#accept:
+OSWindow-Core.OSTouchTwoFingersPinch>>#eventClassBeginGesture
+OSWindow-Core.OSTouchTwoFingersPinch>>#eventClassEndGesture
+OSWindow-Core.OSTouchTwoFingersPinch>>#necessaryFingers
+OSWindow-Core.OSTouchTwoFingersPinchBeginEvent>>#accept:
+OSWindow-Core.OSTouchTwoFingersPinchDetector
+OSWindow-Core.OSTouchTwoFingersPinchDetector>>#eventClassMoveGesture
+OSWindow-Core.OSTouchTwoFingersPinchEndEvent>>#accept:
+OSWindow-Core.OSTouchTwoFingersPinchMoveEvent
+OSWindow-Core.OSTouchTwoFingersPinchMoveEvent>>#accept:
+OSWindow-Core.OSTouchTwoFingersRotation>>#eventClassBeginGesture
+OSWindow-Core.OSTouchTwoFingersRotation>>#eventClassEndGesture
+OSWindow-Core.OSTouchTwoFingersRotation>>#eventClassMoveGesture
+OSWindow-Core.OSTouchTwoFingersRotation>>#necessaryFingers
+OSWindow-Core.OSTouchTwoFingersRotationBeginEvent>>#accept:
+OSWindow-Core.OSTouchTwoFingersRotationDetector
+OSWindow-Core.OSTouchTwoFingersRotationEndEvent>>#accept:
+OSWindow-Core.OSTouchTwoFingersRotationMoveEvent>>#accept:
+OSWindow-Core.OSTouchTwoFingersScroll>>#eventClassBeginGesture
+OSWindow-Core.OSTouchTwoFingersScroll>>#eventClassEndGesture
+OSWindow-Core.OSTouchTwoFingersScroll>>#eventClassMoveGesture
+OSWindow-Core.OSTouchTwoFingersScroll>>#necessaryFingers
+OSWindow-Core.OSTouchTwoFingersScrollDetector
+OSWindow-Core.OSWindow
+OSWindow-Core.OSWindow>>#destroy
+OSWindow-Core.OSWindow>>#getFlags
+OSWindow-Core.OSWindow>>#hide
+OSWindow-Core.OSWindow>>#initWithAttributes:
+OSWindow-Core.OSWindow>>#maximize
+OSWindow-Core.OSWindow>>#minimize
+OSWindow-Core.OSWindow>>#newAthensRenderer
+OSWindow-Core.OSWindow>>#registerWindow
+OSWindow-Core.OSWindow>>#restore
+OSWindow-Core.OSWindow>>#setDraggableArea:
+OSWindow-Core.OSWindow>>#show
+OSWindow-Core.OSWindow>>#toggleBorderOff
+OSWindow-Core.OSWindow>>#toggleBorderOn
+OSWindow-Core.OSWindowAnimated
+OSWindow-Core.OSWindowAnimated>>#destroy
+OSWindow-Core.OSWindowAnimated>>#initWithAttributes:
+OSWindow-Core.OSWindowAthensRenderer
+OSWindow-Core.OSWindowAthensRenderer>>#athensSurface
+OSWindow-Core.OSWindowAthensRenderer>>#checkSession
+OSWindow-Core.OSWindowAthensRenderer>>#destroy
+OSWindow-Core.OSWindowAthensRenderer>>#initialize
+OSWindow-Core.OSWindowAttributes
+OSWindow-Core.OSWindowAttributes>>#borderless
+OSWindow-Core.OSWindowAttributes>>#borderless:
+OSWindow-Core.OSWindowAttributes>>#createWindowHandleFor:
+OSWindow-Core.OSWindowAttributes>>#initialize
+OSWindow-Core.OSWindowBench>>#benchEventProcessing
+OSWindow-Core.OSWindowClipboard>>#chooseRecentClipping
+OSWindow-Core.OSWindowClipboard>>#clipboardText
+OSWindow-Core.OSWindowClipboard>>#clipboardText:
+OSWindow-Core.OSWindowClipboard>>#noteRecentClipping:
+OSWindow-Core.OSWindowDriver>>#createWindowWithAttributes:osWindow:
+OSWindow-Core.OSWindowDropEvent
+OSWindow-Core.OSWindowDropEvent>>#filePath
+OSWindow-Core.OSWindowDropEvent>>#filePath:
+OSWindow-Core.OSWindowDropEvent>>#printOn:
+OSWindow-Core.OSWindowDropEvent>>#timestamp
+OSWindow-Core.OSWindowDropEvent>>#timestamp:
+OSWindow-Core.OSWindowEventFilter>>#eventHandler
+OSWindow-Core.OSWindowEventFilter>>#eventHandler:
+OSWindow-Core.OSWindowEventGestureVisitor>>#handleGestureEvent:
+OSWindow-Core.OSWindowEventGestureVisitor>>#visitTouchActionPointerDownEvent:
+OSWindow-Core.OSWindowEventGestureVisitor>>#visitTouchActionPointerMoveEvent:
+OSWindow-Core.OSWindowEventGestureVisitor>>#visitTouchActionPointerUpEvent:
+OSWindow-Core.OSWindowEventGestureVisitor>>#visitTouchOneFingerHoldEvent:
+OSWindow-Core.OSWindowEventGestureVisitor>>#visitTouchTwoFingersPinchMoveEvent:
+OSWindow-Core.OSWindowEventVisitor>>#handleEvent:
+OSWindow-Core.OSWindowEventVisitor>>#visitTouchPointerDownEvent:
+OSWindow-Core.OSWindowEventVisitor>>#visitTouchPointerMoveEvent:
+OSWindow-Core.OSWindowEventVisitor>>#visitTouchPointerUpEvent:
+OSWindow-Core.OSWindowEventVisitor>>#visitWindowMaximizedEvent:
+OSWindow-Core.OSWindowEventVisitor>>#visitWindowMinimizedEvent:
+OSWindow-Core.OSWindowExposeEvent
+OSWindow-Core.OSWindowExposeEvent>>#defaultAction
+OSWindow-Core.OSWindowExposeEvent>>#timestamp
+OSWindow-Core.OSWindowExposeEvent>>#timestamp:
+OSWindow-Core.OSWindowFrameEvent>>#accept:
+OSWindow-Core.OSWindowGLRenderer>>#getProcAddress:
+OSWindow-Core.OSWindowGLRenderer>>#makeCurrent
+OSWindow-Core.OSWindowGLRenderer>>#swapBuffers
+OSWindow-Core.OSWindowGestureHandler>>#fingersFromDevice:
+OSWindow-Core.OSWindowGestureHandler>>#registerGesture:
+OSWindow-Core.OSWindowGestureHandler>>#trackFinger:
+OSWindow-Core.OSWindowGestureHandler>>#unregisterGesture:
+OSWindow-Core.OSWindowGestureHandler>>#untrackFinger:
+OSWindow-Core.OSWindowGestureHandler>>#updateGesturesActiveFingers
+OSWindow-Core.OSWindowGestureHandler>>#visitTouchPointerDownEvent:
+OSWindow-Core.OSWindowGestureHandler>>#visitTouchPointerMoveEvent:
+OSWindow-Core.OSWindowGestureHandler>>#visitTouchPointerUpEvent:
+OSWindow-Core.OSWindowHandle>>#bounds
+OSWindow-Core.OSWindowHandle>>#hide
+OSWindow-Core.OSWindowHandle>>#position
+OSWindow-Core.OSWindowHandle>>#show
+OSWindow-Core.OSWindowMaximizedEvent
+OSWindow-Core.OSWindowMaximizedEvent>>#accept:
+OSWindow-Core.OSWindowMinimizedEvent
+OSWindow-Core.OSWindowMinimizedEvent>>#accept:
+OSWindow-Core.OSWindowMorphicEventHandler>>#activeHand
+OSWindow-Core.OSWindowMorphicEventHandler>>#convertModifiers:
+OSWindow-Core.OSWindowMorphicEventHandler>>#visitTextInputEvent:
+OSWindow-Core.OSWindowMorphicEventHandler>>#visitUnknownEvent:
+OSWindow-Core.OSWindowMouseLeaveEvent>>#accept:
+OSWindow-Core.OSWindowRenderThread
+OSWindow-Core.OSWindowRenderThread class>>#createRenderThread
+OSWindow-Core.OSWindowRenderThread class>>#performAnimationFrames
+OSWindow-Core.OSWindowRenderThreadOperation
+OSWindow-Core.OSWindowRenderer>>#destroy
+OSWindow-Core.OSWindowRenderer>>#initialize
+OSWindow-Core.OSWindowRenderer>>#resized
+OSWindow-Core.OSWindowResizeEvent>>#accept:
+OSWindow-Core.OSWindowResizeEvent>>#defaultAction
+OSWindow-Core.OSWindowResizeEvent>>#height:
+OSWindow-Core.OSWindowResizeEvent>>#width:
+OSWindow-Core.OSWindowTest>>#testCreatingWindow
+OSWindow-Core.OSWindowTest>>#testNewWindowDefaults
+OSWindow-Core.OSWindowTest>>#testSettingUpWindow
+OSWindow-SDL2-Examples.OSWindowAthensDrawingExampleEventHandler
+OSWindow-SDL2-Examples.OSWindowAthensDrawingExampleEventHandler>>#visitMouseButtonPressEvent:
+OSWindow-SDL2-Examples.OSWindowAthensDrawingExampleEventHandler>>#visitMouseButtonReleaseEvent:
+OSWindow-SDL2-Examples.OSWindowAthensDrawingExampleEventHandler>>#visitMouseMoveEvent:
+OSWindow-SDL2-Examples.OSWindowAthensExampleEventHandler
+OSWindow-SDL2-Examples.OSWindowAthensExampleEventHandler>>#athensExample
+OSWindow-SDL2-Examples.OSWindowAthensExampleEventHandler>>#athensExample:
+OSWindow-SDL2-Examples.OSWindowAthensExampleEventHandler>>#visitWindowCloseEvent:
+OSWindow-SDL2-Examples.OSWindowGestureEventHandler>>#visitTouchActionPointerDownEvent:
+OSWindow-SDL2-Examples.OSWindowGestureEventHandler>>#visitTouchActionPointerMoveEvent:
+OSWindow-SDL2-Examples.OSWindowGestureEventHandler>>#visitTouchActionPointerUpEvent:
+OSWindow-SDL2-Examples.OSWindowGestureEventHandler>>#visitTouchOneFingerDoubleTapEvent:
+OSWindow-SDL2-Examples.OSWindowGestureEventHandler>>#visitTouchOneFingerHoldEvent:
+OSWindow-SDL2-Examples.OSWindowGestureEventHandler>>#visitTouchTwoFingersPinchMoveEvent:
+OSWindow-SDL2-Examples.OSWindowTouchEventHandler>>#visitTouchPointerUpEvent:
+OSWindow-SDL2-Examples.OSWindowTouchEventHandler>>#visitWindowCloseEvent:
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#clearStrokes
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#clearSurface
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#createEventHandler
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#endStroke
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#initialize
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#moveAt:
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#redraw
+OSWindow-SDL2-Examples.SDL2AthensDrawingExample>>#startStrokeAt:
+OSWindow-SDL2-Examples.SDL2AthensExample
+OSWindow-SDL2-Examples.SDL2AthensExample>>#createDrawingProcess
+OSWindow-SDL2-Examples.SDL2AthensExample>>#createEventHandler
+OSWindow-SDL2-Examples.SDL2AthensExample>>#defaultExtent
+OSWindow-SDL2-Examples.SDL2AthensExample>>#destroy
+OSWindow-SDL2-Examples.SDL2AthensExample>>#initializeFromSurface
+OSWindow-SDL2-Examples.SDL2AthensExample>>#maxFPS
+OSWindow-SDL2-Examples.SDL2AthensExample>>#open
+OSWindow-SDL2-Examples.SDL2AthensExample>>#redraw
+OSWindow-SDL2-Examples.SDL2AthensExample>>#redrawAndUpdateSurface
+OSWindow-SDL2-Examples.SDL2AthensExample>>#updateSurface
+OSWindow-SDL2-Examples.SDL2Example
+OSWindow-SDL2-Examples.SDL2TouchExample
+OSWindow-SDL2-Examples.SDL2TouchExample class>>#example
+OSWindow-SDL2-Examples.SDL2TouchExample>>#backgroundColor
+OSWindow-SDL2-Examples.SDL2TouchExample>>#beginMove:at:
+OSWindow-SDL2-Examples.SDL2TouchExample>>#clearSurface
+OSWindow-SDL2-Examples.SDL2TouchExample>>#drawCircleAt:color:
+OSWindow-SDL2-Examples.SDL2TouchExample>>#drawMoves
+OSWindow-SDL2-Examples.SDL2TouchExample>>#initialize
+OSWindow-SDL2-Examples.SDL2TouchExample>>#initializeFromSurface
+OSWindow-SDL2-Examples.SDL2TouchExample>>#move:at:
+OSWindow-SDL2-Examples.SDL2TouchExample>>#redraw
+OSWindow-SDL2-Examples.SDL2TouchGestureExample
+OSWindow-SDL2-Examples.SDL2TouchGestureExample class>>#example
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2 class>>#example
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#createEventHandler
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#displayAbortMessage
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#drawBlackBackground
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#drawCircle
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#endSwipe:
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#generateCircleOfSize:
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#initialize
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#initializeFromSurface
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#pinch:
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#randomizeCircleColor
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#redraw
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#scroll:
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#swipe:
+OSWindow-SDL2-Examples.SDL2TouchGestureExample2>>#switchDiscoMode
+OSWindow-SDL2-Examples.SDL2TouchGestureExample>>#createEventHandler
+OSWindow-SDL2-Examples.SDL2TouchGestureExample>>#drawCircle
+OSWindow-SDL2-Examples.SDL2TouchGestureExample>>#generateCircleOfSize:
+OSWindow-SDL2-Examples.SDL2TouchGestureExample>>#initialize
+OSWindow-SDL2-Examples.SDL2TouchGestureExample>>#pinch:
+OSWindow-SDL2-Examples.SDL2TouchGestureExample>>#redraw
+OSWindow-SDL2-Examples.SDL2TouchGestureExample>>#scroll:
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#angle
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#angle:
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#color
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#color:
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#initialize
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#objectId
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#objectId:
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#objectNumber
+OSWindow-SDL2-Examples.SDL2TuioObjectStateMachine>>#objectNumber:
+OSWindow-SDL2.AthensCairoSDLSurface
+OSWindow-SDL2.AthensCairoSDLSurface class>>#newFromPixels:width:height:pitch:
+OSWindow-SDL2.AthensCairoSurface class>>#fromSDLSurface:
+OSWindow-SDL2.DraggableCallback
+OSWindow-SDL2.DraggableCallback class>>#fnSpec
+OSWindow-SDL2.OSSDL2AthensRenderer
+OSWindow-SDL2.OSSDL2AthensRenderer class>>#for:
+OSWindow-SDL2.OSSDL2AthensRenderer>>#createAthensSurface
+OSWindow-SDL2.OSSDL2AthensRenderer>>#createRenderer
+OSWindow-SDL2.OSSDL2AthensRenderer>>#createSDLSurface
+OSWindow-SDL2.OSSDL2AthensRenderer>>#createTexture
+OSWindow-SDL2.OSSDL2AthensRenderer>>#destroy
+OSWindow-SDL2.OSSDL2AthensRenderer>>#initialize
+OSWindow-SDL2.OSSDL2AthensRenderer>>#resetAthensSurface
+OSWindow-SDL2.OSSDL2AthensRenderer>>#resetRessources
+OSWindow-SDL2.OSSDL2AthensRenderer>>#resetSDLSurface
+OSWindow-SDL2.OSSDL2AthensRenderer>>#resetTexture
+OSWindow-SDL2.OSSDL2AthensRenderer>>#resized
+OSWindow-SDL2.OSSDL2AthensRenderer>>#updateAll
+OSWindow-SDL2.OSSDL2AthensRenderer>>#updateRectangle:
+OSWindow-SDL2.OSSDL2Driver
+OSWindow-SDL2.OSSDL2Driver>>#convertEvent:
+OSWindow-SDL2.OSSDL2Driver>>#createWindowWithAttributes:osWindow:
+OSWindow-SDL2.OSSDL2Driver>>#initialize
+OSWindow-SDL2.OSSDL2Driver>>#initializeWindowMap
+OSWindow-SDL2.OSSDL2Driver>>#setupEventLoop
+OSWindow-SDL2.OSSDL2Driver>>#unregisterWindow:
+OSWindow-SDL2.OSSDL2Driver>>#visitDropEvent:
+OSWindow-SDL2.OSSDL2Driver>>#visitFingerDownEvent:
+OSWindow-SDL2.OSSDL2Driver>>#visitFingerMotionEvent:
+OSWindow-SDL2.OSSDL2Driver>>#visitFingerUpEvent:
+OSWindow-SDL2.OSSDL2FormRenderer>>#createTexture
+OSWindow-SDL2.OSSDL2FormRenderer>>#destroy
+OSWindow-SDL2.OSSDL2FormRenderer>>#initialize
+OSWindow-SDL2.OSSDL2FormRenderer>>#updateAll
+OSWindow-SDL2.OSSDL2FormRenderer>>#updateRectangle:
+OSWindow-SDL2.OSSDL2FormRenderer>>#useDeferredUpdates
+OSWindow-SDL2.OSSDL2FormRenderer>>#validate
+OSWindow-SDL2.OSSDL2GLRenderer
+OSWindow-SDL2.OSSDL2WindowHandle>>#destroy
+OSWindow-SDL2.OSSDL2WindowHandle>>#getFlags
+OSWindow-SDL2.OSSDL2WindowHandle>>#hide
+OSWindow-SDL2.OSSDL2WindowHandle>>#maximize
+OSWindow-SDL2.OSSDL2WindowHandle>>#minimize
+OSWindow-SDL2.OSSDL2WindowHandle>>#newAthensRenderer
+OSWindow-SDL2.OSSDL2WindowHandle>>#restore
+OSWindow-SDL2.OSSDL2WindowHandle>>#setDraggableArea:
+OSWindow-SDL2.OSSDL2WindowHandle>>#show
+OSWindow-SDL2.OSSDL2WindowHandle>>#title
+OSWindow-SDL2.OSSDL2WindowHandle>>#toggleBorderOff
+OSWindow-SDL2.OSSDL2WindowHandle>>#toggleBorderOn
+OSWindow-SDL2.OSSDL2WindowHandle>>#visitWindowEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler
+OSWindow-SDL2.OSWindowGestureEventHandler>>#touchExample:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeAbortEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeBeginEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeEndEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchThreeFingersSwipeMoveEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersPinchBeginEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersPinchEndEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersRotationBeginEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersRotationEndEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersRotationMoveEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersScrollBeginEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersScrollEndEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitTouchTwoFingersScrollMoveEvent:
+OSWindow-SDL2.OSWindowGestureEventHandler>>#visitWindowCloseEvent:
+OSWindow-SDL2.OSWindowTouchEventHandler
+OSWindow-SDL2.OSWindowTouchEventHandler>>#touchExample:
+OSWindow-SDL2.OSWindowTouchEventHandler>>#visitTouchPointerDownEvent:
+OSWindow-SDL2.OSWindowTouchEventHandler>>#visitTouchPointerMoveEvent:
+OSWindow-SDL2.Rectangle>>#asSDLRect
+OSWindow-SDL2.SDL2 class>>#createRGBSurfaceForCairoWidth:height:
+OSWindow-SDL2.SDL2 class>>#primCreateRGBSurfaceForCairoWidth:height:
+OSWindow-SDL2.SDL2Example>>#osWindow
+OSWindow-SDL2.SDL2Example>>#simpleBlackWindow
+OSWindow-SDL2.SDL2Example>>#simpleDrawDisplay
+OSWindow-SDL2.SDL2Example>>#simpleDrawWindow
+OSWindow-SDL2.SDL2Example>>#simpleWindow
+OSWindow-SDL2.SDL2Handle>>#nbLibraryNameOrHandle
+OSWindow-SDL2.SDL2TouchExample>>#createEventHandler
+OSWindow-SDL2.SDL2TouchExample>>#endMove:at:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#abortedSwipe
+OSWindow-SDL2.SDL2TouchGestureExample2>>#beginPinch:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#beginRotation:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#beginScroll:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#beginSwipe:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#changeColors
+OSWindow-SDL2.SDL2TouchGestureExample2>>#endPinch:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#endRotation:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#endScroll:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#rotation:
+OSWindow-SDL2.SDL2TouchGestureExample2>>#windowCenter
+OSWindow-SDL2.SDL2TouchGestureExample>>#beginPinch:
+OSWindow-SDL2.SDL2TouchGestureExample>>#beginScroll:
+OSWindow-SDL2.SDL2TouchGestureExample>>#endPinch:
+OSWindow-SDL2.SDL2TouchGestureExample>>#endScroll:
+OSWindow-SDL2.SDL2TouchStateMachine
+OSWindow-SDL2.SDL2TouchStateMachine class>>#for:
+OSWindow-SDL2.SDL2TouchStateMachine>>#add:
+OSWindow-SDL2.SDL2TouchStateMachine>>#color
+OSWindow-SDL2.SDL2TouchStateMachine>>#finish
+OSWindow-SDL2.SDL2TouchStateMachine>>#finish:
+OSWindow-SDL2.SDL2TouchStateMachine>>#first
+OSWindow-SDL2.SDL2TouchStateMachine>>#first:
+OSWindow-SDL2.SDL2TouchStateMachine>>#initialize
+OSWindow-SDL2.SDL2TouchStateMachine>>#move
+OSWindow-SDL2.SDL2TouchStateMachine>>#move:
+OSWindow-SDL2.SDL_DropEvent
+OSWindow-SDL2.SDL_DropEvent class>>#eventType
+OSWindow-SDL2.SDL_DropEvent class>>#fieldsDesc
+OSWindow-SDL2.SDL_DropEvent>>#accept:
+OSWindow-SDL2.SDL_Event class>>#initialize
+OSWindow-SDL2.SDL_Renderer class>>#destroyRenderer:
+OSWindow-SDL2.SDL_Renderer class>>#finalizeResourceData:
+OSWindow-SDL2.SDL_Renderer>>#createTextureFormat:access:width:height:
+OSWindow-SDL2.SDL_Renderer>>#destroy
+OSWindow-SDL2.SDL_Renderer>>#initialize
+OSWindow-SDL2.SDL_Renderer>>#primCreateTextureFormat:access:width:height:
+OSWindow-SDL2.SDL_Surface class>>#finalizeResourceData:
+OSWindow-SDL2.SDL_Surface class>>#freeSurface:
+OSWindow-SDL2.SDL_Surface>>#initialize
+OSWindow-SDL2.SDL_TextInputEvent>>#strlen
+OSWindow-SDL2.SDL_TextInputEvent>>#text
+OSWindow-SDL2.SDL_Texture class>>#destroyTexture:
+OSWindow-SDL2.SDL_Texture class>>#finalizeResourceData:
+OSWindow-SDL2.SDL_Texture>>#initialize
+OSWindow-SDL2.SDL_Texture>>#lockPixels:pitch:
+OSWindow-SDL2.SDL_Texture>>#unlock
+OSWindow-SDL2.SDL_Window>>#createRenderer:flags:
+OSWindow-SDL2.SDL_Window>>#hide
+OSWindow-SDL2.SDL_Window>>#primCreateRenderer:flags:
+OSWindow-SDL2.SDL_Window>>#show
+OSWindow-VM.OSVMWindowHandle>>#hide
+OSWindow-VM.OSVMWindowHandle>>#position
+OSWindow-VM.OSVMWindowHandle>>#show
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50279
+ScriptLoader50.ScriptLoader>>#update50279
+Spec-Core.TextModel
+Spec-Core.TextModel>>#beForCode
+Spec-Core.TextModel>>#beForText
+Spec-Core.TextModel>>#getMenu
+Spec-Core.TextModel>>#initialize
+Spec-Core.TextModel>>#isForSmalltalkCode
+Spec-Core.TextModel>>#isForSmalltalkCode:
+Spec-Core.TextModel>>#textArea
+Spec-Inspector.EyeInspector>>#initializeWidgets
+Spec-MorphicAdapters.MorphicTextAdapter>>#buildWidget
+Spec-MorphicAdapters.MorphicTextAdapter>>#classOrMetaClass:
+Spec-MorphicAdapters.MorphicTextAdapter>>#isForSmalltalkCode
+Spec-MorphicAdapters.MorphicTextAdapter>>#setEditingModeFor:withBehavior:

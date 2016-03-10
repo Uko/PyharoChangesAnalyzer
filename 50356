@@ -1,77 +1,77 @@
-DialogGroupManagerWithPackagesSelectionUI>>#buildAddButton
-DialogGroupManagerWithPackagesSelectionUI>>#buildAddSelectedPackageInSelectedGroupButton
-DialogGroupManagerWithPackagesSelectionUI>>#buildEmptyGroupButton
-DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveSelectedPackageFromSelectedGroupButton
-DialogGroupManagerWithPackagesSelectionUI>>#buildRenameButton
-EclipseUIThemeIcons>>#historyIcon
-EclipseUIThemeIcons>>#komitterIcon
-KomitRemote class>>#icon
-KomitterUI class>>#manageRemotesIcon
-Pharo3DarkTheme>>#checkboxSelectedForm
-Pharo3DarkTheme>>#checkboxUnselectedForm
-Pharo3DarkTheme>>#menuPinForm
-Pharo3DarkTheme>>#newCheckboxMarkerForm
-Pharo3DarkTheme>>#newRadioButtonMarkerForm
-Pharo3DarkTheme>>#newWindowCloseForm
-Pharo3DarkTheme>>#newWindowMaximizeForm
-Pharo3DarkTheme>>#newWindowMenuForm
-Pharo3DarkTheme>>#newWindowMenuPassiveForm
-Pharo3DarkTheme>>#newWindowMinimizeForm
-Pharo3DarkTheme>>#radioButtonForm
-Pharo3DarkTheme>>#radioButtonSelectedForm
-Pharo3DarkTheme>>#windowClosePassiveForm
-Pharo3DarkTheme>>#windowMaximizePassiveForm
-Pharo3DarkTheme>>#windowMinimizePassiveForm
-Pharo3Theme>>#checkboxSelectedForm
-Pharo3Theme>>#checkboxUnselectedForm
-Pharo3Theme>>#menuPinForm
-Pharo3Theme>>#newCheckboxMarkerForm
-Pharo3Theme>>#newRadioButtonMarkerForm
-Pharo3Theme>>#newWindowCloseForm
-Pharo3Theme>>#newWindowMaximizeForm
-Pharo3Theme>>#newWindowMenuForm
-Pharo3Theme>>#newWindowMenuPassiveForm
-Pharo3Theme>>#newWindowMinimizeForm
-Pharo3Theme>>#radioButtonForm
-Pharo3Theme>>#radioButtonSelectedForm
-Pharo3Theme>>#windowClosePassiveForm
-Pharo3Theme>>#windowMaximizePassiveForm
-Pharo3Theme>>#windowMinimizePassiveForm
-RemotesManager class>>#addRemoteIcon
-RemotesManager class>>#editRemoteIcon
-RemotesManager class>>#removeRemoteIcon
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50355
-ScriptLoader>>#update50356
-ThemeIconPack
-ThemeIconPack class>>#availablePacks
-ThemeIconPack class>>#baseUrl
-ThemeIconPack class>>#current
-ThemeIconPack class>>#current:
-ThemeIconPack class>>#destinationPath
-ThemeIconPack class>>#loadDefault
-ThemeIconPack class>>#named:
-ThemeIconPack class>>#uiIconSetChoises
-ThemeIconPack>>#beCurrent
-ThemeIconPack>>#blankIcon
-ThemeIconPack>>#blankIconOfWidth:
-ThemeIconPack>>#doesNotUnderstand:
-ThemeIconPack>>#downloadTo:
-ThemeIconPack>>#form16x16FromContents:
-ThemeIconPack>>#hasIcons
-ThemeIconPack>>#iconNamed:
-ThemeIconPack>>#iconNamed:ifNone:
-ThemeIconPack>>#icons
-ThemeIconPack>>#loadIconsFromUrl
-ThemeIconPack>>#name
-ThemeIconPack>>#name:
-ThemeIconPack>>#printOn:
-ThemeIconPack>>#readPNGFrom:
-ThemeIconPack>>#url
-ThemeIcons class>>#settingsOn:
-ThemeIcons class>>#uiIconClass
-ThemeIcons class>>#uiIconClass:
-ThemeIcons>>#exportIconPackOn:
-ThemeIcons>>#form16x16FromContents:
-ThemeIcons>>#selectorToIconName:
-ThemeIcons>>#selectorsAndIcons
+Komitter.EclipseUIThemeIcons>>#historyIcon
+Komitter.EclipseUIThemeIcons>>#komitterIcon
+Komitter.KomitRemote class>>#icon
+Komitter.KomitterUI class>>#manageRemotesIcon
+Komitter.RemotesManager class>>#addRemoteIcon
+Komitter.RemotesManager class>>#editRemoteIcon
+Komitter.RemotesManager class>>#removeRemoteIcon
+Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildAddButton
+Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildAddSelectedPackageInSelectedGroupButton
+Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildEmptyGroupButton
+Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveSelectedPackageFromSelectedGroupButton
+Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildRenameButton
+Polymorph-Widgets.Pharo3DarkTheme>>#checkboxSelectedForm
+Polymorph-Widgets.Pharo3DarkTheme>>#checkboxUnselectedForm
+Polymorph-Widgets.Pharo3DarkTheme>>#menuPinForm
+Polymorph-Widgets.Pharo3DarkTheme>>#newCheckboxMarkerForm
+Polymorph-Widgets.Pharo3DarkTheme>>#newRadioButtonMarkerForm
+Polymorph-Widgets.Pharo3DarkTheme>>#newWindowCloseForm
+Polymorph-Widgets.Pharo3DarkTheme>>#newWindowMaximizeForm
+Polymorph-Widgets.Pharo3DarkTheme>>#newWindowMenuForm
+Polymorph-Widgets.Pharo3DarkTheme>>#newWindowMenuPassiveForm
+Polymorph-Widgets.Pharo3DarkTheme>>#newWindowMinimizeForm
+Polymorph-Widgets.Pharo3DarkTheme>>#radioButtonForm
+Polymorph-Widgets.Pharo3DarkTheme>>#radioButtonSelectedForm
+Polymorph-Widgets.Pharo3DarkTheme>>#windowClosePassiveForm
+Polymorph-Widgets.Pharo3DarkTheme>>#windowMaximizePassiveForm
+Polymorph-Widgets.Pharo3DarkTheme>>#windowMinimizePassiveForm
+Polymorph-Widgets.Pharo3Theme>>#checkboxSelectedForm
+Polymorph-Widgets.Pharo3Theme>>#checkboxUnselectedForm
+Polymorph-Widgets.Pharo3Theme>>#menuPinForm
+Polymorph-Widgets.Pharo3Theme>>#newCheckboxMarkerForm
+Polymorph-Widgets.Pharo3Theme>>#newRadioButtonMarkerForm
+Polymorph-Widgets.Pharo3Theme>>#newWindowCloseForm
+Polymorph-Widgets.Pharo3Theme>>#newWindowMaximizeForm
+Polymorph-Widgets.Pharo3Theme>>#newWindowMenuForm
+Polymorph-Widgets.Pharo3Theme>>#newWindowMenuPassiveForm
+Polymorph-Widgets.Pharo3Theme>>#newWindowMinimizeForm
+Polymorph-Widgets.Pharo3Theme>>#radioButtonForm
+Polymorph-Widgets.Pharo3Theme>>#radioButtonSelectedForm
+Polymorph-Widgets.Pharo3Theme>>#windowClosePassiveForm
+Polymorph-Widgets.Pharo3Theme>>#windowMaximizePassiveForm
+Polymorph-Widgets.Pharo3Theme>>#windowMinimizePassiveForm
+Polymorph-Widgets.ThemeIconPack
+Polymorph-Widgets.ThemeIconPack class>>#availablePacks
+Polymorph-Widgets.ThemeIconPack class>>#baseUrl
+Polymorph-Widgets.ThemeIconPack class>>#current
+Polymorph-Widgets.ThemeIconPack class>>#current:
+Polymorph-Widgets.ThemeIconPack class>>#destinationPath
+Polymorph-Widgets.ThemeIconPack class>>#loadDefault
+Polymorph-Widgets.ThemeIconPack class>>#named:
+Polymorph-Widgets.ThemeIconPack class>>#uiIconSetChoises
+Polymorph-Widgets.ThemeIconPack>>#beCurrent
+Polymorph-Widgets.ThemeIconPack>>#blankIcon
+Polymorph-Widgets.ThemeIconPack>>#blankIconOfWidth:
+Polymorph-Widgets.ThemeIconPack>>#doesNotUnderstand:
+Polymorph-Widgets.ThemeIconPack>>#downloadTo:
+Polymorph-Widgets.ThemeIconPack>>#form16x16FromContents:
+Polymorph-Widgets.ThemeIconPack>>#hasIcons
+Polymorph-Widgets.ThemeIconPack>>#iconNamed:
+Polymorph-Widgets.ThemeIconPack>>#iconNamed:ifNone:
+Polymorph-Widgets.ThemeIconPack>>#icons
+Polymorph-Widgets.ThemeIconPack>>#loadIconsFromUrl
+Polymorph-Widgets.ThemeIconPack>>#name
+Polymorph-Widgets.ThemeIconPack>>#name:
+Polymorph-Widgets.ThemeIconPack>>#printOn:
+Polymorph-Widgets.ThemeIconPack>>#readPNGFrom:
+Polymorph-Widgets.ThemeIconPack>>#url
+Polymorph-Widgets.ThemeIcons class>>#settingsOn:
+Polymorph-Widgets.ThemeIcons class>>#uiIconClass
+Polymorph-Widgets.ThemeIcons class>>#uiIconClass:
+Polymorph-Widgets.ThemeIcons>>#exportIconPackOn:
+Polymorph-Widgets.ThemeIcons>>#form16x16FromContents:
+Polymorph-Widgets.ThemeIcons>>#selectorToIconName:
+Polymorph-Widgets.ThemeIcons>>#selectorsAndIcons
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50355
+ScriptLoader50.ScriptLoader>>#update50356

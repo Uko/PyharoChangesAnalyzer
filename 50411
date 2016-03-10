@@ -1,19 +1,19 @@
-AbstractNautilusUI
-AbstractNautilusUI class>>#initialize
-AbstractNautilusUI class>>#resetIconCaches
-AbstractNautilusUI>>#classCommented:
-AbstractNautilusUI>>#classIconFor:
-AbstractNautilusUI>>#groupIconFor:
-AbstractNautilusUI>>#removeClassFromMethodsIconsCache:
-AbstractNautilusUI>>#removeFromMethodsIconsCache:
-AbstractNautilusUI>>#runTestsOfClass:notifying:
-Metaclass>>#name
-NautilusUI>>#methodModified:
-NautilusUI>>#methodRemoved:
-NautilusUI>>#runTestForAMethod:notifying:priority:
-RBCreateAccessorsForVariableRefactoring>>#defineGetterMethod
-RBCreateAccessorsForVariableRefactoring>>#defineSetterMethod
-RBParserTest>>#testBinarySelectors
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50410
-ScriptLoader>>#update50411
+AST-Tests-Core.RBParserTest>>#testBinarySelectors
+Kernel.Metaclass>>#name
+Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI class>>#initialize
+Nautilus.AbstractNautilusUI class>>#resetIconCaches
+Nautilus.AbstractNautilusUI>>#classCommented:
+Nautilus.AbstractNautilusUI>>#classIconFor:
+Nautilus.AbstractNautilusUI>>#groupIconFor:
+Nautilus.AbstractNautilusUI>>#removeClassFromMethodsIconsCache:
+Nautilus.AbstractNautilusUI>>#removeFromMethodsIconsCache:
+Nautilus.AbstractNautilusUI>>#runTestsOfClass:notifying:
+Nautilus.NautilusUI>>#methodModified:
+Nautilus.NautilusUI>>#methodRemoved:
+Nautilus.NautilusUI>>#runTestForAMethod:notifying:priority:
+Refactoring-Core.RBCreateAccessorsForVariableRefactoring>>#defineGetterMethod
+Refactoring-Core.RBCreateAccessorsForVariableRefactoring>>#defineSetterMethod
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50410
+ScriptLoader50.ScriptLoader>>#update50411

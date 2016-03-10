@@ -1,14 +1,14 @@
-BIConfigurableFormatter>>#formatBlock:
-ConfigurationOfQualityAssistant>>#stable:
-ConfigurationOfQualityAssistant>>#v1_4_2:
-ContributingToTheCatalogHelp
-ContributingToTheCatalogHelp class>>#AddingYourProject
-ContributingToTheCatalogHelp class>>#bookName
-ContributingToTheCatalogHelp class>>#introduction
-ContributingToTheCatalogHelp class>>#pages
-QANautilusPlugin>>#initialize
-QANautilusPlugin>>#morph
-RBAssignmentInIfTrueRule>>#rationale
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50313
-ScriptLoader>>#update50314
+BlueInk-Core.BIConfigurableFormatter>>#formatBlock:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_4_2:
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#AddingYourProject
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#bookName
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#introduction
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#pages
+QualityAssistant.QANautilusPlugin>>#initialize
+QualityAssistant.QANautilusPlugin>>#morph
+Refactoring-Critics.RBAssignmentInIfTrueRule>>#rationale
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50313
+ScriptLoader50.ScriptLoader>>#update50314

@@ -1,59 +1,59 @@
-Breakpoint>>#initialize
-DoubleLinkedList>>#add:
-DoubleLinkedList>>#add:afterLink:
-DoubleLinkedList>>#add:beforeLink:
-DoubleLinkedList>>#addAll:
-DoubleLinkedList>>#addFirst:
-DoubleLinkedList>>#addLast:
-DoubleLinkedList>>#asArray
-DoubleLinkedList>>#collect:
-DoubleLinkedList>>#do:
-DoubleLinkedList>>#emptyCheck
-DoubleLinkedList>>#first
-DoubleLinkedList>>#firstLink
-DoubleLinkedList>>#includes:
-DoubleLinkedList>>#isEmpty
-DoubleLinkedList>>#last
-DoubleLinkedList>>#lastLink
-DoubleLinkedList>>#linksDo:
-DoubleLinkedList>>#reject:
-DoubleLinkedList>>#removeAll
-DoubleLinkedList>>#removeFirst
-DoubleLinkedList>>#removeLast
-DoubleLinkedList>>#removeLink:
-DoubleLinkedList>>#reverseDo:
-DoubleLinkedList>>#reverseLinksDo:
-DoubleLinkedList>>#select:
-DoubleLinkedListTests>>#testFirstAndLastLink
-DoubleLinkedListTests>>#testLinksDo
-DoubleLinkedListTests>>#testReverseLinksDo
-HookGenerator class>>#node:link:
-HookGenerator>>#initForNode:
-HookGeneratorTest>>#testConditionWithArguments
-HookGeneratorTest>>#testHookWithArguments
-HookGeneratorTest>>#testHookWithVirtualMeta
-Komitter class>>#komitterMenuOn:
-MetaLink class>>#uninstallAll
-MetaLink>>#hookOn:
-PharoShortcuts>>#openKomitterShortcut
-RFArgumentsReification
-RFLinkReification>>#genForRBProgramNode
-RFNewValueReification>>#genForRBAssignmentNode
-RFNodeReification>>#genForRBProgramNode
-RFObjectReification>>#genForRBProgramNode
-RFReification class>>#allKeys
-RFReification class>>#for:
-RFReification class>>#node:link:
-RFSemanticAnalyzer>>#visitNode:
-RFSenderReification
-RFSenderReification class>>#key
-RFSenderReification class>>#nodes
-RFSenderReification>>#genForRBMessageNode
-RFSenderReification>>#genForRBMethodNode
-RFTArgumentsReification class>>#key
-RFTArgumentsReification class>>#nodes
-RFTArgumentsReification>>#genForRBProgramNode
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50068
-ScriptLoader>>#update50069
-ToolShortcutsCategory>>#openKomitter
+Komitter.Komitter class>>#komitterMenuOn:
+Reflectivity-Tests.HookGeneratorTest>>#testConditionWithArguments
+Reflectivity-Tests.HookGeneratorTest>>#testHookWithArguments
+Reflectivity-Tests.HookGeneratorTest>>#testHookWithVirtualMeta
+Reflectivity.Breakpoint>>#initialize
+Reflectivity.HookGenerator class>>#node:link:
+Reflectivity.HookGenerator>>#initForNode:
+Reflectivity.MetaLink class>>#uninstallAll
+Reflectivity.MetaLink>>#hookOn:
+Reflectivity.RFArgumentsReification
+Reflectivity.RFLinkReification>>#genForRBProgramNode
+Reflectivity.RFNewValueReification>>#genForRBAssignmentNode
+Reflectivity.RFNodeReification>>#genForRBProgramNode
+Reflectivity.RFObjectReification>>#genForRBProgramNode
+Reflectivity.RFReification class>>#allKeys
+Reflectivity.RFReification class>>#for:
+Reflectivity.RFReification class>>#node:link:
+Reflectivity.RFSemanticAnalyzer>>#visitNode:
+Reflectivity.RFSenderReification
+Reflectivity.RFSenderReification class>>#key
+Reflectivity.RFSenderReification class>>#nodes
+Reflectivity.RFSenderReification>>#genForRBMessageNode
+Reflectivity.RFSenderReification>>#genForRBMethodNode
+Reflectivity.RFTArgumentsReification class>>#key
+Reflectivity.RFTArgumentsReification class>>#nodes
+Reflectivity.RFTArgumentsReification>>#genForRBProgramNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50068
+ScriptLoader50.ScriptLoader>>#update50069
+System-Caching.DoubleLinkedList>>#add:
+System-Caching.DoubleLinkedList>>#add:afterLink:
+System-Caching.DoubleLinkedList>>#add:beforeLink:
+System-Caching.DoubleLinkedList>>#addAll:
+System-Caching.DoubleLinkedList>>#addFirst:
+System-Caching.DoubleLinkedList>>#addLast:
+System-Caching.DoubleLinkedList>>#asArray
+System-Caching.DoubleLinkedList>>#collect:
+System-Caching.DoubleLinkedList>>#do:
+System-Caching.DoubleLinkedList>>#emptyCheck
+System-Caching.DoubleLinkedList>>#first
+System-Caching.DoubleLinkedList>>#firstLink
+System-Caching.DoubleLinkedList>>#includes:
+System-Caching.DoubleLinkedList>>#isEmpty
+System-Caching.DoubleLinkedList>>#last
+System-Caching.DoubleLinkedList>>#lastLink
+System-Caching.DoubleLinkedList>>#linksDo:
+System-Caching.DoubleLinkedList>>#reject:
+System-Caching.DoubleLinkedList>>#removeAll
+System-Caching.DoubleLinkedList>>#removeFirst
+System-Caching.DoubleLinkedList>>#removeLast
+System-Caching.DoubleLinkedList>>#removeLink:
+System-Caching.DoubleLinkedList>>#reverseDo:
+System-Caching.DoubleLinkedList>>#reverseLinksDo:
+System-Caching.DoubleLinkedList>>#select:
+System-CachingTests.DoubleLinkedListTests>>#testFirstAndLastLink
+System-CachingTests.DoubleLinkedListTests>>#testLinksDo
+System-CachingTests.DoubleLinkedListTests>>#testReverseLinksDo
+Tool-Base.PharoShortcuts>>#openKomitterShortcut
+Tool-Base.ToolShortcutsCategory>>#openKomitter

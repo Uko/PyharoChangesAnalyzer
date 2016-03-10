@@ -1,4 +1,4 @@
-PluggableListMorph>>#userString
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50494
-ScriptLoader>>#update50495
+Morphic-Widgets-Pluggable.PluggableListMorph>>#userString
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50494
+ScriptLoader50.ScriptLoader>>#update50495

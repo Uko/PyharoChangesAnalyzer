@@ -1,0 +1,10 @@
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version29:
+Rubric.RubLineNumberDisplayer class>>#menuOn:
+Rubric.RubPlainTextMode class>>#menuOn:
+Rubric.RubScrolledTextMorph>>#beForSmalltalkScripting
+Rubric.RubSmalltalkCodeMode class>>#menuOn:
+Rubric.RubSmalltalkCommentMode class>>#menuOn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50621
+ScriptLoader50.ScriptLoader>>#update50622

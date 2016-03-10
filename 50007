@@ -1,6 +1,6 @@
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script615
-ScriptLoader>>#update50007
-SharedPackageFilterPatternsHolder class>>#cleanUp
-SharedPackageFilterPatternsHolder class>>#reset
-TClass>>#name:
+Nautilus.SharedPackageFilterPatternsHolder class>>#cleanUp
+Nautilus.SharedPackageFilterPatternsHolder class>>#reset
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script615
+ScriptLoader50.ScriptLoader>>#update50007
+Traits.TClass>>#name:

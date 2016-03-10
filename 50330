@@ -1,16 +1,16 @@
-MCVersionReader class>>#fileReaderServicesForFile:suffix:
-MCVersionReader class>>#loadVersionFile:
-MCVersionReader class>>#loadVersionStream:fromDirectory:
-MCVersionReader class>>#mergeVersionFile:
-MCVersionReader class>>#mergeVersionStream:
-MCVersionReader class>>#openVersionFile:
-MCVersionReader class>>#openVersionFromStream:
-MCVersionReader class>>#serviceLoadVersion
-MCVersionReader class>>#serviceMergeVersion
-MCVersionReader class>>#serviceOpenVersion
-MCVersionReader class>>#services
-PackageTreeNautilusUI>>#package:matchPackagePattern:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50329
-ScriptLoader>>#update50330
-SmalltalkImage>>#logChange:
+Deprecated50.SmalltalkImage>>#logChange:
+Monticello.MCVersionReader class>>#fileReaderServicesForFile:suffix:
+Monticello.MCVersionReader class>>#loadVersionFile:
+Monticello.MCVersionReader class>>#mergeVersionFile:
+Monticello.MCVersionReader class>>#openVersionFile:
+Monticello.MCVersionReader class>>#services
+MonticelloFileServices.MCVersionReader class>>#loadVersionStream:fromDirectory:
+MonticelloFileServices.MCVersionReader class>>#mergeVersionStream:
+MonticelloFileServices.MCVersionReader class>>#openVersionFromStream:
+MonticelloFileServices.MCVersionReader class>>#serviceLoadVersion
+MonticelloFileServices.MCVersionReader class>>#serviceMergeVersion
+MonticelloFileServices.MCVersionReader class>>#serviceOpenVersion
+Nautilus.PackageTreeNautilusUI>>#package:matchPackagePattern:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50329
+ScriptLoader50.ScriptLoader>>#update50330

@@ -1,16 +1,16 @@
-CCompilationContext class>>#initialize
-CompilationContext class>>#initialize
-MethodFinder>>#initialize
-Object>>#sizeInMemory
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50506
-ScriptLoader>>#update50506
-SlotBasicTest>>#testNewCompiledMethodClass
-SlotBasicTest>>#testNewPointerClass
-SlotBasicTest>>#testNewVariableByteClass
-SlotBasicTest>>#testNewVariableWordClass
-SlotBasicTest>>#testNewWeakClass
-TBehavior>>#becomeCompact
-TBehavior>>#becomeCompactSimplyAt:
-TBehavior>>#becomeUncompact
-TBehavior>>#isCompact
+Kernel.Object>>#sizeInMemory
+OpalCompiler-Core.CCompilationContext class>>#initialize
+OpalCompiler-Core.CompilationContext class>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50506
+ScriptLoader50.ScriptLoader>>#update50506
+Slot-Tests.SlotBasicTest>>#testNewCompiledMethodClass
+Slot-Tests.SlotBasicTest>>#testNewPointerClass
+Slot-Tests.SlotBasicTest>>#testNewVariableByteClass
+Slot-Tests.SlotBasicTest>>#testNewVariableWordClass
+Slot-Tests.SlotBasicTest>>#testNewWeakClass
+Tool-Finder.MethodFinder>>#initialize
+Traits.TBehavior>>#becomeCompact
+Traits.TBehavior>>#becomeCompactSimplyAt:
+Traits.TBehavior>>#becomeUncompact
+Traits.TBehavior>>#isCompact

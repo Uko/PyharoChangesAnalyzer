@@ -1,24 +1,24 @@
-LiteralVariable>>#afterHooks
-LiteralVariable>>#link:
-MetaLinkTest>>#testReificationError
-NECContext>>#completionToken
-NECContext>>#createModel
-NECContext>>#currentRange
-NECContext>>#isPositionAtPatternArg
-NECContext>>#isStartOfMethodDefinition
-NECContext>>#tokenAtCurrentRange
-NECContext>>#tokenForMethodDefinition
-RFEntityReification
-RFEntityReification class>>#key
-RFEntityReification class>>#nodes
-RFEntityReification>>#genForLiteralVariable
-RFEntityReification>>#genForRBProgramNode
-ReflectivityControlTest>>#testAfterClassVariable
-ReflectivityControlTest>>#testAfterVariable
-ReflectivityReificationTest>>#testReifyClassVariableEntity
-ReflectivityReificationTest>>#testReifyEntity
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50345
-ScriptLoader>>#update50346
-Slot>>#link:
-TemporaryVariable>>#link:
+NECompletion.NECContext>>#completionToken
+NECompletion.NECContext>>#createModel
+NECompletion.NECContext>>#currentRange
+NECompletion.NECContext>>#isPositionAtPatternArg
+NECompletion.NECContext>>#isStartOfMethodDefinition
+NECompletion.NECContext>>#tokenAtCurrentRange
+NECompletion.NECContext>>#tokenForMethodDefinition
+Reflectivity-Tests.MetaLinkTest>>#testReificationError
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterClassVariable
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterVariable
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyClassVariableEntity
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifyEntity
+Reflectivity.LiteralVariable>>#afterHooks
+Reflectivity.LiteralVariable>>#link:
+Reflectivity.RFEntityReification
+Reflectivity.RFEntityReification class>>#key
+Reflectivity.RFEntityReification class>>#nodes
+Reflectivity.RFEntityReification>>#genForLiteralVariable
+Reflectivity.RFEntityReification>>#genForRBProgramNode
+Reflectivity.Slot>>#link:
+Reflectivity.TemporaryVariable>>#link:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50345
+ScriptLoader50.ScriptLoader>>#update50346

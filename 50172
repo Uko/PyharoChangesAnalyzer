@@ -1,23 +1,23 @@
-MCFileBasedRepository>>#closestAncestorVersionFor:ifNone:
-MCFileBasedRepository>>#notCachedVersionWithInfo:
-NBBufferWithOffset
-NBBufferWithOffset class>>#asNBExternalType:
-NBBufferWithOffset>>#buffer
-NBBufferWithOffset>>#buffer:
-NBBufferWithOffset>>#offset
-NBBufferWithOffset>>#offset:
-NBBufferWithOffsetTests
-NBBufferWithOffsetTests>>#readByte:
-NBBufferWithOffsetTests>>#testConversionWorks
-NBBufferWithOffsetType
-NBBufferWithOffsetType class>>#objectClass:
-NBBufferWithOffsetType>>#bufferIvarIndex
-NBBufferWithOffsetType>>#coerceReturn:
-NBBufferWithOffsetType>>#objectClass
-NBBufferWithOffsetType>>#objectClass:
-NBBufferWithOffsetType>>#offsetIvarIndex
-NBBufferWithOffsetType>>#pushAsValue:
-NBBufferWithOffsetType>>#valueSize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50171
-ScriptLoader>>#update50172
+Monticello.MCFileBasedRepository>>#closestAncestorVersionFor:ifNone:
+Monticello.MCFileBasedRepository>>#notCachedVersionWithInfo:
+NativeBoost-Core.NBBufferWithOffset
+NativeBoost-Core.NBBufferWithOffset class>>#asNBExternalType:
+NativeBoost-Core.NBBufferWithOffset>>#buffer
+NativeBoost-Core.NBBufferWithOffset>>#buffer:
+NativeBoost-Core.NBBufferWithOffset>>#offset
+NativeBoost-Core.NBBufferWithOffset>>#offset:
+NativeBoost-Core.NBBufferWithOffsetType
+NativeBoost-Core.NBBufferWithOffsetType class>>#objectClass:
+NativeBoost-Core.NBBufferWithOffsetType>>#bufferIvarIndex
+NativeBoost-Core.NBBufferWithOffsetType>>#coerceReturn:
+NativeBoost-Core.NBBufferWithOffsetType>>#objectClass
+NativeBoost-Core.NBBufferWithOffsetType>>#objectClass:
+NativeBoost-Core.NBBufferWithOffsetType>>#offsetIvarIndex
+NativeBoost-Core.NBBufferWithOffsetType>>#pushAsValue:
+NativeBoost-Core.NBBufferWithOffsetType>>#valueSize
+NativeBoost-Tests.NBBufferWithOffsetTests
+NativeBoost-Tests.NBBufferWithOffsetTests>>#readByte:
+NativeBoost-Tests.NBBufferWithOffsetTests>>#testConversionWorks
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50171
+ScriptLoader50.ScriptLoader>>#update50172

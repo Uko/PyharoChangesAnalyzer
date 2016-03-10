@@ -1,54 +1,54 @@
-ArrayedCollection>>#restoreEndianness
-Bitmap>>#asByteArray
-Bitmap>>#copyFromByteArray:
-ChangeList class>>#fileReaderServicesForFile:suffix:
-ChangeList class>>#services
-DefaultExternalDropHandler
-DefaultExternalDropHandler class>>#initialize
-DefaultExternalDropHandler class>>#unload
-DefaultExternalDropHandler>>#chooseServiceFrom:
-DefaultExternalDropHandler>>#servicesForFileNamed:
-DefaultExternalDropHandler>>#unwantedSelectors
-EndianDetector
-EndianDetector class>>#calcEndianness
-EndianDetector class>>#initialize
-EndianDetector class>>#isBigEndian
-EndianDetector class>>#isLittleEndian
-EndianDetector class>>#startUp:
-ExternalDropHandler
-ExternalDropHandler class>>#chooseServiceFrom:
-ExternalDropHandler class>>#cleanUp
-ExternalDropHandler class>>#defaultHandler
-ExternalDropHandler class>>#defaultHandler:
-ExternalDropHandler class>>#initialize
-ExternalDropHandler class>>#lookupExternalDropHandler:
-ExternalDropHandler class>>#lookupServiceBasedHandler:
-ExternalDropHandler class>>#registerHandler:
-ExternalDropHandler class>>#registeredHandlers
-ExternalDropHandler class>>#resetRegisteredHandlers
-ExternalDropHandler class>>#type:extension:action:
-ExternalDropHandler class>>#unwantedSelectors
-ExternalDropHandler>>#extension
-ExternalDropHandler>>#handle:in:dropEvent:
-ExternalDropHandler>>#matchesExtension:
-ExternalDropHandler>>#matchesTypes:
-ExternalDropHandler>>#type
-ExternalDropHandler>>#type:extension:action:
-FLEncoder>>#encodeYourself
-FLWordObjectCluster>>#materializeInstanceWith:
-FT2GlyphSlot>>#loadFrom:
-FT2Handle>>#printOn:
-Form>>#readResourceFrom:
-Form>>#storeResourceOn:
-MatrixTransform2x3>>#restoreEndianness
-PNGReadWriter>>#nextImage
-PNGReadWriter>>#nextPutImage:interlace:filter:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50091
-ScriptLoader>>#update50092
-ShortIntegerArray>>#restoreEndianness
-ShortIntegerArray>>#write:on:
-SimpleTextGlyphInfo>>#loadFrom:
-SmalltalkImage
-SmalltalkImage>>#endianness
-SmalltalkImage>>#processShutDownList:
+Athens-Text.SimpleTextGlyphInfo>>#loadFrom:
+Balloon.ShortIntegerArray>>#restoreEndianness
+Balloon.ShortIntegerArray>>#write:on:
+FreeType.FT2GlyphSlot>>#loadFrom:
+FreeType.FT2Handle>>#printOn:
+Fuel.FLEncoder>>#encodeYourself
+Fuel.FLWordObjectCluster>>#materializeInstanceWith:
+Graphics-Display Objects.Form>>#readResourceFrom:
+Graphics-Display Objects.Form>>#storeResourceOn:
+Graphics-Files.PNGReadWriter>>#nextImage
+Graphics-Files.PNGReadWriter>>#nextPutImage:interlace:filter:
+Graphics-Primitives.ArrayedCollection>>#restoreEndianness
+Graphics-Primitives.Bitmap>>#asByteArray
+Graphics-Primitives.Bitmap>>#copyFromByteArray:
+Graphics-Transformations.MatrixTransform2x3>>#restoreEndianness
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50091
+ScriptLoader50.ScriptLoader>>#update50092
+System-Support.DefaultExternalDropHandler
+System-Support.DefaultExternalDropHandler class>>#initialize
+System-Support.DefaultExternalDropHandler class>>#unload
+System-Support.DefaultExternalDropHandler>>#chooseServiceFrom:
+System-Support.DefaultExternalDropHandler>>#servicesForFileNamed:
+System-Support.DefaultExternalDropHandler>>#unwantedSelectors
+System-Support.EndianDetector
+System-Support.EndianDetector class>>#calcEndianness
+System-Support.EndianDetector class>>#initialize
+System-Support.EndianDetector class>>#isBigEndian
+System-Support.EndianDetector class>>#isLittleEndian
+System-Support.EndianDetector class>>#startUp:
+System-Support.ExternalDropHandler
+System-Support.ExternalDropHandler class>>#chooseServiceFrom:
+System-Support.ExternalDropHandler class>>#cleanUp
+System-Support.ExternalDropHandler class>>#defaultHandler
+System-Support.ExternalDropHandler class>>#defaultHandler:
+System-Support.ExternalDropHandler class>>#initialize
+System-Support.ExternalDropHandler class>>#lookupExternalDropHandler:
+System-Support.ExternalDropHandler class>>#lookupServiceBasedHandler:
+System-Support.ExternalDropHandler class>>#registerHandler:
+System-Support.ExternalDropHandler class>>#registeredHandlers
+System-Support.ExternalDropHandler class>>#resetRegisteredHandlers
+System-Support.ExternalDropHandler class>>#type:extension:action:
+System-Support.ExternalDropHandler class>>#unwantedSelectors
+System-Support.ExternalDropHandler>>#extension
+System-Support.ExternalDropHandler>>#handle:in:dropEvent:
+System-Support.ExternalDropHandler>>#matchesExtension:
+System-Support.ExternalDropHandler>>#matchesTypes:
+System-Support.ExternalDropHandler>>#type
+System-Support.ExternalDropHandler>>#type:extension:action:
+System-Support.SmalltalkImage
+System-Support.SmalltalkImage>>#endianness
+System-Support.SmalltalkImage>>#processShutDownList:
+Tool-Changes.ChangeList class>>#fileReaderServicesForFile:suffix:
+Tool-Changes.ChangeList class>>#services

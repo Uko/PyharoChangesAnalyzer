@@ -1,15 +1,15 @@
-AbstractClassModification>>#classLayout
-AbstractClassModification>>#classLayout:
-Behavior>>#classLayout
-Behavior>>#classLayout:
-BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
-ManifestOpalCompilerCore class>>#ignoredDependencies
-ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
-OCAbstractMethodScope>>#findVariable:ifNone:
-OCClassScope>>#findVariable:ifNone:
-OCInstanceScope>>#findVariable:ifNone:
-PointTest>>#testToIntersectsTo
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50340
-ScriptLoader>>#update50341
-SystemDictionary>>#findVariable:ifNone:
+Graphics-Tests.PointTest>>#testToIntersectsTo
+Kernel-Tests.BehaviorTest>>#testBehaviorRespectsPolymorphismWithTraitBehavior
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#ignoredDependencies
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50340
+ScriptLoader50.ScriptLoader>>#update50341
+Slot.AbstractClassModification>>#classLayout
+Slot.AbstractClassModification>>#classLayout:
+Slot.Behavior>>#classLayout
+Slot.Behavior>>#classLayout:
+TxText-Styler.OCAbstractMethodScope>>#findVariable:ifNone:
+TxText-Styler.OCClassScope>>#findVariable:ifNone:
+TxText-Styler.OCInstanceScope>>#findVariable:ifNone:
+TxText-Styler.SystemDictionary>>#findVariable:ifNone:

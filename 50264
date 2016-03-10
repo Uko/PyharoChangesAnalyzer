@@ -1,25 +1,25 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1183:
-RubMethodEditingExample>>#textModel
-RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
-RubPluggableTextMorphExample
-RubTextAreaExamples class>>#interactionModel
-RubTextAreaExamples class>>#simplestEmptyTextField
-RubTextAreaExamples class>>#textFieldWithCRAction
-RubTextFieldExample>>#newScrolledText
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50263
-ScriptLoader>>#update50264
-StandardFileStream>>#nextWordsInto:
-TemporaryVariable
-TemporaryVariable class>>#initialize
-TemporaryVariable class>>#name:block:
-TemporaryVariable class>>#name:method:
-TemporaryVariable>>#=
-TemporaryVariable>>#hash
-TemporaryVariable>>#isFromBlock
-TemporaryVariable>>#link:
-TemporaryVariable>>#method
-TemporaryVariable>>#method:
-TemporaryVariable>>#startpc
-TemporaryVariable>>#startpc:
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1183:
+Files.StandardFileStream>>#nextWordsInto:
+Reflectivity.TemporaryVariable>>#link:
+Rubric.RubMethodEditingExample>>#textModel
+Rubric.RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
+Rubric.RubPluggableTextMorphExample
+Rubric.RubTextAreaExamples class>>#interactionModel
+Rubric.RubTextAreaExamples class>>#simplestEmptyTextField
+Rubric.RubTextAreaExamples class>>#textFieldWithCRAction
+Rubric.RubTextFieldExample>>#newScrolledText
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50263
+ScriptLoader50.ScriptLoader>>#update50264
+Slot.TemporaryVariable
+Slot.TemporaryVariable class>>#initialize
+Slot.TemporaryVariable class>>#name:block:
+Slot.TemporaryVariable class>>#name:method:
+Slot.TemporaryVariable>>#=
+Slot.TemporaryVariable>>#hash
+Slot.TemporaryVariable>>#isFromBlock
+Slot.TemporaryVariable>>#method
+Slot.TemporaryVariable>>#method:
+Slot.TemporaryVariable>>#startpc
+Slot.TemporaryVariable>>#startpc:

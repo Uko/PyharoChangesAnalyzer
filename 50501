@@ -1,4 +1,4 @@
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50500
-ScriptLoader>>#update50501
-StartupPreferencesLoader class>>#cleanUp:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50500
+ScriptLoader50.ScriptLoader>>#update50501
+StartupPreferences.StartupPreferencesLoader class>>#cleanUp:

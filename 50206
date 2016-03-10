@@ -1,5 +1,5 @@
-DiffMorph>>#calibrateScrollbar
-MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50205
-ScriptLoader>>#update50206
+Monticello-Tests.MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50205
+ScriptLoader50.ScriptLoader>>#update50206
+Tool-Diff.DiffMorph>>#calibrateScrollbar

@@ -1,66 +1,66 @@
-ConfigurationOfFastTable>>#stable:
-ConfigurationOfFastTable>>#version09:
-FTAllItemsStrategy>>#filter
-FTAllItemsStrategy>>#matchingFilter:
-FTBasicItem>>#expandWithoutChange
-FTBasicItem>>#printOn:
-FTColumnResizerMorph
-FTColumnResizerMorph class>>#container:left:right:
-FTColumnResizerMorph class>>#new
-FTColumnResizerMorph class>>#resizerWidth
-FTColumnResizerMorph>>#canResizeColumn
-FTColumnResizerMorph>>#delete
-FTColumnResizerMorph>>#drawOn:
-FTColumnResizerMorph>>#initializeContainer:left:right:
-FTColumnResizerMorph>>#mouseDown:
-FTColumnResizerMorph>>#mouseEnter:
-FTColumnResizerMorph>>#mouseLeave:
-FTColumnResizerMorph>>#mouseMove:
-FTColumnResizerMorph>>#mouseUp:
-FTColumnResizerMorph>>#normalFillStyle
-FTColumnResizerMorph>>#pressedFillStyle
-FTColumnResizerMorph>>#release
-FTColumnResizerMorph>>#resizeCursor
-FTColumnResizerMorph>>#setGrabbedColor
-FTColumnResizerMorph>>#shouldDraw
-FTColumnResizerMorph>>#splitsTopAndBottom
-FTColumnResizerMorph>>#themeChanged
-FTColumnResizerMorph>>#updateFromEvent:
-FTDisplayColumn
-FTDisplayColumn class>>#column:width:
-FTDisplayColumn>>#column
-FTDisplayColumn>>#column:
-FTDisplayColumn>>#width
-FTDisplayColumn>>#width:
-FTExampleMethodTableDataSource>>#colorFor:
-FTExamples class>>#exampleTable4
-FTOutlineDataSource>>#newDataSourceMatching:
-FTRootItemsStrategy>>#filter
-FTSimpleDataSource>>#newDataSourceMatching:
-FTTableContainerMorph>>#addResizeSplitters
-FTTableContainerMorph>>#calculateColumnWidths
-FTTableContainerMorph>>#calculateExactVisibleRows
-FTTableContainerMorph>>#createResizableHeaderWith:between:and:
-FTTableContainerMorph>>#drawOn:
-FTTableContainerMorph>>#isRowIndexExceding:
-FTTableContainerMorph>>#updateExposedRows
-FTTableContainerMorph>>#updateHeaderRow
-FTTableMorph
-FTTableMorph class>>#defaultHeaderColor
-FTTableMorph class>>#defaultIntercellSpacing
-FTTableMorph>>#beNotResizable
-FTTableMorph>>#beResizable
-FTTableMorph>>#initialize
-FTTableMorph>>#intercellSpacing:
-FTTableMorph>>#isResizable
-FTTableRowMorph>>#initializeTable:
-FTTreeDataSource>>#cellColumn:row:
-FTTreeFunctionStrategy>>#dataSource
-FTVisibleItemsStrategy>>#filter
-FTVisibleItemsStrategy>>#matchingFilter:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50541
-ScriptLoader>>#update50542
-UITheme>>#fastTableColumnResizingColor
-UITheme>>#fastTableColumnSplitterSelectedColor
-UITheme>>#fastTableHeaderColor
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#version09:
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#filter
+Morphic-Widgets-FastTable.FTAllItemsStrategy>>#matchingFilter:
+Morphic-Widgets-FastTable.FTBasicItem>>#expandWithoutChange
+Morphic-Widgets-FastTable.FTBasicItem>>#printOn:
+Morphic-Widgets-FastTable.FTColumnResizerMorph
+Morphic-Widgets-FastTable.FTColumnResizerMorph class>>#container:left:right:
+Morphic-Widgets-FastTable.FTColumnResizerMorph class>>#new
+Morphic-Widgets-FastTable.FTColumnResizerMorph class>>#resizerWidth
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#canResizeColumn
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#delete
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#initializeContainer:left:right:
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#mouseDown:
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#mouseEnter:
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#mouseLeave:
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#mouseMove:
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#mouseUp:
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#normalFillStyle
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#pressedFillStyle
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#release
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#resizeCursor
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#setGrabbedColor
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#shouldDraw
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#splitsTopAndBottom
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#themeChanged
+Morphic-Widgets-FastTable.FTColumnResizerMorph>>#updateFromEvent:
+Morphic-Widgets-FastTable.FTDisplayColumn
+Morphic-Widgets-FastTable.FTDisplayColumn class>>#column:width:
+Morphic-Widgets-FastTable.FTDisplayColumn>>#column
+Morphic-Widgets-FastTable.FTDisplayColumn>>#column:
+Morphic-Widgets-FastTable.FTDisplayColumn>>#width
+Morphic-Widgets-FastTable.FTDisplayColumn>>#width:
+Morphic-Widgets-FastTable.FTExampleMethodTableDataSource>>#colorFor:
+Morphic-Widgets-FastTable.FTExamples class>>#exampleTable4
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTRootItemsStrategy>>#filter
+Morphic-Widgets-FastTable.FTSimpleDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#addResizeSplitters
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#calculateColumnWidths
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#calculateExactVisibleRows
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#createResizableHeaderWith:between:and:
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#isRowIndexExceding:
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#updateExposedRows
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#updateHeaderRow
+Morphic-Widgets-FastTable.FTTableMorph
+Morphic-Widgets-FastTable.FTTableMorph class>>#defaultHeaderColor
+Morphic-Widgets-FastTable.FTTableMorph class>>#defaultIntercellSpacing
+Morphic-Widgets-FastTable.FTTableMorph>>#beNotResizable
+Morphic-Widgets-FastTable.FTTableMorph>>#beResizable
+Morphic-Widgets-FastTable.FTTableMorph>>#initialize
+Morphic-Widgets-FastTable.FTTableMorph>>#intercellSpacing:
+Morphic-Widgets-FastTable.FTTableMorph>>#isResizable
+Morphic-Widgets-FastTable.FTTableRowMorph>>#initializeTable:
+Morphic-Widgets-FastTable.FTTreeDataSource>>#cellColumn:row:
+Morphic-Widgets-FastTable.FTTreeFunctionStrategy>>#dataSource
+Morphic-Widgets-FastTable.FTVisibleItemsStrategy>>#filter
+Morphic-Widgets-FastTable.FTVisibleItemsStrategy>>#matchingFilter:
+Morphic-Widgets-FastTable.UITheme>>#fastTableColumnResizingColor
+Morphic-Widgets-FastTable.UITheme>>#fastTableColumnSplitterSelectedColor
+Morphic-Widgets-FastTable.UITheme>>#fastTableHeaderColor
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50541
+ScriptLoader50.ScriptLoader>>#update50542

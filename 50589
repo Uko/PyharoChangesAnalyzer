@@ -1,0 +1,245 @@
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#baseline27:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#stable:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version267:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version268:
+ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version270:
+NautilusRefactoring.NautilusRefactoring>>#privateInlineTemporaryBetween:from:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50588
+ScriptLoader50.ScriptLoader>>#update50589
+SmartSuggestions.FinderUI>>#sugsContext
+SmartSuggestions.SugsFinderContext
+SmartSuggestions.SugsFinderContext>>#selectedClass
+SmartSuggestions.SugsFinderContext>>#selectedMethod
+SmartSuggestions.SugsFinderContext>>#sourceTextArea
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#alphabet
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#alphabet:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#breakLines
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#breakLinesAt:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#byteCountFor:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#characterCountFor:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#characterForValue:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#decode:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#decode:and:and:and:to:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#decode:to:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#encode:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#encode:and:and:to:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#encode:to:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#isLegalCharacter:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#lineEndConvention:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#skipWhiteSpace:
+Zinc-Character-Encoding-Core.ZnBase64Encoder>>#valueForCharacter:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#decodeAsCodePoints:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#encodeCodePoints:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#encodedByteCountFor:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#encodedByteCountForCodePoint:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#encodedByteCountForCodePoints:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#nextCodePointFromStream:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#nextPut:toStream:
+Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#nextPutCodePoint:toStream:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#close
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#contents
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#isBinary
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#next:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#next:into:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#next:into:startingAt:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#nextElement
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#nextLine
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#peekFor:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#readInto:startingAt:count:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#skip:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#upTo:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#upToEnd
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#wrappedStream
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream class>>#defaultEncoder
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream class>>#on:
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#%3C%3C
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#close
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#encoder
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#encoder:
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#encoding:
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#flush
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#isBinary
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#next:putAll:
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#nextPutAll:
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#on:
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#wrappedStream
+Zinc-Character-Encoding-Core.ZnCodePointReadStream
+Zinc-Character-Encoding-Core.ZnCodePointReadStream>>#collectionSpecies
+Zinc-Character-Encoding-Core.ZnCodePointReadStream>>#nextElement
+Zinc-Character-Encoding-Core.ZnCodePointWriteStream
+Zinc-Character-Encoding-Core.ZnCodePointWriteStream>>#nextPut:
+Zinc-Character-Encoding-Core.ZnEncodedReadStream
+Zinc-Character-Encoding-Core.ZnEncodedReadStream>>#atEnd
+Zinc-Character-Encoding-Core.ZnEncodedReadStream>>#next
+Zinc-Character-Encoding-Core.ZnEncodedReadStream>>#nextElement
+Zinc-Character-Encoding-Core.ZnEncodedReadStream>>#peek
+Zinc-Character-Encoding-Core.ZnEncodedReadStream>>#readInto:startingAt:count:
+Zinc-Character-Encoding-Core.ZnEncodedStream
+Zinc-Character-Encoding-Core.ZnEncodedStream class>>#on:
+Zinc-Character-Encoding-Core.ZnEncodedStream class>>#on:encoding:
+Zinc-Character-Encoding-Core.ZnEncodedStream>>#on:
+Zinc-Character-Encoding-Core.ZnEncodedWriteStream
+Zinc-Character-Encoding-Core.ZnEncodedWriteStream>>#next:putAll:startingAt:
+Zinc-Character-Encoding-Core.ZnEncodedWriteStream>>#nextPut:
+Zinc-Character-Encoding-Core.ZnEndianSensitiveUTFEncoder
+Zinc-Character-Encoding-Core.ZnEndianSensitiveUTFEncoder class>>#handlesEncoding:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#decodeBytes:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#encodeString:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#encodedByteCountFor:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#encodedByteCountForCodePoint:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#encodedByteCountForCodePoints:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#encodedByteCountForString:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#next:putAll:startingAt:toStream:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#nextCodePointFromStream:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#nextPutCodePoint:toStream:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#readInto:startingAt:count:fromStream:
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#encodedByteCountFor:
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#encodedByteCountForCodePoint:
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#nextCodePointFromStream:
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#nextPutCodePoint:toStream:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder
+Zinc-Character-Encoding-Core.ZnUTF16Encoder class>>#newForEncoding:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#beBigEndian
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#beLittleEndian
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#byteOrderMark
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#encodeStringWithByteOrderMark:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#encodedByteCountForCodePoint:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#initialize
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#isBigEndian
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#isLittleEndian
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#nextPutByteOrderMarkToStream:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#nextPutCodePoint:toStream:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#printOn:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#swapEndianness
+Zinc-Character-Encoding-Core.ZnUTF32Encoder
+Zinc-Character-Encoding-Core.ZnUTF32Encoder class>>#handlesEncoding:
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#backOnStream:
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#encodedByteCountForCodePoint:
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#errorIncomplete
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#identifier
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#nextCodePointFromStream:
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#nextPutCodePoint:toStream:
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#processByteOrderMark:
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#readCodePointFrom:
+Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#writeCodePoint:to:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#decodeBytes:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#decodeBytesIntoWideString:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#encodedByteCountForCodePoint:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#nextPutCodePoint:toStream:
+Zinc-Character-Encoding-Core.ZnUTFEncoder
+Zinc-Character-Encoding-Core.ZnUTFEncoder class>>#handlesEncoding:
+Zinc-Character-Encoding-Core.ZnUTFEncoder>>#isSurrogateCodePoint:
+Zinc-Character-Encoding-Core.ZnUTFEncoder>>#maximumUTFCode
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests class>>#bench10kDecode
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests class>>#bench10kEncode
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests class>>#bench1kDecode
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests class>>#bench1kEncode
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests class>>#benchmarks
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests>>#testCustomLineBreaking
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests>>#testDecodingErrors
+Zinc-Character-Encoding-Tests.ZnBase64EncoderTests>>#testFullAlphabet
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testCodePointEncodingDecoding
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testCodePointStreams
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testUTF32EncoderExampleFromD100
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testUTF32EncoderExampleFromD101
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testUTF32EncoderExampleFromD99
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testUTF32EncoderSimple
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testUTF32EncoderWide
+Zinc-Character-Encoding-Tests.ZnCharacterEncoderTests>>#testUTF8SurrogateCodePointsShouldFail
+Zinc-FileSystem.ZnFileSystemUtils class>>#newFileNamed:do:
+Zinc-FileSystem.ZnFileSystemUtils class>>#oldFileNamed:do:
+Zinc-FileSystem.ZnFileSystemUtils class>>#oldFileStreamFor:
+Zinc-FileSystem.ZnMonticelloServerDelegate>>#repositoryListing
+Zinc-HTTP.ZnClient>>#downloadEntityTo:
+Zinc-HTTP.ZnClient>>#downloadTo:
+Zinc-HTTP.ZnClient>>#get
+Zinc-HTTP.ZnClient>>#head
+Zinc-HTTP.ZnClient>>#options
+Zinc-HTTP.ZnClient>>#patch
+Zinc-HTTP.ZnClient>>#post
+Zinc-HTTP.ZnClient>>#put
+Zinc-HTTP.ZnDefaultServerDelegate>>#formTest1:
+Zinc-HTTP.ZnDefaultServerDelegate>>#formTest2:
+Zinc-HTTP.ZnDefaultServerDelegate>>#formTest3:
+Zinc-HTTP.ZnDefaultServerDelegate>>#generateDWBench
+Zinc-HTTP.ZnDefaultServerDelegate>>#generateHelp
+Zinc-HTTP.ZnDefaultServerDelegate>>#generateSessionRequest:
+Zinc-HTTP.ZnDefaultServerDelegate>>#generateStatus
+Zinc-HTTP.ZnDefaultServerDelegate>>#generateUnicodeTest
+Zinc-HTTP.ZnDefaultServerDelegate>>#generateWelcomePage
+Zinc-HTTP.ZnDefaultServerDelegate>>#initialize
+Zinc-HTTP.ZnDefaultServerDelegate>>#small:
+Zinc-HTTP.ZnDefaultServerDelegate>>#welcome:
+Zinc-HTTP.ZnDefaultServerDelegate>>#welcomePageCss
+Zinc-HTTP.ZnDefaultServerDelegate>>#welcomePageGreeting
+Zinc-HTTP.ZnDefaultServerDelegate>>#welcomePageLinksOn:
+Zinc-HTTP.ZnHeaders>>#request:
+Zinc-HTTP.ZnHtmlOutputStream
+Zinc-HTTP.ZnHtmlOutputStream class>>#streamContents:
+Zinc-HTTP.ZnHtmlOutputStream>>#%3C%3C
+Zinc-HTTP.ZnHtmlOutputStream>>#closeTag:
+Zinc-HTTP.ZnHtmlOutputStream>>#comment:
+Zinc-HTTP.ZnHtmlOutputStream>>#escape:
+Zinc-HTTP.ZnHtmlOutputStream>>#escapeAttributeValue:
+Zinc-HTTP.ZnHtmlOutputStream>>#escapeCharacter:
+Zinc-HTTP.ZnHtmlOutputStream>>#flush
+Zinc-HTTP.ZnHtmlOutputStream>>#format:with:
+Zinc-HTTP.ZnHtmlOutputStream>>#html5
+Zinc-HTTP.ZnHtmlOutputStream>>#next:putAll:
+Zinc-HTTP.ZnHtmlOutputStream>>#next:putAll:startingAt:
+Zinc-HTTP.ZnHtmlOutputStream>>#nextPut:
+Zinc-HTTP.ZnHtmlOutputStream>>#nextPutAll:
+Zinc-HTTP.ZnHtmlOutputStream>>#openTag:
+Zinc-HTTP.ZnHtmlOutputStream>>#openTag:attribute:value:
+Zinc-HTTP.ZnHtmlOutputStream>>#openTag:attributes:
+Zinc-HTTP.ZnHtmlOutputStream>>#page:do:
+Zinc-HTTP.ZnHtmlOutputStream>>#print:
+Zinc-HTTP.ZnHtmlOutputStream>>#renderAttributes:
+Zinc-HTTP.ZnHtmlOutputStream>>#space
+Zinc-HTTP.ZnHtmlOutputStream>>#str:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:attributes:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:attributes:do:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:attributes:with:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:class:do:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:class:with:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:do:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:id:do:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:id:with:
+Zinc-HTTP.ZnHtmlOutputStream>>#tag:with:
+Zinc-HTTP.ZnImageExampleDelegate>>#html
+Zinc-HTTP.ZnLimitedReadStream>>#peekFor:
+Zinc-HTTP.ZnLogEvent class>>#initialize
+Zinc-HTTP.ZnServer class>>#adoptAsDefault:
+Zinc-HTTP.ZnServer class>>#initialize
+Zinc-HTTP.ZnServer class>>#startUp:
+Zinc-HTTP.ZnSingleThreadedServer class>>#adoptAsDefault:
+Zinc-Resource-Meta-Core.ZnUrl class>>#image
+Zinc-Resource-Meta-FileSystem.ZnFileUrlTests>>#testImage
+Zinc-Tests.ZnHtmlOutputStreamTests
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testAttributeEscaping
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testComment
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testEncoding
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testEscaping
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testFormat
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testHtml5Tag
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testNesting
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testSelfClosingTag
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testSmall
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testSmallPage
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testTagWithClass
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testTagWithEmptyAttributes
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testTagWithId
+Zinc-Tests.ZnHtmlOutputStreamTests>>#testTagWithMultipleAttributes
+Zinc-Tests.ZnServerTests>>#testDefault
+Zinc-Tests.ZnServerTests>>#testFormTest1
+Zinc-Tests.ZnServerTests>>#testFormTest2
+Zinc-Tests.ZnServerTests>>#testSmall

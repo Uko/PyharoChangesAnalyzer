@@ -1,76 +1,76 @@
-AthensWorldMorph>>#restoreMorphicDisplay
-BaselineOfQualityAssistant>>#baseline:
-ConfigurationOfQualityAssistant>>#v1_1_4:
-ConfigurationOfRenraku>>#stable:
-ConfigurationOfRenraku>>#v0_3_4:
-DockingBarMorph>>#displayExtentChanged
-FreeTypeFontProvider class>>#resetCurrent
-FreeTypeSettings class>>#shutDown:
-FullscreenMorph>>#displayExtentChanged
-Morph>>#color:
-Morph>>#displayExtentChanged
-Morph>>#fillStyle:
-PasteUpMorph>>#restoreMorphicDisplay
-PluggableButtonMorph
-PluggableButtonMorph class>>#on:getState:action:
-PluggableButtonMorph class>>#on:getState:action:label:
-PluggableButtonMorph class>>#on:getState:action:label:icon:menu:
-PluggableButtonMorph class>>#on:getState:action:label:menu:
-PluggableButtonMorph>>#beIconBottom
-PluggableButtonMorph>>#beIconLeft
-PluggableButtonMorph>>#beIconRight
-PluggableButtonMorph>>#beIconTop
-PluggableButtonMorph>>#changed
-PluggableButtonMorph>>#icon
-PluggableButtonMorph>>#icon:
-PluggableButtonMorph>>#iconPosition
-PluggableButtonMorph>>#indicateModalChild
-PluggableButtonMorph>>#label:
-PluggableButtonMorph>>#label:font:
-PluggableButtonMorph>>#layoutBounds:
-PluggableButtonMorph>>#on:getState:action:label:menu:
-PluggableButtonMorph>>#privateColor:
-PluggableButtonMorph>>#update:
-PluggableButtonMorph>>#veryDeepInner:
-PluggableButtonMorphExample
-PluggableButtonMorphExample class>>#exampleButton
-PluggableButtonMorphExample class>>#exampleButtonNoLabel
-PluggableButtonMorphExample class>>#exampleButtonWithIcon
-PluggableButtonMorphExample class>>#exampleButtonWithIconBottom
-PluggableButtonMorphExample class>>#exampleButtonWithIconRight
-PluggableButtonMorphExample class>>#exampleButtonWithIconTop
-PluggableButtonMorphExample>>#action
-PluggableButtonMorphExample>>#buildButton
-PluggableButtonMorphExample>>#buildButtonNoLabel
-PluggableButtonMorphExample>>#buildButtonWithIcon
-PluggableButtonMorphExample>>#buildButtonWithIconBottom
-PluggableButtonMorphExample>>#buildButtonWithIconRight
-PluggableButtonMorphExample>>#buildButtonWithIconTop
-PluggableButtonMorphExample>>#icon
-PluggableButtonMorphExample>>#icon:
-PluggableButtonMorphExample>>#initialize
-PluggableButtonMorphExample>>#label
-PluggableButtonMorphExample>>#label:
-PluggableButtonMorphExample>>#state
-PluggableButtonMorphExample>>#state:
-PluggableToggleButtonMorph
-PluggableToggleButtonMorph>>#bePressed
-PluggableToggleButtonMorph>>#getModelState
-PluggableToggleButtonMorph>>#icon
-PluggableToggleButtonMorph>>#initialize
-PluggableToggleButtonMorph>>#isPressed
-PluggableToggleButtonMorph>>#performAction:
-PluggableToggleButtonMorph>>#pressed:
-PluggableToggleButtonMorphExample
-PluggableToggleButtonMorphExample class>>#exampleToggleButton
-PluggableToggleButtonMorphExample class>>#exampleToggleButtonNoLabel
-PluggableToggleButtonMorphExample class>>#exampleToggleButtonWithIcon
-PluggableToggleButtonMorphExample>>#buildToggleButton
-PluggableToggleButtonMorphExample>>#buildToggleButtonNoLabel
-PluggableToggleButtonMorphExample>>#buildToggleButtonWithIcon
-PluggableToggleButtonMorphExample>>#toggleAction:
-ReEngine>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50216
-ScriptLoader>>#update50217
-TaskbarMorph>>#displayExtentChanged
+Athens-Morphic.AthensWorldMorph>>#restoreMorphicDisplay
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_1_4:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_3_4:
+FreeType.FreeTypeFontProvider class>>#resetCurrent
+FreeType.FreeTypeSettings class>>#shutDown:
+Morphic-Core.Morph>>#color:
+Morphic-Core.Morph>>#displayExtentChanged
+Morphic-Core.Morph>>#fillStyle:
+Morphic-Core.PasteUpMorph>>#restoreMorphicDisplay
+Morphic-Examples.PluggableButtonMorphExample
+Morphic-Examples.PluggableButtonMorphExample class>>#exampleButton
+Morphic-Examples.PluggableButtonMorphExample class>>#exampleButtonNoLabel
+Morphic-Examples.PluggableButtonMorphExample class>>#exampleButtonWithIcon
+Morphic-Examples.PluggableButtonMorphExample class>>#exampleButtonWithIconBottom
+Morphic-Examples.PluggableButtonMorphExample class>>#exampleButtonWithIconRight
+Morphic-Examples.PluggableButtonMorphExample class>>#exampleButtonWithIconTop
+Morphic-Examples.PluggableButtonMorphExample>>#action
+Morphic-Examples.PluggableButtonMorphExample>>#buildButton
+Morphic-Examples.PluggableButtonMorphExample>>#buildButtonNoLabel
+Morphic-Examples.PluggableButtonMorphExample>>#buildButtonWithIcon
+Morphic-Examples.PluggableButtonMorphExample>>#buildButtonWithIconBottom
+Morphic-Examples.PluggableButtonMorphExample>>#buildButtonWithIconRight
+Morphic-Examples.PluggableButtonMorphExample>>#buildButtonWithIconTop
+Morphic-Examples.PluggableButtonMorphExample>>#icon
+Morphic-Examples.PluggableButtonMorphExample>>#icon:
+Morphic-Examples.PluggableButtonMorphExample>>#initialize
+Morphic-Examples.PluggableButtonMorphExample>>#label
+Morphic-Examples.PluggableButtonMorphExample>>#label:
+Morphic-Examples.PluggableButtonMorphExample>>#state
+Morphic-Examples.PluggableButtonMorphExample>>#state:
+Morphic-Examples.PluggableToggleButtonMorphExample
+Morphic-Examples.PluggableToggleButtonMorphExample class>>#exampleToggleButton
+Morphic-Examples.PluggableToggleButtonMorphExample class>>#exampleToggleButtonNoLabel
+Morphic-Examples.PluggableToggleButtonMorphExample class>>#exampleToggleButtonWithIcon
+Morphic-Examples.PluggableToggleButtonMorphExample>>#buildToggleButton
+Morphic-Examples.PluggableToggleButtonMorphExample>>#buildToggleButtonNoLabel
+Morphic-Examples.PluggableToggleButtonMorphExample>>#buildToggleButtonWithIcon
+Morphic-Examples.PluggableToggleButtonMorphExample>>#toggleAction:
+Morphic-Widgets-Basic.PluggableButtonMorph
+Morphic-Widgets-Basic.PluggableButtonMorph class>>#on:getState:action:
+Morphic-Widgets-Basic.PluggableButtonMorph class>>#on:getState:action:label:
+Morphic-Widgets-Basic.PluggableButtonMorph class>>#on:getState:action:label:icon:menu:
+Morphic-Widgets-Basic.PluggableButtonMorph class>>#on:getState:action:label:menu:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#beIconBottom
+Morphic-Widgets-Basic.PluggableButtonMorph>>#beIconLeft
+Morphic-Widgets-Basic.PluggableButtonMorph>>#beIconRight
+Morphic-Widgets-Basic.PluggableButtonMorph>>#beIconTop
+Morphic-Widgets-Basic.PluggableButtonMorph>>#changed
+Morphic-Widgets-Basic.PluggableButtonMorph>>#icon
+Morphic-Widgets-Basic.PluggableButtonMorph>>#icon:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#iconPosition
+Morphic-Widgets-Basic.PluggableButtonMorph>>#indicateModalChild
+Morphic-Widgets-Basic.PluggableButtonMorph>>#label:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#label:font:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#layoutBounds:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#on:getState:action:label:menu:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#privateColor:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#update:
+Morphic-Widgets-Basic.PluggableButtonMorph>>#veryDeepInner:
+Morphic-Widgets-Basic.PluggableToggleButtonMorph
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#bePressed
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#getModelState
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#icon
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#initialize
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#isPressed
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#performAction:
+Morphic-Widgets-Basic.PluggableToggleButtonMorph>>#pressed:
+Morphic-Widgets-Extra.DockingBarMorph>>#displayExtentChanged
+Morphic-Widgets-Taskbar.TaskbarMorph>>#displayExtentChanged
+Morphic-Widgets-Windows.FullscreenMorph>>#displayExtentChanged
+Renraku.ReEngine>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50216
+ScriptLoader50.ScriptLoader>>#update50217

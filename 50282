@@ -1,11 +1,11 @@
-OSSDL2Driver>>#createWindowWithAttributes:osWindow:
-OSSDL2Driver>>#registerWindow:
-OSSDL2Driver>>#unregisterWindow:
-OSSDL2WindowHandle>>#destroy
-OSWindow>>#destroy
-OSWindowAttributes class>>#initialize
-OSWindowTest>>#testSettingUpWindow
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50281
-ScriptLoader>>#update50282
-WorldState>>#menuBuilder
+Morphic-Base.WorldState>>#menuBuilder
+OSWindow-Core.OSWindow>>#destroy
+OSWindow-Core.OSWindowAttributes class>>#initialize
+OSWindow-Core.OSWindowTest>>#testSettingUpWindow
+OSWindow-SDL2.OSSDL2Driver>>#createWindowWithAttributes:osWindow:
+OSWindow-SDL2.OSSDL2Driver>>#registerWindow:
+OSWindow-SDL2.OSSDL2Driver>>#unregisterWindow:
+OSWindow-SDL2.OSSDL2WindowHandle>>#destroy
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50281
+ScriptLoader50.ScriptLoader>>#update50282

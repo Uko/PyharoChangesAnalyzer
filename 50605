@@ -1,0 +1,33 @@
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#stable:
+ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#version32:
+ConfigurationOfGTPlaygroundCore.ConfigurationOfGTPlaygroundCore>>#stable:
+ConfigurationOfGTPlaygroundCore.ConfigurationOfGTPlaygroundCore>>#version32:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version22:
+ConfigurationOfGToolkitCore.ConfigurationOfGToolkitCore>>#stable:
+ConfigurationOfGToolkitCore.ConfigurationOfGToolkitCore>>#version313:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version43:
+GT-Spotter.GTFilterSubstring>>#applyFilterWithQuery
+GT-Spotter.GTFilterSubstring>>#indexForItemName:andQuery:
+GT-Spotter.GTSpotterCandidatesListProcessor
+GT-Spotter.GTSpotterCandidatesListProcessor>>#sort
+GT-Spotter.GTSpotterCandidatesListProcessor>>#sort:
+GT-Spotter.GTSpotterCategoryBrick>>#addItem:
+GT-Spotter.GTSpotterCategoryBrick>>#addItems:
+GT-Spotter.GTSpotterHelp class>>#basicExamples
+GT-Spotter.GTSpotterHelp class>>#categoryFilterExamples
+GT-Spotter.GTSpotterHelp class>>#diveInCategoryExamples
+GT-Spotter.GTSpotterHelp class>>#diveInExamples
+GT-Spotter.GTSpotterHelp class>>#extensionExamples
+GT-Spotter.GTSpotterHelp class>>#extensions
+GT-Spotter.GTSpotterHelp class>>#extensionsString
+GT-Spotter.GTSpotterHelp class>>#pages
+GT-Spotter.GTSpotterResultsBrick>>#addItems:to:
+GT-Spotter.GTSpotterResultsBrick>>#onAllCandidatesAdded:
+GT-Spotter.GTSpotterStep>>#basicRelevantProcessorsProcess:do:
+GT-Spotter.GTSpotterStep>>#processor:isRelevantForQuery:
+Glamour-Morphic-Renderer.GLMMorphicPharoScriptRenderer>>#morph
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50604
+ScriptLoader50.ScriptLoader>>#update50605

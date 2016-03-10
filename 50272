@@ -1,30 +1,30 @@
-EvaluateCommandLineHandler
-EvaluateCommandLineHandler class>>#commandName
-EvaluateCommandLineHandler class>>#description
-EvaluateCommandLineHandler class>>#isResponsibleFor:
-EvaluateCommandLineHandler>>#activate
-EvaluateCommandLineHandler>>#argumentString
-EvaluateCommandLineHandler>>#evaluate:
-EvaluateCommandLineHandler>>#evaluateArguments
-EvaluateCommandLineHandler>>#evaluateStdIn
-PackageTreeNautilusUI>>#showHierarchy:
-STCommandLineHandler
-STCommandLineHandler class>>#commandName
-STCommandLineHandler class>>#description
-STCommandLineHandler class>>#isResponsibleFor:
-STCommandLineHandler class>>#printCompilerWarning:
-STCommandLineHandler>>#activate
-STCommandLineHandler>>#end
-STCommandLineHandler>>#handleError:
-STCommandLineHandler>>#handleError:reference:
-STCommandLineHandler>>#handleErrorsDuring:reference:
-STCommandLineHandler>>#installSourceFile:
-STCommandLineHandler>>#installSourceFiles
-STCommandLineHandler>>#loadSourceFiles:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50271
-ScriptLoader>>#update50272
-TBehavior>>#thoroughHasSelectorReferringTo:
-TBehavior>>#thoroughWhichSelectorsReferTo:
-TBehavior>>#whichSelectorsRead:
-TBehavior>>#whichSelectorsReferTo:
+CodeImport.EvaluateCommandLineHandler
+CodeImport.EvaluateCommandLineHandler class>>#commandName
+CodeImport.EvaluateCommandLineHandler class>>#description
+CodeImport.EvaluateCommandLineHandler class>>#isResponsibleFor:
+CodeImport.EvaluateCommandLineHandler>>#activate
+CodeImport.EvaluateCommandLineHandler>>#argumentString
+CodeImport.EvaluateCommandLineHandler>>#evaluate:
+CodeImport.EvaluateCommandLineHandler>>#evaluateArguments
+CodeImport.EvaluateCommandLineHandler>>#evaluateStdIn
+CodeImport.STCommandLineHandler
+CodeImport.STCommandLineHandler class>>#commandName
+CodeImport.STCommandLineHandler class>>#description
+CodeImport.STCommandLineHandler class>>#isResponsibleFor:
+CodeImport.STCommandLineHandler class>>#printCompilerWarning:
+CodeImport.STCommandLineHandler>>#activate
+CodeImport.STCommandLineHandler>>#end
+CodeImport.STCommandLineHandler>>#handleError:
+CodeImport.STCommandLineHandler>>#handleError:reference:
+CodeImport.STCommandLineHandler>>#handleErrorsDuring:reference:
+CodeImport.STCommandLineHandler>>#installSourceFile:
+CodeImport.STCommandLineHandler>>#installSourceFiles
+CodeImport.STCommandLineHandler>>#loadSourceFiles:
+Nautilus.PackageTreeNautilusUI>>#showHierarchy:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50271
+ScriptLoader50.ScriptLoader>>#update50272
+Traits.TBehavior>>#thoroughHasSelectorReferringTo:
+Traits.TBehavior>>#thoroughWhichSelectorsReferTo:
+Traits.TBehavior>>#whichSelectorsRead:
+Traits.TBehavior>>#whichSelectorsReferTo:

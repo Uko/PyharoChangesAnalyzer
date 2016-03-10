@@ -1,14 +1,14 @@
-CompiledMethod>>#installLink:
-MetaLink>>#methods
-NECContext>>#createModel
-NECContextTest>>#testCreateModel
-NECPreferences class>>#initialize
-NECPreferences class>>#overrideModel
-NECPreferences class>>#overrideModel:
-NECPreferences class>>#settingsOn:
-NautilusUI>>#metaLinkModified:
-RubSmalltalkEditor class>>#menuOn:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50449
-ScriptLoader>>#update50450
-SugsMenuBuilder class>>#buildContextMenuOn:
+NECompletion-Tests.NECContextTest>>#testCreateModel
+NECompletion.NECContext>>#createModel
+NECompletion.NECPreferences class>>#initialize
+NECompletion.NECPreferences class>>#overrideModel
+NECompletion.NECPreferences class>>#overrideModel:
+NECompletion.NECPreferences class>>#settingsOn:
+Nautilus.NautilusUI>>#metaLinkModified:
+Reflectivity.CompiledMethod>>#installLink:
+Reflectivity.MetaLink>>#methods
+Rubric.RubSmalltalkEditor class>>#menuOn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50449
+ScriptLoader50.ScriptLoader>>#update50450
+SmartSuggestions.SugsMenuBuilder class>>#buildContextMenuOn:

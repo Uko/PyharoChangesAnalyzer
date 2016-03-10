@@ -1,20 +1,20 @@
-AbstractNautilusUI>>#open
-IRBytecodeGenerator>>#label:
-IRBytecodeGenerator>>#pushClosureCopyNumCopiedValues:numArgs:to:
-IRBytecodeGenerator>>#pushNClosureTemps:
-IRClosureStackCount
-IRClosureStackCount class>>#newOn:
-IRClosureStackCount>>#initialize
-IRClosureStackCount>>#length
-IRClosureStackCount>>#numMethodTempVars
-IRClosureStackCount>>#numMethodTempVars:
-IRStackCount class>>#newOn:
-IRStackCount>>#linkTo:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50453
-ScriptLoader>>#update50454
-SugsBreakAlwaysSuggestion>>#execute
-SugsBreakAlwaysSuggestion>>#label
-SugsBreakConditionSuggestion>>#breakpointForCondition
-SugsBreakOnceSuggestion>>#execute
-SugsBreakOnceSuggestion>>#label
+Nautilus.AbstractNautilusUI>>#open
+OpalCompiler-Core.IRBytecodeGenerator>>#label:
+OpalCompiler-Core.IRBytecodeGenerator>>#pushClosureCopyNumCopiedValues:numArgs:to:
+OpalCompiler-Core.IRBytecodeGenerator>>#pushNClosureTemps:
+OpalCompiler-Core.IRClosureStackCount
+OpalCompiler-Core.IRClosureStackCount class>>#newOn:
+OpalCompiler-Core.IRClosureStackCount>>#initialize
+OpalCompiler-Core.IRClosureStackCount>>#length
+OpalCompiler-Core.IRClosureStackCount>>#numMethodTempVars
+OpalCompiler-Core.IRClosureStackCount>>#numMethodTempVars:
+OpalCompiler-Core.IRStackCount class>>#newOn:
+OpalCompiler-Core.IRStackCount>>#linkTo:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50453
+ScriptLoader50.ScriptLoader>>#update50454
+SmartSuggestions.SugsBreakAlwaysSuggestion>>#execute
+SmartSuggestions.SugsBreakAlwaysSuggestion>>#label
+SmartSuggestions.SugsBreakConditionSuggestion>>#breakpointForCondition
+SmartSuggestions.SugsBreakOnceSuggestion>>#execute
+SmartSuggestions.SugsBreakOnceSuggestion>>#label

@@ -1,24 +1,24 @@
-DebugAction>>#notifyDebuggingActionExecuted
-DebugAction>>#postAction
-DebugActionExecuted
-DebugActionExecuted class>>#forDebuggingAction:
-DebugActionExecuted>>#action
-DebugActionExecuted>>#action:
-KomitClass class>>#trackedClass:
-KomitClass class>>#trackedClass:forExtension:
-KomitClass>>#flush
-KomitClass>>#initialize
-KomitDefinition class>>#definition:
-KomitMethod class>>#method:
-KomitPackage class>>#package:
-KomitPackage class>>#removePackage:
-KomitableObject>>#entities:
-KomitableObject>>#initialize
-Komitter>>#initialize
-MenuItemMorph>>#activateOwnerMenu:
-OCASTSemanticAnalyzer>>#uninitializedVariable:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50474
-ScriptLoader>>#update50475
-SugsMenuBuilderTest>>#testNoSuggestionForSelfNode
-SugsMenuBuilderTest>>#testNoSuggestionForSuperNode
+DebuggerActions.DebugAction>>#notifyDebuggingActionExecuted
+DebuggerActions.DebugAction>>#postAction
+DebuggerActions.DebugActionExecuted
+DebuggerActions.DebugActionExecuted class>>#forDebuggingAction:
+DebuggerActions.DebugActionExecuted>>#action
+DebuggerActions.DebugActionExecuted>>#action:
+Komitter.KomitClass class>>#trackedClass:
+Komitter.KomitClass class>>#trackedClass:forExtension:
+Komitter.KomitClass>>#flush
+Komitter.KomitClass>>#initialize
+Komitter.KomitDefinition class>>#definition:
+Komitter.KomitMethod class>>#method:
+Komitter.KomitPackage class>>#package:
+Komitter.KomitPackage class>>#removePackage:
+Komitter.KomitableObject>>#entities:
+Komitter.KomitableObject>>#initialize
+Komitter.Komitter>>#initialize
+Morphic-Base.MenuItemMorph>>#activateOwnerMenu:
+OpalCompiler-Core.OCASTSemanticAnalyzer>>#uninitializedVariable:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50474
+ScriptLoader50.ScriptLoader>>#update50475
+SmartSuggestions-Tests.SugsMenuBuilderTest>>#testNoSuggestionForSelfNode
+SmartSuggestions-Tests.SugsMenuBuilderTest>>#testNoSuggestionForSuperNode

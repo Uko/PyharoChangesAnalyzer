@@ -1,11 +1,11 @@
-NautilusAnnotationDisplayer>>#formatAsYouRead
-RBNullFormatter
-RBNullFormatter class>>#formatAsYouReadPolicy
-RBNullFormatter class>>#formatAsYouReadPolicy:
-RBNullFormatter>>#containerWidth:
-RBNullFormatter>>#format:
-RBProgramNode class>>#formatterClass
-RBProgramNode class>>#resetFormatter
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50212
-ScriptLoader>>#update50213
+AST-Core.RBNullFormatter
+AST-Core.RBNullFormatter class>>#formatAsYouReadPolicy
+AST-Core.RBNullFormatter class>>#formatAsYouReadPolicy:
+AST-Core.RBNullFormatter>>#containerWidth:
+AST-Core.RBNullFormatter>>#format:
+AST-Core.RBProgramNode class>>#formatterClass
+AST-Core.RBProgramNode class>>#resetFormatter
+Nautilus.NautilusAnnotationDisplayer>>#formatAsYouRead
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50212
+ScriptLoader50.ScriptLoader>>#update50213

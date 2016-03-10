@@ -1,0 +1,10 @@
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#stable:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#version13:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50601
+ScriptLoader50.ScriptLoader>>#update50602
+System-SessionManager-Tests.SessionManagerRegistrationTest>>#testGivenARegisteredClassHandlerShouldHasRegisteredReturnsTrue
+System-SessionManager-Tests.SessionManagerRegistrationTest>>#testGivenUnknonwnHandledIdShouldHasRegisteredReturnsFalse
+System-SessionManager.SessionManager>>#hasRegistered:
+System-SessionManager.SessionManager>>#registerUserClassNamed:
+System-SessionManager.SessionManager>>#registerUserClassNamed:atPriority:

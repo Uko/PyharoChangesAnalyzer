@@ -1,7 +1,7 @@
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script623
-ScriptLoader>>#update50015
-TClass>>#removeInstVarNamed:
-TestRunner>>#buttons
-TestRunner>>#collectCoverageFor:
-UITheme class>>#installFullTheme
+Polymorph-Widgets.UITheme class>>#installFullTheme
+SUnit-UI.TestRunner>>#buttons
+SUnit-UI.TestRunner>>#collectCoverageFor:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script623
+ScriptLoader50.ScriptLoader>>#update50015
+Traits.TClass>>#removeInstVarNamed:

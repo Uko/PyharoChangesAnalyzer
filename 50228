@@ -1,17 +1,17 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version1165:
-ConfigurationOfRubric>>#version1166:
-MethodToolbar
-MethodToolbar class>>#defaultSpec
-MethodToolbar>>#initializeWidgets
-MethodToolbar>>#registerForChanges
-MethodToolbar>>#setFocusOrder
-MethodToolbar>>#setUsersModel
-MethodToolbar>>#usersMethod
-MethodToolbar>>#usersModel
-RubPluggableTextMorph>>#hasUnacceptedEdits:
-RubScrolledTextMorph>>#basicHasUnacceptedEdits:
-RubSmalltalkEditor>>#internalCallToBrowse:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50227
-ScriptLoader>>#update50228
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1165:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version1166:
+Rubric.RubPluggableTextMorph>>#hasUnacceptedEdits:
+Rubric.RubScrolledTextMorph>>#basicHasUnacceptedEdits:
+Rubric.RubSmalltalkEditor>>#internalCallToBrowse:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50227
+ScriptLoader50.ScriptLoader>>#update50228
+Spec-PolyWidgets.MethodToolbar
+Spec-PolyWidgets.MethodToolbar class>>#defaultSpec
+Spec-PolyWidgets.MethodToolbar>>#initializeWidgets
+Spec-PolyWidgets.MethodToolbar>>#registerForChanges
+Spec-PolyWidgets.MethodToolbar>>#setFocusOrder
+Spec-PolyWidgets.MethodToolbar>>#setUsersModel
+Spec-PolyWidgets.MethodToolbar>>#usersMethod
+Spec-PolyWidgets.MethodToolbar>>#usersModel

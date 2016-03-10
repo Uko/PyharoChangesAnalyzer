@@ -1,6 +1,6 @@
-ConfigurationOfFastTable>>#stable:
-ConfigurationOfFastTable>>#version077:
-FTTableMorph>>#highlightRowIndexes:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50258
-ScriptLoader>>#update50259
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
+ConfigurationOfFastTable.ConfigurationOfFastTable>>#version077:
+Morphic-Widgets-FastTable.FTTableMorph>>#highlightRowIndexes:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50258
+ScriptLoader50.ScriptLoader>>#update50259

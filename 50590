@@ -1,0 +1,6 @@
+Kernel-Tests.AllocationTest>>#testOutOfMemorySignal
+Komitter.RemotesManager>>#addRemote
+OpalCompiler-Core.RBMethodNode>>#rewriteTempsForContext:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50589
+ScriptLoader50.ScriptLoader>>#update50590

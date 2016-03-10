@@ -1,0 +1,12 @@
+ConfigurationOfRubric.ConfigurationOfRubric>>#baseline22:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version281:
+Keymapping-Tests.KMCombinationTests>>#testMacMetaShouldBeCmd
+Rubric-Rules.RbScriptingSetBeforeModel>>#basicCheck:
+Rubric-Rules.RbScriptingSetBeforeModel>>#check:forCriticsDo:ifNone:
+Rubric-Rules.RbScriptingSetBeforeModel>>#name
+Rubric-Rules.RbScriptingSetBeforeModel>>#rationale
+Rubric-Rules.RbScriptingSetBeforeModel>>#scriptingMethods
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50617
+ScriptLoader50.ScriptLoader>>#update50618
+UIManager.UIManager class>>#forCurrentSystemConfiguration

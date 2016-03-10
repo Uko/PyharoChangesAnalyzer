@@ -1,5 +1,5 @@
-Morph>>#handlesMouseMove:
-SHTextStylerST80 class>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50486
-ScriptLoader>>#update50487
+Morphic-Core.Morph>>#handlesMouseMove:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50486
+ScriptLoader50.ScriptLoader>>#update50487
+Shout.SHTextStylerST80 class>>#initialize

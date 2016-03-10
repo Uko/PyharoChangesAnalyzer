@@ -1,5 +1,5 @@
-RBParserTest>>#exampleClasses
-RBProgramNode class>>#formatterClass
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50199
-ScriptLoader>>#update50200
+AST-Core.RBProgramNode class>>#formatterClass
+AST-Tests-Core.RBParserTest>>#exampleClasses
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50199
+ScriptLoader50.ScriptLoader>>#update50200

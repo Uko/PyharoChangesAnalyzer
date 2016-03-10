@@ -1,18 +1,18 @@
-ConfigurationOfGTSpotter>>#development:
-ConfigurationOfGTSpotter>>#stable:
-ConfigurationOfGTSpotter>>#version123:
-ConfigurationOfGTSpotter>>#version124:
-ConfigurationOfGlamourCore>>#development:
-ConfigurationOfGlamourCore>>#stable:
-ConfigurationOfGlamourCore>>#version313:
-ConfigurationOfRubric>>#stable:
-FreeTypeCache class>>#shutDown:
-GTSpotterCategoryTitleBrick>>#stepModel:
-GTSpotterMorph>>#initializeListeners
-LiteralVariable>>#emitStore:
-RPackage>>#spotterActDefault
-RelationSlot>>#emitStore:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script651
-ScriptLoader>>#update50043
-Slot>>#emitStore:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#development:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#stable:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version123:
+ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version124:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#development:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version313:
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+FreeType.FreeTypeCache class>>#shutDown:
+GT-Spotter.GTSpotterCategoryTitleBrick>>#stepModel:
+GT-Spotter.GTSpotterMorph>>#initializeListeners
+GT-SpotterExtensions-Core.RPackage>>#spotterActDefault
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script651
+ScriptLoader50.ScriptLoader>>#update50043
+Slot.LiteralVariable>>#emitStore:
+Slot.RelationSlot>>#emitStore:
+Slot.Slot>>#emitStore:

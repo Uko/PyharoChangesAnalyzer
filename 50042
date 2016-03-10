@@ -1,11 +1,11 @@
-Color class>>#wheel:
-Color class>>#wheel:saturation:brightness:
-Color>>#darkShades:
-Color>>#lightShades:
-Color>>#mix:shades:
-OrderedDictionary>>#printElementsOn:
-PluggableTextMorphWithLimits
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script650
-ScriptLoader>>#update50042
-SelectionMorph>>#extent:
+Collections-Sequenceable.OrderedDictionary>>#printElementsOn:
+Graphics-Primitives.Color class>>#wheel:
+Graphics-Primitives.Color class>>#wheel:saturation:brightness:
+Graphics-Primitives.Color>>#darkShades:
+Graphics-Primitives.Color>>#lightShades:
+Graphics-Primitives.Color>>#mix:shades:
+Morphic-Base.SelectionMorph>>#extent:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script650
+ScriptLoader50.ScriptLoader>>#update50042

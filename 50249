@@ -1,10 +1,10 @@
-CatalogBrowser>>#onInstallAndCreateGroupFrom:
-CompiledMethod class>>#initialize
-ConfigurationOfNautilusGroupAutoBuilder>>#stable:
-ConfigurationOfNautilusGroupAutoBuilder>>#version11:
-Date>>#addMonths:
-FBDDecompiler>>#skipTemps:
-LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50248
-ScriptLoader>>#update50249
+ConfigurationOfNautilusGroupAutoBuilder.ConfigurationOfNautilusGroupAutoBuilder>>#stable:
+ConfigurationOfNautilusGroupAutoBuilder.ConfigurationOfNautilusGroupAutoBuilder>>#version11:
+Flashback-Decompiler.FBDDecompiler>>#skipTemps:
+Kernel.CompiledMethod class>>#initialize
+Kernel.Date>>#addMonths:
+NautilusGroupAutoBuilder.CatalogBrowser>>#onInstallAndCreateGroupFrom:
+NautilusGroupAutoBuilder.LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50248
+ScriptLoader50.ScriptLoader>>#update50249

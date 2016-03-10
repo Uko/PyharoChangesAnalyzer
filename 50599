@@ -1,0 +1,15 @@
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#stable:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#version12:
+Deprecated50.SmalltalkImage>>#add:toList:after:
+Deprecated50.SmalltalkImage>>#add:toList:before:
+Deprecated50.SmalltalkImage>>#addDeferredStartupAction:
+Deprecated50.SmalltalkImage>>#addToShutDownList:
+Deprecated50.SmalltalkImage>>#addToStartUpList:
+Kernel.Class>>#immediateByteSubclass:instanceVariableNames:classVariableNames:package:
+Kernel.DelayScheduler>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50598
+ScriptLoader50.ScriptLoader>>#update50599
+Traits.TClass>>#immediateSubclass:instanceVariableNames:classVariableNames:package:
+Traits.TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:package:
+Traits.Trait>>#immediateByteSubclass:instanceVariableNames:classVariableNames:package:

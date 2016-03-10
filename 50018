@@ -1,10 +1,10 @@
-HandMorph>>#removeHalo
-HandMorph>>#removeHaloAround:
-MCWorkingCopyBrowser>>#collectConfigurationMenuSpecs
-MCWorkingCopyBrowser>>#workingCopyListMenu:
-Morph>>#halo
-Morph>>#removeHalo
-NECMenuMorph class>>#convertToSHSymbol:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script626
-ScriptLoader>>#update50018
+MonticelloGUI.MCWorkingCopyBrowser>>#collectConfigurationMenuSpecs
+MonticelloGUI.MCWorkingCopyBrowser>>#workingCopyListMenu:
+Morphic-Core.HandMorph>>#removeHalo
+Morphic-Core.HandMorph>>#removeHaloAround:
+Morphic-Core.Morph>>#halo
+Morphic-Core.Morph>>#removeHalo
+NECompletion.NECMenuMorph class>>#convertToSHSymbol:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script626
+ScriptLoader50.ScriptLoader>>#update50018

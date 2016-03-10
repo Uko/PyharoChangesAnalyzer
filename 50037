@@ -1,26 +1,26 @@
-MCSliceInfo>>#makeSlice
-Nautilus
-Nautilus class>>#nautilusSettingsOn:
-Nautilus class>>#parentOfClass:
-PackageTreeModel>>#rootNodes
-PackageTreeNautilus class>>#registerToolsOn:
-PackageTreeNautilus class>>#showGroupsOnTop
-PackageTreeNautilus class>>#showGroupsOnTop:
-PackageTreeNautilus>>#defaultUIClass
-PackageTreeNautilus>>#packagePatternString:
-PackageTreeNautilusTest>>#testOpen
-PackageTreeNautilusTest>>#testOpenLastValueIsNil
-PackageTreeNautilusTest>>#testOpenLastValueNotNil
-PackageTreeNautilusTest>>#testOpenOnMethod
-PackageTreeNautilusTest>>#testPackagePatternString
-PackageTreeNautilusTest>>#testPackagePatternStringRootPackageTag
-PackageTreeNautilusUI>>#groupsAreVisible
-RPackage>>#mcPackage
-RPackage>>#mcWorkingCopy
-RPackage>>#spotterActDefault
-RPackageTest>>#testMcPackage
-RPackageTest>>#testMcWorkingCopy
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script645
-ScriptLoader>>#update50037
-TClassDescription>>#classCommentBlank
+GT-SpotterExtensions-Core.RPackage>>#spotterActDefault
+Monticello.RPackage>>#mcPackage
+Monticello.RPackage>>#mcWorkingCopy
+MonticelloGUI.MCSliceInfo>>#makeSlice
+Nautilus-Tests.PackageTreeNautilusTest>>#testOpen
+Nautilus-Tests.PackageTreeNautilusTest>>#testOpenLastValueIsNil
+Nautilus-Tests.PackageTreeNautilusTest>>#testOpenLastValueNotNil
+Nautilus-Tests.PackageTreeNautilusTest>>#testOpenOnMethod
+Nautilus-Tests.PackageTreeNautilusTest>>#testPackagePatternString
+Nautilus-Tests.PackageTreeNautilusTest>>#testPackagePatternStringRootPackageTag
+Nautilus.Nautilus
+Nautilus.Nautilus class>>#nautilusSettingsOn:
+Nautilus.Nautilus class>>#parentOfClass:
+Nautilus.PackageTreeModel>>#rootNodes
+Nautilus.PackageTreeNautilus class>>#registerToolsOn:
+Nautilus.PackageTreeNautilus class>>#showGroupsOnTop
+Nautilus.PackageTreeNautilus class>>#showGroupsOnTop:
+Nautilus.PackageTreeNautilus>>#defaultUIClass
+Nautilus.PackageTreeNautilus>>#packagePatternString:
+Nautilus.PackageTreeNautilusUI>>#groupsAreVisible
+RPackage-Tests.RPackageTest>>#testMcPackage
+RPackage-Tests.RPackageTest>>#testMcWorkingCopy
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script645
+ScriptLoader50.ScriptLoader>>#update50037
+Traits.TClassDescription>>#classCommentBlank

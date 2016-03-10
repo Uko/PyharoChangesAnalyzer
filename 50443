@@ -1,15 +1,15 @@
-AlphaImageMorph>>#extent:
-EyeMorphViewer>>#objectChanged
-ImageMorph>>#basicExtent:
-ImageMorph>>#extent:
-MCPackageManager class>>#classRemoved:
-MCPackageManagerTest
-MCPackageManagerTest>>#setUp
-MCPackageManagerTest>>#tearDown
-MCPackageManagerTest>>#testClassAdded
-MCPackageManagerTest>>#testClassRemoved
-NECMenuMorph>>#detailPosition:
-NECMenuMorph>>#initialize
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50442
-ScriptLoader>>#update50443
+Monticello-Tests.MCPackageManagerTest
+Monticello-Tests.MCPackageManagerTest>>#setUp
+Monticello-Tests.MCPackageManagerTest>>#tearDown
+Monticello-Tests.MCPackageManagerTest>>#testClassAdded
+Monticello-Tests.MCPackageManagerTest>>#testClassRemoved
+Monticello.MCPackageManager class>>#classRemoved:
+Morphic-Base.AlphaImageMorph>>#extent:
+Morphic-Base.ImageMorph>>#basicExtent:
+Morphic-Base.ImageMorph>>#extent:
+NECompletion.NECMenuMorph>>#detailPosition:
+NECompletion.NECMenuMorph>>#initialize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50442
+ScriptLoader50.ScriptLoader>>#update50443
+Spec-Inspector.EyeMorphViewer>>#objectChanged

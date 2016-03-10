@@ -1,9 +1,9 @@
-MetaLink>>#hook
-Object>>#asLiteralNode
-ReflectiveMethodTest>>#tagExec
-ReflectiveMethodTest>>#testLinkWithCondition
-ReflectivityExamples>>#exampleMethod
-SHTextStylerST80 class>>#attributesFor:pixelHeight:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script625
-ScriptLoader>>#update50017
+Reflectivity-Tests.ReflectiveMethodTest>>#tagExec
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithCondition
+Reflectivity-Tests.ReflectivityExamples>>#exampleMethod
+Reflectivity.MetaLink>>#hook
+Reflectivity.Object>>#asLiteralNode
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script625
+ScriptLoader50.ScriptLoader>>#update50017
+Shout.SHTextStylerST80 class>>#attributesFor:pixelHeight:

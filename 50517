@@ -1,21 +1,21 @@
-ConfigurationOfShoreLineReporter>>#stable:
-ConfigurationOfShoreLineReporter>>#version022:
-RBCategoryEnvironment>>#packages
-RBVariableEnvironment>>#packages
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50516
-ScriptLoader>>#update50517
-SlReportExtractor>>#extract
-SlReportExtractor>>#extractMetadata
-SlReportExtractor>>#extractPayload
-SlReportExtractor>>#extractVersion
-SlReportWindow
-SlReportWindow class>>#defaultSpec
-SlReportWindow>>#initializeWidgets
-SlReportWindow>>#report:
-SlReportWindow>>#reportSummary
-SlReporter class>>#defaultExtractor
-SlReporter class>>#mimeType
-SlReporter>>#serialize:
-SlReporter>>#serializeFUEL:
-SlReporter>>#serializeSTON:
+ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#stable:
+ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#version022:
+Refactoring-Environment.RBCategoryEnvironment>>#packages
+Refactoring-Environment.RBVariableEnvironment>>#packages
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50516
+ScriptLoader50.ScriptLoader>>#update50517
+ShoreLine-Report-Core.SlReportExtractor>>#extract
+ShoreLine-Report-Core.SlReportExtractor>>#extractMetadata
+ShoreLine-Report-Core.SlReportExtractor>>#extractPayload
+ShoreLine-Report-Core.SlReportExtractor>>#extractVersion
+ShoreLine-Report-Core.SlReporter class>>#defaultExtractor
+ShoreLine-Report-Core.SlReporter class>>#mimeType
+ShoreLine-Report-Core.SlReporter>>#serialize:
+ShoreLine-Report-Core.SlReporter>>#serializeFUEL:
+ShoreLine-Report-Core.SlReporter>>#serializeSTON:
+ShoreLine-Report-UI.SlReportWindow
+ShoreLine-Report-UI.SlReportWindow class>>#defaultSpec
+ShoreLine-Report-UI.SlReportWindow>>#initializeWidgets
+ShoreLine-Report-UI.SlReportWindow>>#report:
+ShoreLine-Report-UI.SlReportWindow>>#reportSummary

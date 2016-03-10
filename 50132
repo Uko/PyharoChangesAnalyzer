@@ -1,35 +1,35 @@
-ConfigurationOfRubric>>#stable:
-ConfigurationOfRubric>>#version137:
-ConfigurationOfRubric>>#version141:
-ConfigurationOfRubric>>#version14:
-DynamicClassGroup>>#addClasses:
-DynamicClassGroup>>#classRemoved:
-RBIdentifierToken>>#isKeywordPattern
-RBPatternParser>>#parseUnaryMessage
-RBScanner
-RBScanner class>>#initializeClassificationTable
-RBScanner class>>#keywordPatternCharacter
-RBToken>>#isKeywordPattern
-RubAbstractSmalltalkMode>>#isCodeCompletionAllowed
-RubAbstractTextArea>>#interactive
-RubEditingArea>>#beForSmalltalkComment
-RubEditingMode>>#editorClass
-RubEditingMode>>#interactive
-RubEditingMode>>#isCodeCompletionAllowed
-RubScrolledTextModel>>#acceptEditsInView
-RubScrolledTextModel>>#bindingOf:
-RubScrolledTextModel>>#formatSourceCodeInView
-RubScrolledTextModel>>#guessTypeForName:
-RubScrolledTextModel>>#interactionModel
-RubScrolledTextModel>>#isCodeCompletionAllowed
-RubScrolledTextModel>>#reconfigureViewWith:
-RubScrolledTextModel>>#selectedClassOrMetaClass
-RubScrolledTextMorph>>#formatSourceCode
-RubScrolledTextMorph>>#withSourceCodeAnnotation
-RubSmalltalkCodeMode>>#formatMethodCode
-RubSmalltalkEditor class>>#menuOn:
-RubSmalltalkEditor>>#format
-RubSmalltalkScriptingMode>>#interactive
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50131
-ScriptLoader>>#update50132
+AST-Core.RBIdentifierToken>>#isKeywordPattern
+AST-Core.RBPatternParser>>#parseUnaryMessage
+AST-Core.RBScanner
+AST-Core.RBScanner class>>#initializeClassificationTable
+AST-Core.RBScanner class>>#keywordPatternCharacter
+AST-Core.RBToken>>#isKeywordPattern
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version137:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version141:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version14:
+GroupManager.DynamicClassGroup>>#addClasses:
+GroupManager.DynamicClassGroup>>#classRemoved:
+Rubric.RubAbstractSmalltalkMode>>#isCodeCompletionAllowed
+Rubric.RubAbstractTextArea>>#interactive
+Rubric.RubEditingArea>>#beForSmalltalkComment
+Rubric.RubEditingMode>>#editorClass
+Rubric.RubEditingMode>>#interactive
+Rubric.RubEditingMode>>#isCodeCompletionAllowed
+Rubric.RubScrolledTextModel>>#acceptEditsInView
+Rubric.RubScrolledTextModel>>#bindingOf:
+Rubric.RubScrolledTextModel>>#formatSourceCodeInView
+Rubric.RubScrolledTextModel>>#guessTypeForName:
+Rubric.RubScrolledTextModel>>#interactionModel
+Rubric.RubScrolledTextModel>>#isCodeCompletionAllowed
+Rubric.RubScrolledTextModel>>#reconfigureViewWith:
+Rubric.RubScrolledTextModel>>#selectedClassOrMetaClass
+Rubric.RubScrolledTextMorph>>#formatSourceCode
+Rubric.RubScrolledTextMorph>>#withSourceCodeAnnotation
+Rubric.RubSmalltalkCodeMode>>#formatMethodCode
+Rubric.RubSmalltalkEditor class>>#menuOn:
+Rubric.RubSmalltalkEditor>>#format
+Rubric.RubSmalltalkScriptingMode>>#interactive
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50131
+ScriptLoader50.ScriptLoader>>#update50132

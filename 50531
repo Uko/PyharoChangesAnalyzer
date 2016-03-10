@@ -1,55 +1,55 @@
-AthensCairoCanvas>>#setAlpha:
-Character>>#asUnicode
-CommandLineUIManager class>>#isValidForCurrentSystemConfiguration
-CommandLineUIManager>>#handleError:log:
-CommandLineUIManager>>#openDebuggerOn:context:label:fullView:notification:
-DummyUIManager>>#debugProcess:context:label:fullView:notification:
-DummyUIManager>>#handleError:log:
-FuelOutStackDebugAction class>>#serializeTestFailureContext:toFileNamed:
-MorphicUIManager>>#handleError:log:
-MorphicUIManager>>#openDebuggerOn:context:label:fullView:notification:
-MorphicUIManager>>#warningDefaultAction:
-NonInteractiveUIManager class>>#isValidForCurrentSystemConfiguration
-NonInteractiveUIManager>>#debugProcess:context:label:fullView:notification:
-Process>>#debug:title:full:
-RBDefineBasickCheckRule
-RBDefineBasickCheckRule class>>#checksClass
-RBDefineBasickCheckRule class>>#uniqueIdentifierName
-RBDefineBasickCheckRule>>#basicCheck:
-RBDefineBasickCheckRule>>#checkClass:
-RBDefineBasickCheckRule>>#group
-RBDefineBasickCheckRule>>#name
-RBDefineBasickCheckRule>>#resultClass
-RBDefineEntityComplianceCheckRule
-RBDefineEntityComplianceCheckRule class>>#checksClass
-RBDefineEntityComplianceCheckRule class>>#uniqueIdentifierName
-RBDefineEntityComplianceCheckRule>>#basicCheck:
-RBDefineEntityComplianceCheckRule>>#checkClass:
-RBDefineEntityComplianceCheckRule>>#complianceMethods
-RBDefineEntityComplianceCheckRule>>#group
-RBDefineEntityComplianceCheckRule>>#name
-RBDefineEntityComplianceCheckRule>>#rationale
-RBDefineEntityComplianceCheckRule>>#resultClass
-RBLintRule class>>#checksPackage
-RBPharoBootstrapRule
-RBPharoBootstrapRule class>>#checksPackage
-RBPharoBootstrapRule>>#basicCheck:
-RBPharoBootstrapRule>>#checkPackage:
-RBPharoBootstrapRule>>#newExternalDependencyExistFor:
-RGPackage class>>#manifestReadOn:
-RGPackage>>#arrayStringForManifest
-RGPackage>>#realPackage
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50530
-ScriptLoader>>#update50531
-StartupUIManager class>>#isValidForCurrentSystemConfiguration
-StartupUIManager>>#handleError:log:
-StartupUIManager>>#inform:
-TheManifestBuilder>>#unwrap:
-UIManager class>>#forCurrentSystemConfiguration
-UIManager class>>#isValidForCurrentSystemConfiguration
-UIManager>>#debugProcess:context:label:fullView:
-UIManager>>#debugProcess:context:label:fullView:notification:
-UIManager>>#handleError:
-UIManager>>#handleError:log:
-UIManager>>#logError:
+Athens-Cairo.AthensCairoCanvas>>#setAlpha:
+FuelTools-Debugger.FuelOutStackDebugAction class>>#serializeTestFailureContext:toFileNamed:
+Kernel.Character>>#asUnicode
+Kernel.Process>>#debug:title:full:
+Manifest-Core.RGPackage class>>#manifestReadOn:
+Manifest-Core.RGPackage>>#arrayStringForManifest
+Manifest-Core.TheManifestBuilder>>#unwrap:
+Polymorph-Widgets.MorphicUIManager>>#handleError:log:
+Polymorph-Widgets.MorphicUIManager>>#openDebuggerOn:context:label:fullView:notification:
+Polymorph-Widgets.MorphicUIManager>>#warningDefaultAction:
+Refactoring-Critics.RBDefineBasickCheckRule
+Refactoring-Critics.RBDefineBasickCheckRule class>>#checksClass
+Refactoring-Critics.RBDefineBasickCheckRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBDefineBasickCheckRule>>#basicCheck:
+Refactoring-Critics.RBDefineBasickCheckRule>>#checkClass:
+Refactoring-Critics.RBDefineBasickCheckRule>>#group
+Refactoring-Critics.RBDefineBasickCheckRule>>#name
+Refactoring-Critics.RBDefineBasickCheckRule>>#resultClass
+Refactoring-Critics.RBDefineEntityComplianceCheckRule
+Refactoring-Critics.RBDefineEntityComplianceCheckRule class>>#checksClass
+Refactoring-Critics.RBDefineEntityComplianceCheckRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#basicCheck:
+Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#checkClass:
+Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#complianceMethods
+Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#group
+Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#name
+Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#rationale
+Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#resultClass
+Refactoring-Critics.RBLintRule class>>#checksPackage
+Refactoring-Critics.RBPharoBootstrapRule
+Refactoring-Critics.RBPharoBootstrapRule class>>#checksPackage
+Refactoring-Critics.RBPharoBootstrapRule>>#basicCheck:
+Refactoring-Critics.RBPharoBootstrapRule>>#checkPackage:
+Refactoring-Critics.RBPharoBootstrapRule>>#newExternalDependencyExistFor:
+Ring-Core-Containers.RGPackage>>#realPackage
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50530
+ScriptLoader50.ScriptLoader>>#update50531
+UIManager.CommandLineUIManager class>>#isValidForCurrentSystemConfiguration
+UIManager.CommandLineUIManager>>#handleError:log:
+UIManager.CommandLineUIManager>>#openDebuggerOn:context:label:fullView:notification:
+UIManager.DummyUIManager>>#debugProcess:context:label:fullView:notification:
+UIManager.DummyUIManager>>#handleError:log:
+UIManager.NonInteractiveUIManager class>>#isValidForCurrentSystemConfiguration
+UIManager.NonInteractiveUIManager>>#debugProcess:context:label:fullView:notification:
+UIManager.StartupUIManager class>>#isValidForCurrentSystemConfiguration
+UIManager.StartupUIManager>>#handleError:log:
+UIManager.StartupUIManager>>#inform:
+UIManager.UIManager class>>#forCurrentSystemConfiguration
+UIManager.UIManager class>>#isValidForCurrentSystemConfiguration
+UIManager.UIManager>>#debugProcess:context:label:fullView:
+UIManager.UIManager>>#debugProcess:context:label:fullView:notification:
+UIManager.UIManager>>#handleError:
+UIManager.UIManager>>#handleError:log:
+UIManager.UIManager>>#logError:

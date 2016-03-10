@@ -1,12 +1,12 @@
-FileList class>>#registerFileReader
-FileServices class>>#registerFileReader
-Locale class>>#current
-Locale>>#country
-Locale>>#encoder
-Locale>>#language
-Locale>>#printOn:
-ManifestFiles class>>#manuallyResolvedDependencies
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50274
-ScriptLoader>>#update50275
-Unicode class>>#value:
+Deprecated50.FileList class>>#registerFileReader
+Deprecated50.FileServices class>>#registerFileReader
+Files.ManifestFiles class>>#manuallyResolvedDependencies
+Multilingual-Encodings.Unicode class>>#value:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50274
+ScriptLoader50.ScriptLoader>>#update50275
+System-Localization.Locale class>>#current
+System-Localization.Locale>>#country
+System-Localization.Locale>>#encoder
+System-Localization.Locale>>#language
+System-Localization.Locale>>#printOn:

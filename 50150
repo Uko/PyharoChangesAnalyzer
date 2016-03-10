@@ -1,6 +1,6 @@
-JobTest>>#testCurrentJob
-JobTest>>#testLookupJob
-LinkedList>>#collect:thenReject:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50149
-ScriptLoader>>#update50150
+Collections-Sequenceable.LinkedList>>#collect:thenReject:
+Jobs.JobTest>>#testCurrentJob
+Jobs.JobTest>>#testLookupJob
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50149
+ScriptLoader50.ScriptLoader>>#update50150

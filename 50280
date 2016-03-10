@@ -1,15 +1,15 @@
-DummyUIManager>>#restoreDisplayAfter:
-SHRBTextStyler>>#currentClosedBracketStyleName
-SHRBTextStyler>>#currentClosedParenthesisStyleName
-SHRBTextStyler>>#currentOpenedBracketStyleName
-SHRBTextStyler>>#currentOpenedParenthesisStyleName
-SHRBTextStyler>>#styleCloseBracket:
-SHRBTextStyler>>#styleCloseParenthese:
-SHRBTextStyler>>#styleOpenBracket:
-SHRBTextStyler>>#styleOpenParenthese:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50279
-ScriptLoader>>#update50280
-SimpleServiceEntry>>#addServiceFor:toMenu:
-SystemWindow>>#openInWorld:extent:
-TimeZone class>>#local
+Kernel.TimeZone class>>#local
+Morphic-Widgets-Windows.SystemWindow>>#openInWorld:extent:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50279
+ScriptLoader50.ScriptLoader>>#update50280
+Shout.SHRBTextStyler>>#currentClosedBracketStyleName
+Shout.SHRBTextStyler>>#currentClosedParenthesisStyleName
+Shout.SHRBTextStyler>>#currentOpenedBracketStyleName
+Shout.SHRBTextStyler>>#currentOpenedParenthesisStyleName
+Shout.SHRBTextStyler>>#styleCloseBracket:
+Shout.SHRBTextStyler>>#styleCloseParenthese:
+Shout.SHRBTextStyler>>#styleOpenBracket:
+Shout.SHRBTextStyler>>#styleOpenParenthese:
+System-FileRegistry.SimpleServiceEntry>>#addServiceFor:toMenu:
+UIManager.DummyUIManager>>#restoreDisplayAfter:

@@ -1,10 +1,10 @@
-DynamicWidgetChange>>#change
-FreeTypeFont>>#familyName
-LogicalFont>>#lineGrid
-NECPreferences class>>#overrideModel:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50476
-ScriptLoader>>#update50477
-TabsExample>>#dynamicTab
-TabsExample>>#populateManager
-TabsExample>>#title
+FontInfrastructure.LogicalFont>>#lineGrid
+FreeType.FreeTypeFont>>#familyName
+NECompletion.NECPreferences class>>#overrideModel:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50476
+ScriptLoader50.ScriptLoader>>#update50477
+Spec-Examples.DynamicWidgetChange>>#change
+Spec-Examples.TabsExample>>#dynamicTab
+Spec-Examples.TabsExample>>#populateManager
+Spec-Examples.TabsExample>>#title

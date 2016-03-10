@@ -1,0 +1,27 @@
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_13:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50578
+ScriptLoader50.ScriptLoader>>#update50579
+Text-Edition.SmalltalkEditor class>>#smalltalkEditorMenuOn:
+UnifiedFFI.ByteArray>>#rollToArity:
+UnifiedFFI.FFICharacterType
+UnifiedFFI.FFIExternalObjectType
+UnifiedFFI.FFIExternalString
+UnifiedFFI.FFIExternalStructureType
+UnifiedFFI.FFIExternalType>>#needsArityRolling
+UnifiedFFI.FFIExternalType>>#needsArityUnrolling
+UnifiedFFI.FFIFunctionArgument>>#emitArgument:type:context:
+UnifiedFFI.FFIFunctionArgument>>#emitArgument:type:context:objectClass:instVarName:
+UnifiedFFI.FFIFunctionArgument>>#emitPointerArityUnroll:type:context:
+UnifiedFFI.FFIFunctionArgument>>#emitPointerArityUnroll:type:context:objectClass:instVarName:
+UnifiedFFI.FFIOop
+UnifiedFFI.FFIVoid
+UnifiedFFI.Integer>>#pointer
+UnifiedFFI.Object>>#pointer
+UnifiedFFI.Object>>#rollToArity:
+UnifiedFFI.String>>#rollToArity:
+UnifiedFFI.TFFIPointerArity
+UnifiedFFI.TFFIPointerArity>>#needsArityRolling
+UnifiedFFI.TFFIPointerArity>>#needsArityUnrolling
+UnifiedFFI.UndefinedObject>>#rollToArity:

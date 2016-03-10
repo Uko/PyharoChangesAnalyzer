@@ -1,11 +1,11 @@
-AbstractNautilusUI>>#acceptSourceCodeFromView
-AbstractNautilusUI>>#showScriptCode:
-AbstractNautilusUI>>#showSourceCode:
-EvaluateCommandLineHandler>>#evaluate:
-Form class>>#initialize
-Form class>>#unload
-RBImplementedNotSentRule>>#literals
-RingChunkImporter>>#scannedSource:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50252
-ScriptLoader>>#update50253
+CodeImport.EvaluateCommandLineHandler>>#evaluate:
+Graphics-Display Objects.Form class>>#initialize
+Graphics-Display Objects.Form class>>#unload
+Nautilus.AbstractNautilusUI>>#acceptSourceCodeFromView
+Nautilus.AbstractNautilusUI>>#showScriptCode:
+Nautilus.AbstractNautilusUI>>#showSourceCode:
+Refactoring-Critics.RBImplementedNotSentRule>>#literals
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50252
+ScriptLoader50.ScriptLoader>>#update50253
+Tool-ExternalBrowser.RingChunkImporter>>#scannedSource:

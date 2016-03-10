@@ -1,21 +1,21 @@
-MessageBrowser>>#autoSelect:
-MessageBrowser>>#classModified:
-MessageBrowser>>#classRenamed:
-MessageBrowser>>#handleClassRenamed:
-MessageBrowser>>#handleMethodAdded:
-MessageBrowser>>#handleMethodModified:
-MessageBrowser>>#handleMethodRemoved:
-MessageBrowser>>#intervalOf:inCode:of:
-MessageBrowser>>#intervalOf:inCommentText:
-MessageBrowser>>#methodAdded:
-MessageBrowser>>#methodModified:
-MessageBrowser>>#methodRemoved:
-MessageBrowser>>#registerToAnnouncements
-MessageBrowser>>#shouldRefreshItem:fromAnnouncement:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50409
-ScriptLoader>>#update50410
-StartupPreferencesLoader class>>#startupGeneralPrefererencesFolderMenuOn:
-StartupPreferencesLoader class>>#startupLoaderMenuOn:
-StartupPreferencesLoader class>>#startupPreferencesVersionFolderMenuOn:
-StartupPreferencesLoader class>>#systemStartupMenuOn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50409
+ScriptLoader50.ScriptLoader>>#update50410
+Spec-Tools.MessageBrowser>>#autoSelect:
+Spec-Tools.MessageBrowser>>#classModified:
+Spec-Tools.MessageBrowser>>#classRenamed:
+Spec-Tools.MessageBrowser>>#handleClassRenamed:
+Spec-Tools.MessageBrowser>>#handleMethodAdded:
+Spec-Tools.MessageBrowser>>#handleMethodModified:
+Spec-Tools.MessageBrowser>>#handleMethodRemoved:
+Spec-Tools.MessageBrowser>>#intervalOf:inCode:of:
+Spec-Tools.MessageBrowser>>#intervalOf:inCommentText:
+Spec-Tools.MessageBrowser>>#methodAdded:
+Spec-Tools.MessageBrowser>>#methodModified:
+Spec-Tools.MessageBrowser>>#methodRemoved:
+Spec-Tools.MessageBrowser>>#registerToAnnouncements
+Spec-Tools.MessageBrowser>>#shouldRefreshItem:fromAnnouncement:
+StartupPreferences.StartupPreferencesLoader class>>#startupGeneralPrefererencesFolderMenuOn:
+StartupPreferences.StartupPreferencesLoader class>>#startupLoaderMenuOn:
+StartupPreferences.StartupPreferencesLoader class>>#startupPreferencesVersionFolderMenuOn:
+StartupPreferences.StartupPreferencesLoader class>>#systemStartupMenuOn:

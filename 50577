@@ -1,0 +1,20 @@
+ConfigurationOfDependencyAnalyser.ConfigurationOfDependencyAnalyser>>#stable:
+ConfigurationOfDependencyAnalyser.ConfigurationOfDependencyAnalyser>>#version115:
+Moose-Algos-Graph.MalBreadthFirstSearchPath>>#runFrom:to:
+Moose-Algos-Graph.MalDijkstra>>#runFrom:to:
+Nautilus.MethodWidget class>>#elementsMenu:
+NautilusRefactoring.RBRenameClassChange>>#oldVersionTextToDisplay
+NautilusRefactoring.RBRenameClassChange>>#textToDisplay
+NautilusRefactoring.RBRenameClassChange>>#whatToDisplayIn:
+OpalCompiler-Core.OCASTSemanticAnalyzer>>#visitMethodNode:
+OpalCompiler-Core.OCASTSemanticCleaner
+OpalCompiler-Core.OCASTSemanticCleaner class>>#clean:
+OpalCompiler-Core.OCASTSemanticCleaner>>#visitBlockNode:
+OpalCompiler-Core.OCASTSemanticCleaner>>#visitMethodNode:
+OpalCompiler-Core.OCASTSemanticCleaner>>#visitVariableNode:
+Reflectivity.ReflectiveMethod>>#generatePrimitiveWrapper
+Reflectivity.ReflectiveMethod>>#recompileAST
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50576
+ScriptLoader50.ScriptLoader>>#update50577
+Tool-DependencyAnalyser-UI.DAPackageTreeModel>>#initializeWidgets

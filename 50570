@@ -1,0 +1,10 @@
+Morphic-Base.StringMorph>>#backgroundColor
+Morphic-Base.StringMorph>>#contrastingBackgroundColor
+Refactoring-Critics.RBSmalllintChecker class>>#runRule:onEnvironment:
+Refactoring-Critics.RBSmalllintChecker>>#run
+Refactoring-Critics.RBTransformationRule>>#checkMethod:
+Refactoring-Critics.RBTransformationRule>>#isEmpty
+Refactoring-Critics.RBTransformationRule>>#problemCount
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50569
+ScriptLoader50.ScriptLoader>>#update50570

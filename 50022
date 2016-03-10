@@ -1,23 +1,23 @@
-GG
-MetaLink>>#encloseInBlock:
-MetaLink>>#hook
-MetaLink>>#metaAwareHook
-MetaLinkTest>>#testHaltHook
-RFObjectReification
-RFObjectReification class>>#key
-RFObjectReification class>>#nodes
-RFObjectReification>>#genForRBProgramNode
-RFReification
-RFReification class>>#allKeys
-RFReification class>>#for:
-RFReification class>>#key
-RFReification class>>#nodes
-ReflectiveMethodTest>>#testLinkWithMeta
-ReflectiveMethodTest>>#testLinkWithMetaDisabled
-ReflectivityExamples>>#exampleMethod
-RelationSlot>>#emitStore:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script630
-ScriptLoader>>#update50022
-Slot>>#emitStore:
-TT
+Play.GG
+Play.TT
+Reflectivity-Tests.MetaLinkTest>>#testHaltHook
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithMeta
+Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithMetaDisabled
+Reflectivity-Tests.ReflectivityExamples>>#exampleMethod
+Reflectivity.MetaLink>>#encloseInBlock:
+Reflectivity.MetaLink>>#hook
+Reflectivity.MetaLink>>#metaAwareHook
+Reflectivity.RFObjectReification
+Reflectivity.RFObjectReification class>>#key
+Reflectivity.RFObjectReification class>>#nodes
+Reflectivity.RFObjectReification>>#genForRBProgramNode
+Reflectivity.RFReification
+Reflectivity.RFReification class>>#allKeys
+Reflectivity.RFReification class>>#for:
+Reflectivity.RFReification class>>#key
+Reflectivity.RFReification class>>#nodes
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script630
+ScriptLoader50.ScriptLoader>>#update50022
+Slot.RelationSlot>>#emitStore:
+Slot.Slot>>#emitStore:

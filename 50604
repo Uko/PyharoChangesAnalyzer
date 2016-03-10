@@ -1,0 +1,9 @@
+Nautilus.NautilusUI>>#selectedClass:belongsToPackageSelection:
+Nautilus.NautilusUI>>#selectedPackageWithoutChangingSelection:
+Nautilus.NautilusUI>>#updatePackageGroupAndClassList
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50603
+ScriptLoader50.ScriptLoader>>#update50604
+Tool-ProcessBrowser.ProcessBrowser>>#doItContext
+Tool-ProcessBrowser.ProcessBrowser>>#doItReceiver
+Tool-ProcessBrowser.ProcessBrowser>>#selectedClassOrMetaClass

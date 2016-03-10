@@ -1,5 +1,5 @@
-RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50487
-ScriptLoader>>#update50488
-TextMorph>>#mouseDown:
+Morphic-Base.TextMorph>>#mouseDown:
+Rubric.RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50487
+ScriptLoader50.ScriptLoader>>#update50488

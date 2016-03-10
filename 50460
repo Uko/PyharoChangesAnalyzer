@@ -1,7 +1,7 @@
-Class>>#acceptSettings:
-ClassTest>>#testClassRespectsPolymorphismWithTrait
-GTExampleNautilus class>>#methodChanged:
-MCPackageManager class>>#registerInterestOnSystemChangesOnAnnouncer:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50459
-ScriptLoader>>#update50460
+GT-Inspector.GTExampleNautilus class>>#methodChanged:
+Kernel-Tests.ClassTest>>#testClassRespectsPolymorphismWithTrait
+Monticello.MCPackageManager class>>#registerInterestOnSystemChangesOnAnnouncer:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50459
+ScriptLoader50.ScriptLoader>>#update50460
+System-Settings.Class>>#acceptSettings:

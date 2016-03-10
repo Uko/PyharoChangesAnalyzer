@@ -1,14 +1,14 @@
-ContributingToTheCatalogHelp class>>#AddingYourProject
-ContributingToTheCatalogHelp class>>#introduction
-ContributingToTheCatalogHelp class>>#pages
-Dictionary>>#at:ifPresent:ifAbsent:
-FLLargeIdentityDictionary>>#at:ifPresent:ifAbsent:
-ManifestSystemAnnouncements class>>#ignoredDependencies
-OSEnvironment>>#at:ifPresent:ifAbsent:
-SHA1>>#initializeTotalsArray
-SHA1>>#processBufferUsingPrimitives:
-SHA256>>#initializeTotalsArray
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50335
-ScriptLoader>>#update50336
-SmallDictionary>>#at:ifPresent:ifAbsent:
+Collections-Unordered.Dictionary>>#at:ifPresent:ifAbsent:
+Collections-Unordered.SmallDictionary>>#at:ifPresent:ifAbsent:
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#AddingYourProject
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#introduction
+ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#pages
+Fuel.FLLargeIdentityDictionary>>#at:ifPresent:ifAbsent:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50335
+ScriptLoader50.ScriptLoader>>#update50336
+System-Announcements.ManifestSystemAnnouncements class>>#ignoredDependencies
+System-Hashing.SHA1>>#initializeTotalsArray
+System-Hashing.SHA1>>#processBufferUsingPrimitives:
+System-Hashing.SHA256>>#initializeTotalsArray
+System-OSEnvironments.OSEnvironment>>#at:ifPresent:ifAbsent:

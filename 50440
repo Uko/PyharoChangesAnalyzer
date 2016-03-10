@@ -1,5 +1,5 @@
-MCMczReader>>#contentsForMember:
-Object>>#hasBindingOf:
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50439
-ScriptLoader>>#update50440
+Kernel.Object>>#hasBindingOf:
+Monticello.MCMczReader>>#contentsForMember:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50439
+ScriptLoader50.ScriptLoader>>#update50440

@@ -1,112 +1,112 @@
-AbstractIconStyler
-AbstractIconStyler class>>#shouldStyle
-AbstractIconStyler class>>#style:
-AbstractIconStyler>>#addIconMethodStyle:
-AbstractIconStyler>>#addIconStyle:
-AbstractIconStyler>>#addIconStyle:from:to:
-AbstractIconStyler>>#addIconStyle:from:to:color:
-AbstractIconStyler>>#borderColor
-AbstractIconStyler>>#highlightColor
-AbstractIconStyler>>#icon
-AbstractIconStyler>>#iconBlock:
-AbstractIconStyler>>#iconLabel:
-AbstractIconStyler>>#iconProvider
-AbstractIconStyler>>#shouldStyleNode:
-AbstractIconStyler>>#textModel
-AbstractIconStyler>>#textModel:
-AbstractIconStyler>>#visitArgumentNode:
-AbstractIconStyler>>#visitArrayNode:
-AbstractIconStyler>>#visitAssignmentNode:
-AbstractIconStyler>>#visitBlockNode:
-AbstractIconStyler>>#visitCascadeNode:
-AbstractIconStyler>>#visitGlobalNode:
-AbstractIconStyler>>#visitInstanceVariableNode:
-AbstractIconStyler>>#visitLiteralArrayNode:
-AbstractIconStyler>>#visitLiteralNode:
-AbstractIconStyler>>#visitMessageNode:
-AbstractIconStyler>>#visitMethodNode:
-AbstractIconStyler>>#visitParseErrorNode:
-AbstractIconStyler>>#visitPragmaNode:
-AbstractIconStyler>>#visitReturnNode:
-AbstractIconStyler>>#visitSelfNode:
-AbstractIconStyler>>#visitSequenceNode:
-AbstractIconStyler>>#visitSuperNode:
-AbstractIconStyler>>#visitTemporaryNode:
-AbstractIconStyler>>#visitThisContextNode:
-AbstractIconStyler>>#visitVariableNode:
-AbstractWidget class>>#listClass
-BreakpointIconStyler>>#iconLabel:
-CircularCollection
-CircularCollection class>>#new:
-CircularCollection>>#initialize
-CircularCollection>>#initialize:
-MetaLinkTest>>#testAvailableReifications
-MetalinkIconStyler>>#iconLabel:
-Nautilus class>>#nautilusSettingsOn:
-RBProgramNode>>#hasWatchpoint
-RBProgramNode>>#watchpoint
-RFASTTranslator>>#emitMetaLinkAfterNoEnsure:
-RFASTTranslator>>#emitPrepareLinkAfter:
-RFValueReification class>>#entities
-RFValueReification>>#genForRBMessageNode
-RFValueReification>>#genForRBReturnNode
-RFValueReification>>#preamble:
-ReflectivityControlTest>>#testAfterSendWeak
-ReflectivityReificationTest>>#testReifySendValue
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50464
-ScriptLoader>>#update50465
-SugsSuggestionFactory class>>#cleanUp
-SugsSuggestionFactory class>>#createWatchpointCommand
-SugsSuggestionFactory class>>#createWatchpointDeleteHistoryCommand
-SugsWatchpointDeleteHistorySuggestion
-SugsWatchpointDeleteHistorySuggestion>>#execute
-SugsWatchpointDeleteHistorySuggestion>>#isValidForContext
-SugsWatchpointDeleteHistorySuggestion>>#label
-SugsWatchpointSuggestion
-SugsWatchpointSuggestion>>#execute
-SugsWatchpointSuggestion>>#isValidForContext
-SugsWatchpointSuggestion>>#label
-WPDummy
-WPDummy>>#exampleAssignment
-WPDummy>>#exampleAssignment:
-WPDummy>>#exampleOperationAndAssignment
-WPDummy>>#exampleOperationAndAssignment:
-WPDummy>>#foo
-WPDummy>>#foo:
-Watchpoint
-Watchpoint class>>#add:on:
-Watchpoint class>>#allWatchpoints
-Watchpoint class>>#deleteAllHistory
-Watchpoint class>>#deleteHistoryFrom:
-Watchpoint class>>#from:
-Watchpoint class>>#from:ifAbsent:
-Watchpoint class>>#in:
-Watchpoint class>>#in:named:
-Watchpoint class>>#removeAll
-Watchpoint class>>#removeFrom:
-Watchpoint>>#addValue:
-Watchpoint>>#deleteHistory
-Watchpoint>>#initialize
-Watchpoint>>#install
-Watchpoint>>#node
-Watchpoint>>#node:
-Watchpoint>>#printOn:
-Watchpoint>>#tagname
-Watchpoint>>#tagname:
-Watchpoint>>#uninstall
-Watchpoint>>#values
-WatchpointIconStyler
-WatchpointIconStyler>>#highlightColor
-WatchpointIconStyler>>#icon
-WatchpointIconStyler>>#iconBlock:
-WatchpointIconStyler>>#iconLabel:
-WatchpointIconStyler>>#shouldStyleNode:
-WatchpointTests
-WatchpointTests>>#testAddWatchpoint
-WatchpointTests>>#testDeleteAllHistory
-WatchpointTests>>#testDeleteHistory
-WatchpointTests>>#testDeleteHistoryFromNode
-WatchpointTests>>#testSaveOneValue
-WatchpointTests>>#testSaveValues
-WatchpointTests>>#testTimestamp
+Nautilus.AbstractWidget class>>#listClass
+Nautilus.Nautilus class>>#nautilusSettingsOn:
+Reflectivity-Examples.AbstractIconStyler
+Reflectivity-Examples.AbstractIconStyler class>>#shouldStyle
+Reflectivity-Examples.AbstractIconStyler class>>#style:
+Reflectivity-Examples.AbstractIconStyler>>#addIconMethodStyle:
+Reflectivity-Examples.AbstractIconStyler>>#addIconStyle:
+Reflectivity-Examples.AbstractIconStyler>>#addIconStyle:from:to:
+Reflectivity-Examples.AbstractIconStyler>>#addIconStyle:from:to:color:
+Reflectivity-Examples.AbstractIconStyler>>#borderColor
+Reflectivity-Examples.AbstractIconStyler>>#highlightColor
+Reflectivity-Examples.AbstractIconStyler>>#icon
+Reflectivity-Examples.AbstractIconStyler>>#iconBlock:
+Reflectivity-Examples.AbstractIconStyler>>#iconProvider
+Reflectivity-Examples.AbstractIconStyler>>#textModel
+Reflectivity-Examples.AbstractIconStyler>>#textModel:
+Reflectivity-Examples.AbstractIconStyler>>#visitArgumentNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitArrayNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitAssignmentNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitBlockNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitCascadeNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitGlobalNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitInstanceVariableNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitLiteralArrayNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitLiteralNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitMessageNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitMethodNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitParseErrorNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitPragmaNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitReturnNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitSelfNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitSequenceNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitSuperNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitTemporaryNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitThisContextNode:
+Reflectivity-Examples.AbstractIconStyler>>#visitVariableNode:
+Reflectivity-Examples.BreakpointIconStyler>>#iconLabel:
+Reflectivity-Examples.MetalinkIconStyler>>#iconLabel:
+Reflectivity-Tests.MetaLinkTest>>#testAvailableReifications
+Reflectivity-Tests.ReflectivityControlTest>>#testAfterSendWeak
+Reflectivity-Tests.ReflectivityReificationTest>>#testReifySendValue
+Reflectivity-Tools-Tests.WPDummy
+Reflectivity-Tools-Tests.WPDummy>>#exampleAssignment
+Reflectivity-Tools-Tests.WPDummy>>#exampleAssignment:
+Reflectivity-Tools-Tests.WPDummy>>#exampleOperationAndAssignment
+Reflectivity-Tools-Tests.WPDummy>>#exampleOperationAndAssignment:
+Reflectivity-Tools-Tests.WPDummy>>#foo
+Reflectivity-Tools-Tests.WPDummy>>#foo:
+Reflectivity-Tools-Tests.WatchpointTests
+Reflectivity-Tools-Tests.WatchpointTests>>#testAddWatchpoint
+Reflectivity-Tools-Tests.WatchpointTests>>#testDeleteAllHistory
+Reflectivity-Tools-Tests.WatchpointTests>>#testDeleteHistory
+Reflectivity-Tools-Tests.WatchpointTests>>#testDeleteHistoryFromNode
+Reflectivity-Tools-Tests.WatchpointTests>>#testSaveOneValue
+Reflectivity-Tools-Tests.WatchpointTests>>#testSaveValues
+Reflectivity-Tools-Tests.WatchpointTests>>#testTimestamp
+Reflectivity-Tools.AbstractIconStyler>>#iconLabel:
+Reflectivity-Tools.AbstractIconStyler>>#shouldStyleNode:
+Reflectivity-Tools.RBProgramNode>>#hasWatchpoint
+Reflectivity-Tools.RBProgramNode>>#watchpoint
+Reflectivity-Tools.Watchpoint
+Reflectivity-Tools.Watchpoint class>>#add:on:
+Reflectivity-Tools.Watchpoint class>>#allWatchpoints
+Reflectivity-Tools.Watchpoint class>>#deleteAllHistory
+Reflectivity-Tools.Watchpoint class>>#deleteHistoryFrom:
+Reflectivity-Tools.Watchpoint class>>#from:
+Reflectivity-Tools.Watchpoint class>>#from:ifAbsent:
+Reflectivity-Tools.Watchpoint class>>#in:
+Reflectivity-Tools.Watchpoint class>>#in:named:
+Reflectivity-Tools.Watchpoint class>>#removeAll
+Reflectivity-Tools.Watchpoint class>>#removeFrom:
+Reflectivity-Tools.Watchpoint>>#addValue:
+Reflectivity-Tools.Watchpoint>>#deleteHistory
+Reflectivity-Tools.Watchpoint>>#initialize
+Reflectivity-Tools.Watchpoint>>#install
+Reflectivity-Tools.Watchpoint>>#node
+Reflectivity-Tools.Watchpoint>>#node:
+Reflectivity-Tools.Watchpoint>>#printOn:
+Reflectivity-Tools.Watchpoint>>#tagname
+Reflectivity-Tools.Watchpoint>>#tagname:
+Reflectivity-Tools.Watchpoint>>#uninstall
+Reflectivity-Tools.Watchpoint>>#values
+Reflectivity-Tools.WatchpointIconStyler
+Reflectivity-Tools.WatchpointIconStyler>>#highlightColor
+Reflectivity-Tools.WatchpointIconStyler>>#icon
+Reflectivity-Tools.WatchpointIconStyler>>#iconBlock:
+Reflectivity-Tools.WatchpointIconStyler>>#iconLabel:
+Reflectivity-Tools.WatchpointIconStyler>>#shouldStyleNode:
+Reflectivity.RFASTTranslator>>#emitMetaLinkAfterNoEnsure:
+Reflectivity.RFASTTranslator>>#emitPrepareLinkAfter:
+Reflectivity.RFValueReification class>>#entities
+Reflectivity.RFValueReification>>#genForRBMessageNode
+Reflectivity.RFValueReification>>#genForRBReturnNode
+Reflectivity.RFValueReification>>#preamble:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50464
+ScriptLoader50.ScriptLoader>>#update50465
+SmartSuggestions.SugsSuggestionFactory class>>#cleanUp
+SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointCommand
+SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointDeleteHistoryCommand
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion>>#execute
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion>>#isValidForContext
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion>>#label
+SmartSuggestions.SugsWatchpointSuggestion
+SmartSuggestions.SugsWatchpointSuggestion>>#execute
+SmartSuggestions.SugsWatchpointSuggestion>>#isValidForContext
+SmartSuggestions.SugsWatchpointSuggestion>>#label
+Watchpoints.CircularCollection
+Watchpoints.CircularCollection class>>#new:
+Watchpoints.CircularCollection>>#initialize
+Watchpoints.CircularCollection>>#initialize:

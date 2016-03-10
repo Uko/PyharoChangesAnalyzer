@@ -1,6 +1,6 @@
-DictionaryTest>>#collectionClass
-ScriptLoader>>#commentForCurrentUpdate
-ScriptLoader>>#script50242
-ScriptLoader>>#update50243
-SetTest>>#collectionClass
-TBehavior>>#changeRecordsAt:
+Collections-Tests.DictionaryTest>>#collectionClass
+Collections-Tests.SetTest>>#collectionClass
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50242
+ScriptLoader50.ScriptLoader>>#update50243
+Traits.TBehavior>>#changeRecordsAt:
