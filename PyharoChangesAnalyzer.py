@@ -8,7 +8,6 @@ import re
 
 INTERESTING_CHANGE_TYPES = ["A", "M", "R"]
 
-
 def clone_init_repo():
     repo = Repo.clone_from("https://github.com/pharo-project/pharo-core.git","pharo-repo")
 
@@ -29,22 +28,25 @@ def analyze_tag(tag):
             path_segments = change.a_path.split("/")
             path_segments.reverse()
             if path_segments[0].endswith(".st"):
-                if path_segments[2] == "instance":
-                    changed_entities.add(inst_method_string_from_segments(path_segments))
-                elif path_segments[2] == "class":
-                    changed_entities.add(cls_method_string_from_segments(path_segments))
-                elif len(path_segments) >= 4 and path_segments[3] == "extension":
-                    if path_segments[1] == "instance":
-                        changed_entities.add(ext_inst_method_string_from_segments(path_segments))
-                    if path_segments[1] == "class":
-                        changed_entities.add(ext_cls_method_string_from_segments(path_segments))
-                else:
-                    changed_entities.add(class_string_from_segments(path_segments))
+                changed_entities.add(path_segments[-1][:-8] + '.' + changed_entitity_from(path_segments))
 
     with open(tag.name, "w") as version_file:
         for entity in sorted(changed_entities):
             version_file.write(entity)
             version_file.write("\n")
+
+def changed_entitity_from(segments):
+    if segments[2] == "instance":
+        return inst_method_string_from_segments(segments)
+    elif segments[2] == "class":
+        return cls_method_string_from_segments(segments)
+    elif len(segments) >= 4 and segments[3] == "extension":
+        if segments[1] == "instance":
+            return ext_inst_method_string_from_segments(segments)
+        if segments[1] == "class":
+            return ext_cls_method_string_from_segments(segments)
+    else:
+        return class_string_from_segments(segments)
 
 def inst_method_string_from_segments(segments):
     return segments[3][:-6] + '>>#' + recoverSelector(segments[0])
