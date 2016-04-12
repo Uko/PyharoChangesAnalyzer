@@ -1,5 +1,10 @@
+Athens-Cairo.AthensCairoCanvas>>#setFont:
+Athens-Cairo.AthensCairoPDFSurface>>#newCanvas
 Athens-Core.BitmapFillStyle>>#asAthensPaintOn:
 Athens-Morphic.AthensParagraph>>#secondarySelection:
+Athens-Morphic.AthensWorldMorph>>#viewBox:
+Athens-Morphic.AthensWrapWorldMorph>>#fullDrawOnAthensCanvas:
+Athens-Morphic.AthensWrapWorldMorph>>#render
 Athens-Morphic.EllipseMorph>>#asAthensShapeOn:
 Athens-Morphic.EllipseMorph>>#drawOnAthensCanvas:
 Athens-Morphic.PolygonMorph>>#adjustSegmentPointsForArrows
@@ -18,4 +23,5 @@ ConfigurationOfAthens.ConfigurationOfAthens>>#version35:
 Manifest-Core.RPackage>>#packageManifest
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50048
+ScriptLoader50.ScriptLoader>>#update50048
 ScriptLoader50.ScriptLoader>>#update50049

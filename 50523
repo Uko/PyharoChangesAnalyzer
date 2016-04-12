@@ -18,11 +18,15 @@ Morphic-Widgets-FastTable.FTTableMorph>>#disableFunction
 Morphic-Widgets-FastTable.FTTableMorph>>#extent:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50522
+ScriptLoader50.ScriptLoader>>#update50522
 ScriptLoader50.ScriptLoader>>#update50523
 SmartSuggestions.GLMRubricSmalltalkTextModel>>#sugsContext
 SmartSuggestions.SugsGlamourCodeContext
 SmartSuggestions.SugsGlamourCodeContext>>#selectedClass
 SmartSuggestions.SugsGlamourCodeContext>>#selectedMethod
 SmartSuggestions.SugsGlamourCodeContext>>#sourceTextArea
+System-BasicCommandLineHandler.BasicCommandLineHandler class>>#helpDescription
+System-BasicCommandLineHandler.BasicCommandLineHandler>>#printHelp
 Tools-Test.DebuggerTest
+Tools-Test.DebuggerTest>>#testBasic
 Tools-Test.SpecDebuggerTest>>#testBasic

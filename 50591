@@ -29,6 +29,7 @@ GT-Debugger.GTSpecPreDebugWindow>>#initialExtent
 GT-Debugger.GTSpecPreDebugWindow>>#initializeStackPane
 GT-Debugger.GTSpecPreDebugWindow>>#openFullDebugger
 GT-Debugger.GTTemporaryPreDebugChangeDebuggerAction>>#appliesToDebugger:
+GT-EventRecorder-Tests.GTEventCollectorTest>>#testCreationTime
 GT-EventRecorder-Tests.GTEventCollectorsTest>>#testDo
 GT-EventRecorder-Tests.GTEventCollectorsTest>>#testDo2
 GT-EventRecorder-Tests.GTEventPackingTest>>#setUp
@@ -38,6 +39,7 @@ GT-EventRecorder-Tests.GTEventRecorderTest>>#testPack3
 GT-EventRecorder.GTEventAnnouncement>>#category
 GT-EventRecorder.GTEventAnnouncement>>#category:
 GT-EventRecorder.GTEventCollector
+GT-EventRecorder.GTEventCollector>>#creationTime
 GT-EventRecorder.GTEventCollector>>#initialize
 GT-EventRecorder.GTEventCollectors>>#add:
 GT-EventRecorder.GTEventCollectors>>#do:
@@ -89,10 +91,12 @@ Glamour-Core.GLMAction>>#shortcut:
 Glamour-Morphic-Widgets.GLMPrintPopper>>#openFromRubric:withResult:
 Glamour-Morphic-Widgets.GLMWatcherWindow class>>#buildKeymapsOn:
 Glamour-Tests-Morphic.GLMPharoScriptMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
+Glamour-Tests-Morphic.GLMTextMorphicTest>>#testAcceptKeyCanBeOverriden
 Glamour-Tests-Morphic.GLMTextMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
 Glamour-Tests-Rubric.GLMRubricTextMorphicTest>>#testAcceptKeyCanBeOverriden
 Glamour-Tests-Rubric.GLMRubricTextMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
 Glamour-Tests-Rubric.GLMRubricTextMorphicTest>>#testOKeyWithCtrlCannotBeOverriden
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50590
+ScriptLoader50.ScriptLoader>>#update50590
 ScriptLoader50.ScriptLoader>>#update50591

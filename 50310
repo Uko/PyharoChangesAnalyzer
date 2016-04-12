@@ -20,6 +20,11 @@ Nautilus.ClassOrMethodDefinitionAcceptor>>#acceptInstanceSide:notifying:
 Nautilus.CodeRewritingAcceptor>>#accept:notifying:
 Nautilus.CodeSearchingAcceptor>>#accept:notifying:
 Nautilus.Nautilus class>>#isNoCategoryAndNoMethodSelected
+Nautilus.NautilusHelp
+Nautilus.NautilusHelp class>>#bookName
+Nautilus.NautilusHelp class>>#contextMenus
+Nautilus.NautilusHelp class>>#pages
+Nautilus.NautilusUI>>#buildTestSuiteFor:
 Nautilus.NautilusUI>>#currentHistoryIndex
 Nautilus.NautilusUI>>#debugTest
 Nautilus.NautilusUI>>#demoteSelectedPackageAsPackageWithTag
@@ -31,11 +36,13 @@ Nautilus.NautilusUI>>#giveFocusToProtocol
 Nautilus.NautilusUI>>#historyChanged
 Nautilus.NautilusUI>>#open
 Nautilus.NautilusUI>>#runTestForAMethod:notifying:priority:
+Nautilus.NautilusUI>>#runTestForAMethodWithAnHalt:
 Nautilus.NautilusUI>>#setHistory:
 Nautilus.NautilusUI>>#wrapHistory:
 Reflectivity-Tests.ReflectivityControlTest>>#testAfterMethod
 Reflectivity.RFASTTranslator>>#visitMethodNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50309
+ScriptLoader50.ScriptLoader>>#update50309
 ScriptLoader50.ScriptLoader>>#update50310
 Shout.SHRBTextStyler>>#literalStyleSymbol:

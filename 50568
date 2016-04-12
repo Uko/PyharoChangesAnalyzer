@@ -1,5 +1,7 @@
 Monticello.MethodAddition>>#notifyObservers
 Morphic-Base.HaloMorph>>#addNameBeneath:string:
+Morphic-Base.NameStringInHalo
+Morphic-Base.NameStringInHalo>>#drawOn:
 Morphic-Base.StringMorph
 Morphic-Base.StringMorph>>#backgroundColor
 Morphic-Base.StringMorph>>#backgroundColor:
@@ -8,6 +10,7 @@ Morphic-Base.StringMorph>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#loadConfiguration:version:
 ScriptLoader50.ScriptLoader>>#script50567
+ScriptLoader50.ScriptLoader>>#update50567
 ScriptLoader50.ScriptLoader>>#update50568
 Traits.TClassDescription>>#compile:classified:withStamp:notifying:logSource:
 Traits.TClassDescription>>#noteCompilationOfMethod:meta:

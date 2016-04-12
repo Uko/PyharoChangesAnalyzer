@@ -2,9 +2,12 @@ Monticello.MCVersion>>#loadCompletePackageSnapshot
 Monticello.MCVersion>>#loadCompleteSnapshot
 Monticello.MCWorkingCopy>>#completeSnapshot
 Nautilus.AbstractNautilusUI>>#classIconFor:
+Nautilus.Nautilus class>>#emptyCommentWarning
+Nautilus.Nautilus class>>#emptyCommentWarning:
 Nautilus.Nautilus class>>#nautilusSettingsOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50479
+ScriptLoader50.ScriptLoader>>#update50479
 ScriptLoader50.ScriptLoader>>#update50480
 System-Settings.SettingDeclaration>>#inputWidget
 Tool-Base.SystemNavigation>>#browseAllImplementorsOf:

@@ -1,3 +1,6 @@
+Graphics-Fonts-Tests.StandardSystemFontsTest
+Graphics-Fonts-Tests.StandardSystemFontsTest>>#assert:familyName:pointSize:
+Graphics-Fonts-Tests.StandardSystemFontsTest>>#saveStandardSystemFontsDuring:
 Graphics-Tests.PointTest>>#testAsFloatPoint
 Graphics-Tests.PointTest>>#testAsIntegerPoint
 Graphics-Tests.PointTest>>#testIsFloatPoint
@@ -14,5 +17,6 @@ Kernel.Rectangle>>#floor
 Kernel.Rectangle>>#isIntegerRectangle
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50630
+ScriptLoader50.ScriptLoader>>#update50630
 ScriptLoader50.ScriptLoader>>#update50631
 System-SessionManager.StartupUIManager>>#handleError:log:

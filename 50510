@@ -6,6 +6,17 @@ GTInspector-Help.GTInspectorHelp class>>#pages
 GTInspector-Help.GTInspectorHelp class>>#roassal
 GTInspector-Help.GTInspectorHelp class>>#table
 ImportingResource-Help.ImportingResourceHelp class>>#importingIcon
+Metacello-Platform.MetacelloPharoPlatform
+Metacello-Platform.MetacelloPharoPlatform class>>#initialize
+Metacello-Platform.MetacelloPharoPlatform>>#authorName
+Metacello-Platform.MetacelloPharoPlatform>>#authorName:
+Metacello-Platform.MetacelloPharoPlatform>>#collection:do:displaying:
+Metacello-Platform.MetacelloPharoPlatform>>#copyClass:as:inCategory:
+Metacello-Platform.MetacelloPharoPlatform>>#createRepository:
+Metacello-Platform.MetacelloPharoPlatform>>#defaultPlatformAttributes
+Metacello-Platform.MetacelloPharoPlatform>>#do:displaying:
+Metacello-Platform.MetacelloPharoPlatform>>#extractTypeFromDescription:
+Metacello-Platform.MetacelloPharoPlatform>>#timestamp
 Metacello-Platform.pharo30.MetacelloPharo30Platform
 Metacello-Platform.pharo30.MetacelloPharo30Platform class>>#initialize
 Metacello-Platform.pharo30.MetacelloPharo30Platform>>#compiler
@@ -30,4 +41,5 @@ Metacello-Platform.pharo30.MetacelloPharo30Platform>>#suspendSystemUpdateEventsD
 Metacello-Platform.pharo30.MetacelloPharo30Platform>>#tempFileFor:suffix:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50509
+ScriptLoader50.ScriptLoader>>#update50509
 ScriptLoader50.ScriptLoader>>#update50510

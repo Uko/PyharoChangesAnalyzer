@@ -1,5 +1,121 @@
+AST-Core.RBConfigurableFormatter
+AST-Core.RBConfigurableFormatter class>>#cascadedMessageInsideParentheses
+AST-Core.RBConfigurableFormatter class>>#cascadedMessageInsideParentheses:
+AST-Core.RBConfigurableFormatter class>>#format:
+AST-Core.RBConfigurableFormatter class>>#format:withIndents:
+AST-Core.RBConfigurableFormatter class>>#formatAsYouReadPolicy
+AST-Core.RBConfigurableFormatter class>>#formatAsYouReadPolicy:
+AST-Core.RBConfigurableFormatter class>>#formatCommentWithStatements
+AST-Core.RBConfigurableFormatter class>>#formatCommentWithStatements:
+AST-Core.RBConfigurableFormatter class>>#indentString
+AST-Core.RBConfigurableFormatter class>>#indentString:
+AST-Core.RBConfigurableFormatter class>>#indentsForKeywords
+AST-Core.RBConfigurableFormatter class>>#indentsForKeywords:
+AST-Core.RBConfigurableFormatter class>>#initialize
+AST-Core.RBConfigurableFormatter class>>#keepBlockInMessage
+AST-Core.RBConfigurableFormatter class>>#keepBlockInMessage:
+AST-Core.RBConfigurableFormatter class>>#lineUpBlockBrackets
+AST-Core.RBConfigurableFormatter class>>#lineUpBlockBrackets:
+AST-Core.RBConfigurableFormatter class>>#maxLineLength
+AST-Core.RBConfigurableFormatter class>>#maxLineLength:
+AST-Core.RBConfigurableFormatter class>>#methodSignatureOnMultipleLines
+AST-Core.RBConfigurableFormatter class>>#methodSignatureOnMultipleLines:
+AST-Core.RBConfigurableFormatter class>>#minimumNewLinesBetweenStatements
+AST-Core.RBConfigurableFormatter class>>#minimumNewLinesBetweenStatements:
+AST-Core.RBConfigurableFormatter class>>#multiLineMessages
+AST-Core.RBConfigurableFormatter class>>#multiLineMessages:
+AST-Core.RBConfigurableFormatter class>>#newLineAfterCascade
+AST-Core.RBConfigurableFormatter class>>#newLineAfterCascade:
+AST-Core.RBConfigurableFormatter class>>#newLineBeforeFirstCascade
+AST-Core.RBConfigurableFormatter class>>#newLineBeforeFirstCascade:
+AST-Core.RBConfigurableFormatter class>>#newLineBeforeFirstKeyword
+AST-Core.RBConfigurableFormatter class>>#newLineBeforeFirstKeyword:
+AST-Core.RBConfigurableFormatter class>>#newLinesAfterMethodComment
+AST-Core.RBConfigurableFormatter class>>#newLinesAfterMethodComment:
+AST-Core.RBConfigurableFormatter class>>#newLinesAfterMethodPattern
+AST-Core.RBConfigurableFormatter class>>#newLinesAfterMethodPattern:
+AST-Core.RBConfigurableFormatter class>>#newLinesAfterTemporaries
+AST-Core.RBConfigurableFormatter class>>#newLinesAfterTemporaries:
+AST-Core.RBConfigurableFormatter class>>#numberOfArgumentsForMultiLine
+AST-Core.RBConfigurableFormatter class>>#numberOfArgumentsForMultiLine:
+AST-Core.RBConfigurableFormatter class>>#oneLineMessages
+AST-Core.RBConfigurableFormatter class>>#oneLineMessages:
+AST-Core.RBConfigurableFormatter class>>#periodsAsTerminators
+AST-Core.RBConfigurableFormatter class>>#periodsAsTerminators:
+AST-Core.RBConfigurableFormatter class>>#periodsAtEndOfBlock
+AST-Core.RBConfigurableFormatter class>>#periodsAtEndOfBlock:
+AST-Core.RBConfigurableFormatter class>>#periodsAtEndOfMethod
+AST-Core.RBConfigurableFormatter class>>#periodsAtEndOfMethod:
+AST-Core.RBConfigurableFormatter class>>#retainBlankLinesBeforeComments
+AST-Core.RBConfigurableFormatter class>>#retainBlankLinesBeforeComments:
+AST-Core.RBConfigurableFormatter class>>#retainBlankLinesBetweenStatements
+AST-Core.RBConfigurableFormatter class>>#retainBlankLinesBetweenStatements:
+AST-Core.RBConfigurableFormatter class>>#settingsOn:
+AST-Core.RBConfigurableFormatter class>>#stringFollowingReturn
+AST-Core.RBConfigurableFormatter class>>#stringFollowingReturn:
+AST-Core.RBConfigurableFormatter class>>#stringInsideBlocks
+AST-Core.RBConfigurableFormatter class>>#stringInsideBlocks:
+AST-Core.RBConfigurableFormatter class>>#stringInsideParentheses
+AST-Core.RBConfigurableFormatter class>>#stringInsideParentheses:
+AST-Core.RBConfigurableFormatter class>>#traditionalBinaryPrecedence
+AST-Core.RBConfigurableFormatter class>>#traditionalBinaryPrecedence:
+AST-Core.RBConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses
+AST-Core.RBConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses:
+AST-Core.RBConfigurableFormatter>>#addNewLinesBeforeStatementStartingAt:
+AST-Core.RBConfigurableFormatter>>#bracketWith:around:
+AST-Core.RBConfigurableFormatter>>#containerWidth:
+AST-Core.RBConfigurableFormatter>>#currentLineLength
+AST-Core.RBConfigurableFormatter>>#format:
+AST-Core.RBConfigurableFormatter>>#formatArray:
+AST-Core.RBConfigurableFormatter>>#formatBlock:
+AST-Core.RBConfigurableFormatter>>#formatBlockArgumentsFor:
+AST-Core.RBConfigurableFormatter>>#formatCommentsFor:
+AST-Core.RBConfigurableFormatter>>#formatMethodBodyFor:
+AST-Core.RBConfigurableFormatter>>#formatMethodCommentFor:
+AST-Core.RBConfigurableFormatter>>#formatMethodPatternFor:
+AST-Core.RBConfigurableFormatter>>#formatPragmasFor:
+AST-Core.RBConfigurableFormatter>>#formatSelectorAndArguments:
+AST-Core.RBConfigurableFormatter>>#formatSelectorAndArguments:firstSeparator:restSeparator:
+AST-Core.RBConfigurableFormatter>>#formatSequenceCommentsFor:
+AST-Core.RBConfigurableFormatter>>#formatSequenceNodeStatementsFor:
+AST-Core.RBConfigurableFormatter>>#formatStatementCommentsFor:
+AST-Core.RBConfigurableFormatter>>#formatTemporariesFor:
+AST-Core.RBConfigurableFormatter>>#formattedSourceFor:
+AST-Core.RBConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
+AST-Core.RBConfigurableFormatter>>#indent:
+AST-Core.RBConfigurableFormatter>>#indent:around:
+AST-Core.RBConfigurableFormatter>>#indentAround:
+AST-Core.RBConfigurableFormatter>>#initialize
+AST-Core.RBConfigurableFormatter>>#isLineTooLong:
+AST-Core.RBConfigurableFormatter>>#isMultiLineMessage:
+AST-Core.RBConfigurableFormatter>>#needsParenthesisFor:
+AST-Core.RBConfigurableFormatter>>#newLine
+AST-Core.RBConfigurableFormatter>>#newLines:
+AST-Core.RBConfigurableFormatter>>#newLinesBeforeStartingAt:
+AST-Core.RBConfigurableFormatter>>#precedenceOf:greaterThan:
+AST-Core.RBConfigurableFormatter>>#space
+AST-Core.RBConfigurableFormatter>>#visitArrayNode:
+AST-Core.RBConfigurableFormatter>>#visitAssignmentNode:
+AST-Core.RBConfigurableFormatter>>#visitBlockNode:
+AST-Core.RBConfigurableFormatter>>#visitCascadeNode:
+AST-Core.RBConfigurableFormatter>>#visitLiteralArrayNode:
+AST-Core.RBConfigurableFormatter>>#visitLiteralNode:
+AST-Core.RBConfigurableFormatter>>#visitMessageNode:
+AST-Core.RBConfigurableFormatter>>#visitMethodNode:
+AST-Core.RBConfigurableFormatter>>#visitNode:
+AST-Core.RBConfigurableFormatter>>#visitPatternBlockNode:
+AST-Core.RBConfigurableFormatter>>#visitPatternWrapperBlockNode:
+AST-Core.RBConfigurableFormatter>>#visitPragmaNode:
+AST-Core.RBConfigurableFormatter>>#visitReturnNode:
+AST-Core.RBConfigurableFormatter>>#visitSequenceNode:
+AST-Core.RBConfigurableFormatter>>#visitVariableNode:
+AST-Core.RBConfigurableFormatter>>#willBeMultiline:
+AST-Core.RBConfigurableFormatter>>#with:and:do:separatedBy:
+AST-Core.RBConfigurableFormatter>>#writeString:
 AST-Core.RBProgramNode class>>#formatterClass
 AST-Tests-Core.RBParserTest>>#exampleClasses
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50199
+ScriptLoader50.ScriptLoader>>#update50199
 ScriptLoader50.ScriptLoader>>#update50200
+Tools-Test.WorkspaceTest>>#testStyling

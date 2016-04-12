@@ -10,6 +10,7 @@ Ring-Core-Kernel.RGBehaviorDefinition>>#hasDefinitionSource
 Ring-Monticello.RGMethodDefinition>>#asMCMethodDefinition
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50092
+ScriptLoader50.ScriptLoader>>#update50092
 ScriptLoader50.ScriptLoader>>#update50093
 Tool-ExternalBrowser.CurrentImage
 Tool-ExternalBrowser.CurrentImage>>#packages

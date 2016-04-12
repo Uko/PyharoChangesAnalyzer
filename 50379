@@ -19,4 +19,5 @@ Glamour-Tests-Core.GLMAnnouncerTest>>#testSuspendParticularAnnouncementWhile
 Glamour-Tests-Core.GLMAnnouncerTest>>#testSuspendParticularAnnouncementWithInheritanceWhile
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50378
+ScriptLoader50.ScriptLoader>>#update50378
 ScriptLoader50.ScriptLoader>>#update50379

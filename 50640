@@ -1,0 +1,11 @@
+Monticello.MCStWriter
+Monticello.MCStWriter>>#visitMethodDefinition:
+Monticello.MCStWriter>>#writeInitializers
+Monticello.MCStWriter>>#writeInitializers:
+RPackage-Core.MCPackage>>#correspondingRPackage
+RPackage-Core.MCPackageManager class>>#unregisterForNotifications
+SUnit-Core.TestCase class>>#hasTestSelectors
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50639
+ScriptLoader50.ScriptLoader>>#update50639
+ScriptLoader50.ScriptLoader>>#update50640

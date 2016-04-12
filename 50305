@@ -2,6 +2,7 @@ CodeExport.RPackage>>#fileOut
 MonticelloGUI.MCWorkingCopyBrowser>>#initialExtent
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50304
+ScriptLoader50.ScriptLoader>>#update50304
 ScriptLoader50.ScriptLoader>>#update50305
 System-Support.Model
 System-Support.Model>>#actAsExecutor

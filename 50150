@@ -3,4 +3,5 @@ Jobs.JobTest>>#testCurrentJob
 Jobs.JobTest>>#testLookupJob
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50149
+ScriptLoader50.ScriptLoader>>#update50149
 ScriptLoader50.ScriptLoader>>#update50150

@@ -4,4 +4,5 @@ Kernel.Behavior>>#shouldNotBeRedefined
 Kernel.Object>>#clone
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50565
+ScriptLoader50.ScriptLoader>>#update50565
 ScriptLoader50.ScriptLoader>>#update50566

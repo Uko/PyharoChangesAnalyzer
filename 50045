@@ -8,7 +8,9 @@ Keymapping-KeyCombinations.KMNamedCharKeyCombination class>>#space
 Keymapping-KeyCombinations.KMNamedCharKeyCombination class>>#specialKeys
 Keymapping-KeyCombinations.KMNamedCharKeyCombination>>#name
 Keymapping-KeyCombinations.KMNamedCharKeyCombination>>#name:
+Keymapping-KeyCombinations.KMUntypeableSingleKeyCombination>>#printOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50044
+ScriptLoader50.ScriptLoader>>#update50044
 ScriptLoader50.ScriptLoader>>#update50045
 Tool-FilePackageBrowser.FileContentsBrowser class>>#serviceBrowseCode

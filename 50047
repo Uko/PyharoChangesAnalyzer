@@ -8,6 +8,7 @@ DebuggerModel.DebugContext>>#confirmOnTraitOverwrite:inClass:
 DebuggerModel.DebugContext>>#recompileCurrentMethodTo:notifying:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50046
+ScriptLoader50.ScriptLoader>>#update50046
 ScriptLoader50.ScriptLoader>>#update50047
 Text-Scanning.BitBltDisplayScanner>>#displayString:from:to:at:
 Versionner-Commit.MTDependantProject>>#isPresent

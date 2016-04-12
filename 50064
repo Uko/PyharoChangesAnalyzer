@@ -1,10 +1,19 @@
 Rubric.RubAbstractTextArea
+Rubric.RubAbstractTextArea class>>#backgroundUpdatingForBigText
+Rubric.RubAbstractTextArea class>>#backgroundUpdatingForBigText:
 Rubric.RubAbstractTextArea class>>#lineNumbersBackgroundColor
+Rubric.RubAbstractTextArea class>>#useFindReplaceSelection
+Rubric.RubAbstractTextArea class>>#useFindReplaceSelection:
+Rubric.RubAbstractTextArea class>>#useSecondarySelection
+Rubric.RubAbstractTextArea class>>#useSecondarySelection:
+Rubric.RubAbstractTextArea class>>#useSelectionBar
+Rubric.RubAbstractTextArea class>>#useSelectionBar:
 Rubric.RubAbstractTextArea>>#drawSubmorphsOnAthensCanvas:
 Rubric.RubAbstractTextArea>>#getMenu:
 Rubric.RubAbstractTextArea>>#lookupShiftMenu
 Rubric.RubAbstractTextArea>>#restoreSelectionIndexesAfter:
 Rubric.RubAbstractTextArea>>#textColor:
+Rubric.RubAbstractTextArea>>#useFindReplaceSelection
 Rubric.RubAdornmentDisplayer>>#drawOnAthensCanvas:
 Rubric.RubCodeSizeFeedback>>#drawOnAthensCanvas:
 Rubric.RubColumnDisplayer>>#drawOnAthensCanvas:
@@ -43,6 +52,8 @@ Rubric.RubPluggableGetMenuPolicy>>#menuProvider:
 Rubric.RubPluggableTextMorph
 Rubric.RubPluggableTextMorph>>#formatSourceCode
 Rubric.RubPluggableTextMorph>>#getEnabledSelector:
+Rubric.RubPluggableTextMorph>>#getMenuSelector
+Rubric.RubPluggableTextMorph>>#getMenuSelector:
 Rubric.RubPluggableTextMorph>>#getText
 Rubric.RubPluggableTextMorph>>#initialize
 Rubric.RubPluggableTextMorph>>#on:text:accept:readSelection:menu:
@@ -53,23 +64,31 @@ Rubric.RubPluggableTextMorphExample>>#accept:notifying:
 Rubric.RubPluggableTextMorphExample>>#autoAccept
 Rubric.RubPluggableTextMorphExample>>#checkClassName
 Rubric.RubPluggableTextMorphExample>>#checkMethodName
+Rubric.RubPluggableTextMorphExample>>#classSelector
 Rubric.RubPluggableTextMorphExample>>#classSelectorMorph
 Rubric.RubPluggableTextMorphExample>>#editButton
 Rubric.RubPluggableTextMorphExample>>#enabled
 Rubric.RubPluggableTextMorphExample>>#enabled:
+Rubric.RubPluggableTextMorphExample>>#menu
 Rubric.RubPluggableTextMorphExample>>#metaSwitch
 Rubric.RubPluggableTextMorphExample>>#method
+Rubric.RubPluggableTextMorphExample>>#methodSelector
 Rubric.RubPluggableTextMorphExample>>#methodSelectorMorph
 Rubric.RubPluggableTextMorphExample>>#newScrolledText
 Rubric.RubPluggableTextMorphExample>>#open
+Rubric.RubPluggableTextMorphExample>>#primarySelectionInterval
 Rubric.RubPluggableTextMorphExample>>#readSelection
 Rubric.RubPluggableTextMorphExample>>#selectedClass
 Rubric.RubPluggableTextMorphExample>>#selectedClassName
 Rubric.RubPluggableTextMorphExample>>#selectedMethodName
 Rubric.RubPluggableTextMorphExample>>#selector
+Rubric.RubPluggableTextMorphExample>>#setPrimarySelectionInterval:
+Rubric.RubPluggableTextMorphExample>>#setSelectedClassName:
+Rubric.RubPluggableTextMorphExample>>#setSelectedMethodName:
 Rubric.RubPluggableTextMorphExample>>#setSelection:
 Rubric.RubPluggableTextMorphExample>>#whenClassNameChanged:
 Rubric.RubPluggableTextMorphExample>>#whenMethodNameChanged:
+Rubric.RubScrolledTextExtra>>#noteNewOwner:
 Rubric.RubScrolledTextModel>>#getString
 Rubric.RubScrolledTextModel>>#newTextField
 Rubric.RubScrolledTextModel>>#shiftMenu
@@ -94,10 +113,13 @@ Rubric.RubTextAreaExamples class>>#nicolaiAttributeFix
 Rubric.RubTextAreaExamples class>>#rightFlushed
 Rubric.RubTextAreaExamples class>>#show:while:
 Rubric.RubTextFieldArea>>#defaultMargins
+Rubric.RubTextSegmentIconBox>>#mouseDown:
 Rubric.RubTextSegmentIconDisplayer>>#drawOnAthensCanvas:
+Rubric.RubTextSegmentIconDisplayer>>#drawSegmentsAtLineIndex:on:
 Rubric.RubTextSegmentMorph>>#displayIconAt:onAthensCanvas:
 Rubric.RubUnderlinedSegmentMorph>>#drawOnAthensCanvas:
 Rubric.RubUnderlinedSegmentMorph>>#drawUnderlineOnAthensCanvas:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50063
+ScriptLoader50.ScriptLoader>>#update50063
 ScriptLoader50.ScriptLoader>>#update50064

@@ -20,4 +20,5 @@ SUnit-UI.CommandLineTestRunner>>#printError:of:
 SUnit-UI.CommandLineTestRunner>>#printFailure:of:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50276
+ScriptLoader50.ScriptLoader>>#update50276
 ScriptLoader50.ScriptLoader>>#update50277

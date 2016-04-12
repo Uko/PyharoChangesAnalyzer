@@ -1,4 +1,5 @@
 Compiler.Decompiler>>#doNop
+Compression.ArrayedCollection>>#writeOnGZIPByteStream:
 Kernel.Context>>#doNop
 Kernel.InstructionClient>>#doNop
 Reflectivity.HookGenerator>>#entity:node:links:
@@ -8,41 +9,58 @@ Reflectivity.LiteralVariable>>#availableReifications
 Reflectivity.MetaLink>>#checkForCompatibilityWith:
 Reflectivity.RBProgramNode>>#availableReifications
 Reflectivity.RFArgumentsReification class>>#entities
+Reflectivity.RFArgumentsReification class>>#nodes
 Reflectivity.RFClassReification class>>#entities
+Reflectivity.RFClassReification class>>#nodes
 Reflectivity.RFEReceiverReification class>>#entities
+Reflectivity.RFEReceiverReification class>>#nodes
 Reflectivity.RFEntityReification class>>#entities
+Reflectivity.RFEntityReification class>>#nodes
 Reflectivity.RFEntityReification>>#genForInstanceVariableSlot
 Reflectivity.RFEntityReification>>#genForLiteralVariable
 Reflectivity.RFEntityReification>>#genForRBProgramNode
 Reflectivity.RFLinkReification class>>#entities
+Reflectivity.RFLinkReification class>>#nodes
 Reflectivity.RFNameReification class>>#entities
+Reflectivity.RFNameReification class>>#nodes
 Reflectivity.RFNameReification>>#genForInstanceVariableSlot
 Reflectivity.RFNameReification>>#genForLiteralVariable
 Reflectivity.RFNameReification>>#genForRBAssignmentNode
 Reflectivity.RFNameReification>>#genForRBVariableNode
 Reflectivity.RFNewValueReification class>>#entities
+Reflectivity.RFNewValueReification class>>#nodes
 Reflectivity.RFNodeReification class>>#entities
+Reflectivity.RFNodeReification class>>#nodes
 Reflectivity.RFNodeReification>>#genForRBProgramNode
 Reflectivity.RFObjectReification class>>#entities
+Reflectivity.RFObjectReification class>>#nodes
 Reflectivity.RFReification
 Reflectivity.RFReification class>>#entities
 Reflectivity.RFReification class>>#entity:link:
+Reflectivity.RFReification class>>#node:link:
+Reflectivity.RFReification class>>#nodes
 Reflectivity.RFReification>>#entity:
+Reflectivity.RFReification>>#node:
 Reflectivity.RFSelectorReification class>>#entities
+Reflectivity.RFSelectorReification class>>#nodes
 Reflectivity.RFSelectorReification>>#genForRBMessageNode
 Reflectivity.RFSelectorReification>>#genForRBMethodNode
 Reflectivity.RFSenderReification class>>#entities
+Reflectivity.RFSenderReification class>>#nodes
 Reflectivity.RFThisContextReification class>>#entities
+Reflectivity.RFThisContextReification class>>#nodes
 Reflectivity.RFValueReification class>>#nodes
 Reflectivity.RFValueReification>>#genForInstanceVariableSlot
 Reflectivity.RFValueReification>>#genForLiteralVariable
 Reflectivity.RFValueReification>>#genForRBAssignmentNode
 Reflectivity.RFValueReification>>#genForRBVariableNode
 Reflectivity.RFVariableReification class>>#entities
+Reflectivity.RFVariableReification class>>#nodes
 Reflectivity.RFVariableReification>>#genForInstanceVariableSlot
 Reflectivity.RFVariableReification>>#genForLiteralVariable
 Reflectivity.RFVariableReification>>#genForRBVariableNode
 Reflectivity.Slot>>#availableReifications
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50395
+ScriptLoader50.ScriptLoader>>#update50395
 ScriptLoader50.ScriptLoader>>#update50396

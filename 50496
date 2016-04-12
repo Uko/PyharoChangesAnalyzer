@@ -11,4 +11,5 @@ OpalCompiler-Tests.OCOpalExamples>>#exampleForInlinedBlockArgument
 OpalCompiler-Tests.OCOpalExamples>>#exampleWithArgument:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50495
+ScriptLoader50.ScriptLoader>>#update50495
 ScriptLoader50.ScriptLoader>>#update50496

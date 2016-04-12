@@ -1,5 +1,96 @@
 AST-Core.NumberParser class>>#isNumber:
 AST-Tests-Core.NumberParserTest>>#testIsNumber
+Deprecated40.CheckBoxModel>>#whenLabelChanged:
+Deprecated40.Class>>#name:
+Deprecated40.CompiledMethod>>#messagesDo:
+Deprecated40.Date>>#leap
+Deprecated40.DateAndTime>>#asTimeStamp
+Deprecated40.ImageModel>>#whenActionChanged:
+Deprecated40.ImageModel>>#whenImageChanged:
+Deprecated40.LabelModel>>#text
+Deprecated40.LabelModel>>#text:
+Deprecated40.LabelModel>>#whenLabelChanged:
+Deprecated40.LabelModel>>#whenTextChanged:
+Deprecated40.Locale class>>#addLocalChangedListener:
+Deprecated40.Locale class>>#isoLocale:
+Deprecated40.Locale class>>#localeChanged
+Deprecated40.Locale class>>#localeChangedListeners
+Deprecated40.LocaleID class>>#previous
+Deprecated40.Matrix class>>#column:
+Deprecated40.Matrix class>>#row:
+Deprecated40.MenuMorph class>>#fromArray:
+Deprecated40.MenuMorph>>#add:action:
+Deprecated40.MenuMorph>>#add:target:action:
+Deprecated40.MenuMorph>>#addTranslatedList:
+Deprecated40.MenuMorph>>#addUpdating:action:
+Deprecated40.MenuMorph>>#addUpdating:target:action:
+Deprecated40.MenuMorph>>#title:
+Deprecated40.MorphicUIManager>>#request:initialAnswer:centerAt:
+Deprecated40.NBWin32Caret
+Deprecated40.NBWin32Caret class>>#getBlinkTime
+Deprecated40.NBWin32Menu
+Deprecated40.NBWin32MessageBox
+Deprecated40.NBWin32MessageBox class>>#messageBox:text:title:flags:
+Deprecated40.NBWin32MessageBox class>>#test
+Deprecated40.NBWin32Process
+Deprecated40.NBWin32Process class>>#getCurrentProcess
+Deprecated40.NBWin32Process class>>#getCurrentProcessId
+Deprecated40.NBWin32Process>>#getPriorityClass
+Deprecated40.NBWin32Process>>#isHighPriorityClass
+Deprecated40.NBWin32Process>>#isIdlePriorityClass
+Deprecated40.NBWin32Process>>#isNormalPriorityClass
+Deprecated40.NBWin32Process>>#isRealtimePriorityClass
+Deprecated40.NBWin32ShellTest
+Deprecated40.NBWin32ShellTest>>#testGetCommandLine
+Deprecated40.NBWin32ShellTest>>#testGetComputerName
+Deprecated40.NBWin32ShellTest>>#testGetDriveType
+Deprecated40.NBWin32ShellTest>>#testNoDebuggerPresentByDefault
+Deprecated40.NBWin32ShellTest>>#testNumberOfProcessors
+Deprecated40.NBWin32Thread
+Deprecated40.NBWin32Thread class>>#getCurrentThread
+Deprecated40.NBWin32Thread class>>#getCurrentThreadId
+Deprecated40.NBWin32Thread>>#isThreadAllAccess
+Deprecated40.NonInteractiveUIManager>>#request:initialAnswer:centerAt:
+Deprecated40.Object>>#asReactiveVariable
+Deprecated40.OldClassBuilderAdapter>>#anonymousSubclassOf:
+Deprecated40.OldClassBuilderAdapter>>#becomeCompact:
+Deprecated40.OldClassBuilderAdapter>>#becomeCompact:simplyAt:
+Deprecated40.OldClassBuilderAdapter>>#becomeUncompact:
+Deprecated40.Password
+Deprecated40.PluggableTextMorphWithLimits>>#ifLocked:
+Deprecated40.PluggableTextMorphWithLimits>>#ifLocked:ifUnlocked:
+Deprecated40.RGClassDefinition>>#classSymbol
+Deprecated40.RGMethodDefinition>>#classSymbol
+Deprecated40.RPackage>>#correspondingMcPackage
+Deprecated40.RPackageOrganizer>>#renamePackage:in:
+Deprecated40.RadioButtonModel>>#whenLabelChanged:
+Deprecated40.ShadowLabelMorph
+Deprecated40.ShadowLabelMorph>>#drawOn:
+Deprecated40.StartupLoader
+Deprecated40.StartupLoader class>>#default
+Deprecated40.Stream>>#isMessageStream
+Deprecated40.String>>#asTimeStamp
+Deprecated40.String>>#do:toFieldNumber:
+Deprecated40.String>>#padded:to:with:
+Deprecated40.String>>#splitInteger
+Deprecated40.String>>#tabDelimitedFieldsDo:
+Deprecated40.String>>#withFirstCharacterDownshifted
+Deprecated40.SystemAnnouncement class>>#fromInternal:
+Deprecated40.TClass>>#classPoolFrom:
+Deprecated40.TClass>>#ensureClassPool
+Deprecated40.TimeStamp
+Deprecated40.TimeStamp class>>#now
+Deprecated40.TimeStamp class>>#readFrom:
+Deprecated40.TimeStamp>>#asTimeStamp
+Deprecated40.TimeStamp>>#printOn:
+Deprecated40.TimeStamp>>#species
+Deprecated40.TimeStamp>>#storeOn:
+Deprecated40.ToolRegistry>>#shortcuts
+Deprecated40.ToolRegistry>>#userManager
+Deprecated40.UIManager>>#displayProgress:at:from:to:during:
+Deprecated40.UIManager>>#request:initialAnswer:centerAt:
+Fuel.TimeStamp>>#fuelAccept:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script611
+ScriptLoader50.ScriptLoader>>#update50002
 ScriptLoader50.ScriptLoader>>#update50003

@@ -60,6 +60,7 @@ Renraku.RePriorInvocationCritic>>#description
 Renraku.RePriorInvocationCritic>>#title
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50628
+ScriptLoader50.ScriptLoader>>#update50628
 ScriptLoader50.ScriptLoader>>#update50629
 UIManager.DummyUIManager>>#checkForNewDisplaySize
 UIManager.DummyUIManager>>#newDisplayDepthNoRestore:

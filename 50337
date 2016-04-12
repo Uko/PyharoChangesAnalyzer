@@ -12,4 +12,5 @@ Rubric.RubSmalltalkEditor>>#sendersOfIt
 Rubric.RubTextSegmentMorph>>#from:to:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50336
+ScriptLoader50.ScriptLoader>>#update50336
 ScriptLoader50.ScriptLoader>>#update50337

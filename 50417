@@ -1,8 +1,12 @@
+Kernel.SmallInteger>>#fromString:radix:
 Morphic-Widgets-Windows.SystemWindow
+Morphic-Widgets-Windows.SystemWindow>>#activeOnlyOnTop
+Morphic-Widgets-Windows.SystemWindow>>#activeOnlyOnTop:
 Multilingual-TextConversion.UTF8InvalidText
 Polymorph-Widgets.SystemWindow>>#initialize
 Polymorph-Widgets.SystemWindow>>#isActive
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50416
+ScriptLoader50.ScriptLoader>>#update50416
 ScriptLoader50.ScriptLoader>>#update50417
 Tool-Finder.MethodFinder>>#initialize

@@ -1,0 +1,17 @@
+Deprecated50.SmalltalkImage>>#add:toList:after:
+Deprecated50.SmalltalkImage>>#add:toList:before:
+Deprecated50.SmalltalkImage>>#addToShutDownList:after:
+Deprecated50.SmalltalkImage>>#addToShutDownList:before:
+Deprecated50.SmalltalkImage>>#addToStartUpList:after:
+Deprecated50.SmalltalkImage>>#addToStartUpList:before:
+EmergencyEvaluator.Transcripter class>>#startTranscriptProcess
+Kernel-Tests.ClassTest>>#testAddClassSlot
+Kernel.Class>>#addClassSlot:
+Kernel.ClassDescription>>#addSlot:
+Kernel.Metaclass>>#addSlot:
+Monticello.MCMethodDefinition class>>#initialize
+Monticello.MCMethodDefinition class>>#release
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50634
+ScriptLoader50.ScriptLoader>>#update50634
+ScriptLoader50.ScriptLoader>>#update50635

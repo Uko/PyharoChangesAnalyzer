@@ -1,4 +1,9 @@
+Collections-Streams.MultiByteBinaryOrTextStream>>#setFileTypeToObject
+Collections-Streams.RWBinaryOrTextStream>>#setFileTypeToObject
 Compression.StandardFileStream>>#compressFile
+FileSystem-Core.AbstractFileReference>>#macTypeAndCreator
+FileSystem-Core.FileReference>>#macTypeAndCreator
+FileSystem-Core.FileReference>>#setMacType:creator:
 Graphics-Fonts.FontSet class>>#fileOut
 Monticello.MCDataStream class>>#fileNamed:
 Monticello.MCDataStream class>>#newFileNamed:
@@ -10,5 +15,7 @@ Network-Kernel.MacOSPlatform>>#configureHttpProxy
 Network-Kernel.OSPlatform>>#configureHttpProxy
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script643
+ScriptLoader50.ScriptLoader>>#update50034
 ScriptLoader50.ScriptLoader>>#update50035
 System-Support.SmalltalkImage>>#saveChangesInFileNamed:
+System-Support.SmalltalkImage>>#setMacFileInfoOn:

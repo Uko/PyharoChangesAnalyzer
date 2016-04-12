@@ -10,5 +10,6 @@ Refactoring-Critics.RBSelfSentNotImplementedRule>>#basicCheck:
 Refactoring-Critics.RBSelfSentNotImplementedRule>>#checkMethod:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50625
+ScriptLoader50.ScriptLoader>>#update50625
 ScriptLoader50.ScriptLoader>>#update50626
 Traits.TBehavior>>#flushCache

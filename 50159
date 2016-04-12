@@ -1,4 +1,14 @@
 Nautilus.AbstractNautilusUI>>#textMorphClass
+NautilusCommon.AlexPlugin
+NautilusCommon.AlexPlugin class>>#defaultPosition
+NautilusCommon.AlexPlugin class>>#description
+NautilusCommon.AlexPlugin>>#buildTextMorph
+NautilusCommon.AlexPlugin>>#display
+NautilusCommon.AlexPlugin>>#getText
+NautilusCommon.AlexPlugin>>#initialize
+NautilusCommon.AlexPlugin>>#methodSelected:
+NautilusCommon.AlexPlugin>>#registerTo:
+NautilusCommon.AlexPlugin>>#updateContainer
 NautilusCommon.AnnotationPanePlugin
 NautilusCommon.AnnotationPanePlugin>>#buildString
 NautilusCommon.AnnotationRequest
@@ -14,6 +24,7 @@ NautilusCommon.AnnotationRequest>>#messageCategory
 NautilusCommon.AnnotationRequest>>#method
 NautilusCommon.AnnotationRequest>>#methodClass
 NautilusCommon.AnnotationRequest>>#methodSelector
+NautilusCommon.AnnotationRequest>>#onClass:selector:
 NautilusCommon.AnnotationRequest>>#onCompiledMethod:
 NautilusCommon.AnnotationRequest>>#priorVersionsCount
 NautilusCommon.AnnotationRequest>>#recentChangeSet
@@ -26,11 +37,41 @@ NautilusCommon.CountingKeyPressedPlugin>>#stringMorph:
 NautilusCommon.InformationLinePlugin
 NautilusCommon.InformationLinePlugin class>>#description
 NautilusCommon.InformationLinePlugin>>#buildString
+NautilusCommon.KonamiCodePlugin
+NautilusCommon.KonamiCodePlugin>>#initialize
+NautilusCommon.KonamiCodePlugin>>#keyPressed:
+NautilusCommon.KonamiCodePlugin>>#konamiCode
+NautilusCommon.KonamiCodePlugin>>#openKonamiCode
+NautilusCommon.MondrianPlugin
+NautilusCommon.MondrianPlugin class>>#description
+NautilusCommon.MondrianPlugin>>#classSelected:
+NautilusCommon.MondrianPlugin>>#registerTo:
+NautilusCommon.MondrianPlugin>>#remplacementMorphUsing:
+NautilusCommon.NautilusBreadcrumbsPlugin
 NautilusCommon.NautilusBreadcrumbsPlugin class>>#defaultPosition
+NautilusCommon.NautilusBreadcrumbsPlugin class>>#description
+NautilusCommon.NautilusBreadcrumbsPlugin class>>#pluginName
+NautilusCommon.NautilusBreadcrumbsPlugin>>#classMenu:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#classSelected:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#display
+NautilusCommon.NautilusBreadcrumbsPlugin>>#groupMenu:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#groupSelected:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#hFill
+NautilusCommon.NautilusBreadcrumbsPlugin>>#initialize
+NautilusCommon.NautilusBreadcrumbsPlugin>>#methodMenu:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#methodSelected:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#packageMenu:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#packageSelected:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#protocolMenu:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#protocolSelected:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#registerTo:
+NautilusCommon.NautilusBreadcrumbsPlugin>>#resetContainer
+NautilusCommon.NautilusBreadcrumbsPlugin>>#showGroupsChanged:
 NautilusCommon.URLPlugin
 NautilusCommon.URLPlugin>>#changed:
 NautilusCommon.URLPlugin>>#display
 NautilusCommon.URLPlugin>>#registerTo:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50158
+ScriptLoader50.ScriptLoader>>#update50158
 ScriptLoader50.ScriptLoader>>#update50159

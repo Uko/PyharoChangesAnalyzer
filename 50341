@@ -4,6 +4,7 @@ OpalCompiler-Core.ManifestOpalCompilerCore class>>#ignoredDependencies
 OpalCompiler-Core.ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50340
+ScriptLoader50.ScriptLoader>>#update50340
 ScriptLoader50.ScriptLoader>>#update50341
 Slot.AbstractClassModification>>#classLayout
 Slot.AbstractClassModification>>#classLayout:

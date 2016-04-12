@@ -2,4 +2,5 @@ Refactoring-Critics.RBSmalllintChecker class>>#runRule:onEnvironment:
 Refactoring-Critics.RBSmalllintChecker>>#run
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50422
+ScriptLoader50.ScriptLoader>>#update50422
 ScriptLoader50.ScriptLoader>>#update50423

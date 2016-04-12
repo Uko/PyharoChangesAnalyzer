@@ -1,6 +1,7 @@
 AST-Core.RBArgumentNode>>#adaptToSemanticNode
 AST-Core.RBParseErrorNode>>#adaptToSemanticNode
 AST-Core.RBVariableNode>>#adaptToSemanticNode
+OpalCompiler-Core.OCASTClosureAnalyzer>>#changeVariableClass:
 OpalCompiler-Core.OCASTClosureAnalyzer>>#visitArgumentNode:
 OpalCompiler-Core.OCASTClosureAnalyzer>>#visitVariableNode:
 OpalCompiler-Core.OCASTSemanticAnalyzer>>#declareArgumentNode:
@@ -9,7 +10,9 @@ OpalCompiler-Core.OCASTSemanticAnalyzer>>#declareVariableNode:as:
 OpalCompiler-Core.OCASTSemanticAnalyzer>>#visitBlockNode:
 OpalCompiler-Core.OCASTSemanticAnalyzer>>#visitInlinedBlockNode:
 OpalCompiler-Core.OCASTSemanticAnalyzer>>#visitMethodNode:
+OpalCompiler-Core.OCAbstractLocalVariable>>#isArg
 OpalCompiler-Core.OCAbstractLocalVariable>>#isUninitialized
+OpalCompiler-Core.OCAbstractLocalVariable>>#markArg
 OpalCompiler-Core.OCAbstractMethodScope>>#addTemp:
 OpalCompiler-Core.OCAbstractMethodScope>>#addTemp:withName:
 OpalCompiler-Core.OCAbstractMethodScope>>#initialize
@@ -31,12 +34,16 @@ OpalCompiler-Core.OCSelfVariable>>#initialize
 OpalCompiler-Core.OCSelfVariable>>#isSelf
 OpalCompiler-Core.OCSlotVariable class>>#semanticNodeClass
 OpalCompiler-Core.OCSpecialVariable>>#emitValue:
+OpalCompiler-Core.OCSpecialVariable>>#isContext
+OpalCompiler-Core.OCSpecialVariable>>#isSelf
+OpalCompiler-Core.OCSpecialVariable>>#isSuper
 OpalCompiler-Core.OCSpecialVariable>>#isThisContext
 OpalCompiler-Core.OCSuperVariable
 OpalCompiler-Core.OCSuperVariable class>>#semanticNodeClass
 OpalCompiler-Core.OCSuperVariable>>#initialize
 OpalCompiler-Core.OCSuperVariable>>#isSuper
 OpalCompiler-Core.OCTempVariable class>>#semanticNodeClass
+OpalCompiler-Core.OCTempVariable>>#isWritable
 OpalCompiler-Core.OCThisContextVariable
 OpalCompiler-Core.OCThisContextVariable class>>#semanticNodeClass
 OpalCompiler-Core.OCThisContextVariable>>#emitValue:
@@ -47,4 +54,5 @@ OpalCompiler-Tests.OCASTCheckerTest>>#testExampleThisContext
 Reflectivity.RFSemanticAnalyzer>>#visitMethodNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50517
+ScriptLoader50.ScriptLoader>>#update50517
 ScriptLoader50.ScriptLoader>>#update50518

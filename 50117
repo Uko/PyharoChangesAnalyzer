@@ -13,10 +13,12 @@ Refactoring-Critics.RBUndeclaredReferenceRule>>#checkMethod:
 Refactoring-Environment.RBBrowserEnvironment>>#methodsDo:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50116
+ScriptLoader50.ScriptLoader>>#update50116
 ScriptLoader50.ScriptLoader>>#update50117
 Shout.SHRBTextStyler>>#privateStyle:
 Shout.SHRBTextStyler>>#resolveTextLinkFor:
 Shout.SHRBTextStyler>>#visitVariableNode:
+System-Changes.PositionableStream>>#copyPreamble:from:at:
 Tool-Workspace.Workspace
 Tool-Workspace.Workspace class>>#open
 Tool-Workspace.Workspace>>#acceptAction:

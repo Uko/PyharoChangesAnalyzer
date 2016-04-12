@@ -5,7 +5,9 @@ Reflectivity.RFNameReification class>>#nodes
 Reflectivity.RFNameReification>>#genForRBVariableNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50099
+ScriptLoader50.ScriptLoader>>#update50099
 ScriptLoader50.ScriptLoader>>#update50100
+Shout.SHParserST80>>#-=
 System-Support.SystemNavigation>>#allBehaviorsDo:
 System-Support.SystemNavigation>>#allClassesAndTraits
 System-Support.SystemNavigation>>#allClassesInPackageNamed:

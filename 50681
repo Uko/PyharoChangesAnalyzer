@@ -1,0 +1,19 @@
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version217:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version218:
+Morphic-Widgets-Tree.MorphTreeNodeMorph>>#announceDeleted
+Morphic-Widgets-Tree.MorphTreeNodeMorph>>#delete
+Morphic-Widgets-Tree.MorphTreeNodeMorph>>#initWithContents:prior:forList:indentLevel:
+Morphic-Widgets-Windows.SystemWindow class>>#noteTopWindowIn:
+Rubric.RubAbstractTextArea>>#plugFindReplace
+Rubric.RubFindReplaceService>>#textArea:
+Rubric.RubGhostTextDisplayer>>#noteNewOwner:
+Rubric.RubHighlightSegmentMorph>>#registerTextArea
+Rubric.RubPluggableTextMorph>>#registerScrollChanges:
+Rubric.RubPrimarySelectionMorph>>#registerTextArea
+Rubric.RubShoutStylerDecorator>>#style:
+Rubric.RubTextSegmentMorph>>#registerTextArea
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50680
+ScriptLoader50.ScriptLoader>>#update50680
+ScriptLoader50.ScriptLoader>>#update50681

@@ -2,9 +2,15 @@ NECompletion.NECController>>#setEditor:
 NautilusRefactoring.NautilusRefactoring>>#requestImplementorToInline:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50130
+ScriptLoader50.ScriptLoader>>#update50130
 ScriptLoader50.ScriptLoader>>#update50131
+System-Sources.SourceFileArray>>#at:
+System-Sources.SourceFileArray>>#at:ifAbsent:
+System-Sources.SourceFileArray>>#at:put:
 System-Sources.SourceFileArray>>#changeRecordsFrom:className:isMeta:do:
+System-Sources.SourceFileArray>>#do:
 System-Sources.SourceFileArray>>#fileAt:
 System-Sources.SourceFileArray>>#fileAt:ifAbsent:
 System-Sources.SourceFileArray>>#localProcessReadStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
 System-Sources.SourceFileArray>>#readStreamAtFileIndex:atPosition:ifPresent:ifAbsent:
+System-Sources.SourceFileArray>>#size

@@ -2,17 +2,25 @@ Collections-Streams.ManifestCollectionsStreams class>>#ignoredDependencies
 Collections-Streams.ManifestCollectionsStreams class>>#manuallyResolvedDependencies
 FileSystem-Core.FileReference>>#nextVersion
 FontChooser.FontChooser
+FontChooser.FontChooser>>#announcer
 Kernel.ManifestKernel class>>#ignoredDependencies
 MonticelloGUI.MCTool
+MonticelloGUI.MCTool>>#announcer
 MonticelloGUI.MCTool>>#interactionModel
 Morphic-Core.WorldState class>>#saveAs
 Morphic-Widgets-Tree.MorphTreeModel
+Morphic-Widgets-Tree.MorphTreeModel>>#announcer
 PragmaCollector.PragmaCollector
 PragmaCollector.PragmaCollector>>#announce:
+PragmaCollector.PragmaCollector>>#announcer
 PragmaCollector.PragmaCollector>>#initialize
 PragmaCollector.PragmaCollector>>#reset
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50312
+ScriptLoader50.ScriptLoader>>#update50312
 ScriptLoader50.ScriptLoader>>#update50313
 Versionner-Core-DependenciesModel.MTProject
+Versionner-Core-DependenciesModel.MTProject>>#announcer
 Versionner-Core-Model.MBConfigurationRoot
+Versionner-Core-Model.MBConfigurationRoot>>#announcer
+Versionner-Core-Model.MBConfigurationRoot>>#initialize

@@ -1,0 +1,14 @@
+FontInfrastructure.LogicalFont>>#realFont
+FreeType.FT2Handle class>>#clearRegistry
+FreeType.FT2Handle class>>#startUp:
+FreeType.FT2Handle>>#isValid
+FreeType.FT2Handle>>#pvtDestroyHandle
+FreeType.FT2Handle>>#validate
+FreeType.FT2MemoryFaceData>>#validate
+FreeType.FreeTypeExternalMemory>>#validate
+FreeType.FreeTypeSettings class>>#shutDown:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50645
+ScriptLoader50.ScriptLoader>>#update50645
+ScriptLoader50.ScriptLoader>>#update50646
+Slot-Tests.SlotSilentTest>>#runCase

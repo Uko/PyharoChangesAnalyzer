@@ -1,0 +1,25 @@
+Monticello.RPackageOrganizer>>#basicInitializeFromMC
+Monticello.RPackageOrganizer>>#initializeFromMCExtensionsFor:protocol:
+Monticello.RPackageOrganizer>>#initializeFromMCFor:
+Monticello.RPackageOrganizer>>#initializeFromMCMethodsFor:
+Nautilus.AbstractNautilusUI>>#packageRegistered:
+Nautilus.Nautilus class>>#buildGroupManager
+Nautilus.Nautilus class>>#configurationPackages
+Nautilus.Nautilus class>>#resetGroups
+Nautilus.PackageTreeModel>>#packagesAsNodes
+NautilusGroupAutoBuilder.LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
+Polymorph-Widgets.Pharo3DarkTheme class>>#installFullTheme
+Polymorph-Widgets.Pharo3DarkTheme class>>#setPreferredWorldBackground
+Polymorph-Widgets.Pharo3DarkTheme>>#desktopColor
+Polymorph-Widgets.Pharo3DarkTheme>>#shStyleTable
+Polymorph-Widgets.Pharo3Theme class>>#setPreferredWorldBackground
+Polymorph-Widgets.UITheme class>>#current:
+Polymorph-Widgets.UITheme class>>#installFullTheme
+Polymorph-Widgets.UITheme>>#desktopColor
+Polymorph-Widgets.UITheme>>#shStyleTable
+RPackage-Core.RPackageOrganizer>>#basicInitializeFromPackagesList:
+RPackage-Core.RPackageOrganizer>>#initializeFromPackagesList:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50648
+ScriptLoader50.ScriptLoader>>#update50648
+ScriptLoader50.ScriptLoader>>#update50649

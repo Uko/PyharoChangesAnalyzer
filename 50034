@@ -1,5 +1,15 @@
 ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version1214:
+Refactoring-Critics.RBIfTrueBlocksRule
+Refactoring-Critics.RBIfTrueBlocksRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBIfTrueBlocksRule>>#category
+Refactoring-Critics.RBIfTrueBlocksRule>>#group
+Refactoring-Critics.RBIfTrueBlocksRule>>#initialize
+Refactoring-Critics.RBIfTrueBlocksRule>>#name
+Refactoring-Critics.RBIfTrueBlocksRule>>#rationale
+Refactoring-Tests-Critics.RBSmalllintTest>>#testIfTrueBlocks
+Rubric.RubEditingMode class>>#currentUser
+Rubric.RubEditingMode class>>#userManager
 Rubric.RubPlainTextMode class>>#menuOn:
 Rubric.RubSmalltalkCodeMode class>>#menuOn:
 Rubric.RubSmalltalkEditor>>#browseIt:
@@ -16,6 +26,10 @@ Rubric.RubSmalltalkEditor>>#referencesToIt:
 Rubric.RubSmalltalkEditor>>#save:
 Rubric.RubSmalltalkEditor>>#sendersOfIt:
 Rubric.RubSmalltalkEditor>>#spawnIt:
+Rubric.RubTextEditor class>>#currentUser
+Rubric.RubTextEditor class>>#userManager
+Rubric.RubTextEditor>>#currentUser
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script642
+ScriptLoader50.ScriptLoader>>#update50033
 ScriptLoader50.ScriptLoader>>#update50034

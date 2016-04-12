@@ -1,0 +1,10 @@
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version216:
+Rubric.RubFindReplaceService>>#hasActiveDialog
+Rubric.RubFindReplaceService>>#whenTextAreaGotFocus:
+Rubric.RubFindReplaceService>>#whenTextAreaLostFocus:
+Rubric.RubFindReplaceService>>#whenTextAreaSelectionChanged:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50667
+ScriptLoader50.ScriptLoader>>#update50667
+ScriptLoader50.ScriptLoader>>#update50668

@@ -13,4 +13,5 @@ Rubric.RubTextFieldArea>>#privateReplaceFrom:to:with:
 Rubric.RubTextFieldArea>>#sanitize:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script628
+ScriptLoader50.ScriptLoader>>#update50019
 ScriptLoader50.ScriptLoader>>#update50020

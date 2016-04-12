@@ -68,10 +68,13 @@ Polymorph-Widgets.ThemeIconPack>>#url
 Polymorph-Widgets.ThemeIcons class>>#settingsOn:
 Polymorph-Widgets.ThemeIcons class>>#uiIconClass
 Polymorph-Widgets.ThemeIcons class>>#uiIconClass:
+Polymorph-Widgets.ThemeIcons class>>#uiIconSetChoises
 Polymorph-Widgets.ThemeIcons>>#exportIconPackOn:
 Polymorph-Widgets.ThemeIcons>>#form16x16FromContents:
 Polymorph-Widgets.ThemeIcons>>#selectorToIconName:
 Polymorph-Widgets.ThemeIcons>>#selectorsAndIcons
+Polymorph-Widgets.UITheme class>>#defaultThemeIconsClass
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50355
+ScriptLoader50.ScriptLoader>>#update50355
 ScriptLoader50.ScriptLoader>>#update50356

@@ -1,4 +1,5 @@
 RPackage-Core.RPackage>>#isEmpty
+Reflectivity-Examples.MetalinkIconStyler>>#icon
 Reflectivity-Examples.MetalinkIconStyler>>#iconFor:
 Reflectivity-Tools-Tests.WatchpointTests>>#testAddSameWatchpointSameNode
 Reflectivity-Tools-Tests.WatchpointTests>>#testAddWatchpoint
@@ -6,7 +7,9 @@ Reflectivity-Tools-Tests.WatchpointTests>>#testAddWatchpointsSameNode
 Reflectivity-Tools-Tests.WatchpointTests>>#testStopRecording
 Reflectivity-Tools-Tests.WatchpointTests>>#testWatchpointTwice
 Reflectivity-Tools.AbstractIconStyler>>#addIconStyle:from:to:color:
+Reflectivity-Tools.AbstractIconStyler>>#icon
 Reflectivity-Tools.AbstractIconStyler>>#iconFor:
+Reflectivity-Tools.BreakpointIconStyler>>#icon
 Reflectivity-Tools.BreakpointIconStyler>>#iconFor:
 Reflectivity-Tools.Watchpoint
 Reflectivity-Tools.Watchpoint class>>#in:named:
@@ -16,9 +19,11 @@ Reflectivity-Tools.Watchpoint>>#isRecording
 Reflectivity-Tools.Watchpoint>>#start
 Reflectivity-Tools.Watchpoint>>#stop
 Reflectivity-Tools.Watchpoint>>#uninstall
+Reflectivity-Tools.WatchpointIconStyler>>#icon
 Reflectivity-Tools.WatchpointIconStyler>>#iconFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50468
+ScriptLoader50.ScriptLoader>>#update50468
 ScriptLoader50.ScriptLoader>>#update50469
 SmartSuggestions.SugsMenuBuilder class>>#showMenuFor:
 SmartSuggestions.SugsSuggestionFactory class>>#cleanUp

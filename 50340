@@ -9,4 +9,5 @@ Reflectivity.RFSemanticAnalyzer>>#analyze:
 Reflectivity.RFSemanticAnalyzer>>#declareVariableNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50339
+ScriptLoader50.ScriptLoader>>#update50339
 ScriptLoader50.ScriptLoader>>#update50340

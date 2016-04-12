@@ -1,4 +1,6 @@
 AST-Core.CompiledMethod>>#parseTree
+AST-Core.RBClassReference
+Morphic-Core.PasteUpMorph>>#shouldGetStepsFrom:
 Morphic-Core.WorldState>>#runLocalStepMethodsIn:
 OpalCompiler-Core.CCompilationContext>>#parserClass
 OpalCompiler-Core.CompilationContext>>#parserClass
@@ -11,4 +13,5 @@ OpalCompiler-Tests.OCVariableSpecialisatioTest
 OpalCompiler-Tests.OCVariableSpecialisatioTest>>#testVarTemp
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50189
+ScriptLoader50.ScriptLoader>>#update50189
 ScriptLoader50.ScriptLoader>>#update50190

@@ -1,0 +1,10 @@
+ConfigurationOfDependencyAnalyser.ConfigurationOfDependencyAnalyser>>#stable:
+ConfigurationOfDependencyAnalyser.ConfigurationOfDependencyAnalyser>>#version116:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50669
+ScriptLoader50.ScriptLoader>>#update50669
+ScriptLoader50.ScriptLoader>>#update50670
+Tool-DependencyAnalyser-UI.DAReverseDependentPackageNode>>#rPackage
+Tool-DependencyAnalyser-UI.DAReversePackageNode>>#rPackage
+Tool-DependencyAnalyser.DAMessageSendAnalyzer>>#implementedMessages
+Tool-DependencyAnalyser.DAMessageSendAnalyzer>>#packageStaticDependencies

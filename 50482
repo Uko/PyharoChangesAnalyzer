@@ -1,9 +1,21 @@
 NECompletion-Tests.NECContextTest>>#testCreateModel
 NECompletion.NECContext>>#createModel
 Refactoring-Core.RBDeprecateMethodRefactoring class>>#model:deprecateMethod:in:using:
+Refactoring-Core.RBDeprecateMethodRefactoring>>#formDeprecatedMethod
+Refactoring-Core.RBDeprecateMethodRefactoring>>#formRewriteRule
 Refactoring-Core.RBDeprecateMethodRefactoring>>#transform
+Refactoring-Tests-Core.RBDeprecateMethodTest
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testDeprecateMethod
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testDeprecateMethodOnClassSide
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testDeprecateMethodWithLotsOfArguments
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testDeprecateMethodWithSenders
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testDeprecateMethodWithSendersInSubclass
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testSenderNotSelf
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testTooManyArguments
+Refactoring-Tests-Core.RBDeprecateMethodTest>>#testWrongNumberOfArguments
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50481
+ScriptLoader50.ScriptLoader>>#update50481
 ScriptLoader50.ScriptLoader>>#update50482
 Slot-Tests.SlotTest>>#testAsSlotCollection
 Slot.String>>#asSlotCollection

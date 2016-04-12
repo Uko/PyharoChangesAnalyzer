@@ -12,9 +12,12 @@ Refactoring-Tests-Core.RBRemoveClassTest>>#testBadName
 Refactoring-Tests-Core.RBRemoveClassTest>>#testRaisesRBRefactoringErrorWhenRemovingClassWithSubclasses
 Refactoring-Tests-Core.RBRemoveClassTest>>#testRemoveClass
 Refactoring-Tests-Core.RBRemoveClassTest>>#testRemoveClassWithReferencesRaisesRBRefactoringError
+Refactoring-Tests-Core.RBRemoveClassTest>>#testRemoveReferenced
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50069
+ScriptLoader50.ScriptLoader>>#update50069
 ScriptLoader50.ScriptLoader>>#update50070
 Shout.SHRBTextStyler>>#resolveStyleFor:
+Shout.SHRBTextStyler>>#visitClassReferenceNode:
 Shout.SHRBTextStyler>>#visitVariableNode:
 System-Caching.TTLCache>>#removeStaleValues

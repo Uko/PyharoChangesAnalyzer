@@ -1,4 +1,5 @@
 Graphics-Resources.ThemeIcons>>#blankIconOfWidth:
+Kernel.Context class>>#trace:on:
 Kernel.Exit
 Kernel.Exit class>>#failure
 Kernel.Exit class>>#signalFailure
@@ -21,5 +22,6 @@ Komitter.KomitMethod class>>#method:
 Polymorph-Widgets.EclipseUIThemeIcons>>#smallProfileIcon
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50280
+ScriptLoader50.ScriptLoader>>#update50280
 ScriptLoader50.ScriptLoader>>#update50281
 System-CommandLine.ManifestSystemCommandLine class>>#manuallyResolvedDependencies

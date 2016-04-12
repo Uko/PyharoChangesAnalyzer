@@ -18,9 +18,11 @@ OpalCompiler-Core.RBMessageNode>>#isInlineRepeat
 OpalCompiler-Core.RBMessageNode>>#isInlined
 OpalCompiler-Tests.OCOpalExamples>>#exampleRepeatEffect
 OpalCompiler-Tests.OCOpalExamples>>#exampleRepeatValue
+RPackage-Core.RPackageCreated
 RPackage-Core.RPackageOrganizer>>#ensureExistAndRegisterPackageNamed:
 RPackage-Core.RPackageOrganizer>>#registerPackage:
 RPackage-Core.RPackageRegistered
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50175
+ScriptLoader50.ScriptLoader>>#update50175
 ScriptLoader50.ScriptLoader>>#update50176

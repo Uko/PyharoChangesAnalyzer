@@ -11,4 +11,5 @@ QualityAssistant.QANautilusPlugin>>#morph
 Refactoring-Critics.RBAssignmentInIfTrueRule>>#rationale
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50313
+ScriptLoader50.ScriptLoader>>#update50313
 ScriptLoader50.ScriptLoader>>#update50314

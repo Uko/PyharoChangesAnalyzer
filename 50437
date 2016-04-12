@@ -1,16 +1,48 @@
+Nautilus.AbstractClassWidget
+Nautilus.AbstractClassWidget>>#buildClassesList
 Nautilus.AbstractClassWidget>>#dragPassengersFor:inMorph:
+Nautilus.AbstractClassWidget>>#getClassesList
+Nautilus.AbstractClassWidget>>#hasFocus
+Nautilus.AbstractClassWidget>>#resetClassList
+Nautilus.AbstractClassWidget>>#resetClassSelection
+Nautilus.AbstractClassWidget>>#selectClass:
+Nautilus.AbstractClassWidget>>#selectedClasses
+Nautilus.AbstractClassWidget>>#takeKeyboardFocus
+Nautilus.AbstractClassWidget>>#vScrollValue
+Nautilus.AbstractClassWidget>>#vScrollValue:
 Nautilus.AbstractClassWidget>>#wantsDroppedMorph:event:inMorph:
+Nautilus.AbstractMethodWidget
+Nautilus.AbstractMethodWidget class>>#methodsIconsCache
+Nautilus.AbstractMethodWidget class>>#resetMethodIconCache
+Nautilus.AbstractMethodWidget>>#buildMethodsList
 Nautilus.AbstractMethodWidget>>#buildUpAndDownArrowIcon:
 Nautilus.AbstractMethodWidget>>#dragPassengersFor:inMorph:
 Nautilus.AbstractMethodWidget>>#elementsMenu:shifted:
+Nautilus.AbstractMethodWidget>>#getMethods
+Nautilus.AbstractMethodWidget>>#initialize
+Nautilus.AbstractMethodWidget>>#invalidateCacheEntryFor:
+Nautilus.AbstractMethodWidget>>#keyPressedOnElement:
+Nautilus.AbstractMethodWidget>>#label:
 Nautilus.AbstractMethodWidget>>#methodIconFor:
 Nautilus.AbstractMethodWidget>>#methodsIconsCache
+Nautilus.AbstractMethodWidget>>#methodsSelection
 Nautilus.AbstractMethodWidget>>#okToChange
 Nautilus.AbstractMethodWidget>>#rebuildUpAndDownArrowIconFrom:
+Nautilus.AbstractMethodWidget>>#removeAllFromMethodsIconsCache:
+Nautilus.AbstractMethodWidget>>#resetMethodList
+Nautilus.AbstractMethodWidget>>#resetMethodSelection
+Nautilus.AbstractMethodWidget>>#selectMethod:
 Nautilus.AbstractMethodWidget>>#selectedMethod
 Nautilus.AbstractMethodWidget>>#selectedMethod:
+Nautilus.AbstractMethodWidget>>#selectedMethods
 Nautilus.AbstractMethodWidget>>#setIcon:for:
 Nautilus.AbstractMethodWidget>>#showInstance
+Nautilus.AbstractMethodWidget>>#takeKeyboardFocus
+Nautilus.AbstractMethodWidget>>#updateMethodList
+Nautilus.AbstractMethodWidget>>#vScrollValue
+Nautilus.AbstractMethodWidget>>#vScrollValue:
+Nautilus.AbstractPackageWidget
+Nautilus.AbstractWidget>>#updateCategoryList
 Nautilus.ClassWidget
 Nautilus.MethodWidget
 Nautilus.MethodWidget class>>#methodsIconsCache
@@ -19,4 +51,5 @@ Nautilus.MethodWidget>>#initialize
 Nautilus.PackageWidget
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50436
+ScriptLoader50.ScriptLoader>>#update50436
 ScriptLoader50.ScriptLoader>>#update50437

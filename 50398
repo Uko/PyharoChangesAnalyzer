@@ -12,4 +12,5 @@ Reflectivity.RFLiteralVariableNode>>#stop
 Reflectivity.TRBProgramNodeVisitor>>#visitLiteralVariableNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50397
+ScriptLoader50.ScriptLoader>>#update50397
 ScriptLoader50.ScriptLoader>>#update50398

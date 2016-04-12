@@ -13,4 +13,5 @@ OpalCompiler-Tests.MyBooleanObject>>#or:
 RPackage-SystemIntegration.String>>#asPackage
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script634
+ScriptLoader50.ScriptLoader>>#update50025
 ScriptLoader50.ScriptLoader>>#update50026

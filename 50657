@@ -1,0 +1,11 @@
+Collections-Tests.LiteralDictionaryTest
+Collections-Tests.LiteralDictionaryTest class>>#shouldInheritSelectors
+Collections-Tests.LiteralDictionaryTest>>#classToBeTested
+Collections-Tests.LiteralDictionaryTest>>#testIncludesWithEqualElementFromDifferentClasses
+Collections-Tests.LiteralDictionaryTest>>#testUnCategorizedMethods
+OpalCompiler-Tests.OCCompilerNotifyingTest>>#setUpForErrorsIn:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50656
+ScriptLoader50.ScriptLoader>>#update50656
+ScriptLoader50.ScriptLoader>>#update50657
+Tools-Test.MessageTallyTest>>#testTallySends

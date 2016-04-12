@@ -6,7 +6,9 @@ Refactoring-Critics.RBUnaryAccessingMethodWithoutReturnRule>>#group
 Refactoring-Critics.RBUnaryAccessingMethodWithoutReturnRule>>#name
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50115
+ScriptLoader50.ScriptLoader>>#update50115
 ScriptLoader50.ScriptLoader>>#update50116
 Spec-Core.TabManagerModel>>#selectedTab:
+Spec-Core.TabManagerModel>>#tabModelFor:
 Spec-MorphicAdapters.MorphicTabManagerAdapter>>#tabSelected:
 System-Sources.SourceFileArray>>#readStreamAt:ifPresent:ifAbsent:

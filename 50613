@@ -9,4 +9,5 @@ Deprecated50.NBExternalUnion
 Deprecated50.NBFFICallback
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50612
+ScriptLoader50.ScriptLoader>>#update50612
 ScriptLoader50.ScriptLoader>>#update50613

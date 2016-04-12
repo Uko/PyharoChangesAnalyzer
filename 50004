@@ -2,6 +2,7 @@ MonticelloGUI.MCConfigurationBrowser class>>#open
 MonticelloGUI.MCWorkingCopyBrowser class>>#open
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script612
+ScriptLoader50.ScriptLoader>>#update50003
 ScriptLoader50.ScriptLoader>>#update50004
 StartupPreferences.StartupPreferencesLoader class>>#example
 StartupPreferences.StartupPreferencesLoader>>#buildStreamFor:

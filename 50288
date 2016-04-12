@@ -11,11 +11,15 @@ ConfigurationOfRenraku.ConfigurationOfRenraku>>#pre0_6_0:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_6_0:
 OpalCompiler-Core.RBMessageNode>>#isInlineIf
+OpalCompiler-Tests.OCCompilerNotifyingTest>>#testifTrueBlockWithArgument
 QualityAssistant.CompiledMethod>>#guidedSkip:
 QualityAssistant.QACriticsSeen
 QualityAssistant.QAInitiateCriticBan
 QualityAssistant.QANautilusPlugin>>#criticBanned:
 QualityAssistant.QANautilusPlugin>>#registerTo:
+QualityAssistant.QANautilusPluginMorph>>#buildConfirmationCheckbox:
+QualityAssistant.QANautilusPluginMorph>>#buildConfirmationHeader:
+QualityAssistant.QANautilusPluginMorph>>#buildConfirmationMessage:
 QualityAssistant.QANautilusPluginMorph>>#fixAutomatically:
 QualityAssistant.QANautilusPluginMorph>>#getCritics
 QualityAssistant.QAViewedDiff
@@ -32,8 +36,10 @@ Renraku-Test.RenrakuTest>>#testSkip1
 Renraku-Test.RenrakuTest>>#testSkip2
 Renraku.CompiledMethod>>#ban:
 Renraku.CompiledMethod>>#critics
+Renraku.CompiledMethod>>#skip:
 Renraku.ReCritic>>#ban
 Renraku.ReCritic>>#fixAutomatically
+Renraku.ReCritic>>#skip
 Renraku.ReCriticAutofixed
 Renraku.ReCriticBanned
 Renraku.ReCriticBanned>>#entityBanLevel
@@ -56,6 +62,7 @@ Renraku.ReSingleCriticEvent>>#critic
 Renraku.ReSingleCriticEvent>>#critic:
 Renraku.TBehavior>>#ban:
 Renraku.TBehavior>>#critics
+Renraku.TBehavior>>#skip:
 Renraku.TheManifestBuilder>>#skipRule:for:
 Renraku.TheManifestBuilder>>#skipsRule:for:
 Ring-Core-Kernel.RGMethodDefinition>>#sourcePointer
@@ -63,4 +70,5 @@ Ring-Tests-Kernel.RGMethodDefinitionTest>>#testAsActive
 Ring-Tests-Kernel.RGMethodDefinitionTest>>#testExistingMethodWithPointer
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50287
+ScriptLoader50.ScriptLoader>>#update50287
 ScriptLoader50.ScriptLoader>>#update50288

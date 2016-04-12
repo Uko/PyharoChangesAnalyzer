@@ -16,6 +16,12 @@ Rubric-Rules.RbScriptingSetBeforeModel>>#basicCheck:
 Rubric-Rules.RbScriptingSetBeforeModel>>#check:forCriticsDo:ifNone:
 Rubric-Rules.RbScriptingSetBeforeModel>>#group
 Rubric-Rules.RbScriptingSetBeforeModel>>#name
+Rubric.RubBasicSelectionDecorator
+Rubric.RubBasicSelectionDecorator class>>#key
+Rubric.RubBasicSelectionDecorator>>#draw
+Rubric.RubBasicSelectionDecorator>>#drawOnAthensCanvas
+Rubric.RubBasicSelectionDecorator>>#handleDrawingOn:using:at:
+Rubric.RubBasicSelectionDecorator>>#handleDrawingOnAthensCanvas:bounds:
 Rubric.RubCurrentLineBarDecorator
 Rubric.RubCurrentLineBarDecorator>>#drawOn:
 Rubric.RubCurrentLineBarDecorator>>#drawOnAthensCanvas:
@@ -48,5 +54,6 @@ Rubric.RubSmalltalkCodeMode>>#formatMethodCode
 Rubric.RubSmalltalkCodeMode>>#maxFormatterLineLength
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50610
+ScriptLoader50.ScriptLoader>>#update50610
 ScriptLoader50.ScriptLoader>>#update50611
 Tools-Test.MessageTallyTest>>#testTallySends

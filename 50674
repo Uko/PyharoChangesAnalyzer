@@ -1,0 +1,39 @@
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
+ConfigurationOfCatalog.ConfigurationOfCatalog>>#version_0_12:
+ConfigurationOfDependencyAnalyser.ConfigurationOfDependencyAnalyser>>#stable:
+ConfigurationOfDependencyAnalyser.ConfigurationOfDependencyAnalyser>>#version117:
+Refactoring-Core.RBRemoveClassRefactoring>>#hasReferencesTo:
+Refactoring-Core.RBRemoveClassRefactoring>>#preconditionHasNoReferences:
+SUnit-Rules.AssertEqualSignIntoAssertEquals
+SUnit-Rules.AssertEqualSignIntoAssertEquals class>>#uniqueIdentifierName
+SUnit-Rules.AssertEqualSignIntoAssertEquals>>#group
+SUnit-Rules.AssertEqualSignIntoAssertEquals>>#initialize
+SUnit-Rules.AssertEqualSignIntoAssertEquals>>#name
+SUnit-Rules.ShouldTransformedIntoAssert
+SUnit-Rules.ShouldTransformedIntoAssert class>>#uniqueIdentifierName
+SUnit-Rules.ShouldTransformedIntoAssert>>#group
+SUnit-Rules.ShouldTransformedIntoAssert>>#initialize
+SUnit-Rules.ShouldTransformedIntoAssert>>#name
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50673
+ScriptLoader50.ScriptLoader>>#update50673
+ScriptLoader50.ScriptLoader>>#update50674
+Tool-Catalog.CatalogBrowser>>#open
+Tool-Catalog.CatalogBrowser>>#provider
+Tool-Catalog.CatalogBrowser>>#refresh
+Tool-Catalog.CatalogCommandLineHandler>>#getProject
+Tool-Catalog.CatalogProject>>#gtInspectorDetailsIn:
+Tool-Catalog.CatalogProject>>#spotterPreviewIn:
+Tool-Catalog.CatalogProvider
+Tool-Catalog.CatalogProvider class>>#default
+Tool-Catalog.CatalogProvider class>>#projectNamed:
+Tool-Catalog.CatalogProvider>>#httpClient
+Tool-Catalog.CatalogProvider>>#loadProjects
+Tool-Catalog.CatalogProvider>>#loadProjectsIfNeeded
+Tool-Catalog.CatalogProvider>>#projects
+Tool-Catalog.CatalogProvider>>#refresh
+Tool-Catalog.CatalogProvider>>#reset
+Tool-Catalog.CatalogProvider>>#shouldLoadProjects
+Tool-Catalog.GTSpotter>>#spotterCatalogProjectsFor:
+Tool-DependencyAnalyser.DAPackageRelationGraph>>#computeStaticDependencies
+Tool-Finder.FinderUI>>#whenTextAcceptedInView:

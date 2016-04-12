@@ -11,18 +11,42 @@ Kernel.Point>>#rounded
 Kernel.Point>>#truncated
 Morphic-Base.CircleMorph>>#defaultBounds
 Morphic-Base.CircleMorph>>#defaultColor
+Morphic-Base.CircleMorph>>#initialize
 Morphic-Widgets-FastTable.FTDataSource>>#elementAt:
 Morphic-Widgets-FastTable.FTDataSource>>#passengerAt:
 Morphic-Widgets-FastTable.FTTableMorph>>#startDrag:
 Rubric.RubParagraph>>#actionAttributesUnder:event:do:
 Rubric.RubParagraph>>#click:for:controller:
+Rubric.RubSHTextStylerST80>>#addLinkAttributesFor:in:to:
+Rubric.RubSHTextStylerST80>>#resolveTextLinkFor:
+Rubric.RubSHTextStylerST80>>#visitLiteralNode:
 Rubric.RubSHTextStylerST80>>#visitMessageNode:
 Rubric.RubSHTextStylerST80>>#visitMethodNode:
+Rubric.RubTextClassLink
+Rubric.RubTextClassLink class>>#class:
+Rubric.RubTextClassLink class>>#className:
 Rubric.RubTextClassLink>>#actOnClick:for:in:editor:
+Rubric.RubTextClassLink>>#className
+Rubric.RubTextClassLink>>#className:
+Rubric.RubTextLink
+Rubric.RubTextLink>>#mayActOnEvent:
+Rubric.RubTextMethodLink
+Rubric.RubTextMethodLink class>>#selector:
+Rubric.RubTextMethodLink class>>#selector:senders:
 Rubric.RubTextMethodLink>>#actOnClick:for:in:editor:
+Rubric.RubTextMethodLink>>#initialize
+Rubric.RubTextMethodLink>>#selector
+Rubric.RubTextMethodLink>>#selector:
+Rubric.RubTextMethodLink>>#senders:
+Rubric.RubTextVariableLink
+Rubric.RubTextVariableLink class>>#variableName:
+Rubric.RubTextVariableLink>>#actOnClick:for:in:editor:
+Rubric.RubTextVariableLink>>#variableName
+Rubric.RubTextVariableLink>>#variableName:
 Rubric.TextAttribute>>#rubMayActOnEvent:
 Rubric.TextLink>>#rubMayActOnEvent:
 Rubric.TextVariableLink>>#rubActOnClick:for:in:editor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50632
+ScriptLoader50.ScriptLoader>>#update50632
 ScriptLoader50.ScriptLoader>>#update50633

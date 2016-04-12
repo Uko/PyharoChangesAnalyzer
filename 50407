@@ -1,9 +1,11 @@
 Morphic-Core.HandMorph>>#interrupted
 Morphic-Core.HandMorph>>#keyboardFocus:
 Morphic-Core.HandMorph>>#newKeyboardFocus:
+Morphic-Core.HandMorph>>#releaseAllFoci
 Morphic-Core.HandMorph>>#releaseAllFocus
 Morphic-Core.HandMorph>>#releaseCachedState
 Refactoring-Critics.RBRefersToClassRule>>#basicCheck:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50406
+ScriptLoader50.ScriptLoader>>#update50406
 ScriptLoader50.ScriptLoader>>#update50407

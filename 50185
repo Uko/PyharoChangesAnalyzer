@@ -167,4 +167,5 @@ Renraku.TheManifestBuilder>>#skipRule:for:
 Renraku.TheManifestBuilder>>#skipsRule:for:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50184
+ScriptLoader50.ScriptLoader>>#update50184
 ScriptLoader50.ScriptLoader>>#update50185

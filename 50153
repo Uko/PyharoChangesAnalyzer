@@ -1,17 +1,23 @@
 Gofer-Core.GoferResolvedReference>>#version
 Gofer-Core.MCDictionaryRepository>>#goferVersionFrom:
+Gofer-Core.MCFileBasedRepository>>#goferVersionFrom:
 Gofer-Core.MCFileTreeRepository>>#goferVersionFrom:
+Gofer-Core.MCRepository>>#goferVersionFrom:
 Monticello.MCFileBasedRepository>>#versionFrom:
 Monticello.MCFileBasedRepository>>#versionFromFileNamed:
 Monticello.MCFileBasedRepository>>#versionFromRepositoryFromFileNamed:
 Monticello.MCFileBasedRepository>>#versionInfoFromFileNamed:
 Monticello.MCFileBasedRepository>>#versionNameFromFileName:
 Monticello.MCRepository>>#versionFrom:
+NECompletion.Workspace>>#guessTypeForName:
 NECompletion.Workspace>>#hasBindingOf:
+NECompletion.Workspace>>#hasBindingThatBeginsWith:
 NECompletion.Workspace>>#selectedClassOrMetaClass
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50152
+ScriptLoader50.ScriptLoader>>#update50152
 ScriptLoader50.ScriptLoader>>#update50153
+StartupPreferences.StartupPreferencesLoader class>>#example3
 Text-Edition.SmalltalkEditor>>#selectedSelector
 Tool-Workspace.RubWorkspaceBar
 Tool-Workspace.RubWorkspaceBar class>>#key
@@ -44,11 +50,21 @@ Tool-Workspace.Workspace class>>#lastContents
 Tool-Workspace.Workspace class>>#maxKeptContents
 Tool-Workspace.Workspace class>>#open
 Tool-Workspace.Workspace class>>#openContents:
+Tool-Workspace.Workspace class>>#openContents:label:
+Tool-Workspace.Workspace class>>#openFile:
 Tool-Workspace.Workspace class>>#registerToolsOn:
 Tool-Workspace.Workspace class>>#title
+Tool-Workspace.Workspace>>#acceptAction:
+Tool-Workspace.Workspace>>#acceptContents:
+Tool-Workspace.Workspace>>#acceptDroppedMorphsWording
+Tool-Workspace.Workspace>>#acceptDroppingMorph:event:inMorph:
+Tool-Workspace.Workspace>>#acceptsDroppingMorphForReference
 Tool-Workspace.Workspace>>#addModelItemsToWindowMenu:
 Tool-Workspace.Workspace>>#bindingOf:
 Tool-Workspace.Workspace>>#browseBindings
+Tool-Workspace.Workspace>>#buildTextMorph
+Tool-Workspace.Workspace>>#codePaneMenu:shifted:
+Tool-Workspace.Workspace>>#codeTextMorph
 Tool-Workspace.Workspace>>#contents
 Tool-Workspace.Workspace>>#contents:
 Tool-Workspace.Workspace>>#defaultTextModel
@@ -56,22 +72,41 @@ Tool-Workspace.Workspace>>#doItContext
 Tool-Workspace.Workspace>>#doItReceiver
 Tool-Workspace.Workspace>>#guessTypeForName:
 Tool-Workspace.Workspace>>#hasBindingThatBeginsWith:
+Tool-Workspace.Workspace>>#historyLength
+Tool-Workspace.Workspace>>#initialExtent
 Tool-Workspace.Workspace>>#initialize
 Tool-Workspace.Workspace>>#initializeBindings
+Tool-Workspace.Workspace>>#itemForCr
+Tool-Workspace.Workspace>>#itemForCrLf
+Tool-Workspace.Workspace>>#itemForLf
 Tool-Workspace.Workspace>>#label:
 Tool-Workspace.Workspace>>#lastContents
 Tool-Workspace.Workspace>>#maxKeptContents
+Tool-Workspace.Workspace>>#mustDeclareVariableWording
+Tool-Workspace.Workspace>>#mustDeclareVariables:
+Tool-Workspace.Workspace>>#okToChange
 Tool-Workspace.Workspace>>#open
 Tool-Workspace.Workspace>>#openFile:
 Tool-Workspace.Workspace>>#openLabel:
 Tool-Workspace.Workspace>>#openMenuAction
 Tool-Workspace.Workspace>>#readStringFromFile:
+Tool-Workspace.Workspace>>#reloadMenuAction
 Tool-Workspace.Workspace>>#saveAsMenuAction
 Tool-Workspace.Workspace>>#saveString:toFile:
 Tool-Workspace.Workspace>>#selectedMethod
+Tool-Workspace.Workspace>>#setContent:
 Tool-Workspace.Workspace>>#shiftedYellowButtonMenu
+Tool-Workspace.Workspace>>#shoutAboutToStyle:
+Tool-Workspace.Workspace>>#stylingActive
+Tool-Workspace.Workspace>>#stylingActiveString
 Tool-Workspace.Workspace>>#suggestedFileName
 Tool-Workspace.Workspace>>#textView
+Tool-Workspace.Workspace>>#toggleDroppingMorphForReference
+Tool-Workspace.Workspace>>#toggleStylingActive
+Tool-Workspace.Workspace>>#toggleVariableDeclarationMode
+Tool-Workspace.Workspace>>#trimHistoryIfNecessary
 Tool-Workspace.Workspace>>#useEncoding:
+Tool-Workspace.Workspace>>#useLineEnding:
+Tool-Workspace.Workspace>>#wantsDroppedMorph:event:inMorph:
 Tool-Workspace.Workspace>>#whenTextAccepted:
 Tool-Workspace.Workspace>>#yellowButtonMenu

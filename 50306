@@ -8,6 +8,7 @@ Reflectivity.RFASTTranslator>>#visitBlockNode:
 Reflectivity.RFASTTranslator>>#visitReturnNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50305
+ScriptLoader50.ScriptLoader>>#update50305
 ScriptLoader50.ScriptLoader>>#update50306
 Slot-Tests.SlotEnvironmentTest>>#testBasicEnvironment
 Slot.PharoClassInstaller>>#classAdded:inCategory:

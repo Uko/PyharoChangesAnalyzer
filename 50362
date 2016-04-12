@@ -6,11 +6,16 @@ Morphic-Widgets-Basic.ControlButtonMorph
 Morphic-Widgets-Basic.IconicButton
 Morphic-Widgets-Basic.MultistateButtonMorph
 Morphic-Widgets-Basic.PluggableButtonMorph
+Morphic-Widgets-Basic.PluggableButtonMorph>>#balloonText
 Morphic-Widgets-Basic.PluggableButtonMorph>>#helpText
 Morphic-Widgets-Basic.PluggableButtonMorph>>#helpText:
 Morphic-Widgets-Basic.PluggableThreePhaseButtonMorph
+Morphic-Widgets-Basic.PluggableThreePhaseButtonMorph>>#balloonText
+Morphic-Widgets-Basic.PluggableThreePhaseButtonMorph>>#helpText
+Morphic-Widgets-Basic.PluggableThreePhaseButtonMorph>>#helpText:
 Morphic-Widgets-Basic.PluggableToggleButtonMorph
 Morphic-Widgets-Basic.SimpleButtonMorph
+Morphic-Widgets-Basic.SimpleButtonMorph>>#balloonText
 Morphic-Widgets-Basic.SimpleButtonMorph>>#forwardDirection
 Morphic-Widgets-Basic.SimpleButtonMorph>>#forwardDirection:
 Morphic-Widgets-Basic.SimpleButtonMorph>>#heading
@@ -25,6 +30,7 @@ Morphic-Widgets-Basic.SimpleSwitchMorph
 Morphic-Widgets-Basic.ThreePhaseButtonMorph
 Morphic-Widgets-Basic.ThreePhaseButtonMorph>>#helpText
 Morphic-Widgets-Basic.ThreePhaseButtonMorph>>#helpText:
+Reflectivity-Tests.MetaLinkTest>>#testLinkOptionMetaLevel
 Reflectivity-Tests.MetaLinkTest>>#testOptionFor
 Reflectivity.CompiledMethod>>#installLink:
 Reflectivity.HookGenerator>>#hasOption:for:
@@ -45,4 +51,48 @@ Reflectivity.ReflectiveMethod>>#installLink:
 Reflectivity.Set>>#parseOptions:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50361
+ScriptLoader50.ScriptLoader>>#update50361
 ScriptLoader50.ScriptLoader>>#update50362
+Tool-DependencyAnalyser-Checker.D3Graph
+Tool-DependencyAnalyser-Checker.D3Graph>>#csv:from:
+Tool-DependencyAnalyser-Checker.D3Graph>>#generateHTML:andData:fromReport:
+Tool-DependencyAnalyser-Checker.D3Graph>>#generateHTML:inputDataURL:
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher class>>#publishReportFrom:fileName:
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#dependenciesToRemoveFor:
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#htmlForDependency:of:
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#htmlForPackage:
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#initializeWithReport:fileName:
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#publish
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#publishDependenciesCaption
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#publishDependencyGraph
+Tool-DependencyAnalyser-Checker.DABootstrapDependenciesHTMLPublisher>>#publishDependencyGraphButton
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher class>>#example
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher class>>#example2
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher class>>#publishReportFrom:stream:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#accordion:name:headingContent:body:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#dangerLabel:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#htmlForDependencies:of:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#htmlForDependency:of:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#htmlForIgnoredDependenciesOf:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#htmlForPackage:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#imageVersionString
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#initializeWithReport:stream:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#javaScript:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publish
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publish:dependencies:dependants:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publishDependencies
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publishDependenciesCaption
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publishHTMLFooter
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publishHTMLHeader
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publishSetup
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#publishWarnings
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#sizeBadgeFor:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#stream
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#styleSheet:
+Tool-DependencyAnalyser-Checker.DADependenciesHTMLPublisher>>#warningLabel:
+Tool-DependencyAnalyser-Checker.ManifestBootstrap
+Tool-DependencyAnalyser-Checker.ManifestBootstrap class>>#dependenciesToRemove
+Tool-DependencyAnalyser-Checker.ManifestToolDependencyAnalyserChecker
+Tool-DependencyAnalyser.DADependencyReport>>#newReportScopedOn:

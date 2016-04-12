@@ -6,6 +6,7 @@ Deprecated50.StartupLoader>>#initialExtent
 Deprecated50.StartupLoader>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script624
+ScriptLoader50.ScriptLoader>>#update50015
 ScriptLoader50.ScriptLoader>>#update50016
 Shout.SHRBTextStyler>>#visitMethodNode:
 SmartSuggestions.SugsBrowseClassReferences>>#execute

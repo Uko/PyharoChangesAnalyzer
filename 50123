@@ -1,6 +1,7 @@
 Morphic-Widgets-Tree.FilteredMorphTreeModel
 Morphic-Widgets-Tree.FilteredMorphTreeModel class>>#example
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#autoAccept:
+Morphic-Widgets-Tree.FilteredMorphTreeModel>>#defaultDialogMorphIn:
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#defaultMorphIn:
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#ensureSafePattern:
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#ghostString:
@@ -12,6 +13,7 @@ Morphic-Widgets-Tree.FilteredMorphTreeModel>>#rootItems:
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#updateList
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#whenPatternChanged:
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#whenReturnInFilter:
+Morphic-Widgets-Tree.MorphTreeModel>>#defaultDialogMorphIn:
 Morphic-Widgets-Tree.MorphTreeModel>>#defaultMorphIn:
 Morphic-Widgets-Tree.MorphTreeModel>>#dialogWindowIn:title:selectedtems:
 NautilusRefactoring.NautilusRefactoring>>#abstractClassVarFrom:
@@ -179,6 +181,7 @@ Refactoring-Critics.RBUnpackagedCodeRule>>#isUnpackaged:
 Reflectivity-Tests.ReflectiveMethodTest>>#testReifyNewValueAssignment
 Reflectivity.CompiledMethod>>#assignmentNodes
 Reflectivity.HookGenerator
+Reflectivity.RBMethodNode>>#assignmenNodes
 Reflectivity.RBMethodNode>>#assignmentNodes
 Reflectivity.RBMethodNode>>#instanceVariableReadNodes
 Reflectivity.RBMethodNode>>#instanceVariableWriteNodes
@@ -186,9 +189,12 @@ Reflectivity.RFNewValueReification class>>#nodes
 Reflectivity.RFNewValueReification>>#genForRBAssignmentNode
 Reflectivity.RFReification>>#genForRBProgramNode
 Reflectivity.TClassDescription>>#assignmentNodes
+Reflectivity.TClassDescription>>#variables
+Reflectivity.TRBProgramNodeVisitor>>#visitStoreIntoPopTempNode:
 Reflectivity.TRBProgramNodeVisitor>>#visitStorePopIntoTempNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50122
+ScriptLoader50.ScriptLoader>>#update50122
 ScriptLoader50.ScriptLoader>>#update50123
 SmartSuggestions.NautilusRefactoring>>#accessorsClassVarNamed:from:
 SmartSuggestions.NautilusRefactoring>>#accessorsInstVarNamed:from:

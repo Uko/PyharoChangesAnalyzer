@@ -1,13 +1,17 @@
 AST-Core.BIConfigurableFormatter class>>#traditionalBinaryPrecedence
+AST-Core.BIConfigurableFormatter class>>#traditionalBinaryPrecedence:
 AST-Core.BIConfigurableFormatter class>>#traditionalBinaryPrecedenceArray:
+AST-Core.BIConfigurableFormatter>>#traditionalBinaryPrecedence:
 AST-Core.BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray:
 AST-Core.BIPrettyPrinterContext
 AST-Core.BIPrettyPrinterContext>>#initialize
+AST-Core.BIPrettyPrinterContext>>#traditionalBinaryPrecedence:
 AST-Core.BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray
 AST-Core.BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray:
 MonticelloGUI.MCTool>>#textMorph:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50218
+ScriptLoader50.ScriptLoader>>#update50218
 ScriptLoader50.ScriptLoader>>#update50219
 Tests.SystemSettings
 Tests.SystemSettings>>#testOpening

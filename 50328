@@ -52,6 +52,7 @@ Reflectivity.HookGenerator>>#hookFor:
 Reflectivity.RFASTTranslatorForEffect>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50327
+ScriptLoader50.ScriptLoader>>#update50327
 ScriptLoader50.ScriptLoader>>#update50328
 StartupPreferences.StartupPreferencesLoader>>#buildStreamFor:
 System-Support.Session

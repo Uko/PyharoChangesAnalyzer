@@ -1,4 +1,15 @@
+MonticelloGUI.MCWorkingCopyBrowser>>#addMetacelloBaseline
+MonticelloGUI.MCWorkingCopyBrowser>>#baseLines
+MonticelloGUI.MCWorkingCopyBrowser>>#browseConfiguration
 MonticelloGUI.MCWorkingCopyBrowser>>#collectConfigurationMenuSpecs
+MonticelloGUI.MCWorkingCopyBrowser>>#configurationClass
+MonticelloGUI.MCWorkingCopyBrowser>>#configurationMenuSpec
+MonticelloGUI.MCWorkingCopyBrowser>>#createDevelopmentVersion
+MonticelloGUI.MCWorkingCopyBrowser>>#createReleaseVersion
+MonticelloGUI.MCWorkingCopyBrowser>>#createVersionForBlessing:
+MonticelloGUI.MCWorkingCopyBrowser>>#dependentPackages
+MonticelloGUI.MCWorkingCopyBrowser>>#hasAnyBaseline
+MonticelloGUI.MCWorkingCopyBrowser>>#lastBaseLine
 MonticelloGUI.MCWorkingCopyBrowser>>#workingCopyListMenu:
 Morphic-Core.HandMorph>>#removeHalo
 Morphic-Core.HandMorph>>#removeHaloAround:
@@ -7,4 +18,5 @@ Morphic-Core.Morph>>#removeHalo
 NECompletion.NECMenuMorph class>>#convertToSHSymbol:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script626
+ScriptLoader50.ScriptLoader>>#update50017
 ScriptLoader50.ScriptLoader>>#update50018

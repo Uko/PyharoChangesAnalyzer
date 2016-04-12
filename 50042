@@ -8,4 +8,5 @@ Morphic-Base.SelectionMorph>>#extent:
 Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script650
+ScriptLoader50.ScriptLoader>>#update50041
 ScriptLoader50.ScriptLoader>>#update50042

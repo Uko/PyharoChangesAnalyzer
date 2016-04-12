@@ -1,19 +1,27 @@
 Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI class>>#buildCommentShortcutsOn:
+Nautilus.AbstractNautilusUI class>>#buildEditorCommentKeymappingsOldOn:
+Nautilus.AbstractNautilusUI class>>#buildEditorCommentKeymappingsOn:
+Nautilus.AbstractNautilusUI>>#addComment:notifying:
 Nautilus.AbstractNautilusUI>>#buildCodePanelWithComment
 Nautilus.AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
 Nautilus.AbstractNautilusUI>>#buildCodePanelWithoutComment
 Nautilus.AbstractNautilusUI>>#buildCommentButton
+Nautilus.AbstractNautilusUI>>#buildCommentPane
 Nautilus.AbstractNautilusUI>>#buildNewCommentText
 Nautilus.AbstractNautilusUI>>#classCommentTextModel
+Nautilus.AbstractNautilusUI>>#commentTextArea
 Nautilus.AbstractNautilusUI>>#fullDisplayedComment
 Nautilus.AbstractNautilusUI>>#fullDisplayedComment:
 Nautilus.AbstractNautilusUI>>#initialize
+Nautilus.AbstractNautilusUI>>#newCommentTextModel
 Nautilus.AbstractNautilusUI>>#okToChangeComment
 Nautilus.AbstractNautilusUI>>#promptForCancel
 Nautilus.AbstractNautilusUI>>#takeCommentFromView
 Nautilus.AbstractNautilusUI>>#toggleShowComment
 Nautilus.AbstractNautilusUI>>#toggleShowFullComment
 Nautilus.AbstractNautilusUI>>#updateCodePanel
+Nautilus.AbstractNautilusUI>>#updateCommentWith:
 Nautilus.AbstractNautilusUI>>#whenExtendCommentSwitch:
 Nautilus.AbstractNautilusUI>>#whenTextUpdatedInCommentPane:
 Nautilus.NautilusUI>>#selectedClassWithoutChangingSelection:
@@ -52,4 +60,5 @@ Rubric.RubScrolledTextMorph>>#withRuler:
 Rubric.RubSmalltalkEditor class>>#buildShortcutsOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50084
+ScriptLoader50.ScriptLoader>>#update50084
 ScriptLoader50.ScriptLoader>>#update50085

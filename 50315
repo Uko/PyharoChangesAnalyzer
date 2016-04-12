@@ -8,4 +8,5 @@ Multilingual-Languages.LanguageEnvironment class>>#scanMultibyteCharactersFrom:t
 Multilingual-Languages.ManifestMultilingualLanguages class>>#manuallyResolvedDependencies
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50314
+ScriptLoader50.ScriptLoader>>#update50314
 ScriptLoader50.ScriptLoader>>#update50315

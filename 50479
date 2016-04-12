@@ -511,25 +511,93 @@ GT-Spotter-EventRecorder.GTSpotterEventCollectorTest
 GT-Spotter-EventRecorder.GTSpotterEventCollectorTest>>#setUp
 GT-Spotter-EventRecorder.GTSpotterEventCollectorTest>>#testBundle
 GT-Spotter-EventRecorder.GTSpotterEventCollectorTest>>#testPostponedEvents
+GT-Spotter-EventRecorder.GTSpotterEventRecorder
 GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#cleanUp
+GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#instance
 GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#materialize:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#materializeObjectsFromDirectory:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#materializeObjectsFromFile:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#reset
 GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#serialize:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder class>>#version
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#announcementFrom:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#buildAndStoreEventFrom:withType:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#canSendUsageData
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#deliverAndSignalProgress:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#deliverData:signalProgress:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#deliverDataAndSignalProgress:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#deliverNow
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#deliveryQueue
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#eventClassNameFor:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#flushRecordedData
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#initialize
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#initializeDeliveryProcess
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#lastDataDelivery
 GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#linkToSpotter:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#materialize:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#materializedAnnouncementFrom:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#newCollectionWithPostponedData
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#postponeSomeData:
 GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#postponedData
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#prepareDeliveryData
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#primitivePrepareDeliveryData
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#recordAccouncement:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#recordAnnouncement:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#recordSpotterOpenEvent
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#recordedData
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#remoteURL
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#serialize:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#serializedAnnouncementFrom:
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#shouldDeliver
 GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#standardDuration
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#stopDelivering
+GT-Spotter-EventRecorder.GTSpotterEventRecorder>>#storeEvent:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#cleanUp
 GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#deletePreferences
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#ensureComputerID
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#loadPreferences
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#persistSettings
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#preferences
 GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#reset
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#saveMissingAttributes:comparingWithOld:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#savePreferences
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#savePreferences:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#sendUsageData
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#sendUsageData:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#settingsOnSendUsageData:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#settingsOnUrl:
 GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#stringUrl
 GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#stringUrl:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#uniqueInstance
 GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#url
 GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings class>>#url:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings>>#computerUUID
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings>>#dictionary
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings>>#dictionary:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings>>#initialize
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings>>#secretUUID
+GT-Spotter-EventRecorder.GTSpotterEventRecorderSettings>>#secretUUID:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest
 GT-Spotter-EventRecorder.GTSpotterEventRecorderTest class>>#instancesForAllEvents
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest class>>#serializeAnnouncementWithAllEvents
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest class>>#storeSerializedAnnouncementIntoMethod:
 GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#allPragmaVersions
 GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#assertAnnouncement:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#assertVersion:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#materializePragmaVersion:
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#recordedData
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#setUp
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#testDateAndTime
 GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#testMaterializeVersions
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#testPostponeSomeDataOnAct
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#testPostponeSomeDataOnExit
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#testPrimitivePrepareDeliveryData
+GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#testSerializedAnnouncementFrom
 GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#version1
 GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#version2
 GT-Spotter-EventRecorder.GTSpotterEventRecorderTest>>#versionsDo:
+GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement class>>#gtExampleAnnouncement
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement class>>#gtExampleEmptyAnnouncement
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#addInfoFor:
@@ -552,6 +620,7 @@ GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#imageVersion
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#imageVersion:
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#latestUpdate
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#latestUpdate:
+GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#materializedData
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#sessionCreationTime
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#sessionCreationTime:
 GT-Spotter-EventRecorder.GTSpotterRecorderDataAnnouncement>>#timestamp
@@ -572,6 +641,7 @@ GT-Spotter.GTSpotterMorph>>#initialize
 GT-Spotter.GTSpotterPrivacyAgreementNotificationBrick class>>#openSettingsBrowser
 GT-Spotter.GTSpotterPrivacyAgreementNotificationBrick>>#privacyMessage
 GT-Spotter.GTSpotterPrivacyAgreementNotificationBrick>>#sendUsageData
+GT-Spotter.GTSpotterPrivacyAgreementNotificationBrick>>#sendUsageData:
 GT-SpotterExtensions-Core.GTSpotter>>#spotterForSettingsFor:
 GT-Tests-Inspector.GTInspectorExamplesManualTest
 GT-Tests-Inspector.GTInspectorExamplesManualTest class>>#reset
@@ -619,6 +689,7 @@ Glamour-Morphic-Brick.GLMScrollPaneBandBrick>>#onChildrenLayouted
 Glamour-Morphic-Brick.MorphicEvent>>#withHandPositionDo:
 Glamour-Morphic-Renderer.GLMMorphicPharoCodeRenderer>>#evaluateAndPopPrintHighlight
 Glamour-Morphic-Renderer.GLMMorphicPharoCodeRenderer>>#popupPrint
+Glamour-Morphic-Renderer.GLMMorphicPharoPlaygroundRenderer
 Glamour-Morphic-Renderer.GLMMorphicPharoPlaygroundRenderer>>#actOnVariableBindingsAccessRequest:
 Glamour-Morphic-Renderer.GLMMorphicPharoPlaygroundRenderer>>#actOnVariableBindingsUpdated:
 Glamour-Morphic-Renderer.GLMMorphicPharoPlaygroundRenderer>>#modelFor:
@@ -626,6 +697,7 @@ Glamour-Morphic-Renderer.GLMMorphicPharoPlaygroundRenderer>>#morph
 Glamour-Morphic-Renderer.GLMMorphicPharoPlaygroundRenderer>>#registerEventsForPresentation:
 Glamour-Morphic-Renderer.GLMMorphicPharoPlaygroundRenderer>>#workspaceBindingsStrategy
 Glamour-Morphic-Renderer.GLMMorphicPharoScriptRenderer
+Glamour-Morphic-Renderer.GLMMorphicRenderer>>#renderPharoPlaygroundPresentation:
 Glamour-Morphic-Renderer.GLMMorphicRenderer>>#renderPharoScriptPresentation:
 Glamour-Morphic-Widgets.GLMPopper class>>#installAlarm:for:
 Glamour-Morphic-Widgets.GLMPopper class>>#installAlarm:for:withArguments:
@@ -641,6 +713,7 @@ Glamour-Rubric-Presentations.GLMCompositePresentation>>#pharoPlayground
 Glamour-Rubric-Presentations.GLMCompositePresentation>>#pharoScript
 Glamour-Rubric-Presentations.GLMCompositePresentation>>#rubricText
 Glamour-Rubric-Presentations.GLMLipsumWithSegmentsExample>>#presentation
+Glamour-Rubric-Presentations.GLMPharoPlaygroundPresentation
 Glamour-Rubric-Presentations.GLMPharoPlaygroundPresentation class>>#pharoPlaygroundPresentationExample
 Glamour-Rubric-Presentations.GLMPharoPlaygroundPresentation>>#currentBindings
 Glamour-Rubric-Presentations.GLMPharoPlaygroundPresentation>>#defaultSelectionActions
@@ -673,8 +746,10 @@ Glamour-Tests-Morphic.GLMFinderMorphicTest>>#testEmbeddedBrowserRefreshesRenderi
 Glamour-Tests-Morphic.GLMMorphicPharoCodeRendererTest>>#testCodeExecutionWithBindings
 Glamour-Tests-Morphic.GLMPharoScriptMorphicTest
 Glamour-Tests-Morphic.GLMPharoScriptMorphicTest>>#testForSmalltalkWorkspace
+Glamour-Tests-Morphic.GLMSmalltalkCodeMorphicTest
 Glamour-Tests-Morphic.GLMSmalltalkCodeMorphicTest>>#testDefault
 Glamour-Tests-Morphic.GLMSmalltalkCodeMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
+Glamour-Tests-Morphic.GLMSmalltalkCodeMorphicTest>>#testForSmalltalkWorkspace
 Glamour-Tests-Morphic.GLMTextMorphicTest>>#simulateOnlyOneClickOn:
 Glamour-Tests-Morphic.GLMTextMorphicTest>>#testAcceptKeyCanBeOverriden
 Glamour-Tests-Morphic.GLMTextMorphicTest>>#testExplicitAcceptDoesNotAffectTextPort
@@ -697,4 +772,5 @@ Glamour-Tests-Rubric.GLMRubricTextMorphicTest>>#testUnregisterFromAnnouncementsW
 Glamour-Tests-Rubric.GLMRubricTextMorphicTest>>#testUpdatingTextPortUpdatesTheMorph
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50478
+ScriptLoader50.ScriptLoader>>#update50478
 ScriptLoader50.ScriptLoader>>#update50479

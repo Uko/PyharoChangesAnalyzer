@@ -6,6 +6,7 @@ Rubric.RubCanceEditRequestedInModel
 Rubric.RubEditsStateChangedInModel
 Rubric.RubMethodEditingExample>>#okToChange
 Rubric.RubMethodEditingExample>>#promptForCancel
+Rubric.RubPluggableTextMorph>>#basicHasUnacceptedEdits:
 Rubric.RubPluggableTextMorph>>#promptForCancel
 Rubric.RubPluggableTextMorphExample>>#askBeforeDiscardingEdits
 Rubric.RubPluggableTextMorphExample>>#okToChange
@@ -27,4 +28,5 @@ Rubric.RubTextSetInModel
 Rubric.RubTextUpdatedInModel
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50078
+ScriptLoader50.ScriptLoader>>#update50078
 ScriptLoader50.ScriptLoader>>#update50079

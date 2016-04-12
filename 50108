@@ -3,6 +3,7 @@ ConfigurationOfRubric.ConfigurationOfRubric>>#version1217:
 Morphic-Core.WorldMorph>>#startSteppingSubmorphsOf:
 Rubric.RubMethodEditingExample>>#textModel
 Rubric.RubSmalltalkEditorModel
+Rubric.RubSmalltalkEditorModel>>#client:
 Rubric.RubSmalltalkEditorModel>>#interactionModel:
 Rubric.RubSmalltalkEditorModel>>#shoutAboutToStyle:
 Rubric.RubSmalltalkScriptEditorModel>>#hasBindingOf:
@@ -12,5 +13,6 @@ Rubric.RubTextEditor>>#compareToClipboard
 Rubric.RubWorkspaceExample>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50107
+ScriptLoader50.ScriptLoader>>#update50107
 ScriptLoader50.ScriptLoader>>#update50108
 Tool-ExternalBrowser.ExternalChangesBrowser class>>#browseRecentLog

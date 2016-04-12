@@ -6,6 +6,7 @@ Rubric.RubScrolledTextMorph>>#basicHasUnacceptedEdits:
 Rubric.RubSmalltalkEditor>>#internalCallToBrowse:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50227
+ScriptLoader50.ScriptLoader>>#update50227
 ScriptLoader50.ScriptLoader>>#update50228
 Spec-PolyWidgets.MethodToolbar
 Spec-PolyWidgets.MethodToolbar class>>#defaultSpec
@@ -15,3 +16,6 @@ Spec-PolyWidgets.MethodToolbar>>#setFocusOrder
 Spec-PolyWidgets.MethodToolbar>>#setUsersModel
 Spec-PolyWidgets.MethodToolbar>>#usersMethod
 Spec-PolyWidgets.MethodToolbar>>#usersModel
+System-Changes.FileStream>>#fileIntoNewChangeSet
+System-Changes.PositionableStream>>#backChunk
+System-Changes.PositionableStream>>#copyMethodChunkFrom:

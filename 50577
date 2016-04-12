@@ -16,5 +16,6 @@ Reflectivity.ReflectiveMethod>>#generatePrimitiveWrapper
 Reflectivity.ReflectiveMethod>>#recompileAST
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50576
+ScriptLoader50.ScriptLoader>>#update50576
 ScriptLoader50.ScriptLoader>>#update50577
 Tool-DependencyAnalyser-UI.DAPackageTreeModel>>#initializeWidgets

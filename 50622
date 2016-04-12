@@ -1,10 +1,28 @@
 ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version29:
+Rubric.RubCurrentLineBarDecorator>>#draw
+Rubric.RubCurrentLineBarDecorator>>#drawOnAthensCanvas
+Rubric.RubExtraSelectionDecorator>>#computeSelectionShapes
+Rubric.RubExtraSelectionDecorator>>#draw
+Rubric.RubExtraSelectionDecorator>>#drawAllSelectionShapes
+Rubric.RubExtraSelectionDecorator>>#drawAllSelectionShapesOnAthensCanvas
+Rubric.RubExtraSelectionDecorator>>#drawOnAthensCanvas
+Rubric.RubExtraSelectionDecorator>>#drawSelectionShape:
+Rubric.RubExtraSelectionDecorator>>#drawSelectionShapeOnAthensCanvas:
 Rubric.RubLineNumberDisplayer class>>#menuOn:
+Rubric.RubOpeningClosingDelimiterDecorator>>#draw
+Rubric.RubOpeningClosingDelimiterDecorator>>#drawOnAthensCanvas
+Rubric.RubOpeningClosingDelimiterDecorator>>#positionOfOppositeDelimiter:startingAt:
+Rubric.RubParagraphDecorator>>#clippedRectangle
+Rubric.RubParagraphDecorator>>#draw
+Rubric.RubParagraphDecorator>>#drawOnAthensCanvas
+Rubric.RubParagraphDecorator>>#handleDrawingOn:using:at:
+Rubric.RubParagraphDecorator>>#handleDrawingOnAthensCanvas:bounds:
 Rubric.RubPlainTextMode class>>#menuOn:
 Rubric.RubScrolledTextMorph>>#beForSmalltalkScripting
 Rubric.RubSmalltalkCodeMode class>>#menuOn:
 Rubric.RubSmalltalkCommentMode class>>#menuOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50621
+ScriptLoader50.ScriptLoader>>#update50621
 ScriptLoader50.ScriptLoader>>#update50622

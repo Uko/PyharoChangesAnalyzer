@@ -1,3 +1,12 @@
+Komitter.DataRetriever
+Komitter.DataRetriever class>>#for:
+Komitter.DataRetriever>>#block:
+Komitter.DataRetriever>>#data
+Komitter.DataRetriever>>#initialize
+Komitter.DataRetriever>>#nullObject:
+Komitter.DataRetriever>>#release
+Komitter.DataRetriever>>#retrieveData
+Komitter.DataRetriever>>#signalDataIsReady
 Komitter.KomitClassNode>>#initialize
 Komitter.KomitLeaf>>#initialize
 Komitter.KomitNode>>#initialize
@@ -5,21 +14,31 @@ Komitter.KomitPackage
 Komitter.KomitPackage>>#flush
 Komitter.KomitPackage>>#package:
 Komitter.KomitPackage>>#patch
+Komitter.KomitPackage>>#retrievePatch
 Nautilus-GroupManager.PackageGroup>>#elements
 Nautilus.AbstractNautilusUI class>>#buildBrowseShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildExtraShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildFindShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildGotoNavigationShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildRunTestKeymappingsOn:
+Nautilus.AbstractNautilusUI>>#aGroupHasBeenRegistered:
+Nautilus.AbstractNautilusUI>>#aGroupHasBeenUnregistered:
+Nautilus.AbstractNautilusUI>>#browseClassVars
+Nautilus.AbstractNautilusUI>>#browseInstVars
 Nautilus.AbstractNautilusUI>>#packageRegistered:
 Nautilus.Nautilus
 Nautilus.Nautilus class>>#buildGroupManager
 Nautilus.Nautilus class>>#cleanUp
 Nautilus.Nautilus class>>#configurationPackages
 Nautilus.Nautilus class>>#configurationsGroupName
+Nautilus.Nautilus class>>#lastModifiedClasses
 Nautilus.Nautilus class>>#maxSize:
+Nautilus.Nautilus class>>#recentClasses
+Nautilus.Nautilus class>>#recentClassesElements
+Nautilus.Nautilus>>#recentClasses
 Nautilus.Nautilus>>#selectedClass:
 Nautilus.PackageTreeModel>>#packagesAsNodes
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50250
+ScriptLoader50.ScriptLoader>>#update50250
 ScriptLoader50.ScriptLoader>>#update50251

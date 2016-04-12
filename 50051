@@ -15,4 +15,5 @@ Kernel.SymbolicBytecodeBuilder>>#pushClosureTemps:
 OpalCompiler-Core.IRBytecodeGenerator>>#v3VMHeader:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50050
+ScriptLoader50.ScriptLoader>>#update50050
 ScriptLoader50.ScriptLoader>>#update50051

@@ -1,7 +1,10 @@
+Deprecated50.SmalltalkImage>>#addToShutDownList:
+Deprecated50.SmalltalkImage>>#addToStartUpList:
 SUnit-UITesting.SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
 SUnit-UITesting.SimulateMouseSpecification>>#testSimulateRightClick
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50602
+ScriptLoader50.ScriptLoader>>#update50602
 ScriptLoader50.ScriptLoader>>#update50603
 System-Support.SmalltalkImage>>#addToShutDownList:
 System-Support.SmalltalkImage>>#addToStartUpList:

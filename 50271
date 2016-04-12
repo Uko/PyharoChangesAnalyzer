@@ -2,20 +2,52 @@ Komitter.KomitterUI>>#initializeLatelyPresenter
 Komitter.KomitterUI>>#initializeWidgets
 Komitter.KomitterUI>>#refreshDiffForItem:
 Morphic-Base.GradientFillStyle>>#changeColorOf:rampIndex:
+Nautilus.AbstractNautilusUI class>>#debugMenu:
 Nautilus.AbstractNautilusUI>>#aGroupHasBeenAdded:
 Nautilus.AbstractNautilusUI>>#aGroupHasBeenRemoved:
 Nautilus.Nautilus
+Nautilus.Nautilus class>>#commentPosition
+Nautilus.Nautilus class>>#commentPosition:
+Nautilus.Nautilus class>>#commentPositions
+Nautilus.Nautilus class>>#emptyCommentWarning:
+Nautilus.Nautilus class>>#historyMaxSize
+Nautilus.Nautilus class>>#historyMaxSize:
+Nautilus.Nautilus class>>#maxSize
+Nautilus.Nautilus class>>#maxSize:
 Nautilus.Nautilus class>>#nautilusSettingsOn:
 Nautilus.Nautilus class>>#openInEnvironment:
 Nautilus.Nautilus class>>#openOnClass:inEnvironment:
 Nautilus.Nautilus class>>#openOnClass:onProtocol:inEnvironment:
+Nautilus.Nautilus class>>#openOnGroups
+Nautilus.Nautilus class>>#openOnGroups:
 Nautilus.Nautilus class>>#openOnMethod:inEnvironment:
 Nautilus.Nautilus class>>#resetGroups
+Nautilus.Nautilus class>>#showAnnotationPane:
+Nautilus.Nautilus class>>#showDebugMenus
+Nautilus.Nautilus class>>#showDebugMenus:
+Nautilus.Nautilus class>>#showGroupsOnTop
+Nautilus.Nautilus class>>#showGroupsOnTop:
+Nautilus.Nautilus class>>#switchClassesAndPackages
+Nautilus.Nautilus class>>#switchClassesAndPackages:
+Nautilus.Nautilus>>#commentPosition
+Nautilus.Nautilus>>#openEditString:
+Nautilus.Nautilus>>#packagesUsedByTheSelectedClass
+Nautilus.Nautilus>>#removeLastHistoryEntry
+Nautilus.Nautilus>>#shouldOpenOnGroups
 Nautilus.Nautilus>>#spawnHierarchy
 Nautilus.Nautilus>>#spawnHierarchyForClass:selector:
+Nautilus.Nautilus>>#switchClassesAndPackages
 Nautilus.PackageTreeModel>>#rootNodes
+Nautilus.PackageTreeNautilusUI>>#groupsAreVisible
+NautilusCommon.NautilusHistoryEntryWithSourceCode
+NautilusCommon.NautilusHistoryEntryWithSourceCode class>>#with:sourceCode:
+NautilusCommon.NautilusHistoryEntryWithSourceCode>>#applyTo:
+NautilusCommon.NautilusHistoryEntryWithSourceCode>>#asHistoryString
+NautilusCommon.NautilusHistoryEntryWithSourceCode>>#sourceCode
+NautilusCommon.NautilusHistoryEntryWithSourceCode>>#sourceCode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50270
+ScriptLoader50.ScriptLoader>>#update50270
 ScriptLoader50.ScriptLoader>>#update50271
 Shout.SHPreferences class>>#styleTableRow
 Tools.SyntaxErrorDebugger
@@ -24,6 +56,8 @@ Tools.SyntaxErrorDebugger>>#announcer
 Tools.SyntaxErrorDebugger>>#codePaneMenu:shifted:
 Tools.SyntaxErrorDebugger>>#contents:notifying:
 Tools.SyntaxErrorDebugger>>#model
+Tools.SyntaxErrorDebugger>>#shiftedYellowButtonMenu
+Tools.SyntaxErrorDebugger>>#yellowButtonMenu
 UIManager.ManifestUIManager class>>#manuallyResolvedDependencies
 UIManager.UIManager>>#chooseOrRequestFrom:title:
 UIManager.UIManager>>#enterOrRequestFrom:title:

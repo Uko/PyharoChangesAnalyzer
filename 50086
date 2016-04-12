@@ -1,6 +1,7 @@
 Nautilus.AbstractNautilusUI
 Nautilus.AbstractNautilusUI>>#buildNewCommentText
 Nautilus.AbstractNautilusUI>>#okToChangeComment
+Nautilus.AbstractNautilusUI>>#runScriptMethod:
 Nautilus.MethodClassInitializeAction>>#isActionHandled
 Nautilus.MethodContainsFlagsAction>>#isActionHandled
 Nautilus.MethodContainsHaltAction>>#isActionHandled
@@ -18,7 +19,13 @@ Nautilus.MethodOveridesAction>>#isActionHandled
 Nautilus.MethodOveridesAction>>#isOverridden
 Nautilus.MethodOveridesAction>>#isOverride
 Nautilus.NautilusUI class>>#initializeCache
+NautilusCommon.CompiledMethod>>#containsFlag
 NautilusCommon.CompiledMethod>>#containsHalt
+NautilusCommon.CompiledMethod>>#dragAndDropPrint
+NautilusCommon.CompiledMethod>>#isClassInitializeMethod
+NautilusCommon.CompiledMethod>>#isExampleMethod
+NautilusCommon.CompiledMethod>>#isOverride
+NautilusCommon.CompiledMethod>>#isScriptMethod
 NautilusCommon.CompiledMethod>>#isScriptMethodWithScript
 ScriptLoader50.ScriptLoader>>#addHomeRepositoryToAllPackagesExcept:
 ScriptLoader50.ScriptLoader>>#addRepositoryToPackagesWithConfiguration
@@ -26,6 +33,7 @@ ScriptLoader50.ScriptLoader>>#cleanRepositories
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#flushCaches
 ScriptLoader50.ScriptLoader>>#script50085
+ScriptLoader50.ScriptLoader>>#update50085
 ScriptLoader50.ScriptLoader>>#update50086
 Spec-Tools.KeymapBrowser class>>#keymapBrowserMenuOn:
 Spec-Tools.KeymapBrowser class>>#taskbarIcon

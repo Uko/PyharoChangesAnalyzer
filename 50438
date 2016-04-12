@@ -9,6 +9,7 @@ Growl.GrowlMorph>>#unoccupiedPositionTopRight
 Morphic-Widgets-Windows.StandardWindow>>#flash
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50437
+ScriptLoader50.ScriptLoader>>#update50437
 ScriptLoader50.ScriptLoader>>#update50438
 Tool-Catalog.CatalogProvider class>>#install:version:
 Tool-Catalog.CatalogProvider>>#loadProjects

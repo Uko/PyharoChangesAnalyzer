@@ -1,20 +1,32 @@
 Collections-Strings.Symbol class>>#initialize
+Collections-Strings.Symbol class>>#release
 Collections-Weak.WeakArray class>>#initialize
+Collections-Weak.WeakArray class>>#release
 Files.Stdio class>>#initialize
+Files.Stdio class>>#release
+Graphics-Fonts.StrikeFont class>>#release
 Kernel.Context>>#doPrimitive:method:receiver:args:
 Kernel.Context>>#popIntoReceiverVariable:
 Kernel.Context>>#pushReceiverVariable:
 Kernel.Context>>#quickSend:to:with:super:
 Kernel.Context>>#send:to:with:super:
 Kernel.Context>>#storeIntoReceiverVariable:
+Kernel.ProcessorScheduler class>>#release
+Morphic-Core.WorldMorph class>>#release
 Multilingual-Languages.LanguageEnvironment class>>#initialize
+Multilingual-Languages.LanguageEnvironment class>>#release
 Network-UUID.UUIDGenerator class>>#initialize
+Network-UUID.UUIDGenerator class>>#release
 Polymorph-Widgets.UITheme class>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50620
+ScriptLoader50.ScriptLoader>>#update50620
 ScriptLoader50.ScriptLoader>>#update50621
 System-BasicCommandLineHandler.BasicCommandLineHandler class>>#initialize
+System-BasicCommandLineHandler.BasicCommandLineHandler class>>#release
 System-Finalization.WeakFinalizationList class>>#initialize
+System-Finalization.WeakFinalizationList class>>#release
 System-Localization.Locale class>>#initialize
+System-Localization.Locale class>>#release
 System-Settings.SystemSettingsPersistence class>>#initialize
 System-Support.SystemDictionary>>#renameClass:from:to:

@@ -1,15 +1,37 @@
+Athens-Cairo.AthensCairoCanvas class>>#asNBExternalType:
+Athens-Cairo.AthensCairoSurface class>>#asNBExternalType:
 Athens-Cairo.AthensCairoSurface class>>#createFromFile:ifFailed:
+Athens-Cairo.AthensCairoSurface class>>#createGetSurfaceFormatFnOld
+Athens-Cairo.AthensCairoSurface class>>#createLockSurfaceFnOld
+Athens-Cairo.AthensCairoSurface class>>#createShowSurfaceFnOld
+Athens-Cairo.AthensCairoSurface class>>#createUnlockSurfaceFnOld
+Athens-Cairo.AthensCairoSurface class>>#fnPtr:
+Athens-Cairo.AthensCairoSurface class>>#testGetSurfaceFormat:width:height:depth:isMSB:
+Athens-Cairo.AthensCairoSurface class>>#testLockSurface:pitch:x:y:w:h:
+Athens-Cairo.AthensCairoSurface class>>#testSurfacePluginCallbacks
 Athens-Cairo.CairoFontFace>>#initialize
 Athens-Cairo.CairoFontFace>>#initializeWithFreetypeFace:
 Athens-Cairo.CairoFontOptions>>#initialize
 Athens-Cairo.CairoFreetypeFontRenderer>>#convertString:len:ofFont:toGlyphs:numGlyphs:x:y:
 Athens-Cairo.CairoFreetypeFontRenderer>>#glyphsOf:from:to:
+Athens-Cairo.CairoLibraryLoader
+Athens-Cairo.CairoLibraryLoader class>>#cantFindCairoOnLinux
+Athens-Cairo.CairoLibraryLoader class>>#getLibraryHandle
+Athens-Cairo.CairoLibraryLoader class>>#getLibraryPath
+Athens-Cairo.CairoLibraryLoader class>>#loadCairoLibrary
+Athens-Cairo.CairoLibraryLoader class>>#pathToCairoOnLinux
 Athens-Cairo.CairoScaledFont>>#initWithFace:
 Athens-Cairo.CairoScaledFont>>#initialize
+Athens-Cairo.CairoUTF8Converter>>#convertByteString:
+Athens-Cairo.CairoUTF8Converter>>#convertUnicode:
+Athens-Cairo.CairoUTF8Converter>>#convertUnicode:conversionLabels:
+Athens-Cairo.CairoUTF8Converter>>#convertWideString:
+Athens-Cairo.CairoUTF8Converter>>#store:accumulated:
 Morphic-Core.Morph>>#flash
 Morphic-Core.Morph>>#flashDone:
 Morphic-Core.Morph>>#flashFillStyle
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50547
+ScriptLoader50.ScriptLoader>>#update50547
 ScriptLoader50.ScriptLoader>>#update50548
 Shout.SHRBTextStyler>>#style:ast:

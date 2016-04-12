@@ -12,4 +12,5 @@ Nautilus.MethodOveridesAction>>#privateActionIcon
 Nautilus.MethodWidget>>#rebuildUpAndDownArrowIconFrom:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50515
+ScriptLoader50.ScriptLoader>>#update50515
 ScriptLoader50.ScriptLoader>>#update50516

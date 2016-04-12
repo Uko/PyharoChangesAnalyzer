@@ -1,5 +1,7 @@
 Nautilus.AbstractWidget class>>#listClass
 Nautilus.Nautilus class>>#nautilusSettingsOn:
+Nautilus.Nautilus class>>#useExperimentalFastTable
+Nautilus.Nautilus class>>#useExperimentalFastTable:
 Reflectivity-Examples.AbstractIconStyler
 Reflectivity-Examples.AbstractIconStyler class>>#shouldStyle
 Reflectivity-Examples.AbstractIconStyler class>>#style:
@@ -11,7 +13,9 @@ Reflectivity-Examples.AbstractIconStyler>>#borderColor
 Reflectivity-Examples.AbstractIconStyler>>#highlightColor
 Reflectivity-Examples.AbstractIconStyler>>#icon
 Reflectivity-Examples.AbstractIconStyler>>#iconBlock:
+Reflectivity-Examples.AbstractIconStyler>>#iconLabel
 Reflectivity-Examples.AbstractIconStyler>>#iconProvider
+Reflectivity-Examples.AbstractIconStyler>>#shouldStyleNode:
 Reflectivity-Examples.AbstractIconStyler>>#textModel
 Reflectivity-Examples.AbstractIconStyler>>#textModel:
 Reflectivity-Examples.AbstractIconStyler>>#visitArgumentNode:
@@ -35,6 +39,7 @@ Reflectivity-Examples.AbstractIconStyler>>#visitTemporaryNode:
 Reflectivity-Examples.AbstractIconStyler>>#visitThisContextNode:
 Reflectivity-Examples.AbstractIconStyler>>#visitVariableNode:
 Reflectivity-Examples.BreakpointIconStyler>>#iconLabel:
+Reflectivity-Examples.MetalinkIconStyler>>#iconLabel
 Reflectivity-Examples.MetalinkIconStyler>>#iconLabel:
 Reflectivity-Tests.MetaLinkTest>>#testAvailableReifications
 Reflectivity-Tests.ReflectivityControlTest>>#testAfterSendWeak
@@ -94,6 +99,7 @@ Reflectivity.RFValueReification>>#genForRBReturnNode
 Reflectivity.RFValueReification>>#preamble:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50464
+ScriptLoader50.ScriptLoader>>#update50464
 ScriptLoader50.ScriptLoader>>#update50465
 SmartSuggestions.SugsSuggestionFactory class>>#cleanUp
 SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointCommand

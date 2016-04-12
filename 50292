@@ -1,11 +1,14 @@
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#version078:
 Graphics-Primitives.Color>>#asHTMLColor
 Graphics-Primitives.Color>>#printHtmlString
+Graphics-Tests.ColorTest>>#testAsHTMLColor
 Graphics-Tests.ColorTest>>#testAsHexString
 Graphics-Tests.ColorTest>>#testColorFrom
 Graphics-Tests.ColorTest>>#testFromString
+Graphics-Tests.ColorTest>>#testPrintHtmlString
 Morphic-Widgets-FastTable.FTTableContainerMorph>>#drawOnAthensCanvas:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50291
+ScriptLoader50.ScriptLoader>>#update50291
 ScriptLoader50.ScriptLoader>>#update50292
 Spec-Debugger.SpecPreDebugWindow>>#createNotifierPaneWidgets

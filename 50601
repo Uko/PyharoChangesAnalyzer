@@ -3,5 +3,6 @@ ConfigurationOfCatalog.ConfigurationOfCatalog>>#version_0_11_1:
 Rubric.RubShoutStylerDecorator>>#style:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50600
+ScriptLoader50.ScriptLoader>>#update50600
 ScriptLoader50.ScriptLoader>>#update50601
 Tool-Catalog.CatalogProject>>#installVersion:

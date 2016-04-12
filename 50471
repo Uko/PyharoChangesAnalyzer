@@ -1,6 +1,11 @@
+Nautilus.TransformWithLayoutMorphForMultipleEditors
+Nautilus.TransformWithLayoutMorphForMultipleEditors>>#bounds:
+Nautilus.TransformWithLayoutMorphForMultipleEditors>>#updateSubMorph:
+Reflectivity-Tools.AbstractIconStyler>>#visitVariableNode:
 Reflectivity-Tools.WatchpointWindow>>#extent
 Reflectivity-Tools.WatchpointWindow>>#setupMenu
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50470
+ScriptLoader50.ScriptLoader>>#update50470
 ScriptLoader50.ScriptLoader>>#update50471
 Spec-Tools.ChangeSorterApplication>>#removeMessage

@@ -274,4 +274,5 @@ Rubric.RubNullGetMenuPolicy>>#lookupShiftMenu
 Rubric.RubSmalltalkEditor>>#browseClassFrom:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50231
+ScriptLoader50.ScriptLoader>>#update50231
 ScriptLoader50.ScriptLoader>>#update50232

@@ -6,15 +6,18 @@ Nautilus.AbstractNautilusUI>>#navigationAreaProportion
 NautilusCommon.NautilusWindow>>#initialExtent
 Reflectivity-Tests.MetaLinkTest>>#testLinkOption
 Reflectivity-Tests.ReflectivityLinkTest>>#testUninstallLinkAndRunOptionNoJIT
+Reflectivity.CompiledMethod>>#installLink
 Reflectivity.CompiledMethod>>#installLink:
 Reflectivity.MetaLink>>#option:
 Reflectivity.MetaLink>>#options:
 Reflectivity.RBProgramNode>>#link:
 Reflectivity.ReflectiveMethod>>#compileAndInstallCompiledMethod
+Reflectivity.ReflectiveMethod>>#installLink
 Reflectivity.ReflectiveMethod>>#installLink:
 Reflectivity.ReflectiveMethod>>#run:with:in:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50172
+ScriptLoader50.ScriptLoader>>#update50172
 ScriptLoader50.ScriptLoader>>#update50173
 Tool-Catalog.CatalogCommandLineHandler
 Tool-Catalog.CatalogCommandLineHandler class>>#commandName

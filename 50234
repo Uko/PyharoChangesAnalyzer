@@ -14,6 +14,7 @@ Refactoring-Critics.RBRuleIfNotNilDo>>#initialize
 Refactoring-Critics.RBRuleIfNotNilDo>>#name
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50233
+ScriptLoader50.ScriptLoader>>#update50233
 ScriptLoader50.ScriptLoader>>#update50234
 Slot-Tests.ClassVariableTest
 Slot-Tests.ClassVariableTest>>#testCreateClassWithClassVariable

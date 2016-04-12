@@ -23,6 +23,7 @@ OpalCompiler-Core.ManifestOpalCompilerCore class>>#ruleVariableAssignedLiteralRu
 Ring-Monticello.ManifestRingMonticello class>>#manuallyResolvedDependencies
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50294
+ScriptLoader50.ScriptLoader>>#update50294
 ScriptLoader50.ScriptLoader>>#update50295
 Slot.ManifestSlot class>>#manuallyResolvedDependencies
 System-Changes.ManifestSystemChanges class>>#manuallyResolvedDependencies

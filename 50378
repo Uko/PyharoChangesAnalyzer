@@ -2,10 +2,19 @@ Morphic-Widgets-FastTable.FTOutlineDataSource>>#searchText:
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptorDataSource>>#searchText:
 Morphic-Widgets-FastTable.FTSearchFunction
 Morphic-Widgets-FastTable.FTSearchFunction class>>#table:
+Morphic-Widgets-FastTable.FTSearchFunction>>#accept
+Morphic-Widgets-FastTable.FTSearchFunction>>#createSearchFieldMorph
+Morphic-Widgets-FastTable.FTSearchFunction>>#initialize
 Morphic-Widgets-FastTable.FTSearchFunction>>#initializeTable:
+Morphic-Widgets-FastTable.FTSearchFunction>>#isVisible
 Morphic-Widgets-FastTable.FTSearchFunction>>#keyStroke:
+Morphic-Widgets-FastTable.FTSearchFunction>>#reset
+Morphic-Widgets-FastTable.FTSearchFunction>>#resetAndFocusOwner
+Morphic-Widgets-FastTable.FTSearchFunction>>#searchField
 Morphic-Widgets-FastTable.FTSearchFunction>>#searchFor:
+Morphic-Widgets-FastTable.FTSearchFunction>>#showSearchField
 Morphic-Widgets-FastTable.FTSearchFunction>>#showSearchFieldFromKeystrokeEvent:
+Morphic-Widgets-FastTable.FTSearchFunction>>#text
 Morphic-Widgets-FastTable.FTSimpleDataSource>>#searchText:
 Reflectivity-Tests.ReflectiveMethodTest>>#testInvalidateNoJit
 Reflectivity.CompiledMethod>>#installLink:
@@ -33,4 +42,5 @@ Rubric.RubFloatingEditorBuilder>>#withEditedContentsDo:
 Rubric.RubScrolledTextMorph>>#font
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50377
+ScriptLoader50.ScriptLoader>>#update50377
 ScriptLoader50.ScriptLoader>>#update50378

@@ -1,43 +1,706 @@
+GT-SpotterExtensions-Core.ThemeIconPack class>>#gtExampleThemeIcons
+Graphics-Resources.ThemeIcons class>>#blankIconOfWidth:
+Graphics-Resources.ThemeIcons>>#blankIconOfWidth:
+Graphics-Resources.ThemeIcons>>#checkBoxOffIconContents
+Graphics-Resources.ThemeIcons>>#checkBoxOnIconContents
+Graphics-Resources.ThemeIcons>>#errorIconContents
+Graphics-Resources.ThemeIcons>>#expandBoxIconContents
+Graphics-Resources.ThemeIcons>>#eyedropperIconContents
+Graphics-Resources.ThemeIcons>>#fullscreenIconContents
+Graphics-Resources.ThemeIcons>>#haloCollapseIconContents
+Graphics-Resources.ThemeIcons>>#haloDebugIconContents
+Graphics-Resources.ThemeIcons>>#haloDismissIconContents
+Graphics-Resources.ThemeIcons>>#haloDragIconContents
+Graphics-Resources.ThemeIcons>>#haloDupIconContents
+Graphics-Resources.ThemeIcons>>#haloFontEmphIconContents
+Graphics-Resources.ThemeIcons>>#haloFontSizeIconContents
+Graphics-Resources.ThemeIcons>>#haloFontStyleIconContents
+Graphics-Resources.ThemeIcons>>#haloGrabIconContents
+Graphics-Resources.ThemeIcons>>#haloHelpIconContents
+Graphics-Resources.ThemeIcons>>#haloMenuIconContents
+Graphics-Resources.ThemeIcons>>#haloPaintIconContents
+Graphics-Resources.ThemeIcons>>#haloRecolorIconContents
+Graphics-Resources.ThemeIcons>>#haloRotIconContents
+Graphics-Resources.ThemeIcons>>#haloViewIconContents
+Graphics-Resources.ThemeIcons>>#infoIconContents
+Graphics-Resources.ThemeIcons>>#paintingIconContents
+Graphics-Resources.ThemeIcons>>#pharoIconContents
+Graphics-Resources.ThemeIcons>>#questionIconContents
+Graphics-Resources.ThemeIcons>>#radioButtonOffIconContents
+Graphics-Resources.ThemeIcons>>#radioButtonOnIconContents
+Graphics-Resources.ThemeIcons>>#radioButtonPressedIconContents
+Graphics-Resources.ThemeIcons>>#rotateIconContents
+Graphics-Resources.ThemeIcons>>#scaleIconContents
+Graphics-Resources.ThemeIcons>>#smallBarcodeIconContents
+Graphics-Resources.ThemeIcons>>#smallBoldIconContents
+Graphics-Resources.ThemeIcons>>#smallExpertIconContents
+Graphics-Resources.ThemeIcons>>#smallFontsIconContents
+Graphics-Resources.ThemeIcons>>#smallFullscreenIconContents
+Graphics-Resources.ThemeIcons>>#smallItalicIconContents
+Graphics-Resources.ThemeIcons>>#smallSelectIconContents
+Graphics-Resources.ThemeIcons>>#smallStrikeOutIconContents
+Graphics-Resources.ThemeIcons>>#smallUnderlineIconContents
+Graphics-Resources.ThemeIcons>>#smallVolumeIconContents
+Graphics-Resources.ThemeIcons>>#solidMenuIconContents
+Graphics-Resources.ThemeIcons>>#tinyMenuIconContents
+Graphics-Resources.ThemeIcons>>#upArrowIconContents
+Graphics-Resources.ThemeIcons>>#volumeIconContents
+HelpSystem-Core.ThemeIcons>>#bookIcon
+HelpSystem-Core.ThemeIcons>>#bookIconContents
+HelpSystem-Core.ThemeIcons>>#pageIcon
+HelpSystem-Core.ThemeIcons>>#pageIconContents
+HelpSystem-Core.ThemeIcons>>#refreshIcon
+HelpSystem-Core.ThemeIcons>>#refreshIconContents
+Komitter.EclipseUIThemeIcons>>#historyIcon
+Komitter.EclipseUIThemeIcons>>#historyIconContents
+Komitter.EclipseUIThemeIcons>>#komitterIcon
+Komitter.EclipseUIThemeIcons>>#komitterIconContents
 Komitter.KomitClassNode class>>#addedClassIcon
 Komitter.KomitClassNode class>>#deletedClassIcon
 Komitter.KomitClassNode class>>#modifiedClassIcon
+Komitter.ThemeIcons>>#historyIcon
+Komitter.ThemeIcons>>#komitterIcon
+Komitter.ThemeIcons>>#overlayAddIconContents
+Komitter.ThemeIcons>>#overlayModificationIconContents
+Komitter.ThemeIcons>>#overlayRemoveIconContents
+MonticelloGUI.EclipseUIThemeIcons>>#newerPackagesAvailableIcon
+MonticelloGUI.ThemeIcons>>#newerPackagesAvailableIcon
+MonticelloGUI.ThemeIcons>>#newerPackagesAvailableIconContents
+Nautilus-GroupManagerUI.GroupIcon
+Nautilus-GroupManagerUI.GroupIcon class>>#current
+Nautilus-GroupManagerUI.GroupIcon class>>#reset
+Nautilus-GroupManagerUI.GroupIcon>>#downArrowIcon
+Nautilus-GroupManagerUI.GroupIcon>>#downArrowIconContents
+Nautilus-GroupManagerUI.GroupIcon>>#emptyGroupIcon
+Nautilus-GroupManagerUI.GroupIcon>>#emptyGroupIconContents
+Nautilus-GroupManagerUI.GroupIcon>>#formForSelector:
+Nautilus-GroupManagerUI.GroupIcon>>#groupAddIcon
+Nautilus-GroupManagerUI.GroupIcon>>#groupAddIconContents
+Nautilus-GroupManagerUI.GroupIcon>>#groupEditIcon
+Nautilus-GroupManagerUI.GroupIcon>>#groupEditIconContents
+Nautilus-GroupManagerUI.GroupIcon>>#initialize
+Nautilus-GroupManagerUI.GroupIcon>>#upRedArrowIcon
+Nautilus-GroupManagerUI.GroupIcon>>#upRedArrowIconContents
+Nautilus.ThemeIcons>>#abstractIcon
+Nautilus.ThemeIcons>>#abstractIconContents
+Nautilus.ThemeIcons>>#alertIcon
+Nautilus.ThemeIcons>>#alertIconContents
+Nautilus.ThemeIcons>>#announcementIcon
+Nautilus.ThemeIcons>>#announcementIconContents
+Nautilus.ThemeIcons>>#arrowDoubleDownIcon
+Nautilus.ThemeIcons>>#arrowDoubleDownIconContents
+Nautilus.ThemeIcons>>#arrowDoubleUpIcon
+Nautilus.ThemeIcons>>#arrowDoubleUpIconContents
+Nautilus.ThemeIcons>>#arrowDownIcon
+Nautilus.ThemeIcons>>#arrowDownIconContents
+Nautilus.ThemeIcons>>#arrowUpAndDownIcon
+Nautilus.ThemeIcons>>#arrowUpAndDownIconContents
+Nautilus.ThemeIcons>>#arrowUpIcon
+Nautilus.ThemeIcons>>#arrowUpIconContents
+Nautilus.ThemeIcons>>#breakpointIcon
+Nautilus.ThemeIcons>>#breakpointIconContents
+Nautilus.ThemeIcons>>#classIcon
+Nautilus.ThemeIcons>>#classVarsPressedIcon
+Nautilus.ThemeIcons>>#classVarsPressedIconContents
+Nautilus.ThemeIcons>>#classVarsSelectedIcon
+Nautilus.ThemeIcons>>#classVarsSelectedIconContents
+Nautilus.ThemeIcons>>#classVarsUnselectedIcon
+Nautilus.ThemeIcons>>#classVarsUnselectedIconContents
+Nautilus.ThemeIcons>>#collectionIcon
+Nautilus.ThemeIcons>>#collectionIconContents
+Nautilus.ThemeIcons>>#dirtyMonticelloPackageIcon
+Nautilus.ThemeIcons>>#dirtyMonticelloPackageIconContents
+Nautilus.ThemeIcons>>#dirtyPackageIcon
+Nautilus.ThemeIcons>>#dirtyPackageIconContents
+Nautilus.ThemeIcons>>#emptyPackageIcon
+Nautilus.ThemeIcons>>#emptyPackageIconContents
+Nautilus.ThemeIcons>>#exceptionIcon
+Nautilus.ThemeIcons>>#exceptionIconContents
+Nautilus.ThemeIcons>>#flagIcon
+Nautilus.ThemeIcons>>#flagIconContents
+Nautilus.ThemeIcons>>#greenArrowUpAndDownIcon
+Nautilus.ThemeIcons>>#greenArrowUpAndDownIconContents
+Nautilus.ThemeIcons>>#groupIcon
+Nautilus.ThemeIcons>>#groupIconContents
+Nautilus.ThemeIcons>>#haltIcon
+Nautilus.ThemeIcons>>#haltIconContents
+Nautilus.ThemeIcons>>#instVarsPressedIcon
+Nautilus.ThemeIcons>>#instVarsPressedIconContents
+Nautilus.ThemeIcons>>#instVarsSelectedIcon
+Nautilus.ThemeIcons>>#instVarsSelectedIconContents
+Nautilus.ThemeIcons>>#instVarsUnselectedIcon
+Nautilus.ThemeIcons>>#instVarsUnselectedIconContents
+Nautilus.ThemeIcons>>#magnitudeIcon
+Nautilus.ThemeIcons>>#magnitudeIconContents
+Nautilus.ThemeIcons>>#monticelloPackageIcon
+Nautilus.ThemeIcons>>#monticelloPackageIconContents
+Nautilus.ThemeIcons>>#morphIcon
+Nautilus.ThemeIcons>>#morphIconContents
+Nautilus.ThemeIcons>>#nautilusIcon
+Nautilus.ThemeIcons>>#nautilusIconContents
+Nautilus.ThemeIcons>>#packageIcon
+Nautilus.ThemeIcons>>#packageIconContents
+Nautilus.ThemeIcons>>#protocolExtensionIcon
+Nautilus.ThemeIcons>>#protocolNoneIcon
+Nautilus.ThemeIcons>>#protocolPrivateIcon
+Nautilus.ThemeIcons>>#protocolProtectedIcon
+Nautilus.ThemeIcons>>#protocolPublicIcon
+Nautilus.ThemeIcons>>#removeIcon
+Nautilus.ThemeIcons>>#separatorIcon
+Nautilus.ThemeIcons>>#separatorIconContents
+Nautilus.ThemeIcons>>#stringIcon
+Nautilus.ThemeIcons>>#stringIconContents
+Nautilus.ThemeIcons>>#testGreenIcon
+Nautilus.ThemeIcons>>#testGreenIconContents
+Nautilus.ThemeIcons>>#testNotRunIcon
+Nautilus.ThemeIcons>>#testNotRunIconContents
+Nautilus.ThemeIcons>>#testRedIcon
+Nautilus.ThemeIcons>>#testRedIconContents
+Nautilus.ThemeIcons>>#testYellowIcon
+Nautilus.ThemeIcons>>#testYellowIconContents
+Nautilus.ThemeIcons>>#traitIcon
+Nautilus.ThemeIcons>>#traitIconContents
+Nautilus.ThemeIcons>>#uncommentedClassIcon
+Nautilus.ThemeIcons>>#uncommentedClassIconContents
+Polymorph-Widgets.EclipseUIThemeIcons
+Polymorph-Widgets.EclipseUIThemeIcons class>>#LICENSE
+Polymorph-Widgets.EclipseUIThemeIcons class>>#iconSetName
+Polymorph-Widgets.EclipseUIThemeIcons class>>#isAbstract
+Polymorph-Widgets.EclipseUIThemeIcons>>#backIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#bundle_exporterIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#changeAddIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#changeRemoveIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#changeSorterIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#changeUpdateIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#classIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#classIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#commentsIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#commentsIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#configurationIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#confirmIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#dirtyMonticelloPackageIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#dirtyPackageIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#emptyPackageIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#emptyPackageIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#forwardIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#groupIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#groupIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#helpIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#hierarchyIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#hierarchyIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#homeIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#imageIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#jmeth_objIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#jumpIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#lockIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#logical_package_objIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#migrate16IconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#modifiedIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#monticelloPackageIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#monticelloPackageIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#nautilusIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#objectsIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#openIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#overlayDirtyIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#packageIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#packageIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#paintIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#processBrowserIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#projectIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolExtension2IconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolExtension3IconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolExtensionIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolExtensionIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolPrivate2IconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolPrivateIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolPrivateIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolProtected2IconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolProtectedIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolProtectedIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolPublic2IconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolPublicIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#protocolPublicIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#publishIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#recentMessagesIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#recoverLostChanges2IconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#recoverLostChangesIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#recoverLostChangesIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#referencesIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#referencesIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#removeIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#scriptManagerIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallBackIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallCancelIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallCenteredIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallConfigurationIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallCopyIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallCutIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallDebugIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallDebugItIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallDeleteIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallDoItIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallErrorIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallExportIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallFindIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallFontsIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallForwardIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallHelpIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallHierarchyBrowserIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallHomeIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallInfoIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallInspectItIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallJumpIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallLanguageIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallLeftFlushIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallLoadProjectIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallLockIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallNewIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallObjectCatalogIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallObjectsIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallOkIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallOpenIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallPaintIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallPasteIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallPrintIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallPrintItIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallProfileIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallProfileIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallProjectIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallPublishIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallPushpinIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallQuestionIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallQuitIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallRedoIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallRemoteOpenIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallRightFlushIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallSaveAsIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallSaveIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallScreenshotIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallSystemBrowserIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallUndoIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallUpdateIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallWarningIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallWindowIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#testGreenIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#testGreenIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#testNotRunIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#testNotRunIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#testRedIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#testRedIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#testRunnerIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#testYellowIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#testYellowIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#toolsIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#traitIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#traitIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#transcriptIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#uncommentedClassIcon
+Polymorph-Widgets.EclipseUIThemeIcons>>#uncommentedClassIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#userIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#variable_viewIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#versionControlIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#warningIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#widgetIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#windowIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#workspaceIconContents
+Polymorph-Widgets.Pharo3DarkTheme class>>#importGlamorousIcons
+Polymorph-Widgets.Pharo3Theme class>>#importGlamorousIcons
+Polymorph-Widgets.Pharo3UIThemeIcons
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#checkboxMarkerForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#checkboxSelectedForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#checkboxSelectedFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#checkboxUnselectedForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#checkboxUnselectedFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#form16x16FromContents:
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#menuPinForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#menuPinFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioButtonMarkerForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioButtonSelectedForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioButtonSelectedFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioButtonUnselectedForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioButtonUnselectedFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowCloseForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowCloseFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowCloseInactiveForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowCloseInactiveFromContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMaximizeForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMaximizeFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMaximizeInactiveForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMaximizeInactiveFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMenuForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMenuFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMenuInactiveForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMenuInactiveFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMinimizeForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMinimizeFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMinimizeInactiveForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#windowMinimizeInactiveFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons>>#seeClassSide
+Polymorph-Widgets.PharoUIThemeIcons
+Polymorph-Widgets.PharoUIThemeIcons class>>#checkboxMarkerForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#checkboxSelectedForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#checkboxUnselectedForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#iconSetName
+Polymorph-Widgets.PharoUIThemeIcons class>>#isAbstract
+Polymorph-Widgets.PharoUIThemeIcons class>>#menuPinForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#radioButtonMarkerForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#radioButtonSelectedForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#radioButtonUnselectedForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowCloseForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowCloseInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowMaximizeForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowMaximizeInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowMenuForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowMenuInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowMinimizeForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#windowMinimizeInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons>>#checkboxMarkerForm
+Polymorph-Widgets.PharoUIThemeIcons>>#checkboxSelectedForm
+Polymorph-Widgets.PharoUIThemeIcons>>#checkboxSelectedFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#checkboxUnselectedForm
+Polymorph-Widgets.PharoUIThemeIcons>>#checkboxUnselectedFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#form16x16FromContents:
+Polymorph-Widgets.PharoUIThemeIcons>>#menuPinForm
+Polymorph-Widgets.PharoUIThemeIcons>>#menuPinFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#radioButtonMarkerForm
+Polymorph-Widgets.PharoUIThemeIcons>>#radioButtonSelectedForm
+Polymorph-Widgets.PharoUIThemeIcons>>#radioButtonSelectedFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#radioButtonUnselectedForm
+Polymorph-Widgets.PharoUIThemeIcons>>#radioButtonUnselectedFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#windowCloseForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowCloseInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowCloseInactiveFromContents
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMaximizeForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMaximizeInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMaximizeInactiveFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMenuForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMenuFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMenuInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMenuInactiveFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMinimizeForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMinimizeFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMinimizeInactiveForm
+Polymorph-Widgets.PharoUIThemeIcons>>#windowMinimizeInactiveFormContents
+Polymorph-Widgets.ThemeIconPack
 Polymorph-Widgets.ThemeIconPack class>>#availablePacks
 Polymorph-Widgets.ThemeIconPack class>>#baseUrl
+Polymorph-Widgets.ThemeIconPack class>>#current
+Polymorph-Widgets.ThemeIconPack class>>#current:
 Polymorph-Widgets.ThemeIconPack class>>#destinationPath
 Polymorph-Widgets.ThemeIconPack class>>#loadDefault
 Polymorph-Widgets.ThemeIconPack class>>#named:
 Polymorph-Widgets.ThemeIconPack class>>#settingsOn:
+Polymorph-Widgets.ThemeIconPack class>>#uiIconClass
+Polymorph-Widgets.ThemeIconPack class>>#uiIconClass:
+Polymorph-Widgets.ThemeIconPack class>>#uiIconSetChoises
 Polymorph-Widgets.ThemeIconPack>>#beCurrent
 Polymorph-Widgets.ThemeIconPack>>#blankIcon
 Polymorph-Widgets.ThemeIconPack>>#blankIconOfWidth:
 Polymorph-Widgets.ThemeIconPack>>#doesNotUnderstand:
 Polymorph-Widgets.ThemeIconPack>>#downloadTo:
+Polymorph-Widgets.ThemeIconPack>>#form16x16FromContents:
 Polymorph-Widgets.ThemeIconPack>>#hasIcons
+Polymorph-Widgets.ThemeIconPack>>#iconNamed:
+Polymorph-Widgets.ThemeIconPack>>#iconNamed:ifNone:
 Polymorph-Widgets.ThemeIconPack>>#icons
 Polymorph-Widgets.ThemeIconPack>>#loadIconsFromUrl
 Polymorph-Widgets.ThemeIconPack>>#name
 Polymorph-Widgets.ThemeIconPack>>#name:
 Polymorph-Widgets.ThemeIconPack>>#printOn:
 Polymorph-Widgets.ThemeIconPack>>#readPNGFrom:
+Polymorph-Widgets.ThemeIconPack>>#url
 Polymorph-Widgets.ThemeIcons
+Polymorph-Widgets.ThemeIcons class>>#allIconSetClasses
 Polymorph-Widgets.ThemeIcons class>>#availablePacks
+Polymorph-Widgets.ThemeIcons class>>#cleanUp
 Polymorph-Widgets.ThemeIcons class>>#createFetchButtonUpdating:
 Polymorph-Widgets.ThemeIcons class>>#createIconPackList
 Polymorph-Widgets.ThemeIcons class>>#createSettingRow
 Polymorph-Widgets.ThemeIcons class>>#current
 Polymorph-Widgets.ThemeIcons class>>#current:
+Polymorph-Widgets.ThemeIcons class>>#haloScaleIconContents
+Polymorph-Widgets.ThemeIcons class>>#iconNamed:
+Polymorph-Widgets.ThemeIcons class>>#iconNamed:ifNone:
+Polymorph-Widgets.ThemeIcons class>>#iconSetName
+Polymorph-Widgets.ThemeIcons class>>#isAbstract
+Polymorph-Widgets.ThemeIcons class>>#normalSizeNames
+Polymorph-Widgets.ThemeIcons class>>#smallSizeNames
 Polymorph-Widgets.ThemeIcons class>>#uiFetchPacks
 Polymorph-Widgets.ThemeIcons class>>#wrapIconPack:
+Polymorph-Widgets.ThemeIcons>>#backIcon
+Polymorph-Widgets.ThemeIcons>>#backIconContents
+Polymorph-Widgets.ThemeIcons>>#base64ContentsOfFileNamed:
 Polymorph-Widgets.ThemeIcons>>#beNotReportNotFound
 Polymorph-Widgets.ThemeIcons>>#beReportNotFound
+Polymorph-Widgets.ThemeIcons>>#blankIcon
+Polymorph-Widgets.ThemeIcons>>#blankIconContents
+Polymorph-Widgets.ThemeIcons>>#bottomIcon
+Polymorph-Widgets.ThemeIcons>>#bottomIconContents
+Polymorph-Widgets.ThemeIcons>>#calendarIcon
+Polymorph-Widgets.ThemeIcons>>#calendarIconContents
+Polymorph-Widgets.ThemeIcons>>#changeAddIcon
+Polymorph-Widgets.ThemeIcons>>#changeBlockIcon
+Polymorph-Widgets.ThemeIcons>>#changeEmptyIcon
+Polymorph-Widgets.ThemeIcons>>#changeRemoveIcon
+Polymorph-Widgets.ThemeIcons>>#changeSorterIcon
+Polymorph-Widgets.ThemeIcons>>#changeSorterIconContents
+Polymorph-Widgets.ThemeIcons>>#changeUpdateIcon
+Polymorph-Widgets.ThemeIcons>>#checkBoxOffIcon
+Polymorph-Widgets.ThemeIcons>>#checkBoxOnIcon
+Polymorph-Widgets.ThemeIcons>>#checkBoxPressedIcon
+Polymorph-Widgets.ThemeIcons>>#checkBoxPressedIconContents
+Polymorph-Widgets.ThemeIcons>>#checkedBoxIcon
+Polymorph-Widgets.ThemeIcons>>#checkedBoxIconContents
+Polymorph-Widgets.ThemeIcons>>#commentsIcon
+Polymorph-Widgets.ThemeIcons>>#configurationIcon
+Polymorph-Widgets.ThemeIcons>>#configurationIconContents
+Polymorph-Widgets.ThemeIcons>>#confirmIcon
+Polymorph-Widgets.ThemeIcons>>#confirmIconContents
+Polymorph-Widgets.ThemeIcons>>#createIconMethodsFromDirectory:
+Polymorph-Widgets.ThemeIcons>>#createIconMethodsFromFile:directory:
 Polymorph-Widgets.ThemeIcons>>#defaultUrl
+Polymorph-Widgets.ThemeIcons>>#downIcon
+Polymorph-Widgets.ThemeIcons>>#downIconContents
 Polymorph-Widgets.ThemeIcons>>#downloadFromUrl
+Polymorph-Widgets.ThemeIcons>>#emptyIcon
+Polymorph-Widgets.ThemeIcons>>#errorIcon
+Polymorph-Widgets.ThemeIcons>>#expandBoxIcon
+Polymorph-Widgets.ThemeIcons>>#exportAllIconsAsGif
+Polymorph-Widgets.ThemeIcons>>#exportAllIconsAsPNG
+Polymorph-Widgets.ThemeIcons>>#exportIcon:asGifNamed:
+Polymorph-Widgets.ThemeIcons>>#exportIcon:asPNGNamed:
+Polymorph-Widgets.ThemeIcons>>#exportIconPackOn:
+Polymorph-Widgets.ThemeIcons>>#eyedropperIcon
+Polymorph-Widgets.ThemeIcons>>#forwardIcon
+Polymorph-Widgets.ThemeIcons>>#forwardIconContents
+Polymorph-Widgets.ThemeIcons>>#fullscreenIcon
+Polymorph-Widgets.ThemeIcons>>#haloCollapseIcon
+Polymorph-Widgets.ThemeIcons>>#haloDebugIcon
+Polymorph-Widgets.ThemeIcons>>#haloDismissIcon
+Polymorph-Widgets.ThemeIcons>>#haloDragIcon
+Polymorph-Widgets.ThemeIcons>>#haloDupIcon
+Polymorph-Widgets.ThemeIcons>>#haloFontEmphIcon
+Polymorph-Widgets.ThemeIcons>>#haloFontSizeIcon
+Polymorph-Widgets.ThemeIcons>>#haloFontStyleIcon
+Polymorph-Widgets.ThemeIcons>>#haloGrabIcon
+Polymorph-Widgets.ThemeIcons>>#haloHelpIcon
+Polymorph-Widgets.ThemeIcons>>#haloMenuIcon
+Polymorph-Widgets.ThemeIcons>>#haloPaintIcon
+Polymorph-Widgets.ThemeIcons>>#haloRecolorIcon
+Polymorph-Widgets.ThemeIcons>>#haloRotIcon
+Polymorph-Widgets.ThemeIcons>>#haloScaleIcon
+Polymorph-Widgets.ThemeIcons>>#haloScaleIconContents
+Polymorph-Widgets.ThemeIcons>>#haloViewIcon
+Polymorph-Widgets.ThemeIcons>>#helpIcon
+Polymorph-Widgets.ThemeIcons>>#helpIconContents
+Polymorph-Widgets.ThemeIcons>>#hierarchyIcon
+Polymorph-Widgets.ThemeIcons>>#homeIcon
+Polymorph-Widgets.ThemeIcons>>#homeIconContents
 Polymorph-Widgets.ThemeIcons>>#iconNamed:
 Polymorph-Widgets.ThemeIcons>>#iconNamed:ifNone:
+Polymorph-Widgets.ThemeIcons>>#iconSelectors
+Polymorph-Widgets.ThemeIcons>>#imageIcon
+Polymorph-Widgets.ThemeIcons>>#imageIconContents
+Polymorph-Widgets.ThemeIcons>>#infoIcon
+Polymorph-Widgets.ThemeIcons>>#initialize
+Polymorph-Widgets.ThemeIcons>>#initializeIcons
 Polymorph-Widgets.ThemeIcons>>#isReportingNotFound
+Polymorph-Widgets.ThemeIcons>>#jumpIcon
+Polymorph-Widgets.ThemeIcons>>#jumpIconContents
+Polymorph-Widgets.ThemeIcons>>#lockIcon
+Polymorph-Widgets.ThemeIcons>>#lockIconContents
+Polymorph-Widgets.ThemeIcons>>#normalSizeNames
 Polymorph-Widgets.ThemeIcons>>#notFoundIcon
+Polymorph-Widgets.ThemeIcons>>#objectsIcon
+Polymorph-Widgets.ThemeIcons>>#objectsIconContents
+Polymorph-Widgets.ThemeIcons>>#openIcon
+Polymorph-Widgets.ThemeIcons>>#openIconContents
+Polymorph-Widgets.ThemeIcons>>#paintIcon
+Polymorph-Widgets.ThemeIcons>>#paintIconContents
+Polymorph-Widgets.ThemeIcons>>#paintingIcon
+Polymorph-Widgets.ThemeIcons>>#partialCheckedBoxIcon
+Polymorph-Widgets.ThemeIcons>>#partialCheckedBoxIconContents
+Polymorph-Widgets.ThemeIcons>>#pharoIcon
+Polymorph-Widgets.ThemeIcons>>#processBrowserIcon
+Polymorph-Widgets.ThemeIcons>>#processBrowserIconContents
+Polymorph-Widgets.ThemeIcons>>#publishIcon
+Polymorph-Widgets.ThemeIcons>>#publishIconContents
+Polymorph-Widgets.ThemeIcons>>#questionIcon
+Polymorph-Widgets.ThemeIcons>>#radioButtonOffIcon
+Polymorph-Widgets.ThemeIcons>>#radioButtonOnIcon
+Polymorph-Widgets.ThemeIcons>>#radioButtonPressedIcon
+Polymorph-Widgets.ThemeIcons>>#readIconMethodsFromDirectory:
+Polymorph-Widgets.ThemeIcons>>#recentMessagesIcon
+Polymorph-Widgets.ThemeIcons>>#recentMessagesIconContents
+Polymorph-Widgets.ThemeIcons>>#recoverLostChangesIcon
+Polymorph-Widgets.ThemeIcons>>#referencesIcon
+Polymorph-Widgets.ThemeIcons>>#removeIconContents
+Polymorph-Widgets.ThemeIcons>>#rotateIcon
+Polymorph-Widgets.ThemeIcons>>#scaleIcon
+Polymorph-Widgets.ThemeIcons>>#scriptManagerIcon
+Polymorph-Widgets.ThemeIcons>>#scriptManagerIconContents
+Polymorph-Widgets.ThemeIcons>>#selectorToIconName:
+Polymorph-Widgets.ThemeIcons>>#selectorsAndIcons
+Polymorph-Widgets.ThemeIcons>>#smallAddIcon
+Polymorph-Widgets.ThemeIcons>>#smallAddIconContents
+Polymorph-Widgets.ThemeIcons>>#smallAuthoringToolsIcon
+Polymorph-Widgets.ThemeIcons>>#smallAuthoringToolsIconContents
+Polymorph-Widgets.ThemeIcons>>#smallBackIcon
+Polymorph-Widgets.ThemeIcons>>#smallBackIconContents
+Polymorph-Widgets.ThemeIcons>>#smallBackIconGray
+Polymorph-Widgets.ThemeIcons>>#smallBarcodeIcon
+Polymorph-Widgets.ThemeIcons>>#smallBoldIcon
+Polymorph-Widgets.ThemeIcons>>#smallCancelIcon
+Polymorph-Widgets.ThemeIcons>>#smallCancelIconContents
+Polymorph-Widgets.ThemeIcons>>#smallCenteredIcon
+Polymorph-Widgets.ThemeIcons>>#smallCenteredIconContents
+Polymorph-Widgets.ThemeIcons>>#smallConfigurationIcon
+Polymorph-Widgets.ThemeIcons>>#smallConfigurationIconContents
+Polymorph-Widgets.ThemeIcons>>#smallCopyIcon
+Polymorph-Widgets.ThemeIcons>>#smallCopyIconContents
+Polymorph-Widgets.ThemeIcons>>#smallCutIcon
+Polymorph-Widgets.ThemeIcons>>#smallCutIconContents
+Polymorph-Widgets.ThemeIcons>>#smallDebugIcon
+Polymorph-Widgets.ThemeIcons>>#smallDebugIconContents
+Polymorph-Widgets.ThemeIcons>>#smallDebugItIcon
+Polymorph-Widgets.ThemeIcons>>#smallDebugItIconContents
+Polymorph-Widgets.ThemeIcons>>#smallDeleteIcon
+Polymorph-Widgets.ThemeIcons>>#smallDeleteIconContents
+Polymorph-Widgets.ThemeIcons>>#smallDoItIcon
+Polymorph-Widgets.ThemeIcons>>#smallDoItIconContents
+Polymorph-Widgets.ThemeIcons>>#smallErrorIcon
+Polymorph-Widgets.ThemeIcons>>#smallErrorIconContents
+Polymorph-Widgets.ThemeIcons>>#smallExpertIcon
+Polymorph-Widgets.ThemeIcons>>#smallExportIcon
+Polymorph-Widgets.ThemeIcons>>#smallExportIconContents
+Polymorph-Widgets.ThemeIcons>>#smallFindIcon
+Polymorph-Widgets.ThemeIcons>>#smallFindIconContents
+Polymorph-Widgets.ThemeIcons>>#smallFontsIcon
+Polymorph-Widgets.ThemeIcons>>#smallForwardIcon
+Polymorph-Widgets.ThemeIcons>>#smallForwardIconContents
+Polymorph-Widgets.ThemeIcons>>#smallForwardIconGray
+Polymorph-Widgets.ThemeIcons>>#smallFullscreenIcon
+Polymorph-Widgets.ThemeIcons>>#smallHelpIcon
+Polymorph-Widgets.ThemeIcons>>#smallHelpIconContents
+Polymorph-Widgets.ThemeIcons>>#smallHierarchyBrowserIcon
+Polymorph-Widgets.ThemeIcons>>#smallHierarchyBrowserIconContents
+Polymorph-Widgets.ThemeIcons>>#smallHomeIcon
+Polymorph-Widgets.ThemeIcons>>#smallHomeIconContents
+Polymorph-Widgets.ThemeIcons>>#smallInfoIcon
+Polymorph-Widgets.ThemeIcons>>#smallInfoIconContents
+Polymorph-Widgets.ThemeIcons>>#smallInspectItIcon
+Polymorph-Widgets.ThemeIcons>>#smallInspectItIconContents
+Polymorph-Widgets.ThemeIcons>>#smallItalicIcon
+Polymorph-Widgets.ThemeIcons>>#smallJumpIcon
+Polymorph-Widgets.ThemeIcons>>#smallJumpIconContents
+Polymorph-Widgets.ThemeIcons>>#smallJumpIconGray
+Polymorph-Widgets.ThemeIcons>>#smallJustifiedIcon
+Polymorph-Widgets.ThemeIcons>>#smallJustifiedIconContents
+Polymorph-Widgets.ThemeIcons>>#smallLanguageIcon
+Polymorph-Widgets.ThemeIcons>>#smallLanguageIconContents
+Polymorph-Widgets.ThemeIcons>>#smallLeftFlushIcon
+Polymorph-Widgets.ThemeIcons>>#smallLeftFlushIconContents
+Polymorph-Widgets.ThemeIcons>>#smallLoadProjectIcon
+Polymorph-Widgets.ThemeIcons>>#smallLoadProjectIconContents
+Polymorph-Widgets.ThemeIcons>>#smallLockIcon
+Polymorph-Widgets.ThemeIcons>>#smallLockIconContents
+Polymorph-Widgets.ThemeIcons>>#smallNewIcon
+Polymorph-Widgets.ThemeIcons>>#smallNewIconContents
+Polymorph-Widgets.ThemeIcons>>#smallObjectsIcon
+Polymorph-Widgets.ThemeIcons>>#smallObjectsIconContents
+Polymorph-Widgets.ThemeIcons>>#smallOkIcon
+Polymorph-Widgets.ThemeIcons>>#smallOkIconContents
+Polymorph-Widgets.ThemeIcons>>#smallOpenIcon
+Polymorph-Widgets.ThemeIcons>>#smallOpenIconContents
+Polymorph-Widgets.ThemeIcons>>#smallPaintIcon
+Polymorph-Widgets.ThemeIcons>>#smallPaintIconContents
+Polymorph-Widgets.ThemeIcons>>#smallPasteIcon
+Polymorph-Widgets.ThemeIcons>>#smallPasteIconContents
+Polymorph-Widgets.ThemeIcons>>#smallPrintIcon
+Polymorph-Widgets.ThemeIcons>>#smallPrintIconContents
+Polymorph-Widgets.ThemeIcons>>#smallPrintItIcon
+Polymorph-Widgets.ThemeIcons>>#smallPrintItIconContents
+Polymorph-Widgets.ThemeIcons>>#smallProfileIcon
+Polymorph-Widgets.ThemeIcons>>#smallPublishIcon
+Polymorph-Widgets.ThemeIcons>>#smallPublishIconContents
+Polymorph-Widgets.ThemeIcons>>#smallPushpinIcon
+Polymorph-Widgets.ThemeIcons>>#smallPushpinIconContents
+Polymorph-Widgets.ThemeIcons>>#smallQuestionIcon
+Polymorph-Widgets.ThemeIcons>>#smallQuestionIconContents
+Polymorph-Widgets.ThemeIcons>>#smallQuitIcon
+Polymorph-Widgets.ThemeIcons>>#smallQuitIconContents
+Polymorph-Widgets.ThemeIcons>>#smallRedoIcon
+Polymorph-Widgets.ThemeIcons>>#smallRedoIconContents
+Polymorph-Widgets.ThemeIcons>>#smallRemoteOpenIcon
+Polymorph-Widgets.ThemeIcons>>#smallRemoteOpenIconContents
+Polymorph-Widgets.ThemeIcons>>#smallRightFlushIcon
+Polymorph-Widgets.ThemeIcons>>#smallRightFlushIconContents
+Polymorph-Widgets.ThemeIcons>>#smallSaveAsIcon
+Polymorph-Widgets.ThemeIcons>>#smallSaveAsIconContents
+Polymorph-Widgets.ThemeIcons>>#smallSaveIcon
+Polymorph-Widgets.ThemeIcons>>#smallSaveIconContents
+Polymorph-Widgets.ThemeIcons>>#smallScreenshotIcon
+Polymorph-Widgets.ThemeIcons>>#smallScreenshotIconContents
+Polymorph-Widgets.ThemeIcons>>#smallSelectIcon
+Polymorph-Widgets.ThemeIcons>>#smallSizeNames
+Polymorph-Widgets.ThemeIcons>>#smallStrikeOutIcon
+Polymorph-Widgets.ThemeIcons>>#smallSystemBrowserIcon
+Polymorph-Widgets.ThemeIcons>>#smallSystemBrowserIconContents
+Polymorph-Widgets.ThemeIcons>>#smallUnderlineIcon
+Polymorph-Widgets.ThemeIcons>>#smallUndoIcon
+Polymorph-Widgets.ThemeIcons>>#smallUndoIconContents
+Polymorph-Widgets.ThemeIcons>>#smallUpdateIcon
+Polymorph-Widgets.ThemeIcons>>#smallUpdateIconContents
+Polymorph-Widgets.ThemeIcons>>#smallVolumeIcon
+Polymorph-Widgets.ThemeIcons>>#smallWarningIcon
+Polymorph-Widgets.ThemeIcons>>#smallWarningIconContents
+Polymorph-Widgets.ThemeIcons>>#smallWindowIcon
+Polymorph-Widgets.ThemeIcons>>#smallWindowIconContents
+Polymorph-Widgets.ThemeIcons>>#solidMenuIcon
+Polymorph-Widgets.ThemeIcons>>#stopIcon
+Polymorph-Widgets.ThemeIcons>>#stopIconContents
+Polymorph-Widgets.ThemeIcons>>#storeIconMethodFor:
+Polymorph-Widgets.ThemeIcons>>#testRunnerIcon
+Polymorph-Widgets.ThemeIcons>>#testRunnerIconContents
+Polymorph-Widgets.ThemeIcons>>#tinyMenuIcon
+Polymorph-Widgets.ThemeIcons>>#toolsIcon
+Polymorph-Widgets.ThemeIcons>>#toolsIconContents
+Polymorph-Widgets.ThemeIcons>>#topIcon
+Polymorph-Widgets.ThemeIcons>>#topIconContents
+Polymorph-Widgets.ThemeIcons>>#traitRequiredMethodIcon
+Polymorph-Widgets.ThemeIcons>>#traitRequiredMethodIconContents
+Polymorph-Widgets.ThemeIcons>>#transcriptIcon
+Polymorph-Widgets.ThemeIcons>>#transcriptIconContents
+Polymorph-Widgets.ThemeIcons>>#uncheckedBoxIcon
+Polymorph-Widgets.ThemeIcons>>#uncheckedBoxIconContents
+Polymorph-Widgets.ThemeIcons>>#upArrowIcon
+Polymorph-Widgets.ThemeIcons>>#upIcon
+Polymorph-Widgets.ThemeIcons>>#upIconContents
 Polymorph-Widgets.ThemeIcons>>#url
 Polymorph-Widgets.ThemeIcons>>#url:
+Polymorph-Widgets.ThemeIcons>>#userIcon
+Polymorph-Widgets.ThemeIcons>>#userIconContents
+Polymorph-Widgets.ThemeIcons>>#versionControlIcon
+Polymorph-Widgets.ThemeIcons>>#versionControlIconContents
+Polymorph-Widgets.ThemeIcons>>#volumeIcon
+Polymorph-Widgets.ThemeIcons>>#warningIcon
+Polymorph-Widgets.ThemeIcons>>#warningIconContents
+Polymorph-Widgets.ThemeIcons>>#windowCloseForm
+Polymorph-Widgets.ThemeIcons>>#windowCloseFormContents
+Polymorph-Widgets.ThemeIcons>>#windowIcon
+Polymorph-Widgets.ThemeIcons>>#windowIconContents
+Polymorph-Widgets.ThemeIcons>>#windowMaximizeForm
+Polymorph-Widgets.ThemeIcons>>#windowMaximizeFormContents
+Polymorph-Widgets.ThemeIcons>>#workspaceIcon
+Polymorph-Widgets.ThemeIcons>>#workspaceIconContents
+Polymorph-Widgets.WateryThemeIcons
+Polymorph-Widgets.WateryThemeIcons class>>#normalSizeNames
+Polymorph-Widgets.WateryThemeIcons class>>#smallSizeNames
+Polymorph-Widgets.WateryThemeIcons>>#normalSizeNames
+Polymorph-Widgets.WateryThemeIcons>>#smallSizeNames
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50367
+ScriptLoader50.ScriptLoader>>#update50367
 ScriptLoader50.ScriptLoader>>#update50368
+Spec-Tools.ThemeIcons>>#keymapBrowserIcon
+Spec-Tools.ThemeIcons>>#keymapBrowserIconContents

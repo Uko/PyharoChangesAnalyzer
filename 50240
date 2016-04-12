@@ -22,5 +22,6 @@ RPackage-Core.RPackage>>#removeProperty:ifAbsent:
 RPackage-Tests.RPackageTest>>#testPropertyAtPut
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50239
+ScriptLoader50.ScriptLoader>>#update50239
 ScriptLoader50.ScriptLoader>>#update50240
 Slot.Slot>>#properties

@@ -27,6 +27,8 @@ Collections-Tests.StringTest>>#testFindString
 Collections-Tests.StringTest>>#testFindStringStartingAt
 Collections-Tests.StringTest>>#testLessThan
 Kernel.Delay class>>#initialize
+Morphic-Core.Morph>>#colorString:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50584
+ScriptLoader50.ScriptLoader>>#update50584
 ScriptLoader50.ScriptLoader>>#update50585

@@ -6,4 +6,5 @@ Reflectivity.HookGenerator>>#hookFor:
 Reflectivity.MetaLink>>#metaObject:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50347
+ScriptLoader50.ScriptLoader>>#update50347
 ScriptLoader50.ScriptLoader>>#update50348

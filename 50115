@@ -1,9 +1,13 @@
 AsmJit-Instructions.AJInstruction>>#insert:
 Kernel.Class>>#fileOutOn:initializing:
+Kernel.Class>>#fileOutOn:moveSource:toFile:initializing:
 Kernel.ClassOrganization>>#fileOutCommentOn:
+Kernel.ClassOrganization>>#fileOutCommentOn:moveSource:toFile:
 Kernel.ClassOrganization>>#putCommentOnFile:numbered:moveSource:forClass:
 Kernel.Metaclass>>#fileOutOn:
 Kernel.Metaclass>>#fileOutOn:initializing:
+Kernel.Metaclass>>#fileOutOn:moveSource:toFile:
+Kernel.Metaclass>>#fileOutOn:moveSource:toFile:initializing:
 KernelTests.MetaclassTest>>#testMetaclassAndTraitClassRespectsPolymorphismRules
 Manifest-CriticBrowser.CriticBrowser
 Manifest-CriticBrowser.CriticBrowser class>>#criticsBrowserMenuOn:
@@ -122,6 +126,23 @@ Manifest-CriticBrowser.CriticsCache>>#removeToDo:forRule:
 Manifest-CriticBrowser.CriticsCache>>#replaceAll:by:
 Manifest-CriticBrowser.CriticsCache>>#toDosOf:
 Manifest-CriticBrowser.CriticsCache>>#updateBrowser
+Manifest-CriticBrowser.ManifestManifestCriticBrowser
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#rejectClasses
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#rejectRules
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleBadMessageRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleCodeCruftLeftInMethodsRuleV1TODO
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleCollectionMessagesToExternalObjectRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleEquivalentSuperclassMethodsRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleGuardClauseRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleImplementedNotSentRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleMissingSubclassResponsibilityRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleMissingYourselfRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleOnlyReadOrWrittenTemporaryRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleOnlyReadOrWrittenVariableRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleReturnsIfTrueRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleSentNotImplementedRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleSubclassResponsibilityNotDefinedRuleV1FalsePositive
+Manifest-CriticBrowser.ManifestManifestCriticBrowser class>>#ruleTemporaryVariableCapitalizationRuleV1FalsePositive
 Manifest-CriticBrowser.RBMultiEnvironment>>#isMultiEnvironment
 Manifest-CriticBrowser.RBMultiEnvironment>>#removeClass:
 Manifest-CriticBrowser.RBMultiEnvironment>>#smallLintCritics
@@ -238,6 +259,7 @@ MonticelloGUI.MCCodeTool>>#fileOutMessage
 Morphic-Widgets-Taskbar.TaskListMorph>>#newPreviewMorph
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50114
+ScriptLoader50.ScriptLoader>>#update50114
 ScriptLoader50.ScriptLoader>>#update50115
 Spec-MorphicAdapters.MorphicWindowAdapter>>#title
 System-Changes.ChangeSet>>#fileOutClassDefinition:on:
@@ -246,10 +268,16 @@ Tool-FileList.FileList>>#readOnlyStream
 Traits.TClass>>#fileOut
 Traits.TClass>>#fileOutOn:
 Traits.TClass>>#fileOutOn:initializing:
+Traits.TClass>>#fileOutOn:moveSource:toFile:
+Traits.TClass>>#fileOutOn:moveSource:toFile:initializing:
 Traits.TClassDescription>>#fileOutCategory:
 Traits.TClassDescription>>#fileOutCategory:on:moveSource:toFile:
 Traits.TClassDescription>>#fileOutChangedMessages:on:
+Traits.TClassDescription>>#fileOutChangedMessages:on:moveSource:
 Traits.TClassDescription>>#fileOutMethod:on:
 Traits.TClassDescription>>#fileOutOn:
+Traits.TClassDescription>>#fileOutOn:moveSource:toFile:
 Traits.TClassDescription>>#printMethodChunk:on:
+Traits.TClassDescription>>#printMethodChunk:withPreamble:on:moveSource:toFile:
 Traits.Trait>>#fileOutOn:initializing:
+Traits.Trait>>#fileOutOn:moveSource:toFile:initializing:

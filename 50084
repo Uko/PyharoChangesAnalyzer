@@ -2,7 +2,9 @@ Kernel.UndefinedObject>>#classBuilder
 Kernel.UndefinedObject>>#classInstaller
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50083
+ScriptLoader50.ScriptLoader>>#update50083
 ScriptLoader50.ScriptLoader>>#update50084
+Slot.OldClassBuilderAdapter
 Slot.SmalltalkImage>>#classBuilder
 Slot.SmalltalkImage>>#classInstaller
 Slot.String>>#isLegalClassName

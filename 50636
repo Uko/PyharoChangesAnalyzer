@@ -1,0 +1,24 @@
+DebuggerActions.DebugAction>>#execute
+DebuggerActions.DebugAction>>#notifyDebuggingActionAboutToExecute
+DebuggerActions.DebugAction>>#preAction
+DebuggerActions.DebugActionAboutToExecute
+DebuggerActions.DebugActionAboutToExecute class>>#forDebuggingAction:
+DebuggerActions.DebugActionAboutToExecute>>#action
+DebuggerActions.DebugActionAboutToExecute>>#action:
+Kernel.Context>>#isFailToken:
+Kernel.Context>>#isPrimFailToken:
+MonticelloFileTree-Core.MCFileRepositoryInspector>>#refresh
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50635
+ScriptLoader50.ScriptLoader>>#update50635
+ScriptLoader50.ScriptLoader>>#update50636
+Text-Core.TextClassLink>>#=
+Text-Core.TextClassLink>>#hash
+Text-Core.TextLink>>#=
+Text-Core.TextLink>>#hash
+Text-Core.TextMethodLink
+Text-Core.TextMethodLink>>#=
+Text-Core.TextMethodLink>>#browseSenders
+Text-Core.TextMethodLink>>#hash
+Text-Core.TextVariableLink>>#=
+Text-Core.TextVariableLink>>#hash

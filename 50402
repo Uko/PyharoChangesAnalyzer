@@ -1,6 +1,10 @@
 Collections-Abstract.Collection
+Collections-Abstract.Collection class>>#initialize
+Collections-Abstract.Collection class>>#mutexForPicking
+Collections-Abstract.Collection class>>#randomForPicking
 Morphic-Base.MenuMorph class>>#example
 Network-Kernel.SocketStream class>>#finger:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50401
+ScriptLoader50.ScriptLoader>>#update50401
 ScriptLoader50.ScriptLoader>>#update50402

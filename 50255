@@ -10,6 +10,7 @@ Refactoring-Critics.RBSmalltalkGlobalsRule>>#initialize
 Refactoring-Critics.RBSmalltalkGlobalsRule>>#name
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50254
+ScriptLoader50.ScriptLoader>>#update50254
 ScriptLoader50.ScriptLoader>>#update50255
 Slot-Tests.TemporaryVariableTest
 Slot-Tests.TemporaryVariableTest>>#testHasTemporaryVariablesBlock
@@ -35,6 +36,10 @@ Slot.TemporaryVariable>>#name:
 Slot.TemporaryVariable>>#readInContext:
 Slot.TemporaryVariable>>#write:InContext:
 Spec-Core.TextModel>>#getMenu
+Spec-Debugger.SpecDebugger>>#codeContextMenu:shifted:
 Spec-Debugger.SpecDebugger>>#initializeWidgets
 Tool-Finder.FinderUI>>#buildSourceTextArea
+Tool-Finder.FinderUI>>#msgPaneMenu:shifted:
+Tool-Workspace.Workspace>>#shiftedYellowButtonMenu
+Tool-Workspace.Workspace>>#yellowButtonMenu
 Traits.TClass>>#classInstaller

@@ -9,6 +9,7 @@ Rubric.RubTextEditor class>>#buildShortcutsOn:
 Rubric.RubWorkspaceExample class>>#exampleWithCustomShortcut
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50579
+ScriptLoader50.ScriptLoader>>#update50579
 ScriptLoader50.ScriptLoader>>#update50580
 SmartSuggestions.SugsSyntaxErrorDebuggerContext
 SmartSuggestions.SugsSyntaxErrorDebuggerContext>>#selectedClass

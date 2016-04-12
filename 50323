@@ -26,6 +26,7 @@ NautilusCommon.NautilusSelectionAnnouncement
 Polymorph-Widgets.MorphicUIManager>>#showWaitCursorWhile:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50322
+ScriptLoader50.ScriptLoader>>#update50322
 ScriptLoader50.ScriptLoader>>#update50323
 System-Changes.ChangeRecord>>#fileIn
 System-Changes.ChangeSet>>#fileOut

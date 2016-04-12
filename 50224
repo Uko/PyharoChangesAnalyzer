@@ -13,7 +13,9 @@ Nautilus.AbstractNautilusUI>>#browseVariablesButtonEnabled
 Nautilus.AbstractNautilusUI>>#browseVariablesButtonLabel
 Nautilus.AbstractNautilusUI>>#browseVariablesButtonState
 Nautilus.AbstractNautilusUI>>#buildBrowseScopedButton
+Nautilus.AbstractNautilusUI>>#buildBrowseScopedMorph
 Nautilus.AbstractNautilusUI>>#buildBrowseVariablesButton
+Nautilus.AbstractNautilusUI>>#buildBrowseVariablesMorph
 Nautilus.AbstractNautilusUI>>#buildButtonsBar
 Nautilus.AbstractNautilusUI>>#buildColumns:height:
 Nautilus.AbstractNautilusUI>>#buildCommentButton
@@ -26,19 +28,32 @@ Nautilus.AbstractNautilusUI>>#buildNavigationPreviousButton
 Nautilus.AbstractNautilusUI>>#buildSecondColumn:
 Nautilus.AbstractNautilusUI>>#buildTopBarOn:height:
 Nautilus.AbstractNautilusUI>>#buttonsBarHeight
+Nautilus.AbstractNautilusUI>>#changedLabels
+Nautilus.AbstractNautilusUI>>#classLabel
+Nautilus.AbstractNautilusUI>>#commentButtonAction
 Nautilus.AbstractNautilusUI>>#commentButtonAction:
 Nautilus.AbstractNautilusUI>>#commentButtonIcon
 Nautilus.AbstractNautilusUI>>#commentButtonLabel
+Nautilus.AbstractNautilusUI>>#commentLabel
+Nautilus.AbstractNautilusUI>>#hierarchyButtonAction
 Nautilus.AbstractNautilusUI>>#hierarchyButtonAction:
 Nautilus.AbstractNautilusUI>>#hierarchyButtonIcon
 Nautilus.AbstractNautilusUI>>#hierarchyButtonLabel
+Nautilus.AbstractNautilusUI>>#instanceButtonAction
 Nautilus.AbstractNautilusUI>>#instanceButtonAction:
 Nautilus.AbstractNautilusUI>>#instanceButtonIcon
 Nautilus.AbstractNautilusUI>>#instanceButtonLabel
 Nautilus.AbstractNautilusUI>>#selectedPackageWithoutChangingSelection:
 Nautilus.AbstractNautilusUI>>#selectedPackageWithoutChangingSelectionInternally:
 Nautilus.AbstractNautilusUI>>#showHierarchy:
+Nautilus.AbstractNautilusUI>>#warningLimit
+Nautilus.ManifestNautilus
+Nautilus.ManifestNautilus class>>#ruleRBClassNotReferencedRuleV1FalsePositive
+Nautilus.ManifestNautilus class>>#ruleRBMissingYourselfRuleV1FalsePositive
 Nautilus.Nautilus class>>#nautilusSettingsOn:
+Nautilus.Nautilus class>>#warningLimit
+Nautilus.Nautilus class>>#warningLimit:
+Nautilus.Nautilus>>#warningLimit
 Nautilus.NautilusAnnotationDisplayer
 Nautilus.NautilusUI>>#updateOnClassSelection
 Nautilus.PackageTreeNautilusUI>>#buildFirstColumn:
@@ -76,6 +91,7 @@ Reflectivity.RGMethodDefinition>>#invalidate
 Reflectivity.RGMethodDefinition>>#removeLink
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50223
+ScriptLoader50.ScriptLoader>>#update50223
 ScriptLoader50.ScriptLoader>>#update50224
 Spec-Core.ContainerModel>>#isSpecContainer
 Spec-Core.Object>>#isSpecContainer

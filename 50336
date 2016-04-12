@@ -6,6 +6,7 @@ ContributingToTheCatalogHelp.ContributingToTheCatalogHelp class>>#pages
 Fuel.FLLargeIdentityDictionary>>#at:ifPresent:ifAbsent:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50335
+ScriptLoader50.ScriptLoader>>#update50335
 ScriptLoader50.ScriptLoader>>#update50336
 System-Announcements.ManifestSystemAnnouncements class>>#ignoredDependencies
 System-Hashing.SHA1>>#initializeTotalsArray

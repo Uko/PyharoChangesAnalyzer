@@ -1,5 +1,7 @@
+Kernel.Number>>#asB3DVector3
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50411
+ScriptLoader50.ScriptLoader>>#update50411
 ScriptLoader50.ScriptLoader>>#update50412
 StartupPreferences.StartupPreferencesLoader class>>#startupGeneralPrefererencesFolderMenuOn:
 StartupPreferences.StartupPreferencesLoader class>>#startupLoaderMenuOn:

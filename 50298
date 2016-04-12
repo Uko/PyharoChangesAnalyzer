@@ -18,6 +18,8 @@ BalloonTests.ShortIntegerArrayTest>>#testSwapBytePairs
 BalloonTests.ShortIntegerArrayTest>>#testWriteBigEndianOn
 BalloonTests.ShortIntegerArrayTest>>#testWriteLittleEndianOn
 Collections-Abstract.ManifestCollectionsAbstract class>>#manuallyResolvedDependencies
+Jobs.ManifestJobs class>>#ignoredDependencies
+Jobs.ManifestJobs class>>#manuallyResolvedDependencies
 Kernel.ManifestKernel class>>#ignoredDependencies
 Kernel.ManifestKernel class>>#manuallyResolvedDependencies
 NetworkTests.Base64MimeConverterTest
@@ -143,6 +145,7 @@ NetworkTests.UUIDTest
 NetworkTests.UUIDTest>>#testComparison
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50297
+ScriptLoader50.ScriptLoader>>#update50297
 ScriptLoader50.ScriptLoader>>#update50298
 Spec-Core.TabManagerModel>>#basicRemoveTab:
 Spec-Core.TabManagerModel>>#initialize

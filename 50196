@@ -30,6 +30,7 @@ Rubric.RubVerticalScrolled>>#scrollValue
 Rubric.RubVerticalScrolled>>#scrollValue:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50195
+ScriptLoader50.ScriptLoader>>#update50195
 ScriptLoader50.ScriptLoader>>#update50196
 Slot.BooleanSlot>>#emitStore:
 Slot.BooleanSlot>>#emitValue:

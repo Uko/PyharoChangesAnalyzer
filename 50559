@@ -1,4 +1,16 @@
+DebuggerActions.PeelToFirstDebugAction>>#appliesToDebugger:
+DebuggerActions.RestartDebugAction>>#appliesToDebugger:
+DebuggerActions.ResumeDebugAction>>#appliesToDebugger:
+DebuggerActions.ReturnValueDebugAction>>#appliesToDebugger:
+DebuggerActions.RunToSelectionDebugAction>>#appliesToDebugger:
+DebuggerActions.StepIntoDebugAction>>#appliesToDebugger:
+DebuggerActions.StepOverDebugAction>>#appliesToDebugger:
+DebuggerActions.StepThroughDebugAction>>#appliesToDebugger:
+DebuggerModel.DebugSession>>#isInterruptedContextPostMortem
+GT-BytecodeDebugger.GTStepToBytecodeDebugAction>>#appliesToDebugger:
+Glamour-Tests-Morphic.GLMMorphicExamplesTest>>#testSmoke
 Nautilus.Nautilus>>#selectedPackage:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50558
+ScriptLoader50.ScriptLoader>>#update50558
 ScriptLoader50.ScriptLoader>>#update50559

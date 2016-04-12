@@ -1,6 +1,88 @@
 Monticello.MCRepository
+Monticello.MCRepository>>#alwaysStoreDiffs
+Monticello.MCRepository>>#doAlwaysStoreDiffs
+Monticello.MCRepository>>#doNotAlwaysStoreDiffs
+Monticello.MCRepository>>#prepareVersionForStorage:
 Monticello.MCRepository>>#storeVersion:
 MonticelloGUI.MCWorkingCopyBrowser>>#repositoryListMenu:
+MonticelloGUI.MCWorkingCopyBrowser>>#toggleDiffs
+Polymorph-TaskbarIcons.ChangeList class>>#taskbarIcon
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50097
+ScriptLoader50.ScriptLoader>>#update50097
 ScriptLoader50.ScriptLoader>>#update50098
+Tool-Changes.ChangeList
+Tool-Changes.ChangeList class>>#browseChangesFile:
+Tool-Changes.ChangeList class>>#browseFile:
+Tool-Changes.ChangeList class>>#browseRecent:
+Tool-Changes.ChangeList class>>#browseRecent:on:
+Tool-Changes.ChangeList class>>#browseRecentLog
+Tool-Changes.ChangeList class>>#browseRecentLogOn:
+Tool-Changes.ChangeList class>>#browseRecentLogOn:startingFrom:
+Tool-Changes.ChangeList class>>#browseRecentLogOnPath:
+Tool-Changes.ChangeList class>>#browseStream:
+Tool-Changes.ChangeList class>>#changeListMenu:
+Tool-Changes.ChangeList class>>#fileReaderServicesForFile:suffix:
+Tool-Changes.ChangeList class>>#initialize
+Tool-Changes.ChangeList class>>#registerToolsOn:
+Tool-Changes.ChangeList class>>#serviceBrowseChangeFile
+Tool-Changes.ChangeList class>>#serviceBrowseDotChangesFile
+Tool-Changes.ChangeList class>>#services
+Tool-Changes.ChangeList class>>#unload
+Tool-Changes.ChangeList>>#addItem:text:
+Tool-Changes.ChangeList>>#annotation
+Tool-Changes.ChangeList>>#browseAllVersionsOfSelections
+Tool-Changes.ChangeList>>#browseCurrentVersionsOfSelections
+Tool-Changes.ChangeList>>#browseVersions
+Tool-Changes.ChangeList>>#buildMorphicCodePaneWith:
+Tool-Changes.ChangeList>>#changeList
+Tool-Changes.ChangeList>>#changeListButtonSpecs
+Tool-Changes.ChangeList>>#changeListKey:from:
+Tool-Changes.ChangeList>>#changeListMenu:
+Tool-Changes.ChangeList>>#changes:file:
+Tool-Changes.ChangeList>>#compareToCurrentVersion
+Tool-Changes.ChangeList>>#contents
+Tool-Changes.ChangeList>>#contents:
+Tool-Changes.ChangeList>>#contentsDiffedFromCurrent
+Tool-Changes.ChangeList>>#contentsSymbolQuints
+Tool-Changes.ChangeList>>#currentChange
+Tool-Changes.ChangeList>>#deselectAll
+Tool-Changes.ChangeList>>#file
+Tool-Changes.ChangeList>>#fileInSelections
+Tool-Changes.ChangeList>>#fileOutSelections
+Tool-Changes.ChangeList>>#initialize
+Tool-Changes.ChangeList>>#invertSelections
+Tool-Changes.ChangeList>>#list
+Tool-Changes.ChangeList>>#listIndex
+Tool-Changes.ChangeList>>#listSelectionAt:
+Tool-Changes.ChangeList>>#listSelectionAt:put:
+Tool-Changes.ChangeList>>#openAsMorphName:
+Tool-Changes.ChangeList>>#optionalButtonRow
+Tool-Changes.ChangeList>>#refreshNewList:andList:
+Tool-Changes.ChangeList>>#removeDoIts
+Tool-Changes.ChangeList>>#removeExistingMethodVersions
+Tool-Changes.ChangeList>>#removeNonSelections
+Tool-Changes.ChangeList>>#removeOlderMethodVersions
+Tool-Changes.ChangeList>>#removeRecordsWhere:
+Tool-Changes.ChangeList>>#removeSelections
+Tool-Changes.ChangeList>>#scanCategory
+Tool-Changes.ChangeList>>#scanCategory:class:meta:stamp:
+Tool-Changes.ChangeList>>#scanFile:from:to:
+Tool-Changes.ChangeList>>#selectAll
+Tool-Changes.ChangeList>>#selectAllConflicts
+Tool-Changes.ChangeList>>#selectConflicts
+Tool-Changes.ChangeList>>#selectConflicts:
+Tool-Changes.ChangeList>>#selectConflictsWith
+Tool-Changes.ChangeList>>#selectContentsMatching
+Tool-Changes.ChangeList>>#selectMethodsForExtantClasses
+Tool-Changes.ChangeList>>#selectMethodsForThisClass
+Tool-Changes.ChangeList>>#selectNewMethods
+Tool-Changes.ChangeList>>#selectSuchThat
+Tool-Changes.ChangeList>>#selectSuchThat:
+Tool-Changes.ChangeList>>#selectUnchangedDefinitions
+Tool-Changes.ChangeList>>#selectUnchangedMethods
+Tool-Changes.ChangeList>>#selectedClass
+Tool-Changes.ChangeList>>#selectedClassOrMetaClass
+Tool-Changes.ChangeList>>#selectedMessageName
+Tool-Changes.ChangeList>>#toggleListIndex:
+Tool-Changes.ChangeList>>#undiffedContents

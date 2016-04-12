@@ -2,12 +2,14 @@ Monticello.MCMergeResolutionRequest>>#hasConflicts
 Monticello.MCMerger>>#hasConflicts
 Morphic-Widgets-FastTable.FTSearchFunction>>#reset
 Morphic-Widgets-FastTable.FTSearchFunction>>#showSearchFieldFromKeystrokeEvent:
+Reflectivity-Examples.ExecutionDisplayMorph>>#noteExecution
 Reflectivity.MetaLink>>#condition:
 Reflectivity.MetaLink>>#metaObject:
 Reflectivity.ProtoObject>>#metaLinkOptions
 Reflectivity.ReflectiveMethod>>#installCompiledMethod
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50379
+ScriptLoader50.ScriptLoader>>#update50379
 ScriptLoader50.ScriptLoader>>#update50380
 UIManager.CommandLineUIManager>>#merge:informing:
 UIManager.NonInteractiveUIManager>>#merge:informing:

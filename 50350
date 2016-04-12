@@ -10,6 +10,7 @@ Reflectivity.RGMethodDefinition>>#variableNodes
 Reflectivity.Slot>>#afterHooks
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50349
+ScriptLoader50.ScriptLoader>>#update50349
 ScriptLoader50.ScriptLoader>>#update50350
 Settings-Polymorph.PolymorphSystemSettings class>>#setDesktopLogoWith:
 Slot.ClassVariable>>#astNodes

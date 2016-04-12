@@ -17,4 +17,5 @@ NautilusRefactoring.NautilusRefactoring class>>#sourceCodeRefactoringSubMenu:
 Polymorph-TaskbarIcons.HelpBrowser class>>#taskbarIcon
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50220
+ScriptLoader50.ScriptLoader>>#update50220
 ScriptLoader50.ScriptLoader>>#update50221

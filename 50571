@@ -109,6 +109,7 @@ GT-Spotter.GTSpotter class>>#extensionsPragma
 GT-Spotter.GTSpotter class>>#spotterExtendingMethods
 GT-Spotter.GTSpotter>>#initialize
 GT-Spotter.GTSpotter>>#requestNextCategoryStepWith:
+GT-Spotter.GTSpotter>>#requestNextStepWith:
 GT-Spotter.GTSpotter>>#requestNextStepWith:for:
 GT-Spotter.GTSpotterCandidatesList>>#getProcessorLink:
 GT-Spotter.GTSpotterCandidatesListProcessor>>#doFilterInContext:
@@ -192,17 +193,26 @@ GT-Spotter.SequenceableCollection>>#fasterDifferencePreservingOrder:
 GT-SpotterExtensions-Core.GTSpotter>>#spotterForSelectorsFor:
 GT-SpotterExtensions-Core.GTSpotter>>#spotterForSendersFor:
 GT-SpotterExtensions-Core.SystemNavigation>>#allSendersToSubstring:do:
+GT-Tests-Debugger.GTBytecodeDebuggerSmokeTest>>#contextToTest
+GT-Tests-Debugger.GTBytecodeDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
 GT-Tests-Debugger.GTBytecodeDebuggerSmokeTest>>#testDebugger
 GT-Tests-Debugger.GTDebuggerSmokeTest>>#assertDebuggerClosing
 GT-Tests-Debugger.GTDebuggerSmokeTest>>#assertDebuggerInitializationForContext:andStepBlock:
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#contextToTest
 GT-Tests-Debugger.GTDebuggerSmokeTest>>#initializeSessionForContext:withStepBlock:
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#instantiateSession
 GT-Tests-Debugger.GTDebuggerSmokeTest>>#setUp
+GT-Tests-Debugger.GTDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
 GT-Tests-Debugger.GTDebuggerSmokeTest>>#tearDown
 GT-Tests-Debugger.GTDebuggerSmokeTest>>#testDebugger
+GT-Tests-Debugger.GTGenericStackDebuggerSmokeTest>>#contextToTest
+GT-Tests-Debugger.GTGenericStackDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
 GT-Tests-Debugger.GTGenericStackDebuggerSmokeTest>>#testDebugger
 GT-Tests-Debugger.GTGenericStackDebuggerUITest>>#testNoOverlappingCodeEditorKeyBindings
+GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#contextToTest
 GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#stepBlockForTestArrays
 GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#stepBlockForTestWithHalt
+GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#stepToDebuggerEntryPointIn:
 GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#testAssertionEqualsDetected
 GT-Tests-Debugger.GTSUnitDebuggerSmokeTest>>#testSuccessfullTestWithHalt
 GT-Tests-Inspector.GTInspectorExamplesManualTest>>#checkAllPresentationsOf:onError:
@@ -212,7 +222,10 @@ GT-Tests-Inspector.GTInspectorExamplesManualTest>>#runClasses:
 GT-Tests-Inspector.GTInspectorExamplesTest>>#checkAllPresentationsOf:
 GT-Tests-Inspector.GTInspectorExamplesTest>>#testAllExamples
 GTInspector-Help.GTInspectorHelp
+GTInspector-Help.GTInspectorHelp class>>#bookName
 GTInspector-Help.GTInspectorHelp class>>#contact
+GTInspector-Help.GTInspectorHelp class>>#overview
+GTInspector-Help.GTInspectorHelp class>>#pages
 GTInspector-Help.GTInspectorHelp class>>#roassal
 GTInspector-Help.GTInspectorHelp class>>#table
 Glamour-Core.GLMAction
@@ -237,4 +250,5 @@ Glamour-Tests-Core.GLMActionTest>>#testShortcutFromKeymap
 Glamour-Tests-Rubric.GLMRubricTextMorphicTest>>#testOKeyCanBeOverriden
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50570
+ScriptLoader50.ScriptLoader>>#update50570
 ScriptLoader50.ScriptLoader>>#update50571

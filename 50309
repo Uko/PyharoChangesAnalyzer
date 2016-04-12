@@ -8,4 +8,5 @@ Reflectivity.ReflectiveMethod>>#destroyTwin
 Reflectivity.ReflectiveMethod>>#generatePrimitiveWrapper
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50308
+ScriptLoader50.ScriptLoader>>#update50308
 ScriptLoader50.ScriptLoader>>#update50309

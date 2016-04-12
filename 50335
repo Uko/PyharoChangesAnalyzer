@@ -1,3 +1,5 @@
+Announcements-Core.WeakSubscriptionBuilder>>#on:do:
+Announcements-Core.WeakSubscriptionBuilder>>#on:send:to:
 Deprecated50.WeakSubscriptionBuilder>>#on:do:
 Deprecated50.WeakSubscriptionBuilder>>#on:send:to:
 Morphic-Widgets-Tree.FilteredMorphTreeModel>>#defaultMorphIn:
@@ -9,4 +11,5 @@ PragmaCollector.PragmaCollector>>#whenResetSend:to:
 SUnit-UITesting.SimulateMouseSpecification>>#waitForMorphThat:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50334
+ScriptLoader50.ScriptLoader>>#update50334
 ScriptLoader50.ScriptLoader>>#update50335

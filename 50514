@@ -7,4 +7,5 @@ FFI-NB.FFICallout>>#sender:
 FFI-NB.FFIExternalStructure class>>#structureSize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50513
+ScriptLoader50.ScriptLoader>>#update50513
 ScriptLoader50.ScriptLoader>>#update50514

@@ -16,4 +16,5 @@ Reflectivity-Tests.ReflectivityReificationTest>>#testReifyGlobalVariable
 Reflectivity.LinkWrapperGlobal>>#uninstall
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50230
+ScriptLoader50.ScriptLoader>>#update50230
 ScriptLoader50.ScriptLoader>>#update50231

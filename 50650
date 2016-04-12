@@ -1,0 +1,17 @@
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
+ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version47:
+Glamour-FastTable.FTTableMorph>>#step
+Glamour-FastTable.FTTableMorph>>#stepTime
+Glamour-FastTable.FTTableMorph>>#wantsSteps
+Glamour-FastTable.GLMFastTableDataSource
+Glamour-FastTable.GLMFastTableDataSource>>#editRowMorphForColumn:element:
+Glamour-FastTable.GLMFastTableDataSource>>#forceStopStepping
+Glamour-FastTable.GLMFastTableDataSource>>#modified:from:with:
+Glamour-FastTable.GLMFastTableDataSource>>#resetStopStepping
+Glamour-FastTable.GLMFastTableDataSource>>#shouldStopStepping
+Glamour-FastTable.GLMFastTableDataSource>>#stepTime
+Glamour-FastTable.GLMFastTableDataSource>>#wantsSteps
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50649
+ScriptLoader50.ScriptLoader>>#update50649
+ScriptLoader50.ScriptLoader>>#update50650

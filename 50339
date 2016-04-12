@@ -2,6 +2,7 @@ Refactoring-Critics.RBCompositeLintRule class>>#pharoHardLintRules
 Refactoring-Critics.RBCompositeLintRule class>>#pharoSoftLintRules
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50338
+ScriptLoader50.ScriptLoader>>#update50338
 ScriptLoader50.ScriptLoader>>#update50339
 Tool-CriticBrowser.SelectPackageBrowser>>#removeAllItems
 Tool-CriticBrowser.SelectPackageBrowser>>#removeItems

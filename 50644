@@ -1,0 +1,8 @@
+Metacello-Core.MetacelloPlatform>>#fileDirectoryClass
+Metacello-Core.MetacelloPlatform>>#suspendSystemUpdateEventsDuring:
+Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#downloadBasicFile:to:username:pass:
+NECompletion.NECController>>#smartInputWithEvent:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50643
+ScriptLoader50.ScriptLoader>>#update50643
+ScriptLoader50.ScriptLoader>>#update50644

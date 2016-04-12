@@ -18,6 +18,7 @@ Reflectivity.MetaLink>>#optionInlineCondition
 Reflectivity.MetaLink>>#optionInlineCondition:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50360
+ScriptLoader50.ScriptLoader>>#update50360
 ScriptLoader50.ScriptLoader>>#update50361
 Tool-DependencyAnalyser-Checker.DADependencyChecker
 Tool-DependencyAnalyser-Checker.DADependencyChecker>>#buildPackageRelationGraphFor:
@@ -47,12 +48,14 @@ Tool-DependencyAnalyser-Checker.DADependencyReport>>#imageVersion:
 Tool-DependencyAnalyser-Checker.DADependencyReport>>#initialize
 Tool-DependencyAnalyser-Checker.DADependencyReport>>#knownDependantsOf:
 Tool-DependencyAnalyser-Checker.DADependencyReport>>#newReportScopedOn:
+Tool-DependencyAnalyser-Checker.DADependencyReport>>#transitiveDependenciesOf:
 Tool-DependencyAnalyser-Checker.DADependencyReport>>#transitiveDependenciesOf:visited:
 Tool-DependencyAnalyser-Checker.DADependencyReport>>#warnings
 Tool-DependencyAnalyser-Checker.RPackage>>#ignoredDependencies
 Tool-DependencyAnalyser-Checker.RPackage>>#manuallyResolvedDependencies
 Tool-DependencyAnalyser-Test.DAPackageCycleTest>>#testSizeOfCycles
 Tool-DependencyAnalyser-UI.DAAssemblyNode>>#initializeWith:
+Tool-DependencyAnalyser-UI.DAPackageAnalyzerTreeModel>>#buttonChecker
 Tool-DependencyAnalyser-UI.DAPackageAnalyzerTreeModel>>#initializeButtons
 Tool-DependencyAnalyser-UI.DAPackageAnalyzerWindow class>>#onPackagesNamed:
 Tool-DependencyAnalyser-UI.DAPackageAnalyzerWindow>>#addAllMorph

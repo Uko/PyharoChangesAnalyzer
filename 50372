@@ -5,5 +5,6 @@ Reflectivity.ReflectiveMethod>>#run:with:in:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#diffServerRootString
 ScriptLoader50.ScriptLoader>>#script50371
+ScriptLoader50.ScriptLoader>>#update50371
 ScriptLoader50.ScriptLoader>>#update50372
 SmartSuggestions-Tests.SugsContextTest>>#testContextForNautilusItsANautilusContext

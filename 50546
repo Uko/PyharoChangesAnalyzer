@@ -13,6 +13,8 @@ Morphic-Base.FadingMorph>>#initializeLayout
 Morphic-Base.FadingMorph>>#rejectsEvent:
 Morphic-Base.FadingMorph>>#resetAlpha
 Morphic-Base.FadingMorph>>#step
+Morphic-Base.MenuItemMorph>>#countingMenu
+Morphic-Base.MenuItemMorph>>#insistMenu
 Morphic-Base.MenuItemMorph>>#invokeWithEvent:
 Morphic-Base.MenuItemMorph>>#showShortcut
 Morphic-Base.ShortcutReminder
@@ -57,7 +59,24 @@ Morphic-Base.ShortcutReminder>>#textSize
 Morphic-Base.ShortcutReminder>>#textSize:
 Morphic-Base.ShortcutReminder>>#updateCount:
 Morphic-Base.ShortcutReminder>>#wantsToShow:
+Morphic-Base.ShortcutReminderMorph
+Morphic-Base.ShortcutReminderMorph class>>#countingMenu
+Morphic-Base.ShortcutReminderMorph class>>#enableShortcutReminder
+Morphic-Base.ShortcutReminderMorph class>>#enableShortcutReminder:
+Morphic-Base.ShortcutReminderMorph class>>#initialize
+Morphic-Base.ShortcutReminderMorph class>>#settingsOn:
+Morphic-Base.ShortcutReminderMorph class>>#startUp:
+Morphic-Base.ShortcutReminderMorph class>>#timesShortcutReminder
+Morphic-Base.ShortcutReminderMorph class>>#timesShortcutReminder:
+Morphic-Base.ShortcutReminderMorph class>>#with:
+Morphic-Base.ShortcutReminderMorph>>#alpha
+Morphic-Base.ShortcutReminderMorph>>#alpha:
+Morphic-Base.ShortcutReminderMorph>>#countingMenu
+Morphic-Base.ShortcutReminderMorph>>#initialize
+Morphic-Base.ShortcutReminderMorph>>#resetAlpha
+Morphic-Base.ShortcutReminderMorph>>#step
 Morphic-Base.ShortcutReminderMorph>>#stepTime
+Morphic-Base.ShortcutReminderMorph>>#text:
 Morphic-Base.ShortcutReminderMorph>>#wantsSteps
 Morphic-Base.ToggleMenuItemShortcutWithSymbol>>#text
 OpalCompiler-Core.RBBlockNode>>#hasBlockReturn
@@ -65,4 +84,6 @@ OpalCompiler-Core.RBBlockNode>>#isClean
 OpalCompiler-Core.RBBlockNode>>#lastIsReturn
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50545
+ScriptLoader50.ScriptLoader>>#update50545
 ScriptLoader50.ScriptLoader>>#update50546
+UIManager.UIManager class>>#createPageTestWorkspace

@@ -5,9 +5,14 @@ Polymorph-Widgets.ThemeIcons>>#url:
 Rubric.RubSmalltalkEditor>>#computeSelectionIntervalForCurrentLine
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50560
+ScriptLoader50.ScriptLoader>>#update50560
 ScriptLoader50.ScriptLoader>>#update50561
 Slot-Tests.SlotAnnouncementsTest>>#testVariableWordClassWhenTraitCompositionChangedShouldAnnounceClassModified
 Slot-Tests.SlotAnnouncementsTest>>#testVariableWordClassWithTraitCreatedShouldntAnnounceClassModified
+Slot.SlotClassBuilder>>#computeFormat:instSize:forSuper:ccIndex:
+Slot.SlotClassBuilder>>#format:variable:words:pointers:weak:
+Slot.SlotClassBuilder>>#superclass:immediateSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Slot.SlotClassBuilder>>#update:to:
 Traits.TClass>>#immediateSubclass:instanceVariableNames:classVariableNames:package:
 Traits.TClass>>#immediateSubclass:instanceVariableNames:classVariableNames:poolDictionaries:package:
 Traits.TClass>>#immediateSubclass:uses:instanceVariableNames:classVariableNames:package:

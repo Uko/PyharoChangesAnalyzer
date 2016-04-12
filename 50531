@@ -29,20 +29,24 @@ Refactoring-Critics.RBDefineEntityComplianceCheckRule>>#resultClass
 Refactoring-Critics.RBLintRule class>>#checksPackage
 Refactoring-Critics.RBPharoBootstrapRule
 Refactoring-Critics.RBPharoBootstrapRule class>>#checksPackage
+Refactoring-Critics.RBPharoBootstrapRule>>#assertNoNewExternalDependency
 Refactoring-Critics.RBPharoBootstrapRule>>#basicCheck:
 Refactoring-Critics.RBPharoBootstrapRule>>#checkPackage:
 Refactoring-Critics.RBPharoBootstrapRule>>#newExternalDependencyExistFor:
 Ring-Core-Containers.RGPackage>>#realPackage
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50530
+ScriptLoader50.ScriptLoader>>#update50530
 ScriptLoader50.ScriptLoader>>#update50531
 UIManager.CommandLineUIManager class>>#isValidForCurrentSystemConfiguration
 UIManager.CommandLineUIManager>>#handleError:log:
 UIManager.CommandLineUIManager>>#openDebuggerOn:context:label:fullView:notification:
 UIManager.DummyUIManager>>#debugProcess:context:label:fullView:notification:
 UIManager.DummyUIManager>>#handleError:log:
+UIManager.DummyUIManager>>#openDebuggerOn:context:label:fullView:notification:
 UIManager.NonInteractiveUIManager class>>#isValidForCurrentSystemConfiguration
 UIManager.NonInteractiveUIManager>>#debugProcess:context:label:fullView:notification:
+UIManager.NonInteractiveUIManager>>#openDebuggerOn:context:label:fullView:notification:
 UIManager.StartupUIManager class>>#isValidForCurrentSystemConfiguration
 UIManager.StartupUIManager>>#handleError:log:
 UIManager.StartupUIManager>>#inform:
@@ -53,3 +57,5 @@ UIManager.UIManager>>#debugProcess:context:label:fullView:notification:
 UIManager.UIManager>>#handleError:
 UIManager.UIManager>>#handleError:log:
 UIManager.UIManager>>#logError:
+UIManager.UIManager>>#openDebuggerOn:context:label:fullView:
+UIManager.UIManager>>#openDebuggerOn:context:label:fullView:notification:

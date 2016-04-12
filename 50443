@@ -11,5 +11,6 @@ NECompletion.NECMenuMorph>>#detailPosition:
 NECompletion.NECMenuMorph>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50442
+ScriptLoader50.ScriptLoader>>#update50442
 ScriptLoader50.ScriptLoader>>#update50443
 Spec-Inspector.EyeMorphViewer>>#objectChanged

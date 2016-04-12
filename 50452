@@ -4,9 +4,11 @@ Nautilus.NautilusUI>>#metaLinkModified:
 Reflectivity.ReflectiveMethod>>#decreaseLinkCount
 Reflectivity.ReflectiveMethod>>#increaseLinkCount
 Reflectivity.ReflectiveMethod>>#installLink:
+Reflectivity.ReflectiveMethod>>#removeLink
 Reflectivity.ReflectiveMethod>>#removeLink:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50451
+ScriptLoader50.ScriptLoader>>#update50451
 ScriptLoader50.ScriptLoader>>#update50452
 SmartSuggestions.SugsBreakAlwaysSuggestion>>#label
 SmartSuggestions.SugsBreakConditionSuggestion>>#label

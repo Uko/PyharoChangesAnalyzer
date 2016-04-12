@@ -1,0 +1,13 @@
+Keymapping-Tests.KMDispatcherTestCase class>>#keymapEventBuilderClass
+Keymapping-Tests.KMKeymapTest class>>#keymapEventBuilderClass
+Keymapping-Tests.KeymapBuilderTest class>>#keymapEventBuilderClass
+Nautilus.NautilusUI>>#compileAMethodFromCategory:withSource:notifying:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50660
+ScriptLoader50.ScriptLoader>>#update50660
+ScriptLoader50.ScriptLoader>>#update50661
+Tool-Base.AbstractTool>>#addClassIn:
+Tool-Base.AbstractTool>>#addTraitIn:
+Tool-Transcript.ThreadSafeTranscript class>>#examples
+Tool-Transcript.ThreadSafeTranscript class>>#examplesConcurrent
+Tool-Transcript.ThreadSafeTranscript class>>#examplesForegroundUpdate

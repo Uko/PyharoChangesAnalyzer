@@ -1,5 +1,15 @@
 Kernel.Integer>>#as31BitSmallInt
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#addState
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#buildAddButton
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#buildRemoveButton
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#buildRenameButton
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#groupTreeBox
 Nautilus-GroupManagerUI.DialogGroupManagerUI>>#initialExtent
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#newContentMorph
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#removeLabel
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#renameLabel
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#text
+Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#addSelectedPackageInSelectedGroup
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildAddButton
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildAddSelectedPackageInSelectedGroupButton
@@ -11,6 +21,7 @@ Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildRenameB
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#centering
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#emptySelectedGroup
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#groupTreeBox
+Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#initialExtent
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#itemSelected:
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#newContentMorph
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#openInWorld
@@ -20,15 +31,20 @@ Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#selectedElem
 Nautilus-GroupManagerUI.PackageCreatorTreeModel>>#open
 Nautilus.NautilusUI>>#debugTest:
 Nautilus.NautilusUI>>#toggleBreakOnEntryIn:
+Reflectivity.Breakpoint class>>#in:
 Reflectivity.Breakpoint>>#always
 Reflectivity.Breakpoint>>#condition:
+Reflectivity.Breakpoint>>#initialize
 Reflectivity.Breakpoint>>#install
+Reflectivity.Breakpoint>>#installLink:
 Reflectivity.Breakpoint>>#level
 Reflectivity.Breakpoint>>#link
 Reflectivity.Breakpoint>>#link:
 Reflectivity.Breakpoint>>#once
+Reflectivity.Breakpoint>>#when:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50454
+ScriptLoader50.ScriptLoader>>#update50454
 ScriptLoader50.ScriptLoader>>#update50455
 SmartSuggestions.SugsBreakAlwaysSuggestion>>#execute
 SmartSuggestions.SugsBreakConditionSuggestion>>#breakpointForCondition

@@ -7,4 +7,5 @@ Refactoring-Critics.RBTransformationRule>>#isEmpty
 Refactoring-Critics.RBTransformationRule>>#problemCount
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50569
+ScriptLoader50.ScriptLoader>>#update50569
 ScriptLoader50.ScriptLoader>>#update50570

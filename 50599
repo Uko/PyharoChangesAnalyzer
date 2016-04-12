@@ -9,6 +9,7 @@ Kernel.Class>>#immediateByteSubclass:instanceVariableNames:classVariableNames:pa
 Kernel.DelayScheduler>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50598
+ScriptLoader50.ScriptLoader>>#update50598
 ScriptLoader50.ScriptLoader>>#update50599
 Traits.TClass>>#immediateSubclass:instanceVariableNames:classVariableNames:package:
 Traits.TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:package:

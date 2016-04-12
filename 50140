@@ -35,6 +35,8 @@ Rubric.RubStringMorphEditorProvider>>#whenReturnEntered:
 Rubric.RubStringMorphEditorProvider>>#whenTextAccepted:
 Rubric.RubTextEditor>>#keystroke:
 Rubric.RubTextFieldArea>>#handleReturnKey
+Rubric.RubTextFieldArea>>#keyStroke:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50139
+ScriptLoader50.ScriptLoader>>#update50139
 ScriptLoader50.ScriptLoader>>#update50140

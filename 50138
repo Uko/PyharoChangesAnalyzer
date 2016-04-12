@@ -14,6 +14,7 @@ Monticello.MCCredentialsRequest>>#url:
 Monticello.MCCredentialsRequest>>#userMessagePrompt
 Monticello.MCCredentialsRequest>>#username
 Monticello.MCCredentialsRequest>>#username:
+Monticello.MCFileBasedRepository>>#notifyList
 Monticello.MCFtpRepository
 Monticello.MCFtpRepository class>>#creationTemplate
 Monticello.MCFtpRepository class>>#description
@@ -79,6 +80,9 @@ Monticello.MCPermissionDenied
 Monticello.MCPermissionDenied class>>#signalFor:
 Monticello.MCPermissionDenied>>#repository
 Monticello.MCPermissionDenied>>#repository:
+Monticello.MCRepository>>#notificationForVersion:
+Monticello.MCRepository>>#notifyList
+Monticello.MCRepository>>#sendNotificationsForVersion:
 Monticello.MCRepository>>#storeVersion:
 Monticello.MCRepositoryGroup>>#removeHTTPRepositoryLocationNamed:
 Monticello.MCServerCredentials
@@ -120,6 +124,13 @@ Monticello.MCSqueaksourceRepository class>>#description
 Monticello.MCSqueaksourceRepository class>>#isResponsibleFor:
 Monticello.MCSqueaksourceRepository>>#includesFileNamed:
 Monticello.MCSqueaksourceRepository>>#includesVersionNamed:
+Monticello.MCVersionNotification
+Monticello.MCVersionNotification class>>#version:repository:
+Monticello.MCVersionNotification>>#fromAddress
+Monticello.MCVersionNotification>>#initializeWithVersion:repository:
+Monticello.MCVersionNotification>>#messageText
+Monticello.MCVersionNotification>>#messageTo:
+Monticello.MCVersionNotification>>#notify:
 Nautilus.AbstractCategoryWidget>>#dragPassengersFor:inMorph:
 Nautilus.AbstractCategoryWidget>>#wantsDroppedMorph:event:inMorph:
 Nautilus.AbstractClassWidget>>#dragPassengersFor:inMorph:
@@ -162,4 +173,5 @@ Rubric.RubTextScrollPane>>#drawSubmorphsOnAthensCanvas:
 Rubric.RubTextScrollPane>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50137
+ScriptLoader50.ScriptLoader>>#update50137
 ScriptLoader50.ScriptLoader>>#update50138

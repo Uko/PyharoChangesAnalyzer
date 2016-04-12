@@ -1,4 +1,7 @@
 Nautilus.AbstractNautilusUI>>#addAll:
+Nautilus.AbstractNautilusUI>>#buildBrowseClassVarsButton
+Nautilus.AbstractNautilusUI>>#buildBrowseInstVarsButton
+Nautilus.AbstractNautilusUI>>#buildTextAreaButtonsColumn:
 Nautilus.NautilusAnnotationDisplayer
 Nautilus.NautilusAnnotationDisplayer>>#browseVariableReferences:
 Nautilus.NautilusAnnotationDisplayer>>#browseVariablesMorph
@@ -13,4 +16,5 @@ Nautilus.NautilusAnnotationDisplayer>>#updateContents
 Nautilus.VariableChooserTree
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50148
+ScriptLoader50.ScriptLoader>>#update50148
 ScriptLoader50.ScriptLoader>>#update50149

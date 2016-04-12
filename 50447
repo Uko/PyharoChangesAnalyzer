@@ -1,4 +1,6 @@
 Kernel.Class>>#copy
+Nautilus.AbstractNautilusUI>>#resetPackageGroupsList
+Nautilus.AbstractNautilusUI>>#showHierarchy:
 Nautilus.AbstractNautilusUI>>#updateGroupView
 Nautilus.AbstractNautilusUI>>#updatePackageGroupAndClassList
 Nautilus.AbstractNautilusUI>>#updatePackageView
@@ -12,14 +14,18 @@ Nautilus.PackageTreeNautilusUI>>#clearPackageSelections
 Nautilus.PackageTreeNautilusUI>>#showHierarchy:
 Nautilus.PackageWidget
 Nautilus.PackageWidget>>#initialize
+Nautilus.PackageWidget>>#resetPackageGroupList
 Reflectivity.Breakpoint>>#always
 Reflectivity.Breakpoint>>#breakLinkConditional
 Reflectivity.Breakpoint>>#breakLinkOneShot
+Reflectivity.Breakpoint>>#conditionalHaltLink
 Reflectivity.Breakpoint>>#haltLink
+Reflectivity.Breakpoint>>#haltLinkOneShot
 Reflectivity.Breakpoint>>#once
 Reflectivity.Breakpoint>>#when:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50446
+ScriptLoader50.ScriptLoader>>#update50446
 ScriptLoader50.ScriptLoader>>#update50447
 Slot.ClassDescription>>#superclass:layout:
 SmartSuggestions.SugsBreakpointSuggestion>>#breakpointSelectionMenu

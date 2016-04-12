@@ -5,4 +5,6 @@ Refactoring-Critics.RBLintRule class>>#isUsed
 SUnit-Core.TestCase class>>#isUsed
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50444
+ScriptLoader50.ScriptLoader>>#update50444
 ScriptLoader50.ScriptLoader>>#update50445
+Traits.TClass>>#superclass:methodDict:format:name:organization:instVarNames:classPool:sharedPools:

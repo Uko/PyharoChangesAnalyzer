@@ -1,13 +1,40 @@
+Compression-Registration.GZipReadStream class>>#initialize
+Compression-Registration.GZipReadStream class>>#unload
+Compression-Registration.ZipArchive class>>#initialize
+Compression-Registration.ZipArchive class>>#unload
 Files.AbstractBinaryFileStream>>#next
+Files.FileStream class>>#unload
 Monticello.MCOrganizationDefinition>>#patchWrapper
+Monticello.MCVersionReader class>>#initialize
+Monticello.MCVersionReader class>>#unload
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50255
+ScriptLoader50.ScriptLoader>>#update50255
 ScriptLoader50.ScriptLoader>>#update50256
 System-Changes.ChangeSet class>>#fileReaderServicesForFile:suffix:
 System-Changes.ChangeSet class>>#initialize
 System-FileRegistry.FileServices
+System-FileRegistry.FileServices class>>#allRegisteredServices
+System-FileRegistry.FileServices class>>#cleanUp
+System-FileRegistry.FileServices class>>#initialize
+System-FileRegistry.FileServices class>>#isReaderNamedRegistered:
 System-FileRegistry.FileServices class>>#itemsForDirectory:
 System-FileRegistry.FileServices class>>#itemsForFile:
+System-FileRegistry.FileServices class>>#registerFileReader:
+System-FileRegistry.FileServices class>>#registeredFileReaderClasses
+System-FileRegistry.FileServices class>>#removeObsolete
+System-FileRegistry.FileServices class>>#unregisterFileReader:
 System-Installers.MczInstaller class>>#initialize
+System-Installers.MczInstaller class>>#registerForFileList
+Tool-ExternalBrowser.ExternalBrowser class>>#initialize
+Tool-ExternalBrowser.ExternalChangesBrowser class>>#initialize
+Tool-FileList.FileList class>>#allRegisteredServices
+Tool-FileList.FileList class>>#initialize
+Tool-FileList.FileList class>>#isReaderNamedRegistered:
 Tool-FileList.FileList class>>#itemsForDirectory:
 Tool-FileList.FileList class>>#itemsForFile:
+Tool-FileList.FileList class>>#registerFileReader:
+Tool-FileList.FileList class>>#registeredFileReaderClasses
+Tool-FileList.FileList class>>#removeObsolete
+Tool-FileList.FileList class>>#unregisterFileReader:
+Tool-FileList.FileList>>#registeredFileReaderClasses

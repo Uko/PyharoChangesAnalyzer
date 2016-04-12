@@ -4,6 +4,7 @@ Morphic-Widgets-Extra.DockingBarMenuItemMorph>>#wantsRoundedCorners
 Morphic-Widgets-Extra.DockingBarToggleMenuItemMorph>>#wantsRoundedCorners
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50493
+ScriptLoader50.ScriptLoader>>#update50493
 ScriptLoader50.ScriptLoader>>#update50494
 Spec-Core.AbstractWidgetModel>>#initialize
 Spec-Core.AbstractWidgetModel>>#transferFor:from:

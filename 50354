@@ -2,6 +2,7 @@ ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#stable:
 ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#version021:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50353
+ScriptLoader50.ScriptLoader>>#update50353
 ScriptLoader50.ScriptLoader>>#update50354
 ShoreLine-Report-UI.SlReportWindow>>#initializeControls
 Spec-Tools.MessageBrowser>>#autoSelect:

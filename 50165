@@ -14,5 +14,6 @@ Reflectivity.CompiledMethod>>#hasLinks
 Reflectivity.CompiledMethod>>#reflectiveMethod
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50164
+ScriptLoader50.ScriptLoader>>#update50164
 ScriptLoader50.ScriptLoader>>#update50165
 System-Support.SmalltalkImage>>#metacelloPlatformAttributes

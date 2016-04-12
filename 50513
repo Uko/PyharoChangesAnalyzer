@@ -21,6 +21,7 @@ ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_1:
 ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_2:
 FFI-NB-Legacy.Object>>#nbCall:module:options:
 FFI-NB-Legacy.Object>>#nbCall:options:
+FFI-NB-Tests.FFICalloutObjectForTest class>>#asNBExternalType:
 FFI-NB-Tests.FFICalloutTests>>#testParseOptions
 FFI-NB.FFICallout
 FFI-NB.FFICallout>>#indirectLoader:byIndex:
@@ -31,10 +32,15 @@ FFI-NB.FFICallout>>#options:
 FFI-NB.FFICallout>>#parseOptions:
 FFI-NB.FFICalloutMethodBuilder>>#createFFICallout
 FFI-NB.FFIExternalStructure class>>#structureSize
+FFI-NB.FFIFunctionSpec class>>#namedFunctionFrom:
+FFI-NB.FFISizeT class>>#asNBExternalType:
 FFI-NB.OSPlatform>>#ffiAlignment
 FFI-NB.Win32Platform>>#ffiAlignment
+NativeBoost-Core.Object>>#nbCall:module:options:
+NativeBoost-Core.Object>>#nbCall:options:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50512
+ScriptLoader50.ScriptLoader>>#update50512
 ScriptLoader50.ScriptLoader>>#update50513
 Tool-Base.SystemNavigation>>#confirmRemovalOfSelectors:on:
 Traits.TClass>>#duplicateClassWithNewName:

@@ -2,6 +2,7 @@ Kernel.TimeZone class>>#local
 Morphic-Widgets-Windows.SystemWindow>>#openInWorld:extent:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50279
+ScriptLoader50.ScriptLoader>>#update50279
 ScriptLoader50.ScriptLoader>>#update50280
 Shout.SHRBTextStyler>>#currentClosedBracketStyleName
 Shout.SHRBTextStyler>>#currentClosedParenthesisStyleName

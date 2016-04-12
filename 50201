@@ -6,6 +6,7 @@ Rubric.RubAbstractTextArea class>>#editorFont
 Rubric.RubScrolledTextMorph>>#beForSmalltalkCode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50200
+ScriptLoader50.ScriptLoader>>#update50200
 ScriptLoader50.ScriptLoader>>#update50201
 System-Support.SmalltalkImage>>#imageName
 System-Support.SmalltalkImage>>#imageName:

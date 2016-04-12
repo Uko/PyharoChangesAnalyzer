@@ -1,5 +1,6 @@
 Deprecated50.Delay>>#waitOtherwise:
 Kernel.Delay>>#schedule
+Kernel.Delay>>#waitOtherwise:
 Kernel.DelayExperimentalCourageousScheduler>>#schedule:
 Kernel.DelayExperimentalSemaphoreScheduler>>#schedule:
 Kernel.DelayExperimentalSpinScheduler>>#schedule:
@@ -9,4 +10,5 @@ Kernel.DelayNullScheduler>>#schedule:
 Reflectivity.RFReification>>#genForRBArgumentNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50544
+ScriptLoader50.ScriptLoader>>#update50544
 ScriptLoader50.ScriptLoader>>#update50545

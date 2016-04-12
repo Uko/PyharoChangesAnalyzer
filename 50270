@@ -7,6 +7,7 @@ Files.String>>#asFileName
 Files.UnixPlatform>>#potentialLocationsOfSourcesFile
 Files.Win32Platform>>#potentialLocationsOfSourcesFile
 Kernel.Character class>>#euro
+Kernel.Character>>#digitValue2
 Kernel.CompiledMethod>>#hasLiteralThorough:
 Kernel.Object>>#release
 Reflectivity-Tests.ReflectivityControlTest>>#return3
@@ -24,6 +25,7 @@ Reflectivity.RFASTTranslator>>#visitLiteralArrayNode:
 Reflectivity.RFASTTranslator>>#visitLiteralNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50269
+ScriptLoader50.ScriptLoader>>#update50269
 ScriptLoader50.ScriptLoader>>#update50270
 System-Support.ChangesLog
 System-Support.ChangesLog class>>#default
@@ -37,3 +39,4 @@ System-Support.ChangesLog>>#logMethodRemoved:
 System-Support.ChangesLog>>#logSnapshot:andQuit:
 System-Support.ChangesLog>>#recordStartupStamp
 System-Support.ChangesLog>>#registerToAnnouncements
+Traits.TClass class>>#fileOutPool:

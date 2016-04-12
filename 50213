@@ -8,4 +8,5 @@ AST-Core.RBProgramNode class>>#resetFormatter
 Nautilus.NautilusAnnotationDisplayer>>#formatAsYouRead
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50212
+ScriptLoader50.ScriptLoader>>#update50212
 ScriptLoader50.ScriptLoader>>#update50213

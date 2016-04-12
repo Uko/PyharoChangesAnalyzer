@@ -3,4 +3,5 @@ Monticello-Tests.MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrlWithRe
 MonticelloFileTree-Core.MCFileTreeRepository class>>#urlAsFileReference:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50492
+ScriptLoader50.ScriptLoader>>#update50492
 ScriptLoader50.ScriptLoader>>#update50493

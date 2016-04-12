@@ -2,6 +2,7 @@ ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#version074:
 Morphic-Widgets-FastTable.FTTableMorph>>#recalculateVerticalScrollBar
 Nautilus.CodeSearchingAcceptor>>#accept:notifying:
+Nautilus.VariableChooserTree
 Reflectivity-Tests.ReflectiveMethodTest>>#testAfterAssignment
 Reflectivity-Tests.ReflectiveMethodTest>>#testAfterBlock
 Reflectivity-Tests.ReflectiveMethodTest>>#testAfterMethod
@@ -12,6 +13,7 @@ Reflectivity.RFASTTranslatorForEffect>>#visitAssignmentNode:
 Reflectivity.RFASTTranslatorForEffect>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50157
+ScriptLoader50.ScriptLoader>>#update50157
 ScriptLoader50.ScriptLoader>>#update50158
 System-Sources.PharoChangesCondenser>>#installNewChangesFile
 Tool-Base.ToolShortcutsCategory>>#saveImage

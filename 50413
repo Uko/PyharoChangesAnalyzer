@@ -6,6 +6,7 @@ ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version266
 ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version267:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50412
+ScriptLoader50.ScriptLoader>>#update50412
 ScriptLoader50.ScriptLoader>>#update50413
 Zinc-Character-Encoding-Core.ZnByteEncoder
 Zinc-Character-Encoding-Core.ZnByteEncoder class>>#cp850Mapping
@@ -15,6 +16,7 @@ Zinc-Character-Encoding-Core.ZnByteEncoder class>>#initialize
 Zinc-Character-Encoding-Core.ZnByteEncoder class>>#initializeByteTextConverters
 Zinc-Character-Encoding-Core.ZnByteEncoder class>>#iso88591
 Zinc-Character-Encoding-Core.ZnByteEncoder class>>#iso88591Mapping
+Zinc-Character-Encoding-Core.ZnByteEncoder class>>#knownEncodingIdentifiers
 Zinc-Character-Encoding-Core.ZnByteEncoder class>>#latin1
 Zinc-Character-Encoding-Core.ZnByteEncoder class>>#mappingToIdentifiers
 Zinc-Character-Encoding-Core.ZnByteEncoder class>>#newForEncoding:
@@ -75,7 +77,9 @@ Zinc-HTTP.ZnDefaultServerDelegate class>>#empty
 Zinc-HTTP.ZnDefaultServerDelegate>>#map:to:
 Zinc-HTTP.ZnEntityReader>>#contentType
 Zinc-HTTP.ZnEntityReader>>#readEntity
+Zinc-HTTP.ZnEntityReader>>#withDefaultUtf8Decoding:
 Zinc-HTTP.ZnEntityWriter>>#contentType
+Zinc-HTTP.ZnEntityWriter>>#withDefaultUtf8Encoding:
 Zinc-HTTP.ZnEntityWriter>>#writeEntity:
 Zinc-HTTP.ZnHeaders>>#contentType
 Zinc-HTTP.ZnHeaders>>#readFrom:

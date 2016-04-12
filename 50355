@@ -1,6 +1,7 @@
 CodeImport.CodeImporter class>>#chunksFromFileNamed:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50354
+ScriptLoader50.ScriptLoader>>#update50354
 ScriptLoader50.ScriptLoader>>#update50355
 System-BasicCommandLineHandler.BasicCommandLineHandler class>>#helpDescription
 System-BasicCommandLineHandler.BasicCommandLineHandler>>#printHelp

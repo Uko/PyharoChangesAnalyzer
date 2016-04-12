@@ -8,23 +8,76 @@ FreeType.FreeTypeFontProvider>>#updateEmbeddedFreeTypeFonts
 FreeType.FreeTypeSettings class>>#shutDown:
 FreeType.FreeTypeSettings class>>#startUp:
 FreeType.FreeTypeSettings class>>#updateFreeType
+Nautilus-GroupManager.GroupHolder>>#addClasses:into:
 Nautilus-GroupManager.GroupHolder>>#groups:
 Nautilus-GroupManager.GroupHolder>>#remove:from:
+Nautilus-GroupManager.GroupHolder>>#removeClass:from:
+Nautilus-GroupManagerUI.DialogGroupAdder
+Nautilus-GroupManagerUI.DialogGroupAdder>>#add:into:
+Nautilus-GroupManagerUI.DialogGroupAdder>>#elementsToAdd
+Nautilus-GroupManagerUI.DialogGroupAdder>>#elementsToAdd:
+Nautilus-GroupManagerUI.DialogGroupAdder>>#uiClass
+Nautilus-GroupManagerUI.DialogGroupAdderUI
+Nautilus-GroupManagerUI.DialogGroupAdderUI>>#buildTextMorph
+Nautilus-GroupManagerUI.DialogGroupAdderUI>>#elementBox
+Nautilus-GroupManagerUI.DialogGroupAdderUI>>#elementsToAdd
+Nautilus-GroupManagerUI.DialogGroupAdderUI>>#groups
+Nautilus-GroupManagerUI.DialogGroupAdderUI>>#newContentMorph
+Nautilus-GroupManagerUI.DialogGroupAdderUI>>#text
+Nautilus-GroupManagerUI.DialogGroupAdderUI>>#valid
+Nautilus-GroupManagerUI.DialogGroupManager
+Nautilus-GroupManagerUI.DialogGroupManager>>#groups
+Nautilus-GroupManagerUI.DialogGroupManager>>#groups:
+Nautilus-GroupManagerUI.DialogGroupManager>>#open
+Nautilus-GroupManagerUI.DialogGroupManager>>#uiClass
 Nautilus-GroupManagerUI.DialogGroupManagerUI>>#removeAGroup
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildRemoveButton
+Nautilus-GroupManagerUI.DialogGroupRemover
+Nautilus-GroupManagerUI.DialogGroupRemover>>#elementsToRemove
+Nautilus-GroupManagerUI.DialogGroupRemover>>#elementsToRemove:
+Nautilus-GroupManagerUI.DialogGroupRemover>>#remove:from:
+Nautilus-GroupManagerUI.DialogGroupRemover>>#uiClass
+Nautilus-GroupManagerUI.DialogGroupRemoverUI
+Nautilus-GroupManagerUI.DialogGroupRemoverUI>>#elementBox
+Nautilus-GroupManagerUI.DialogGroupRemoverUI>>#elementsToRemove
+Nautilus-GroupManagerUI.DialogGroupRemoverUI>>#groupTreeBox
+Nautilus-GroupManagerUI.DialogGroupRemoverUI>>#groups
+Nautilus-GroupManagerUI.DialogGroupRemoverUI>>#text
+Nautilus-GroupManagerUI.DialogGroupRemoverUI>>#valid
 Nautilus-GroupManagerUI.GroupIcon
+Nautilus-GroupManagerUI.GroupIcon>>#groupIcon
+Nautilus-GroupManagerUI.GroupIcon>>#groupIconContents
+Nautilus-GroupManagerUI.GroupIcon>>#groupRemoveIcon
+Nautilus-GroupManagerUI.GroupIcon>>#groupRemoveIconContents
 Nautilus-GroupManagerUI.GroupIcon>>#initialize
+Nautilus.AbstractNautilusUI class>>#buildAddGroupsShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildPackageShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#groupsMenu:
 Nautilus.AbstractNautilusUI class>>#packagesMenu:
 Nautilus.AbstractNautilusUI class>>#packagesMenuGroupsItems:
+Nautilus.AbstractNautilusUI>>#addClassesInGroup
+Nautilus.AbstractNautilusUI>>#addClassesInGroup:
+Nautilus.AbstractNautilusUI>>#addMatchingPackagesInGroups
+Nautilus.AbstractNautilusUI>>#addMatchingPackagesInGroupsAndBrowse
+Nautilus.AbstractNautilusUI>>#addPackageAsGroup
+Nautilus.AbstractNautilusUI>>#addPackageAsGroupAndBrowse
 Nautilus.AbstractNautilusUI>>#addPackages:inGroup:
+Nautilus.AbstractNautilusUI>>#addPackagesAsGroups
+Nautilus.AbstractNautilusUI>>#addPackagesAsGroupsAndBrowse
+Nautilus.AbstractNautilusUI>>#addPackagesInGroup
+Nautilus.AbstractNautilusUI>>#addPackagesInGroup:
 Nautilus.AbstractNautilusUI>>#parentOfSelectedPackage
+Nautilus.AbstractNautilusUI>>#removeClassFromGroup
 Nautilus.AbstractNautilusUI>>#removeFromGroupPackages:
+Nautilus.NautilusUI>>#addMethodsInGroup
+Nautilus.NautilusUI>>#addMethodsInGroup:
+Nautilus.NautilusUI>>#addProtocolsInGroup
+Nautilus.NautilusUI>>#addProtocolsInGroup:
 Nautilus.PackageTreeNautilusUI>>#basicShowHierarchy
 Nautilus.PackageTreePackageNodeModel>>#asNautilusSelection
 Nautilus.RPackage>>#asNautilusSelection
 Nautilus.RPackageTag>>#withClassesIn:createHierarchySorter:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50209
+ScriptLoader50.ScriptLoader>>#update50209
 ScriptLoader50.ScriptLoader>>#update50210

@@ -88,6 +88,7 @@ Graphics-Display Objects.DisplayScreen class>>#startUp
 Graphics-Display Objects.Form class>>#initialize
 Graphics-Display Objects.Form class>>#release
 Graphics-Display Objects.Form class>>#shutDown
+Graphics-Files.Form class>>#initialize
 Graphics-Fonts.StrikeFont class>>#initialize
 Graphics-Fonts.StrikeFont class>>#release
 Graphics-Fonts.StrikeFont class>>#shutDown
@@ -139,6 +140,7 @@ NonInteractiveTranscript.NonInteractiveTranscript class>>#shutDown
 Polymorph-Widgets.MorphicUIManager class>>#isValidForCurrentSystemConfiguration
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50539
+ScriptLoader50.ScriptLoader>>#update50539
 ScriptLoader50.ScriptLoader>>#update50540
 System-BasicCommandLineHandler.BasicCommandLineHandler class>>#initialize
 System-BasicCommandLineHandler.BasicCommandLineHandler class>>#release

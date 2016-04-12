@@ -1,5 +1,8 @@
+Play.GG
+Play.TT
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script633
+ScriptLoader50.ScriptLoader>>#update50024
 ScriptLoader50.ScriptLoader>>#update50025
 Shout.SHRBTextStyler>>#visitClassReferenceNode:
 Spec-Core.RadioButtonGroup
@@ -9,5 +12,10 @@ Spec-Core.RadioButtonGroup>>#selectedButton
 Spec-Examples.RadioButtonGroupExample class>>#example
 Spec-Examples.RadioButtonGroupExample>>#initialize
 Spec-Examples.RadioButtonGroupExample>>#initializePresenter
+Spec-Examples.RadioButtonGroupExample>>#instantiateButtons
 Spec-Examples.RadioButtonGroupExample>>#instantiateMorphs
 Spec-Examples.RadioButtonGroupExample>>#on:show:
+Spec-Examples.RadioButtonGroupExample>>#setActions
+Spec-Examples.RadioButtonGroupExample>>#setActionsForButton1
+Spec-Examples.RadioButtonGroupExample>>#setActionsForButton2
+Spec-Examples.RadioButtonGroupExample>>#setActionsForButton3

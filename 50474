@@ -5,6 +5,7 @@ Nautilus.AbstractNautilusUI>>#updateSourceCodeAreaWith:
 Reflectivity.HookGenerator>>#hookFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50473
+ScriptLoader50.ScriptLoader>>#update50473
 ScriptLoader50.ScriptLoader>>#update50474
 SmartSuggestions.SugsSuggestionFactory class>>#createBreakCommand
 SmartSuggestions.SugsSuggestionFactory class>>#createBreakConditionCommand

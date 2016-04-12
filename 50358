@@ -13,8 +13,17 @@ ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version1213:
 GT-InspectorExtensions-Core.Bitmap class>>#gtExampleIconBits
 GT-InspectorExtensions-Core.FileReference class>>#gtExampleGif
 GT-InspectorExtensions-Core.FileReference class>>#gtExamplePng
+GT-InspectorExtensions-Core.ThemeIcons>>#gtInspectorIconsIn:
 GT-Playground.GTPlayground>>#codeIn:
 GT-SpotterExtensions-Core.ThemeIcons class>>#gtExampleThemeIcons
+GT-SpotterExtensions-Core.ThemeIcons>>#spotterForIconsFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50357
+ScriptLoader50.ScriptLoader>>#update50357
 ScriptLoader50.ScriptLoader>>#update50358
+Tool-Catalog.ThemeIcons>>#catalogIcon
+Tool-Catalog.ThemeIcons>>#catalogIconContents
+Tool-Catalog.ThemeIcons>>#configIcon
+Tool-Catalog.ThemeIcons>>#configIconContents
+Tool-Catalog.ThemeIcons>>#configIconLoaded
+Tool-Catalog.ThemeIcons>>#configIconLoadedContents

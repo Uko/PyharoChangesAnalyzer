@@ -1,9 +1,12 @@
 Kernel-Tests.ProcessTest>>#testFork
+Kernel-Tests.ProcessTest>>#testHighPriorityOverridesWaitTime
 Kernel-Tests.ProcessTest>>#testSchedulingHigherPriorityServedFirst
+Kernel-Tests.ProcessTest>>#testSchedulingIsFirstComeFirstServed
 Kernel-Tests.ProcessTest>>#testSchedulingSamePriorityFirstComeFirstServed
 Multilingual-Languages.LanguageEnvironment class>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50561
+ScriptLoader50.ScriptLoader>>#update50561
 ScriptLoader50.ScriptLoader>>#update50562
 Spec-Core.FastTableModel
 Spec-Core.FastTableModel class>>#adapterName

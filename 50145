@@ -46,4 +46,5 @@ Kernel.ProcessList>>#validIndex:
 Kernel.ProcessorScheduler>>#highestPriority:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50144
+ScriptLoader50.ScriptLoader>>#update50144
 ScriptLoader50.ScriptLoader>>#update50145

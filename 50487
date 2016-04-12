@@ -1,5 +1,10 @@
 Morphic-Core.Morph>>#handlesMouseMove:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50486
+ScriptLoader50.ScriptLoader>>#update50486
 ScriptLoader50.ScriptLoader>>#update50487
+Shout.SHRBTextStyler class>>#enableAstHighlightSetting:
+Shout.SHRBTextStyler class>>#useAstColoring
+Shout.SHRBTextStyler class>>#useAstColoring:
 Shout.SHTextStylerST80 class>>#initialize
+Shout.SHTextStylerST80 class>>#unload

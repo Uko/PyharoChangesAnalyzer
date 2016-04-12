@@ -10,6 +10,8 @@ FFI-Kernel.ByteArray>>#pointerAt:
 FFI-Kernel.ByteArray>>#pointerAt:put:
 FFI-Kernel.ByteArray>>#shortPointerAt:
 FFI-Kernel.ByteArray>>#shortPointerAt:put:
+FFI-Kernel.ByteArray>>#signedByteAt:
+FFI-Kernel.ByteArray>>#signedByteAt:put:
 FFI-Kernel.ByteArray>>#unsignedLongLongAt:
 FFI-Kernel.ByteArray>>#unsignedLongLongAt:put:
 FFI-Kernel.ExternalAddress class>>#initialize
@@ -40,6 +42,7 @@ FFI-Kernel.ExternalType>>#typedef
 FFI-Kernel.ExternalType>>#writeFieldAt:with:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50623
+ScriptLoader50.ScriptLoader>>#update50623
 ScriptLoader50.ScriptLoader>>#update50624
 UnifiedFFI-Legacy.Object>>#nbCall:module:options:
 UnifiedFFI-Tests.FFIExternalEnumerationTests
@@ -68,9 +71,13 @@ UnifiedFFI.ExternalData>>#readString
 UnifiedFFI.ExternalType>>#atomicSelector
 UnifiedFFI.FFIBool class>>#externalTypeSize
 UnifiedFFI.FFIBool>>#externalType
+UnifiedFFI.FFIBool>>#valueSize
+UnifiedFFI.FFICallbackType>>#emitArgument:context:
+UnifiedFFI.FFICallbackType>>#emitReturnArgument:context:
 UnifiedFFI.FFICallbackType>>#instanceVariableName
 UnifiedFFI.FFICharacterType class>>#externalTypeSize
 UnifiedFFI.FFICharacterType>>#externalType
+UnifiedFFI.FFICharacterType>>#valueSize
 UnifiedFFI.FFIConst>>#pointerArity:
 UnifiedFFI.FFIExternalEnumeration
 UnifiedFFI.FFIExternalEnumeration class>>#asExternalTypeOn:
@@ -114,14 +121,18 @@ UnifiedFFI.FFIExternalObjectType>>#emitReturnArgument:context:
 UnifiedFFI.FFIExternalObjectType>>#externalType
 UnifiedFFI.FFIExternalObjectType>>#externalTypeSize
 UnifiedFFI.FFIExternalObjectType>>#instanceVariableName
+UnifiedFFI.FFIExternalObjectType>>#valueSize
 UnifiedFFI.FFIExternalString>>#externalType
 UnifiedFFI.FFIExternalString>>#externalTypeSize
+UnifiedFFI.FFIExternalString>>#valueSize
 UnifiedFFI.FFIExternalStructure
 UnifiedFFI.FFIExternalStructure class>>#externalNewAutoRelease
+UnifiedFFI.FFIExternalStructure class>>#gcExternalNew
 UnifiedFFI.FFIExternalStructureFieldSpec>>#compileSpec
 UnifiedFFI.FFIExternalStructureType>>#basicHandle:at:
 UnifiedFFI.FFIExternalStructureType>>#externalTypeSize
 UnifiedFFI.FFIExternalStructureType>>#readReferenceAt:
+UnifiedFFI.FFIExternalStructureType>>#valueSize
 UnifiedFFI.FFIExternalType class>>#defaultPointerArity
 UnifiedFFI.FFIExternalType class>>#externalType
 UnifiedFFI.FFIExternalType class>>#resolveType:
@@ -158,16 +169,22 @@ UnifiedFFI.FFIExternalValueHolderType>>#representationType:
 UnifiedFFI.FFIExternalValueHolderType>>#writeFieldAt:with:
 UnifiedFFI.FFIFloat128 class>>#externalTypeSize
 UnifiedFFI.FFIFloat128>>#externalType
+UnifiedFFI.FFIFloat128>>#valueSize
 UnifiedFFI.FFIFloat16 class>>#externalTypeSize
 UnifiedFFI.FFIFloat16>>#externalType
+UnifiedFFI.FFIFloat16>>#valueSize
 UnifiedFFI.FFIFloat32 class>>#externalTypeSize
 UnifiedFFI.FFIFloat32>>#emitPointerArityRoll:context:
 UnifiedFFI.FFIFloat32>>#externalType
+UnifiedFFI.FFIFloat32>>#valueSize
 UnifiedFFI.FFIFloat64 class>>#externalTypeSize
 UnifiedFFI.FFIFloat64>>#emitPointerArityRoll:context:
 UnifiedFFI.FFIFloat64>>#externalType
+UnifiedFFI.FFIFloat64>>#valueSize
 UnifiedFFI.FFIFunctionArgument>>#emitArgument:context:
 UnifiedFFI.FFIFunctionArgument>>#emitArgument:context:objectClass:instVarName:
+UnifiedFFI.FFIFunctionArgument>>#emitArgument:type:context:
+UnifiedFFI.FFIFunctionArgument>>#emitArgument:type:context:objectClass:instVarName:
 UnifiedFFI.FFIFunctionArgument>>#emitPointerArityRoll:context:arity:
 UnifiedFFI.FFIInt16>>#externalType
 UnifiedFFI.FFIInt32>>#externalType
@@ -177,18 +194,24 @@ UnifiedFFI.FFIMethodArgument>>#emitArgument:context:
 UnifiedFFI.FFIMethodArgument>>#emitArgument:context:objectClass:instVarName:
 UnifiedFFI.FFIOop>>#externalType
 UnifiedFFI.FFIOop>>#externalTypeSize
+UnifiedFFI.FFIOop>>#valueSize
 UnifiedFFI.FFISizeT>>#externalType
 UnifiedFFI.FFISizeT>>#valueSize
 UnifiedFFI.FFIUInt16 class>>#externalTypeSize
 UnifiedFFI.FFIUInt16>>#externalType
+UnifiedFFI.FFIUInt16>>#valueSize
 UnifiedFFI.FFIUInt32 class>>#externalTypeSize
 UnifiedFFI.FFIUInt32>>#externalType
+UnifiedFFI.FFIUInt32>>#valueSize
 UnifiedFFI.FFIUInt64 class>>#externalTypeSize
 UnifiedFFI.FFIUInt64>>#externalType
+UnifiedFFI.FFIUInt64>>#valueSize
 UnifiedFFI.FFIUInt8 class>>#externalTypeSize
 UnifiedFFI.FFIUInt8>>#externalType
+UnifiedFFI.FFIUInt8>>#valueSize
 UnifiedFFI.FFIVoid>>#externalType
 UnifiedFFI.FFIVoid>>#externalTypeSize
+UnifiedFFI.FFIVoid>>#valueSize
 UnifiedFFI.Float>>#pointer
 UnifiedFFI.Float>>#pointerDouble
 UnifiedFFI.Float>>#pointerFloat

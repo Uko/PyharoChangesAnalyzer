@@ -21,4 +21,5 @@ Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkWithPragmaOptions
 Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkWithPragmaOptionsPerClass
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50421
+ScriptLoader50.ScriptLoader>>#update50421
 ScriptLoader50.ScriptLoader>>#update50422

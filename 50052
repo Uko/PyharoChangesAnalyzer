@@ -2,6 +2,9 @@ AST-Core.RBParser class>>#parseExpression:onError:
 AST-Core.RBParser class>>#parseMethod:onError:
 AST-Core.RBParser>>#parseErrorNode:
 AST-Core.RBScanner>>#parseErrorNode:
+Collections-Support.LookupKey>>#canAssign
+Collections-Support.LookupKey>>#isSpecialReadBinding
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50051
+ScriptLoader50.ScriptLoader>>#update50051
 ScriptLoader50.ScriptLoader>>#update50052

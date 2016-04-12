@@ -4,9 +4,94 @@ ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_11_3:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_12:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_12_1:
+FFI-Tests.FFIPluginTests
+FFI-Tests.FFIPluginTests>>#testBlitToAndFromExternalForm
+FFI-Tests.FFIPluginTests>>#testConstructedCharCall
+FFI-Tests.FFIPluginTests>>#testConstructedDoubleCall
+FFI-Tests.FFIPluginTests>>#testConstructedFloatCall
+FFI-Tests.FFIPluginTests>>#testConstructedIntCall
+FFI-Tests.FFIPluginTests>>#testConstructedPrintString
+FFI-Tests.FFIPluginTests>>#testConstructedShortCall
+FFI-Tests.FFIPluginTests>>#testGenericCharCall
+FFI-Tests.FFIPluginTests>>#testGenericDoubleCall
+FFI-Tests.FFIPluginTests>>#testGenericDoubleCall2
+FFI-Tests.FFIPluginTests>>#testGenericFloatCall
+FFI-Tests.FFIPluginTests>>#testGenericIntCall
+FFI-Tests.FFIPluginTests>>#testGenericMixedDoublesIntAndStruct
+FFI-Tests.FFIPluginTests>>#testGenericMixedFloatsAndDouble
+FFI-Tests.FFIPluginTests>>#testGenericPrintString
+FFI-Tests.FFIPluginTests>>#testGenericShortCall
+FFI-Tests.FFIPluginTests>>#testLibraryCharCall
+FFI-Tests.FFIPluginTests>>#testLibraryDoubleCall
+FFI-Tests.FFIPluginTests>>#testLibraryFloatCall
+FFI-Tests.FFIPluginTests>>#testLibraryIntCall
+FFI-Tests.FFIPluginTests>>#testLibraryPrintString
+FFI-Tests.FFIPluginTests>>#testLoadSymbolFromModule
+FFI-Tests.FFIPluginTests>>#testLongLongA1
+FFI-Tests.FFIPluginTests>>#testLongLongA3
+FFI-Tests.FFIPluginTests>>#testLongLongs
+FFI-Tests.FFIPluginTests>>#testMixedIntAndStruct
+FFI-Tests.FFIPluginTests>>#testMixedIntAndStruct2
+FFI-Tests.FFIPluginTests>>#testMixedIntAndStruct3
+FFI-Tests.FFIPluginTests>>#testPoint2
+FFI-Tests.FFIPluginTests>>#testPoint4
+FFI-Tests.FFIPluginTests>>#testPointers
+FFI-Tests.FFIPluginTests>>#testSmallStructureReturn
+FFI-Tests.FFIPluginTests>>#testUlongRange
+FFI-Tests.FFISmallStruct1
+FFI-Tests.FFISmallStruct1 class>>#fields
+FFI-Tests.FFISmallStruct1>>#x
+FFI-Tests.FFISmallStruct1>>#x:
+FFI-Tests.FFISmallStruct1>>#y
+FFI-Tests.FFISmallStruct1>>#y:
+FFI-Tests.FFITestLibrary
+FFI-Tests.FFITestLibrary class>>#ffiPrintString:
+FFI-Tests.FFITestLibrary class>>#ffiTestChar:with:with:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestDoubles9:d:d:d:d:d:d:d:d:
+FFI-Tests.FFITestLibrary class>>#ffiTestDoubles:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestFloats:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestInt:with:with:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestLongLong:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestLongLongA1:with:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestLongLongA3:with:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestMixedDoublesIntAndStruct:d:d:d:d:d:d:d:d:i:s:
+FFI-Tests.FFITestLibrary class>>#ffiTestMixedFloatsAndDouble:with:with:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestMixedIntAndStruct2:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestMixedIntAndStruct3:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestMixedIntAndStruct:with:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestPoint2:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestPoint4:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestPointers:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestShort:with:with:with:
+FFI-Tests.FFITestLibrary class>>#ffiTestSmallStructReturn
+FFI-Tests.FFITestLibrary class>>#ffiTestUlong:with:with:with:
+FFI-Tests.FFITestLibrary class>>#moduleName
+FFI-Tests.FFITestLibrary>>#ffiPrintString:
+FFI-Tests.FFITestLibrary>>#ffiTestChar:with:with:with:
+FFI-Tests.FFITestLibrary>>#ffiTestDoubles:with:
+FFI-Tests.FFITestLibrary>>#ffiTestFloats:with:
+FFI-Tests.FFITestLibrary>>#ffiTestInt:with:with:with:
+FFI-Tests.FFITestLibrary>>#ffiTestShort:with:with:with:
+FFI-Tests.FFITestPoint2
+FFI-Tests.FFITestPoint2 class>>#fields
+FFI-Tests.FFITestPoint2>>#x
+FFI-Tests.FFITestPoint2>>#x:
+FFI-Tests.FFITestPoint2>>#y
+FFI-Tests.FFITestPoint2>>#y:
+FFI-Tests.FFITestPoint4
+FFI-Tests.FFITestPoint4 class>>#fields
+FFI-Tests.FFITestPoint4>>#w
+FFI-Tests.FFITestPoint4>>#w:
+FFI-Tests.FFITestPoint4>>#x
+FFI-Tests.FFITestPoint4>>#x:
+FFI-Tests.FFITestPoint4>>#y
+FFI-Tests.FFITestPoint4>>#y:
+FFI-Tests.FFITestPoint4>>#z
+FFI-Tests.FFITestPoint4>>#z:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#loadConfiguration:version:
 ScriptLoader50.ScriptLoader>>#script50571
+ScriptLoader50.ScriptLoader>>#update50571
 ScriptLoader50.ScriptLoader>>#update50572
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiCopyString:to:
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiDoubleAbs:
@@ -14,8 +99,18 @@ UnifiedFFI-Tests.FFICalloutAPITests>>#ffiFloatAbs:
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiIntAbs:
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiLibraryName
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiLongLongAbs:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiPrintString:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestChar:with:with:with:
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestContantFormat:to:
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestContantFormat:value:to:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestDoubles:with:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestFloats:with:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestInt:with:with:with:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestIntConstant
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestIntConstantWith:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestLongLong:with:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestShort:with:with:with:
+UnifiedFFI-Tests.FFICalloutAPITests>>#ffiTestUlong:with:with:with:
 UnifiedFFI-Tests.FFICalloutAPITests>>#ffiToLower:
 UnifiedFFI-Tests.FFICalloutAPITests>>#primFromByteArray:toExternalAddress:size:
 UnifiedFFI-Tests.FFICalloutAPITests>>#testByteArrayToExternalAddress
@@ -25,8 +120,12 @@ UnifiedFFI-Tests.FFICalloutAPITests>>#testCharCall
 UnifiedFFI-Tests.FFICalloutAPITests>>#testDoubleCall
 UnifiedFFI-Tests.FFICalloutAPITests>>#testFloatCall
 UnifiedFFI-Tests.FFICalloutAPITests>>#testIntCall
+UnifiedFFI-Tests.FFICalloutAPITests>>#testIntCallWithAllConstParameter
+UnifiedFFI-Tests.FFICalloutAPITests>>#testIntCallWithConstParameter
 UnifiedFFI-Tests.FFICalloutAPITests>>#testLongLongs
 UnifiedFFI-Tests.FFICalloutAPITests>>#testPrintString
+UnifiedFFI-Tests.FFICalloutAPITests>>#testShortCall
+UnifiedFFI-Tests.FFICalloutAPITests>>#testUlongRange
 UnifiedFFI-Tests.FFICalloutTests>>#testBuildingFnSpec
 UnifiedFFI.ExternalAddress>>#adoptAddress:
 UnifiedFFI.FFICallout class>>#initializeTypeAliases

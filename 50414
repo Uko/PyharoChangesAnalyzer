@@ -72,12 +72,19 @@ Morphic-Widgets-FastTable.FTNilFunction>>#resizeWidget
 Morphic-Widgets-FastTable.FTOutlineDataSource>>#cellColumn:row:
 Morphic-Widgets-FastTable.FTOutlineDataSource>>#needSeparatorBefore:
 Morphic-Widgets-FastTable.FTOutlineDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTOutlineDataSource>>#toString:
+Morphic-Widgets-FastTable.FTOutlineTableContainerMorph
+Morphic-Widgets-FastTable.FTOutlineTableContainerMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTOutlineTableMorph
+Morphic-Widgets-FastTable.FTOutlineTableMorph>>#initializeContainer
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptor>>#updateList
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptorDataSource>>#cellColumn:row:
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptorDataSource>>#newDataSourceMatching:
 Morphic-Widgets-FastTable.FTSearchFunction
 Morphic-Widgets-FastTable.FTSearchFunction class>>#new
+Morphic-Widgets-FastTable.FTSearchFunction class>>#table:
 Morphic-Widgets-FastTable.FTSearchFunction>>#ghostText
+Morphic-Widgets-FastTable.FTSearchFunction>>#initializeTable:
 Morphic-Widgets-FastTable.FTSearchFunction>>#reset
 Morphic-Widgets-FastTable.FTSearchFunction>>#search
 Morphic-Widgets-FastTable.FTSearchFunction>>#searchFor:
@@ -86,11 +93,13 @@ Morphic-Widgets-FastTable.FTSearchFunction>>#update:
 Morphic-Widgets-FastTable.FTSelectionStrategy class>>#table:
 Morphic-Widgets-FastTable.FTSelectionStrategy>>#initializeTable:
 Morphic-Widgets-FastTable.FTSimpleDataSource>>#newDataSourceMatching:
+Morphic-Widgets-FastTable.FTSimpleDataSource>>#toString:
 Morphic-Widgets-FastTable.FTTableMorph
 Morphic-Widgets-FastTable.FTTableMorph class>>#defaultRowHeight
 Morphic-Widgets-FastTable.FTTableMorph class>>#with:
 Morphic-Widgets-FastTable.FTTableMorph>>#defaultContainer
 Morphic-Widgets-FastTable.FTTableMorph>>#disableFunction
+Morphic-Widgets-FastTable.FTTableMorph>>#disableSearch
 Morphic-Widgets-FastTable.FTTableMorph>>#enableFilter
 Morphic-Widgets-FastTable.FTTableMorph>>#enableFilterWithAction:
 Morphic-Widgets-FastTable.FTTableMorph>>#enableFilterWithAction:named:
@@ -104,6 +113,7 @@ Morphic-Widgets-FastTable.FTTableMorph>>#keyStrokeSearch:
 Morphic-Widgets-FastTable.FTTableMorph>>#refresh
 Morphic-Widgets-FastTable.FTTableMorph>>#resetFunction
 Morphic-Widgets-FastTable.FTTableMorph>>#resetPosition
+Morphic-Widgets-FastTable.FTTableMorph>>#resetSearch
 Morphic-Widgets-FastTable.FTTableMorph>>#resizeAllSubviews
 Morphic-Widgets-FastTable.FTTableMorph>>#resizeColumns
 Morphic-Widgets-FastTable.FTTableMorph>>#resizeContainer
@@ -149,4 +159,5 @@ Morphic-Widgets-FastTable.FTTreeItem>>#unexpand
 Morphic-Widgets-FastTable.FTTreeItem>>#unexpandedButton
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50413
+ScriptLoader50.ScriptLoader>>#update50413
 ScriptLoader50.ScriptLoader>>#update50414

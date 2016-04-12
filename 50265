@@ -2,6 +2,7 @@ Kernel.Object>>#displayString
 Morphic-Core.WorldMorph>>#buildMetaMenu:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50264
+ScriptLoader50.ScriptLoader>>#update50264
 ScriptLoader50.ScriptLoader>>#update50265
 Slot-Tests.TemporaryVariableTest>>#testPropertyAtPutPersistent
 Slot-Tests.TemporaryVariableTest>>#testPropertyBlockPersistent

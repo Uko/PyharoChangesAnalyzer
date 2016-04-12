@@ -31,4 +31,5 @@ NautilusGroupAutoBuilder.VSLoadAndCreateNautilusGroupCommand>>#execute
 NautilusGroupAutoBuilder.VSLoadAndCreateNautilusGroupCommand>>#title
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50232
+ScriptLoader50.ScriptLoader>>#update50232
 ScriptLoader50.ScriptLoader>>#update50233

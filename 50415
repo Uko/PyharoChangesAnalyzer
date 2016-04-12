@@ -1,3 +1,4 @@
+Monticello.MCLazyVersionInfo>>#loadAncestorsAndStepChildren
 Monticello.MCLazyVersionInfo>>#setAncestors:
 Monticello.MCLazyVersionInfo>>#setStepChildren:
 Monticello.MCVersionInfo>>#loadAncestorsAndStepChildren
@@ -11,8 +12,10 @@ MonticelloGUI.MCTool class>>#mcVersionCache
 Nautilus.AbstractNautilusUI
 Nautilus.AbstractNautilusUI>>#classIconFor:
 Nautilus.AbstractNautilusUI>>#initialize
+Nautilus.AbstractNautilusUI>>#setCachedHierarchyClass:
 Nautilus.Nautilus
 Nautilus.Nautilus>>#uiClass
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50414
+ScriptLoader50.ScriptLoader>>#update50414
 ScriptLoader50.ScriptLoader>>#update50415

@@ -4,4 +4,5 @@ NautilusRefactoring.NautilusRefactoring class>>#buildSourceCodeShortcutsOn:
 OpalCompiler-Core.OCKeyedSet>>#collect:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50058
+ScriptLoader50.ScriptLoader>>#update50058
 ScriptLoader50.ScriptLoader>>#update50059

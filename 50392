@@ -13,4 +13,5 @@ Morphic-Widgets-Tree.MorphTreeListManager>>#basicKeyPressed:
 OpalCompiler-Core.RBSequenceNode>>#transformLastToReturn
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50391
+ScriptLoader50.ScriptLoader>>#update50391
 ScriptLoader50.ScriptLoader>>#update50392

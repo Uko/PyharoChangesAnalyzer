@@ -65,6 +65,7 @@ GT-Inspector.GTExampleOrganizer>>#withCleanupDo:
 GT-Inspector.GTExampleRemoved
 GT-Inspector.GTSimpleMethodsBrowser>>#methodsIn:
 GT-Inspector.SubscriptionRegistry>>#subscriptions
+GT-Playground.GTPlayground>>#actionsForPreviousContents
 GT-Playground.GTPlayground>>#codeIn:
 GT-Playground.GTPlaygroundBindingsList>>#hideActionsOf:
 GT-Playground.GTPlaygroundBindingsList>>#newActionButton
@@ -101,6 +102,7 @@ GT-Spotter.GTSpotterResultsBrick>>#buildCategoryBrick:
 GT-Spotter.GTSpotterResultsBrick>>#categories
 GT-Spotter.GTSpotterResultsBrick>>#categoryBrickFor:
 GT-Spotter.GTSpotterStep>>#newContextForQuery:
+GT-SpotterExtensions-Core.GTFilterFileReference>>#indexForItem:
 GT-SpotterExtensions-Core.GTFilterFileReference>>#indexForItemName:andQuery:
 GT-SpotterExtensions-Core.GTSpotter>>#gtSpotterExamplesFor:
 GT-SpotterExtensions-Core.Pragma>>#spotterForBytecodesFor:
@@ -117,4 +119,5 @@ Glamour-Morphic-Widgets.GLMSystemWindow>>#setLabelWidgetAllowance
 Glamour-Morphic-Widgets.GLMSystemWindow>>#toolbarBox:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50618
+ScriptLoader50.ScriptLoader>>#update50618
 ScriptLoader50.ScriptLoader>>#update50619

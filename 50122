@@ -17,4 +17,5 @@ Morphic-Widgets-Tree.MorphTreeModel>>#dialogWindowIn:title:selectedtems:
 Morphic-Widgets-Tree.MorphTreeModel>>#selectItems:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50121
+ScriptLoader50.ScriptLoader>>#update50121
 ScriptLoader50.ScriptLoader>>#update50122

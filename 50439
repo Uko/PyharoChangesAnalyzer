@@ -3,7 +3,9 @@ ConfigurationOfVersionner.ConfigurationOfVersionner>>#version2137:
 Deprecated50.TBehavior>>#methodDictAddSelectorSilently:withMethod:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50438
+ScriptLoader50.ScriptLoader>>#update50438
 ScriptLoader50.ScriptLoader>>#update50439
+Traits.TBehavior>>#methodDictAddSelectorSilently:withMethod:
 Traits.TClass>>#subclass:uses:instanceVariableNames:classVariableNames:package:
 Versionner-Core-DependenciesModel.MTDependency>>#=
 Versionner-Core-Model.MBGroupInfo>>#name

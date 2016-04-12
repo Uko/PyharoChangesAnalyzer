@@ -1,6 +1,7 @@
 Glamour-Morphic-Theme.UITheme>>#backgroundColor
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50387
+ScriptLoader50.ScriptLoader>>#update50387
 ScriptLoader50.ScriptLoader>>#update50388
 System-Settings-Tests.MockSettings
 System-Settings-Tests.MockSettings class>>#booleanSetting

@@ -1,3 +1,15 @@
+AST-Core.RBExplicitVariableParser
+AST-Core.RBExplicitVariableParser>>#argumentNodeClass
+AST-Core.RBExplicitVariableParser>>#lookupVariableNodeClass:
+AST-Core.RBExplicitVariableParser>>#parseBlock
+AST-Core.RBExplicitVariableParser>>#parseMethod
+AST-Core.RBExplicitVariableParser>>#parsePrimitiveIdentifier
+AST-Core.RBExplicitVariableParser>>#parseTemps
+AST-Core.RBExplicitVariableParser>>#popScope
+AST-Core.RBExplicitVariableParser>>#pushScope:
+AST-Core.RBExplicitVariableParser>>#temporaryNodeClass
+AST-Core.RBExplicitVariableParser>>#useVariable:during:
+AST-Core.RBExplicitVariableParser>>#variableNodeClass
 ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
 ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v1_1_2:
 Graphics-Primitives.Color class>>#h:s:l:
@@ -5,8 +17,11 @@ Graphics-Primitives.Color class>>#h:s:l:alpha:
 Graphics-Primitives.Color class>>#h:s:v:alpha:
 Graphics-Primitives.Color>>#initializeHue:saturation:brightness:alpha:
 Graphics-Primitives.Color>>#initializeHue:saturation:lightness:alpha:
+Graphics-Primitives.Color>>#intializeHue:saturation:brightness:alpha:
+Morphic-Core.Morph>>#shouldGetStepsFrom:
 OpalCompiler-Tests.OCVariableSpecialisatioTest>>#testVarTemp
 QualityAssistant.CompiledMethod>>#gtInspectorCriticsIn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50190
+ScriptLoader50.ScriptLoader>>#update50190
 ScriptLoader50.ScriptLoader>>#update50191

@@ -9,5 +9,6 @@ Nautilus.AbstractNautilusUI>>#classIconFor:
 SUnit-Core.TestCase class>>#hasTestSelectors
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50510
+ScriptLoader50.ScriptLoader>>#update50510
 ScriptLoader50.ScriptLoader>>#update50511
 Spec-MorphicAdapters.MorphicLabelAdapter>>#buildWidget

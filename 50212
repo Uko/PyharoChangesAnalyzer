@@ -17,6 +17,7 @@ ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_3_2:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_3_3:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version117:
 ConfigurationOfTxText.ConfigurationOfTxText>>#version212:
+Gofer-Core.Gofer class>>#upgrade
 Monticello-Tests.MCRepositoryTest>>#homeDirectoryUrl
 Monticello-Tests.MCRepositoryTest>>#testCanCreateFiletreeRepositoryFromUrl
 Morphic-Widgets-Windows.SystemWindow class>>#windowMenuOn:
@@ -30,6 +31,7 @@ Rubric.RubShoutStylerDecorator>>#okToStyle
 Rubric.RubShoutStylerDecorator>>#shoutEnabled
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50211
+ScriptLoader50.ScriptLoader>>#update50211
 ScriptLoader50.ScriptLoader>>#update50212
 TxText-Athens.TxBasicViewMorph>>#initializeText:
 TxText-Athens.TxLayoutViewMorph>>#initialize

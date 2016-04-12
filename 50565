@@ -14,8 +14,10 @@ Reflectivity-Tools.Breakpoint>>#breakLink
 Reflectivity-Tools.Breakpoint>>#initialize
 Reflectivity-Tools.Breakpoint>>#options:
 Reflectivity.RFCondition>>#initialize
+Reflectivity.RFCondition>>#intitialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50564
+ScriptLoader50.ScriptLoader>>#update50564
 ScriptLoader50.ScriptLoader>>#update50565
 System-Support.ExternalSemaphoreTable class>>#collectionBasedOn:withRoomFor:
 System-Support.ExternalSemaphoreTable class>>#registerExternalObject:

@@ -3,6 +3,7 @@ Kernel.ClassOrganization>>#comment:
 OpalCompiler-Core.OCASTTranslator>>#classForEffect
 OpalCompiler-Core.OCASTTranslator>>#classForValue
 OpalCompiler-Core.OCASTTranslator>>#initialize
+OpalCompiler-Core.OCASTTranslator>>#visitCleanBlockNode:
 Reflectivity.RBProgramNode>>#hasMetalinkAfter
 Reflectivity.RBProgramNode>>#hasMetalinkBefore
 Reflectivity.RFASTTranslator
@@ -23,6 +24,7 @@ Reflectivity.RFASTTranslatorForValue>>#emitWhileTrue:
 Reflectivity.RFASTTranslatorForValue>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50129
+ScriptLoader50.ScriptLoader>>#update50129
 ScriptLoader50.ScriptLoader>>#update50130
 System-Sources.Object>>#isRemoteString
 System-Sources.PharoChangesCondenser>>#writeRemoteString:for:

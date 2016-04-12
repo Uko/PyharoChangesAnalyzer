@@ -1,12 +1,36 @@
+ConfigurationOfFFINB.ConfigurationOfFFINB
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#DevelopmentSupport
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#ensureMetacello
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#isMetacelloConfig
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#load
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#loadBleedingEdge
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#loadDevelopment
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#project
+ConfigurationOfFFINB.ConfigurationOfFFINB class>>#validate
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#alien:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#baseline0_9:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#customProjectAttributes
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#development:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#ffi:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#project
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#stable:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_0:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_1:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#v0_9_2:
+ConfigurationOfFFINB.ConfigurationOfFFINB>>#version093:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_11:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_11_1:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50546
+ScriptLoader50.ScriptLoader>>#update50546
 ScriptLoader50.ScriptLoader>>#update50547
 UnifiedFFI-Tests.FFICalloutMethodBuilderTest>>#testCallWithPointerPointer
 UnifiedFFI-Tests.FFICalloutObjectForTest class>>#primCreate:
 UnifiedFFI-Tests.FFICalloutObjectForTest class>>#primObject:strcpy:
+UnifiedFFI-Tests.FFICalloutObjectForTest>>#method1
 UnifiedFFI-Tests.FFICalloutObjectForTest>>#primFree
 UnifiedFFI-Tests.FFICalloutObjectForTest>>#primStrcpy:
 UnifiedFFI.ExternalAddress>>#adoptAddress:
@@ -50,8 +74,10 @@ UnifiedFFI.FFIFunctionArgument>>#needsArityRolling:
 UnifiedFFI.FFIFunctionArgument>>#rolledPointerTempName
 UnifiedFFI.FFIFunctionArgument>>#rolledPointerTempNameFor:
 UnifiedFFI.FFIInstVarArgument>>#emitArgument:context:
+UnifiedFFI.FFIInstVarArgument>>#emitArgument:context:objectClass:
 UnifiedFFI.FFIInstVarArgument>>#rolledPointerTempName
 UnifiedFFI.FFIMethodArgument>>#emitArgument:context:
+UnifiedFFI.FFIMethodArgument>>#emitArgument:context:objectClass:
 UnifiedFFI.FFIMethodArgument>>#emitArgument:context:objectClass:instVarName:
 UnifiedFFI.FFIMethodArgument>>#rolledPointerTempName
 UnifiedFFI.FFISelfArgument>>#emitArgument:context:objectClass:

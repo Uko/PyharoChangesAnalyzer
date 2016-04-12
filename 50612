@@ -1,5 +1,2970 @@
+AsmJit-Core.AJAssembler
+AsmJit-Core.AJConstants
+AsmJit-Core.AJConstants class>>#initOpCodes
+AsmJit-Core.AJConstants class>>#initialize
+AsmJit-Core.AJConstants class>>#initializeConditionCodes
+AsmJit-Core.AJConstants class>>#initializePrefetchHints
+AsmJit-Core.AJGeneratedCode
+AsmJit-Core.AJGeneratedCode class>>#fromInstructions:
+AsmJit-Core.AJGeneratedCode>>#bytes
+AsmJit-Core.AJGeneratedCode>>#bytes:
+AsmJit-Core.AJGeneratedCode>>#dumpWithLabels
+AsmJit-Core.AJGeneratedCode>>#fromInstructions:
+AsmJit-Core.AJGeneratedCode>>#initialize
+AsmJit-Core.AJGeneratedCode>>#labels:
+AsmJit-Core.AJGeneratedCode>>#offsetAt:
+AsmJit-Core.AJGeneratedCode>>#printOn:
+AsmJit-Extension.AJLineStream
+AsmJit-Extension.AJLineStream class>>#on:
+AsmJit-Extension.AJLineStream>>#cr
+AsmJit-Extension.AJLineStream>>#crlf
+AsmJit-Extension.AJLineStream>>#doesNotUnderstand:
+AsmJit-Extension.AJLineStream>>#lf
+AsmJit-Extension.AJLineStream>>#on:
+AsmJit-Extension.AJLineStream>>#padColumn:
+AsmJit-Extension.AJLineStream>>#updateLineStart
+AsmJit-Extension.AJLineStream>>#writeStream:
+AsmJit-Extension.Integer>>#asAJOperand
+AsmJit-Extension.Integer>>#asByte
+AsmJit-Extension.Integer>>#asDoubleWord
+AsmJit-Extension.Integer>>#asImm
+AsmJit-Extension.Integer>>#asImm16
+AsmJit-Extension.Integer>>#asImm32
+AsmJit-Extension.Integer>>#asImm8
+AsmJit-Extension.Integer>>#asQuadWord
+AsmJit-Extension.Integer>>#asTwosComplement:
+AsmJit-Extension.Integer>>#asUImm
+AsmJit-Extension.Integer>>#asUImm16
+AsmJit-Extension.Integer>>#asUImm32
+AsmJit-Extension.Integer>>#asUImm8
+AsmJit-Extension.Integer>>#asWord
+AsmJit-Extension.Integer>>#bin
+AsmJit-Extension.Integer>>#isByte
+AsmJit-Extension.Integer>>#printAsOperandOn:
+AsmJit-Extension.WriteStream>>#asLineStream
+AsmJit-Instructions.AJAlignmentInstruction
+AsmJit-Instructions.AJAlignmentInstruction class>>#align:
+AsmJit-Instructions.AJAlignmentInstruction class>>#alignDouble
+AsmJit-Instructions.AJAlignmentInstruction class>>#alignQuad
+AsmJit-Instructions.AJAlignmentInstruction class>>#alignWord
+AsmJit-Instructions.AJAlignmentInstruction>>#accept:
+AsmJit-Instructions.AJAlignmentInstruction>>#align
+AsmJit-Instructions.AJAlignmentInstruction>>#align:
+AsmJit-Instructions.AJAlignmentInstruction>>#alignByte
+AsmJit-Instructions.AJAlignmentInstruction>>#alignDouble
+AsmJit-Instructions.AJAlignmentInstruction>>#alignQuad
+AsmJit-Instructions.AJAlignmentInstruction>>#alignWord
+AsmJit-Instructions.AJAlignmentInstruction>>#emitCode:
+AsmJit-Instructions.AJAlignmentInstruction>>#initialize
+AsmJit-Instructions.AJAlignmentInstruction>>#name
+AsmJit-Instructions.AJAlignmentInstruction>>#paddingForPosition:
+AsmJit-Instructions.AJAlignmentInstruction>>#printSelfOn:
+AsmJit-Instructions.AJData
+AsmJit-Instructions.AJData class>>#byte:
+AsmJit-Instructions.AJData class>>#data:
+AsmJit-Instructions.AJData class>>#label:data:
+AsmJit-Instructions.AJData>>#accept:
+AsmJit-Instructions.AJData>>#data
+AsmJit-Instructions.AJData>>#data:
+AsmJit-Instructions.AJData>>#emitCode:
+AsmJit-Instructions.AJData>>#is16
+AsmJit-Instructions.AJData>>#is32
+AsmJit-Instructions.AJData>>#is64
+AsmJit-Instructions.AJData>>#is8
+AsmJit-Instructions.AJData>>#name
+AsmJit-Instructions.AJData>>#size
+AsmJit-Instructions.AJInstruction
+AsmJit-Instructions.AJInstruction>>#accept:
+AsmJit-Instructions.AJInstruction>>#annotation
+AsmJit-Instructions.AJInstruction>>#annotation:
+AsmJit-Instructions.AJInstruction>>#checkOperandsForConflict
+AsmJit-Instructions.AJInstruction>>#do:
+AsmJit-Instructions.AJInstruction>>#emitCode:
+AsmJit-Instructions.AJInstruction>>#emitCodeAtOffset:assembler:
+AsmJit-Instructions.AJInstruction>>#extractLabels:
+AsmJit-Instructions.AJInstruction>>#find:
+AsmJit-Instructions.AJInstruction>>#hasLabel
+AsmJit-Instructions.AJInstruction>>#increaseLevel:
+AsmJit-Instructions.AJInstruction>>#initialize
+AsmJit-Instructions.AJInstruction>>#insert:
+AsmJit-Instructions.AJInstruction>>#insert:before:
+AsmJit-Instructions.AJInstruction>>#instructionName
+AsmJit-Instructions.AJInstruction>>#isLabelUsed:
+AsmJit-Instructions.AJInstruction>>#last
+AsmJit-Instructions.AJInstruction>>#level
+AsmJit-Instructions.AJInstruction>>#level:
+AsmJit-Instructions.AJInstruction>>#machineCodeSize
+AsmJit-Instructions.AJInstruction>>#name
+AsmJit-Instructions.AJInstruction>>#name:
+AsmJit-Instructions.AJInstruction>>#next
+AsmJit-Instructions.AJInstruction>>#next:
+AsmJit-Instructions.AJInstruction>>#operands
+AsmJit-Instructions.AJInstruction>>#operands:
+AsmJit-Instructions.AJInstruction>>#position
+AsmJit-Instructions.AJInstruction>>#position:
+AsmJit-Instructions.AJInstruction>>#prepareCallAlignments
+AsmJit-Instructions.AJInstruction>>#printAnnotationOn:
+AsmJit-Instructions.AJInstruction>>#printIndentOn:
+AsmJit-Instructions.AJInstruction>>#printListOn:
+AsmJit-Instructions.AJInstruction>>#printMachineCodeOn:
+AsmJit-Instructions.AJInstruction>>#printOn:
+AsmJit-Instructions.AJInstruction>>#printOperandsOn:
+AsmJit-Instructions.AJInstruction>>#printSelfOn:
+AsmJit-Instructions.AJInstruction>>#printStringLimitedTo:
+AsmJit-Instructions.AJInstruction>>#processTempsWith:
+AsmJit-Instructions.AJInstruction>>#replace:with:
+AsmJit-Instructions.AJInstruction>>#setPrologue:
+AsmJit-Instructions.AJInstruction>>#storeOn:
+AsmJit-Instructions.AJInstructionDecoration
+AsmJit-Instructions.AJInstructionDecoration>>#accept:
+AsmJit-Instructions.AJInstructionDecoration>>#end
+AsmJit-Instructions.AJInstructionDecoration>>#printIndentOn:
+AsmJit-Instructions.AJInstructionDecoration>>#printSelfOn:
+AsmJit-Instructions.AJInstructionDecoration>>#start
+AsmJit-Instructions.AJJumpInstruction
+AsmJit-Instructions.AJJumpInstruction>>#accept:
+AsmJit-Instructions.AJJumpInstruction>>#codeSize
+AsmJit-Instructions.AJJumpInstruction>>#description
+AsmJit-Instructions.AJJumpInstruction>>#description:
+AsmJit-Instructions.AJJumpInstruction>>#isLabelUsed:
+AsmJit-Instructions.AJJumpInstruction>>#label
+AsmJit-Instructions.AJJumpInstruction>>#label:
+AsmJit-Instructions.AJJumpInstruction>>#printSelfOn:
+AsmJit-Instructions.AJJumpLabel
+AsmJit-Instructions.AJJumpLabel>>#accept:
+AsmJit-Instructions.AJJumpLabel>>#emitCode:
+AsmJit-Instructions.AJJumpLabel>>#extractLabels:
+AsmJit-Instructions.AJJumpLabel>>#isLabel
+AsmJit-Instructions.AJJumpLabel>>#isSet
+AsmJit-Instructions.AJJumpLabel>>#isSet:
+AsmJit-Instructions.AJJumpLabel>>#printAsOperandOn:
+AsmJit-Instructions.AJJumpLabel>>#printOn:
+AsmJit-Instructions.AJJumpLabel>>#printSelfOn:
+AsmJit-Instructions.AJRoutineEpilogue
+AsmJit-Instructions.AJRoutinePrologue
+AsmJit-Instructions.AJRoutinePrologue>>#accept:
+AsmJit-Instructions.AJRoutinePrologue>>#emitCode:
+AsmJit-Instructions.AJRoutinePrologue>>#name
+AsmJit-Instructions.AJRoutinePrologue>>#setPrologue:
+AsmJit-Operands.AJBaseReg
+AsmJit-Operands.AJBaseReg class>>#code:name:
+AsmJit-Operands.AJBaseReg>>#=
+AsmJit-Operands.AJBaseReg>>#annotation:
+AsmJit-Operands.AJBaseReg>>#basicAnnotation:
+AsmJit-Operands.AJBaseReg>>#code
+AsmJit-Operands.AJBaseReg>>#code:
+AsmJit-Operands.AJBaseReg>>#description
+AsmJit-Operands.AJBaseReg>>#descriptionOn:
+AsmJit-Operands.AJBaseReg>>#hash
+AsmJit-Operands.AJBaseReg>>#index
+AsmJit-Operands.AJBaseReg>>#influencingRegisters
+AsmJit-Operands.AJBaseReg>>#initializeWithCode:name:
+AsmJit-Operands.AJBaseReg>>#isGeneralPurpose
+AsmJit-Operands.AJBaseReg>>#isUpperBank
+AsmJit-Operands.AJBaseReg>>#isX86
+AsmJit-Operands.AJBaseReg>>#name
+AsmJit-Operands.AJBaseReg>>#prohibitsRex
+AsmJit-Operands.AJBaseReg>>#requiresRex
+AsmJit-Operands.AJBaseReg>>#size
+AsmJit-Operands.AJBaseReg>>#type
+AsmJit-Operands.AJImmediate
+AsmJit-Operands.AJImmediate class>>#ivalue:
+AsmJit-Operands.AJImmediate>>#asByte
+AsmJit-Operands.AJImmediate>>#asDWord
+AsmJit-Operands.AJImmediate>>#asQWord
+AsmJit-Operands.AJImmediate>>#asWord
+AsmJit-Operands.AJImmediate>>#emitUsing:size:
+AsmJit-Operands.AJImmediate>>#extractLabels:
+AsmJit-Operands.AJImmediate>>#fitsInSize:
+AsmJit-Operands.AJImmediate>>#initialize
+AsmJit-Operands.AJImmediate>>#isImm
+AsmJit-Operands.AJImmediate>>#isInt32
+AsmJit-Operands.AJImmediate>>#isInt8
+AsmJit-Operands.AJImmediate>>#isSigned
+AsmJit-Operands.AJImmediate>>#isUnsigned
+AsmJit-Operands.AJImmediate>>#isZero
+AsmJit-Operands.AJImmediate>>#ivalue:
+AsmJit-Operands.AJImmediate>>#label:
+AsmJit-Operands.AJImmediate>>#printOn:
+AsmJit-Operands.AJImmediate>>#prohibitsRex
+AsmJit-Operands.AJImmediate>>#ptr
+AsmJit-Operands.AJImmediate>>#relocMode
+AsmJit-Operands.AJImmediate>>#requiresRex
+AsmJit-Operands.AJImmediate>>#size
+AsmJit-Operands.AJImmediate>>#size:
+AsmJit-Operands.AJImmediate>>#sizeFor:
+AsmJit-Operands.AJImmediate>>#uvalue:
+AsmJit-Operands.AJImmediate>>#value
+AsmJit-Operands.AJMem
+AsmJit-Operands.AJMem>>#%2A
+AsmJit-Operands.AJMem>>#+
+AsmJit-Operands.AJMem>>#-
+AsmJit-Operands.AJMem>>#base
+AsmJit-Operands.AJMem>>#base:
+AsmJit-Operands.AJMem>>#displacement
+AsmJit-Operands.AJMem>>#displacement:
+AsmJit-Operands.AJMem>>#emit32BitAbsoluteDisplacementModRM:code:
+AsmJit-Operands.AJMem>>#emitBaseDisplacementModRM:code:
+AsmJit-Operands.AJMem>>#emitModRM:code:immSize:
+AsmJit-Operands.AJMem>>#emitScaledBaseDisplacementModRM:code:
+AsmJit-Operands.AJMem>>#hasBase
+AsmJit-Operands.AJMem>>#hasIndex
+AsmJit-Operands.AJMem>>#hasLabel
+AsmJit-Operands.AJMem>>#hasLabel:
+AsmJit-Operands.AJMem>>#hasSegmentPrefix
+AsmJit-Operands.AJMem>>#hasUpperBankIndex
+AsmJit-Operands.AJMem>>#index
+AsmJit-Operands.AJMem>>#index:
+AsmJit-Operands.AJMem>>#initialize
+AsmJit-Operands.AJMem>>#isMem
+AsmJit-Operands.AJMem>>#isRip
+AsmJit-Operands.AJMem>>#isUpperBank
+AsmJit-Operands.AJMem>>#printOn:
+AsmJit-Operands.AJMem>>#printScaleOn:
+AsmJit-Operands.AJMem>>#prohibitsRex
+AsmJit-Operands.AJMem>>#requiresRex
+AsmJit-Operands.AJMem>>#scale:
+AsmJit-Operands.AJMem>>#segmentPrefix
+AsmJit-Operands.AJMem>>#segmentPrefix:
+AsmJit-Operands.AJMem>>#shift
+AsmJit-Operands.AJMem>>#shift:
+AsmJit-Operands.AJMem>>#size
+AsmJit-Operands.AJMem>>#size:
+AsmJit-Operands.AJOperand
+AsmJit-Operands.AJOperand>>#annotation
+AsmJit-Operands.AJOperand>>#annotation:
+AsmJit-Operands.AJOperand>>#asAJOperand
+AsmJit-Operands.AJOperand>>#clearId
+AsmJit-Operands.AJOperand>>#compilerData
+AsmJit-Operands.AJOperand>>#emitPushOnStack:
+AsmJit-Operands.AJOperand>>#extractLabels:
+AsmJit-Operands.AJOperand>>#hasUpperBankIndex
+AsmJit-Operands.AJOperand>>#is16
+AsmJit-Operands.AJOperand>>#is32
+AsmJit-Operands.AJOperand>>#is64
+AsmJit-Operands.AJOperand>>#is8
+AsmJit-Operands.AJOperand>>#isImm
+AsmJit-Operands.AJOperand>>#isLabel
+AsmJit-Operands.AJOperand>>#isMem
+AsmJit-Operands.AJOperand>>#isNone
+AsmJit-Operands.AJOperand>>#isReg
+AsmJit-Operands.AJOperand>>#isRegCode:
+AsmJit-Operands.AJOperand>>#isRegIndex:
+AsmJit-Operands.AJOperand>>#isRegMem
+AsmJit-Operands.AJOperand>>#isRegMem:
+AsmJit-Operands.AJOperand>>#isRegType:
+AsmJit-Operands.AJOperand>>#isRegTypeGPB
+AsmJit-Operands.AJOperand>>#isRegTypeGPD
+AsmJit-Operands.AJOperand>>#isRegTypeGPQ
+AsmJit-Operands.AJOperand>>#isRegTypeGPW
+AsmJit-Operands.AJOperand>>#isRegTypeMM
+AsmJit-Operands.AJOperand>>#isRegTypeX87
+AsmJit-Operands.AJOperand>>#isRegTypeXMM
+AsmJit-Operands.AJOperand>>#isRip
+AsmJit-Operands.AJOperand>>#operandId
+AsmJit-Operands.AJOperand>>#printAnnotationOn:
+AsmJit-Operands.AJOperand>>#printAsOperandOn:
+AsmJit-Operands.AJOperand>>#prohibitsRex
+AsmJit-Operands.AJOperand>>#ptr
+AsmJit-Operands.AJOperand>>#ptr16
+AsmJit-Operands.AJOperand>>#ptr32
+AsmJit-Operands.AJOperand>>#ptr64
+AsmJit-Operands.AJOperand>>#ptr8
+AsmJit-Operands.AJOperand>>#requiresRex
+AsmJit-Operands.AJOperand>>#size
+AsmJit-Operands.AJOperand>>#size16
+AsmJit-Operands.AJOperand>>#size32
+AsmJit-Operands.AJOperand>>#size64
+AsmJit-Operands.AJOperand>>#size8
+AsmJit-Operands.AJOperand>>#stackSize
+AsmJit-Operands.AJRegister
+AsmJit-Operands.AJRegister>>#code:
+AsmJit-Operands.AJRegister>>#influencingRegisters
+AsmJit-Operands.AJRegister>>#isGeneralPurpose
+AsmJit-Operands.AJRegister>>#isReg
+AsmJit-Operands.AJRegister>>#isX86
+AsmJit-Operands.AJRegister>>#size
+AsmJit-StackManagement.AJCallArgument
+AsmJit-StackManagement.AJCallArgument>>#accept:
+AsmJit-StackManagement.AJCallArgument>>#instructionName
+AsmJit-StackManagement.AJCallArgument>>#name
+AsmJit-StackManagement.AJCallArgument>>#prepareCallAlignments
+AsmJit-StackManagement.AJCallArgument>>#size
+AsmJit-StackManagement.AJCallArgument>>#size:
+AsmJit-StackManagement.AJCallArgument>>#stackOffset:
+AsmJit-StackManagement.AJCallCleanup
+AsmJit-StackManagement.AJCallCleanup>>#accept:
+AsmJit-StackManagement.AJCallCleanup>>#name
+AsmJit-StackManagement.AJCallCleanup>>#prepareCallAlignments
+AsmJit-StackManagement.AJCallInfo
+AsmJit-StackManagement.AJCallInfo>>#alignment:
+AsmJit-StackManagement.AJCallInfo>>#alignmentInsertionPoint:
+AsmJit-StackManagement.AJCallInfo>>#asm:
+AsmJit-StackManagement.AJCallInfo>>#callCleanup:
+AsmJit-StackManagement.AJCallInfo>>#defaultArgumentSize
+AsmJit-StackManagement.AJCallInfo>>#disableCleanup
+AsmJit-StackManagement.AJCallInfo>>#initialize
+AsmJit-StackManagement.AJCallInfo>>#name
+AsmJit-StackManagement.AJCallInfo>>#needsAlignment
+AsmJit-StackManagement.AJCallInfo>>#noCleanup
+AsmJit-StackManagement.AJCallInfo>>#noticeArgument:
+AsmJit-StackManagement.AJCallInfo>>#push:
+AsmJit-StackManagement.AJCallInfo>>#stackSize
+AsmJit-StackManagement.AJCallInfo>>#stackSize:
+AsmJit-StackManagement.AJCdeclCallInfo
+AsmJit-StackManagement.AJCdeclCallInfo>>#alignedCleanup
+AsmJit-StackManagement.AJCdeclCallInfo>>#defaultArgumentSize
+AsmJit-StackManagement.AJCdeclCallInfo>>#emitAlignment
+AsmJit-StackManagement.AJCdeclCallInfo>>#emitAlignmentIfNeeded
+AsmJit-StackManagement.AJCdeclCallInfo>>#emitCleanup
+AsmJit-StackManagement.AJCdeclCallInfo>>#normalCleanup
+AsmJit-StackManagement.AJReleaseTemps
+AsmJit-StackManagement.AJReleaseTemps>>#accept:
+AsmJit-StackManagement.AJReleaseTemps>>#count
+AsmJit-StackManagement.AJReleaseTemps>>#count:
+AsmJit-StackManagement.AJReleaseTemps>>#printOn:
+AsmJit-StackManagement.AJReleaseTemps>>#printSelfOn:
+AsmJit-StackManagement.AJReleaseTemps>>#processTempsWith:
+AsmJit-StackManagement.AJReserveTemp
+AsmJit-StackManagement.AJReserveTemp>>#accept:
+AsmJit-StackManagement.AJReserveTemp>>#asAJOperand
+AsmJit-StackManagement.AJReserveTemp>>#emitPushOnStack:
+AsmJit-StackManagement.AJReserveTemp>>#isMem
+AsmJit-StackManagement.AJReserveTemp>>#name
+AsmJit-StackManagement.AJReserveTemp>>#operand
+AsmJit-StackManagement.AJReserveTemp>>#operand:
+AsmJit-StackManagement.AJReserveTemp>>#printAsOperandOn:
+AsmJit-StackManagement.AJReserveTemp>>#printOn:
+AsmJit-StackManagement.AJReserveTemp>>#processTempsWith:
+AsmJit-StackManagement.AJReserveTemp>>#prohibitsRex
+AsmJit-StackManagement.AJReserveTemp>>#size
+AsmJit-StackManagement.AJReserveTemp>>#size:
+AsmJit-StackManagement.AJReserveTemp>>#stackSize
+AsmJit-StackManagement.AJRoutineStackManager
+AsmJit-StackManagement.AJRoutineStackManager>>#analyzeInstructions:assembler:
+AsmJit-StackManagement.AJRoutineStackManager>>#emitEpilogue:assembler:
+AsmJit-StackManagement.AJRoutineStackManager>>#emitPrologue
+AsmJit-StackManagement.AJRoutineStackManager>>#initialize
+AsmJit-StackManagement.AJRoutineStackManager>>#newCdeclCall
+AsmJit-StackManagement.AJRoutineStackManager>>#newStdCall
+AsmJit-StackManagement.AJRoutineStackManager>>#noStackFrame
+AsmJit-StackManagement.AJRoutineStackManager>>#releaseTemps:
+AsmJit-StackManagement.AJRoutineStackManager>>#reserveExtraBytesOnStack:
+AsmJit-StackManagement.AJRoutineStackManager>>#reserveTemp:
+AsmJit-StackManagement.AJRoutineStackManager>>#reset
+AsmJit-StackManagement.AJRoutineStackManager>>#stackFrameCheck
+AsmJit-StackManagement.AJStackInstruction
+AsmJit-StackManagement.AJStackInstruction>>#callInfo
+AsmJit-StackManagement.AJStackInstruction>>#callInfo:
+AsmJit-StackManagement.AJStdCallCallInfo
+AsmJit-StackManagement.AJStdCallCallInfo>>#emitAlignment
+AsmJit-StackManagement.AJStdCallCallInfo>>#emitAlignmentIfNeeded
+AsmJit-Tests.AJStackAlignmentTests
+AsmJit-Tests.AJStackAlignmentTests>>#newAssembler
+AsmJit-Tests.AJStackAlignmentTests>>#testJumps
+AsmJit-Tests.AJStackAlignmentTests>>#testNewProtocolForAlignedCalls
+AsmJit-Tests.AJx64AssemblerTests
+AsmJit-Tests.AJx64AssemblerTests class>>#shouldInheritSelectors
+AsmJit-Tests.AJx64AssemblerTests>>#newAssembler
+AsmJit-Tests.AJx64AssemblerTests>>#testAssembly0
+AsmJit-Tests.AJx64AssemblerTests>>#testAssembly01
+AsmJit-Tests.AJx64AssemblerTests>>#testAssembly1
+AsmJit-Tests.AJx64AssemblerTests>>#testAssembly2
+AsmJit-Tests.AJx64AssemblerTests>>#testAssembly3
+AsmJit-Tests.AJx64AssemblerTests>>#testAssemblyImmAddr
+AsmJit-Tests.AJx64AssemblerTests>>#testAssemblyMemBase
+AsmJit-Tests.AJx64AssemblerTests>>#testAssemblyMemBaseDisp
+AsmJit-Tests.AJx64AssemblerTests>>#testAssemblyMemBaseDisp2
+AsmJit-Tests.AJx64AssemblerTests>>#testAssemblyMemBytes
+AsmJit-Tests.AJx64AssemblerTests>>#testBitTest
+AsmJit-Tests.AJx64AssemblerTests>>#testByteRegs4through7
+AsmJit-Tests.AJx64AssemblerTests>>#testCall
+AsmJit-Tests.AJx64AssemblerTests>>#testCallInvalid
+AsmJit-Tests.AJx64AssemblerTests>>#testHighByteRegistersInvalid
+AsmJit-Tests.AJx64AssemblerTests>>#testImmLabels
+AsmJit-Tests.AJx64AssemblerTests>>#testIndexScales
+AsmJit-Tests.AJx64AssemblerTests>>#testInvalidTest
+AsmJit-Tests.AJx64AssemblerTests>>#testJumps
+AsmJit-Tests.AJx64AssemblerTests>>#testMovHighIndexRegister
+AsmJit-Tests.AJx64AssemblerTests>>#testMovImmediate
+AsmJit-Tests.AJx64AssemblerTests>>#testMovMemory
+AsmJit-Tests.AJx64AssemblerTests>>#testMovZX
+AsmJit-Tests.AJx64AssemblerTests>>#testMovZxSxInvalid
+AsmJit-Tests.AJx64AssemblerTests>>#testMul
+AsmJit-Tests.AJx64AssemblerTests>>#testNeg
+AsmJit-Tests.AJx64AssemblerTests>>#testPop
+AsmJit-Tests.AJx64AssemblerTests>>#testPush
+AsmJit-Tests.AJx64AssemblerTests>>#testStringOps64Mnemonics
+AsmJit-Tests.AJx64AssemblerTests>>#testSyscall
+AsmJit-Tests.AJx64AssemblerTests>>#testTest
+AsmJit-Tests.AJx64AssemblerTests>>#testXor
+AsmJit-Tests.AJx64AssemblerTests>>#testXorFastCode
+AsmJit-Tests.AJx64AssemblerTests>>#testXorInvalid
+AsmJit-Tests.AJx86AssemblerTests
+AsmJit-Tests.AJx86AssemblerTests>>#asmShould:raise:
+AsmJit-Tests.AJx86AssemblerTests>>#assert:bytes:
+AsmJit-Tests.AJx86AssemblerTests>>#bytes:
+AsmJit-Tests.AJx86AssemblerTests>>#newAssembler
+AsmJit-Tests.AJx86AssemblerTests>>#setUp
+AsmJit-Tests.AJx86AssemblerTests>>#setUpDataBytes
+AsmJit-Tests.AJx86AssemblerTests>>#setUpDataBytesAlign:
+AsmJit-Tests.AJx86AssemblerTests>>#testAssembly1
+AsmJit-Tests.AJx86AssemblerTests>>#testAssembly3
+AsmJit-Tests.AJx86AssemblerTests>>#testAssemblyImmAddr
+AsmJit-Tests.AJx86AssemblerTests>>#testAssemblyMemBase
+AsmJit-Tests.AJx86AssemblerTests>>#testAssemblyMemBaseDisp
+AsmJit-Tests.AJx86AssemblerTests>>#testAssemblyMemBaseDisp2
+AsmJit-Tests.AJx86AssemblerTests>>#testAssemblyMemBytes
+AsmJit-Tests.AJx86AssemblerTests>>#testBitTest
+AsmJit-Tests.AJx86AssemblerTests>>#testCall
+AsmJit-Tests.AJx86AssemblerTests>>#testDataBytes
+AsmJit-Tests.AJx86AssemblerTests>>#testDataBytesAlignDouble
+AsmJit-Tests.AJx86AssemblerTests>>#testDataBytesAlignQuad
+AsmJit-Tests.AJx86AssemblerTests>>#testDataBytesAlignWord
+AsmJit-Tests.AJx86AssemblerTests>>#testDataDouble
+AsmJit-Tests.AJx86AssemblerTests>>#testDataWord
+AsmJit-Tests.AJx86AssemblerTests>>#testFXCH
+AsmJit-Tests.AJx86AssemblerTests>>#testFXCHST1
+AsmJit-Tests.AJx86AssemblerTests>>#testForwardJumps
+AsmJit-Tests.AJx86AssemblerTests>>#testImmLabels
+AsmJit-Tests.AJx86AssemblerTests>>#testJMPRegister
+AsmJit-Tests.AJx86AssemblerTests>>#testJumps
+AsmJit-Tests.AJx86AssemblerTests>>#testMOVCMPSD
+AsmJit-Tests.AJx86AssemblerTests>>#testMovSxZx
+AsmJit-Tests.AJx86AssemblerTests>>#testStringOpMnemonics
+AsmJit-Tests.AJx86AssemblerTests>>#testSyscall
+AsmJit-Tests.AJx86AssemblerTests>>#testTest
+AsmJit-Tests.AJx86RegisterTests
+AsmJit-Tests.AJx86RegisterTests>>#testAsHighByte
+AsmJit-Tests.AJx86RegisterTests>>#testAsLowByte
+AsmJit-Tests.AJx86RegisterTests>>#testRegisterWidthConversions
+AsmJit-x86.AJMMRegister
+AsmJit-x86.AJMMRegister>>#code:
+AsmJit-x86.AJMMRegister>>#descriptionOn:
+AsmJit-x86.AJMMRegister>>#influencingRegisters
+AsmJit-x86.AJMMRegister>>#isGeneralPurpose
+AsmJit-x86.AJMMRegister>>#isRegTypeMM
+AsmJit-x86.AJMMRegister>>#isX86
+AsmJit-x86.AJx64Assembler
+AsmJit-x86.AJx64Assembler>>#BPL
+AsmJit-x86.AJx64Assembler>>#DIL
+AsmJit-x86.AJx64Assembler>>#EIP
+AsmJit-x86.AJx64Assembler>>#IP
+AsmJit-x86.AJx64Assembler>>#R10
+AsmJit-x86.AJx64Assembler>>#R10B
+AsmJit-x86.AJx64Assembler>>#R10D
+AsmJit-x86.AJx64Assembler>>#R10W
+AsmJit-x86.AJx64Assembler>>#R11
+AsmJit-x86.AJx64Assembler>>#R11B
+AsmJit-x86.AJx64Assembler>>#R11D
+AsmJit-x86.AJx64Assembler>>#R11W
+AsmJit-x86.AJx64Assembler>>#R12
+AsmJit-x86.AJx64Assembler>>#R12B
+AsmJit-x86.AJx64Assembler>>#R12D
+AsmJit-x86.AJx64Assembler>>#R12W
+AsmJit-x86.AJx64Assembler>>#R13
+AsmJit-x86.AJx64Assembler>>#R13B
+AsmJit-x86.AJx64Assembler>>#R13D
+AsmJit-x86.AJx64Assembler>>#R13W
+AsmJit-x86.AJx64Assembler>>#R14
+AsmJit-x86.AJx64Assembler>>#R14B
+AsmJit-x86.AJx64Assembler>>#R14D
+AsmJit-x86.AJx64Assembler>>#R14W
+AsmJit-x86.AJx64Assembler>>#R15
+AsmJit-x86.AJx64Assembler>>#R15B
+AsmJit-x86.AJx64Assembler>>#R15D
+AsmJit-x86.AJx64Assembler>>#R15W
+AsmJit-x86.AJx64Assembler>>#R8
+AsmJit-x86.AJx64Assembler>>#R8B
+AsmJit-x86.AJx64Assembler>>#R8D
+AsmJit-x86.AJx64Assembler>>#R8W
+AsmJit-x86.AJx64Assembler>>#R9
+AsmJit-x86.AJx64Assembler>>#R9B
+AsmJit-x86.AJx64Assembler>>#R9D
+AsmJit-x86.AJx64Assembler>>#R9W
+AsmJit-x86.AJx64Assembler>>#RAX
+AsmJit-x86.AJx64Assembler>>#RBP
+AsmJit-x86.AJx64Assembler>>#RBX
+AsmJit-x86.AJx64Assembler>>#RCX
+AsmJit-x86.AJx64Assembler>>#RDI
+AsmJit-x86.AJx64Assembler>>#RDX
+AsmJit-x86.AJx64Assembler>>#RIP
+AsmJit-x86.AJx64Assembler>>#RSI
+AsmJit-x86.AJx64Assembler>>#RSP
+AsmJit-x86.AJx64Assembler>>#SIL
+AsmJit-x86.AJx64Assembler>>#SPL
+AsmJit-x86.AJx64Assembler>>#XMM10
+AsmJit-x86.AJx64Assembler>>#XMM11
+AsmJit-x86.AJx64Assembler>>#XMM12
+AsmJit-x86.AJx64Assembler>>#XMM13
+AsmJit-x86.AJx64Assembler>>#XMM14
+AsmJit-x86.AJx64Assembler>>#XMM15
+AsmJit-x86.AJx64Assembler>>#XMM8
+AsmJit-x86.AJx64Assembler>>#XMM9
+AsmJit-x86.AJx64Assembler>>#accumulator
+AsmJit-x86.AJx64Assembler>>#basePointer
+AsmJit-x86.AJx64Assembler>>#counter
+AsmJit-x86.AJx64Assembler>>#data
+AsmJit-x86.AJx64Assembler>>#destinationIndex
+AsmJit-x86.AJx64Assembler>>#initialize
+AsmJit-x86.AJx64Assembler>>#instructionDesciptions
+AsmJit-x86.AJx64Assembler>>#instructionPointer
+AsmJit-x86.AJx64Assembler>>#is32
+AsmJit-x86.AJx64Assembler>>#newInstruction
+AsmJit-x86.AJx64Assembler>>#newJumpInstruction
+AsmJit-x86.AJx64Assembler>>#numGPRegisters
+AsmJit-x86.AJx64Assembler>>#pointerSize
+AsmJit-x86.AJx64Assembler>>#sourceIndex
+AsmJit-x86.AJx64Assembler>>#stackPointer
+AsmJit-x86.AJx64Instruction
+AsmJit-x86.AJx64Instruction>>#instructionDesciptions
+AsmJit-x86.AJx64Instruction>>#is32BitMode
+AsmJit-x86.AJx64Instruction>>#is64BitMode
+AsmJit-x86.AJx64Instruction>>#requiresRex
+AsmJit-x86.AJx64InstructionDescription
+AsmJit-x86.AJx64InstructionDescription>>#emitalu:operand1:operand2:operand3:
+AsmJit-x86.AJx64InstructionDescription>>#emitbswap:operand1:operand2:operand3:
+AsmJit-x86.AJx64InstructionDescription>>#emitcall:operand1:operand2:operand3:
+AsmJit-x86.AJx64InstructionDescription>>#emitmov:operand1:operand2:operand3:
+AsmJit-x86.AJx64InstructionDescription>>#emitmovPtr:operand1:operand2:operand3:
+AsmJit-x86.AJx64InstructionDescription>>#emitmovSxZx:operand1:operand2:operand3:
+AsmJit-x86.AJx64InstructionDescription>>#emitpop:operand1:operand2:operand3:
+AsmJit-x86.AJx64JumpInstruction
+AsmJit-x86.AJx64JumpInstruction>>#instructionDesciptions
+AsmJit-x86.AJx64RipRegister
+AsmJit-x86.AJx64RipRegister>>#as16
+AsmJit-x86.AJx64RipRegister>>#as32
+AsmJit-x86.AJx64RipRegister>>#as64
+AsmJit-x86.AJx64RipRegister>>#as8
+AsmJit-x86.AJx64RipRegister>>#code
+AsmJit-x86.AJx64RipRegister>>#descriptionOn:
+AsmJit-x86.AJx64RipRegister>>#index
+AsmJit-x86.AJx64RipRegister>>#influencingRegisters
+AsmJit-x86.AJx64RipRegister>>#isGeneralPurpose
+AsmJit-x86.AJx64RipRegister>>#isRip
+AsmJit-x86.AJx64RipRegister>>#isUpperBank
+AsmJit-x86.AJx64RipRegister>>#isX86
+AsmJit-x86.AJx64RipRegister>>#ripAccessError
+AsmJit-x86.AJx86Assembler
+AsmJit-x86.AJx86Assembler class>>#gccDisassemble:
+AsmJit-x86.AJx86Assembler class>>#noStackFrame
+AsmJit-x86.AJx86Assembler>>#AH
+AsmJit-x86.AJx86Assembler>>#AL
+AsmJit-x86.AJx86Assembler>>#AX
+AsmJit-x86.AJx86Assembler>>#BH
+AsmJit-x86.AJx86Assembler>>#BL
+AsmJit-x86.AJx86Assembler>>#BP
+AsmJit-x86.AJx86Assembler>>#BX
+AsmJit-x86.AJx86Assembler>>#CH
+AsmJit-x86.AJx86Assembler>>#CL
+AsmJit-x86.AJx86Assembler>>#CX
+AsmJit-x86.AJx86Assembler>>#DH
+AsmJit-x86.AJx86Assembler>>#DI
+AsmJit-x86.AJx86Assembler>>#DL
+AsmJit-x86.AJx86Assembler>>#DX
+AsmJit-x86.AJx86Assembler>>#EAX
+AsmJit-x86.AJx86Assembler>>#EBP
+AsmJit-x86.AJx86Assembler>>#EBX
+AsmJit-x86.AJx86Assembler>>#ECX
+AsmJit-x86.AJx86Assembler>>#EDI
+AsmJit-x86.AJx86Assembler>>#EDX
+AsmJit-x86.AJx86Assembler>>#ESI
+AsmJit-x86.AJx86Assembler>>#ESP
+AsmJit-x86.AJx86Assembler>>#MM0
+AsmJit-x86.AJx86Assembler>>#MM1
+AsmJit-x86.AJx86Assembler>>#MM2
+AsmJit-x86.AJx86Assembler>>#MM3
+AsmJit-x86.AJx86Assembler>>#MM4
+AsmJit-x86.AJx86Assembler>>#MM5
+AsmJit-x86.AJx86Assembler>>#MM6
+AsmJit-x86.AJx86Assembler>>#MM7
+AsmJit-x86.AJx86Assembler>>#SI
+AsmJit-x86.AJx86Assembler>>#SP
+AsmJit-x86.AJx86Assembler>>#ST0
+AsmJit-x86.AJx86Assembler>>#ST1
+AsmJit-x86.AJx86Assembler>>#ST2
+AsmJit-x86.AJx86Assembler>>#ST3
+AsmJit-x86.AJx86Assembler>>#ST4
+AsmJit-x86.AJx86Assembler>>#ST5
+AsmJit-x86.AJx86Assembler>>#ST6
+AsmJit-x86.AJx86Assembler>>#ST7
+AsmJit-x86.AJx86Assembler>>#XMM0
+AsmJit-x86.AJx86Assembler>>#XMM1
+AsmJit-x86.AJx86Assembler>>#XMM2
+AsmJit-x86.AJx86Assembler>>#XMM3
+AsmJit-x86.AJx86Assembler>>#XMM4
+AsmJit-x86.AJx86Assembler>>#XMM5
+AsmJit-x86.AJx86Assembler>>#XMM6
+AsmJit-x86.AJx86Assembler>>#XMM7
+AsmJit-x86.AJx86Assembler>>#accumulator
+AsmJit-x86.AJx86Assembler>>#adc:with:
+AsmJit-x86.AJx86Assembler>>#add:with:
+AsmJit-x86.AJx86Assembler>>#addInstruction:
+AsmJit-x86.AJx86Assembler>>#addInstruction:description:operands:
+AsmJit-x86.AJx86Assembler>>#addInstruction:operands:
+AsmJit-x86.AJx86Assembler>>#align:
+AsmJit-x86.AJx86Assembler>>#alignDouble
+AsmJit-x86.AJx86Assembler>>#alignQuad
+AsmJit-x86.AJx86Assembler>>#alignWord
+AsmJit-x86.AJx86Assembler>>#amdprefetch:
+AsmJit-x86.AJx86Assembler>>#amdprefetchw:
+AsmJit-x86.AJx86Assembler>>#and:with:
+AsmJit-x86.AJx86Assembler>>#basePointer
+AsmJit-x86.AJx86Assembler>>#bsf:with:
+AsmJit-x86.AJx86Assembler>>#bsr:with:
+AsmJit-x86.AJx86Assembler>>#bswap:
+AsmJit-x86.AJx86Assembler>>#bt:with:
+AsmJit-x86.AJx86Assembler>>#btc:with:
+AsmJit-x86.AJx86Assembler>>#btr:with:
+AsmJit-x86.AJx86Assembler>>#bts:with:
+AsmJit-x86.AJx86Assembler>>#bytes
+AsmJit-x86.AJx86Assembler>>#call:
+AsmJit-x86.AJx86Assembler>>#callCleanup:
+AsmJit-x86.AJx86Assembler>>#cdeclCall:alignment:
+AsmJit-x86.AJx86Assembler>>#clflush:
+AsmJit-x86.AJx86Assembler>>#cmova:with:
+AsmJit-x86.AJx86Assembler>>#cmovae:with:
+AsmJit-x86.AJx86Assembler>>#cmovb:with:
+AsmJit-x86.AJx86Assembler>>#cmovbe:with:
+AsmJit-x86.AJx86Assembler>>#cmovc:with:
+AsmJit-x86.AJx86Assembler>>#cmove:with:
+AsmJit-x86.AJx86Assembler>>#cmovg:with:
+AsmJit-x86.AJx86Assembler>>#cmovge:with:
+AsmJit-x86.AJx86Assembler>>#cmovl:with:
+AsmJit-x86.AJx86Assembler>>#cmovle:with:
+AsmJit-x86.AJx86Assembler>>#cmovna:with:
+AsmJit-x86.AJx86Assembler>>#cmovnae:with:
+AsmJit-x86.AJx86Assembler>>#cmovnb:with:
+AsmJit-x86.AJx86Assembler>>#cmovnbe:with:
+AsmJit-x86.AJx86Assembler>>#cmovnc:with:
+AsmJit-x86.AJx86Assembler>>#cmovne:with:
+AsmJit-x86.AJx86Assembler>>#cmovng:with:
+AsmJit-x86.AJx86Assembler>>#cmovnge:with:
+AsmJit-x86.AJx86Assembler>>#cmovnl:with:
+AsmJit-x86.AJx86Assembler>>#cmovnle:with:
+AsmJit-x86.AJx86Assembler>>#cmovno:with:
+AsmJit-x86.AJx86Assembler>>#cmovnp:with:
+AsmJit-x86.AJx86Assembler>>#cmovns:with:
+AsmJit-x86.AJx86Assembler>>#cmovnz:with:
+AsmJit-x86.AJx86Assembler>>#cmovo:with:
+AsmJit-x86.AJx86Assembler>>#cmovp:with:
+AsmJit-x86.AJx86Assembler>>#cmovpe:with:
+AsmJit-x86.AJx86Assembler>>#cmovpo:with:
+AsmJit-x86.AJx86Assembler>>#cmovs:with:
+AsmJit-x86.AJx86Assembler>>#cmovz:with:
+AsmJit-x86.AJx86Assembler>>#cmp:with:
+AsmJit-x86.AJx86Assembler>>#cmpxchg16b:
+AsmJit-x86.AJx86Assembler>>#cmpxchg8b:
+AsmJit-x86.AJx86Assembler>>#cmpxchg:with:
+AsmJit-x86.AJx86Assembler>>#counter
+AsmJit-x86.AJx86Assembler>>#crc32:with:
+AsmJit-x86.AJx86Assembler>>#data
+AsmJit-x86.AJx86Assembler>>#db:
+AsmJit-x86.AJx86Assembler>>#dd:
+AsmJit-x86.AJx86Assembler>>#dec:
+AsmJit-x86.AJx86Assembler>>#decorateWith:during:
+AsmJit-x86.AJx86Assembler>>#destinationIndex
+AsmJit-x86.AJx86Assembler>>#div:
+AsmJit-x86.AJx86Assembler>>#doesNotUnderstand:
+AsmJit-x86.AJx86Assembler>>#dw:
+AsmJit-x86.AJx86Assembler>>#emitEpilogue:
+AsmJit-x86.AJx86Assembler>>#enter:with:
+AsmJit-x86.AJx86Assembler>>#fadd:
+AsmJit-x86.AJx86Assembler>>#fadd:with:
+AsmJit-x86.AJx86Assembler>>#faddp:
+AsmJit-x86.AJx86Assembler>>#fbld:
+AsmJit-x86.AJx86Assembler>>#fbstp:
+AsmJit-x86.AJx86Assembler>>#fcmovb:
+AsmJit-x86.AJx86Assembler>>#fcmovbe:
+AsmJit-x86.AJx86Assembler>>#fcmove:
+AsmJit-x86.AJx86Assembler>>#fcmovnb:
+AsmJit-x86.AJx86Assembler>>#fcmovnbe:
+AsmJit-x86.AJx86Assembler>>#fcmovne:
+AsmJit-x86.AJx86Assembler>>#fcmovnu:
+AsmJit-x86.AJx86Assembler>>#fcmovu:
+AsmJit-x86.AJx86Assembler>>#fcom:
+AsmJit-x86.AJx86Assembler>>#fcom:with:
+AsmJit-x86.AJx86Assembler>>#fcomi:
+AsmJit-x86.AJx86Assembler>>#fcomip:
+AsmJit-x86.AJx86Assembler>>#fcomp:
+AsmJit-x86.AJx86Assembler>>#fcomp:with:
+AsmJit-x86.AJx86Assembler>>#fdiv:
+AsmJit-x86.AJx86Assembler>>#fdiv:with:
+AsmJit-x86.AJx86Assembler>>#fdivp:
+AsmJit-x86.AJx86Assembler>>#fdivr:
+AsmJit-x86.AJx86Assembler>>#fdivr:with:
+AsmJit-x86.AJx86Assembler>>#fdivrp:
+AsmJit-x86.AJx86Assembler>>#ffree:
+AsmJit-x86.AJx86Assembler>>#fiadd:
+AsmJit-x86.AJx86Assembler>>#ficom:
+AsmJit-x86.AJx86Assembler>>#ficomp:
+AsmJit-x86.AJx86Assembler>>#fidiv:
+AsmJit-x86.AJx86Assembler>>#fidivr:
+AsmJit-x86.AJx86Assembler>>#fild:
+AsmJit-x86.AJx86Assembler>>#fimul:
+AsmJit-x86.AJx86Assembler>>#fist:
+AsmJit-x86.AJx86Assembler>>#fistp:
+AsmJit-x86.AJx86Assembler>>#fisttp:
+AsmJit-x86.AJx86Assembler>>#fisub:
+AsmJit-x86.AJx86Assembler>>#fisubr:
+AsmJit-x86.AJx86Assembler>>#fld:
+AsmJit-x86.AJx86Assembler>>#fldcw:
+AsmJit-x86.AJx86Assembler>>#fldenv:
+AsmJit-x86.AJx86Assembler>>#fmul:
+AsmJit-x86.AJx86Assembler>>#fmul:with:
+AsmJit-x86.AJx86Assembler>>#fmulp:
+AsmJit-x86.AJx86Assembler>>#fnsave:
+AsmJit-x86.AJx86Assembler>>#fnstcw:
+AsmJit-x86.AJx86Assembler>>#fnstenv:
+AsmJit-x86.AJx86Assembler>>#frstor:
+AsmJit-x86.AJx86Assembler>>#fsave:
+AsmJit-x86.AJx86Assembler>>#fst:
+AsmJit-x86.AJx86Assembler>>#fstcw:
+AsmJit-x86.AJx86Assembler>>#fstenv:
+AsmJit-x86.AJx86Assembler>>#fstp:
+AsmJit-x86.AJx86Assembler>>#fsub:
+AsmJit-x86.AJx86Assembler>>#fsub:with:
+AsmJit-x86.AJx86Assembler>>#fsubp:
+AsmJit-x86.AJx86Assembler>>#fsubr:
+AsmJit-x86.AJx86Assembler>>#fsubr:with:
+AsmJit-x86.AJx86Assembler>>#fsubrp:
+AsmJit-x86.AJx86Assembler>>#fucom:
+AsmJit-x86.AJx86Assembler>>#fucomi:
+AsmJit-x86.AJx86Assembler>>#fucomip:
+AsmJit-x86.AJx86Assembler>>#fucomp:
+AsmJit-x86.AJx86Assembler>>#fxch:
+AsmJit-x86.AJx86Assembler>>#fxrstor:
+AsmJit-x86.AJx86Assembler>>#fxsave:
+AsmJit-x86.AJx86Assembler>>#gccDisassemble
+AsmJit-x86.AJx86Assembler>>#gccDisassemble:
+AsmJit-x86.AJx86Assembler>>#generatedCode
+AsmJit-x86.AJx86Assembler>>#hasLabelNamed:
+AsmJit-x86.AJx86Assembler>>#idiv:
+AsmJit-x86.AJx86Assembler>>#imm:
+AsmJit-x86.AJx86Assembler>>#imul:
+AsmJit-x86.AJx86Assembler>>#imul:with:
+AsmJit-x86.AJx86Assembler>>#imul:with:with:
+AsmJit-x86.AJx86Assembler>>#inc:
+AsmJit-x86.AJx86Assembler>>#initialize
+AsmJit-x86.AJx86Assembler>>#insert:after:
+AsmJit-x86.AJx86Assembler>>#insert:before:
+AsmJit-x86.AJx86Assembler>>#instructionDesciptions
+AsmJit-x86.AJx86Assembler>>#instructionPointer
+AsmJit-x86.AJx86Assembler>>#instructionsFor:
+AsmJit-x86.AJx86Assembler>>#is32
+AsmJit-x86.AJx86Assembler>>#isLabelUsed:
+AsmJit-x86.AJx86Assembler>>#ja:
+AsmJit-x86.AJx86Assembler>>#jae:
+AsmJit-x86.AJx86Assembler>>#jb:
+AsmJit-x86.AJx86Assembler>>#jbe:
+AsmJit-x86.AJx86Assembler>>#jc:
+AsmJit-x86.AJx86Assembler>>#je:
+AsmJit-x86.AJx86Assembler>>#jg:
+AsmJit-x86.AJx86Assembler>>#jge:
+AsmJit-x86.AJx86Assembler>>#jl:
+AsmJit-x86.AJx86Assembler>>#jle:
+AsmJit-x86.AJx86Assembler>>#jmp:
+AsmJit-x86.AJx86Assembler>>#jna:
+AsmJit-x86.AJx86Assembler>>#jnae:
+AsmJit-x86.AJx86Assembler>>#jnb:
+AsmJit-x86.AJx86Assembler>>#jnbe:
+AsmJit-x86.AJx86Assembler>>#jnc:
+AsmJit-x86.AJx86Assembler>>#jne:
+AsmJit-x86.AJx86Assembler>>#jng:
+AsmJit-x86.AJx86Assembler>>#jnge:
+AsmJit-x86.AJx86Assembler>>#jnl:
+AsmJit-x86.AJx86Assembler>>#jnle:
+AsmJit-x86.AJx86Assembler>>#jno:
+AsmJit-x86.AJx86Assembler>>#jnp:
+AsmJit-x86.AJx86Assembler>>#jns:
+AsmJit-x86.AJx86Assembler>>#jnz:
+AsmJit-x86.AJx86Assembler>>#jo:
+AsmJit-x86.AJx86Assembler>>#jp:
+AsmJit-x86.AJx86Assembler>>#jpe:
+AsmJit-x86.AJx86Assembler>>#jpo:
+AsmJit-x86.AJx86Assembler>>#js:
+AsmJit-x86.AJx86Assembler>>#jz:
+AsmJit-x86.AJx86Assembler>>#label:
+AsmJit-x86.AJx86Assembler>>#label:ifPresent:
+AsmJit-x86.AJx86Assembler>>#labelNamed:
+AsmJit-x86.AJx86Assembler>>#ldmxcsr:
+AsmJit-x86.AJx86Assembler>>#lea:with:
+AsmJit-x86.AJx86Assembler>>#mov:
+AsmJit-x86.AJx86Assembler>>#mov:to:
+AsmJit-x86.AJx86Assembler>>#mov:with:
+AsmJit-x86.AJx86Assembler>>#movPtr:with:
+AsmJit-x86.AJx86Assembler>>#movapd:with:
+AsmJit-x86.AJx86Assembler>>#movaps:with:
+AsmJit-x86.AJx86Assembler>>#movddup:with:
+AsmJit-x86.AJx86Assembler>>#movdq2q:with:
+AsmJit-x86.AJx86Assembler>>#movdqa:with:
+AsmJit-x86.AJx86Assembler>>#movdqu:with:
+AsmJit-x86.AJx86Assembler>>#movhlps:with:
+AsmJit-x86.AJx86Assembler>>#movhpd:with:
+AsmJit-x86.AJx86Assembler>>#movhps:with:
+AsmJit-x86.AJx86Assembler>>#movlhps:with:
+AsmJit-x86.AJx86Assembler>>#movlpd:with:
+AsmJit-x86.AJx86Assembler>>#movlps:with:
+AsmJit-x86.AJx86Assembler>>#movmskpd:with:
+AsmJit-x86.AJx86Assembler>>#movmskps:with:
+AsmJit-x86.AJx86Assembler>>#movntdq:with:
+AsmJit-x86.AJx86Assembler>>#movntdqa:with:
+AsmJit-x86.AJx86Assembler>>#movnti:with:
+AsmJit-x86.AJx86Assembler>>#movntpd:with:
+AsmJit-x86.AJx86Assembler>>#movntps:with:
+AsmJit-x86.AJx86Assembler>>#movntq:with:
+AsmJit-x86.AJx86Assembler>>#movss:with:
+AsmJit-x86.AJx86Assembler>>#movsx:to:
+AsmJit-x86.AJx86Assembler>>#movsx:with:
+AsmJit-x86.AJx86Assembler>>#movsxd:with:
+AsmJit-x86.AJx86Assembler>>#movupd:with:
+AsmJit-x86.AJx86Assembler>>#movups:with:
+AsmJit-x86.AJx86Assembler>>#movzx:to:
+AsmJit-x86.AJx86Assembler>>#movzx:with:
+AsmJit-x86.AJx86Assembler>>#mul:
+AsmJit-x86.AJx86Assembler>>#neg:
+AsmJit-x86.AJx86Assembler>>#newCdeclCall
+AsmJit-x86.AJx86Assembler>>#newInstruction
+AsmJit-x86.AJx86Assembler>>#newInstruction:description:operands:
+AsmJit-x86.AJx86Assembler>>#newJumpInstruction
+AsmJit-x86.AJx86Assembler>>#newJumpInstruction:description:operands:
+AsmJit-x86.AJx86Assembler>>#newStdCall
+AsmJit-x86.AJx86Assembler>>#noStackFrame
+AsmJit-x86.AJx86Assembler>>#not:
+AsmJit-x86.AJx86Assembler>>#noticePush:forCall:
+AsmJit-x86.AJx86Assembler>>#numGPRegisters
+AsmJit-x86.AJx86Assembler>>#operand:
+AsmJit-x86.AJx86Assembler>>#or:with:
+AsmJit-x86.AJx86Assembler>>#performingCall:in:
+AsmJit-x86.AJx86Assembler>>#pointerSize
+AsmJit-x86.AJx86Assembler>>#pop:
+AsmJit-x86.AJx86Assembler>>#popcnt:with:
+AsmJit-x86.AJx86Assembler>>#prepareInstructions
+AsmJit-x86.AJx86Assembler>>#push:
+AsmJit-x86.AJx86Assembler>>#pushArgument:forCall:
+AsmJit-x86.AJx86Assembler>>#rcl:with:
+AsmJit-x86.AJx86Assembler>>#rcr:with:
+AsmJit-x86.AJx86Assembler>>#reg16:
+AsmJit-x86.AJx86Assembler>>#reg32:
+AsmJit-x86.AJx86Assembler>>#reg8:
+AsmJit-x86.AJx86Assembler>>#reg:size:
+AsmJit-x86.AJx86Assembler>>#releaseTemps:
+AsmJit-x86.AJx86Assembler>>#replace:with:
+AsmJit-x86.AJx86Assembler>>#reserveExtraBytesOnStack:
+AsmJit-x86.AJx86Assembler>>#reserveTemp
+AsmJit-x86.AJx86Assembler>>#reset
+AsmJit-x86.AJx86Assembler>>#ret:
+AsmJit-x86.AJx86Assembler>>#rol:with:
+AsmJit-x86.AJx86Assembler>>#ror:with:
+AsmJit-x86.AJx86Assembler>>#sal:with:
+AsmJit-x86.AJx86Assembler>>#sar:with:
+AsmJit-x86.AJx86Assembler>>#sbb:with:
+AsmJit-x86.AJx86Assembler>>#shl:with:
+AsmJit-x86.AJx86Assembler>>#shld:with:with:
+AsmJit-x86.AJx86Assembler>>#shr:with:
+AsmJit-x86.AJx86Assembler>>#shrd:with:with:
+AsmJit-x86.AJx86Assembler>>#sourceIndex
+AsmJit-x86.AJx86Assembler>>#stackFrameValueAtOffset:
+AsmJit-x86.AJx86Assembler>>#stackManager:
+AsmJit-x86.AJx86Assembler>>#stackPointer
+AsmJit-x86.AJx86Assembler>>#stmxcsr:
+AsmJit-x86.AJx86Assembler>>#sub:with:
+AsmJit-x86.AJx86Assembler>>#syscall
+AsmJit-x86.AJx86Assembler>>#test:with:
+AsmJit-x86.AJx86Assembler>>#undefinedLabels
+AsmJit-x86.AJx86Assembler>>#uniqueLabelName:
+AsmJit-x86.AJx86Assembler>>#wordSize
+AsmJit-x86.AJx86Assembler>>#writeCodeToFile:
+AsmJit-x86.AJx86Assembler>>#xadd:with:
+AsmJit-x86.AJx86Assembler>>#xchg:with:
+AsmJit-x86.AJx86Assembler>>#xor:with:
+AsmJit-x86.AJx86GPRegister
+AsmJit-x86.AJx86GPRegister>>#as16
+AsmJit-x86.AJx86GPRegister>>#as32
+AsmJit-x86.AJx86GPRegister>>#as64
+AsmJit-x86.AJx86GPRegister>>#as8
+AsmJit-x86.AJx86GPRegister>>#asHighByte
+AsmJit-x86.AJx86GPRegister>>#asLowByte
+AsmJit-x86.AJx86GPRegister>>#descriptionOn:
+AsmJit-x86.AJx86GPRegister>>#emitModRM:code:immSize:
+AsmJit-x86.AJx86GPRegister>>#isGeneralPurpose
+AsmJit-x86.AJx86GPRegister>>#isHighByte
+AsmJit-x86.AJx86GPRegister>>#isLowByte
+AsmJit-x86.AJx86GPRegister>>#printAsMemBaseOn:
+AsmJit-x86.AJx86GPRegister>>#printOn:
+AsmJit-x86.AJx86GPRegister>>#ptr
+AsmJit-x86.AJx86GPRegister>>#registerName
+AsmJit-x86.AJx86GPRegister>>#stackSize
+AsmJit-x86.AJx86Instruction
+AsmJit-x86.AJx86Instruction>>#accept:
+AsmJit-x86.AJx86Instruction>>#checkOperandsForConflict
+AsmJit-x86.AJx86Instruction>>#description
+AsmJit-x86.AJx86Instruction>>#description:
+AsmJit-x86.AJx86Instruction>>#emitByte:
+AsmJit-x86.AJx86Instruction>>#emitCode:
+AsmJit-x86.AJx86Instruction>>#emitDWord:
+AsmJit-x86.AJx86Instruction>>#emitImmediate:size:
+AsmJit-x86.AJx86Instruction>>#emitMod:reg:rm:
+AsmJit-x86.AJx86Instruction>>#emitOpCode:
+AsmJit-x86.AJx86Instruction>>#emitOperandSizeOverridePrefix:
+AsmJit-x86.AJx86Instruction>>#emitQWord:
+AsmJit-x86.AJx86Instruction>>#emitRexForInteger:op2:
+AsmJit-x86.AJx86Instruction>>#emitRexForOp1:op2:
+AsmJit-x86.AJx86Instruction>>#emitRexForSingleOperand:
+AsmJit-x86.AJx86Instruction>>#emitRexPrefixW:R:X:B:
+AsmJit-x86.AJx86Instruction>>#emitRexR:opReg:regCode:
+AsmJit-x86.AJx86Instruction>>#emitRexRM:regCode:rm:
+AsmJit-x86.AJx86Instruction>>#emitScale:index:base:
+AsmJit-x86.AJx86Instruction>>#emitSegmentPrefix:
+AsmJit-x86.AJx86Instruction>>#emitWord:
+AsmJit-x86.AJx86Instruction>>#emitX86Inl:reg:
+AsmJit-x86.AJx86Instruction>>#emitX86Inl:reg:withRex:
+AsmJit-x86.AJx86Instruction>>#emitX86RM:size:regOrCode:rm:
+AsmJit-x86.AJx86Instruction>>#emitX86RM:size:regOrCode:rm:immSize:
+AsmJit-x86.AJx86Instruction>>#instructionDesciptions
+AsmJit-x86.AJx86Instruction>>#is32BitMode
+AsmJit-x86.AJx86Instruction>>#is64BitMode
+AsmJit-x86.AJx86Instruction>>#isGPNRegister:
+AsmJit-x86.AJx86Instruction>>#operandSizeOverridePrefix
+AsmJit-x86.AJx86Instruction>>#requiresRex
+AsmJit-x86.AJx86Instruction>>#setLabelPosition:
+AsmJit-x86.AJx86InstructionDescription
+AsmJit-x86.AJx86InstructionDescription class>>#at:
+AsmJit-x86.AJx86InstructionDescription class>>#checkInstructionsIntegrity
+AsmJit-x86.AJx86InstructionDescription class>>#fromArray:
+AsmJit-x86.AJx86InstructionDescription class>>#initInstructions
+AsmJit-x86.AJx86InstructionDescription class>>#initialize
+AsmJit-x86.AJx86InstructionDescription class>>#instructionData
+AsmJit-x86.AJx86InstructionDescription class>>#instructions
+AsmJit-x86.AJx86InstructionDescription class>>#instructionsAmbiguous
+AsmJit-x86.AJx86InstructionDescription class>>#instructionsCDQ
+AsmJit-x86.AJx86InstructionDescription class>>#instructionsOther
+AsmJit-x86.AJx86InstructionDescription class>>#instructionsStrings
+AsmJit-x86.AJx86InstructionDescription class>>#printInstructions
+AsmJit-x86.AJx86InstructionDescription class>>#printInstructionsOn:
+AsmJit-x86.AJx86InstructionDescription>>#comment
+AsmJit-x86.AJx86InstructionDescription>>#comment:
+AsmJit-x86.AJx86InstructionDescription>>#description
+AsmJit-x86.AJx86InstructionDescription>>#description:
+AsmJit-x86.AJx86InstructionDescription>>#emitUsing:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitUsing:operands:
+AsmJit-x86.AJx86InstructionDescription>>#emitalu:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitbswap:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitbt:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitcall:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitcjmp:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitcrc32:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitemit:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitenter:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitimul:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitincdec:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitjmp:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitlea:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmem:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmuMov:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmuMovD:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmuMovQ:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmuPextr:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmuPrefetch:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmuRm3DNow:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmuRmImm8:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmmurmi:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmov:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmovPtr:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmovSxZx:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmovbe:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitmovsxd:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitpop:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitpush:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitret:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitrm:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitrmr:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitrot:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitrrm:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitsddisambiguate:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitshldShrd:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitsmnemonic:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emittest:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitx87addp:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitx87fpu:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitx87fstsw:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitx87mem:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitx87memSti:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitx87sti:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#emitxchg:operand1:operand2:operand3:
+AsmJit-x86.AJx86InstructionDescription>>#fromArray:
+AsmJit-x86.AJx86InstructionDescription>>#group
+AsmJit-x86.AJx86InstructionDescription>>#group:
+AsmJit-x86.AJx86InstructionDescription>>#invalidInstruction
+AsmJit-x86.AJx86InstructionDescription>>#is32BitOnly
+AsmJit-x86.AJx86InstructionDescription>>#is64BitOnly
+AsmJit-x86.AJx86InstructionDescription>>#isJump
+AsmJit-x86.AJx86InstructionDescription>>#name
+AsmJit-x86.AJx86InstructionDescription>>#name:
+AsmJit-x86.AJx86InstructionDescription>>#o1Flags
+AsmJit-x86.AJx86InstructionDescription>>#o1Flags:
+AsmJit-x86.AJx86InstructionDescription>>#o2Flags
+AsmJit-x86.AJx86InstructionDescription>>#o2Flags:
+AsmJit-x86.AJx86InstructionDescription>>#opCode1
+AsmJit-x86.AJx86InstructionDescription>>#opCode1:
+AsmJit-x86.AJx86InstructionDescription>>#opCode2
+AsmJit-x86.AJx86InstructionDescription>>#opCode2:
+AsmJit-x86.AJx86InstructionDescription>>#opCodeR
+AsmJit-x86.AJx86InstructionDescription>>#opCodeR:
+AsmJit-x86.AJx86InstructionDescription>>#printDWord:
+AsmJit-x86.AJx86InstructionDescription>>#printOn:
+AsmJit-x86.AJx86InstructionDescription>>#translateSymFlag:
+AsmJit-x86.AJx86JumpInstruction
+AsmJit-x86.AJx86JumpInstruction>>#codeSize
+AsmJit-x86.AJx86JumpInstruction>>#emitCode:
+AsmJit-x86.AJx86JumpInstruction>>#emitCodeAtOffset:assembler:
+AsmJit-x86.AJx86JumpInstruction>>#emitConditionalJump:to:
+AsmJit-x86.AJx86JumpInstruction>>#emitLongJump:target:
+AsmJit-x86.AJx86JumpInstruction>>#emitShortJump:offset:
+AsmJit-x86.AJx86JumpInstruction>>#emitUnconditionalJumpTo:
+AsmJit-x86.AJx86JumpInstruction>>#errorUndefinedLabel:
+AsmJit-x86.AJx86JumpInstruction>>#instructionDesciptions
+AsmJit-x86.AJx86JumpInstruction>>#isConditional
+AsmJit-x86.AJx86JumpInstruction>>#machineCodeSize
+AsmJit-x86.AJx86Registers
+AsmJit-x86.AJx86Registers class>>#AH
+AsmJit-x86.AJx86Registers class>>#AL
+AsmJit-x86.AJx86Registers class>>#AX
+AsmJit-x86.AJx86Registers class>>#BH
+AsmJit-x86.AJx86Registers class>>#BL
+AsmJit-x86.AJx86Registers class>>#BP
+AsmJit-x86.AJx86Registers class>>#BX
+AsmJit-x86.AJx86Registers class>>#CH
+AsmJit-x86.AJx86Registers class>>#CL
+AsmJit-x86.AJx86Registers class>>#CX
+AsmJit-x86.AJx86Registers class>>#DH
+AsmJit-x86.AJx86Registers class>>#DI
+AsmJit-x86.AJx86Registers class>>#DL
+AsmJit-x86.AJx86Registers class>>#DX
+AsmJit-x86.AJx86Registers class>>#EAX
+AsmJit-x86.AJx86Registers class>>#EBP
+AsmJit-x86.AJx86Registers class>>#EBX
+AsmJit-x86.AJx86Registers class>>#ECX
+AsmJit-x86.AJx86Registers class>>#EDI
+AsmJit-x86.AJx86Registers class>>#EDX
+AsmJit-x86.AJx86Registers class>>#EIP
+AsmJit-x86.AJx86Registers class>>#ESI
+AsmJit-x86.AJx86Registers class>>#ESP
+AsmJit-x86.AJx86Registers class>>#IP
+AsmJit-x86.AJx86Registers class>>#MM0
+AsmJit-x86.AJx86Registers class>>#MM1
+AsmJit-x86.AJx86Registers class>>#MM2
+AsmJit-x86.AJx86Registers class>>#MM3
+AsmJit-x86.AJx86Registers class>>#MM4
+AsmJit-x86.AJx86Registers class>>#MM5
+AsmJit-x86.AJx86Registers class>>#MM6
+AsmJit-x86.AJx86Registers class>>#MM7
+AsmJit-x86.AJx86Registers class>>#R10
+AsmJit-x86.AJx86Registers class>>#R10B
+AsmJit-x86.AJx86Registers class>>#R10D
+AsmJit-x86.AJx86Registers class>>#R10W
+AsmJit-x86.AJx86Registers class>>#R11
+AsmJit-x86.AJx86Registers class>>#R11B
+AsmJit-x86.AJx86Registers class>>#R11D
+AsmJit-x86.AJx86Registers class>>#R11W
+AsmJit-x86.AJx86Registers class>>#R12
+AsmJit-x86.AJx86Registers class>>#R12B
+AsmJit-x86.AJx86Registers class>>#R12D
+AsmJit-x86.AJx86Registers class>>#R12W
+AsmJit-x86.AJx86Registers class>>#R13
+AsmJit-x86.AJx86Registers class>>#R13B
+AsmJit-x86.AJx86Registers class>>#R13D
+AsmJit-x86.AJx86Registers class>>#R13W
+AsmJit-x86.AJx86Registers class>>#R14
+AsmJit-x86.AJx86Registers class>>#R14B
+AsmJit-x86.AJx86Registers class>>#R14D
+AsmJit-x86.AJx86Registers class>>#R14W
+AsmJit-x86.AJx86Registers class>>#R15
+AsmJit-x86.AJx86Registers class>>#R15B
+AsmJit-x86.AJx86Registers class>>#R15D
+AsmJit-x86.AJx86Registers class>>#R15W
+AsmJit-x86.AJx86Registers class>>#R8
+AsmJit-x86.AJx86Registers class>>#R8B
+AsmJit-x86.AJx86Registers class>>#R8D
+AsmJit-x86.AJx86Registers class>>#R8W
+AsmJit-x86.AJx86Registers class>>#R9
+AsmJit-x86.AJx86Registers class>>#R9B
+AsmJit-x86.AJx86Registers class>>#R9D
+AsmJit-x86.AJx86Registers class>>#R9W
+AsmJit-x86.AJx86Registers class>>#RAX
+AsmJit-x86.AJx86Registers class>>#RBP
+AsmJit-x86.AJx86Registers class>>#RBX
+AsmJit-x86.AJx86Registers class>>#RCX
+AsmJit-x86.AJx86Registers class>>#RDI
+AsmJit-x86.AJx86Registers class>>#RDX
+AsmJit-x86.AJx86Registers class>>#RIP
+AsmJit-x86.AJx86Registers class>>#RSI
+AsmJit-x86.AJx86Registers class>>#RSP
+AsmJit-x86.AJx86Registers class>>#SI
+AsmJit-x86.AJx86Registers class>>#SP
+AsmJit-x86.AJx86Registers class>>#ST0
+AsmJit-x86.AJx86Registers class>>#ST1
+AsmJit-x86.AJx86Registers class>>#ST2
+AsmJit-x86.AJx86Registers class>>#ST3
+AsmJit-x86.AJx86Registers class>>#ST4
+AsmJit-x86.AJx86Registers class>>#ST5
+AsmJit-x86.AJx86Registers class>>#ST6
+AsmJit-x86.AJx86Registers class>>#ST7
+AsmJit-x86.AJx86Registers class>>#XMM0
+AsmJit-x86.AJx86Registers class>>#XMM1
+AsmJit-x86.AJx86Registers class>>#XMM10
+AsmJit-x86.AJx86Registers class>>#XMM11
+AsmJit-x86.AJx86Registers class>>#XMM12
+AsmJit-x86.AJx86Registers class>>#XMM13
+AsmJit-x86.AJx86Registers class>>#XMM14
+AsmJit-x86.AJx86Registers class>>#XMM15
+AsmJit-x86.AJx86Registers class>>#XMM2
+AsmJit-x86.AJx86Registers class>>#XMM3
+AsmJit-x86.AJx86Registers class>>#XMM4
+AsmJit-x86.AJx86Registers class>>#XMM5
+AsmJit-x86.AJx86Registers class>>#XMM6
+AsmJit-x86.AJx86Registers class>>#XMM7
+AsmJit-x86.AJx86Registers class>>#XMM8
+AsmJit-x86.AJx86Registers class>>#XMM9
+AsmJit-x86.AJx86Registers class>>#all
+AsmJit-x86.AJx86Registers class>>#all16
+AsmJit-x86.AJx86Registers class>>#all32
+AsmJit-x86.AJx86Registers class>>#all64
+AsmJit-x86.AJx86Registers class>>#all8
+AsmJit-x86.AJx86Registers class>>#at:
+AsmJit-x86.AJx86Registers class>>#code:
+AsmJit-x86.AJx86Registers class>>#doesNotUnderstand:
+AsmJit-x86.AJx86Registers class>>#generalPurpose
+AsmJit-x86.AJx86Registers class>>#generalPurpose16
+AsmJit-x86.AJx86Registers class>>#generalPurpose32
+AsmJit-x86.AJx86Registers class>>#generalPurpose64
+AsmJit-x86.AJx86Registers class>>#generalPurpose8
+AsmJit-x86.AJx86Registers class>>#generalPurposeWithIndex:size:requiresRex:prohibitsRex:
+AsmJit-x86.AJx86Registers class>>#initialize
+AsmJit-x86.AJx86Registers class>>#initializeGeneralPurpose16BitRegisters
+AsmJit-x86.AJx86Registers class>>#initializeGeneralPurpose32BitRegisters
+AsmJit-x86.AJx86Registers class>>#initializeGeneralPurpose64BitRegisters
+AsmJit-x86.AJx86Registers class>>#initializeGeneralPurpose8BitRegisters
+AsmJit-x86.AJx86Registers class>>#initializeInstructionPointerRegisters
+AsmJit-x86.AJx86Registers class>>#initializeMMXRegisters
+AsmJit-x86.AJx86Registers class>>#initializeSSERegisters
+AsmJit-x86.AJx86Registers class>>#initializeX87Registers
+AsmJit-x86.AJx86Registers class>>#installRegister:accessorCategory:
+AsmJit-x86.AJx86Registers class>>#installRegister:accessorCategory:on:
+AsmJit-x86.AJx86Registers class>>#installRegisterAccessors
+AsmJit-x86.AJx86Registers class>>#printRegister:descriptionOn:
+AsmJit-x86.AJx86Registers class>>#registerBase:class:rex:values:
+AsmJit-x86.AJx86Registers class>>#registerBase:class:values:
+AsmJit-x86.AJx86Registers class>>#sortRegistersByIndex:
+AsmJit-x86.AJx87Register
+AsmJit-x86.AJx87Register>>#code:
+AsmJit-x86.AJx87Register>>#descriptionOn:
+AsmJit-x86.AJx87Register>>#influencingRegisters
+AsmJit-x86.AJx87Register>>#isGeneralPurpose
+AsmJit-x86.AJx87Register>>#isRegTypeX87
+AsmJit-x86.AJx87Register>>#isX86
+AsmJit-x86.AJxMMRegister
+AsmJit-x86.AJxMMRegister>>#code:
+AsmJit-x86.AJxMMRegister>>#descriptionOn:
+AsmJit-x86.AJxMMRegister>>#isGeneralPurpose
+AsmJit-x86.AJxMMRegister>>#isRegTypeXMM
+AsmJit-x86.AJxMMRegister>>#isX86
 Athens-Cairo.AthensCairoSurface class>>#primImageFromData:width:height:pitch:
 Athens-Cairo.TCairoLibrary class>>#nbLibraryNameOrHandle
+Fuel.NBExternalHandle>>#fuelReplacement
+Generated-code-non-existing-package.CairoGlyphsArray>>#at:
+Generated-code-non-existing-package.CairoGlyphsArray>>#at:put:
+Generated-code-non-existing-package.NBTestExternalValue>>#value
+Generated-code-non-existing-package.NBTestExternalValue>>#value:
+Generated-code-non-existing-package.OSSDLIntValue>>#value
+Generated-code-non-existing-package.OSSDLIntValue>>#value:
+NativeBoost-Core.AJImmediate>>#asNBExternalType:
+NativeBoost-Core.ArrayedCollection>>#hexDump
+NativeBoost-Core.Behavior>>#externalTypeAlias:
+NativeBoost-Core.Behavior>>#nbBindingOf:
+NativeBoost-Core.Behavior>>#nbFnArgument:generator:
+NativeBoost-Core.Boolean class>>#asNBExternalType:
+NativeBoost-Core.Boolean>>#asNBExternalType:
+NativeBoost-Core.ByteArray class>>#asNBExternalType:
+NativeBoost-Core.CompiledMethod>>#forceJIT
+NativeBoost-Core.CompiledMethod>>#hasNativeCallPrimitive
+NativeBoost-Core.CompiledMethod>>#hasNativeCode
+NativeBoost-Core.CompiledMethod>>#nbArgumentNames
+NativeBoost-Core.CompiledMethod>>#trailerKind
+NativeBoost-Core.Integer>>#asNBExternalType:
+NativeBoost-Core.Metaclass>>#externalTypeAlias:
+NativeBoost-Core.NBBool
+NativeBoost-Core.NBBool>>#coerceReturnValue:
+NativeBoost-Core.NBBool>>#pushAsValue:
+NativeBoost-Core.NBBool>>#valueSize
+NativeBoost-Core.NBBootstrapUlong
+NativeBoost-Core.NBBootstrapUlong>>#coerceReturnValue:
+NativeBoost-Core.NBBootstrapUlong>>#valueSize
+NativeBoost-Core.NBBufferWithOffset
+NativeBoost-Core.NBBufferWithOffset class>>#asNBExternalType:
+NativeBoost-Core.NBBufferWithOffset>>#buffer
+NativeBoost-Core.NBBufferWithOffset>>#buffer:
+NativeBoost-Core.NBBufferWithOffset>>#offset
+NativeBoost-Core.NBBufferWithOffset>>#offset:
+NativeBoost-Core.NBBufferWithOffsetType
+NativeBoost-Core.NBBufferWithOffsetType class>>#objectClass:
+NativeBoost-Core.NBBufferWithOffsetType>>#bufferIvarIndex
+NativeBoost-Core.NBBufferWithOffsetType>>#coerceReturn:
+NativeBoost-Core.NBBufferWithOffsetType>>#objectClass
+NativeBoost-Core.NBBufferWithOffsetType>>#objectClass:
+NativeBoost-Core.NBBufferWithOffsetType>>#offsetIvarIndex
+NativeBoost-Core.NBBufferWithOffsetType>>#pushAsValue:
+NativeBoost-Core.NBBufferWithOffsetType>>#valueSize
+NativeBoost-Core.NBByteArrayPtr
+NativeBoost-Core.NBByteArrayPtr>>#pushAsPointer:
+NativeBoost-Core.NBByteArrayPtr>>#pushAsValue:
+NativeBoost-Core.NBByteArrayPtr>>#valueSize
+NativeBoost-Core.NBByteArraySize
+NativeBoost-Core.NBByteArraySize>>#coerceReturn:
+NativeBoost-Core.NBByteArraySize>>#pushAsPointer:
+NativeBoost-Core.NBByteArraySize>>#pushAsValue:
+NativeBoost-Core.NBByteArraySize>>#valueSize
+NativeBoost-Core.NBCallbackCodeGen
+NativeBoost-Core.NBCallbackCodeGen>>#CFramePointerAddress
+NativeBoost-Core.NBCallbackCodeGen>>#CStackPointerAddress
+NativeBoost-Core.NBCallbackCodeGen>>#activateCallbackContext:
+NativeBoost-Core.NBCallbackCodeGen>>#decrementCallbackCounter
+NativeBoost-Core.NBCallbackCodeGen>>#emitArgumentsCoercion
+NativeBoost-Core.NBCallbackCodeGen>>#enterSmalltalkExecutiveImplementation
+NativeBoost-Core.NBCallbackCodeGen>>#generateCallbackEnterCodeFor:
+NativeBoost-Core.NBCallbackCodeGen>>#generateCallbackLeaveCodeFor:leaveAddr:
+NativeBoost-Core.NBCallbackCodeGen>>#generator:
+NativeBoost-Core.NBCallbackCodeGen>>#incrementCallbackCounter
+NativeBoost-Core.NBCallbackCodeGen>>#memCopy:to:size:
+NativeBoost-Core.NBCallbackCodeGen>>#primJumpBufSize
+NativeBoost-Core.NBCallbackCodeGen>>#reenterInterpreterAddress
+NativeBoost-Core.NBCallbackCodeGen>>#restoreExecutionState
+NativeBoost-Core.NBCallbackCodeGen>>#saveExecutionState
+NativeBoost-Core.NBCharacterType
+NativeBoost-Core.NBCharacterType>>#coerceReturnValue:
+NativeBoost-Core.NBCharacterType>>#pushAsValue:
+NativeBoost-Core.NBCharacterType>>#valueSize
+NativeBoost-Core.NBCodeGenRecursion
+NativeBoost-Core.NBCodeGenerationError
+NativeBoost-Core.NBCogInterpreterProxy
+NativeBoost-Core.NBExternalAddress
+NativeBoost-Core.NBExternalAddress class>>#asNBExternalType:
+NativeBoost-Core.NBExternalAddress class>>#finalizeResourceData:
+NativeBoost-Core.NBExternalAddress class>>#fromString:
+NativeBoost-Core.NBExternalAddress class>>#null
+NativeBoost-Core.NBExternalAddress>>#=
+NativeBoost-Core.NBExternalAddress>>#finalize
+NativeBoost-Core.NBExternalAddress>>#free
+NativeBoost-Core.NBExternalAddress>>#freeAfterUse
+NativeBoost-Core.NBExternalAddress>>#notNull
+NativeBoost-Core.NBExternalAddress>>#readString
+NativeBoost-Core.NBExternalAddress>>#writeString:
+NativeBoost-Core.NBExternalAddressType
+NativeBoost-Core.NBExternalAddressType>>#coerceReturnValue:
+NativeBoost-Core.NBExternalAddressType>>#createInstanceWithValue:generator:
+NativeBoost-Core.NBExternalAddressType>>#pushAsPointer:
+NativeBoost-Core.NBExternalAddressType>>#pushAsValue:
+NativeBoost-Core.NBExternalAddressType>>#valueSize
+NativeBoost-Core.NBExternalArray
+NativeBoost-Core.NBExternalArray class>>#anonymousSubclassInitElementType:
+NativeBoost-Core.NBExternalArray class>>#elementSize
+NativeBoost-Core.NBExternalArray class>>#elementType
+NativeBoost-Core.NBExternalArray class>>#externalNew:
+NativeBoost-Core.NBExternalArray class>>#initElementType:
+NativeBoost-Core.NBExternalArray class>>#initialize
+NativeBoost-Core.NBExternalArray class>>#initializeForNewSession
+NativeBoost-Core.NBExternalArray class>>#installAccessors
+NativeBoost-Core.NBExternalArray class>>#new:
+NativeBoost-Core.NBExternalArray class>>#ofType:
+NativeBoost-Core.NBExternalArray class>>#onAddress:size:
+NativeBoost-Core.NBExternalArray class>>#updateElementSize
+NativeBoost-Core.NBExternalArray>>#address
+NativeBoost-Core.NBExternalArray>>#at:
+NativeBoost-Core.NBExternalArray>>#at:put:
+NativeBoost-Core.NBExternalArray>>#emitCopy:
+NativeBoost-Core.NBExternalArray>>#emitCopyUsingLoop:
+NativeBoost-Core.NBExternalArray>>#emitRead
+NativeBoost-Core.NBExternalArray>>#emitWrite
+NativeBoost-Core.NBExternalArray>>#free
+NativeBoost-Core.NBExternalArray>>#initializeWithAddress:Size:
+NativeBoost-Core.NBExternalArray>>#initializeWithSize:
+NativeBoost-Core.NBExternalArray>>#isExternal
+NativeBoost-Core.NBExternalArray>>#postCopy
+NativeBoost-Core.NBExternalArray>>#size
+NativeBoost-Core.NBExternalEnumeration
+NativeBoost-Core.NBExternalEnumeration class>>#asNBExternalType:
+NativeBoost-Core.NBExternalEnumeration class>>#at:
+NativeBoost-Core.NBExternalEnumeration class>>#doesNotUnderstand:
+NativeBoost-Core.NBExternalEnumeration class>>#enumDecl
+NativeBoost-Core.NBExternalEnumeration class>>#fromInteger:
+NativeBoost-Core.NBExternalEnumeration class>>#includes:
+NativeBoost-Core.NBExternalEnumeration class>>#initialize
+NativeBoost-Core.NBExternalEnumeration class>>#initializeEnum
+NativeBoost-Core.NBExternalEnumeration class>>#itemAt:
+NativeBoost-Core.NBExternalEnumeration class>>#itemAt:ifAbsent:
+NativeBoost-Core.NBExternalEnumeration class>>#new
+NativeBoost-Core.NBExternalEnumeration class>>#representationType
+NativeBoost-Core.NBExternalEnumeration>>#=
+NativeBoost-Core.NBExternalEnumeration>>#item
+NativeBoost-Core.NBExternalEnumeration>>#printOn:
+NativeBoost-Core.NBExternalEnumeration>>#value
+NativeBoost-Core.NBExternalEnumeration>>#value:
+NativeBoost-Core.NBExternalEnumerationType
+NativeBoost-Core.NBExternalEnumerationType class>>#objectClass:
+NativeBoost-Core.NBExternalEnumerationType class>>#objectClass:representationType:
+NativeBoost-Core.NBExternalEnumerationType>>#coerceOopToOperand:ifFailedJumpTo:
+NativeBoost-Core.NBExternalEnumerationType>>#coerceReturnValue:
+NativeBoost-Core.NBExternalEnumerationType>>#objectClass
+NativeBoost-Core.NBExternalEnumerationType>>#objectClass:
+NativeBoost-Core.NBExternalEnumerationType>>#printOn:
+NativeBoost-Core.NBExternalEnumerationType>>#pushAsPointer:
+NativeBoost-Core.NBExternalEnumerationType>>#pushAsValue:
+NativeBoost-Core.NBExternalEnumerationType>>#representationType
+NativeBoost-Core.NBExternalEnumerationType>>#representationType:
+NativeBoost-Core.NBExternalEnumerationType>>#valueIvarIndex
+NativeBoost-Core.NBExternalEnumerationType>>#valueSize
+NativeBoost-Core.NBExternalHandle
+NativeBoost-Core.NBExternalHandle class>>#asNBExternalType:
+NativeBoost-Core.NBExternalHandle class>>#instanceSize
+NativeBoost-Core.NBExternalHandle class>>#new
+NativeBoost-Core.NBExternalHandle class>>#value:
+NativeBoost-Core.NBExternalHandle>>#=
+NativeBoost-Core.NBExternalHandle>>#asUImm
+NativeBoost-Core.NBExternalHandle>>#asUImm32
+NativeBoost-Core.NBExternalHandle>>#asUnsignedLong
+NativeBoost-Core.NBExternalHandle>>#isNull
+NativeBoost-Core.NBExternalHandle>>#printOn:
+NativeBoost-Core.NBExternalHandle>>#value
+NativeBoost-Core.NBExternalHandle>>#value:
+NativeBoost-Core.NBExternalHeapManager
+NativeBoost-Core.NBExternalHeapManager>>#addFreeBlock:
+NativeBoost-Core.NBExternalHeapManager>>#alignToPageSize:
+NativeBoost-Core.NBExternalHeapManager>>#allocate:
+NativeBoost-Core.NBExternalHeapManager>>#allocatePage:
+NativeBoost-Core.NBExternalHeapManager>>#checkForFreePage:
+NativeBoost-Core.NBExternalHeapManager>>#free:
+NativeBoost-Core.NBExternalHeapManager>>#freePage:
+NativeBoost-Core.NBExternalHeapManager>>#initialize
+NativeBoost-Core.NBExternalHeapManager>>#isValidAddress:
+NativeBoost-Core.NBExternalHeapManager>>#isValidAddress:size:
+NativeBoost-Core.NBExternalHeapManager>>#minimumPageSize
+NativeBoost-Core.NBExternalHeapManager>>#numAllocatedBlocks
+NativeBoost-Core.NBExternalHeapManager>>#numBlocks
+NativeBoost-Core.NBExternalHeapManager>>#numFreeBlocks
+NativeBoost-Core.NBExternalHeapManager>>#numPages
+NativeBoost-Core.NBExternalHeapManager>>#pageAlignment
+NativeBoost-Core.NBExternalHeapManager>>#primAllocatePage:
+NativeBoost-Core.NBExternalHeapManager>>#primFreePage:
+NativeBoost-Core.NBExternalHeapManager>>#removeFreeBlock:
+NativeBoost-Core.NBExternalHeapManager>>#totalAllocatedMemory
+NativeBoost-Core.NBExternalLibraryWrapper
+NativeBoost-Core.NBExternalLibraryWrapper class>>#createArrayedMethodFor:
+NativeBoost-Core.NBExternalLibraryWrapper class>>#createMethodFor:
+NativeBoost-Core.NBExternalLibraryWrapper class>>#createSimpleMethodFor:
+NativeBoost-Core.NBExternalLibraryWrapper>>#call:
+NativeBoost-Core.NBExternalLibraryWrapper>>#libraryNameOrHandle
+NativeBoost-Core.NBExternalObject
+NativeBoost-Core.NBExternalObject class>>#asNBExternalType:
+NativeBoost-Core.NBExternalObject class>>#null
+NativeBoost-Core.NBExternalObject>>#handle
+NativeBoost-Core.NBExternalObject>>#handle:
+NativeBoost-Core.NBExternalObject>>#initialize
+NativeBoost-Core.NBExternalObject>>#isNull
+NativeBoost-Core.NBExternalObject>>#printOn:
+NativeBoost-Core.NBExternalObject>>#registerAsExternalResource
+NativeBoost-Core.NBExternalObjectType
+NativeBoost-Core.NBExternalObjectType class>>#objectClass:
+NativeBoost-Core.NBExternalObjectType>>#coerceReturnPointer:
+NativeBoost-Core.NBExternalObjectType>>#coerceReturnValue:
+NativeBoost-Core.NBExternalObjectType>>#handleIvarIndex
+NativeBoost-Core.NBExternalObjectType>>#objectClass
+NativeBoost-Core.NBExternalObjectType>>#objectClass:
+NativeBoost-Core.NBExternalObjectType>>#printOn:
+NativeBoost-Core.NBExternalObjectType>>#pushAsPointer:
+NativeBoost-Core.NBExternalObjectType>>#pushAsValue:
+NativeBoost-Core.NBExternalObjectType>>#valueSize
+NativeBoost-Core.NBExternalResourceExecutor
+NativeBoost-Core.NBExternalResourceExecutor>>#finalize
+NativeBoost-Core.NBExternalResourceExecutor>>#initialize
+NativeBoost-Core.NBExternalResourceExecutor>>#resourceClass:data:
+NativeBoost-Core.NBExternalResourceManager
+NativeBoost-Core.NBExternalResourceManager class>>#addResource:
+NativeBoost-Core.NBExternalResourceManager class>>#addResource:data:
+NativeBoost-Core.NBExternalResourceManager class>>#reset
+NativeBoost-Core.NBExternalResourceManager class>>#soleInstance
+NativeBoost-Core.NBExternalResourceManager>>#addResource:
+NativeBoost-Core.NBExternalResourceManager>>#addResource:data:
+NativeBoost-Core.NBExternalResourceManager>>#initialize
+NativeBoost-Core.NBExternalString
+NativeBoost-Core.NBExternalString>>#coerceReturnValue:
+NativeBoost-Core.NBExternalString>>#prepareArgumentUsing:
+NativeBoost-Core.NBExternalString>>#pushAsPointer:
+NativeBoost-Core.NBExternalString>>#pushAsValue:
+NativeBoost-Core.NBExternalString>>#strLen:
+NativeBoost-Core.NBExternalString>>#valueSize
+NativeBoost-Core.NBExternalStructure
+NativeBoost-Core.NBExternalStructure class>>#asNBExternalType:
+NativeBoost-Core.NBExternalStructure class>>#byteAlignment
+NativeBoost-Core.NBExternalStructure class>>#createAccessorsFor:
+NativeBoost-Core.NBExternalStructure class>>#externalNew
+NativeBoost-Core.NBExternalStructure class>>#fields
+NativeBoost-Core.NBExternalStructure class>>#fieldsClass
+NativeBoost-Core.NBExternalStructure class>>#fieldsDesc
+NativeBoost-Core.NBExternalStructure class>>#flushNativeFieldAccessors
+NativeBoost-Core.NBExternalStructure class>>#fromPointer:
+NativeBoost-Core.NBExternalStructure class>>#initializeAccessors
+NativeBoost-Core.NBExternalStructure class>>#initializeForNewSession
+NativeBoost-Core.NBExternalStructure class>>#instanceSize
+NativeBoost-Core.NBExternalStructure class>>#isInitialized
+NativeBoost-Core.NBExternalStructure class>>#new
+NativeBoost-Core.NBExternalStructure class>>#noteCompilationOf:meta:
+NativeBoost-Core.NBExternalStructure class>>#offsetOf:
+NativeBoost-Core.NBExternalStructure class>>#rebuildFieldAccessors
+NativeBoost-Core.NBExternalStructure class>>#removeAccessor:
+NativeBoost-Core.NBExternalStructure class>>#updateFieldOffsets
+NativeBoost-Core.NBExternalStructure>>#address
+NativeBoost-Core.NBExternalStructure>>#doesNotUnderstand:
+NativeBoost-Core.NBExternalStructure>>#emitRead:generator:
+NativeBoost-Core.NBExternalStructure>>#emitWrite:generator:
+NativeBoost-Core.NBExternalStructure>>#fieldAt:
+NativeBoost-Core.NBExternalStructure>>#fieldAt:put:
+NativeBoost-Core.NBExternalStructure>>#free
+NativeBoost-Core.NBExternalStructure>>#initializeInternal
+NativeBoost-Core.NBExternalStructure>>#initializeWithAddress:
+NativeBoost-Core.NBExternalStructure>>#isExternal
+NativeBoost-Core.NBExternalStructure>>#postCopy
+NativeBoost-Core.NBExternalStructure>>#printOn:
+NativeBoost-Core.NBExternalStructureFields
+NativeBoost-Core.NBExternalStructureFields>>#addField:type:
+NativeBoost-Core.NBExternalStructureFields>>#fieldNames
+NativeBoost-Core.NBExternalStructureFields>>#fieldNamesDo:
+NativeBoost-Core.NBExternalStructureFields>>#namesInDeclarationOrder
+NativeBoost-Core.NBExternalStructureFields>>#offsetOf:
+NativeBoost-Core.NBExternalStructureFields>>#parseFields:byteAlignment:structure:
+NativeBoost-Core.NBExternalStructureFields>>#sizeAlignedTo:with:
+NativeBoost-Core.NBExternalStructureFields>>#totalSize
+NativeBoost-Core.NBExternalStructureFields>>#typeOf:
+NativeBoost-Core.NBExternalStructureFields>>#updateFieldOffsetsFor:
+NativeBoost-Core.NBExternalStructureType
+NativeBoost-Core.NBExternalStructureType class>>#objectClass:
+NativeBoost-Core.NBExternalStructureType>>#coerceReturnPointer:
+NativeBoost-Core.NBExternalStructureType>>#coerceReturnValue:
+NativeBoost-Core.NBExternalStructureType>>#dataIvarIndex
+NativeBoost-Core.NBExternalStructureType>>#fetchAddressFromData:gen:
+NativeBoost-Core.NBExternalStructureType>>#fetchStructAddressFrom:gen:
+NativeBoost-Core.NBExternalStructureType>>#objectClass
+NativeBoost-Core.NBExternalStructureType>>#objectClass:
+NativeBoost-Core.NBExternalStructureType>>#prepareReturnValue:for:
+NativeBoost-Core.NBExternalStructureType>>#pushAsPointer:
+NativeBoost-Core.NBExternalStructureType>>#pushAsValue:
+NativeBoost-Core.NBExternalStructureType>>#readOop:generator:
+NativeBoost-Core.NBExternalStructureType>>#returnViaRegisters
+NativeBoost-Core.NBExternalStructureType>>#valueSize
+NativeBoost-Core.NBExternalType
+NativeBoost-Core.NBExternalType class>>#asNBExternalType:
+NativeBoost-Core.NBExternalType class>>#pointerSize
+NativeBoost-Core.NBExternalType class>>#sizeOf:
+NativeBoost-Core.NBExternalType>>#baseTypeSize
+NativeBoost-Core.NBExternalType>>#coerceNilToNull:oop:doneLabel:
+NativeBoost-Core.NBExternalType>>#coerceOopToOperand:ifFailedJumpTo:
+NativeBoost-Core.NBExternalType>>#coerceReturn:
+NativeBoost-Core.NBExternalType>>#coerceReturnPointer:
+NativeBoost-Core.NBExternalType>>#coerceReturnValue:
+NativeBoost-Core.NBExternalType>>#coercionMayFail
+NativeBoost-Core.NBExternalType>>#emitPush:
+NativeBoost-Core.NBExternalType>>#error:
+NativeBoost-Core.NBExternalType>>#initialize
+NativeBoost-Core.NBExternalType>>#isCallback
+NativeBoost-Core.NBExternalType>>#loadMem:generator:
+NativeBoost-Core.NBExternalType>>#loader
+NativeBoost-Core.NBExternalType>>#loader:
+NativeBoost-Core.NBExternalType>>#pointerArity
+NativeBoost-Core.NBExternalType>>#pointerArity:
+NativeBoost-Core.NBExternalType>>#pointerSize
+NativeBoost-Core.NBExternalType>>#prepareArgumentUsing:
+NativeBoost-Core.NBExternalType>>#prepareReturnValue:for:
+NativeBoost-Core.NBExternalType>>#printOn:
+NativeBoost-Core.NBExternalType>>#pushAsPointer:
+NativeBoost-Core.NBExternalType>>#readOop:generator:
+NativeBoost-Core.NBExternalType>>#stackArgumentAlignment
+NativeBoost-Core.NBExternalType>>#stackSize
+NativeBoost-Core.NBExternalType>>#typeName
+NativeBoost-Core.NBExternalType>>#typeSize
+NativeBoost-Core.NBExternalType>>#valueSize
+NativeBoost-Core.NBExternalType>>#verifyClassOf:is:generator:
+NativeBoost-Core.NBExternalTypeValue
+NativeBoost-Core.NBExternalTypeValue class>>#asNBExternalType:
+NativeBoost-Core.NBExternalTypeValue class>>#getClassForType:
+NativeBoost-Core.NBExternalTypeValue class>>#initValueType:
+NativeBoost-Core.NBExternalTypeValue class>>#initialize
+NativeBoost-Core.NBExternalTypeValue class>>#initializeForNewSession
+NativeBoost-Core.NBExternalTypeValue class>>#installAccessors
+NativeBoost-Core.NBExternalTypeValue class>>#new
+NativeBoost-Core.NBExternalTypeValue class>>#ofType:
+NativeBoost-Core.NBExternalTypeValue class>>#updateValueSize
+NativeBoost-Core.NBExternalTypeValue class>>#valueSize
+NativeBoost-Core.NBExternalTypeValue class>>#valueType
+NativeBoost-Core.NBExternalTypeValue class>>#valueType:
+NativeBoost-Core.NBExternalTypeValue>>#emitCopy:
+NativeBoost-Core.NBExternalTypeValue>>#emitCopyUsingLoop:
+NativeBoost-Core.NBExternalTypeValue>>#emitRead
+NativeBoost-Core.NBExternalTypeValue>>#emitWrite
+NativeBoost-Core.NBExternalTypeValue>>#printOn:
+NativeBoost-Core.NBExternalTypeValue>>#value
+NativeBoost-Core.NBExternalTypeValue>>#value:
+NativeBoost-Core.NBExternalUnion
+NativeBoost-Core.NBExternalUnion class>>#fieldsClass
+NativeBoost-Core.NBExternalUnionFields
+NativeBoost-Core.NBExternalUnionFields>>#addField:type:
+NativeBoost-Core.NBExternalUnionFields>>#initialize
+NativeBoost-Core.NBExternalUnionFields>>#offsetOf:
+NativeBoost-Core.NBExternalUnionFields>>#sizeAlignedTo:with:
+NativeBoost-Core.NBExternalUnionFields>>#updateFieldOffsetsFor:
+NativeBoost-Core.NBExternalUnionType
+NativeBoost-Core.NBExtraRootsRegistry
+NativeBoost-Core.NBExtraRootsRegistry class>>#new
+NativeBoost-Core.NBExtraRootsRegistry class>>#newWithCell:
+NativeBoost-Core.NBExtraRootsRegistry>>#at:
+NativeBoost-Core.NBExtraRootsRegistry>>#at:ifAbsent:
+NativeBoost-Core.NBExtraRootsRegistry>>#at:ifAbsentPut:
+NativeBoost-Core.NBExtraRootsRegistry>>#at:put:
+NativeBoost-Core.NBExtraRootsRegistry>>#emitFetchCallback:generator:
+NativeBoost-Core.NBExtraRootsRegistry>>#emitFetchClass:generator:
+NativeBoost-Core.NBExtraRootsRegistry>>#emitOopAt:generator:
+NativeBoost-Core.NBExtraRootsRegistry>>#initialize:
+NativeBoost-Core.NBExtraRootsRegistry>>#primAddGCRoot:
+NativeBoost-Core.NBExtraRootsRegistry>>#primAtMem:put:
+NativeBoost-Core.NBExtraRootsRegistry>>#registerCallback:
+NativeBoost-Core.NBExtraRootsRegistry>>#releaseCallbackIndex:
+NativeBoost-Core.NBFFICallback
+NativeBoost-Core.NBFFICallback class>>#asNBExternalType:
+NativeBoost-Core.NBFFICallback class>>#callType
+NativeBoost-Core.NBFFICallback class>>#callbackEnterAddress
+NativeBoost-Core.NBFFICallback class>>#callbackEnterMethod
+NativeBoost-Core.NBFFICallback class>>#callbackLeaveAddress
+NativeBoost-Core.NBFFICallback class>>#checkSession
+NativeBoost-Core.NBFFICallback class>>#finalizeResourceData:
+NativeBoost-Core.NBFFICallback class>>#fnSpec
+NativeBoost-Core.NBFFICallback class>>#installCallbackCode
+NativeBoost-Core.NBFFICallback class>>#new
+NativeBoost-Core.NBFFICallback class>>#numArgs:
+NativeBoost-Core.NBFFICallback class>>#numberOfArguments
+NativeBoost-Core.NBFFICallback class>>#on:
+NativeBoost-Core.NBFFICallback class>>#reset
+NativeBoost-Core.NBFFICallback class>>#trunkCode
+NativeBoost-Core.NBFFICallback>>#block:
+NativeBoost-Core.NBFFICallback>>#initialize
+NativeBoost-Core.NBFFICallback>>#installTrunk
+NativeBoost-Core.NBFFICallback>>#primLeave:stackPtr:contextOop:returnValue:primitiveMethod:
+NativeBoost-Core.NBFFICallback>>#pvtEnter:stackPointer:primitiveMethod:
+NativeBoost-Core.NBFFICallbackType
+NativeBoost-Core.NBFFICallbackType>>#callbackClass:
+NativeBoost-Core.NBFFICallbackType>>#coerceReturnValue:
+NativeBoost-Core.NBFFICallbackType>>#isCallback
+NativeBoost-Core.NBFFICallbackType>>#pushAsValue:
+NativeBoost-Core.NBFFICallbackType>>#trunkIvarIndex
+NativeBoost-Core.NBFFICallbackType>>#valueSize
+NativeBoost-Core.NBFFICallout
+NativeBoost-Core.NBFFICallout class>>#call:convention:functionAddress:
+NativeBoost-Core.NBFFICallout class>>#call:convention:functionAddress:options:
+NativeBoost-Core.NBFFICallout class>>#cdecl:
+NativeBoost-Core.NBFFICallout class>>#cdecl:emitCall:
+NativeBoost-Core.NBFFICallout class>>#cdecl:emitCall:options:
+NativeBoost-Core.NBFFICallout class>>#cdecl:module:
+NativeBoost-Core.NBFFICallout class>>#cdecl:module:options:
+NativeBoost-Core.NBFFICallout class>>#defaultOptions
+NativeBoost-Core.NBFFICallout class>>#initTypeAliases
+NativeBoost-Core.NBFFICallout class>>#initialize
+NativeBoost-Core.NBFFICallout class>>#messageForCode:
+NativeBoost-Core.NBFFICallout class>>#registerErrorMessage:
+NativeBoost-Core.NBFFICallout class>>#signalError:
+NativeBoost-Core.NBFFICallout class>>#stdcall:emitCall:
+NativeBoost-Core.NBFFICallout class>>#stdcall:emitCall:options:
+NativeBoost-Core.NBFFICallout class>>#stdcall:module:
+NativeBoost-Core.NBFFICallout class>>#stdcall:module:options:
+NativeBoost-Core.NBFFICallout>>#aliasForType:
+NativeBoost-Core.NBFFICallout>>#anonSpec:
+NativeBoost-Core.NBFFICallout>>#argName:indirectIndex:type:ptrArity:
+NativeBoost-Core.NBFFICallout>>#callCleanup
+NativeBoost-Core.NBFFICallout>>#callType:
+NativeBoost-Core.NBFFICallout>>#cdecl
+NativeBoost-Core.NBFFICallout>>#coercionMayFail:
+NativeBoost-Core.NBFFICallout>>#emitFailureHandler
+NativeBoost-Core.NBFFICallout>>#emitFailureTest
+NativeBoost-Core.NBFFICallout>>#errorCodeForMessage:
+NativeBoost-Core.NBFFICallout>>#failWithCode:
+NativeBoost-Core.NBFFICallout>>#failWithMessage:
+NativeBoost-Core.NBFFICallout>>#failedLabel
+NativeBoost-Core.NBFFICallout>>#failedWithCodeLabel
+NativeBoost-Core.NBFFICallout>>#fnSpec
+NativeBoost-Core.NBFFICallout>>#foreignCall:
+NativeBoost-Core.NBFFICallout>>#generate:
+NativeBoost-Core.NBFFICallout>>#generateCall:module:
+NativeBoost-Core.NBFFICallout>>#generateCallToAddress:
+NativeBoost-Core.NBFFICallout>>#generateInstructions:
+NativeBoost-Core.NBFFICallout>>#indirectLoader:byIndex:
+NativeBoost-Core.NBFFICallout>>#initialize
+NativeBoost-Core.NBFFICallout>>#integerConstantArgument:
+NativeBoost-Core.NBFFICallout>>#loaderForArgNamed:
+NativeBoost-Core.NBFFICallout>>#loaderForArgNamed:indirectIndex:
+NativeBoost-Core.NBFFICallout>>#loaderFromMethodArgsNamed:
+NativeBoost-Core.NBFFICallout>>#methodArgs
+NativeBoost-Core.NBFFICallout>>#methodArgs:
+NativeBoost-Core.NBFFICallout>>#namedFnSpec:
+NativeBoost-Core.NBFFICallout>>#newCallInfo
+NativeBoost-Core.NBFFICallout>>#newSpecParser
+NativeBoost-Core.NBFFICallout>>#pushArguments
+NativeBoost-Core.NBFFICallout>>#receiver
+NativeBoost-Core.NBFFICallout>>#receiver:
+NativeBoost-Core.NBFFICallout>>#receiverArgumentLoader
+NativeBoost-Core.NBFFICallout>>#requestor
+NativeBoost-Core.NBFFICallout>>#requestor:
+NativeBoost-Core.NBFFICallout>>#resolveType:
+NativeBoost-Core.NBFFICallout>>#returnType:
+NativeBoost-Core.NBFFICallout>>#returnValueRegister
+NativeBoost-Core.NBFFICallout>>#sender:
+NativeBoost-Core.NBFFICallout>>#stdcall
+NativeBoost-Core.NBFFICallout>>#typeName:ptrArity:
+NativeBoost-Core.NBFFICallout>>#useEmitCall
+NativeBoost-Core.NBFFICallout>>#usesMethodArguments
+NativeBoost-Core.NBFFICalloutAPI
+NativeBoost-Core.NBFFICalloutAPI class>>#inContext:
+NativeBoost-Core.NBFFICalloutAPI>>#cdecl
+NativeBoost-Core.NBFFICalloutAPI>>#context
+NativeBoost-Core.NBFFICalloutAPI>>#context:
+NativeBoost-Core.NBFFICalloutAPI>>#convention:
+NativeBoost-Core.NBFFICalloutAPI>>#function:address:
+NativeBoost-Core.NBFFICalloutAPI>>#function:emit:
+NativeBoost-Core.NBFFICalloutAPI>>#function:module:
+NativeBoost-Core.NBFFICalloutAPI>>#initialize
+NativeBoost-Core.NBFFICalloutAPI>>#options:
+NativeBoost-Core.NBFFICalloutAPI>>#stdcall
+NativeBoost-Core.NBFFICalloutError
+NativeBoost-Core.NBFFICalloutError>>#description
+NativeBoost-Core.NBFFIConst
+NativeBoost-Core.NBFFIConst class>>#value:
+NativeBoost-Core.NBFFIConst>>#coercionMayFail
+NativeBoost-Core.NBFFIConst>>#emitPush:
+NativeBoost-Core.NBFFIConst>>#isCallback
+NativeBoost-Core.NBFFIConst>>#loader
+NativeBoost-Core.NBFFIConst>>#pointerArity:
+NativeBoost-Core.NBFFIConst>>#prepareArgumentUsing:
+NativeBoost-Core.NBFFIConst>>#stackSize
+NativeBoost-Core.NBFFIConst>>#usesSTStack
+NativeBoost-Core.NBFFIConst>>#value
+NativeBoost-Core.NBFFIConst>>#value:
+NativeBoost-Core.NBFinalizationRegistry
+NativeBoost-Core.NBFinalizationRegistry>>#add:
+NativeBoost-Core.NBFinalizationRegistry>>#add:executor:
+NativeBoost-Core.NBFinalizationRegistry>>#finalizeValues
+NativeBoost-Core.NBFinalizationRegistry>>#formatItems:
+NativeBoost-Core.NBFinalizationRegistry>>#freeItemsDo:
+NativeBoost-Core.NBFinalizationRegistry>>#getFreeItem
+NativeBoost-Core.NBFinalizationRegistry>>#grow
+NativeBoost-Core.NBFinalizationRegistry>>#initialSize
+NativeBoost-Core.NBFinalizationRegistry>>#initialize
+NativeBoost-Core.NBFinalizationRegistry>>#items
+NativeBoost-Core.NBFinalizationRegistry>>#reset
+NativeBoost-Core.NBFloat128
+NativeBoost-Core.NBFloat128>>#valueSize
+NativeBoost-Core.NBFloat16
+NativeBoost-Core.NBFloat16>>#valueSize
+NativeBoost-Core.NBFloat32
+NativeBoost-Core.NBFloat32>>#coerceReturnValue:
+NativeBoost-Core.NBFloat32>>#loadMem:generator:
+NativeBoost-Core.NBFloat32>>#pushAsValue:
+NativeBoost-Core.NBFloat32>>#valueSize
+NativeBoost-Core.NBFloat64
+NativeBoost-Core.NBFloat64>>#coerceReturnValue:
+NativeBoost-Core.NBFloat64>>#loadMem:generator:
+NativeBoost-Core.NBFloat64>>#pushAsValue:
+NativeBoost-Core.NBFloat64>>#pushValue:
+NativeBoost-Core.NBFloat64>>#stackSize
+NativeBoost-Core.NBFloat64>>#valueSize
+NativeBoost-Core.NBFloatPtr
+NativeBoost-Core.NBFloatPtr>>#pushAsPointer:
+NativeBoost-Core.NBFloatPtr>>#pushAsValue:
+NativeBoost-Core.NBFloatPtr>>#valueSize
+NativeBoost-Core.NBFloatType
+NativeBoost-Core.NBFnArgument
+NativeBoost-Core.NBFnArgument>>#emitLoad:
+NativeBoost-Core.NBFnArgument>>#emitLoad:to:
+NativeBoost-Core.NBFnArgument>>#isReceiver
+NativeBoost-Core.NBFnArgument>>#usesSTStack
+NativeBoost-Core.NBFnSpec
+NativeBoost-Core.NBFnSpec class>>#namedFunctionFrom:
+NativeBoost-Core.NBFnSpec>>#addArgument:
+NativeBoost-Core.NBFnSpec>>#arguments
+NativeBoost-Core.NBFnSpec>>#arguments:
+NativeBoost-Core.NBFnSpec>>#asArraySpec
+NativeBoost-Core.NBFnSpec>>#asArraySpecArrayedArgs
+NativeBoost-Core.NBFnSpec>>#asMethodSelectorAndArguments
+NativeBoost-Core.NBFnSpec>>#asMethodSelectorAndArrayOfArguments
+NativeBoost-Core.NBFnSpec>>#functionName
+NativeBoost-Core.NBFnSpec>>#functionName:
+NativeBoost-Core.NBFnSpec>>#initialize
+NativeBoost-Core.NBFnSpec>>#printType:on:
+NativeBoost-Core.NBFnSpec>>#returnType
+NativeBoost-Core.NBFnSpec>>#returnType:
+NativeBoost-Core.NBFnSpecParser
+NativeBoost-Core.NBFnSpecParser>>#argName:indirectIndex:type:ptrArity:
+NativeBoost-Core.NBFnSpecParser>>#initialize
+NativeBoost-Core.NBFnSpecParser>>#integerConstantArgument:
+NativeBoost-Core.NBFnSpecParser>>#parseAnonFunction:
+NativeBoost-Core.NBFnSpecParser>>#parseArgument
+NativeBoost-Core.NBFnSpecParser>>#parseArguments
+NativeBoost-Core.NBFnSpecParser>>#parseInt
+NativeBoost-Core.NBFnSpecParser>>#parseNamedFunction:
+NativeBoost-Core.NBFnSpecParser>>#parseType
+NativeBoost-Core.NBFnSpecParser>>#parseWord
+NativeBoost-Core.NBFnSpecParser>>#requestor:
+NativeBoost-Core.NBFnSpecParser>>#returnType:
+NativeBoost-Core.NBFnSpecParser>>#skipSpace
+NativeBoost-Core.NBInt16
+NativeBoost-Core.NBInt16>>#coerceReturnValue:
+NativeBoost-Core.NBInt16>>#pushAsValue:
+NativeBoost-Core.NBInt32
+NativeBoost-Core.NBInt32>>#coerceOopToOperand:ifFailedJumpTo:
+NativeBoost-Core.NBInt32>>#coerceReturnValue:
+NativeBoost-Core.NBInt32>>#pushAsValue:
+NativeBoost-Core.NBInt64
+NativeBoost-Core.NBInt64>>#coerceReturnValue:
+NativeBoost-Core.NBInt64>>#pushAsValue:
+NativeBoost-Core.NBInt8
+NativeBoost-Core.NBInt8>>#coerceReturnValue:
+NativeBoost-Core.NBInt8>>#pushAsValue:
+NativeBoost-Core.NBIntegerExternalType
+NativeBoost-Core.NBInterpreterProxy
+NativeBoost-Core.NBInterpreterProxy class>>#CogProxyFunctionsData
+NativeBoost-Core.NBInterpreterProxy class>>#cFramePointerAddress
+NativeBoost-Core.NBInterpreterProxy class>>#cStackPointerAddress
+NativeBoost-Core.NBInterpreterProxy class>>#defaultOptions
+NativeBoost-Core.NBInterpreterProxy class>>#fnAddressAt:
+NativeBoost-Core.NBInterpreterProxy class>>#fnSelectorAt:
+NativeBoost-Core.NBInterpreterProxy class>>#forGenerator:
+NativeBoost-Core.NBInterpreterProxy class>>#framePointerAddress
+NativeBoost-Core.NBInterpreterProxy class>>#functionAtOffset:
+NativeBoost-Core.NBInterpreterProxy class>>#functions
+NativeBoost-Core.NBInterpreterProxy class>>#generateFunctions
+NativeBoost-Core.NBInterpreterProxy class>>#generateFunctionsFrom:
+NativeBoost-Core.NBInterpreterProxy class>>#initialize
+NativeBoost-Core.NBInterpreterProxy class>>#interpreterProxyAddress
+NativeBoost-Core.NBInterpreterProxy class>>#majorVersion
+NativeBoost-Core.NBInterpreterProxy class>>#minorVersion
+NativeBoost-Core.NBInterpreterProxy class>>#new
+NativeBoost-Core.NBInterpreterProxy class>>#primFramePointerAddress
+NativeBoost-Core.NBInterpreterProxy class>>#primStackPointerAddress
+NativeBoost-Core.NBInterpreterProxy class>>#proxyFunctionsData
+NativeBoost-Core.NBInterpreterProxy class>>#safeNoAlignFunctions
+NativeBoost-Core.NBInterpreterProxy class>>#stackPointerAddress
+NativeBoost-Core.NBInterpreterProxy>>#addGCRoot:
+NativeBoost-Core.NBInterpreterProxy>>#addHighPriorityTickee:period:
+NativeBoost-Core.NBInterpreterProxy>>#addSynchronousTickee:period:round:
+NativeBoost-Core.NBInterpreterProxy>>#argumentCountOf:
+NativeBoost-Core.NBInterpreterProxy>>#arrayValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#baseHeaderSize
+NativeBoost-Core.NBInterpreterProxy>>#become:with:
+NativeBoost-Core.NBInterpreterProxy>>#booleanValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#byteSizeOf:
+NativeBoost-Core.NBInterpreterProxy>>#byteSwapped:
+NativeBoost-Core.NBInterpreterProxy>>#cFramePointer
+NativeBoost-Core.NBInterpreterProxy>>#cStackPointer
+NativeBoost-Core.NBInterpreterProxy>>#call:
+NativeBoost-Core.NBInterpreterProxy>>#call:arguments:
+NativeBoost-Core.NBInterpreterProxy>>#callFn:
+NativeBoost-Core.NBInterpreterProxy>>#callGated:arguments:
+NativeBoost-Core.NBInterpreterProxy>>#callInterpreter
+NativeBoost-Core.NBInterpreterProxy>>#callbackEnter:
+NativeBoost-Core.NBInterpreterProxy>>#callbackLeave:
+NativeBoost-Core.NBInterpreterProxy>>#canUseDirectProxyFnAddress
+NativeBoost-Core.NBInterpreterProxy>>#canUseStackPointer
+NativeBoost-Core.NBInterpreterProxy>>#characterTable
+NativeBoost-Core.NBInterpreterProxy>>#checkedIntegerValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#classAlien
+NativeBoost-Core.NBInterpreterProxy>>#classArray
+NativeBoost-Core.NBInterpreterProxy>>#classBitmap
+NativeBoost-Core.NBInterpreterProxy>>#classByteArray
+NativeBoost-Core.NBInterpreterProxy>>#classCharacter
+NativeBoost-Core.NBInterpreterProxy>>#classExternalAddress
+NativeBoost-Core.NBInterpreterProxy>>#classExternalData
+NativeBoost-Core.NBInterpreterProxy>>#classExternalFunction
+NativeBoost-Core.NBInterpreterProxy>>#classExternalLibrary
+NativeBoost-Core.NBInterpreterProxy>>#classExternalStructure
+NativeBoost-Core.NBInterpreterProxy>>#classFloat
+NativeBoost-Core.NBInterpreterProxy>>#classLargeNegativeInteger
+NativeBoost-Core.NBInterpreterProxy>>#classLargePositiveInteger
+NativeBoost-Core.NBInterpreterProxy>>#classPoint
+NativeBoost-Core.NBInterpreterProxy>>#classSemaphore
+NativeBoost-Core.NBInterpreterProxy>>#classSmallInteger
+NativeBoost-Core.NBInterpreterProxy>>#classString
+NativeBoost-Core.NBInterpreterProxy>>#classUnsafeAlien
+NativeBoost-Core.NBInterpreterProxy>>#clone:
+NativeBoost-Core.NBInterpreterProxy>>#compilerHookVector
+NativeBoost-Core.NBInterpreterProxy>>#copyBits
+NativeBoost-Core.NBInterpreterProxy>>#copyBitsFrom:to:at:
+NativeBoost-Core.NBInterpreterProxy>>#createInstanceOf:
+NativeBoost-Core.NBInterpreterProxy>>#createInstanceOf:size:
+NativeBoost-Core.NBInterpreterProxy>>#disownVM:
+NativeBoost-Core.NBInterpreterProxy>>#displayObject
+NativeBoost-Core.NBInterpreterProxy>>#failed
+NativeBoost-Core.NBInterpreterProxy>>#falseObject
+NativeBoost-Core.NBInterpreterProxy>>#fetchArray:ofObject:
+NativeBoost-Core.NBInterpreterProxy>>#fetchClassOf:
+NativeBoost-Core.NBInterpreterProxy>>#fetchFloat:ofObject:
+NativeBoost-Core.NBInterpreterProxy>>#fetchInteger:ofObject:
+NativeBoost-Core.NBInterpreterProxy>>#fetchLong32:ofObject:
+NativeBoost-Core.NBInterpreterProxy>>#fetchPointer:ofObject:
+NativeBoost-Core.NBInterpreterProxy>>#firstFixedField:
+NativeBoost-Core.NBInterpreterProxy>>#firstIndexableField:
+NativeBoost-Core.NBInterpreterProxy>>#floatArg:
+NativeBoost-Core.NBInterpreterProxy>>#floatObjectOf:
+NativeBoost-Core.NBInterpreterProxy>>#floatValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#forceInterruptCheck
+NativeBoost-Core.NBInterpreterProxy>>#framePointer
+NativeBoost-Core.NBInterpreterProxy>>#fullDisplayUpdate
+NativeBoost-Core.NBInterpreterProxy>>#fullGC
+NativeBoost-Core.NBInterpreterProxy>>#functions
+NativeBoost-Core.NBInterpreterProxy>>#gatedCall
+NativeBoost-Core.NBInterpreterProxy>>#gatedCallFn:
+NativeBoost-Core.NBInterpreterProxy>>#generator:
+NativeBoost-Core.NBInterpreterProxy>>#getStackPointer
+NativeBoost-Core.NBInterpreterProxy>>#getThisSessionID
+NativeBoost-Core.NBInterpreterProxy>>#ifFailedEmit:
+NativeBoost-Core.NBInterpreterProxy>>#ifFailedJumpTo:
+NativeBoost-Core.NBInterpreterProxy>>#includesBehavior:ThatOf:
+NativeBoost-Core.NBInterpreterProxy>>#incrementalGC
+NativeBoost-Core.NBInterpreterProxy>>#indexOf:in:
+NativeBoost-Core.NBInterpreterProxy>>#initialize
+NativeBoost-Core.NBInterpreterProxy>>#instanceSizeOf:
+NativeBoost-Core.NBInterpreterProxy>>#instantiateClass:indexableSize:
+NativeBoost-Core.NBInterpreterProxy>>#integerArg:
+NativeBoost-Core.NBInterpreterProxy>>#integerObjectOf:
+NativeBoost-Core.NBInterpreterProxy>>#integerValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#internalIsImmutable:
+NativeBoost-Core.NBInterpreterProxy>>#internalIsMutable:
+NativeBoost-Core.NBInterpreterProxy>>#ioFilename:fromString:ofLength:resolveAliases:
+NativeBoost-Core.NBInterpreterProxy>>#ioLoadFunction:From:
+NativeBoost-Core.NBInterpreterProxy>>#ioLoadModule:OfLength:
+NativeBoost-Core.NBInterpreterProxy>>#ioLoadSymbol:OfLength:FromModule:
+NativeBoost-Core.NBInterpreterProxy>>#ioMicroMSecs
+NativeBoost-Core.NBInterpreterProxy>>#is:KindOf:
+NativeBoost-Core.NBInterpreterProxy>>#is:MemberOf:
+NativeBoost-Core.NBInterpreterProxy>>#isArray:
+NativeBoost-Core.NBInterpreterProxy>>#isBytes:
+NativeBoost-Core.NBInterpreterProxy>>#isBytes:ifNotJumpTo:
+NativeBoost-Core.NBInterpreterProxy>>#isBytesOrWords:ifNotJumpTo:
+NativeBoost-Core.NBInterpreterProxy>>#isFloatObject:
+NativeBoost-Core.NBInterpreterProxy>>#isInMemory:
+NativeBoost-Core.NBInterpreterProxy>>#isIndexable:
+NativeBoost-Core.NBInterpreterProxy>>#isIntegerObject:
+NativeBoost-Core.NBInterpreterProxy>>#isIntegerValue:
+NativeBoost-Core.NBInterpreterProxy>>#isKindOf:Class:
+NativeBoost-Core.NBInterpreterProxy>>#isPointers:
+NativeBoost-Core.NBInterpreterProxy>>#isWeak:
+NativeBoost-Core.NBInterpreterProxy>>#isWords:
+NativeBoost-Core.NBInterpreterProxy>>#isWordsOrBytes:
+NativeBoost-Core.NBInterpreterProxy>>#isYoung:
+NativeBoost-Core.NBInterpreterProxy>>#ivar:in:
+NativeBoost-Core.NBInterpreterProxy>>#literal:ofMethod:
+NativeBoost-Core.NBInterpreterProxy>>#literalCountOf:
+NativeBoost-Core.NBInterpreterProxy>>#loadBitBltFrom:
+NativeBoost-Core.NBInterpreterProxy>>#majorVersion
+NativeBoost-Core.NBInterpreterProxy>>#makePointwithxValue:yValue:
+NativeBoost-Core.NBInterpreterProxy>>#methodArg:
+NativeBoost-Core.NBInterpreterProxy>>#methodArgumentCount
+NativeBoost-Core.NBInterpreterProxy>>#methodPrimitiveIndex
+NativeBoost-Core.NBInterpreterProxy>>#methodReturnValue:
+NativeBoost-Core.NBInterpreterProxy>>#minorVersion
+NativeBoost-Core.NBInterpreterProxy>>#nilObject
+NativeBoost-Core.NBInterpreterProxy>>#objectArg:
+NativeBoost-Core.NBInterpreterProxy>>#objectFormat
+NativeBoost-Core.NBInterpreterProxy>>#obsoleteDontUseThisFetchWord:ofObject:
+NativeBoost-Core.NBInterpreterProxy>>#oop:ifSmallInt:ifNotSmallInt:
+NativeBoost-Core.NBInterpreterProxy>>#oopSize
+NativeBoost-Core.NBInterpreterProxy>>#ownVM:
+NativeBoost-Core.NBInterpreterProxy>>#pointerSize
+NativeBoost-Core.NBInterpreterProxy>>#pop:
+NativeBoost-Core.NBInterpreterProxy>>#pop:thenPush:
+NativeBoost-Core.NBInterpreterProxy>>#popRemappableOop
+NativeBoost-Core.NBInterpreterProxy>>#positive32BitIntegerFor:
+NativeBoost-Core.NBInterpreterProxy>>#positive32BitValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#positive64BitIntegerFor
+NativeBoost-Core.NBInterpreterProxy>>#positive64BitIntegerFor:
+NativeBoost-Core.NBInterpreterProxy>>#positive64BitValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#prepareForCallout
+NativeBoost-Core.NBInterpreterProxy>>#primitiveErrorTable
+NativeBoost-Core.NBInterpreterProxy>>#primitiveFail
+NativeBoost-Core.NBInterpreterProxy>>#primitiveFailFor:
+NativeBoost-Core.NBInterpreterProxy>>#primitiveFailureCode
+NativeBoost-Core.NBInterpreterProxy>>#primitiveIndexOf:
+NativeBoost-Core.NBInterpreterProxy>>#primitiveMethod
+NativeBoost-Core.NBInterpreterProxy>>#push:
+NativeBoost-Core.NBInterpreterProxy>>#pushBool:
+NativeBoost-Core.NBInterpreterProxy>>#pushFloat:
+NativeBoost-Core.NBInterpreterProxy>>#pushFloatOopAsFloat32:
+NativeBoost-Core.NBInterpreterProxy>>#pushFloatOopAsFloat64:
+NativeBoost-Core.NBInterpreterProxy>>#pushInteger:
+NativeBoost-Core.NBInterpreterProxy>>#pushRemappableOop:
+NativeBoost-Core.NBInterpreterProxy>>#receiver
+NativeBoost-Core.NBInterpreterProxy>>#receiverInto:
+NativeBoost-Core.NBInterpreterProxy>>#reestablishContextPriorToCallback:
+NativeBoost-Core.NBInterpreterProxy>>#removeGCRoot:
+NativeBoost-Core.NBInterpreterProxy>>#sendInvokeCallback:Stack:Registers:Jmpbuf:
+NativeBoost-Core.NBInterpreterProxy>>#setCompilerInitialized:
+NativeBoost-Core.NBInterpreterProxy>>#setInterruptCheckChain:
+NativeBoost-Core.NBInterpreterProxy>>#shiftForPointer
+NativeBoost-Core.NBInterpreterProxy>>#shouldNotUse
+NativeBoost-Core.NBInterpreterProxy>>#showDisplayBits:Left:Top:Right:Bottom:
+NativeBoost-Core.NBInterpreterProxy>>#signalSemaphoreWithIndex:
+NativeBoost-Core.NBInterpreterProxy>>#signed32BitIntegerFor:
+NativeBoost-Core.NBInterpreterProxy>>#signed32BitValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#signed64BitIntegerFor
+NativeBoost-Core.NBInterpreterProxy>>#signed64BitIntegerFor:
+NativeBoost-Core.NBInterpreterProxy>>#signed64BitValueOf:
+NativeBoost-Core.NBInterpreterProxy>>#simpleCall
+NativeBoost-Core.NBInterpreterProxy>>#sizeOfSTArrayFromCPrimitive:
+NativeBoost-Core.NBInterpreterProxy>>#slotSizeOf:
+NativeBoost-Core.NBInterpreterProxy>>#specialObjectsArray
+NativeBoost-Core.NBInterpreterProxy>>#specialObjectsArrayAt:
+NativeBoost-Core.NBInterpreterProxy>>#specialSelectorAt:
+NativeBoost-Core.NBInterpreterProxy>>#stObject:at:
+NativeBoost-Core.NBInterpreterProxy>>#stObject:at:put:
+NativeBoost-Core.NBInterpreterProxy>>#stSizeOf:
+NativeBoost-Core.NBInterpreterProxy>>#stackFloatValue:
+NativeBoost-Core.NBInterpreterProxy>>#stackIntegerValue:
+NativeBoost-Core.NBInterpreterProxy>>#stackObjectValue:
+NativeBoost-Core.NBInterpreterProxy>>#stackPointer
+NativeBoost-Core.NBInterpreterProxy>>#stackValue:
+NativeBoost-Core.NBInterpreterProxy>>#stackValue:storeIn:
+NativeBoost-Core.NBInterpreterProxy>>#storeInteger:ofObject:withValue:
+NativeBoost-Core.NBInterpreterProxy>>#storePointer:intoVarbytes:at:
+NativeBoost-Core.NBInterpreterProxy>>#storePointer:ofObject:withValue:
+NativeBoost-Core.NBInterpreterProxy>>#storeValue:ofSize:intoVarbytes:at:
+NativeBoost-Core.NBInterpreterProxy>>#success:
+NativeBoost-Core.NBInterpreterProxy>>#superclassOf:
+NativeBoost-Core.NBInterpreterProxy>>#swapActiveContext:
+NativeBoost-Core.NBInterpreterProxy>>#swapActiveContext:restoreMethod:
+NativeBoost-Core.NBInterpreterProxy>>#tenuringIncrementalGC
+NativeBoost-Core.NBInterpreterProxy>>#topRemappableOop
+NativeBoost-Core.NBInterpreterProxy>>#trueObject
+NativeBoost-Core.NBInterpreterProxy>>#usedGate
+NativeBoost-Core.NBInterpreterProxy>>#utcMicroseconds
+NativeBoost-Core.NBInterpreterProxy>>#varBytesFirstFieldOf:
+NativeBoost-Core.NBInterpreterProxy>>#verifyClassOf:is:
+NativeBoost-Core.NBInterpreterProxy>>#verifyCompactClassOf:is:
+NativeBoost-Core.NBInterpreterProxy>>#vmEndianness
+NativeBoost-Core.NBMemoryBlock
+NativeBoost-Core.NBMemoryBlock>>#address
+NativeBoost-Core.NBMemoryBlock>>#address:
+NativeBoost-Core.NBMemoryBlock>>#initialize
+NativeBoost-Core.NBMemoryBlock>>#isFree
+NativeBoost-Core.NBMemoryBlock>>#left
+NativeBoost-Core.NBMemoryBlock>>#left:
+NativeBoost-Core.NBMemoryBlock>>#length
+NativeBoost-Core.NBMemoryBlock>>#length:
+NativeBoost-Core.NBMemoryBlock>>#makeFreeFor:
+NativeBoost-Core.NBMemoryBlock>>#printOn:
+NativeBoost-Core.NBMemoryBlock>>#reserve:for:
+NativeBoost-Core.NBMemoryBlock>>#right
+NativeBoost-Core.NBMemoryBlock>>#right:
+NativeBoost-Core.NBMemoryPage
+NativeBoost-Core.NBMemoryPage class>>#address:length:
+NativeBoost-Core.NBMemoryPage>>#address
+NativeBoost-Core.NBMemoryPage>>#address:length:
+NativeBoost-Core.NBMemoryPage>>#firstBlock
+NativeBoost-Core.NBMemoryPage>>#length
+NativeBoost-Core.NBMemoryPage>>#totalAllocatedMemory
+NativeBoost-Core.NBNativeCodeError
+NativeBoost-Core.NBNativeCodeError class>>#signalError:
+NativeBoost-Core.NBNativeCodeError>>#description
+NativeBoost-Core.NBNativeCodeError>>#errorCode
+NativeBoost-Core.NBNativeCodeError>>#signalError:
+NativeBoost-Core.NBNativeCodeGen
+NativeBoost-Core.NBNativeCodeGen class>>#assertIsNBMethod:
+NativeBoost-Core.NBNativeCodeGen class>>#debugOff
+NativeBoost-Core.NBNativeCodeGen class>>#debugOn
+NativeBoost-Core.NBNativeCodeGen class>>#defaultOptions
+NativeBoost-Core.NBNativeCodeGen class>>#generateCode:andRetry:
+NativeBoost-Core.NBNativeCodeGen class>>#getErrorFrom:lastError:
+NativeBoost-Core.NBNativeCodeGen class>>#getErrorFromJit:
+NativeBoost-Core.NBNativeCodeGen class>>#handleFailureIn:nativeCode:
+NativeBoost-Core.NBNativeCodeGen class>>#handleFailureInJit:nativeCode:
+NativeBoost-Core.NBNativeCodeGen class>>#installNativeCode:into:
+NativeBoost-Core.NBNativeCodeGen class>>#jitMethodAssembly:
+NativeBoost-Core.NBNativeCodeGen class>>#jitPrimitiveNumber
+NativeBoost-Core.NBNativeCodeGen class>>#methodAssembly:
+NativeBoost-Core.NBNativeCodeGen class>>#nativeMethods
+NativeBoost-Core.NBNativeCodeGen class>>#newForMethod:
+NativeBoost-Core.NBNativeCodeGen class>>#removeNativeCodeFrom:
+NativeBoost-Core.NBNativeCodeGen class>>#retrySend:
+NativeBoost-Core.NBNativeCodeGen class>>#signalError:
+NativeBoost-Core.NBNativeCodeGen>>#asm
+NativeBoost-Core.NBNativeCodeGen>>#bytes
+NativeBoost-Core.NBNativeCodeGen>>#defaultOptions
+NativeBoost-Core.NBNativeCodeGen>>#doesNotUnderstand:
+NativeBoost-Core.NBNativeCodeGen>>#dumpBytes
+NativeBoost-Core.NBNativeCodeGen>>#emitFetchClass:
+NativeBoost-Core.NBNativeCodeGen>>#epilogue
+NativeBoost-Core.NBNativeCodeGen>>#generatedCode
+NativeBoost-Core.NBNativeCodeGen>>#initialize
+NativeBoost-Core.NBNativeCodeGen>>#method
+NativeBoost-Core.NBNativeCodeGen>>#newAssembler
+NativeBoost-Core.NBNativeCodeGen>>#optionAt:
+NativeBoost-Core.NBNativeCodeGen>>#parseOptions:
+NativeBoost-Core.NBNativeCodeGen>>#proxy
+NativeBoost-Core.NBNativeCodeGen>>#releaseTemps:
+NativeBoost-Core.NBNativeCodeGen>>#reserveStackBytes:
+NativeBoost-Core.NBNativeCodeGen>>#reserveStackBytes:andStoreAddrTo:
+NativeBoost-Core.NBNativeCodeGen>>#reserveTemp
+NativeBoost-Core.NBNativeCodeGen>>#setMethod:
+NativeBoost-Core.NBNativeCodeGen>>#stackAlignment
+NativeBoost-Core.NBNativeCodeGen>>#utils
+NativeBoost-Core.NBNativeFunction
+NativeBoost-Core.NBNativeFunction class>>#cdecl:emit:
+NativeBoost-Core.NBNativeFunction class>>#cdecl:emit:options:
+NativeBoost-Core.NBNativeFunction class>>#code:fnSpec:
+NativeBoost-Core.NBNativeFunction class>>#finalizeResourceData:
+NativeBoost-Core.NBNativeFunction class>>#stdCall:emit:
+NativeBoost-Core.NBNativeFunction class>>#stdCall:emit:options:
+NativeBoost-Core.NBNativeFunction>>#address
+NativeBoost-Core.NBNativeFunction>>#annotation
+NativeBoost-Core.NBNativeFunction>>#annotation:
+NativeBoost-Core.NBNativeFunction>>#emitCall:
+NativeBoost-Core.NBNativeFunction>>#initializeWithCode:fnSpec:
+NativeBoost-Core.NBNativeFunction>>#resourceData
+NativeBoost-Core.NBNativeFunction>>#uninstall
+NativeBoost-Core.NBNativeFunction>>#valueWithArguments:
+NativeBoost-Core.NBNativeFunctionArgument
+NativeBoost-Core.NBNativeFunctionArgument>>#name
+NativeBoost-Core.NBNativeFunctionArgument>>#name:
+NativeBoost-Core.NBNativeFunctionArgument>>#offset
+NativeBoost-Core.NBNativeFunctionArgument>>#offset:
+NativeBoost-Core.NBNativeFunctionArgument>>#type
+NativeBoost-Core.NBNativeFunctionArgument>>#type:
+NativeBoost-Core.NBNativeFunctionGen
+NativeBoost-Core.NBNativeFunctionGen class>>#cdecl:emit:
+NativeBoost-Core.NBNativeFunctionGen class>>#cdecl:emit:options:
+NativeBoost-Core.NBNativeFunctionGen class>>#stdCall:emit:
+NativeBoost-Core.NBNativeFunctionGen class>>#stdCall:emit:options:
+NativeBoost-Core.NBNativeFunctionGen>>#address
+NativeBoost-Core.NBNativeFunctionGen>>#arg:
+NativeBoost-Core.NBNativeFunctionGen>>#argName:indirectIndex:type:ptrArity:
+NativeBoost-Core.NBNativeFunctionGen>>#code
+NativeBoost-Core.NBNativeFunctionGen>>#epilogue
+NativeBoost-Core.NBNativeFunctionGen>>#fnSpec:
+NativeBoost-Core.NBNativeFunctionGen>>#generate:
+NativeBoost-Core.NBNativeFunctionGen>>#generateInstructions:
+NativeBoost-Core.NBNativeFunctionGen>>#install
+NativeBoost-Core.NBNativeFunctionGen>>#nativeFunction
+NativeBoost-Core.NBNativeFunctionGen>>#nb
+NativeBoost-Core.NBNativeFunctionGen>>#prepareArguments
+NativeBoost-Core.NBNativeFunctionGen>>#return
+NativeBoost-Core.NBNativeFunctionGen>>#returnLabel
+NativeBoost-Core.NBNativeFunctionGen>>#stackSize
+NativeBoost-Core.NBNativeFunctionGen>>#uninstall
+NativeBoost-Core.NBObjectFormat
+NativeBoost-Core.NBObjectFormat class>>#current
+NativeBoost-Core.NBObjectFormat32
+NativeBoost-Core.NBObjectFormat32 class>>#headerOf:
+NativeBoost-Core.NBObjectFormat32>>#compactClassIndexShift
+NativeBoost-Core.NBObjectFormat32>>#compactClassMask
+NativeBoost-Core.NBObjectFormat32>>#fixedFieldsFormat
+NativeBoost-Core.NBObjectFormat32>>#floatsMatchingPlatform
+NativeBoost-Core.NBObjectFormat32>>#headerTypeMask
+NativeBoost-Core.NBObjectFormat32>>#identityHashMask
+NativeBoost-Core.NBObjectFormat32>>#ifImmediate:jumpTo:
+NativeBoost-Core.NBObjectFormat32>>#ifWordsOOP:storeHeaderIn:ifNotJumpTo:
+NativeBoost-Core.NBObjectFormat32>>#immediateShift
+NativeBoost-Core.NBObjectFormat32>>#indexableBytesFormat
+NativeBoost-Core.NBObjectFormat32>>#indexableWordsFormat
+NativeBoost-Core.NBObjectFormat32>>#instVarOffsetAt:
+NativeBoost-Core.NBObjectFormat32>>#isBytes2:ifNotJumpTo:
+NativeBoost-Core.NBObjectFormat32>>#isBytes:ifNotJumpTo:
+NativeBoost-Core.NBObjectFormat32>>#isBytesOrWords:ifNotJumpTo:
+NativeBoost-Core.NBObjectFormat32>>#jumpTo:ifImmediate:
+NativeBoost-Core.NBObjectFormat32>>#jumpTo:ifNotWordsOOP:
+NativeBoost-Core.NBObjectFormat32>>#noFieldsFormat
+NativeBoost-Core.NBObjectFormat32>>#objectFormatMask
+NativeBoost-Core.NBObjectFormat32>>#objectFormatShift
+NativeBoost-Core.NBObjectFormat32>>#objectSizeMask
+NativeBoost-Core.NBObjectFormat32>>#oopSize
+NativeBoost-Core.NBObjectFormat32>>#sizeOf:is:ifNotJumpTo:
+NativeBoost-Core.NBObjectFormat32>>#sizeShift
+NativeBoost-Core.NBObjectFormat32>>#stackArgumentSize
+NativeBoost-Core.NBObjectFormat32>>#stackGrowsDown
+NativeBoost-Core.NBObjectFormat>>#asm:
+NativeBoost-Core.NBObjectFormat>>#baseHeaderSize
+NativeBoost-Core.NBObjectFormat>>#indexableWordsFormat
+NativeBoost-Core.NBObjectFormat>>#instVarOffsetAt:
+NativeBoost-Core.NBObjectFormat>>#isCogVM
+NativeBoost-Core.NBObjectFormat>>#oopSize
+NativeBoost-Core.NBObjectFormat>>#stackArgumentSize
+NativeBoost-Core.NBObjectFormat>>#varBytesFirstField
+NativeBoost-Core.NBOop
+NativeBoost-Core.NBOop>>#coerceReturnValue:
+NativeBoost-Core.NBOop>>#pushAsPointer:
+NativeBoost-Core.NBOop>>#pushAsValue:
+NativeBoost-Core.NBOop>>#valueSize
+NativeBoost-Core.NBProxyFunction
+NativeBoost-Core.NBProxyFunction>>#=
+NativeBoost-Core.NBProxyFunction>>#address
+NativeBoost-Core.NBProxyFunction>>#arguments
+NativeBoost-Core.NBProxyFunction>>#arguments:
+NativeBoost-Core.NBProxyFunction>>#checkVersion
+NativeBoost-Core.NBProxyFunction>>#hash
+NativeBoost-Core.NBProxyFunction>>#index
+NativeBoost-Core.NBProxyFunction>>#index:
+NativeBoost-Core.NBProxyFunction>>#majorVersion
+NativeBoost-Core.NBProxyFunction>>#majorVersion:
+NativeBoost-Core.NBProxyFunction>>#minorVersion
+NativeBoost-Core.NBProxyFunction>>#minorVersion:
+NativeBoost-Core.NBProxyFunction>>#name
+NativeBoost-Core.NBProxyFunction>>#parseArguments:
+NativeBoost-Core.NBProxyFunction>>#printOn:
+NativeBoost-Core.NBProxyFunction>>#requiresAlignment
+NativeBoost-Core.NBProxyFunction>>#requiresAlignment:
+NativeBoost-Core.NBProxyFunction>>#retType
+NativeBoost-Core.NBProxyFunction>>#retType:
+NativeBoost-Core.NBProxyFunction>>#selector
+NativeBoost-Core.NBProxyFunction>>#selector:
+NativeBoost-Core.NBRecursionDetect
+NativeBoost-Core.NBRecursionDetect class>>#in:during:
+NativeBoost-Core.NBRecursionDetect class>>#signalForMethod:
+NativeBoost-Core.NBRecursionDetect>>#check:
+NativeBoost-Core.NBRecursionDetect>>#defaultAction
+NativeBoost-Core.NBRecursionDetect>>#method
+NativeBoost-Core.NBRecursionDetect>>#signalForMethod:
+NativeBoost-Core.NBSTIndirectArgument
+NativeBoost-Core.NBSTIndirectArgument>>#argumentLoader
+NativeBoost-Core.NBSTIndirectArgument>>#argumentLoader:
+NativeBoost-Core.NBSTIndirectArgument>>#elementIndex
+NativeBoost-Core.NBSTIndirectArgument>>#elementIndex:
+NativeBoost-Core.NBSTIndirectArgument>>#emitLoad:
+NativeBoost-Core.NBSTIndirectArgument>>#emitLoad:to:
+NativeBoost-Core.NBSTIndirectArgument>>#usesSTStack
+NativeBoost-Core.NBSTIvarArgument
+NativeBoost-Core.NBSTIvarArgument>>#emitLoad:
+NativeBoost-Core.NBSTIvarArgument>>#emitLoad:to:
+NativeBoost-Core.NBSTIvarArgument>>#ivarName
+NativeBoost-Core.NBSTIvarArgument>>#ivarName:
+NativeBoost-Core.NBSTIvarArgument>>#receiverClass
+NativeBoost-Core.NBSTIvarArgument>>#receiverClass:
+NativeBoost-Core.NBSTIvarArgument>>#usesSTStack
+NativeBoost-Core.NBSTMethodArgument
+NativeBoost-Core.NBSTMethodArgument class>>#lastError
+NativeBoost-Core.NBSTMethodArgument>>#emitLoad:
+NativeBoost-Core.NBSTMethodArgument>>#emitLoad:to:
+NativeBoost-Core.NBSTMethodArgument>>#initialize
+NativeBoost-Core.NBSTMethodArgument>>#isReceiver
+NativeBoost-Core.NBSTMethodArgument>>#isReceiver:
+NativeBoost-Core.NBSTMethodArgument>>#stackIndex
+NativeBoost-Core.NBSTMethodArgument>>#stackIndex:
+NativeBoost-Core.NBSTMethodArgument>>#usesSTStack
+NativeBoost-Core.NBSessionChangeAnnouncement
+NativeBoost-Core.NBSizeT
+NativeBoost-Core.NBSizeT class>>#asNBExternalType:
+NativeBoost-Core.NBUInt16
+NativeBoost-Core.NBUInt16>>#coerceReturnValue:
+NativeBoost-Core.NBUInt16>>#pushAsValue:
+NativeBoost-Core.NBUInt16>>#valueSize
+NativeBoost-Core.NBUInt32
+NativeBoost-Core.NBUInt32>>#coerceOopToOperand:ifFailedJumpTo:
+NativeBoost-Core.NBUInt32>>#coerceReturnValue:
+NativeBoost-Core.NBUInt32>>#pushAsValue:
+NativeBoost-Core.NBUInt32>>#valueSize
+NativeBoost-Core.NBUInt64
+NativeBoost-Core.NBUInt64>>#coerceReturnValue:
+NativeBoost-Core.NBUInt64>>#loadMem:generator:
+NativeBoost-Core.NBUInt64>>#pushAsValue:
+NativeBoost-Core.NBUInt64>>#readOop:generator:
+NativeBoost-Core.NBUInt64>>#valueSize
+NativeBoost-Core.NBUInt8
+NativeBoost-Core.NBUInt8>>#coerceReturnValue:
+NativeBoost-Core.NBUInt8>>#pushAsValue:
+NativeBoost-Core.NBUInt8>>#valueSize
+NativeBoost-Core.NBVoid
+NativeBoost-Core.NBVoid>>#coerceOopToOperand:ifFailedJumpTo:
+NativeBoost-Core.NBVoid>>#coerceReturnValue:
+NativeBoost-Core.NBVoid>>#pushAsValue:
+NativeBoost-Core.NBVoid>>#valueSize
+NativeBoost-Core.NBWeakFinalizerItem
+NativeBoost-Core.NBWeakFinalizerItem>>#doNotFinalize
+NativeBoost-Core.NBWeakFinalizerItem>>#index
+NativeBoost-Core.NBWeakFinalizerItem>>#index:
+NativeBoost-Core.NBWeakFinalizerItem>>#list:index:freeIndex:
+NativeBoost-Core.NBWeakFinalizerItem>>#markAsFree:
+NativeBoost-Core.NBWeakFinalizerItem>>#nextFreeIndex
+NativeBoost-Core.NBWeakFinalizerItem>>#object:executor:
+NativeBoost-Core.NativeBoost
+NativeBoost-Core.NativeBoost class>>#CLibrary
+NativeBoost-Core.NativeBoost class>>#VMModule
+NativeBoost-Core.NativeBoost class>>#allocate:
+NativeBoost-Core.NativeBoost class>>#announcer
+NativeBoost-Core.NativeBoost class>>#automaticallyGeneratedCodeCategory
+NativeBoost-Core.NativeBoost class>>#callgateFunctionAddress
+NativeBoost-Core.NativeBoost class>>#clearNativeCode
+NativeBoost-Core.NativeBoost class>>#discoverPlatformId
+NativeBoost-Core.NativeBoost class>>#enableNativeCode
+NativeBoost-Core.NativeBoost class>>#extraRootsRegistry
+NativeBoost-Core.NativeBoost class>>#forCurrentPlatform
+NativeBoost-Core.NativeBoost class>>#free:
+NativeBoost-Core.NativeBoost class>>#initialize
+NativeBoost-Core.NativeBoost class>>#insideCallback
+NativeBoost-Core.NativeBoost class>>#isAvailable
+NativeBoost-Core.NativeBoost class>>#isEnabled
+NativeBoost-Core.NativeBoost class>>#isEnabledOrNil
+NativeBoost-Core.NativeBoost class>>#isNativeMethod:
+NativeBoost-Core.NativeBoost class>>#lastError
+NativeBoost-Core.NativeBoost class>>#loadFunction:
+NativeBoost-Core.NativeBoost class>>#loadFunction:from:
+NativeBoost-Core.NativeBoost class>>#loadSymbol:
+NativeBoost-Core.NativeBoost class>>#loadSymbol:fromModule:
+NativeBoost-Core.NativeBoost class>>#memCopy:to:size:
+NativeBoost-Core.NativeBoost class>>#newAssembler
+NativeBoost-Core.NativeBoost class>>#notifyAboutSessionChange:
+NativeBoost-Core.NativeBoost class>>#platformId
+NativeBoost-Core.NativeBoost class>>#prepareForProduction
+NativeBoost-Core.NativeBoost class>>#primitiveLoadMainModule
+NativeBoost-Core.NativeBoost class>>#registerPrimitiveSimulators
+NativeBoost-Core.NativeBoost class>>#resetInstance
+NativeBoost-Core.NativeBoost class>>#sessionChanged:
+NativeBoost-Core.NativeBoost class>>#simulatePrimitiveFor:receiver:arguments:context:
+NativeBoost-Core.NativeBoost class>>#targetPlatformId
+NativeBoost-Core.NativeBoost class>>#tryRunNativeCode:for:withArgs:
+NativeBoost-Core.NativeBoost class>>#ulongAt:
+NativeBoost-Core.NativeBoost class>>#uniqueSessionObject
+NativeBoost-Core.NativeBoost class>>#unsupportedPlatform
+NativeBoost-Core.NativeBoost>>#CLibrary
+NativeBoost-Core.NativeBoost>>#VMModule
+NativeBoost-Core.NativeBoost>>#allocate:
+NativeBoost-Core.NativeBoost>>#allocationFailed
+NativeBoost-Core.NativeBoost>>#basicAllocate:
+NativeBoost-Core.NativeBoost>>#bootstrapLoadFunction:from:into:
+NativeBoost-Core.NativeBoost>>#bootstrapLoadModule:ofLength:into:
+NativeBoost-Core.NativeBoost>>#bootstrapLoadSymbol:ofLength:fromModule:into:
+NativeBoost-Core.NativeBoost>>#callbackCounterAddress
+NativeBoost-Core.NativeBoost>>#callgateFunctionAddress
+NativeBoost-Core.NativeBoost>>#extraRootsRegistry
+NativeBoost-Core.NativeBoost>>#free:
+NativeBoost-Core.NativeBoost>>#generateCallgateCode
+NativeBoost-Core.NativeBoost>>#initialize
+NativeBoost-Core.NativeBoost>>#initializeExternalHeap
+NativeBoost-Core.NativeBoost>>#initializeForNewSession
+NativeBoost-Core.NativeBoost>>#insideCallback
+NativeBoost-Core.NativeBoost>>#ioLoadFunction:from:
+NativeBoost-Core.NativeBoost>>#ioLoadModule:
+NativeBoost-Core.NativeBoost>>#isBootstrapping
+NativeBoost-Core.NativeBoost>>#loadFunction:from:
+NativeBoost-Core.NativeBoost>>#loadModule:
+NativeBoost-Core.NativeBoost>>#loadSymbol:fromModule:
+NativeBoost-Core.NativeBoost>>#memCopy:to:size:
+NativeBoost-Core.NativeBoost>>#newAssembler
+NativeBoost-Core.NativeBoost>>#pointerSize
+NativeBoost-Core.NativeBoost>>#primEnableNativeCode
+NativeBoost-Core.NativeBoost>>#ulongAt:
+NativeBoost-Core.NativeBoost>>#ulongAt:into:
+NativeBoost-Core.Object>>#nbAddress
+NativeBoost-Core.Object>>#nbCallingConvention
+NativeBoost-Core.Object>>#nbCallout
+NativeBoost-Core.Object>>#nbCalloutIn:
+NativeBoost-Core.Object>>#nbGetSymbolAddress:module:
+NativeBoost-Core.Object>>#nbLibraryNameOrHandle
+NativeBoost-Core.String class>>#asNBExternalType:
+NativeBoost-Core.String>>#asNBExternalString
+NativeBoost-Core.String>>#asNBExternalType:
+NativeBoost-Core.TNBMemoryAccessors
+NativeBoost-Examples.ByteString>>#nbBeginsWithByteString:
+NativeBoost-Examples.NBBasicExamples
+NativeBoost-Examples.NBBasicExamples class>>#failIfNegative:
+NativeBoost-Examples.NBBasicExamples class>>#nbGetEnv:
+NativeBoost-Examples.NBBasicExamples class>>#primitiveFail
+NativeBoost-Examples.NBBasicExamples class>>#primitiveFailWithMessage
+NativeBoost-Examples.NBBasicExamples class>>#returnAddressOf:
+NativeBoost-Examples.NBBasicExamples class>>#returnArrayClass
+NativeBoost-Examples.NBBasicExamples class>>#returnAsBit:
+NativeBoost-Examples.NBBasicExamples class>>#returnClassOf:
+NativeBoost-Examples.NBBasicExamples class>>#returnFloat
+NativeBoost-Examples.NBBasicExamples class>>#returnInstVar:from:
+NativeBoost-Examples.NBBasicExamples class>>#returnInteger
+NativeBoost-Examples.NBBasicExamples class>>#returnInteger:minus:
+NativeBoost-Examples.NBBasicExamples class>>#returnIntegerDirectOOP
+NativeBoost-Examples.NBBasicExamples class>>#returnMethodLiteral
+NativeBoost-Examples.NBBasicExamples class>>#returnNewArraySize3
+NativeBoost-Examples.NBBasicExamples class>>#returnNil
+NativeBoost-Examples.NBBasicExamples class>>#returnSelf
+NativeBoost-Examples.NBBasicExamples class>>#returnSpecialObjectsArray
+NativeBoost-Examples.NBBasicExamples class>>#swapDoubFirst:withSecond:
+NativeBoost-Examples.NBBasicExamples>>#encodeToUTF8:
+NativeBoost-Examples.NBBasicExamples>>#externalAddressValue:
+NativeBoost-Examples.NBBasicExamples>>#getObjectHeader:
+NativeBoost-Examples.NBBasicExamples>>#readDoubleFrom:
+NativeBoost-Examples.NBBasicExamples>>#storeDouble:at:
+NativeBoost-Examples.NBBasicExamples>>#writeAndReadDoubles
+NativeBoost-Examples.NBCPrinter
+NativeBoost-Examples.NBCPrinter class>>#initialize
+NativeBoost-Examples.NBCPrinter class>>#printf:
+NativeBoost-Examples.NBUTF8StringExample
+NativeBoost-Examples.NBUTF8StringExample>>#prepareArgumentUsing:
+NativeBoost-Examples.NBUTF8StringExample>>#pushAsValue:
+NativeBoost-Examples.Object>>#nbOopHeader
+NativeBoost-Examples.WideString>>#nbHash
+NativeBoost-Examples.WideString>>#nbStringHash:
+NativeBoost-Mac.NBMacConstants
+NativeBoost-Mac.NBMacConstants class>>#initMmapflags
+NativeBoost-Mac.NBMacConstants class>>#initialize
+NativeBoost-Mac.NBMacExternalHeapManager
+NativeBoost-Mac.NBMacExternalHeapManager>>#mapFlags
+NativeBoost-Mac.NBMacExternalHeapManager>>#mmapLength:prot:flags:into:
+NativeBoost-Mac.NBMacExternalHeapManager>>#primAllocatePage:
+NativeBoost-Mac.NBMacExternalHeapManager>>#primFreePage:
+NativeBoost-Mac.NBMacExternalHeapManager>>#protFlags
+NativeBoost-Mac.NBMacExternalHeapManager>>#unmap:length:
+NativeBoost-Mac.NBMacShell
+NativeBoost-Mac.NBMacShell class>>#open:
+NativeBoost-Mac.NBMacShell class>>#run:
+NativeBoost-Mac.NativeBoostMac32
+NativeBoost-Mac.NativeBoostMac32 class>>#targetPlatformId
+NativeBoost-Mac.NativeBoostMac32>>#VMModule
+NativeBoost-Mac.NativeBoostMac32>>#bootstrapGetGlobalSymbolPointer:into:
+NativeBoost-Mac.NativeBoostMac32>>#getEntryPointStackOffset
+NativeBoost-Mac.NativeBoostMac32>>#initializeExternalHeap
+NativeBoost-Mac.NativeBoostMac32>>#newAssembler
+NativeBoost-Mac.NativeBoostMac32>>#stackAlignment
+NativeBoost-Pools.NativeBoostConstants
+NativeBoost-Pools.NativeBoostConstants class>>#currentPlatformId
+NativeBoost-Pools.NativeBoostConstants class>>#initErrorCodes
+NativeBoost-Pools.NativeBoostConstants class>>#initErrorDescriptions
+NativeBoost-Pools.NativeBoostConstants class>>#initVMErrorCodes
+NativeBoost-Pools.NativeBoostConstants class>>#initialize
+NativeBoost-Pools.NativeBoostConstants class>>#linux32PlatformId
+NativeBoost-Pools.NativeBoostConstants class>>#mac32PlatformId
+NativeBoost-Pools.NativeBoostConstants class>>#win32PlatformId
+NativeBoost-Tests.NBBufferWithOffsetTests
+NativeBoost-Tests.NBBufferWithOffsetTests>>#readByte:
+NativeBoost-Tests.NBBufferWithOffsetTests>>#testConversionWorks
+NativeBoost-Tests.NBCoreTests
+NativeBoost-Tests.NBCoreTests>>#anotherMethodWithPrimitive220
+NativeBoost-Tests.NBCoreTests>>#methodWithPrimitive220
+NativeBoost-Tests.NBCoreTests>>#nonExistedPrim:
+NativeBoost-Tests.NBCoreTests>>#return0Code
+NativeBoost-Tests.NBCoreTests>>#stub
+NativeBoost-Tests.NBCoreTests>>#stub2
+NativeBoost-Tests.NBCoreTests>>#testExternalResourceManagerFinalization
+NativeBoost-Tests.NBCoreTests>>#testFinalization
+NativeBoost-Tests.NBCoreTests>>#testGenerateAndRetry
+NativeBoost-Tests.NBCoreTests>>#testGettingError
+NativeBoost-Tests.NBCoreTests>>#testHasTrailerInstalled
+NativeBoost-Tests.NBCoreTests>>#testInstallingNativeCode
+NativeBoost-Tests.NBCoreTests>>#testOptionParsing
+NativeBoost-Tests.NBCoreTests>>#testPlatformId
+NativeBoost-Tests.NBCoreTests>>#testPrimitive220
+NativeBoost-Tests.NBCoreTests>>#testPrimitive220ErrorCode
+NativeBoost-Tests.NBCoreTests>>#testRecursionDetection
+NativeBoost-Tests.NBExternalAddressTests
+NativeBoost-Tests.NBExternalAddressTests>>#testAddressAndStruct
+NativeBoost-Tests.NBExternalAddressTests>>#testMemoryAccess
+NativeBoost-Tests.NBExternalAddressTests>>#testStringAccess
+NativeBoost-Tests.NBExternalAddressTests>>#testStructCopy
+NativeBoost-Tests.NBExternalArrayTest
+NativeBoost-Tests.NBExternalArrayTest>>#apiClass
+NativeBoost-Tests.NBExternalArrayTest>>#testAccessors
+NativeBoost-Tests.NBExternalArrayTest>>#testAnonymousClassCreation
+NativeBoost-Tests.NBExternalArrayTest>>#testBasicProtocol
+NativeBoost-Tests.NBExternalArrayTest>>#testExternalArray
+NativeBoost-Tests.NBExternalArrayTest>>#testExternalCopy
+NativeBoost-Tests.NBExternalEnumFromPairsTest
+NativeBoost-Tests.NBExternalEnumFromPairsTest>>#cbClass
+NativeBoost-Tests.NBExternalEnumFromPairsTest>>#enumClass
+NativeBoost-Tests.NBExternalEnumFromPairsTest>>#enumToInt:
+NativeBoost-Tests.NBExternalEnumFromPairsTest>>#executeCb:
+NativeBoost-Tests.NBExternalEnumFromPairsTest>>#primEnumToInt1:
+NativeBoost-Tests.NBExternalEnumFromPairsTest>>#primExecuteCallbackEnumReturn1:
+NativeBoost-Tests.NBExternalEnumTests
+NativeBoost-Tests.NBExternalEnumTests>>#callback
+NativeBoost-Tests.NBExternalEnumTests>>#callbackAAA
+NativeBoost-Tests.NBExternalEnumTests>>#callbackWrongReturn
+NativeBoost-Tests.NBExternalEnumTests>>#cbClass
+NativeBoost-Tests.NBExternalEnumTests>>#enumClass
+NativeBoost-Tests.NBExternalEnumTests>>#enumToInt:
+NativeBoost-Tests.NBExternalEnumTests>>#executeCb:
+NativeBoost-Tests.NBExternalEnumTests>>#initialize
+NativeBoost-Tests.NBExternalEnumTests>>#primEnumToInt:
+NativeBoost-Tests.NBExternalEnumTests>>#primExecuteCallbackEnumReturn:
+NativeBoost-Tests.NBExternalEnumTests>>#primIntToEnum:
+NativeBoost-Tests.NBExternalEnumTests>>#testCallbackAAA
+NativeBoost-Tests.NBExternalEnumTests>>#testCallbackEnumFromInt
+NativeBoost-Tests.NBExternalEnumTests>>#testCallbackWrongReturn
+NativeBoost-Tests.NBExternalEnumTests>>#testEnumIdents
+NativeBoost-Tests.NBExternalEnumTests>>#testEnumIncludes
+NativeBoost-Tests.NBExternalEnumTests>>#testEnumToInt
+NativeBoost-Tests.NBExternalEnumTests>>#testFromIntegerFailure
+NativeBoost-Tests.NBExternalEnumTests>>#testFromIntegerOk
+NativeBoost-Tests.NBExternalEnumTests>>#testIntToEnum
+NativeBoost-Tests.NBExternalEnumTests>>#testIntToEnumNotIncluded
+NativeBoost-Tests.NBExternalEnumTests>>#testNewError
+NativeBoost-Tests.NBExternalEnumTests>>#testNotEnumMember
+NativeBoost-Tests.NBExternalHeapManagerTests
+NativeBoost-Tests.NBExternalHeapManagerTests>>#newHeap
+NativeBoost-Tests.NBExternalHeapManagerTests>>#testAllocate
+NativeBoost-Tests.NBExternalHeapManagerTests>>#testAllocate2
+NativeBoost-Tests.NBFFICallbackTests
+NativeBoost-Tests.NBFFICallbackTests>>#benchQSort
+NativeBoost-Tests.NBFFICallbackTests>>#checkCallback:with:compare:
+NativeBoost-Tests.NBFFICallbackTests>>#checkCallbackAddress:
+NativeBoost-Tests.NBFFICallbackTests>>#checkEmitFetchClass
+NativeBoost-Tests.NBFFICallbackTests>>#checkSTCallbackAddress:
+NativeBoost-Tests.NBFFICallbackTests>>#createNativeCallback
+NativeBoost-Tests.NBFFICallbackTests>>#dummyMethod:
+NativeBoost-Tests.NBFFICallbackTests>>#primNativeQSort:compare:
+NativeBoost-Tests.NBFFICallbackTests>>#primStQSort:len:compare:
+NativeBoost-Tests.NBFFICallbackTests>>#readByte:
+NativeBoost-Tests.NBFFICallbackTests>>#readByte:at:
+NativeBoost-Tests.NBFFICallbackTests>>#testCBGeneratedCode
+NativeBoost-Tests.NBFFICallbackTests>>#testCallbackCounter
+NativeBoost-Tests.NBFFICallbackTests>>#testCreateContext
+NativeBoost-Tests.NBFFICallbackTests>>#testEmitFetchClass
+NativeBoost-Tests.NBFFICallbackTests>>#testInstallCallback
+NativeBoost-Tests.NBFFICallbackTests>>#testMemCopy
+NativeBoost-Tests.NBFFICallbackTests>>#testNativeCallback
+NativeBoost-Tests.NBFFICallbackTests>>#testQSortCallbackST
+NativeBoost-Tests.NBFFICallbackTests>>#testReadByte
+NativeBoost-Tests.NBFFICallbackTests>>#testSTCallbackInstalled
+NativeBoost-Tests.NBFFICallbackTests>>#testcallbackAddress
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#boundsError
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#primIsPointers:
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#returnOop0Of:
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#returnOop1Of:
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#returnOop2Of:
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#returnOop5Of:
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#returnOopMinus1Of:
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#returnOopMinus3Of:
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentArray0Indirect
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentArrayNegativeIndirect
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentArrayOk
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentDictionayFailure
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentFloatFailure
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentLargePositiveIntegerFailure
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentObjectBoundsFailure
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentObjectFirstBoundsFailure
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentPointFailure
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectArgumentSmallIntegerFailure
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testIndirectableObjects
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#testNotIndirectableObjects
+NativeBoost-Tests.NBFFICalloutIndirectArgumentTests>>#typeError
+NativeBoost-Tests.NBFFICalloutTests
+NativeBoost-Tests.NBFFICalloutTests>>#arraySize2:with:
+NativeBoost-Tests.NBFFICalloutTests>>#arraySize:
+NativeBoost-Tests.NBFFICalloutTests>>#asNBExternalType:
+NativeBoost-Tests.NBFFICalloutTests>>#checkType:class:arity:stackIndex:
+NativeBoost-Tests.NBFFICalloutTests>>#checkType:class:arity:stackIndex:elementIndex:
+NativeBoost-Tests.NBFFICalloutTests>>#checkType:class:value:
+NativeBoost-Tests.NBFFICalloutTests>>#nativeFailWithCode:
+NativeBoost-Tests.NBFFICalloutTests>>#nbBindingOf:
+NativeBoost-Tests.NBFFICalloutTests>>#nbFnArgument:generator:
+NativeBoost-Tests.NBFFICalloutTests>>#passString:
+NativeBoost-Tests.NBFFICalloutTests>>#returnParamUsingStackPtr:
+NativeBoost-Tests.NBFFICalloutTests>>#returnReceiver:arg2:
+NativeBoost-Tests.NBFFICalloutTests>>#setUp
+NativeBoost-Tests.NBFFICalloutTests>>#testArraySize
+NativeBoost-Tests.NBFFICalloutTests>>#testBuildingFnSpec
+NativeBoost-Tests.NBFFICalloutTests>>#testBuildingFnSpecWithQueries
+NativeBoost-Tests.NBFFICalloutTests>>#testFailCode
+NativeBoost-Tests.NBFFICalloutTests>>#testPrepareArgumentsKeepsStackAligned
+NativeBoost-Tests.NBFFICalloutTests>>#testProxyReceiver
+NativeBoost-Tests.NBFFICalloutTests>>#testSupportedProtocols
+NativeBoost-Tests.NBFFICalloutTests>>#testUseStackPointer
+NativeBoost-Tests.NBFFIExternalStructTests
+NativeBoost-Tests.NBFFIExternalStructTests class>>#resources
+NativeBoost-Tests.NBFFIExternalStructTests>>#returnStruct1Byte
+NativeBoost-Tests.NBFFIExternalStructTests>>#returnStruct9Bytes
+NativeBoost-Tests.NBFFIExternalStructTests>>#returnStructWithCallback:
+NativeBoost-Tests.NBFFIExternalStructTests>>#testExternallyAllocatedStructure
+NativeBoost-Tests.NBFFIExternalStructTests>>#testNestedStructure
+NativeBoost-Tests.NBFFIExternalStructTests>>#testReturnStruct1Byte
+NativeBoost-Tests.NBFFIExternalStructTests>>#testReturnStruct9Bytes
+NativeBoost-Tests.NBFFIExternalStructTests>>#testReturnStructWithCallback
+NativeBoost-Tests.NBFFIExternalStructTests>>#testStructAccess
+NativeBoost-Tests.NBFFIExternalStructTests>>#testStructWithPointerAccess
+NativeBoost-Tests.NBFFIExternalUnionTests
+NativeBoost-Tests.NBFFIExternalUnionTests class>>#resources
+NativeBoost-Tests.NBFFIExternalUnionTests>>#return4Bytes:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnion1Byte
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionPointer:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionUnionChar:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionUnionDouble:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionUnionInt:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionWithCallback:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionWithStructChar:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionWithStructInt:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#returnUnionWithStructStruct:
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnion1Byte
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnion2Pointers
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnionUnionChar
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnionUnionDouble
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnionUnionInt
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnionWithCallback
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnionWithStructChar
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnionWithStructInt
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testReturnUnionWithStructStruct
+NativeBoost-Tests.NBFFIExternalUnionTests>>#testUnionWithUnion
+NativeBoost-Tests.NBFFIExternalValueTests
+NativeBoost-Tests.NBFFIExternalValueTests>>#outputIntArg:value:
+NativeBoost-Tests.NBFFIExternalValueTests>>#outputValueArg:value:
+NativeBoost-Tests.NBFFIExternalValueTests>>#outputVoidArg:value:
+NativeBoost-Tests.NBFFIExternalValueTests>>#testOutIntArg
+NativeBoost-Tests.NBFFIExternalValueTests>>#testOutIntoByteArray
+NativeBoost-Tests.NBFFIExternalValueTests>>#testOutValueArg
+NativeBoost-Tests.NBFFIExternalValueTests>>#testOutVoidArg
+NativeBoost-Tests.NBFFIExternalValueTests>>#testValue
+NativeBoost-Tests.NBFnSpecParserTest
+NativeBoost-Tests.NBFnSpecParserTest>>#argName:indirectIndex:type:ptrArity:
+NativeBoost-Tests.NBFnSpecParserTest>>#integerConstantArgument:
+NativeBoost-Tests.NBFnSpecParserTest>>#newParser
+NativeBoost-Tests.NBFnSpecParserTest>>#returnType:
+NativeBoost-Tests.NBFnSpecParserTest>>#testParseAnonFn
+NativeBoost-Tests.NBFnSpecParserTest>>#testParseNamedFn
+NativeBoost-Tests.NBFnSpecParserTest>>#testParseNoArgsFn
+NativeBoost-Tests.NBFnSpecParserTest>>#testParserCallbacks
+NativeBoost-Tests.NBInterpreterProxyTest
+NativeBoost-Tests.NBInterpreterProxyTest>>#primCheckStackPointer
+NativeBoost-Tests.NBInterpreterProxyTest>>#primCheckStackPointer2
+NativeBoost-Tests.NBInterpreterProxyTest>>#testStackPointer
+NativeBoost-Tests.NBInterpreterProxyTest>>#testStackPointer2
+NativeBoost-Tests.NBMacSpecificTest
+NativeBoost-Tests.NBMacSpecificTest class>>#isAbstract
+NativeBoost-Tests.NBMacSpecificTest>>#testSystemCall
+NativeBoost-Tests.NBMockExternalHeapManager
+NativeBoost-Tests.NBMockExternalHeapManager>>#primAllocatePage:
+NativeBoost-Tests.NBMockExternalHeapManager>>#primFreePage:
+NativeBoost-Tests.NBMockExternalObject
+NativeBoost-Tests.NBMockExternalObject class>>#finalizeResourceData:
+NativeBoost-Tests.NBMockExternalObject>>#data:
+NativeBoost-Tests.NBMockExternalObject>>#resourceData
+NativeBoost-Tests.NBMockExternalType
+NativeBoost-Tests.NBObjectFormat32Tests
+NativeBoost-Tests.NBObjectFormat32Tests>>#getFloatPtrOffset:
+NativeBoost-Tests.NBObjectFormat32Tests>>#pushDouble:
+NativeBoost-Tests.NBObjectFormat32Tests>>#pushFloat:
+NativeBoost-Tests.NBObjectFormat32Tests>>#testCompactFloats
+NativeBoost-Tests.NBObjectFormat32Tests>>#testPushingFloatPointers
+NativeBoost-Tests.NBObjectFormat32Tests>>#testPushingFloats
+NativeBoost-Tests.NBPointerArgumentsTests
+NativeBoost-Tests.NBPointerArgumentsTests class>>#enumArrayType
+NativeBoost-Tests.NBPointerArgumentsTests class>>#enumClass
+NativeBoost-Tests.NBPointerArgumentsTests class>>#enumType
+NativeBoost-Tests.NBPointerArgumentsTests class>>#initialize
+NativeBoost-Tests.NBPointerArgumentsTests class>>#intArrayType
+NativeBoost-Tests.NBPointerArgumentsTests class>>#ptrArrayType
+NativeBoost-Tests.NBPointerArgumentsTests class>>#reset
+NativeBoost-Tests.NBPointerArgumentsTests class>>#resources
+NativeBoost-Tests.NBPointerArgumentsTests class>>#structArrayType
+NativeBoost-Tests.NBPointerArgumentsTests class>>#structClass
+NativeBoost-Tests.NBPointerArgumentsTests class>>#structType
+NativeBoost-Tests.NBPointerArgumentsTests>>#arity2StructPtrCase1:
+NativeBoost-Tests.NBPointerArgumentsTests>>#arity2StructPtrCase2:
+NativeBoost-Tests.NBPointerArgumentsTests>>#arity2StructPtrCase3:
+NativeBoost-Tests.NBPointerArgumentsTests>>#arity2StructPtrCase4:
+NativeBoost-Tests.NBPointerArgumentsTests>>#case1
+NativeBoost-Tests.NBPointerArgumentsTests>>#case2
+NativeBoost-Tests.NBPointerArgumentsTests>>#case3
+NativeBoost-Tests.NBPointerArgumentsTests>>#case4
+NativeBoost-Tests.NBPointerArgumentsTests>>#enumByteArray:
+NativeBoost-Tests.NBPointerArgumentsTests>>#enumExternalAddress:
+NativeBoost-Tests.NBPointerArgumentsTests>>#intByteArray:
+NativeBoost-Tests.NBPointerArgumentsTests>>#intExternalAddress:
+NativeBoost-Tests.NBPointerArgumentsTests>>#primitiveArity2Struct:case:
+NativeBoost-Tests.NBPointerArgumentsTests>>#primitiveEnum:case:
+NativeBoost-Tests.NBPointerArgumentsTests>>#primitiveInt:case:
+NativeBoost-Tests.NBPointerArgumentsTests>>#primitiveStruct:case:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readEnumPtrCase1:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readEnumPtrCase2:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readEnumPtrCase3:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readEnumPtrCase4:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readIntPtrCase1:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readIntPtrCase2:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readIntPtrCase3:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readIntPtrCase4:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readStructPtrCase1:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readStructPtrCase2:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readStructPtrCase3:
+NativeBoost-Tests.NBPointerArgumentsTests>>#readStructPtrCase4:
+NativeBoost-Tests.NBPointerArgumentsTests>>#structByteArray:
+NativeBoost-Tests.NBPointerArgumentsTests>>#structExternalAddress:
+NativeBoost-Tests.NBPointerArgumentsTests>>#structValue:
+NativeBoost-Tests.NBPointerArgumentsTests>>#tearDown
+NativeBoost-Tests.NBPointerArgumentsTests>>#testArity2StructCase1Struct
+NativeBoost-Tests.NBPointerArgumentsTests>>#testArity2StructCase2Struct
+NativeBoost-Tests.NBPointerArgumentsTests>>#testArity2StructCase3Struct
+NativeBoost-Tests.NBPointerArgumentsTests>>#testArity2StructCase4Struct
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase1ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase1ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase2ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase2ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase3ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase3ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase4ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumCase4ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testEnumDirectly
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase1ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase1ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase2ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase2ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase3ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase3ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase4ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntCase4ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testIntDirectly
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase1ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase1ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase1Struct
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase2ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase2ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase2Struct
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase3ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase3ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase3Struct
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase4ByteArray
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase4ExternalAddress
+NativeBoost-Tests.NBPointerArgumentsTests>>#testStructCase4Struct
+NativeBoost-Tests.NBQSortCallback
+NativeBoost-Tests.NBQSortCallback class>>#callType
+NativeBoost-Tests.NBQSortCallback class>>#fnSpec
+NativeBoost-Tests.NBQSortCallback>>#index
+NativeBoost-Tests.NBQSortCallback>>#trunk
+NativeBoost-Tests.NBTestCallbackReturnEnum
+NativeBoost-Tests.NBTestCallbackReturnEnum class>>#fnSpec
+NativeBoost-Tests.NBTestCallbackReturnEnum1
+NativeBoost-Tests.NBTestCallbackReturnEnum1 class>>#fnSpec
+NativeBoost-Tests.NBTestEnumeration
+NativeBoost-Tests.NBTestEnumeration class>>#enumDecl
+NativeBoost-Tests.NBTestEnumerationFromPairs
+NativeBoost-Tests.NBTestEnumerationFromPairs class>>#enumDecl
+NativeBoost-Tests.NBTestExternalValue
+NativeBoost-Tests.NBTestExternalValue class>>#initialize
+NativeBoost-Tests.NBTestNestedStructure
+NativeBoost-Tests.NBTestNestedStructure class>>#fieldsDesc
+NativeBoost-Tests.NBTestResources
+NativeBoost-Tests.NBTestResources>>#setUp
+NativeBoost-Tests.NBTestStructure
+NativeBoost-Tests.NBTestStructure class>>#fieldsDesc
+NativeBoost-Tests.NBTestStructure1byte
+NativeBoost-Tests.NBTestStructure1byte class>>#fieldsDesc
+NativeBoost-Tests.NBTestStructure2
+NativeBoost-Tests.NBTestStructure2 class>>#fieldsDesc
+NativeBoost-Tests.NBTestStructure9bytes
+NativeBoost-Tests.NBTestStructure9bytes class>>#fieldsDesc
+NativeBoost-Tests.NBTestStructureWithCallback
+NativeBoost-Tests.NBTestStructureWithCallback class>>#fieldsDesc
+NativeBoost-Tests.NBTestStructureWithPointer1
+NativeBoost-Tests.NBTestStructureWithPointer1 class>>#fieldsDesc
+NativeBoost-Tests.NBTestUnion1Byte
+NativeBoost-Tests.NBTestUnion1Byte class>>#fieldsDesc
+NativeBoost-Tests.NBTestUnion2Pointers
+NativeBoost-Tests.NBTestUnion2Pointers class>>#fieldsDesc
+NativeBoost-Tests.NBTestUnionIntSize
+NativeBoost-Tests.NBTestUnionIntSize class>>#fieldsDesc
+NativeBoost-Tests.NBTestUnionWithCallback
+NativeBoost-Tests.NBTestUnionWithCallback class>>#fieldsDesc
+NativeBoost-Tests.NBTestUnionWithStructure
+NativeBoost-Tests.NBTestUnionWithStructure class>>#fieldsDesc
+NativeBoost-Tests.NBTestUnionWithUnion
+NativeBoost-Tests.NBTestUnionWithUnion class>>#fieldsDesc
+NativeBoost-Tests.NBUnixSpecificTest
+NativeBoost-Tests.NBUnixSpecificTest class>>#isAbstract
+NativeBoost-Tests.NBWin32PointTest
+NativeBoost-Tests.NBWin32PointTest>>#testInstanceCreation
+NativeBoost-Tests.NBWin32SpecificTest
+NativeBoost-Tests.NBWin32SpecificTest class>>#isAbstract
+NativeBoost-Tests.NBWin32WindowTest
+NativeBoost-Tests.NBWin32WindowTest>>#testGetDesktopWindow
+NativeBoost-Tests.NBWin32WindowTest>>#testIsEnabled
+NativeBoost-Tests.NBWin32WindowTest>>#testIsVisible
+NativeBoost-Tests.NBWin32WindowTest>>#testWindowFromPoint
+NativeBoost-Tests.NativeCodeTests
+NativeBoost-Tests.NativeCodeTests class>>#resources
+NativeBoost-Tests.NativeCodeTests>>#createMoveTestCode
+NativeBoost-Tests.NativeCodeTests>>#install:into:
+NativeBoost-Tests.NativeCodeTests>>#movableStub
+NativeBoost-Tests.NativeCodeTests>>#testArgumentOffsets
+NativeBoost-Tests.NativeCodeTests>>#testMovableStuff
+NativeBoost-Tests.NativeCodeTests>>#testProxyFunctions
+NativeBoost-Unix.NBUnixConstants
+NativeBoost-Unix.NBUnixConstants class>>#initDlopenFlags
+NativeBoost-Unix.NBUnixConstants class>>#initMmapFlags
+NativeBoost-Unix.NBUnixConstants class>>#initialize
+NativeBoost-Unix.NBUnixExternalHeapManager
+NativeBoost-Unix.NBUnixExternalHeapManager>>#mapFlags
+NativeBoost-Unix.NBUnixExternalHeapManager>>#mmapLength:prot:flags:into:
+NativeBoost-Unix.NBUnixExternalHeapManager>>#primAllocatePage:
+NativeBoost-Unix.NBUnixExternalHeapManager>>#primFreePage:
+NativeBoost-Unix.NBUnixExternalHeapManager>>#protFlags
+NativeBoost-Unix.NBUnixExternalHeapManager>>#unmap:length:
+NativeBoost-Unix.NativeBoostLinux32
+NativeBoost-Unix.NativeBoostLinux32 class>>#targetPlatformId
+NativeBoost-Unix.NativeBoostLinux32>>#CLibrary
+NativeBoost-Unix.NativeBoostLinux32>>#VMModule
+NativeBoost-Unix.NativeBoostLinux32>>#basicAllocate:
+NativeBoost-Unix.NativeBoostLinux32>>#bootstrapGetGlobalSymbolPointer:into:
+NativeBoost-Unix.NativeBoostLinux32>>#free:
+NativeBoost-Unix.NativeBoostLinux32>>#getGlobalSymbolPointer:
+NativeBoost-Unix.NativeBoostLinux32>>#initializeExternalHeap
+NativeBoost-Unix.NativeBoostLinux32>>#loadSymbol:fromModule:
+NativeBoost-Unix.NativeBoostLinux32>>#newAssembler
+NativeBoost-Unix.NativeBoostLinux32>>#pointerSize
+NativeBoost-Unix.NativeBoostLinux32>>#primitiveDlopen
+NativeBoost-Unix.NativeBoostLinux32>>#primitiveDlsym
+NativeBoost-Unix.NativeBoostLinux32>>#stackAlignment
+NativeBoost-Win32.NBTCHAR
+NativeBoost-Win32.NBTCHAR class>>#asNBExternalType:
+NativeBoost-Win32.NBTString
+NativeBoost-Win32.NBTString class>>#asNBExternalType:
+NativeBoost-Win32.NBWideString
+NativeBoost-Win32.NBWin32Handle
+NativeBoost-Win32.NBWin32Handle>>#asUnsignedLong
+NativeBoost-Win32.NBWin32Handle>>#nbCallingConvention
+NativeBoost-Win32.NBWin32Handle>>#value:
+NativeBoost-Win32.NBWin32Hdc
+NativeBoost-Win32.NBWin32Hdc>>#lineToX:y:
+NativeBoost-Win32.NBWin32Hdc>>#moveToX:y:
+NativeBoost-Win32.NBWin32Hdc>>#rectangleLeft:top:right:bottom:
+NativeBoost-Win32.NBWin32Heap
+NativeBoost-Win32.NBWin32Heap class>>#create:initialiSize:maximumSize:
+NativeBoost-Win32.NBWin32Heap>>#alloc:
+NativeBoost-Win32.NBWin32Heap>>#compact
+NativeBoost-Win32.NBWin32Heap>>#destroy
+NativeBoost-Win32.NBWin32Heap>>#free:
+NativeBoost-Win32.NBWin32Heap>>#lock
+NativeBoost-Win32.NBWin32Heap>>#nbCallingConvention
+NativeBoost-Win32.NBWin32Heap>>#nbLibraryNameOrHandle
+NativeBoost-Win32.NBWin32Heap>>#privSetHandle:
+NativeBoost-Win32.NBWin32Heap>>#realloc:mem:size:
+NativeBoost-Win32.NBWin32Heap>>#sizeOf:
+NativeBoost-Win32.NBWin32Heap>>#unlock
+NativeBoost-Win32.NBWin32Heap>>#validate
+NativeBoost-Win32.NBWin32Heap>>#zalloc:
+NativeBoost-Win32.NBWin32Point
+NativeBoost-Win32.NBWin32Point class>>#fieldsDesc
+NativeBoost-Win32.NBWin32Point class>>#x:y:
+NativeBoost-Win32.NBWin32Rectangle
+NativeBoost-Win32.NBWin32Rectangle class>>#fieldsDesc
+NativeBoost-Win32.NBWin32Shell
+NativeBoost-Win32.NBWin32Shell class>>#getAllUsersProfileFolder
+NativeBoost-Win32.NBWin32Shell class>>#getApplicationDataFolder
+NativeBoost-Win32.NBWin32Shell class>>#getBootType
+NativeBoost-Win32.NBWin32Shell class>>#getCommandLine
+NativeBoost-Win32.NBWin32Shell class>>#getCommandLineProcessor
+NativeBoost-Win32.NBWin32Shell class>>#getCommonProgramFiles
+NativeBoost-Win32.NBWin32Shell class>>#getCommonProgramFilesX86
+NativeBoost-Win32.NBWin32Shell class>>#getComputerName
+NativeBoost-Win32.NBWin32Shell class>>#getDriveType:
+NativeBoost-Win32.NBWin32Shell class>>#getEnvironmentVariable:
+NativeBoost-Win32.NBWin32Shell class>>#getHomeDrive
+NativeBoost-Win32.NBWin32Shell class>>#getHomePath
+NativeBoost-Win32.NBWin32Shell class>>#getInetIsOffline:
+NativeBoost-Win32.NBWin32Shell class>>#getKeyboardType
+NativeBoost-Win32.NBWin32Shell class>>#getKeyboardType:
+NativeBoost-Win32.NBWin32Shell class>>#getLogonServer
+NativeBoost-Win32.NBWin32Shell class>>#getNumberOfDisplayMonitors
+NativeBoost-Win32.NBWin32Shell class>>#getNumberOfFunctionKeys
+NativeBoost-Win32.NBWin32Shell class>>#getNumberOfMouseButtons
+NativeBoost-Win32.NBWin32Shell class>>#getNumberOfProcessors
+NativeBoost-Win32.NBWin32Shell class>>#getOS
+NativeBoost-Win32.NBWin32Shell class>>#getPathEntries
+NativeBoost-Win32.NBWin32Shell class>>#getPathExtensions
+NativeBoost-Win32.NBWin32Shell class>>#getProcessorArchitecture
+NativeBoost-Win32.NBWin32Shell class>>#getProcessorIdentifier
+NativeBoost-Win32.NBWin32Shell class>>#getProcessorLevel
+NativeBoost-Win32.NBWin32Shell class>>#getProcessorRevision
+NativeBoost-Win32.NBWin32Shell class>>#getProgramFilesDirectory
+NativeBoost-Win32.NBWin32Shell class>>#getScreenHeight
+NativeBoost-Win32.NBWin32Shell class>>#getScreenSize
+NativeBoost-Win32.NBWin32Shell class>>#getScreenWidth
+NativeBoost-Win32.NBWin32Shell class>>#getSystemDrive
+NativeBoost-Win32.NBWin32Shell class>>#getSystemMetrics:
+NativeBoost-Win32.NBWin32Shell class>>#getSystemRootDirectory
+NativeBoost-Win32.NBWin32Shell class>>#getTempDirectory
+NativeBoost-Win32.NBWin32Shell class>>#getTmpDirectory
+NativeBoost-Win32.NBWin32Shell class>>#getUserDomain
+NativeBoost-Win32.NBWin32Shell class>>#getUserName
+NativeBoost-Win32.NBWin32Shell class>>#getUserProfile
+NativeBoost-Win32.NBWin32Shell class>>#getWindowsDirectory
+NativeBoost-Win32.NBWin32Shell class>>#isDebuggerPresent
+NativeBoost-Win32.NBWin32Shell class>>#isInternetOffline
+NativeBoost-Win32.NBWin32Shell class>>#isInternetOnline
+NativeBoost-Win32.NBWin32Shell class>>#isMouseAvailable
+NativeBoost-Win32.NBWin32Shell class>>#isMouseWheelPresent
+NativeBoost-Win32.NBWin32Shell class>>#isNetworkPresent
+NativeBoost-Win32.NBWin32Shell class>>#isTablet
+NativeBoost-Win32.NBWin32Shell class>>#lockWorkstation
+NativeBoost-Win32.NBWin32Shell class>>#outputDebugString:
+NativeBoost-Win32.NBWin32Shell class>>#primGetDriveType:
+NativeBoost-Win32.NBWin32Shell class>>#shellAbout:application:other:icon:
+NativeBoost-Win32.NBWin32Shell class>>#shellBrowse:
+NativeBoost-Win32.NBWin32Shell class>>#shellExecute:file:parameters:directory:show:
+NativeBoost-Win32.NBWin32Shell class>>#shellExecute:operation:file:parameters:directory:show:
+NativeBoost-Win32.NBWin32Shell class>>#shellExplore:
+NativeBoost-Win32.NBWin32Shell class>>#shellOpen:
+NativeBoost-Win32.NBWin32Shell class>>#shellPrint:
+NativeBoost-Win32.NBWin32Shell class>>#shellRunDLL:
+NativeBoost-Win32.NBWin32Shell class>>#showAccessibilityCommonSettings
+NativeBoost-Win32.NBWin32Shell class>>#showAccessibilityDisplaySettings
+NativeBoost-Win32.NBWin32Shell class>>#showAccessibilityKeyboardSettings
+NativeBoost-Win32.NBWin32Shell class>>#showAccessibilityMouseSettings
+NativeBoost-Win32.NBWin32Shell class>>#showAccessibilitySoundSettings
+NativeBoost-Win32.NBWin32Shell class>>#showAddPrinterWizard
+NativeBoost-Win32.NBWin32Shell class>>#showBluetoothSettings
+NativeBoost-Win32.NBWin32Shell class>>#showCOMPortsSettings
+NativeBoost-Win32.NBWin32Shell class>>#showControlPanel
+NativeBoost-Win32.NBWin32Shell class>>#showDateTimeProperties
+NativeBoost-Win32.NBWin32Shell class>>#showDateTimePropertiesTimezone
+NativeBoost-Win32.NBWin32Shell class>>#showDisplaySettingsAppearance
+NativeBoost-Win32.NBWin32Shell class>>#showDisplaySettingsBackground
+NativeBoost-Win32.NBWin32Shell class>>#showDisplaySettingsCommon
+NativeBoost-Win32.NBWin32Shell class>>#showDisplaySettingsScreenSaver
+NativeBoost-Win32.NBWin32Shell class>>#showFindFastSetting
+NativeBoost-Win32.NBWin32Shell class>>#showFontsInstallationFolder
+NativeBoost-Win32.NBWin32Shell class>>#showFontsProperties
+NativeBoost-Win32.NBWin32Shell class>>#showFormatDrive
+NativeBoost-Win32.NBWin32Shell class>>#showHotPlugRemoveDialog
+NativeBoost-Win32.NBWin32Shell class>>#showInternationalSettingsCurrency
+NativeBoost-Win32.NBWin32Shell class>>#showInternationalSettingsDate
+NativeBoost-Win32.NBWin32Shell class>>#showInternationalSettingsInputLocales
+NativeBoost-Win32.NBWin32Shell class>>#showInternationalSettingsNumber
+NativeBoost-Win32.NBWin32Shell class>>#showInternationalSettingsRegionalSettings
+NativeBoost-Win32.NBWin32Shell class>>#showInternationalSettingsTime
+NativeBoost-Win32.NBWin32Shell class>>#showInternetExplorerFavoriteManager
+NativeBoost-Win32.NBWin32Shell class>>#showInternetExplorerSettings
+NativeBoost-Win32.NBWin32Shell class>>#showInternetSettingsAdvanced
+NativeBoost-Win32.NBWin32Shell class>>#showInternetSettingsConnections
+NativeBoost-Win32.NBWin32Shell class>>#showInternetSettingsContent
+NativeBoost-Win32.NBWin32Shell class>>#showInternetSettingsGeneral
+NativeBoost-Win32.NBWin32Shell class>>#showInternetSettingsPrograms
+NativeBoost-Win32.NBWin32Shell class>>#showInternetSettingsSecurity
+NativeBoost-Win32.NBWin32Shell class>>#showJoystickSettings
+NativeBoost-Win32.NBWin32Shell class>>#showKeyboardProperties
+NativeBoost-Win32.NBWin32Shell class>>#showMailAndFaxSettings
+NativeBoost-Win32.NBWin32Shell class>>#showMapNetworkDriveWizard
+NativeBoost-Win32.NBWin32Shell class>>#showMicrosoftWorkgroupPostofficeSettings
+NativeBoost-Win32.NBWin32Shell class>>#showModemSettings
+NativeBoost-Win32.NBWin32Shell class>>#showMouseProperties
+NativeBoost-Win32.NBWin32Shell class>>#showMultimediaSettingsAudio
+NativeBoost-Win32.NBWin32Shell class>>#showMultimediaSettingsCDMusic
+NativeBoost-Win32.NBWin32Shell class>>#showMultimediaSettingsDevices
+NativeBoost-Win32.NBWin32Shell class>>#showMultimediaSettingsMIDI
+NativeBoost-Win32.NBWin32Shell class>>#showMultimediaSettingsVideo
+NativeBoost-Win32.NBWin32Shell class>>#showODBCSettings
+NativeBoost-Win32.NBWin32Shell class>>#showPowerOptions
+NativeBoost-Win32.NBWin32Shell class>>#showPrinterManagementFolder
+NativeBoost-Win32.NBWin32Shell class>>#showPrinterProperties
+NativeBoost-Win32.NBWin32Shell class>>#showProgramPropertiesInstallUninstall
+NativeBoost-Win32.NBWin32Shell class>>#showProgramPropertiesStartupDisk
+NativeBoost-Win32.NBWin32Shell class>>#showProgramPropertiesWindowsSetup
+NativeBoost-Win32.NBWin32Shell class>>#showServerProperties
+NativeBoost-Win32.NBWin32Shell class>>#showSoundSettings
+NativeBoost-Win32.NBWin32Shell class>>#showSystemSettings
+NativeBoost-Win32.NBWin32Shell class>>#showTelephonySettings
+NativeBoost-Win32.NBWin32Shell class>>#showThemesSettings
+NativeBoost-Win32.NBWin32Window
+NativeBoost-Win32.NBWin32Window class>>#DefWindowProcA
+NativeBoost-Win32.NBWin32Window class>>#DefWindowProcW
+NativeBoost-Win32.NBWin32Window class>>#createWindowExA:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
+NativeBoost-Win32.NBWin32Window class>>#createWindowExW:lpClassName:lpWindowName:dwStyle:x:y:width:height:hWndParent:hMenu:hInstance:lParam:
+NativeBoost-Win32.NBWin32Window class>>#ffiCalloutOptions
+NativeBoost-Win32.NBWin32Window class>>#getActiveWindow
+NativeBoost-Win32.NBWin32Window class>>#getCapture
+NativeBoost-Win32.NBWin32Window class>>#getClipboardOwnerWindow
+NativeBoost-Win32.NBWin32Window class>>#getClipboardViewer
+NativeBoost-Win32.NBWin32Window class>>#getDesktopWindow
+NativeBoost-Win32.NBWin32Window class>>#getFocus
+NativeBoost-Win32.NBWin32Window class>>#getForegroundWindow
+NativeBoost-Win32.NBWin32Window class>>#getWindowFromPoint:
+NativeBoost-Win32.NBWin32Window>>#=
+NativeBoost-Win32.NBWin32Window>>#close
+NativeBoost-Win32.NBWin32Window>>#destroy
+NativeBoost-Win32.NBWin32Window>>#destroyWindow
+NativeBoost-Win32.NBWin32Window>>#getActiveWindow
+NativeBoost-Win32.NBWin32Window>>#getDC
+NativeBoost-Win32.NBWin32Window>>#getNextWindow
+NativeBoost-Win32.NBWin32Window>>#getParent
+NativeBoost-Win32.NBWin32Window>>#getPreviousWindow
+NativeBoost-Win32.NBWin32Window>>#getTopWindow
+NativeBoost-Win32.NBWin32Window>>#getWindow:
+NativeBoost-Win32.NBWin32Window>>#getWindowExStyle
+NativeBoost-Win32.NBWin32Window>>#getWindowFromPoint:
+NativeBoost-Win32.NBWin32Window>>#getWindowLong:index:
+NativeBoost-Win32.NBWin32Window>>#getWindowLongAtIndex:
+NativeBoost-Win32.NBWin32Window>>#getWindowRect:
+NativeBoost-Win32.NBWin32Window>>#getWindowRectangle
+NativeBoost-Win32.NBWin32Window>>#getWindowStyle
+NativeBoost-Win32.NBWin32Window>>#getWindowText
+NativeBoost-Win32.NBWin32Window>>#getWindowText:buffer:bufferSize:
+NativeBoost-Win32.NBWin32Window>>#hide
+NativeBoost-Win32.NBWin32Window>>#isEnabled
+NativeBoost-Win32.NBWin32Window>>#isIconic
+NativeBoost-Win32.NBWin32Window>>#isUnicode
+NativeBoost-Win32.NBWin32Window>>#isVisible
+NativeBoost-Win32.NBWin32Window>>#isWindow
+NativeBoost-Win32.NBWin32Window>>#isZoomed
+NativeBoost-Win32.NBWin32Window>>#minimize
+NativeBoost-Win32.NBWin32Window>>#moveWindowX:y:width:height:
+NativeBoost-Win32.NBWin32Window>>#releaseDC:
+NativeBoost-Win32.NBWin32Window>>#setNonResizable
+NativeBoost-Win32.NBWin32Window>>#setWindowLong:index:newVale:
+NativeBoost-Win32.NBWin32Window>>#setWindowText:
+NativeBoost-Win32.NBWin32Window>>#show
+NativeBoost-Win32.NBWinConstants
+NativeBoost-Win32.NBWinConstants class>>#baseConstants
+NativeBoost-Win32.NBWinConstants class>>#classStyles
+NativeBoost-Win32.NBWinConstants class>>#driveTypes
+NativeBoost-Win32.NBWinConstants class>>#gdiConstants
+NativeBoost-Win32.NBWinConstants class>>#getWindowConstants
+NativeBoost-Win32.NBWinConstants class>>#getWindowLongConstants
+NativeBoost-Win32.NBWinConstants class>>#heapConstants
+NativeBoost-Win32.NBWinConstants class>>#initialize
+NativeBoost-Win32.NBWinConstants class>>#messageBoxConstants
+NativeBoost-Win32.NBWinConstants class>>#showWindowConstants
+NativeBoost-Win32.NBWinConstants class>>#systemMetricConstants
+NativeBoost-Win32.NBWinConstants class>>#threadConstants
+NativeBoost-Win32.NBWinConstants class>>#windowCreationConstants
+NativeBoost-Win32.NBWinConstants class>>#windowExStyles
+NativeBoost-Win32.NBWinConstants class>>#windowMessages
+NativeBoost-Win32.NBWinConstants class>>#windowStyles
+NativeBoost-Win32.NBWinTest
+NativeBoost-Win32.NBWinTest class>>#createWindow
+NativeBoost-Win32.NBWinTypes
+NativeBoost-Win32.NBWinTypes class>>#initialize
+NativeBoost-Win32.NBWinTypes class>>#initialize2
+NativeBoost-Win32.NBWinTypes class>>#initialize3
+NativeBoost-Win32.NBWinTypes class>>#objTypes
+NativeBoost-Win32.NBWinTypes class>>#stringTypes
+NativeBoost-Win32.NBWndClassEx
+NativeBoost-Win32.NBWndClassEx class>>#fieldsDesc
+NativeBoost-Win32.NBWndClassEx class>>#unregister:
+NativeBoost-Win32.NBWndClassEx class>>#unregister:instance:
+NativeBoost-Win32.NBWndClassEx>>#initialize
+NativeBoost-Win32.NBWndClassEx>>#register
+NativeBoost-Win32.NativeBoostWin32
+NativeBoost-Win32.NativeBoostWin32 class>>#getModuleHandle:
+NativeBoost-Win32.NativeBoostWin32 class>>#getProcAddress:procName:
+NativeBoost-Win32.NativeBoostWin32 class>>#getVMModuleHandle
+NativeBoost-Win32.NativeBoostWin32 class>>#getVMModuleName
+NativeBoost-Win32.NativeBoostWin32 class>>#loadLibrary:
+NativeBoost-Win32.NativeBoostWin32 class>>#malloc:
+NativeBoost-Win32.NativeBoostWin32 class>>#primGetModuleFileName:with:
+NativeBoost-Win32.NativeBoostWin32 class>>#realloc:newSize:
+NativeBoost-Win32.NativeBoostWin32 class>>#squeakWindowHandle
+NativeBoost-Win32.NativeBoostWin32 class>>#targetPlatformId
+NativeBoost-Win32.NativeBoostWin32>>#CLibrary
+NativeBoost-Win32.NativeBoostWin32>>#VMModule
+NativeBoost-Win32.NativeBoostWin32>>#basicAllocate:
+NativeBoost-Win32.NativeBoostWin32>>#bootstrapAllocate:into:
+NativeBoost-Win32.NativeBoostWin32>>#free:
+NativeBoost-Win32.NativeBoostWin32>>#initializeExternalHeap
+NativeBoost-Win32.NativeBoostWin32>>#newAssembler
+NativeBoost-Win32.NativeBoostWin32>>#pointerSize
+NativeBoost-Win32.NativeBoostWin32>>#privCreateHeap:
+NativeBoost-Win32.NativeBoostWin32>>#stackAlignment
 OSWindow-Core.OSWindow>>#createWindow
 OSWindow-SDL2.DraggableCallback
 OSWindow-SDL2.OSSDL2Driver>>#eventLoopProcessWithoutPlugin
@@ -7,20 +2972,28 @@ OSWindow-SDL2.OSSDL2FormRenderer>>#updateRectangle:
 OSWindow-SDL2.OSSDL2WindowHandle>>#extent
 OSWindow-SDL2.OSSDL2WindowHandle>>#mousePosition
 OSWindow-SDL2.OSSDL2WindowHandle>>#position
+OSWindow-SDL2.OSSDLIntValue
+OSWindow-SDL2.OSSDLIntValue class>>#initialize
 OSWindow-SDL2.SDL2 class>>#checkLibraryName:
 OSWindow-SDL2.SDL2 class>>#clipboardText
 OSWindow-SDL2.SDL2 class>>#ffiLibraryName
 OSWindow-SDL2.SDL2 class>>#glGetAttribute:
 OSWindow-SDL2.SDL2 class>>#isAvailable
+OSWindow-SDL2.SDL2 class>>#nbLibraryNameOrHandle
 OSWindow-SDL2.SDL2 class>>#pollEvent:
 OSWindow-SDL2.SDL2>>#ffiLibraryName
+OSWindow-SDL2.SDL2>>#nbLibraryNameOrHandle
 OSWindow-SDL2.SDL2Handle
 OSWindow-SDL2.SDL2Handle class>>#ffiLibraryName
+OSWindow-SDL2.SDL2Handle class>>#nbLibraryNameOrHandle
 OSWindow-SDL2.SDL2Handle>>#ffiLibraryName
+OSWindow-SDL2.SDL2Handle>>#nbLibraryNameOrHandle
 OSWindow-SDL2.SDL2MappedEvent class>>#fromSdlEvent:
 OSWindow-SDL2.SDL2Structure
 OSWindow-SDL2.SDL2Structure class>>#ffiLibraryName
+OSWindow-SDL2.SDL2Structure class>>#nbLibraryNameOrHandle
 OSWindow-SDL2.SDL2Structure>>#ffiLibraryName
+OSWindow-SDL2.SDL2Structure>>#nbLibraryNameOrHandle
 OSWindow-SDL2.SDL_Color>>#a
 OSWindow-SDL2.SDL_Color>>#a:
 OSWindow-SDL2.SDL_Color>>#b
@@ -40,6 +3013,7 @@ OSWindow-SDL2.SDL_DropEvent>>#timestamp:
 OSWindow-SDL2.SDL_DropEvent>>#type
 OSWindow-SDL2.SDL_DropEvent>>#type:
 OSWindow-SDL2.SDL_Event
+OSWindow-SDL2.SDL_Event class>>#new
 OSWindow-SDL2.SDL_Event>>#initialize
 OSWindow-SDL2.SDL_Event>>#type
 OSWindow-SDL2.SDL_JoyAxisEvent>>#axis
@@ -512,5 +3486,7 @@ OSWindow-SDL2.SDL_WindowEvent>>#type:
 OSWindow-SDL2.SDL_WindowEvent>>#windowID
 OSWindow-SDL2.SDL_WindowEvent>>#windowID:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50611
 ScriptLoader50.ScriptLoader>>#script50612
+ScriptLoader50.ScriptLoader>>#update50611
 ScriptLoader50.ScriptLoader>>#update50612

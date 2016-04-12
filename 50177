@@ -18,4 +18,5 @@ OpalCompiler-Tests.MustBeBooleanTests>>#testOr
 OpalCompiler-Tests.MustBeBooleanTests>>#testWhile
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50176
+ScriptLoader50.ScriptLoader>>#update50176
 ScriptLoader50.ScriptLoader>>#update50177

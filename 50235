@@ -7,6 +7,26 @@ Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnClassVariable
 Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnClassVariableAndUninstall
 Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnGlobalVariable
 Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnGlobalVariableAndUninstall
+Reflectivity.ClassVariable>>#asWrapperFor:
+Reflectivity.ClassVariable>>#link:
+Reflectivity.GlobalVariable>>#asWrapperFor:
+Reflectivity.GlobalVariable>>#link:
+Reflectivity.LinkWrapperClassVariable
+Reflectivity.LinkWrapperClassVariable>>#doesNotUnderstand:
+Reflectivity.LinkWrapperClassVariable>>#links
+Reflectivity.LinkWrapperClassVariable>>#removeLink:
+Reflectivity.LinkWrapperClassVariable>>#setLink:
+Reflectivity.LinkWrapperClassVariable>>#uninstall
+Reflectivity.LinkWrapperClassVariable>>#wrappedVariable
+Reflectivity.LinkWrapperClassVariable>>#wrappedVariable:
+Reflectivity.LinkWrapperGlobal
+Reflectivity.LinkWrapperGlobal>>#doesNotUnderstand:
+Reflectivity.LinkWrapperGlobal>>#links
+Reflectivity.LinkWrapperGlobal>>#removeLink:
+Reflectivity.LinkWrapperGlobal>>#setLink:
+Reflectivity.LinkWrapperGlobal>>#uninstall
+Reflectivity.LinkWrapperGlobal>>#wrappedVariable
+Reflectivity.LinkWrapperGlobal>>#wrappedVariable:
 Reflectivity.LiteralVariable>>#clearReflectivityAnnotations
 Reflectivity.LiteralVariable>>#link:
 Reflectivity.LiteralVariable>>#links
@@ -15,6 +35,7 @@ Renraku.ReEngine class>>#cleanUp
 Renraku.ReEngine class>>#reset
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50234
+ScriptLoader50.ScriptLoader>>#update50234
 ScriptLoader50.ScriptLoader>>#update50235
 Slot-Tests.SlotTest
 Slot-Tests.SlotTest>>#testPropertyAtPut

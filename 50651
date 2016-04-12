@@ -1,0 +1,19 @@
+ConfigurationOfGTEventRecorder.ConfigurationOfGTEventRecorder>>#stable:
+ConfigurationOfGTEventRecorder.ConfigurationOfGTEventRecorder>>#version012:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#stable:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#version14:
+GT-EventRecorder.GTEventTool>>#checkProcess
+GT-EventRecorder.GTEventTool>>#update:
+Polymorph-Widgets.Pharo3DarkTheme class>>#newDefaultSettings
+Polymorph-Widgets.Pharo3DarkTheme>>#balloonBackgroundColor
+Polymorph-Widgets.Pharo3Theme class>>#newDefaultSettings
+Polymorph-Widgets.UITheme class>>#current:
+Polymorph-Widgets.UITheme class>>#installFullTheme
+Polymorph-Widgets.UITheme>>#balloonBackgroundColor
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50650
+ScriptLoader50.ScriptLoader>>#update50650
+ScriptLoader50.ScriptLoader>>#update50651
+Settings-Polymorph.PolymorphSystemSettings class>>#uiThemeClass:
+System-SessionManager.SessionManager class>>#initializedSessionManager
+System-SessionManager.StartupUIManager>>#handleError:log:

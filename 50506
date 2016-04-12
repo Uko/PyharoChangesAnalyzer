@@ -1,8 +1,12 @@
+Kernel-Tests.BehaviorTest>>#testCompactAndUncompactClass
 Network-Tests.MailMessageTest>>#testSimpleCreate
 Ring-Tests-Kernel.RGClassDefinitionTest>>#testAddingMethods
 Ring-Tests-Kernel.RGClassDefinitionTest>>#testRemovingMethods
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50505
+ScriptLoader50.ScriptLoader>>#update50505
 ScriptLoader50.ScriptLoader>>#update50506
+Slot-Tests.SlotIntegrationTest>>#testBecomeCompactAndUncompact
+Slot-Tests.SlotIntegrationTest>>#testReshapeCompactClass
 System-Support.EndianDetector class>>#initialize
 System-Support.SmalltalkImage>>#compactClassesArray

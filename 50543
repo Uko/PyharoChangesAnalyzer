@@ -8,4 +8,5 @@ AST-Tests-Core.RBNullFormatterTest>>#testGivenAMethodNodeWhenSourceNotAvailableT
 Athens-Morphic.Morph>>#drawOnAthensCanvas:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50542
+ScriptLoader50.ScriptLoader>>#update50542
 ScriptLoader50.ScriptLoader>>#update50543

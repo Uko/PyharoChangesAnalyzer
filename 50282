@@ -6,6 +6,10 @@ OSWindow-SDL2.OSSDL2Driver>>#createWindowWithAttributes:osWindow:
 OSWindow-SDL2.OSSDL2Driver>>#registerWindow:
 OSWindow-SDL2.OSSDL2Driver>>#unregisterWindow:
 OSWindow-SDL2.OSSDL2WindowHandle>>#destroy
+Refactoring-Tests-Core.RBRefactoryTestDataApp>>#noIsNil:
+Refactoring-Tests-Critics.RBSmalllintTest>>#testConsistencyCheck
+Refactoring-Tests-Critics.RBSmalllintTestObject>>#noIsNil:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50281
+ScriptLoader50.ScriptLoader>>#update50281
 ScriptLoader50.ScriptLoader>>#update50282

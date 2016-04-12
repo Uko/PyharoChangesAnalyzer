@@ -1,6 +1,8 @@
 Kernel.CompiledMethod>>#originMethod
+Keymapping-KeyCombinations.KMCommandModifier>>#delegatedModifier
 Keymapping-KeyCombinations.KMCommandModifier>>#eventCode
 Keymapping-KeyCombinations.KMCommandModifier>>#matchesEvent:
+Keymapping-KeyCombinations.KMCommandModifier>>#symbol
 Keymapping-KeyCombinations.KMKeyCombination class>>#fromKeyboardEvent:
 Keymapping-KeyCombinations.KMMetaModifier>>#=
 Keymapping-KeyCombinations.KMMetaModifier>>#eventCode
@@ -25,6 +27,7 @@ Reflectivity.RFValueReification>>#genForRBTempVariableNode
 Reflectivity.RFValueReification>>#genForRBVariableNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50101
+ScriptLoader50.ScriptLoader>>#update50101
 ScriptLoader50.ScriptLoader>>#update50102
 System-VMEvents.InputEventLog
 System-VMEvents.InputEventLog>>#filter:

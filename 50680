@@ -1,0 +1,7 @@
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50679
+ScriptLoader50.ScriptLoader>>#update50679
+ScriptLoader50.ScriptLoader>>#update50680
+System-CommandLineHandler.PharoCommandLineHandler>>#runPreferences
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testLastInSessionManager
+System-Settings.SystemSettingsPersistence class>>#initialize

@@ -1,0 +1,14 @@
+ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version214:
+ConfigurationOfRubric.ConfigurationOfRubric>>#version215:
+Rubric.RubAbstractTextArea>>#plugFindReplace
+Rubric.RubFindReplaceService>>#hasActiveDialog
+Rubric.RubFindReplaceService>>#textArea:
+Rubric.RubFindReplaceService>>#whenTextAreaGotFocus:
+Rubric.RubFindReplaceService>>#whenTextAreaLostFocus:
+Rubric.RubFindReplaceService>>#whenTextAreaSelectionChanged:
+Rubric.RubTextScrollPane>>#extent:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50665
+ScriptLoader50.ScriptLoader>>#update50665
+ScriptLoader50.ScriptLoader>>#update50666

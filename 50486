@@ -1,7 +1,34 @@
+Nautilus.AbstractNautilusUI>>#buildInitializerFor:
+Nautilus.AbstractNautilusUI>>#contentSelectionFor:
+Nautilus.AbstractNautilusUI>>#createInitializerWithInstVars
+Nautilus.AbstractNautilusUI>>#doubleClickOnGroup
+Nautilus.AbstractNautilusUI>>#getGroupsKeyList
+Nautilus.AbstractNautilusUI>>#openClass
+Nautilus.AbstractNautilusUI>>#restrictedBrowseHierarchy
+Nautilus.AbstractNautilusUI>>#setClassShorcutsTo:
 OpalCompiler-Core.AbstractCompiler class>>#compilerSettingsOn:
 OpalCompiler-Core.CCompilationContext
+OpalCompiler-Core.CCompilationContext class>>#warningAllowed
+OpalCompiler-Core.CCompilationContext class>>#warningAllowed:
+OpalCompiler-Core.CCompilationContext>>#warningAllowed
+OpalCompiler-Core.CompilationContext class>>#warningAllowed
+OpalCompiler-Core.CompilationContext class>>#warningAllowed:
+OpalCompiler-Core.CompilationContext>>#warningAllowed
 OpalCompiler-Core.OCSemanticWarning>>#defaultAction
+OpalCompiler-Core.OCSemanticWarning>>#errorNotification
 Reflectivity.RBProgramNode>>#removeLink:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50485
+ScriptLoader50.ScriptLoader>>#update50485
 ScriptLoader50.ScriptLoader>>#update50486
+Tool-Base.AbstractTool>>#addCategoryIn:
+Tool-Base.AbstractTool>>#basicRemoveClass:
+Tool-Base.AbstractTool>>#findMethodIn:
+Tool-Base.AbstractTool>>#findPackageIn:
+Tool-Base.AbstractTool>>#packageFromPattern:withCaption:
+Tool-Base.AbstractTool>>#removeNonLocalSelector:from:
+Tool-Base.AbstractTool>>#selectMessageAndEvaluate:defaultValue:
+Tool-Base.AbstractTool>>#selectThenBrowseMessagesFrom:
+Tool-Base.AbstractTool>>#selectThenBrowseSendersOfMessagesFrom:
+Tool-Base.AbstractTool>>#selectThenGetSelectorAndSendQuery:to:with:selector:
+Tool-Base.AbstractTool>>#selectorFromPattern:withCaption:startingFrom:

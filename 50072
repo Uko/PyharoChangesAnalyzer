@@ -390,7 +390,10 @@ STON-Tests.STONWriterTests>>#testUser3Nil
 STON-Tests.STONWriterTests>>#testUserNil
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50071
+ScriptLoader50.ScriptLoader>>#update50071
 ScriptLoader50.ScriptLoader>>#update50072
 System-Support.SmalltalkImage>>#imageName
 System-Support.SmalltalkImage>>#imageName:
 System-Support.SmalltalkImage>>#imagePath
+System-Support.SmalltalkImage>>#primImageName
+System-Support.SmalltalkImage>>#primImageName:

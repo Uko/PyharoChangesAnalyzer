@@ -1,19 +1,38 @@
+AST-Core.ManifestASTCore class>>#rejectClasses
+Fuel.ManifestFuel class>>#rejectClasses
+Fuel.ManifestFuel class>>#rejectRules
+Kernel.ManifestKernel class>>#rejectClasses
+Kernel.ManifestKernel class>>#rejectRules
+Kernel.PackageManifest>>#=
+Kernel.PackageManifest>>#hash
 Kernel.PackageManifest>>#rejectClasses
 Kernel.PackageManifest>>#rejectRules
+KernelTests.ManifestKernelTests class>>#rejectClasses
+KernelTests.ManifestKernelTests class>>#rejectRules
+Manifest-Core.ManifestManifestCore class>>#rejectClasses
 Manifest-Core.RPackage>>#packageManifest
 Manifest-Core.TheManifestBuilder>>#compileSelector:returnValue:
 Manifest-Core.TheManifestBuilder>>#manifest
 Nautilus-Tests.PackageTreeNautilusTest>>#testPackagePatternStringRootPackageTag
 Nautilus.MethodIsScriptAction>>#isActionHandled
+Nautilus.MethodIsScriptAction>>#isScriptMethod
 Nautilus.MethodIsScriptAction>>#pragmaName
+Nautilus.MethodIsScriptAction>>#privateActionIcon
 Nautilus.MethodIsScriptAction>>#runScript
 Nautilus.MethodIsScriptAction>>#runScriptForPragma:
 Nautilus.MethodIsScriptWithArgumentAction
+Nautilus.MethodIsScriptWithArgumentAction>>#actionOrder
+Nautilus.MethodIsScriptWithArgumentAction>>#isActionHandled
 Nautilus.MethodIsScriptWithArgumentAction>>#isScriptMethodWithScript
 Nautilus.MethodIsScriptWithArgumentAction>>#pragmaName
 Nautilus.MethodIsScriptWithArgumentAction>>#privateActionIcon
+Nautilus.MethodIsScriptWithArgumentAction>>#runScript
 Nautilus.MethodIsScriptWithArgumentAction>>#runScriptForPragma:
+OpalCompiler-Core.ManifestOpalCompilerCore class>>#rejectClasses
 Ring-Core-Kernel.RGMethodDefinition>>#ast
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50124
+ScriptLoader50.ScriptLoader>>#update50124
 ScriptLoader50.ScriptLoader>>#update50125
+UserManager-Tests.ManifestKeyChainTest class>>#rejectClasses
+UserManager-Tests.ManifestKeyChainTest class>>#rejectRules

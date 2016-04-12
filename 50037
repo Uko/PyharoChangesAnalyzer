@@ -11,7 +11,12 @@ Nautilus-Tests.PackageTreeNautilusTest>>#testPackagePatternStringRootPackageTag
 Nautilus.Nautilus
 Nautilus.Nautilus class>>#nautilusSettingsOn:
 Nautilus.Nautilus class>>#parentOfClass:
+Nautilus.Nautilus>>#defaultUIClass
+Nautilus.Nautilus>>#foo
 Nautilus.PackageTreeModel>>#rootNodes
+Nautilus.PackageTreeNautilus
+Nautilus.PackageTreeNautilus class>>#nautilusSettingsOn:
+Nautilus.PackageTreeNautilus class>>#parentOfClass:
 Nautilus.PackageTreeNautilus class>>#registerToolsOn:
 Nautilus.PackageTreeNautilus class>>#showGroupsOnTop
 Nautilus.PackageTreeNautilus class>>#showGroupsOnTop:
@@ -22,5 +27,6 @@ RPackage-Tests.RPackageTest>>#testMcPackage
 RPackage-Tests.RPackageTest>>#testMcWorkingCopy
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script645
+ScriptLoader50.ScriptLoader>>#update50036
 ScriptLoader50.ScriptLoader>>#update50037
 Traits.TClassDescription>>#classCommentBlank

@@ -1,6 +1,7 @@
 Compression-Registration.GZipReadStream class>>#unload
 Compression-Registration.ZipArchive class>>#initialize
 Compression-Registration.ZipArchive class>>#unload
+Compression.GZipReadStream class>>#unload
 Compression.ManifestCompression class>>#manuallyResolvedDependencies
 Compression.ZipArchive class>>#initialize
 Monticello-Tests.MCSnapshotBrowserTest>>#assertTextIs:
@@ -11,4 +12,5 @@ NautilusCommon.NautilusPluginManager>>#pluginClassesSelectedIndex:
 NautilusCommon.NautilusPluginManager>>#textModel
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50243
+ScriptLoader50.ScriptLoader>>#update50243
 ScriptLoader50.ScriptLoader>>#update50244

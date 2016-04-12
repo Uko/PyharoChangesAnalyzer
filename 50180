@@ -501,4 +501,5 @@ Flashback-Decompiler.FBDOptimizedMessagesRewriter>>#visitMessageNode:
 Flashback-Decompiler.FBDOptimizedMessagesRewriter>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50179
+ScriptLoader50.ScriptLoader>>#update50179
 ScriptLoader50.ScriptLoader>>#update50180

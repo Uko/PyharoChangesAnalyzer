@@ -6,6 +6,7 @@ Manifest-Core.SmalllintManifestChecker>>#runRules:onPackage:withoutTestCase:
 Manifest-Core.TheManifestBuilder>>#isFalsePositive:onRule:version:
 Morphic-Widgets-Windows.SystemWindow
 Morphic-Widgets-Windows.SystemWindow>>#announce:
+Morphic-Widgets-Windows.SystemWindow>>#announcer
 Refactoring-Critics.PharoCriticRules class>>#pharoHardLintRules
 Refactoring-Critics.RBArchitectureLintRule
 Refactoring-Critics.RBArchitectureLintRule class>>#isVisible
@@ -40,6 +41,7 @@ Refactoring-Tests-Critics.RBPharoBootstrapRuleTest>>#testRuleDoesNotFailIfNoNewE
 Refactoring-Tests-Critics.RBPharoBootstrapRuleTest>>#testRuleFailsIfAnyNewExternalDependencyFound
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50385
+ScriptLoader50.ScriptLoader>>#update50385
 ScriptLoader50.ScriptLoader>>#update50386
 Tool-Base.RPackage>>#browse
 Tool-CriticBrowser.CriticBrowser>>#applyRules

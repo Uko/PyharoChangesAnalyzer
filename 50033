@@ -1,5 +1,6 @@
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script641
+ScriptLoader50.ScriptLoader>>#update50032
 ScriptLoader50.ScriptLoader>>#update50033
 TxText-Athens.TxScrollbarDecorator>>#sliderDragged:
 TxText-AthensTests.TxAthensTextTest>>#newText:
@@ -16,6 +17,7 @@ TxText-Model.TxModel>>#cursor
 TxText-Model.TxModel>>#delete:
 TxText-Model.TxModel>>#endPosition
 TxText-Model.TxModel>>#endSpan
+TxText-Model.TxModel>>#getAttribute:
 TxText-Model.TxModel>>#import:
 TxText-Model.TxModel>>#includesSpan:
 TxText-Model.TxModel>>#newCharacterSpan
@@ -34,6 +36,9 @@ TxText-Model.TxTextPosition>>#insertObject:
 TxTextTests-Model.TxCharacterSpanTests>>#testGettingAbsentAttribute
 TxTextTests-Model.TxCharacterStreamTest>>#testBasicStuff
 TxTextTests-Model.TxCharacterStreamTest>>#testFreshInstanceDefaults
+TxTextTests-Model.TxMockTextModel
+TxTextTests-Model.TxMockTextModel>>#defaultStyle
+TxTextTests-Model.TxMockTextModel>>#getAttribute:
 TxTextTests-Model.TxModelTest>>#testApplyFontWithOneSplit
 TxTextTests-Model.TxModelTest>>#testApplyFontWithOneSplitAtEnd
 TxTextTests-Model.TxModelTest>>#testApplyFontWithOneSplitAtStart

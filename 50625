@@ -3,6 +3,7 @@ BlueInk-Extras.BIInspector>>#buildFormattedCheckBox
 Komitter.CredentialEditor>>#initializePresenter
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50624
+ScriptLoader50.ScriptLoader>>#update50624
 ScriptLoader50.ScriptLoader>>#update50625
 Spec-Core.CheckBoxModel
 Spec-Core.CheckBoxModel>>#deactivationAction:

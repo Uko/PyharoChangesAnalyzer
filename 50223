@@ -5,6 +5,7 @@ Deprecated50.Nautilus class>>#fullOnEnvironment:
 Deprecated50.Nautilus class>>#newOnClass:
 Deprecated50.Nautilus class>>#newOnClass:selector:
 HudsonBuildTools20.TestReviver>>#browse:
+Kernel.Context>>#directedSuperSend:numArgs:
 Kernel.DeepCopier>>#warnInstanceVariableNotCopiedIn:selector:
 Komitter.KomitSliceUI>>#setTitleFrom:
 MonticelloGUI.MCCodeTool>>#browseMethodFull
@@ -15,7 +16,12 @@ Morphic-Examples.PackageMethodNodeExample>>#browseItem
 Morphic-Widgets-Basic.PluggableButtonMorph>>#browseAction
 NECompletion.NECEntry>>#browseWith:
 NECompletion.NECSelectorEntry>>#browseWith:
+Nautilus.Nautilus class>>#fullOnClass:
 Nautilus.Nautilus class>>#fullOnClass:selector:
+Nautilus.Nautilus class>>#fullOnClass:selector:highlight:
+Nautilus.Nautilus class>>#fullOnEnvironment:
+Nautilus.Nautilus class>>#newOnClass:
+Nautilus.Nautilus class>>#newOnClass:selector:
 Nautilus.Nautilus class>>#openOnClass:selector:highlight:
 NautilusRefactoring.NautilusRefactoring>>#openEnvironment:for:
 OpalCompiler-Core.OCAbstractVariable>>#variable
@@ -23,9 +29,11 @@ OpalCompiler-Core.OCLiteralVariable>>#variable
 OpalCompiler-Core.OCSlotVariable>>#variable
 Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnInstanceVariable
 Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
+Reflectivity.LinkWrapper>>#emitValue:
 Reflectivity.LinkWrapper>>#links
 Reflectivity.LinkWrapper>>#removeLink:
 Reflectivity.LinkWrapper>>#uninstall
+Reflectivity.LinkWrapperGlobal>>#emitValue:
 Reflectivity.MetaLink>>#installOnVariable:
 Reflectivity.RFASTTranslator>>#visitVariableNode:
 Reflectivity.RFASTTranslator>>#visitVariableValue:
@@ -35,6 +43,7 @@ Ring-Core-Kernel.RGElementDefinition>>#browse
 Ring-Core-Kernel.RGMethodDefinition>>#browse
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50222
+ScriptLoader50.ScriptLoader>>#update50222
 ScriptLoader50.ScriptLoader>>#update50223
 Spec-Debugger.SpecDebuggerStack>>#browseMethodFull
 Spec-Inspector.TInspectorActions>>#browseSelectedObjectClass

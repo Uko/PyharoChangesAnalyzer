@@ -4,6 +4,7 @@ ProfStef-Core.LessonView>>#menu
 Reflectivity-Tests.ReflectiveMethodTest>>#testUninstallLinkAndRun
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script613
+ScriptLoader50.ScriptLoader>>#update50004
 ScriptLoader50.ScriptLoader>>#update50005
 Spec-Help.SpecExamples class>>#firstExample
 Spec-Help.SpecExamples class>>#secondExample

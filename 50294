@@ -2,6 +2,7 @@ ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#stable:
 ConfigurationOfShoreLineReporter.ConfigurationOfShoreLineReporter>>#version020:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50293
+ScriptLoader50.ScriptLoader>>#update50293
 ScriptLoader50.ScriptLoader>>#update50294
 ShoreLine-Report-UI.SlReportPreDebugAction>>#appliesToDebugger:
 ShoreLine-Report-UI.SlReportWindow class>>#forDebugger:

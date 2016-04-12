@@ -8,5 +8,6 @@ Rubric-Rules.RbScriptingSetBeforeModel>>#rationale
 Rubric-Rules.RbScriptingSetBeforeModel>>#scriptingMethods
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50617
+ScriptLoader50.ScriptLoader>>#update50617
 ScriptLoader50.ScriptLoader>>#update50618
 UIManager.UIManager class>>#forCurrentSystemConfiguration

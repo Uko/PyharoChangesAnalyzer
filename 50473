@@ -9,5 +9,11 @@ Nautilus.NautilusUI>>#toggleBreakpointOnce
 Reflectivity.RFASTTranslator>>#visitAssignmentNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50472
+ScriptLoader50.ScriptLoader>>#update50472
 ScriptLoader50.ScriptLoader>>#update50473
+SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointDeleteHistoryCommand
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion>>#execute
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion>>#isValidForContext
+SmartSuggestions.SugsWatchpointDeleteHistorySuggestion>>#label
 Tool-Base.AbstractTool>>#defineTrait:notifying:

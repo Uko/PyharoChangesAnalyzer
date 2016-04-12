@@ -10,5 +10,6 @@ Kernel.Point>>#roundUpTo:
 OpalTools.GTOpalScopeBrowser>>#treeIn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50429
+ScriptLoader50.ScriptLoader>>#update50429
 ScriptLoader50.ScriptLoader>>#update50430
 SmartSuggestions.OCLiteralVariable>>#specialCommands

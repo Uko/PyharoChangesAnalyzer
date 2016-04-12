@@ -2,6 +2,7 @@ ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#development:
 ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
 ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version322:
 ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version323:
+Glamour-Core.GLMPresentation>>#hasTransformation
 Glamour-Examples.GLMBasicExamples>>#compoundTaggedTree
 Glamour-Morphic-Brick.GLMActionButtonBrick class>>#gtExample
 Glamour-Morphic-Brick.GLMAlertBrick class>>#gtExample
@@ -43,6 +44,110 @@ Glamour-Morphic-Pager.GLMPagerButtonsPaneBrick>>#addButton:
 Glamour-Morphic-Pager.GLMPagerButtonsPaneBrick>>#pagerModel:
 Glamour-Morphic-Pager.GLMPagerScrollSlidingBrick>>#pagerModel:
 Glamour-Morphic-Renderer.GLMMorphicListingRenderer>>#textInputFor:withHelpMessage:
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousAccept
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousAdd
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousAddIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousAlarm
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousAlarmIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousBookmark
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousBookmarkIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousBrowse
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousBug
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousCancel
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousClose
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousCloseIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousDown
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousDownIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousEdit
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousEditIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousExample
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousExampleIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousFolder
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousGo
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousHelp
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousHelpIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousInspect
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousInto
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousIntoIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousLeft
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousLeftIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousLeftSide
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousLeftSideIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousMore
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousMoreIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousOpen
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousOpenFromUrl
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousOpenFromUrlIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousOver
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousOverIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousPlay
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousPlayIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRedo
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRefresh
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRefreshIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRemove
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRemoveIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRestart
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRestartIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRight
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRightIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRightSide
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousRightSideIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousSave
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousSaveToUrl
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousSaveToUrlIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousSearch
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousSpawn
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousSpawnIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousTable
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousTableIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousThrough
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousThroughIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousTrash
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousUndo
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousUp
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousUpIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousZoomIn
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousZoomInIconContents
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousZoomOut
+Glamour-Morphic-Theme.EclipseUIThemeIcons>>#glamorousZoomOutIconContents
+Glamour-Morphic-Theme.GLMThemeIcons
+Glamour-Morphic-Theme.GLMThemeIcons class>>#checkboxMarkerForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#checkboxSelectedForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#checkboxSelectedFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#checkboxUnselectedForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#checkboxUnselectedFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#form16x16FromContents:
+Glamour-Morphic-Theme.GLMThemeIcons class>>#iconSetName
+Glamour-Morphic-Theme.GLMThemeIcons class>>#isAbstract
+Glamour-Morphic-Theme.GLMThemeIcons class>>#menuPinForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#menuPinFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioButtonMarkerForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioButtonSelectedForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioButtonSelectedFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioButtonUnselectedForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioButtonUnselectedFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowCloseForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowCloseFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowCloseInactiveForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowCloseInactiveFromContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMaximizeForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMaximizeFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMaximizeInactiveForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMaximizeInactiveFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMenuForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMenuFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMenuInactiveForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMenuInactiveFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMinimizeForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMinimizeFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMinimizeInactiveForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#windowMinimizeInactiveFormContents
+Glamour-Morphic-Theme.GLMThemeIcons>>#seeClassSide
+Glamour-Morphic-Theme.GLMThemeIcons>>#windowCloseForm
+Glamour-Morphic-Theme.GLMThemeIcons>>#windowMaximizeForm
+Glamour-Morphic-Theme.GLMThemeIcons>>#windowMenuForm
+Glamour-Morphic-Theme.GLMThemeIcons>>#windowMinimizeForm
 Glamour-Morphic-Theme.GLMWhitespaceTheme>>#checkboxSelectedForm
 Glamour-Morphic-Theme.GLMWhitespaceTheme>>#checkboxUnselectedForm
 Glamour-Morphic-Theme.GLMWhitespaceTheme>>#menuPinForm
@@ -58,6 +163,68 @@ Glamour-Morphic-Theme.GLMWhitespaceTheme>>#radioButtonSelectedForm
 Glamour-Morphic-Theme.GLMWhitespaceTheme>>#windowClosePassiveForm
 Glamour-Morphic-Theme.GLMWhitespaceTheme>>#windowMaximizePassiveForm
 Glamour-Morphic-Theme.GLMWhitespaceTheme>>#windowMinimizePassiveForm
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousAccept
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousAdd
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousAlarm
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousBookmark
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousBrowse
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousBug
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousCancel
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousClose
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousCloudIcon
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousCloudIconContents
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousCloudPausedIcon
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousCloudPausedIconContents
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousDiveAllRightIcon
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousDiveAllRightIconContents
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousDiveRightIcon
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousDiveRightIconContents
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousDown
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousDropDown
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousEdit
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousExample
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousFolder
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousGo
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousGrayCircle
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousGrayCircleEmpty
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousGreenCircle
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousHelp
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousInspect
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousInto
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousLargeGrayCircleEmphasized
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousLeft
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousLeftSide
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousMore
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousOpen
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousOpenFromUrl
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousOver
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousPlay
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousPreferences
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousPreferencesIconContents
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousRedCircle
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousRedo
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousRefresh
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousRemove
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousRestart
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousRight
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousRightSide
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousSave
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousSaveToUrl
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousSearch
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousSpawn
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousTable
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousThrough
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousTrash
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousUndo
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousUp
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousZoomIn
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousZoomOut
+Glamour-Morphic-Theme.ThemeIcons>>#glamorousZoomToFit
+Glamour-Morphic-Theme.ThemeIcons>>#glamourousNextFailure
+Glamour-Morphic-Theme.ThemeIcons>>#glamourousNextParser
+Glamour-Morphic-Theme.ThemeIcons>>#glamourousNextProduction
+Glamour-Morphic-Theme.ThemeIcons>>#icons
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50356
+ScriptLoader50.ScriptLoader>>#update50356
 ScriptLoader50.ScriptLoader>>#update50357

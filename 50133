@@ -420,9 +420,12 @@ Morphic-Widgets-FastTable.ScrollBar>>#scrollUpByPageDelta
 Nautilus-Tests.PackageTreeNautilusTest>>#assertSelectedCompiledMethod
 Nautilus-Tests.PackageTreeNautilusTest>>#tearDown
 Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI class>>#buildEditorKeymappingsOn:
+Nautilus.AbstractNautilusUI class>>#buildSourceCodeShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#shiftedSourceCodeMenu:
 Nautilus.AbstractNautilusUI class>>#sourceCodeMenuExtra:
 Nautilus.AbstractNautilusUI>>#aGroupHasBeenUnregistered:
+Nautilus.AbstractNautilusUI>>#aKeyHasBeenPressed:
 Nautilus.AbstractNautilusUI>>#acceptCommentFromView
 Nautilus.AbstractNautilusUI>>#acceptSourceCodeFromView
 Nautilus.AbstractNautilusUI>>#addAll:
@@ -432,6 +435,7 @@ Nautilus.AbstractNautilusUI>>#buildCodePane
 Nautilus.AbstractNautilusUI>>#buildCodePanelWithCommentOnRight
 Nautilus.AbstractNautilusUI>>#buildCodePanelWithoutComment
 Nautilus.AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
+Nautilus.AbstractNautilusUI>>#buildNewSourceTextArea
 Nautilus.AbstractNautilusUI>>#classCommented:
 Nautilus.AbstractNautilusUI>>#classDefinitionModified:
 Nautilus.AbstractNautilusUI>>#classRenamed:
@@ -441,15 +445,22 @@ Nautilus.AbstractNautilusUI>>#contentSelection
 Nautilus.AbstractNautilusUI>>#flashSourceCodeArea
 Nautilus.AbstractNautilusUI>>#forceGenerateInitialize
 Nautilus.AbstractNautilusUI>>#generateInitialize
+Nautilus.AbstractNautilusUI>>#giveFocusToSourceCode
 Nautilus.AbstractNautilusUI>>#giveFocusToSourceCodeArea
 Nautilus.AbstractNautilusUI>>#hasFocus
 Nautilus.AbstractNautilusUI>>#highlight:
 Nautilus.AbstractNautilusUI>>#initialize
+Nautilus.AbstractNautilusUI>>#keyStroke:fromSourceCodeMorph:
 Nautilus.AbstractNautilusUI>>#okToChange
 Nautilus.AbstractNautilusUI>>#okToChangeComment
 Nautilus.AbstractNautilusUI>>#open
 Nautilus.AbstractNautilusUI>>#pendingText:
+Nautilus.AbstractNautilusUI>>#putSourceTextAreaLimit
+Nautilus.AbstractNautilusUI>>#removeSourceTextAreaLimit
 Nautilus.AbstractNautilusUI>>#renameClass
+Nautilus.AbstractNautilusUI>>#resetContentsSelectionFrom:
+Nautilus.AbstractNautilusUI>>#selectedClassComments
+Nautilus.AbstractNautilusUI>>#selectedMethodComments
 Nautilus.AbstractNautilusUI>>#selectedPackage
 Nautilus.AbstractNautilusUI>>#selectedPackage:
 Nautilus.AbstractNautilusUI>>#selectedPackageWithoutChangingSelection:
@@ -457,11 +468,15 @@ Nautilus.AbstractNautilusUI>>#selectedPackageWithoutChangingSelectionInternally:
 Nautilus.AbstractNautilusUI>>#selectionInterval
 Nautilus.AbstractNautilusUI>>#selectionInterval:
 Nautilus.AbstractNautilusUI>>#setStylerClass:
+Nautilus.AbstractNautilusUI>>#shoutAboutToStyle:
 Nautilus.AbstractNautilusUI>>#showScriptCode:
 Nautilus.AbstractNautilusUI>>#showSourceCode:
 Nautilus.AbstractNautilusUI>>#sourceCode:
+Nautilus.AbstractNautilusUI>>#sourceCodeFrom:
+Nautilus.AbstractNautilusUI>>#sourceTextArea
 Nautilus.AbstractNautilusUI>>#sourceTextModel
 Nautilus.AbstractNautilusUI>>#sourceTextWidget
+Nautilus.AbstractNautilusUI>>#takeCommentFromView
 Nautilus.AbstractNautilusUI>>#toggleBytecodes
 Nautilus.AbstractNautilusUI>>#updateSourceCodeAreaWith:
 Nautilus.AbstractNautilusUI>>#whenTextAcceptedInView:
@@ -522,11 +537,18 @@ Nautilus.NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabel
 Nautilus.NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabelMorph
 Nautilus.NautilusUI class>>#initializeCache
 Nautilus.NautilusUI>>#addCategory
+Nautilus.NautilusUI>>#addMethod
 Nautilus.NautilusUI>>#compileAMethodFromCategory:withSource:notifying:
 Nautilus.NautilusUI>>#compileSource:notifying:
+Nautilus.NautilusUI>>#contentsSelectionFrom:
+Nautilus.NautilusUI>>#decrementMethodsListIndex
 Nautilus.NautilusUI>>#findAllMethod
 Nautilus.NautilusUI>>#findMethod
 Nautilus.NautilusUI>>#findProtocol
+Nautilus.NautilusUI>>#implementSelector
+Nautilus.NautilusUI>>#implementSelector:
+Nautilus.NautilusUI>>#incrementMethodsListIndex
+Nautilus.NautilusUI>>#keyStroke:fromSourceCodeMorph:
 Nautilus.NautilusUI>>#methodModified:
 Nautilus.NautilusUI>>#selectedCategory:
 Nautilus.NautilusUI>>#selectedCategoryInternally:
@@ -552,6 +574,7 @@ NautilusRefactoring.TClassDescription>>#sourceCodeRefactoring:
 NautilusRefactoring.TClassDescription>>#sourceCodeRefactoringMenu:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50132
+ScriptLoader50.ScriptLoader>>#update50132
 ScriptLoader50.ScriptLoader>>#update50133
 SmartSuggestions.PluggableTextMorph>>#smartSuggestions
 SmartSuggestions.RubSmalltalkEditor>>#smartSuggestions

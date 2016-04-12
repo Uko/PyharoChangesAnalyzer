@@ -1,9 +1,14 @@
 Morphic-Core.PasteUpMorph class>>#isMenuOpenByLeftClick
 Nautilus.MethodWidget>>#buildMethodsList
+Nautilus.Nautilus class>>#defaultCommentPosition
+Nautilus.Nautilus class>>#defaultPopulateMethodList
 Nautilus.Nautilus class>>#nautilusSettingsOn:
+Nautilus.Nautilus class>>#populateMethodList
+Nautilus.Nautilus class>>#populateMethodList:
 Refactoring-Critics.RBClassNotReferencedRule>>#checkClass:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50272
+ScriptLoader50.ScriptLoader>>#update50272
 ScriptLoader50.ScriptLoader>>#update50273
 System-Support.SystemNavigation>>#isUsedClass:
 System-Support.TBehavior>>#isUsed

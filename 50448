@@ -84,6 +84,8 @@ Morphic-Widgets-FastTable.FTTreeDataSource>>#elementAt:
 Morphic-Widgets-FastTable.FTTreeDataSource>>#expandAll
 Morphic-Widgets-FastTable.FTTreeDataSource>>#expandAllTo:
 Morphic-Widgets-FastTable.FTTreeDataSource>>#expandRoots
+Morphic-Widgets-FastTable.FTTreeDataSource>>#items
+Morphic-Widgets-FastTable.FTTreeDataSource>>#items:
 Morphic-Widgets-FastTable.FTTreeDataSource>>#maxDepth
 Morphic-Widgets-FastTable.FTTreeDataSource>>#newDataSourceMatching:
 Morphic-Widgets-FastTable.FTTreeDataSource>>#numberOfRows
@@ -116,6 +118,7 @@ Morphic-Widgets-FastTable.FTTreeItem>>#data
 Morphic-Widgets-FastTable.FTTreeItem>>#data:
 Morphic-Widgets-FastTable.FTTreeItem>>#depth
 Morphic-Widgets-FastTable.FTTreeItem>>#depth:
+Morphic-Widgets-FastTable.FTTreeItem>>#expand
 Morphic-Widgets-FastTable.FTTreeItem>>#expandAll
 Morphic-Widgets-FastTable.FTTreeItem>>#expandAllTo:
 Morphic-Widgets-FastTable.FTTreeItem>>#expandedButton
@@ -127,6 +130,7 @@ Morphic-Widgets-FastTable.FTTreeItem>>#numberOfChildren
 Morphic-Widgets-FastTable.FTTreeItem>>#numberOfVisibleChildren
 Morphic-Widgets-FastTable.FTTreeItem>>#printOn:
 Morphic-Widgets-FastTable.FTTreeItem>>#refreshTable
+Morphic-Widgets-FastTable.FTTreeItem>>#unexpand
 Morphic-Widgets-FastTable.FTTreeItem>>#unexpandedButton
 Morphic-Widgets-FastTable.FTTreeItem>>#updateData
 Morphic-Widgets-FastTable.FTVisibleItemsStrategy
@@ -138,4 +142,5 @@ Refactoring-Critics.RBVariableNotDefinedRule>>#basicCheck:
 Refactoring-Critics.RBVariableNotDefinedRule>>#checkMethod:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50447
+ScriptLoader50.ScriptLoader>>#update50447
 ScriptLoader50.ScriptLoader>>#update50448

@@ -2,4 +2,5 @@ Nautilus.AbstractNautilusUI>>#classRenamed:
 Refactoring-Critics.RBInconsistentMethodClassificationRule>>#basicCheck:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50415
+ScriptLoader50.ScriptLoader>>#update50415
 ScriptLoader50.ScriptLoader>>#update50416

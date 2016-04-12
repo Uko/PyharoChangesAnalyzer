@@ -1,17 +1,26 @@
 AST-Core.ASTCache class>>#initialize
+AST-Core.ASTCache class>>#release
 Balloon.ShortIntegerArray class>>#initialize
+Balloon.ShortIntegerArray class>>#release
 FileSystem-Core.FileLocator class>>#initialize
+FileSystem-Core.FileLocator class>>#release
+Files.FileStream class>>#release
 Files.MultiByteFileStream class>>#initialize
+Kernel.Delay class>>#release
 Kernel.SmallInteger class>>#initialize
+Kernel.SmallInteger class>>#release
 MonticelloFileTree-Core.MCFileRepositoryInspector>>#refresh
 MonticelloGUI.MCFileRepositoryInspector>>#invalidatePackageAncestryCache
 MonticelloGUI.MCFileRepositoryInspector>>#load
 MonticelloGUI.MCFileRepositoryInspector>>#merge
 MonticelloGUI.MCFileRepositoryInspector>>#versionHighlightEmphasis:
+NonInteractiveTranscript.NonInteractiveTranscript class>>#release
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50614
+ScriptLoader50.ScriptLoader>>#update50614
 ScriptLoader50.ScriptLoader>>#update50615
 System-Clipboard.Clipboard class>>#initialize
+System-Clipboard.Clipboard class>>#release
 System-VMEvents.InputEventFetcher class>>#install
 System-VMEvents.InputEventSensor class>>#installEventSensorFramework:
 Tool-ImageCleaner.ImageCleaner>>#cleanUpForRelease

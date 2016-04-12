@@ -1,0 +1,13 @@
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#stable:
+ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#version15:
+HudsonBuildTools20.HDTestReport>>#hasErrors
+HudsonBuildTools20.HDTestReport>>#hasFailures
+HudsonBuildTools20.HDTestReport>>#hasFailuresOrErrors
+HudsonBuildTools20.TestCommandLineHandler>>#runPackages
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50655
+ScriptLoader50.ScriptLoader>>#update50655
+ScriptLoader50.ScriptLoader>>#update50656
+System-SessionManager.SessionManager class>>#initializedSessionManager
+System-SessionManager.SessionManager>>#maxPriority
+System-SessionManager.SessionManager>>#registerLast:inCategory:

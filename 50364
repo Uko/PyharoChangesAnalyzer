@@ -148,6 +148,7 @@ Polymorph-Widgets.TickSelectionListNodeMorph>>#storeValue:
 ReleaseTests.ReleaseTest>>#testLayoutIntegrity
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50363
+ScriptLoader50.ScriptLoader>>#update50363
 ScriptLoader50.ScriptLoader>>#update50364
 Slot-Tests.PropertySlotTest>>#testCreateClassWithPropertySlot
 Slot-Tests.PropertySlotTest>>#testCreateClassWithPropertySlotAddSecond

@@ -2,6 +2,7 @@ Morphic-Widgets-List.SimpleHierarchicalListMorph>>#selectionIndex:
 Rubric.RubAbstractTextArea>>#takesKeyboardFocus
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50120
+ScriptLoader50.ScriptLoader>>#update50120
 ScriptLoader50.ScriptLoader>>#update50121
 System-Sources.RemoteString>>#fileStreamDo:
 Tests.SourceFileArrayTest>>#ensureChangesFileOpenedInProcess

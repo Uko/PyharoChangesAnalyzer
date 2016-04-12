@@ -12,6 +12,10 @@ Morphic-Core.Morph>>#openInWindow
 Morphic-Core.Morph>>#openInWindowLabeled:
 Nautilus.NautilusUI>>#showHierarchy:
 Nautilus.NautilusUI>>#updateOnClassSelection
+Nautilus.PackageTreeGroupNodeModel
+Nautilus.PackageTreeGroupNodeModel>>#asNautilusSelection
+Nautilus.PackageTreeGroupNodeModel>>#icon
+Nautilus.PackageTreeGroupNodeModel>>#rowMorphForColumn:
 Polymorph-Widgets.Morph>>#initialColorInSystemWindow:
 Polymorph-Widgets.Morph>>#modalLockTo:
 Polymorph-Widgets.Morph>>#nextMorphAcrossInWindow
@@ -21,8 +25,11 @@ Polymorph-Widgets.Morph>>#previousMorphInWindow
 Polymorph-Widgets.Morph>>#previousMorphWantingFocus
 Polymorph-Widgets.Morph>>#shadowOffsetRectangle
 Reflectivity-Tools-Tests.WatchpointTests>>#testTimestamp
+Reflectivity-Tools.WatchpointWindow>>#label
+Reflectivity-Tools.WatchpointWindow>>#label:
 Reflectivity.ReflectiveMethod>>#flushCache
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50471
+ScriptLoader50.ScriptLoader>>#update50471
 ScriptLoader50.ScriptLoader>>#update50472
 Traits.TBehavior>>#flushCache

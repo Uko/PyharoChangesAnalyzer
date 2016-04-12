@@ -1,6 +1,7 @@
 AST-Core.NumberParser>>#nextInteger
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50174
+ScriptLoader50.ScriptLoader>>#update50174
 ScriptLoader50.ScriptLoader>>#update50175
 System-Settings.SettingBrowser>>#isRendered
 Tool-Diff.PSMCPatchMorph>>#changeTreeKey:

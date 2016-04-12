@@ -138,6 +138,7 @@ GT-Inspector.GTExample>>#allDependencies
 GT-Inspector.GTExample>>#allDependents
 GT-Inspector.GTExample>>#arguments
 GT-Inspector.GTExample>>#children
+GT-Inspector.GTExample>>#childrenExamples
 GT-Inspector.GTExample>>#classNamed:
 GT-Inspector.GTExample>>#classNamed:do:
 GT-Inspector.GTExample>>#classNamed:do:ifNone:
@@ -158,9 +159,12 @@ GT-Inspector.GTExample>>#evaluator
 GT-Inspector.GTExample>>#example
 GT-Inspector.GTExample>>#exceptions
 GT-Inspector.GTExample>>#exists
+GT-Inspector.GTExample>>#extractionStrategy
+GT-Inspector.GTExample>>#extractionStrategy:
 GT-Inspector.GTExample>>#finder
 GT-Inspector.GTExample>>#gtDebuggerSourceIn:
 GT-Inspector.GTExample>>#gtDisplayOn:
+GT-Inspector.GTExample>>#gtDisplaySourceIn:
 GT-Inspector.GTExample>>#gtDisplaySummaryOn:
 GT-Inspector.GTExample>>#gtExample
 GT-Inspector.GTExample>>#gtInspectorActionEvaluateResultAndGo
@@ -174,6 +178,7 @@ GT-Inspector.GTExample>>#hasDependency:
 GT-Inspector.GTExample>>#hasDependent
 GT-Inspector.GTExample>>#hasDependent:
 GT-Inspector.GTExample>>#hasDependents
+GT-Inspector.GTExample>>#hasParentExample
 GT-Inspector.GTExample>>#hasRelationships
 GT-Inspector.GTExample>>#hasSubject:
 GT-Inspector.GTExample>>#hasValidArguments
@@ -195,8 +200,10 @@ GT-Inspector.GTExample>>#label
 GT-Inspector.GTExample>>#label:
 GT-Inspector.GTExample>>#matchesMethod:
 GT-Inspector.GTExample>>#method
+GT-Inspector.GTExample>>#methodReference
 GT-Inspector.GTExample>>#noTest
 GT-Inspector.GTExample>>#notTestReport
+GT-Inspector.GTExample>>#parentExample:
 GT-Inspector.GTExample>>#parents
 GT-Inspector.GTExample>>#pragma
 GT-Inspector.GTExample>>#propertyAt:
@@ -204,6 +211,7 @@ GT-Inspector.GTExample>>#propertyAt:ifAbsent:
 GT-Inspector.GTExample>>#propertyAt:ifAbsentPut:
 GT-Inspector.GTExample>>#propertyAt:put:
 GT-Inspector.GTExample>>#provider
+GT-Inspector.GTExample>>#provider:
 GT-Inspector.GTExample>>#raises:
 GT-Inspector.GTExample>>#raisesAny:
 GT-Inspector.GTExample>>#removeFromSystem
@@ -212,6 +220,8 @@ GT-Inspector.GTExample>>#result:
 GT-Inspector.GTExample>>#resultCached:
 GT-Inspector.GTExample>>#returnValue
 GT-Inspector.GTExample>>#run
+GT-Inspector.GTExample>>#selector
+GT-Inspector.GTExample>>#selector:
 GT-Inspector.GTExample>>#source
 GT-Inspector.GTExample>>#sourceCode
 GT-Inspector.GTExample>>#spotterPreviewIn:inContext:
@@ -219,6 +229,8 @@ GT-Inspector.GTExample>>#subject:
 GT-Inspector.GTExample>>#subjects
 GT-Inspector.GTExample>>#subjectsAll:
 GT-Inspector.GTExample>>#substrings:do:
+GT-Inspector.GTExample>>#title
+GT-Inspector.GTExample>>#title:
 GT-Inspector.GTExample>>#traverser
 GT-Inspector.GTExampleArgumentError
 GT-Inspector.GTExampleArgumentError>>#defined
@@ -255,6 +267,16 @@ GT-Inspector.GTExampleExpectedExceptionNotRaised>>#exception
 GT-Inspector.GTExampleExpectedExceptionNotRaised>>#exception:
 GT-Inspector.GTExampleExpectedExceptionNotRaised>>#expectedError
 GT-Inspector.GTExampleExpectedExceptionNotRaised>>#expectedError:
+GT-Inspector.GTExampleExtractionStrategy
+GT-Inspector.GTExampleExtractionStrategy>>#childrenExamplesFor:
+GT-Inspector.GTExampleExtractionStrategy>>#createExampleForExamplePragma:from:
+GT-Inspector.GTExampleExtractionStrategy>>#createExampleForMethod:from:
+GT-Inspector.GTExampleExtractionStrategy>>#createExampleFromDependencyPragma:from:
+GT-Inspector.GTExampleExtractionStrategy>>#exampleClass
+GT-Inspector.GTExampleExtractionStrategy>>#exampleDependencyPragma
+GT-Inspector.GTExampleExtractionStrategy>>#examplePragmas
+GT-Inspector.GTExampleExtractionStrategy>>#parentExampleFor:
+GT-Inspector.GTExampleExtractionStrategy>>#rootExamplesFor:
 GT-Inspector.GTExampleFinder
 GT-Inspector.GTExampleFinder class>>#allGTExamples
 GT-Inspector.GTExampleFinder class>>#allGTExamplesTo:
@@ -377,6 +399,12 @@ GT-Inspector.GTExampleProcessor>>#process:
 GT-Inspector.GTExampleProcessor>>#process:withArguments:
 GT-Inspector.GTExampleProcessor>>#process:withoutLoopsDo:
 GT-Inspector.GTExampleProcessor>>#value
+GT-Inspector.GTExampleProvider
+GT-Inspector.GTExampleProvider class>>#on:
+GT-Inspector.GTExampleProvider>>#gtDisplayExamplesIn:
+GT-Inspector.GTExampleProvider>>#gtExamples
+GT-Inspector.GTExampleProvider>>#subject
+GT-Inspector.GTExampleProvider>>#subject:
 GT-Inspector.GTExampleProxy
 GT-Inspector.GTExampleProxy>>#=
 GT-Inspector.GTExampleProxy>>#detachFromSystem
@@ -451,6 +479,7 @@ GT-Inspector.Object>>#detachFromSystem
 GT-Inspector.Object>>#equalsExample:
 GT-Inspector.Object>>#gtExamples
 GT-Inspector.Object>>#gtExamplesContained
+GT-Inspector.Object>>#gtInspectorExampleSourceIn:inContext:
 GT-Inspector.Pragma>>#isGTExamplePragma
 GT-Inspector.RPackage>>#gtExamplesContained
 GT-Inspector.RPackage>>#matchesPackagePattern:
@@ -458,11 +487,13 @@ GT-Inspector.RPackageTag>>#gtExamplesContained
 GT-Inspector.SystemNavigation>>#examplesReferencesTo:
 GT-Inspector.TClass>>#gtInspectorGTExamplesIn:
 GT-Inspector.TClass>>#gtSpotterGTExamplesFor:
+GT-Inspector.TClassDescription>>#examplesProvider
 GT-Inspector.TClassDescription>>#gtExamples
 GT-Inspector.TClassDescription>>#gtExamplesFinder
 GT-Inspector.TClassDescription>>#gtExamplesProvider
 GT-Inspector.TClassDescription>>#gtExamplesSource
 GT-Inspector.TClassDescription>>#gtExamplesSubjects
+GT-Inspector.TClassDescription>>#gtInspectorExamplesIn:
 GT-InspectorExtensions-Core.AbstractMorphicAdapter>>#gtInspectorPreviewIn:
 GT-InspectorExtensions-Core.Announcer class>>#gtExampleEmptyAnnouncer
 GT-InspectorExtensions-Core.Announcer class>>#gtExampleSystemAnnouncer
@@ -489,7 +520,10 @@ GT-InspectorExtensions-Core.Float class>>#gtExampleE
 GT-InspectorExtensions-Core.Float class>>#gtExampleNegativeE
 GT-InspectorExtensions-Core.Float class>>#gtExampleZero
 GT-InspectorExtensions-Core.Form class>>#gtExampleEmptyForm32x32
+GT-InspectorExtensions-Core.GLMBrowser>>#gtInspectorBrowserIn:
+GT-InspectorExtensions-Core.GLMCompositePresentation>>#gtInspectorBrowserIn:
 GT-InspectorExtensions-Core.GLMPresentation>>#gtInspectorBrowserIn:
+GT-InspectorExtensions-Core.GTExample class>>#gtExampleBasic
 GT-InspectorExtensions-Core.GTExample>>#gtInspectorSourceIn:
 GT-InspectorExtensions-Core.GTSimpleRBTreeBrowser>>#sourceIn:
 GT-InspectorExtensions-Core.KMDispatcher class>>#gtExampleDispatcherWithTarget
@@ -568,8 +602,11 @@ GT-Playground.GTPlayground>>#codePresentation
 GT-Playground.GTPlayground>>#contextMenuActions
 GT-Playground.GTPlayground>>#contextMenuPragma
 GT-Playground.GTPlayground>>#currentBindings
+GT-Spotter.GTSpotter class>>#gtExampleBasic
 GT-Spotter.GTSpotter class>>#gtExampleWithOneStepFrom:
 GT-Spotter.GTSpotter class>>#gtExamplesProvider
+GT-Spotter.GTSpotter class>>#on:withProcessors:
+GT-Spotter.GTSpotter class>>#withProcessors:
 GT-Spotter.GTSpotter>>#filterByMethods:
 GT-Spotter.GTSpotter>>#gtDisplaySpotterMorphOn:
 GT-Spotter.GTSpotterExamples
@@ -582,7 +619,11 @@ GT-Spotter.GTSpotterExamples class>>#gtExampleOnCompliedMethod
 GT-Spotter.GTSpotterExamples class>>#gtExampleWorldMenuSearchOn:
 GT-Spotter.GTSpotterExamples class>>#gtExamplesSource
 GT-Spotter.GTSpotterMethodListProcessorFilter
+GT-Spotter.GTSpotterMethodListProcessorFilter class>>#exampleHelpSearch
+GT-Spotter.GTSpotterMethodListProcessorFilter class>>#exampleMenuMorphSearch
+GT-Spotter.GTSpotterMethodListProcessorFilter class>>#exampleWorldMenuSearch
 GT-Spotter.GTSpotterMethodListProcessorFilter>>#addSignatureFor:
+GT-Spotter.GTSpotterMethodListProcessorFilter>>#addSignaturesFor:
 GT-Spotter.GTSpotterMethodListProcessorFilter>>#allowProcessorsFrom:configuredWith:
 GT-Spotter.GTSpotterMethodListProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
 GT-Spotter.GTSpotterMethodListProcessorFilter>>#initialize
@@ -592,7 +633,9 @@ GT-Spotter.GTSpotterPrivacyAgreementNotificationBrick class>>#gtExample
 GT-Spotter.GTSpotterProcessorFilter>>#configurationBlockForProcessorsCreatedBy:
 GT-Spotter.GTSpotterStep>>#configureProcessorsStartingAt:with:
 GT-Spotter.Object>>#spotterProcessorsFor:
+GT-SpotterExtensions-Core.GTExample>>#spotterPreviewIn:inContext:
 GT-SpotterExtensions-Core.GTSpotter>>#gtSpotterExamplesFor:
+GT-SpotterExtensions-Core.GTSpotter>>#spotterExamplesFor:
 GT-SpotterExtensions-Core.GTSpotter>>#spotterWorldMenuFor:
 GT-SpotterExtensions-Core.MCPackage class>>#gtExampleNoPackage
 GT-SpotterExtensions-Core.MCPackage class>>#gtExamplePackage
@@ -614,6 +657,7 @@ GT-SpotterExtensions-Core.TBehavior class>>#gtExampleSuperclasses
 GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraitComposition
 GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraitUsers
 GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraits
+GT-SpotterExtensions-Core.TClass>>#spotterExamplesFor:
 GT-SpotterExtensions-Core.TClassDescription class>>#gtExamplePackage
 GT-SpotterExtensions-Core.ThemeIcons class>>#gtExampleThemeIcons
 GT-Tests-Inspector.GTInspectorDummyExamplesTest
@@ -631,6 +675,7 @@ GT-Tests-Inspector.GTInspectorDummyExamplesTest>>#testResult
 GT-Tests-Inspector.GTInspectorDummyExamplesTest>>#testRun
 GT-Tests-Inspector.GTInspectorExamplesTest
 GT-Tests-Inspector.GTInspectorExamplesTest>>#checkAllPresentationsOf:
+GT-Tests-Inspector.GTInspectorExamplesTest>>#setUp
 GT-Tests-Inspector.GTInspectorExamplesTest>>#tearDown
 GT-Tests-Inspector.GTInspectorExamplesTest>>#testAllExamples
 GT-Tests-Inspector.GTToolkitExampleTestCase
@@ -653,6 +698,8 @@ Glamour-Morphic-Renderer.GLMMorphicRubricTextRenderer>>#render:
 Glamour-Morphic-Theme.GLMWhitespaceTheme class>>#importGlamorousIcons
 Glamour-Rubric-Presentations.GLMPharoPlaygroundPresentation>>#defaultSelectionActions
 Glamour-Rubric-Presentations.GLMPharoPlaygroundPresentation>>#goAction
+Glamour-Rubric-Presentations.GLMPharoPlaygroundPresentation>>#installGoAction
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50389
+ScriptLoader50.ScriptLoader>>#update50389
 ScriptLoader50.ScriptLoader>>#update50390

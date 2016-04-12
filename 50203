@@ -1,5 +1,6 @@
 FileSystem-Disk.DiskStore>>#basicEntry:path:nodesDo:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50202
+ScriptLoader50.ScriptLoader>>#update50202
 ScriptLoader50.ScriptLoader>>#update50203
 Tool-CriticBrowser.SelectRuleBrowser>>#addItems

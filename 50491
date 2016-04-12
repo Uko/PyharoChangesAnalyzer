@@ -51,6 +51,7 @@ ConfigurationOfPharoMetacello.ConfigurationOfPharoMetacello>>#project
 ConfigurationOfPharoMetacello.ConfigurationOfPharoMetacello>>#stable:
 Metacello-Base.BaselineOf class>>#validate
 Metacello-Base.Metacello>>#bitbucketUser:project:commitish:path:
+Metacello-Base.Metacello>>#execute
 Metacello-Base.Metacello>>#execute:args:
 Metacello-Base.Metacello>>#fetch
 Metacello-Base.Metacello>>#fetch:
@@ -140,10 +141,14 @@ Metacello-Core.MetacelloMergeMemberSpec>>#applyAdd:copy:merge:remove:
 Metacello-Core.MetacelloNameNotDefinedError
 Metacello-Core.MetacelloNameNotDefinedError>>#isResumable
 Metacello-Core.MetacelloPackageSpecResolutionError>>#signal
+Metacello-Core.MetacelloPackagesSpec>>#applyIncludesTo:for:firstTime:
 Metacello-Core.MetacelloPackagesSpec>>#applyIncludesTo:for:firstTime:for:
 Metacello-Core.MetacelloPackagesSpec>>#copy:to:
+Metacello-Core.MetacelloPackagesSpec>>#packageSpecsInLoadOrder
 Metacello-Core.MetacelloPackagesSpec>>#packageSpecsInLoadOrderFor:
+Metacello-Core.MetacelloPackagesSpec>>#slideIn:spec:baseIndex:seen:firstTime:
 Metacello-Core.MetacelloPackagesSpec>>#slideIn:spec:baseIndex:seen:firstTime:for:
+Metacello-Core.MetacelloPackagesSpec>>#sortPackageSpecs:for:
 Metacello-Core.MetacelloPackagesSpec>>#sortPackageSpecs:packageSpec:groupLoops:for:
 Metacello-Core.MetacelloPlatform class>>#initialize
 Metacello-Core.MetacelloPlatform>>#clearPackageCache
@@ -151,6 +156,7 @@ Metacello-Core.MetacelloPlatform>>#createRepository:
 Metacello-Core.MetacelloPlatform>>#defaultPackageCache
 Metacello-Core.MetacelloPlatform>>#defaultPlatformAttributes
 Metacello-Core.MetacelloPlatform>>#downloadErrorFileNameFor:
+Metacello-Core.MetacelloPlatform>>#downloadFile:to:
 Metacello-Core.MetacelloPlatform>>#downloadJSON:eTagsCache:eTagsKey:username:pass:
 Metacello-Core.MetacelloPlatform>>#downloadJSON:username:pass:
 Metacello-Core.MetacelloPlatform>>#downloadZipArchive:to:
@@ -189,6 +195,7 @@ Metacello-Core.MetacelloProjectRegistration>>#hasLoadConflicts:
 Metacello-Core.MetacelloProjectRegistration>>#isValid
 Metacello-Core.MetacelloProjectRegistration>>#lookupBaselineSpec
 Metacello-Core.MetacelloProjectRegistration>>#lookupConfigurationSpec
+Metacello-Core.MetacelloProjectRegistration>>#lookupSpec:
 Metacello-Core.MetacelloProjectRegistration>>#merge:
 Metacello-Core.MetacelloProjectRegistration>>#printOn:
 Metacello-Core.MetacelloProjectRegistration>>#projectSpec
@@ -225,6 +232,8 @@ Metacello-Core.MetacelloResolveProjectUpgrade>>#useIncoming
 Metacello-Core.MetacelloResolveProjectUpgrade>>#useLoaded
 Metacello-Core.MetacelloResolveProjectUpgrade>>#useNew
 Metacello-Core.MetacelloScriptApiExecutor>>#executeString:do:
+Metacello-Core.MetacelloScriptEngine class>>#baselineProjectNameOf:
+Metacello-Core.MetacelloScriptEngine class>>#configurationProjectNameOf:
 Metacello-Core.MetacelloScriptEngine class>>#defaultRepositoryDescription:
 Metacello-Core.MetacelloScriptEngine>>#get
 Metacello-Core.MetacelloScriptEngine>>#getBaselineUnconditionalLoad:
@@ -239,6 +248,7 @@ Metacello-Core.MetacelloScriptExecutor>>#singleRoot
 Metacello-Core.MetacelloScriptExecutor>>#singleRoot:
 Metacello-Core.MetacelloScriptExecutor>>#unregister
 Metacello-Core.MetacelloScriptGitBasedDownloadNotification
+Metacello-Core.MetacelloScriptGitHubDownloadNotification
 Metacello-Core.MetacelloScriptGitHubDownloadNotification>>#projectPath
 Metacello-Core.MetacelloScriptGitHubDownloadNotification>>#projectPath:
 Metacello-Core.MetacelloScriptGitHubDownloadNotification>>#versionString
@@ -366,6 +376,7 @@ Metacello-GitHub.MCGitHubRepository class>>#cacheDirectory:
 Metacello-GitHub.MCGitHubRepository class>>#cacheDirectoryFor:
 Metacello-GitHub.MCGitHubRepository class>>#cacheDirectoryPath
 Metacello-GitHub.MCGitHubRepository class>>#defaultCacheDirectory
+Metacello-GitHub.MCGitHubRepository class>>#description
 Metacello-GitHub.MCGitHubRepository class>>#downloadCache
 Metacello-GitHub.MCGitHubRepository class>>#downloadCacheKey:version:
 Metacello-GitHub.MCGitHubRepository class>>#eTagsCache
@@ -377,15 +388,20 @@ Metacello-GitHub.MCGitHubRepository class>>#isAbstract
 Metacello-GitHub.MCGitHubRepository class>>#isEnabled
 Metacello-GitHub.MCGitHubRepository class>>#location:
 Metacello-GitHub.MCGitHubRepository class>>#location:version:
+Metacello-GitHub.MCGitHubRepository class>>#parseLocation:version:
 Metacello-GitHub.MCGitHubRepository class>>#projectDirectoryFrom:version:
 Metacello-GitHub.MCGitHubRepository class>>#projectTagsUrlFor:
 Metacello-GitHub.MCGitHubRepository class>>#projectZipUrlFor:versionString:
 Metacello-GitHub.MCGitHubRepository class>>#resetCacheDirectoryIfInvalid
 Metacello-GitHub.MCGitHubRepository class>>#startUp:
+Metacello-GitHub.MCGitHubRepository>>#asRepositorySpecFor:
+Metacello-GitHub.MCGitHubRepository>>#description
 Metacello-GitHub.MCGitHubRepository>>#directory
 Metacello-GitHub.MCGitHubRepository>>#directoryDescription
 Metacello-GitHub.MCGitHubRepository>>#downloadJSONTags
+Metacello-GitHub.MCGitHubRepository>>#flushCache
 Metacello-GitHub.MCGitHubRepository>>#flushForScriptGet
+Metacello-GitHub.MCGitHubRepository>>#hasNoLoadConflicts:
 Metacello-GitHub.MCGitHubRepository>>#hash
 Metacello-GitHub.MCGitHubRepository>>#initialize
 Metacello-GitHub.MCGitHubRepository>>#isValid
@@ -394,6 +410,8 @@ Metacello-GitHub.MCGitHubRepository>>#normalizeTagsData:
 Metacello-GitHub.MCGitHubRepository>>#projectPath
 Metacello-GitHub.MCGitHubRepository>>#projectPath:
 Metacello-GitHub.MCGitHubRepository>>#projectVersion
+Metacello-GitHub.MCGitHubRepository>>#projectVersion:
+Metacello-GitHub.MCGitHubRepository>>#repoPath
 Metacello-GitHub.MCGitHubRepository>>#repoPath:
 Metacello-MC.Collection>>#addToMetacelloRepositories:
 Metacello-MC.Collection>>#mergeIntoMetacelloRepositories:
@@ -401,6 +419,7 @@ Metacello-MC.Collection>>#removeFromMetacelloRepositories:
 Metacello-MC.GoferReference>>#matchesMetacelloGoferPackage:
 Metacello-MC.GoferVersionReference>>#matchesMetacelloGoferPackage:
 Metacello-MC.MCFileBasedRepository>>#versionInfoFromVersionNamed:
+Metacello-MC.MCFileTreeRepository>>#versionInfoFromVersionNamed:
 Metacello-MC.MCRepository>>#projectVersion:
 Metacello-MC.MetacelloAbstractPackageSpec>>#packagesNeedSavingVisited:using:into:
 Metacello-MC.MetacelloAbstractPackageSpec>>#resolveToAllPackagesIn:visited:
@@ -466,10 +485,12 @@ Metacello-MC.MetacelloLoaderPolicy>>#pushLinearLoadDirectivesDuring:for:
 Metacello-MC.MetacelloLoaderPolicy>>#pushLoadDirective:during:
 Metacello-MC.MetacelloLoadingMCSpecLoader>>#latestPackage:fromRepository:
 Metacello-MC.MetacelloLoadingMCSpecLoader>>#linearLoadPackageSpec:gofer:
+Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#asProjectSpec
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#canUpgradeTo:
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#configHasVersionString
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#copyForRegistration:onWrite:
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#ensureLoadUsing:
+Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#hasConflictWithConfiguration:
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#hasConflictWithConfigurationSpec:
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#hasConflictWithProjectSpec:
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#isBaselineOfProjectSpec
@@ -477,6 +498,7 @@ Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#mergeRepositoriesSpec:
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#repositoryBranchName
 Metacello-MC.MetacelloMCBaselineOfProjectSpec>>#repositoryVersionString
 Metacello-MC.MetacelloMCBaselineProject>>#projectForScriptEngine:unconditionalLoad:
+Metacello-MC.MetacelloMCConfigurationOfProjectSpec>>#asProjectSpec
 Metacello-MC.MetacelloMCConfigurationOfProjectSpec>>#copyForRegistration:onWrite:
 Metacello-MC.MetacelloMCConfigurationOfProjectSpec>>#hasConflictWithBaselineSpec:
 Metacello-MC.MetacelloMCConfigurationOfProjectSpec>>#hasConflictWithProjectSpec:
@@ -495,6 +517,7 @@ Metacello-MC.MetacelloMCProjectSpec>>#baseName
 Metacello-MC.MetacelloMCProjectSpec>>#compareRelativeCurrentVersion:targetVersionStatus:using:
 Metacello-MC.MetacelloMCProjectSpec>>#ensureConfigurationLoaded:ensured:
 Metacello-MC.MetacelloMCProjectSpec>>#ensureLoadUsing:
+Metacello-MC.MetacelloMCProjectSpec>>#hasConflictWithBaseline:
 Metacello-MC.MetacelloMCProjectSpec>>#hasConflictWithBaselineSpec:
 Metacello-MC.MetacelloMCProjectSpec>>#hasConflictWithConfigurationSpec:
 Metacello-MC.MetacelloMCProjectSpec>>#hasConflictWithProjectSpec:
@@ -552,12 +575,14 @@ Metacello-MC.String>>#packageFileSpecFor:
 Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#compiler
 Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#copyClass:as:inCategory:
 Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#downloadBasicFile:to:username:pass:
+Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#downloadFile:to:
 Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#downloadJSON:username:pass:
 Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#downloadZipArchive:to:
 Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#extractRepositoryFrom:to:
 Metacello-PharoCommonPlatform.MetacelloPharoCommonPlatform>>#tempFileFor:suffix:
 Metacello-Platform.pharo30.MetacelloPharo30Platform>>#compiler
 Metacello-Platform.pharo30.MetacelloPharo30Platform>>#defaultRepositoryDescription
+Metacello-Platform.pharo30.MetacelloPharo30Platform>>#downloadFile:to:
 Metacello-Platform.pharo30.MetacelloPharo30Platform>>#downloadJSON:username:pass:
 Metacello-Platform.pharo30.MetacelloPharo30Platform>>#downloadZipArchive:to:
 Metacello-Platform.pharo30.MetacelloPharo30Platform>>#registerPackageNamed:
@@ -659,6 +684,7 @@ Metacello-TestsMCResources.MetacelloScriptingResource>>#unstableVersionOfX:
 Metacello-TestsMCResources.MetacelloScriptingResource>>#version100Issue339:
 Metacello-TestsMCResources.MetacelloTestsMCPackage>>#packageInfo
 Metacello-TestsMCResources.MetacelloTestsMCPackage>>#packageSet
+Metacello-TestsMCResources.MetacelloTestsMCPackage>>#species
 Metacello-TestsPharo20MC.MetacelloTestsPackageSet
 Metacello-TestsPharo20MC.MetacelloTestsPackageSet>>#extensionMethods
 Metacello-TestsPharo20MC.MetacelloTestsPackageSet>>#overriddenMethods
@@ -711,6 +737,8 @@ MonticelloFileTree-Core.MCFileTreeStCypressWriter>>#fileNameForSelector:
 MonticelloFileTree-Core.String>>#cypressEscapeCharacter:on:
 MonticelloFileTree-Core.String>>#cypressEscapeCharactersOn:
 MonticelloFileTree-Core.String>>#writeCypressJsonOn:forHtml:indent:
+MonticelloGUI.MCFileRepositoryInspector>>#refresh
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50490
+ScriptLoader50.ScriptLoader>>#update50490
 ScriptLoader50.ScriptLoader>>#update50491

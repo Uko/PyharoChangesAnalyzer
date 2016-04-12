@@ -1,7 +1,9 @@
 Morphic-Core.WorldState>>#runLocalStepMethodsIn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50188
+ScriptLoader50.ScriptLoader>>#update50188
 ScriptLoader50.ScriptLoader>>#update50189
+SmartSuggestions-Tests.SugsContextTest>>#testSmalltalkEditorIsANotValidContext
 SmartSuggestions.SmalltalkEditor>>#sugsContext
 SmartSuggestions.SugsSmalltalkEditorContext
 SmartSuggestions.SugsSmalltalkEditorContext>>#selectedClass

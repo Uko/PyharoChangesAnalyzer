@@ -31,14 +31,17 @@ Morphic-Base.MenuMorph>>#addStayUpIcons
 Morphic-Base.MenuMorph>>#addStayUpItem
 Morphic-Base.MenuMorph>>#addTitle:
 Morphic-Base.MenuMorph>>#addTitle:icon:
+Morphic-Base.MenuMorph>>#defaultBounds
 Morphic-Base.MenuMorph>>#defaultTarget:
 Morphic-Base.MenuMorph>>#embeddable
 Morphic-Base.MenuMorph>>#embeddable:
 Morphic-Base.MenuMorph>>#itemWithWording:
 Morphic-Base.MenuMorph>>#newTitleIconCalling:form:ballonText:
 Morphic-Base.MenuMorph>>#pinboxClicked
+Morphic-Base.MenuMorph>>#selectMoreItem:
 NautilusRefactoring.NautilusRefactoring>>#privateRemoveParameterMethodFor:
 Refactoring-Core.RBRemoveParameterRefactoring>>#getNewSelector
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50299
+ScriptLoader50.ScriptLoader>>#update50299
 ScriptLoader50.ScriptLoader>>#update50300

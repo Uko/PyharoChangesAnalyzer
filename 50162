@@ -3,6 +3,7 @@ Nautilus.AbstractNautilusUI>>#addClass
 RPackage-Core.RPackageOrganizer>>#packageNamed:ifAbsent:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50161
+ScriptLoader50.ScriptLoader>>#update50161
 ScriptLoader50.ScriptLoader>>#update50162
 Slot.BaseSlot>>#=
 Slot.BaseSlot>>#default

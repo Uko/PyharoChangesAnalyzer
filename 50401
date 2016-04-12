@@ -8,7 +8,9 @@ Polymorph-Widgets.AboutDialogWindow
 Polymorph-Widgets.AboutDialogWindow class>>#open
 Polymorph-Widgets.AboutDialogWindow class>>#openForPharo
 Polymorph-Widgets.AboutDialogWindow>>#defaultLabel
+Polymorph-Widgets.AboutDialogWindow>>#newButtons
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50400
+ScriptLoader50.ScriptLoader>>#update50400
 ScriptLoader50.ScriptLoader>>#update50401
 Tool-ExternalBrowser.ExternalChangesBrowser class>>#fileReaderServicesForFile:suffix:

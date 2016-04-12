@@ -1,7 +1,59 @@
 Athens-Text.SimpleTextGlyphInfo>>#loadFrom:
+Compression.GZipWriteStream class>>#compressFile:
+Compression.GZipWriteStream class>>#initialize
+Compression.GZipWriteStream class>>#unload
+Compression.StandardFileStream>>#compressFile
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50110
+ScriptLoader50.ScriptLoader>>#update50110
 ScriptLoader50.ScriptLoader>>#update50111
+System-FileRegistry.GZipWriteStream class>>#fileReaderServicesForFile:suffix:
+System-FileRegistry.GZipWriteStream class>>#serviceCompressFile
+System-FileRegistry.GZipWriteStream class>>#services
+Tool-Browser-Old.StringHolder
+Tool-Browser-Old.StringHolder class>>#open
+Tool-Browser-Old.StringHolder class>>#openLabel:
+Tool-Browser-Old.StringHolder class>>#theme
+Tool-Browser-Old.StringHolder>>#acceptContents:
+Tool-Browser-Old.StringHolder>>#browseClass
+Tool-Browser-Old.StringHolder>>#browseClassRefs
+Tool-Browser-Old.StringHolder>>#browseClassVarRefs
+Tool-Browser-Old.StringHolder>>#browseClassVariables
+Tool-Browser-Old.StringHolder>>#browseInstVarDefs
+Tool-Browser-Old.StringHolder>>#browseInstVarRefs
+Tool-Browser-Old.StringHolder>>#browseMessages
+Tool-Browser-Old.StringHolder>>#browseMethodFull
+Tool-Browser-Old.StringHolder>>#browseSendersOfMessages
+Tool-Browser-Old.StringHolder>>#browseUnusedMethods
+Tool-Browser-Old.StringHolder>>#browseVersions
+Tool-Browser-Old.StringHolder>>#buildTextMorph
+Tool-Browser-Old.StringHolder>>#classCommentIndicated
+Tool-Browser-Old.StringHolder>>#classHierarchy
+Tool-Browser-Old.StringHolder>>#clearUserEditFlag
+Tool-Browser-Old.StringHolder>>#codePaneMenu:shifted:
+Tool-Browser-Old.StringHolder>>#codeTextMorph
+Tool-Browser-Old.StringHolder>>#contents
+Tool-Browser-Old.StringHolder>>#contents:
+Tool-Browser-Old.StringHolder>>#contentsSelection
+Tool-Browser-Old.StringHolder>>#copyName
+Tool-Browser-Old.StringHolder>>#copySelector
+Tool-Browser-Old.StringHolder>>#defaultContents
+Tool-Browser-Old.StringHolder>>#doItContext
+Tool-Browser-Old.StringHolder>>#doItReceiver
+Tool-Browser-Old.StringHolder>>#embeddedInMorphicWindowLabeled:
+Tool-Browser-Old.StringHolder>>#embeddedInMorphicWindowLabeled:wrap:
+Tool-Browser-Old.StringHolder>>#fileOutMessage
+Tool-Browser-Old.StringHolder>>#initialize
+Tool-Browser-Old.StringHolder>>#inspectInstances
+Tool-Browser-Old.StringHolder>>#inspectSubInstances
+Tool-Browser-Old.StringHolder>>#methodHierarchy
+Tool-Browser-Old.StringHolder>>#okToChange
+Tool-Browser-Old.StringHolder>>#openLabel:
+Tool-Browser-Old.StringHolder>>#selectedClassName
+Tool-Browser-Old.StringHolder>>#selectedClassOrMetaClass
+Tool-Browser-Old.StringHolder>>#selectedMessageName
+Tool-Browser-Old.StringHolder>>#textContents:
+Tool-Browser-Old.StringHolder>>#timeStamp
 Tool-FileList.FileDialogWindow>>#selectPathName:
 Tool-FileList.FileList
 Tool-FileList.FileList class>>#initialize
@@ -20,6 +72,7 @@ Tool-FileList.FileList>>#addService:
 Tool-FileList.FileList>>#addServiceOn:entitled:doing:describedAs:
 Tool-FileList.FileList>>#addServiceTitled:doing:describedAs:
 Tool-FileList.FileList>>#baseLabel:
+Tool-FileList.FileList>>#compressFile
 Tool-FileList.FileList>>#configuredServices
 Tool-FileList.FileList>>#contents:
 Tool-FileList.FileList>>#initialize
@@ -32,6 +85,8 @@ Tool-FileList.FileList>>#morphicViewOnDirectory:baseLabel:
 Tool-FileList.FileList>>#morphicViewOnFile:
 Tool-FileList.FileList>>#perform:orSendTo:
 Tool-FileList.FileList>>#readOnlyStream
+Tool-FileList.FileList>>#recentDirs
+Tool-FileList.FileList>>#serviceCompressFile
 Tool-FileList.FileList>>#updateDirectory
 Tool-FileList.FileList>>#updateFileList
 Tool-FileList.FileList>>#volumeMenu:

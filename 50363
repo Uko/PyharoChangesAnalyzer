@@ -11,5 +11,6 @@ Nautilus.TBehavior>>#hierarchyClassTree
 OpalCompiler-Core.BlockClosure>>#sourceNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50362
+ScriptLoader50.ScriptLoader>>#update50362
 ScriptLoader50.ScriptLoader>>#update50363
 Traits.TClass>>#hasSubclasses

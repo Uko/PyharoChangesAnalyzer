@@ -1,8 +1,10 @@
 Kernel.DelayWaitTimeout>>#waitOnCompletion:onTimeout:
+Kernel.Object>>#writeToSlot:of:
 Kernel.Semaphore>>#waitTimeoutSeconds:onCompletion:onTimeout:
 KernelTests.SemaphoreTest>>#testWaitTimeoutSecondsOnCompletionOnTimeout
 OpalCompiler-Core.RBProgramNode>>#doSemanticAnalysis
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script631
+ScriptLoader50.ScriptLoader>>#update50022
 ScriptLoader50.ScriptLoader>>#update50023
 Shout.SHTextStyler>>#styleInBackgroundProcess:

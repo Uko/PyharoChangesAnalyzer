@@ -8,4 +8,5 @@ Reflectivity.CoverageStyler>>#addStyle:attribute:forNode:
 Reflectivity.CoverageStyler>>#addStyle:forNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50167
+ScriptLoader50.ScriptLoader>>#update50167
 ScriptLoader50.ScriptLoader>>#update50168

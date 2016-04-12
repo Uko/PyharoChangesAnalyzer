@@ -1,3 +1,16 @@
+Jobs.JobChange class>>#on:
+Jobs.JobChange>>#job
+Jobs.JobChange>>#job:
+Jobs.JobChange>>#max
+Jobs.JobChange>>#min
+Jobs.JobChange>>#progress
+Jobs.JobChange>>#title
+Jobs.JobEnd class>>#on:
+Jobs.JobEnd>>#job
+Jobs.JobEnd>>#job:
+Jobs.JobStart class>>#on:
+Jobs.JobStart>>#job
+Jobs.JobStart>>#job:
 KernelTests.JobTest
 KernelTests.JobTest>>#tearDown
 KernelTests.JobTest>>#testChildJob
@@ -6,17 +19,23 @@ KernelTests.JobTest>>#testProgress
 KernelTests.JobTest>>#testProgressChangeByCurrentValue
 KernelTests.JobTest>>#testSingleJob
 Komitter.MCPackage>>#patch
+Komitter.MCPackage>>#silentSnapshot
+Monticello.MCCacheRepository>>#packageForFileNamed:
 Monticello.MCDataStream>>#next
+Monticello.MCMethodDefinition class>>#forMethodReference:
 Monticello.MCMethodDefinition>>#postloadOver:
 Monticello.MCPackage>>#snapshot
 Monticello.MCStReader>>#classDefinitionFrom:
 Monticello.MCStReader>>#classInstVarNamesFor:
+Monticello.MCWorkingCopy class>>#adoptVersionInfoFrom:
 OpalCompiler-Core.IRBytecodeGenerator
 OpalCompiler-Core.IRPrinterV2>>#visitInstruction:
 OpalCompiler-Core.IRPushArray>>#cons
 OpalCompiler-Core.IRPushArray>>#cons:
 OpalCompiler-Core.IRPushArray>>#size
 OpalCompiler-Core.IRPushArray>>#size:
+OpalCompiler-Core.OCASTSemanticAnalyzer>>#visitMessageNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50136
+ScriptLoader50.ScriptLoader>>#update50136
 ScriptLoader50.ScriptLoader>>#update50137

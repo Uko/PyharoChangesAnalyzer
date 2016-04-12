@@ -28,6 +28,7 @@ SUnit-Core.ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVaria
 SUnit-Core.ClassFactoryWithOrganization>>#newSubclassOf:instanceVariableNames:classVariableNames:category:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50417
+ScriptLoader50.ScriptLoader>>#update50417
 ScriptLoader50.ScriptLoader>>#update50418
 Shout.SHRBTextStyler>>#privateStyle:
 Slot.AbstractClassModification>>#oldLayout

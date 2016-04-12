@@ -1,5 +1,6 @@
 ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version1184:
+Files-Tests.BinaryFileStreamTest>>#fileStreamClass
 Files-Tests.BinaryFileStreamTest>>#fileStreamForFileNamed:
 Files-Tests.BinaryFileStreamTest>>#killTestFile
 Files-Tests.BinaryFileStreamTest>>#setUp
@@ -14,29 +15,45 @@ Files-Tests.BinaryFileStreamTest>>#testSkipLecture
 Files-Tests.BinaryFileStreamTest>>#testWriteMultipleBytes
 Files-Tests.BinaryFileStreamTest>>#testWriteReadInt
 Files-Tests.BinaryFileStreamTest>>#testWriteToClosedFileFails
+Files-Tests.FileTest>>#testCannotOpenFileTwice
+Files-Tests.FileTest>>#testCreateFileObjectDoesNotCreateFile
+Files-Tests.FileTest>>#testEmptyFileSizeIsZero
+Files-Tests.FileTest>>#testFileAtEnd
+Files-Tests.FileTest>>#testFileBufferedRead
 Files-Tests.FileTest>>#testFileDelete
 Files-Tests.FileTest>>#testFileExists
+Files-Tests.FileTest>>#testFileWriteBufferedString
+Files-Tests.FileTest>>#testFileWriteFullString
 Files-Tests.FileTest>>#testFilesAreRegisteredInWeakRegistry
+Files-Tests.FileTest>>#testForceNewFileDeletesExistingFile
 Files-Tests.FileTest>>#testOpenFileForReadDoesNotDeleteExistingFile
 Files-Tests.FileTest>>#testOpeningFileNormallyDoesNotDeleteExistingFile
 Files-Tests.FileTest>>#testOpeningFileObjectCreatesFile
 Files-Tests.FileTest>>#testOpeningFileSetsPositionAtBeggining
 Files-Tests.FileTest>>#testOpeningForAppendSetsPositionAtEnd
 Files-Tests.FileTest>>#testRegistryShouldBeCleaned
+Files-Tests.FileTest>>#testSeekAbsoluteCannotBeNegative
+Files-Tests.FileTest>>#testSeekAbsoluteChangesPositionAbsolutely
+Files-Tests.FileTest>>#testSeekRelativeMovesFromCurrentPosition
 Files.AbstractBinaryFileStream
 Files.AbstractBinaryFileStream class>>#handle:file:forWrite:
+Files.AbstractBinaryFileStream class>>#on:
 Files.AbstractBinaryFileStream>>#handle:file:forWrite:
 Files.AbstractBinaryFileStream>>#name
 Files.AbstractBinaryFileStream>>#next:into:
 Files.AbstractBinaryFileStream>>#next:putAll:
 Files.AbstractBinaryFileStream>>#nextPutAll:
+Files.AbstractBinaryFileStream>>#onPositionDo:
 Files.AbstractBinaryFileStream>>#primFlush:
 Files.BinaryFileStream
 Files.BinaryFileStream>>#atEnd
 Files.BinaryFileStream>>#close
 Files.BinaryFileStream>>#closed
+Files.BinaryFileStream>>#contents
 Files.BinaryFileStream>>#finalize
 Files.BinaryFileStream>>#flush
+Files.BinaryFileStream>>#initialize
+Files.BinaryFileStream>>#onPositionDo:
 Files.BinaryFileStream>>#position
 Files.BinaryFileStream>>#position:
 Files.BinaryFileStream>>#register
@@ -47,22 +64,34 @@ Files.BinaryFileStream>>#truncate
 Files.BinaryFileStream>>#truncate:
 Files.BinaryFileStream>>#unregister
 Files.File
+Files.File class>>#forceNewFileNamed:
 Files.File class>>#openAndTruncateForWriteFileNamed:
+Files.File class>>#openFileNamed:
 Files.File class>>#openForReadFileNamed:
 Files.File class>>#openForWriteFileNamed:
+Files.File class>>#openReadOnlyFileNamed:
 Files.File class>>#retryWithGC:until:forFileNamed:
+Files.File>>#atEnd
 Files.File>>#basicOpenForWrite:
+Files.File>>#close
+Files.File>>#closed
 Files.File>>#delete
 Files.File>>#exists
+Files.File>>#flush
 Files.File>>#name
 Files.File>>#named:
+Files.File>>#open
 Files.File>>#openForAppend
 Files.File>>#openForRead
 Files.File>>#openForWrite
 Files.File>>#openForWrite:
+Files.File>>#openOnHandle:name:forWrite:
+Files.File>>#position
+Files.File>>#position:
 Files.File>>#primAtEnd:
 Files.File>>#primClose:
 Files.File>>#primCloseNoError:
+Files.File>>#primFlush:
 Files.File>>#primGetPosition:
 Files.File>>#primRead:into:startingAt:count:
 Files.File>>#primSetPosition:to:
@@ -70,13 +99,26 @@ Files.File>>#primSize:
 Files.File>>#primSizeNoError:
 Files.File>>#primTruncate:to:
 Files.File>>#primWrite:from:startingAt:count:
+Files.File>>#read:
+Files.File>>#read:into:startingAt:
+Files.File>>#readInto:startingAt:count:
 Files.File>>#readStream
 Files.File>>#readStreamDo:
+Files.File>>#register
+Files.File>>#seekAbsolute:
+Files.File>>#seekRelative:
+Files.File>>#size
+Files.File>>#truncate
+Files.File>>#truncate:
+Files.File>>#write:
+Files.File>>#writeAll:
+Files.File>>#writeAmount:from:startingAt:
 Files.File>>#writeStream
 Files.File>>#writeStreamDo:
 Files.Stdio class>>#standardIOStreamNamed:forWrite:
 Files.Stdio class>>#stderr
 Files.StdioStream>>#next:
+Files.StdioStream>>#onPositionDo:
 FuelTests.FLUserGuidesTest>>#testConsiderGlobal
 FuelTests.FLUserGuidesTest>>#testFileStream
 FuelTests.FLUserGuidesTest>>#testGZip
@@ -88,4 +130,5 @@ Multilingual-Tests.MultiByteFileStreamTest>>#writeChunkToFile
 Rubric.RubSmalltalkScriptingMode>>#interactive
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50273
+ScriptLoader50.ScriptLoader>>#update50273
 ScriptLoader50.ScriptLoader>>#update50274

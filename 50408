@@ -10,6 +10,7 @@ Refactoring-Core.RBMoveMethodRefactoring>>#getClassForGlobalOrClassVariable
 RingChunkImporter.RingChunkImporter>>#removedMethod:with:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50407
+ScriptLoader50.ScriptLoader>>#update50407
 ScriptLoader50.ScriptLoader>>#update50408
 Traits.TClass>>#private_subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Traits.TClass>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

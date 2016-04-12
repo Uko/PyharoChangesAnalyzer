@@ -19,4 +19,5 @@ Rubric.RubSmalltalkEditor>>#selectedSelector
 Rubric.RubTextSegmentMorph>>#registerTextArea
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50433
+ScriptLoader50.ScriptLoader>>#update50433
 ScriptLoader50.ScriptLoader>>#update50434

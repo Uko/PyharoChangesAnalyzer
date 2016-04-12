@@ -1,5 +1,8 @@
 ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version1181:
+Nautilus.AbstractNautilusUI class>>#shiftedSourceCodeMenu:
+Nautilus.AbstractNautilusUI class>>#sourceCodeMenu:
+Nautilus.AbstractNautilusUI class>>#sourceCodeMenuExtra:
 Nautilus.AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
 Nautilus.AbstractNautilusUI>>#sourceCodeMenu:shifted:
 NautilusRefactoring.NautilusRefactoring class>>#sourceCodeRefactoringMenuHolder:
@@ -9,6 +12,7 @@ NautilusRefactoring.TClassDescription>>#sourceCodeRefactoringMenu:
 Rubric.RubScrolledTextModel>>#clearUndoManager
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50249
+ScriptLoader50.ScriptLoader>>#update50249
 ScriptLoader50.ScriptLoader>>#update50250
 Spec-Core.TextModel>>#beForCode
 Spec-Core.TextModel>>#beForText

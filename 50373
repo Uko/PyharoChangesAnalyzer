@@ -1,4 +1,9 @@
 Nautilus.Nautilus>>#packagesWithoutExtensions
+NautilusCommon.RBBrowserEnvironment>>#packagesWithoutExtensions
+NautilusCommon.RBBrowserEnvironmentWrapper>>#packagesWithoutExtensions
+NautilusCommon.RGClassDescriptionDefinition>>#packagesWithoutExtensions
+RPackage-Core.RPackageOrganizer>>#packagesWithoutExtensions
+RPackage-Core.TClassDescription>>#packagesWithoutExtensions
 Refactoring-Critics.RBMultiEnvironment>>#packages
 Refactoring-Environment.RBAndEnvironment>>#classes
 Refactoring-Environment.RBAndEnvironment>>#packages
@@ -28,5 +33,6 @@ Reflectivity.ReflectiveMethod>>#installCompiledMethod
 Rubric.RubSmalltalkEditor>>#selectedSelector
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50372
+ScriptLoader50.ScriptLoader>>#update50372
 ScriptLoader50.ScriptLoader>>#update50373
 Text-Edition.SmalltalkEditor>>#selectedSelector

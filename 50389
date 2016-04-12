@@ -1,5 +1,6 @@
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptor>>#strongSelectionChanged:
 Morphic-Widgets-FastTable.FTStrongSelectionChanged
+Morphic-Widgets-FastTable.FTStrongSelectionChanged class>>#rowIndex:
 Morphic-Widgets-FastTable.FTStrongSelectionChanged class>>#rowIndex:event:
 Morphic-Widgets-FastTable.FTStrongSelectionChanged>>#event
 Morphic-Widgets-FastTable.FTStrongSelectionChanged>>#event:
@@ -48,4 +49,5 @@ Rubric.RubFloatingEditorBuilder>>#openEditorWithContents:thenDo:
 Rubric.RubScrolledTextMorph>>#selectAll
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50388
+ScriptLoader50.ScriptLoader>>#update50388
 ScriptLoader50.ScriptLoader>>#update50389

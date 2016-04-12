@@ -1,4 +1,5 @@
 FreeType.FT2Handle class>>#initialize
+FreeType.FT2Handle class>>#shutDown:
 FreeType.FT2Handle class>>#startUp:
 Monticello.MCFileBasedRepository>>#loadNotCachedVersionFromFileNamed:
 Monticello.MCFileBasedRepository>>#updateCachedVersionFromFileName:with:
@@ -7,6 +8,7 @@ Monticello.MCFileBasedRepository>>#versionFromRepositoryFromFileNamed:
 Monticello.MCFileBasedRepository>>#versionWithInfo:ifAbsent:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50090
+ScriptLoader50.ScriptLoader>>#update50090
 ScriptLoader50.ScriptLoader>>#update50091
 Tool-Base.PharoShortcuts>>#acceptShortcut
 Tool-Base.PharoShortcuts>>#argAdvanceShortcut

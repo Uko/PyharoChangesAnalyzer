@@ -1,5 +1,7 @@
 Kernel.Object>>#hasBindingOf:
 Monticello.MCMczReader>>#contentsForMember:
+ProfStef-Core.LessonView>>#hasBindingOf:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50439
+ScriptLoader50.ScriptLoader>>#update50439
 ScriptLoader50.ScriptLoader>>#update50440

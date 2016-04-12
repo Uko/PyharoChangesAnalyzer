@@ -3,5 +3,7 @@ Kernel-Tests.ClassTest>>#testClassRespectsPolymorphismWithTrait
 Monticello.MCPackageManager class>>#registerInterestOnSystemChangesOnAnnouncer:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50459
+ScriptLoader50.ScriptLoader>>#update50459
 ScriptLoader50.ScriptLoader>>#update50460
 System-Settings.Class>>#acceptSettings:
+Traits.Trait>>#subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

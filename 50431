@@ -13,6 +13,7 @@ OpalCompiler-Tests.MustBeBooleanTests>>#testDNU
 Reflectivity.ReflectiveMethod>>#generatePrimitiveWrapper
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50430
+ScriptLoader50.ScriptLoader>>#update50430
 ScriptLoader50.ScriptLoader>>#update50431
 Spec-Core.TreeModel
 Spec-Core.TreeModel class>>#exampleOfAutoRefreshOnExpand

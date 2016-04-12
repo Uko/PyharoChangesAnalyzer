@@ -1,10 +1,15 @@
+Collections-Abstract.ArrayedCollection class>>#newFromStream:
 Deprecated50.FileList class>>#registerFileReader
 Deprecated50.FileServices class>>#registerFileReader
 Files.ManifestFiles class>>#manuallyResolvedDependencies
 Multilingual-Encodings.Unicode class>>#value:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50274
+ScriptLoader50.ScriptLoader>>#update50274
 ScriptLoader50.ScriptLoader>>#update50275
+System-Localization-Tests.LocaleAnnouncementTests>>#testLocaleChangeAnnouncement
+System-Localization-Tests.LocaleIDTest>>#testCurrent
+System-Localization-Tests.LocaleTest>>#testAccessLocaleID
 System-Localization.Locale class>>#current
 System-Localization.Locale>>#country
 System-Localization.Locale>>#encoder

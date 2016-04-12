@@ -62,11 +62,15 @@ ProfStef-Core.PharoSyntaxTutorial>>#reflection
 ProfStef-Core.PharoSyntaxTutorial>>#reflectionContinued
 ProfStef-Core.PharoSyntaxTutorial>>#theEnd
 ProfStef-Core.PharoSyntaxTutorial>>#welcome
+ProfStef-Core.PharoTutorial
+ProfStef-Core.PharoTutorial class>>#aboutPharoZen
 ProfStef-Core.PharoTutorial class>>#contents
+ProfStef-Core.PharoTutorial class>>#default
 ProfStef-Core.PharoTutorial class>>#first
 ProfStef-Core.PharoTutorial class>>#go
 ProfStef-Core.PharoTutorial class>>#goOn:
 ProfStef-Core.PharoTutorial class>>#last
+ProfStef-Core.PharoTutorial class>>#menuCommandOn:
 ProfStef-Core.PharoTutorial class>>#next
 ProfStef-Core.PharoTutorial class>>#openPharoZenWorkspace
 ProfStef-Core.PharoTutorial class>>#pharoZenValues
@@ -112,5 +116,6 @@ ProfStef-Tests.PharoTutorialTestGoOnMockTutorial>>#testNextShouldGoToSecondLesso
 ProfStef-Tests.PharoTutorialTestNavigation>>#setUp
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50165
+ScriptLoader50.ScriptLoader>>#update50165
 ScriptLoader50.ScriptLoader>>#update50166
 Tool-ExternalBrowser.ExternalChangesBrowser>>#initializePresenter

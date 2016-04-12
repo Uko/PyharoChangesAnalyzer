@@ -5,6 +5,7 @@ Reflectivity.RFASTTranslator>>#visitVariableValue:
 Reflectivity.RFSemanticAnalyzer>>#visitVariableNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50332
+ScriptLoader50.ScriptLoader>>#update50332
 ScriptLoader50.ScriptLoader>>#update50333
 Slot.LiteralVariable>>#isGlobal
 Slot.LiteralVariable>>#propertyAt:put:

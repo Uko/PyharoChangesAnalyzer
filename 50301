@@ -134,4 +134,5 @@ MorphicTests.WindowAnnouncementTest>>#testWindowCreationAndDeletion
 MorphicTests.WindowAnnouncementTest>>#testWindowLabelling
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50300
+ScriptLoader50.ScriptLoader>>#update50300
 ScriptLoader50.ScriptLoader>>#update50301

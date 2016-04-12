@@ -39,4 +39,5 @@ Rubric.RubExtraSelectionDecorator>>#draw
 Rubric.RubSmalltalkEditor>>#modelCurrentSelectedClass
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50483
+ScriptLoader50.ScriptLoader>>#update50483
 ScriptLoader50.ScriptLoader>>#update50484

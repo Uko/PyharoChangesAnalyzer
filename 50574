@@ -3,6 +3,7 @@ ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#version11:
 Kernel-Tests.BlockClosureTest>>#testTallyInstructions
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50573
+ScriptLoader50.ScriptLoader>>#update50573
 ScriptLoader50.ScriptLoader>>#update50574
 System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#assertHandledId:equals:
 System-SessionManager-Tests.SessionManagerRegistrationOrderTest>>#testCategoriesPriorityOrder
@@ -17,6 +18,7 @@ System-SessionManager-Tests.SessionManagerRegistrationTest>>#testGivenManyRegist
 System-SessionManager-Tests.SessionManagerRegistrationTest>>#testGivenManyRegistrationsInSameCategoryAtDifferentPriorityShoudlAClassBePresentOnlyOnceInStartupList
 System-SessionManager-Tests.SessionManagerRegistrationTest>>#testGivenManyRegistrationsInSameCategoryShoudlAClassBePresentOnlyOnceInStartupList
 System-SessionManager.SessionCategory>>#renamedClass:from:to:
+System-SessionManager.SessionCategory>>#unregisterClassNamed:
 System-SessionManager.SessionCategory>>#unregisterHandler:
 System-SessionManager.SessionManager class>>#initializedSessionManager
 System-SessionManager.SessionManager>>#register:inCategory:atPriority:
@@ -24,3 +26,4 @@ System-SessionManager.SessionManager>>#renamedClass:from:to:
 System-SessionManager.SessionManager>>#unregisterClassNamed:
 System-SessionManager.SessionManager>>#unregisterHandler:
 System-SessionManager.StartupUIManager>>#inform:
+System-SessionManager.UIManagerSessionHandler class>>#release

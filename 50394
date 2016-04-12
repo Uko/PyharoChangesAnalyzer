@@ -8,6 +8,7 @@ Morphic-Widgets-Windows.CornerGripMorph
 Morphic-Widgets-Windows.EdgeGripMorph
 Morphic-Widgets-Windows.ProportionalSplitterMorph
 Morphic-Widgets-Windows.StandardWindow>>#flash
+Morphic-Widgets-Windows.SystemWindow>>#aboutToBeGrabbedBy:
 Morphic-Widgets-Windows.SystemWindow>>#activate
 Morphic-Widgets-Windows.SystemWindow>>#activatedModalChild
 Morphic-Widgets-Windows.SystemWindow>>#addPaneSplittersIfNeeded
@@ -23,12 +24,15 @@ Morphic-Widgets-Windows.TopLeftGripMorph
 Morphic-Widgets-Windows.TopRightGripMorph
 Morphic-Widgets-Windows.WindowDeActivated
 Morphic-Widgets-Windows.WindowEdgeGripMorph
+Polymorph-Widgets.SystemWindow>>#activate
 Polymorph-Widgets.SystemWindow>>#basicActivate
 Polymorph-Widgets.SystemWindow>>#configureForUnembedding
 Polymorph-Widgets.SystemWindow>>#modalLockTo:
+Polymorph-Widgets.SystemWindow>>#mouseMove:
 Refactoring-Environment.RBBrowserEnvironmentWrapper>>#packageNames
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50393
+ScriptLoader50.ScriptLoader>>#update50393
 ScriptLoader50.ScriptLoader>>#update50394
 Tool-FileList.FileDialogWindow>>#cache:
 Tool-FileList.FileDialogWindow>>#dirEntriesOrEmptyListFor:

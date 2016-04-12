@@ -16,4 +16,5 @@ OpalCompiler-Tests.OCCompileWithFailureTest
 OpalCompiler-Tests.OCCompileWithFailureTest>>#testEvalSimpleMethodWithError
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50043
+ScriptLoader50.ScriptLoader>>#update50043
 ScriptLoader50.ScriptLoader>>#update50044

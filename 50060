@@ -1,3 +1,10 @@
+Graphics-Fonts.FontSet class>>#compileFont:
+Graphics-Fonts.FontSet class>>#convertFontsNamed:
+Graphics-Fonts.FontSet class>>#convertFontsNamed:inDirectoryNamed:
+Graphics-Fonts.FontSet class>>#convertTextStyleNamed:
+Graphics-Fonts.StrikeFont class>>#convertFontsNamed:
+Graphics-Fonts.StrikeFont>>#writeAsStrike2On:
+Graphics-Fonts.StrikeFont>>#writeAsStrike2named:
 Reflectivity-Tests.HookGeneratorTest>>#testConditionWithArguments
 Reflectivity.BlockClosure>>#valueSelector
 Reflectivity.Boolean>>#valueSelector
@@ -7,7 +14,11 @@ Reflectivity.ManifestReflectivity>>#ruleRBBadMessageRuleV1FalsePositive
 Reflectivity.RFCondition>>#valueSelector
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50059
+ScriptLoader50.ScriptLoader>>#update50059
 ScriptLoader50.ScriptLoader>>#update50060
+SmartSuggestions.AbstractTool>>#browseAllAccessesTo:from:
+SmartSuggestions.AbstractTool>>#browseSendersOf:name:autoSelect:
+SmartSuggestions.SugsAbstractContext>>#tools
 SmartSuggestions.SugsAccessesToInstVar>>#execute
 SmartSuggestions.SugsBrowseClassReferences>>#execute
 SmartSuggestions.SugsFindImplementors>>#execute

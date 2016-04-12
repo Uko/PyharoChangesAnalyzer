@@ -1,6 +1,8 @@
+Collections-Strings.String>>#adaptToNumber:andSend:
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#version010:
 Morphic-Widgets-FastTable.FTTableMorph>>#initializeKeyBindings
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50574
+ScriptLoader50.ScriptLoader>>#update50574
 ScriptLoader50.ScriptLoader>>#update50575

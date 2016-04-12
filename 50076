@@ -7,4 +7,5 @@ Glamour-Core.Win32Platform>>#menuShortcutModifierString
 Morphic-Base.MenuItemMorph>>#activateOwnerMenu:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50075
+ScriptLoader50.ScriptLoader>>#update50075
 ScriptLoader50.ScriptLoader>>#update50076

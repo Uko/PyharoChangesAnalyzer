@@ -1,27 +1,82 @@
 Nautilus-GroupManager.AGroupContentHasBeenModified
+Nautilus-GroupManager.AbstractGroup
 Nautilus-GroupManager.AbstractGroup class>>#cleanUp
 Nautilus-GroupManager.AbstractGroup class>>#named:
+Nautilus-GroupManager.AbstractGroup class>>#new
 Nautilus-GroupManager.AbstractGroup class>>#unsubscribeExistingGroups
 Nautilus-GroupManager.AbstractGroup>>#beReadOnly
+Nautilus-GroupManager.AbstractGroup>>#blocks
+Nautilus-GroupManager.AbstractGroup>>#classRemoved:
 Nautilus-GroupManager.AbstractGroup>>#classes
 Nautilus-GroupManager.AbstractGroup>>#elements
+Nautilus-GroupManager.AbstractGroup>>#hasClassNamed:
 Nautilus-GroupManager.AbstractGroup>>#ifAllowed:
 Nautilus-GroupManager.AbstractGroup>>#ifAllowed:ifNot:
+Nautilus-GroupManager.AbstractGroup>>#initialize
 Nautilus-GroupManager.AbstractGroup>>#isFillable
 Nautilus-GroupManager.AbstractGroup>>#isFillable:
 Nautilus-GroupManager.AbstractGroup>>#isReadOnly
+Nautilus-GroupManager.AbstractGroup>>#methodModified:
+Nautilus-GroupManager.AbstractGroup>>#methodRemoved:
+Nautilus-GroupManager.AbstractGroup>>#methods
+Nautilus-GroupManager.AbstractGroup>>#methodsFor:
+Nautilus-GroupManager.AbstractGroup>>#methodsFor:categorised:
 Nautilus-GroupManager.AbstractGroup>>#name
 Nautilus-GroupManager.AbstractGroup>>#name:
 Nautilus-GroupManager.AbstractGroup>>#packages
+Nautilus-GroupManager.AbstractGroup>>#printOn:
+Nautilus-GroupManager.AbstractGroup>>#protocolsFor:
+Nautilus-GroupManager.AbstractGroup>>#registerToAnnouncements
+Nautilus-GroupManager.AbstractGroup>>#registerToClassAnnouncements
+Nautilus-GroupManager.AbstractGroup>>#registerToMethodAnnouncements
 Nautilus-GroupManager.AbstractGroup>>#removable
 Nautilus-GroupManager.AbstractGroup>>#removable:
+Nautilus-GroupManager.AbstractGroup>>#sortBlock
+Nautilus-GroupManager.AbstractGroup>>#sortBlock:
+Nautilus-GroupManager.DynamicClassGroup
+Nautilus-GroupManager.DynamicClassGroup>>#addClasses:
+Nautilus-GroupManager.DynamicClassGroup>>#classRemoved:
+Nautilus-GroupManager.DynamicClassGroup>>#classes
+Nautilus-GroupManager.DynamicClassGroup>>#hasClassNamed:
+Nautilus-GroupManager.DynamicClassGroup>>#methodModified:
+Nautilus-GroupManager.DynamicClassGroup>>#methodRemoved:
+Nautilus-GroupManager.DynamicClassGroup>>#methods
+Nautilus-GroupManager.DynamicClassGroup>>#methodsFor:
+Nautilus-GroupManager.DynamicClassGroup>>#methodsFor:categorised:
 Nautilus-GroupManager.DynamicClassGroup>>#protocolsFor:
+Nautilus-GroupManager.DynamicGroup
+Nautilus-GroupManager.DynamicGroup class>>#named:block:
+Nautilus-GroupManager.DynamicGroup class>>#named:blocks:
+Nautilus-GroupManager.DynamicGroup>>#addAll:
+Nautilus-GroupManager.DynamicGroup>>#addBlock:
+Nautilus-GroupManager.DynamicGroup>>#addClass:
+Nautilus-GroupManager.DynamicGroup>>#addClasses:
+Nautilus-GroupManager.DynamicGroup>>#block:
+Nautilus-GroupManager.DynamicGroup>>#blocks
+Nautilus-GroupManager.DynamicGroup>>#blocks:
+Nautilus-GroupManager.DynamicGroup>>#classRemoved:
+Nautilus-GroupManager.DynamicGroup>>#classes
+Nautilus-GroupManager.DynamicGroup>>#elements
+Nautilus-GroupManager.DynamicGroup>>#hasClassNamed:
+Nautilus-GroupManager.DynamicGroup>>#initialize
+Nautilus-GroupManager.DynamicGroup>>#merge:
+Nautilus-GroupManager.DynamicGroup>>#methodModified:
+Nautilus-GroupManager.DynamicGroup>>#methodRemoved:
+Nautilus-GroupManager.DynamicGroup>>#removeClass:
 Nautilus-GroupManager.Group
 Nautilus-GroupManager.Group class>>#new
 Nautilus-GroupManager.Group>>#addClass:
 Nautilus-GroupManager.Group>>#hasClassNamed:
 Nautilus-GroupManager.Group>>#initialize
 Nautilus-GroupManager.Group>>#printOn:
+Nautilus-GroupManager.GroupHolder>>#addADynamicClassGroupNamed:block:
+Nautilus-GroupManager.GroupHolder>>#addADynamicClassGroupNamed:blocks:
+Nautilus-GroupManager.GroupHolder>>#addADynamicClassGroupSilentlyNamed:block:
+Nautilus-GroupManager.GroupHolder>>#addADynamicClassGroupSilentlyNamed:blocks:
+Nautilus-GroupManager.GroupHolder>>#addADynamicGroupNamed:block:
+Nautilus-GroupManager.GroupHolder>>#addADynamicGroupNamed:blocks:
+Nautilus-GroupManager.GroupHolder>>#addADynamicGroupSilentlyNamed:block:
+Nautilus-GroupManager.GroupHolder>>#addADynamicGroupSilentlyNamed:blocks:
 Nautilus-GroupManager.GroupHolder>>#addAMethodGroupSilentlyNamed:methods:
 Nautilus-GroupManager.GroupHolder>>#addAPackageGroupSilentlyNamed:packages:
 Nautilus-GroupManager.GroupHolder>>#addAnEmptyDynamicGroupNamed:
@@ -75,6 +130,9 @@ Nautilus-GroupManagerUI.DialogGroupManagerUI>>#selectedNode
 Nautilus-GroupManagerUI.DialogGroupManagerUI>>#setSelectedNodeItem:
 Nautilus-GroupManagerUI.DialogGroupManagerUI>>#text
 Nautilus-GroupManagerUI.DialogGroupManagerUI>>#textModel
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#treeBox
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#treeModel
+Nautilus-GroupManagerUI.DialogGroupManagerUI>>#treeModelClass
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#addSelectedPackageInSelectedGroup
 Nautilus-GroupManagerUI.DialogGroupManagerWithPackagesSelectionUI>>#buildAddButton
@@ -147,6 +205,7 @@ Nautilus-GroupManagerUI.PackageCreatorTreeModel>>#selectedElements
 Nautilus-GroupManagerUI.PackageCreatorTreeModel>>#selectedElements:
 Nautilus-GroupManagerUI.PackageCreatorTreeModel>>#wantsDroppedMorph:event:inMorph:
 Nautilus.AbstractGroup>>#asNautilusItemPath
+Nautilus.AbstractGroup>>#asNautilusSelection
 Nautilus.AbstractGroup>>#categoryName
 Nautilus.AbstractNautilusUI
 Nautilus.AbstractNautilusUI class>>#buildAddShortcutsOn:
@@ -172,6 +231,7 @@ Nautilus.AbstractNautilusUI>>#removeFromGroupPackages:
 Nautilus.AbstractNautilusUI>>#removeGroups
 Nautilus.CategoryWidget class>>#buildProtocolShortcutsOn:
 Nautilus.CategoryWidget class>>#categoriesMenu:
+Nautilus.DynamicGroup>>#withClassesIn:createHierarchySorter:
 Nautilus.Group>>#asNautilusSelection
 Nautilus.ManifestNautilus class>>#ruleRBClassNotReferencedRuleV1FalsePositive
 Nautilus.MethodWidget class>>#buildMethodShortcutsOn:
@@ -212,4 +272,11 @@ Nautilus.PackageWidget>>#buildPackagesList
 Nautilus.PackageWidget>>#doubleClick
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50207
+ScriptLoader50.ScriptLoader>>#update50207
 ScriptLoader50.ScriptLoader>>#update50208
+Tool-Base.AbstractTool class>>#groupBlockFor:
+Tool-Base.AbstractTool>>#addPackagesAsGroup:
+Tool-Base.AbstractTool>>#addPackagesAsGroup:named:
+Tool-Base.AbstractTool>>#addPackagesAsGroups:
+Tool-Base.AbstractTool>>#alertGroupExisting:
+Tool-Base.AbstractTool>>#mergeGroups:

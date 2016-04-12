@@ -1,0 +1,28 @@
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50638
+ScriptLoader50.ScriptLoader>>#update50638
+ScriptLoader50.ScriptLoader>>#update50639
+System-Support.Session
+System-Support.Session class>>#current
+System-Support.Session class>>#reset
+System-Support.Session>>#age
+System-Support.Session>>#creationTime
+System-Support.Session>>#initialize
+System-Support.Session>>#sid
+System-Support.SmalltalkImage
+System-Support.SmalltalkImage class>>#initialize
+System-Support.SmalltalkImage class>>#initializeShutDownList
+System-Support.SmalltalkImage class>>#initializeStartUpList
+System-Support.SmalltalkImage class>>#release
+System-Support.SmalltalkImage>>#executeDeferredStartupActions:
+System-Support.SmalltalkImage>>#handleStartupErrors:
+System-Support.SmalltalkImage>>#logStartUpErrorDuring:into:tryDebugger:
+System-Support.SmalltalkImage>>#logStartupError:into:tryDebugger:
+System-Support.SmalltalkImage>>#processShutDownList:
+System-Support.SmalltalkImage>>#processStartUpList:
+System-Support.SmalltalkImage>>#renamedClass:from:to:
+System-Support.SmalltalkImage>>#send:toClassesNamedIn:with:
+System-Support.SmalltalkImage>>#shutDownImage:
+System-Support.SmalltalkImage>>#snapshot:andQuit:
+System-Support.SmalltalkImage>>#startupImage:snapshotWorked:
+Tests.OSPlatformTest>>#testStartUpList

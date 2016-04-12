@@ -8,6 +8,7 @@ Reflectivity-Tests.ReflectivityControlTest>>#testInsteadMethod
 Reflectivity.RFASTTranslator>>#visitMethodNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50298
+ScriptLoader50.ScriptLoader>>#update50298
 ScriptLoader50.ScriptLoader>>#update50299
 SmartSuggestions.SugsNautilusContext>>#contentSelection
 SmartSuggestions.SugsNautilusContext>>#flashSourceCodeArea

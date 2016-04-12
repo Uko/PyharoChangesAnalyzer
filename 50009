@@ -4,4 +4,5 @@ Monticello.MCVersionInfo>>#initializeWithName:id:message:date:time:author:ancest
 MonticelloGUI.MCFileRepositoryInspector>>#selectedPackageAncestors
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script617
+ScriptLoader50.ScriptLoader>>#update50008
 ScriptLoader50.ScriptLoader>>#update50009

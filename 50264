@@ -11,6 +11,7 @@ Rubric.RubTextAreaExamples class>>#textFieldWithCRAction
 Rubric.RubTextFieldExample>>#newScrolledText
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50263
+ScriptLoader50.ScriptLoader>>#update50263
 ScriptLoader50.ScriptLoader>>#update50264
 Slot.TemporaryVariable
 Slot.TemporaryVariable class>>#initialize

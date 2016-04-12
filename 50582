@@ -10,6 +10,7 @@ Athens-Cairo.CairoFontMetricsProvider>>#glyphsOf:
 Athens-Cairo.CairoFontMetricsProvider>>#glyphsOf:from:to:
 Athens-Cairo.CairoFreetypeFontRenderer>>#applyKerningOn:of:from:to:
 Athens-Cairo.CairoFreetypeFontRenderer>>#glyphsOf:from:to:
+Athens-Cairo.TCairoLibrary class>>#nbLibraryNameOrHandle
 Athens-Core.AthensPathBuilder>>#string:font:
 Athens-Core.AthensShadowPaint
 Athens-Core.AthensShadowPaint>>#asStrokePaintOn:
@@ -34,4 +35,5 @@ Morphic-Core.MorphExtension>>#cornerStyle
 Morphic-Tests.RenderBugsTest>>#testNilExtensionOnDraw
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50581
+ScriptLoader50.ScriptLoader>>#update50581
 ScriptLoader50.ScriptLoader>>#update50582

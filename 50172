@@ -20,4 +20,5 @@ NativeBoost-Tests.NBBufferWithOffsetTests>>#readByte:
 NativeBoost-Tests.NBBufferWithOffsetTests>>#testConversionWorks
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50171
+ScriptLoader50.ScriptLoader>>#update50171
 ScriptLoader50.ScriptLoader>>#update50172

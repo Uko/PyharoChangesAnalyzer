@@ -1,4 +1,7 @@
 NautilusCommon.NautilusPluginManager>>#pluginClassesSelectedIndex:
+Reflectivity-Examples.CoverageStyler
+Reflectivity-Examples.CoverageStyler>>#addStyle:attribute:forNode:
+Reflectivity-Examples.CoverageStyler>>#addStyle:forNode:
 Reflectivity-Examples.ExecutionDisplayMorph
 Reflectivity-Examples.ExecutionDisplayMorph>>#noteExecuted
 Reflectivity-Examples.ExecutionDisplayMorph>>#noteExecution
@@ -26,5 +29,6 @@ Reflectivity.MetaLink>>#optionMetalevel
 Reflectivity.MetaLink>>#optionMetalevel:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50358
+ScriptLoader50.ScriptLoader>>#update50358
 ScriptLoader50.ScriptLoader>>#update50359
 Slot.MorphSlot>>#write:to:

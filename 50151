@@ -1,3 +1,10 @@
+Reflectivity-Tests.HookGeneratorTest
+Reflectivity-Tests.HookGeneratorTest>>#testConditionWithArguments
+Reflectivity-Tests.HookGeneratorTest>>#testHaltHook
+Reflectivity-Tests.HookGeneratorTest>>#testHookWithArguments
+Reflectivity-Tests.HookGeneratorTest>>#testHookWithVirtualMeta
+Reflectivity.HookGenerator
+Reflectivity.HookGenerator class>>#node:link:
 Reflectivity.HookGenerator2
 Reflectivity.HookGenerator2 class>>#node:
 Reflectivity.HookGenerator2>>#afterHooks
@@ -10,10 +17,19 @@ Reflectivity.HookGenerator2>>#links
 Reflectivity.HookGenerator2>>#preamble
 Reflectivity.HookGenerator2>>#wrapInContext:link:
 Reflectivity.HookGenerator>>#encloseInBlock:
+Reflectivity.HookGenerator>>#hook
+Reflectivity.HookGenerator>>#link
+Reflectivity.HookGenerator>>#link:
 Reflectivity.HookGenerator>>#node:link:
 Reflectivity.HookGenerator>>#plugins
+Reflectivity.HookGenerator>>#preamble
 Reflectivity.HookGenerator>>#selectorForNode
+Reflectivity.HookGenerator>>#setupTable
+Reflectivity.HookGenerator>>#table
 Reflectivity.HookGenerator>>#wrapCondition:
+Reflectivity.HookGenerator>>#wrapInContext:
+Reflectivity.MetaLink>>#hookOn:
+Reflectivity.MetaLink>>#preambleOn:
 Reflectivity.RBProgramNode>>#afterHooks
 Reflectivity.RBProgramNode>>#beforeHooks
 Reflectivity.RBProgramNode>>#preambles
@@ -21,4 +37,5 @@ Reflectivity.RFASTTranslator>>#emitMetaLinkInstead:
 Reflectivity.RFSemanticAnalyzer>>#analyseForLinks:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50150
+ScriptLoader50.ScriptLoader>>#update50150
 ScriptLoader50.ScriptLoader>>#update50151

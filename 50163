@@ -11,6 +11,7 @@ Reflectivity.RBProgramNode>>#tagExecuted
 Reflectivity.ReflectiveMethod>>#installCompiledMethod
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50162
+ScriptLoader50.ScriptLoader>>#update50162
 ScriptLoader50.ScriptLoader>>#update50163
 SmartSuggestions-Tests.SugsContextTest>>#testTetModelIsAValidContext
 Spec-Core.ComposableModel>>#newCode

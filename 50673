@@ -1,0 +1,24 @@
+Athens-Cairo.AthensCairoCanvas>>#primSetDashesLengths:count:offset:
+Athens-Cairo.AthensCairoCanvas>>#primSetLineCap:
+Athens-Cairo.AthensCairoCanvas>>#primSetLineJoin:
+Athens-Cairo.AthensCairoCanvas>>#primSetLineWidth:
+Athens-Cairo.AthensCairoCanvas>>#primSetSource:
+Athens-Cairo.AthensCairoMatrix>>#translateBy:
+Athens-Cairo.AthensCairoPatternPaint>>#athensLoadOn:
+Athens-Cairo.AthensCairoPatternPaint>>#loadOnCairoCanvas:
+Athens-Cairo.AthensCairoPatternPaint>>#primSetSourceOn:
+Athens-Cairo.AthensCairoStrokePaint>>#prepareForDrawingOn:
+Athens-Cairo.AthensCairoStrokePaint>>#setDashesOn:
+Athens-Cairo.AthensCairoSurface class>>#ffiLibraryName
+Athens-Cairo.TCairoLibrary class>>#nbLibraryNameOrHandle
+ConfigurationOfAthens.ConfigurationOfAthens>>#stable:
+ConfigurationOfAthens.ConfigurationOfAthens>>#version391:
+ConfigurationOfAthens.ConfigurationOfAthens>>#version392:
+Metacello-GitBasedRepository.MCGitBasedNetworkRepository class>>#initialize
+Metacello-GitHub.MCGitHubRepository class>>#initialize
+Metacello-GitHub.MCGitHubRepository class>>#release
+Metacello-GitHub.MCGitHubRepository>>#downloadJSONTags
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50672
+ScriptLoader50.ScriptLoader>>#update50672
+ScriptLoader50.ScriptLoader>>#update50673

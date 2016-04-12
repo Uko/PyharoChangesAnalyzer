@@ -2,6 +2,7 @@ ConfigurationOfTxText.ConfigurationOfTxText>>#stable:
 ConfigurationOfTxText.ConfigurationOfTxText>>#version210:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50057
+ScriptLoader50.ScriptLoader>>#update50057
 ScriptLoader50.ScriptLoader>>#update50058
 TxText-Athens.TxApplicationWithToolbar>>#openWithSpec
 TxText-Athens.TxAthensLayout>>#textPositionAt:
@@ -13,8 +14,16 @@ TxText-Model.TxBasicTextPosition>>#selectTo:
 TxText-Model.TxBasicTextPosition>>#timesToMoveRightTo:
 TxText-Model.TxCharacterSpan>>#applyAttribute:from:to:
 TxText-Model.TxModel>>#characterStream
+TxText-Model.TxModel>>#cursor
+TxText-Model.TxModel>>#deleteFrom:to:
+TxText-Model.TxModel>>#mergeFrom:
+TxText-Model.TxModel>>#mergeFrom:to:
 TxText-Model.TxModel>>#newCursor
 TxText-Model.TxModel>>#newSelection
+TxText-Model.TxModel>>#normalize
+TxText-Model.TxModel>>#select
+TxText-Model.TxModel>>#selectAll
+TxText-Model.TxModel>>#selection
 TxText-Model.TxTextPosition>>#linePosition:
 TxText-Styler.OCAbstractMethodScope>>#findVariable:ifNone:
 TxText-Styler.TxTextStyler>>#visitMessageNode:

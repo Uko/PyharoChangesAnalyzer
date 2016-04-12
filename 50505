@@ -3,6 +3,7 @@ Kernel-Tests.BehaviorTest>>#testUncompactClassNotAllowed
 Kernel-Tests.SizeInMemoryTest>>#testSizeInMemoryCompactClasses
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50504
+ScriptLoader50.ScriptLoader>>#update50504
 ScriptLoader50.ScriptLoader>>#update50505
 Traits.TBehavior>>#isEphemeronClass
 Traits.TBehavior>>#isImmediateClass

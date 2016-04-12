@@ -63,9 +63,29 @@ Kernel.Point>>#x
 Kernel.Point>>#y
 Morphic-Base.MenuTitleMorph>>#roundedCorners
 Morphic-Base.MenuTitleMorph>>#wantsRoundedCorners
+Nautilus.AbstractPackageWidget>>#buildContents
+Nautilus.AbstractPackageWidget>>#buildPackagesList
+Nautilus.AbstractPackageWidget>>#deselectAll
+Nautilus.AbstractPackageWidget>>#enabled:
+Nautilus.AbstractPackageWidget>>#hasFocus
+Nautilus.AbstractPackageWidget>>#removeShortcuts:
+Nautilus.AbstractPackageWidget>>#resetGroupsSelection
+Nautilus.AbstractPackageWidget>>#resetPackagesSelection
+Nautilus.AbstractPackageWidget>>#selectGroup:
+Nautilus.AbstractPackageWidget>>#selectPackage:
+Nautilus.AbstractPackageWidget>>#selectedGroup
+Nautilus.AbstractPackageWidget>>#selectedGroups
+Nautilus.AbstractPackageWidget>>#selectedPackage
+Nautilus.AbstractPackageWidget>>#selectedPackageGroup
+Nautilus.AbstractPackageWidget>>#selectedPackages
+Nautilus.AbstractPackageWidget>>#setShortcuts:
+Nautilus.AbstractPackageWidget>>#takeKeyboardFocus
+Nautilus.AbstractPackageWidget>>#updateList
+Nautilus.AbstractPackageWidget>>#updatePackageView
 Nautilus.CategoryWidget class>>#buildProtocolShortcutsOn:
 Nautilus.CategoryWidget class>>#categoriesMenu:
 Nautilus.CategoryWidget>>#categoriesMenu:shifted:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50432
+ScriptLoader50.ScriptLoader>>#update50432
 ScriptLoader50.ScriptLoader>>#update50433

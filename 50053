@@ -1,8 +1,10 @@
 Collections-Strings.Symbol>>#separateKeywords
 Collections-Support.Association class>>#key:value:
+Compiler.EncoderForSistaV1 class>>#isAlternateBytecodeSet
 Compiler.EncoderForSistaV1 class>>#markerOrNilFor:
 Compiler.EncoderForSistaV1 class>>#prepareMethod:forSimulationWith:
 Compiler.EncoderForSistaV1 class>>#sendsToSuperFor:
+Compiler.EncoderForV3PlusClosures class>>#isAlternateBytecodeSet
 Compiler.EncoderForV3PlusClosures class>>#markerOrNilFor:
 Compiler.EncoderForV3PlusClosures class>>#prepareMethod:forSimulationWith:
 Compiler.EncoderForV3PlusClosures class>>#sendsToSuperFor:
@@ -15,7 +17,10 @@ Kernel.Object>>#haltIf:
 Kernel.Object>>#haltIfShiftPressed
 Kernel.Object>>#haltOnCount:
 Kernel.Object>>#haltOnce
+Refactoring-Critics.RBAbstractClassRule>>#checkClass:
 Refactoring-Critics.RBAbstractClassRule>>#checkMethod:
+Refactoring-Critics.RBAbstractClassRule>>#initialize
+Refactoring-Critics.RBAbstractClassRule>>#resultClass
 Refactoring-Critics.RBAbstractClassRule>>#severity
 Refactoring-Critics.RBCodeCruftLeftInMethodsRule>>#addRuleRemoving:
 Refactoring-Critics.RBCodeCruftLeftInMethodsRule>>#debuggingPatterns
@@ -34,4 +39,5 @@ Refactoring-Tests-Critics.RBSmalllintTestObject>>#haltClassMentioned
 Refactoring-Tests-Critics.RBSmalllintTestObject>>#transcriptMentioned
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50052
+ScriptLoader50.ScriptLoader>>#update50052
 ScriptLoader50.ScriptLoader>>#update50053

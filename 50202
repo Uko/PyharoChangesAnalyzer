@@ -5,6 +5,7 @@ Nautilus.AbstractNautilusUI>>#browseClass:
 Nautilus.AbstractNautilusUI>>#buildBrowseScopedMorph
 Nautilus.AbstractNautilusUI>>#buildBrowseVariablesMorph
 Nautilus.AbstractNautilusUI>>#buildFirstColumn:
+Nautilus.AbstractNautilusUI>>#buildGroupsButton
 Nautilus.AbstractNautilusUI>>#classAdded:
 Nautilus.AbstractNautilusUI>>#classDefinitionModified:
 Nautilus.AbstractNautilusUI>>#classRemoved:
@@ -14,14 +15,23 @@ Nautilus.AbstractNautilusUI>>#createTestForClass:
 Nautilus.AbstractNautilusUI>>#dragPassengersFor:inMorph:
 Nautilus.AbstractNautilusUI>>#dropInAPackage:into:
 Nautilus.AbstractNautilusUI>>#findClass:
+Nautilus.AbstractNautilusUI>>#groupsAreVisible
+Nautilus.AbstractNautilusUI>>#groupsButtonAction
+Nautilus.AbstractNautilusUI>>#groupsButtonLabel
+Nautilus.AbstractNautilusUI>>#groupsButtonState
+Nautilus.AbstractNautilusUI>>#ifGroups:ifNot:
 Nautilus.AbstractNautilusUI>>#loadList
 Nautilus.AbstractNautilusUI>>#packageChanged:
 Nautilus.AbstractNautilusUI>>#packageRegistered:
 Nautilus.AbstractNautilusUI>>#packageRenamed:
 Nautilus.AbstractNautilusUI>>#packageUnregistred:
 Nautilus.AbstractNautilusUI>>#restrictedBrowse
+Nautilus.AbstractNautilusUI>>#showGroups
+Nautilus.AbstractNautilusUI>>#showGroups:
+Nautilus.AbstractNautilusUI>>#showGroupsSilently:
 Nautilus.AbstractNautilusUI>>#showHierarchy:
 Nautilus.AbstractNautilusUI>>#sourceTextModel
+Nautilus.AbstractNautilusUI>>#toggleShowGroups
 Nautilus.AbstractNautilusUI>>#wantsDroppedMorph:event:inMorph:
 Nautilus.CategoryWidget>>#loadCategories
 Nautilus.ManifestNautilus
@@ -34,12 +44,17 @@ Nautilus.Nautilus class>>#openOnClass:inEnvironment:
 Nautilus.Nautilus class>>#openOnClass:onGroup:inEnvironment:
 Nautilus.Nautilus class>>#openOnGroup:inEnvironment:
 Nautilus.Nautilus class>>#openOnMethod:inEnvironment:
+Nautilus.Nautilus class>>#openOnPackage:class:category:method:group:showGroups:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:
+Nautilus.Nautilus class>>#openOnPackage:class:category:method:group:showGroups:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
 Nautilus.Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:
 Nautilus.Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
 Nautilus.Nautilus class>>#openOnPackage:inEnvironment:
 Nautilus.Nautilus>>#setClass:selector:
+Nautilus.Nautilus>>#showGroups
+Nautilus.Nautilus>>#showGroups:
 Nautilus.NautilusAnnotationDisplayer
 Nautilus.NautilusAnnotationDisplayer>>#browseVariableReferences:
+Nautilus.NautilusAnnotationDisplayer>>#browseVariablesMorph
 Nautilus.NautilusAnnotationDisplayer>>#noteNewOwner:
 Nautilus.NautilusAnnotationDisplayer>>#updateContents
 Nautilus.NautilusUI>>#findAllMethod
@@ -56,6 +71,7 @@ Nautilus.PackageTreeNautilusUI>>#fullBrowseFromTag:
 Nautilus.PackageTreeNautilusUI>>#groupsAreVisible
 Nautilus.PackageTreeNautilusUI>>#selectPackageFor:
 Nautilus.PackageTreeNautilusUI>>#selectedPackageWithoutChangingSelection:
+Nautilus.PackageTreeNautilusUI>>#showGroups:
 Nautilus.PackageTreeNautilusUI>>#showHierarchy:
 Nautilus.PackageTreePackageNodeModel>>#asNautilusSelection
 Nautilus.PackageWidget>>#selectedPackageGroup
@@ -63,11 +79,16 @@ NautilusCommon.InformationLinePlugin>>#registerTo:
 NautilusCommon.NautilusHistoryEntry>>#=
 NautilusCommon.NautilusHistoryEntry>>#applyTo:
 NautilusCommon.NautilusHistoryEntry>>#asHistoryString
+NautilusCommon.NautilusHistoryEntry>>#showGroups
+NautilusCommon.NautilusHistoryEntry>>#showGroups:
 NautilusCommon.NautilusHistoryEntry>>#with:
+NautilusCommon.NautilusShowGroupsChanged
 NautilusCommon.URLPlugin>>#buildString
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50201
+ScriptLoader50.ScriptLoader>>#update50201
 ScriptLoader50.ScriptLoader>>#update50202
+SmartSuggestions.SugsAbstractContext>>#selectedStatementsAsText
 SmartSuggestions.SugsAccessesToInstVar>>#execute
 SmartSuggestions.SugsAccessesToInstVar>>#isValidForContext
 SmartSuggestions.SugsAccessesToInstVar>>#label

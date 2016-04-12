@@ -1,3 +1,13 @@
+AST-Core.RBNullFormatter
+AST-Core.RBNullFormatter class>>#formatAsYouReadPolicy
+AST-Core.RBNullFormatter class>>#formatAsYouReadPolicy:
+AST-Core.RBNullFormatter>>#containerWidth:
+AST-Core.RBNullFormatter>>#format:
+AST-Tests-Core.RBFormatterTests
+AST-Tests-Core.RBFormatterTests>>#formatClass:
+AST-Tests-Core.RBFormatterTests>>#formatClass:selector:
+AST-Tests-Core.RBFormatterTests>>#testCoreSystem
+AST-Tests-Core.RBFormatterTests>>#testShouldNotParenthesizeDynamicArrayStatements
 BlueInk-Core.BIConfigurableFormatter
 BlueInk-Core.BIConfigurableFormatter class>>#basicCommentFormat
 BlueInk-Core.BIConfigurableFormatter class>>#basicCommentFormat:
@@ -264,7 +274,11 @@ BlueInk-Core.BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParenthes
 BlueInk-Core.BIPrettyPrinterContext>>#useTraditionalBinaryPrecedenceForParentheses:
 ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version1163:
+ProfStef-Core.PharoSyntaxTutorial>>#initialize
+ProfStef-Core.PharoSyntaxTutorial>>#prepareDebuggerExample
 Rubric.RubAbstractTextArea>>#cancelEdits
+Rubric.RubCanceEditRequested
+Rubric.RubCanceEditRequestedInModel
 Rubric.RubCancelEditRequested
 Rubric.RubCancelEditRequestedInModel
 Rubric.RubScrolledTextModel>>#cancelEdits
@@ -274,5 +288,6 @@ Rubric.RubScrolledTextMorph>>#whenCanceEditRequested:
 Rubric.RubScrolledTextMorph>>#whenCanceEditRequestedInModel:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50198
+ScriptLoader50.ScriptLoader>>#update50198
 ScriptLoader50.ScriptLoader>>#update50199
 Versionner-Tests-Core-Commands.VSReleaseDevelopmentVersionCommandTest>>#expectedTestResolveSymbolicVersionInResult

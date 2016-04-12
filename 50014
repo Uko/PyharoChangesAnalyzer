@@ -14,6 +14,7 @@ ConfigurationOfAthens.ConfigurationOfAthens>>#version34:
 ConfigurationOfTxText.ConfigurationOfTxText>>#version284:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script622
+ScriptLoader50.ScriptLoader>>#update50013
 ScriptLoader50.ScriptLoader>>#update50014
 TxText-Athens.TxAthensCharacterWrappingStrategy>>#visitCharacterSpan:
 TxText-Athens.TxAthensCursor>>#visible:
@@ -27,6 +28,7 @@ TxText-Athens.TxBlockCursor>>#isBlinking
 TxText-Athens.TxLayoutViewMorph class>>#text:
 TxText-Athens.TxLayoutViewMorph>>#containsPoint:
 TxText-Athens.TxLayoutViewMorph>>#drawOnAthensCanvas:
+TxText-Athens.TxLayoutViewMorph>>#handleMouseOver:
 TxText-Athens.TxLayoutViewMorph>>#invalidRect:from:
 TxText-Athens.TxLayoutViewMorph>>#layoutChanged
 TxText-Athens.TxLayoutViewMorph>>#layoutPositionAt:ifOutside:

@@ -4,18 +4,41 @@ Refactoring-Environment.RBCategoryEnvironment>>#packages
 Refactoring-Environment.RBVariableEnvironment>>#packages
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50516
+ScriptLoader50.ScriptLoader>>#update50516
 ScriptLoader50.ScriptLoader>>#update50517
 ShoreLine-Report-Core.SlReportExtractor>>#extract
 ShoreLine-Report-Core.SlReportExtractor>>#extractMetadata
 ShoreLine-Report-Core.SlReportExtractor>>#extractPayload
 ShoreLine-Report-Core.SlReportExtractor>>#extractVersion
+ShoreLine-Report-Core.SlReportMessage
+ShoreLine-Report-Core.SlReportMessage class>>#withMetadata:
+ShoreLine-Report-Core.SlReportMessage class>>#withPayload:
+ShoreLine-Report-Core.SlReportMessage>>#asDictionary
+ShoreLine-Report-Core.SlReportMessage>>#author
+ShoreLine-Report-Core.SlReportMessage>>#author:
+ShoreLine-Report-Core.SlReportMessage>>#auto
+ShoreLine-Report-Core.SlReportMessage>>#auto:
+ShoreLine-Report-Core.SlReportMessage>>#date
+ShoreLine-Report-Core.SlReportMessage>>#date:
+ShoreLine-Report-Core.SlReportMessage>>#metadata
+ShoreLine-Report-Core.SlReportMessage>>#metadata:
+ShoreLine-Report-Core.SlReportMessage>>#payload
+ShoreLine-Report-Core.SlReportMessage>>#payload:
+ShoreLine-Report-Core.SlReportMessage>>#version
+ShoreLine-Report-Core.SlReportMessage>>#version:
 ShoreLine-Report-Core.SlReporter class>>#defaultExtractor
 ShoreLine-Report-Core.SlReporter class>>#mimeType
 ShoreLine-Report-Core.SlReporter>>#serialize:
 ShoreLine-Report-Core.SlReporter>>#serializeFUEL:
 ShoreLine-Report-Core.SlReporter>>#serializeSTON:
+ShoreLine-Report-Core.SlStackTraceReportExtractor
+ShoreLine-Report-Core.SlStackTraceReportExtractor>>#extractPayload
 ShoreLine-Report-UI.SlReportWindow
 ShoreLine-Report-UI.SlReportWindow class>>#defaultSpec
+ShoreLine-Report-UI.SlReportWindow>>#granularity
+ShoreLine-Report-UI.SlReportWindow>>#granularity:
+ShoreLine-Report-UI.SlReportWindow>>#initializeGranularity
 ShoreLine-Report-UI.SlReportWindow>>#initializeWidgets
+ShoreLine-Report-UI.SlReportWindow>>#report
 ShoreLine-Report-UI.SlReportWindow>>#report:
 ShoreLine-Report-UI.SlReportWindow>>#reportSummary

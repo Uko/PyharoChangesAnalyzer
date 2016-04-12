@@ -30,6 +30,7 @@ Morphic-Widgets-FastTable.FTTableMorph>>#mouseUp:
 Morphic-Widgets-FastTable.FTTableMorph>>#selectRowIndex:event:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50366
+ScriptLoader50.ScriptLoader>>#update50366
 ScriptLoader50.ScriptLoader>>#update50367
 System-Support.Author>>#checkAndSetFullNameWith:
 System-Support.Author>>#fullName

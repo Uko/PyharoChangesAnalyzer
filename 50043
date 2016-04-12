@@ -12,6 +12,7 @@ GT-Spotter.GTSpotterMorph>>#initializeListeners
 GT-SpotterExtensions-Core.RPackage>>#spotterActDefault
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script651
+ScriptLoader50.ScriptLoader>>#update50042
 ScriptLoader50.ScriptLoader>>#update50043
 Slot.LiteralVariable>>#emitStore:
 Slot.RelationSlot>>#emitStore:

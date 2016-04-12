@@ -4,6 +4,7 @@ Nautilus.NautilusUI class>>#buildHistoryShortcutsOn:
 RingChunkImporter.RingChunkImporter>>#msgClassComment:with:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50629
+ScriptLoader50.ScriptLoader>>#update50629
 ScriptLoader50.ScriptLoader>>#update50630
 Slot.ClassVariable>>#astNodes
 Slot.GlobalVariable>>#astNodes

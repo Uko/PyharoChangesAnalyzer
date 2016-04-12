@@ -5,4 +5,6 @@ SUnit-Core.ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVaria
 SUnit-Core.ClassFactoryWithOrganization>>#newSubclassOf:instanceVariableNames:classVariableNames:category:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50065
+ScriptLoader50.ScriptLoader>>#update50065
 ScriptLoader50.ScriptLoader>>#update50066
+Slot.OldClassBuilderAdapter>>#name:inEnvironment:subclassOf:type:instanceVariableNames:classVariableNames:poolDictionaries:category:

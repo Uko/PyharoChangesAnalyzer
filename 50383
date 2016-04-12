@@ -1,5 +1,7 @@
 AST-Core.RBScanner>>#scanError:
 Kernel.Integer>>#putOn:
+Nautilus.AbstractNautilusUI>>#buildInitializerFor:
+Nautilus.AbstractNautilusUI>>#createInitializerWithInstVars
 Nautilus.ClassDescription>>#buildAnalyzeSubMenu:
 OpalCompiler-Tests.OCCompilerNotifyingTest>>#testInvalidLiteralCharacter
 Reflectivity.AdditionalMethodState>>#metaLinkOptions
@@ -9,4 +11,7 @@ Reflectivity.MethodDictionary>>#metaLinkOptions
 Reflectivity.SmalltalkImage>>#metaLinkOptions
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50382
+ScriptLoader50.ScriptLoader>>#update50382
 ScriptLoader50.ScriptLoader>>#update50383
+Tool-Base.AbstractTool>>#createInitializerWithInstVarsOf:
+Tool-Base.AbstractTool>>#createInstVarAccessorsOf:

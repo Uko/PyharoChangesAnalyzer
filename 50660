@@ -1,0 +1,15 @@
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_18:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50659
+ScriptLoader50.ScriptLoader>>#update50659
+ScriptLoader50.ScriptLoader>>#update50660
+UnifiedFFI.FFICalloutMethodBuilder>>#createFFICallout
+UnifiedFFI.FFICalloutMethodBuilder>>#createFFICalloutLiteralFromSpec:
+UnifiedFFI.FFICalloutMethodBuilder>>#isIndirectCall
+UnifiedFFI.FFICalloutMethodBuilder>>#makeIndirectCall:
+UnifiedFFI.FFIMethodRegistry
+UnifiedFFI.FFIMethodRegistry class>>#startUp:
+UnifiedFFI.FFIMethodRegistry>>#checkPlatform
+UnifiedFFI.FFIMethodRegistry>>#initialize
+UnifiedFFI.FFIMethodRegistry>>#lastActivePlatform

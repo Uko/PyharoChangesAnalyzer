@@ -1,6 +1,8 @@
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script621
+ScriptLoader50.ScriptLoader>>#update50012
 ScriptLoader50.ScriptLoader>>#update50013
+Shout.SHParserST80 class>>#new
 Shout.SHRBTextStyler>>#addStyle:attribute:from:to:
 Shout.SHRBTextStyler>>#visitMessageNode:
 Shout.SHRBTextStyler>>#visitMethodNode:

@@ -1,0 +1,12 @@
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_5_2:
+QualityAssistant.QASettings>>#initialize
+RPackage-Tests.RPackageReleaseTest
+ReleaseTests.ReleaseTest>>#testRPackageOrganizer
+ReleaseTests.ReleaseTest>>#testThatAllMethodsArePackaged
+ReleaseTests.ReleaseTest>>#testUnpackagedClasses
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50644
+ScriptLoader50.ScriptLoader>>#update50644
+ScriptLoader50.ScriptLoader>>#update50645
+Slot.SlotClassBuilder>>#validateClassName

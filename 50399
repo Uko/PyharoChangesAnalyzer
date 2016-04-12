@@ -4,4 +4,5 @@ Network-Protocols.SMTPClient class>>#deliver:usingServer:
 Refactoring-Critics.RBVariableReferencedOnceRule>>#basicCheck:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50398
+ScriptLoader50.ScriptLoader>>#update50398
 ScriptLoader50.ScriptLoader>>#update50399

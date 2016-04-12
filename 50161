@@ -1,5 +1,6 @@
 Gofer-Core.Gofer>>#url:username:password:
 Gofer-Core.ZnUrl>>#asFileReferenceWithRelativePath
+Gofer-Core.ZnUrl>>#mcRepositoryAsUser:withPassword:
 Metacello-GitHub.MCGitHubRepository class>>#basicFromUrl:
 Metacello-GitHub.MCGitHubRepository class>>#urlSchemes
 Monticello-Tests.MCRepositoryTest>>#testCanCreateFileRepositoryFromUrl
@@ -94,4 +95,5 @@ Reflectivity-Tests.ReflectivityReificationTest>>#tagExec:
 Reflectivity-Tests.ReflectivityReificationTest>>#tearDown
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50160
+ScriptLoader50.ScriptLoader>>#update50160
 ScriptLoader50.ScriptLoader>>#update50161

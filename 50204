@@ -10,6 +10,7 @@ Athens-Morphic.LazyListMorph>>#athensDisplay:atRow:on:
 ConfigurationOfAthens.ConfigurationOfAthens>>#version37:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50203
+ScriptLoader50.ScriptLoader>>#update50203
 ScriptLoader50.ScriptLoader>>#update50204
 Slot-Tests.BooleanSlotTest>>#testExampleTwoBooleanSlotsRemoveOne
 Slot.BooleanSlot>>#baseSlotRead:

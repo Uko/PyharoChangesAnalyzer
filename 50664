@@ -1,0 +1,9 @@
+Morphic-Core.Morph>>#openCenteredInWorld
+Morphic-Widgets-Basic.PluggableButtonMorph>>#themeChanged
+Morphic-Widgets-Pluggable.LazyListMorph>>#drawBoundsForRow:
+Morphic-Widgets-Pluggable.PluggableListMorph>>#themeChanged
+Polymorph-Widgets.DropListMorph>>#themeChanged
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50663
+ScriptLoader50.ScriptLoader>>#update50663
+ScriptLoader50.ScriptLoader>>#update50664

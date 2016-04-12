@@ -1,5 +1,6 @@
 BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
 BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#preLoadDoIt
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#removeExtensionMethods
 BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#removeRenrakuCrap
 BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#removedExtendedCLasses
 BaselineOfRenraku.BaselineOfRenraku>>#baseline:
@@ -30,6 +31,7 @@ Rubric.RubSmalltalkEditor>>#computeSelectionIntervalFromCommentIn:at:
 Rubric.RubTextEditor>>#cancel
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50548
+ScriptLoader50.ScriptLoader>>#update50548
 ScriptLoader50.ScriptLoader>>#update50549
 Versionner-Tests-Core-DependenciesModel.MCModel2MTModelVisitorTest>>#checkGroups:
 Versionner-Tests-Core-DependenciesModel.MCModel2MTModelVisitorTest>>#testVisitXMLParserConfigurationWithVersion101

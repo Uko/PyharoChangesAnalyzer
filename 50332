@@ -2,12 +2,23 @@ Multilingual-Encodings.EncodedCharSet class>>#ucsTable
 Multilingual-Encodings.Latin1 class>>#initialize
 Multilingual-Encodings.Latin1 class>>#initializeUcsTable
 Multilingual-Encodings.ManifestMultilingualEncodings class>>#manuallyResolvedDependencies
+Multilingual-Encodings.UCSTable
+Multilingual-Encodings.UCSTable class>>#gb2312Table
+Multilingual-Encodings.UCSTable class>>#initialize
+Multilingual-Encodings.UCSTable class>>#initializeLatin1Table
+Multilingual-Encodings.UCSTable class>>#jisx0208Table
+Multilingual-Encodings.UCSTable class>>#ksx1001Table
+Multilingual-Encodings.UCSTable class>>#latin1Table
 Multilingual-Encodings.Unicode class>>#ucsTable
 Multilingual-OtherLanguages.GB2312 class>>#initialize
+Multilingual-OtherLanguages.GB2312 class>>#ucsTable
 Multilingual-OtherLanguages.JISX0208 class>>#initialize
+Multilingual-OtherLanguages.JISX0208 class>>#ucsTable
 Multilingual-OtherLanguages.KSX1001 class>>#initialize
+Multilingual-OtherLanguages.KSX1001 class>>#ucsTable
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50331
+ScriptLoader50.ScriptLoader>>#update50331
 ScriptLoader50.ScriptLoader>>#update50332
 Unicode-Initialization.CombinedChar class>>#parseCompositionMappingFrom:
 Unicode-Initialization.UCSTable class>>#initializeGB2312Table

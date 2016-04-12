@@ -2,6 +2,7 @@ AST-Core.CompiledMethod>>#parseTree
 OpalCompiler-Core.CompiledMethod>>#decompile
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50627
+ScriptLoader50.ScriptLoader>>#update50627
 ScriptLoader50.ScriptLoader>>#update50628
 System-Hashing.MD5>>#hashStream:
 System-Hashing.SHA256>>#hashStream:

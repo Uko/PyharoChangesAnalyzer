@@ -35,6 +35,7 @@ Random.SharedRandom>>#next:into:
 Random.SharedRandom>>#nextInt:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50390
+ScriptLoader50.ScriptLoader>>#update50390
 ScriptLoader50.ScriptLoader>>#update50391
 Spec-Core.WindowModel>>#isDisplayed
 Spec-Tests.SpecWindowTest

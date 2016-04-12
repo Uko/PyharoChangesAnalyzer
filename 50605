@@ -9,6 +9,7 @@ ConfigurationOfGToolkitCore.ConfigurationOfGToolkitCore>>#version313:
 ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#stable:
 ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version43:
 GT-Spotter.GTFilterSubstring>>#applyFilterWithQuery
+GT-Spotter.GTFilterSubstring>>#indexForItem:
 GT-Spotter.GTFilterSubstring>>#indexForItemName:andQuery:
 GT-Spotter.GTSpotterCandidatesListProcessor
 GT-Spotter.GTSpotterCandidatesListProcessor>>#sort
@@ -30,4 +31,5 @@ GT-Spotter.GTSpotterStep>>#processor:isRelevantForQuery:
 Glamour-Morphic-Renderer.GLMMorphicPharoScriptRenderer>>#morph
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50604
+ScriptLoader50.ScriptLoader>>#update50604
 ScriptLoader50.ScriptLoader>>#update50605

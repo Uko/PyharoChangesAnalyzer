@@ -270,4 +270,5 @@ BlueInk-Tests.BIFormatterTests>>#formatClass:selector:
 BlueInk-Tests.BIFormatterTests>>#testCoreSystem
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50181
+ScriptLoader50.ScriptLoader>>#update50181
 ScriptLoader50.ScriptLoader>>#update50182

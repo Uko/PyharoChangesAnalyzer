@@ -1,6 +1,7 @@
 Morphic-Widgets-Taskbar.SystemWindow>>#worldTaskbar
 OpalCompiler-Core.IRBuilder>>#startNewSequence
 OpalCompiler-Core.IRBytecodeGenerator>>#mapBytesTo:
+OpalCompiler-Core.IRInstruction>>#isJumpOrReturn
 OpalCompiler-Core.IRInstruction>>#transitionsToNextSequence
 OpalCompiler-Core.IRJumpIf>>#nextBytecodeOffsetAfterJump
 OpalCompiler-Core.IRMethod>>#instructionForPC:
@@ -26,6 +27,8 @@ Polymorph-Widgets.SystemWindow>>#taskbarLabel
 Polymorph-Widgets.SystemWindow>>#taskbarState
 Polymorph-Widgets.SystemWindow>>#taskbarTask
 Polymorph-Widgets.SystemWindow>>#taskbarThumbnailExtent
+Polymorph-Widgets.SystemWindow>>#worldTaskbar
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50386
+ScriptLoader50.ScriptLoader>>#update50386
 ScriptLoader50.ScriptLoader>>#update50387

@@ -1,15 +1,21 @@
+DebuggerActions.DebugAction>>#notifyDebugger
 DebuggerActions.DebugAction>>#notifyDebuggingActionExecuted
 DebuggerActions.DebugAction>>#postAction
 DebuggerActions.DebugActionExecuted
 DebuggerActions.DebugActionExecuted class>>#forDebuggingAction:
 DebuggerActions.DebugActionExecuted>>#action
 DebuggerActions.DebugActionExecuted>>#action:
+DebuggerActions.DebugActionExecuted>>#actionId:
+Komitter.KomitClass class>>#new
 Komitter.KomitClass class>>#trackedClass:
 Komitter.KomitClass class>>#trackedClass:forExtension:
 Komitter.KomitClass>>#flush
 Komitter.KomitClass>>#initialize
 Komitter.KomitDefinition class>>#definition:
+Komitter.KomitDefinition class>>#new
 Komitter.KomitMethod class>>#method:
+Komitter.KomitMethod class>>#new
+Komitter.KomitPackage class>>#new
 Komitter.KomitPackage class>>#package:
 Komitter.KomitPackage class>>#removePackage:
 Komitter.KomitableObject>>#entities:
@@ -17,8 +23,13 @@ Komitter.KomitableObject>>#initialize
 Komitter.Komitter>>#initialize
 Morphic-Base.MenuItemMorph>>#activateOwnerMenu:
 OpalCompiler-Core.OCASTSemanticAnalyzer>>#uninitializedVariable:
+OpalCompiler-Core.OCUninitializedVariableWarning
+OpalCompiler-Core.OCUninitializedVariableWarning>>#node:
+OpalCompiler-Core.OCUninitializedVariableWarning>>#openMenuIn:
+OpalCompiler-Tests.OCCompilerExceptionsTest>>#testUndefinedVariable
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50474
+ScriptLoader50.ScriptLoader>>#update50474
 ScriptLoader50.ScriptLoader>>#update50475
 SmartSuggestions-Tests.SugsMenuBuilderTest>>#testNoSuggestionForSelfNode
 SmartSuggestions-Tests.SugsMenuBuilderTest>>#testNoSuggestionForSuperNode

@@ -12,29 +12,48 @@ DebuggerModel.DebugSystemSettings class>>#debugSettingsOn:
 DebuggerModel.Process>>#newDebugSessionNamed:startedAt:
 FuelTools-Debugger.FuelOutStackDebugAction class>>#serializeTestFailureContext:toFileNamed:
 Kernel.Context>>#cannotReturn:
+Kernel.Context>>#debug
 Kernel.Exception>>#debug
 Kernel.Process>>#debug:title:full:
+Polymorph-Widgets.MorphicUIManager>>#debugContext:title:contents:
+Polymorph-Widgets.MorphicUIManager>>#debugProcess:context:title:full:
+Polymorph-Widgets.MorphicUIManager>>#openDebuggerOn:context:label:contents:fullView:
 Polymorph-Widgets.MorphicUIManager>>#openDebuggerOn:context:label:fullView:notification:
 Polymorph-Widgets.MorphicUIManager>>#warningDefaultAction:
 Rubric.RubSmalltalkEditor>>#debug:receiver:in:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50460
+ScriptLoader50.ScriptLoader>>#update50460
 ScriptLoader50.ScriptLoader>>#update50461
 Spec-Debugger.SpecDebugger class>>#context:
+Spec-Debugger.SpecDebugger class>>#debugContext:fromProcess:
+Spec-Debugger.SpecDebugger class>>#debugError:
+Spec-Debugger.SpecDebugger class>>#debugSession:
 Spec-Debugger.SpecDebugger class>>#on:
+Spec-Debugger.SpecDebugger class>>#openContext:label:contents:
 Spec-Debugger.SpecDebugger class>>#openInterrupt:onProcess:
+Spec-Debugger.SpecDebugger class>>#openOn:context:label:contents:fullView:
 Spec-Debugger.SpecDebugger class>>#openOn:withFullView:
 Spec-Debugger.SpecDebugger class>>#openOn:withFullView:andNotification:
+Spec-Debugger.SpecDebugger>>#openFullNoSuspendLabel:
 Spec-Debugger.SpecDebugger>>#openWithFullView
 Spec-Debugger.SpecDebugger>>#openWithFullViewAndTitle:
 Spec-Debugger.SpecDebugger>>#openWithNotification:
 Spec-Debugger.SpecDebugger>>#process:context:
+Spec-Debugger.SpecDebugger>>#process:controller:context:
 Spec-Debugger.SpecDebugger>>#session:
 Text-Edition.SmalltalkEditor>>#debug:receiver:in:
 Tools-Test.DebuggerTest>>#testBasic
 Tools.SyntaxErrorDebugger>>#debug
+UIManager.CommandLineUIManager>>#debugContext:title:contents:
 UIManager.CommandLineUIManager>>#debugProcess:context:title:full:
+UIManager.DummyUIManager>>#debugContext:title:contents:
+UIManager.DummyUIManager>>#debugProcess:context:title:full:
 UIManager.DummyUIManager>>#openDebuggerOn:context:label:fullView:notification:
+UIManager.NonInteractiveUIManager>>#debugContext:title:contents:
+UIManager.NonInteractiveUIManager>>#debugProcess:context:title:full:
 UIManager.NonInteractiveUIManager>>#openDebuggerOn:context:label:fullView:notification:
+UIManager.UIManager>>#debugContext:title:contents:
+UIManager.UIManager>>#debugProcess:context:title:full:
 UIManager.UIManager>>#openDebuggerOn:context:label:fullView:
 UIManager.UIManager>>#openDebuggerOn:context:label:fullView:notification:

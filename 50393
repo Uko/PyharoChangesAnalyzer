@@ -2,6 +2,7 @@ Nautilus.AbstractNautilusUI>>#buildVariableMenuFor:variablesFrom:menuItemBy:
 Nautilus.PackageTreeNodeModel>>#openFloatingEditorToRenameFromNodeMorph:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50392
+ScriptLoader50.ScriptLoader>>#update50392
 ScriptLoader50.ScriptLoader>>#update50393
 System-Settings-Tests.AbstractStoredSettingTest
 System-Settings-Tests.AbstractStoredSettingTest>>#testEqual

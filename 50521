@@ -29,4 +29,5 @@ Morphic-Base.ToggleMenuItemShortcutWithSymbol>>#text
 Morphic-Base.ToggleMenuItemShortcutWithText>>#text
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50520
+ScriptLoader50.ScriptLoader>>#update50520
 ScriptLoader50.ScriptLoader>>#update50521

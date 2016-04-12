@@ -11,6 +11,7 @@ Reflectivity-Tests.ReflectivityControlTest>>#testInsteadBlockSequence
 Reflectivity.RFASTTranslatorForValue>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50328
+ScriptLoader50.ScriptLoader>>#update50328
 ScriptLoader50.ScriptLoader>>#update50329
 Tool-Catalog.CatalogBrowser>>#installStableVersion:onSuccess:
 Tool-Catalog.CatalogBrowser>>#onLoadFrom:

@@ -7,4 +7,5 @@ NautilusGroupAutoBuilder.CatalogBrowser>>#onInstallAndCreateGroupFrom:
 NautilusGroupAutoBuilder.LoadedPackagesGroupCreatingCodeProvider class>>#configurationName:versionString:projectName:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50248
+ScriptLoader50.ScriptLoader>>#update50248
 ScriptLoader50.ScriptLoader>>#update50249

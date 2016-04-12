@@ -13,4 +13,6 @@ MonticelloFileServices.MCVersionReader class>>#serviceOpenVersion
 Nautilus.PackageTreeNautilusUI>>#package:matchPackagePattern:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50329
+ScriptLoader50.ScriptLoader>>#update50329
 ScriptLoader50.ScriptLoader>>#update50330
+System-Support.SmalltalkImage>>#logChange:

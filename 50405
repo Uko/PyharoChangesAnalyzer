@@ -3,6 +3,7 @@ Nautilus.AbstractNautilusUI>>#buildSecondColumn:
 Nautilus.NautilusUI>>#runTestForAMethod:notifying:priority:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50404
+ScriptLoader50.ScriptLoader>>#update50404
 ScriptLoader50.ScriptLoader>>#update50405
 Spec-Core.WindowModel>>#windowIsClosing
 Spec-Tools.MessageBrowser>>#windowIsClosing

@@ -5,6 +5,7 @@ Reflectivity.RFVariableReification class>>#nodes
 Reflectivity.RFVariableReification>>#genForRBVariableNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50126
+ScriptLoader50.ScriptLoader>>#update50126
 ScriptLoader50.ScriptLoader>>#update50127
 System-Sources.SourceFileArray>>#at:
 System-Sources.SourceFileArray>>#at:put:

@@ -17,9 +17,11 @@ GT-Debugger.Context>>#outerMostContext
 GT-Debugger.GTClearEditorDebugAction class>>#gtActionFor:
 GT-Debugger.GTClearEditorDebugAction>>#executeAction
 GT-Debugger.GTGenericStackDebugger>>#formatStackClassColumnForContext:
+GT-Debugger.GTGenericStackDebugger>>#formatStackEntry:
 GT-Debugger.GTGenericStackDebugger>>#formatStackExtraColumnForContext:
 GT-Debugger.GTGenericStackDebugger>>#formatStackMethodColumnForContext:
 GT-Debugger.GTGenericStackDebugger>>#printStackClassColumnForContext:
+GT-Debugger.GTGenericStackDebugger>>#printStackEntry:
 GT-Debugger.GTGenericStackDebugger>>#printStackExtraColumnForContext:
 GT-Debugger.GTGenericStackDebugger>>#printStackMethodColumnForContext:
 GT-Debugger.GTGenericStackDebugger>>#stackWidgetIn:
@@ -27,6 +29,7 @@ GT-Debugger.GTGlamourWrapperDebuggingAction class>>#gtActionFor:
 GT-Debugger.GTSaveDebugAction class>>#gtActionFor:
 GT-Debugger.GTSaveDebugAction>>#executeAction
 GT-Debugger.Object>>#gtDebuggerRawIn:
+GT-Debugger.Object>>#gtDebuggerStateIn:
 GT-Debugger.ProtoObject>>#gtDebuggerStateIn:
 GT-Inspector.GTRawObjectVariablesBrowser>>#variablesIn:
 GT-Tests-Debugger.GTGenericStackDebuggerUITest
@@ -58,4 +61,5 @@ Glamour-Rubric-Presentations.GLMRubricTextPresentation>>#flash
 Glamour-Rubric-Presentations.GLMRubricTextPresentation>>#hasUnacceptedEdits
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50533
+ScriptLoader50.ScriptLoader>>#update50533
 ScriptLoader50.ScriptLoader>>#update50534

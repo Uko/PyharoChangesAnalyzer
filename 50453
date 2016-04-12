@@ -1,14 +1,28 @@
 Morphic-Base.HaloMorph>>#doGrow:with:
 Morphic-Base.PasteUpMorph>>#acceptDroppingMorph:event:
 Morphic-Base.PasteUpMorph>>#fitAll
+Morphic-Base.PasteUpMorph>>#grabLassoFromScreen:
+Morphic-Base.PasteUpMorph>>#grabRubberBandFromScreen:
+Morphic-Base.PasteUpMorph>>#keystrokeInWorld:
 Morphic-Base.PasteUpMorph>>#modelWakeUp
 Morphic-Base.WorldState class>>#windowsOn:
 Morphic-Core.Morph>>#beginsWith:fromList:
 Morphic-Core.Morph>>#handlesMouseOver:
 Morphic-Core.Morph>>#initialExtent
+Morphic-Core.Morph>>#menuButtonMouseEnter:
+Morphic-Core.Morph>>#menuButtonMouseLeave:
+Morphic-Core.Morph>>#setExtentFromHalo:
 Morphic-Core.PasteUpMorph>>#backgroundMorph
+Morphic-Core.PasteUpMorph>>#checkCurrentHandForObjectToPaste
+Morphic-Core.PasteUpMorph>>#chooseClickTarget
+Morphic-Core.PasteUpMorph>>#delayedInvokeWorldMenu:
 Morphic-Core.PasteUpMorph>>#deleteAllHalos
+Morphic-Core.PasteUpMorph>>#extractScreenRegion:andPutSketchInHand:
+Morphic-Core.PasteUpMorph>>#grabDrawingFromScreen:
+Morphic-Core.PasteUpMorph>>#respondToCommand:bySending:to:
+Morphic-Core.PasteUpMorph>>#showImage:
 Morphic-Core.PasteUpMorph>>#wantsHaloFromClick
+Morphic-Core.WorldMorph>>#mouseUp:
 Morphic-Widgets-Taskbar.WorldMorph>>#taskList
 Morphic-Widgets-Windows.PasteUpMorph>>#nextVisibleWindow
 Nautilus.AbstractNautilusUI>>#removeIconStyle
@@ -28,6 +42,7 @@ Polymorph-Widgets.PasteUpMorph>>#modalUnlockFrom:
 Polymorph-Widgets.PasteUpMorph>>#navigateVisibleWindowForward
 Polymorph-Widgets.PasteUpMorph>>#navigateWindowBackward
 Polymorph-Widgets.PasteUpMorph>>#navigateWindowForward
+Polymorph-Widgets.PasteUpMorph>>#nextVisibleWindow
 Polymorph-Widgets.PasteUpMorph>>#nextWindow
 Polymorph-Widgets.PasteUpMorph>>#openModal:
 Polymorph-Widgets.PasteUpMorph>>#previousWindow
@@ -36,6 +51,7 @@ Polymorph-Widgets.PasteUpMorph>>#visibleSystemWindows
 Rubric.RubSmalltalkEditor class>>#menuOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50452
+ScriptLoader50.ScriptLoader>>#update50452
 ScriptLoader50.ScriptLoader>>#update50453
 SmartSuggestions.SmalltalkEditor>>#smartSuggestions
 Text-Edition.SmalltalkEditor class>>#smalltalkEditorMenuOn:

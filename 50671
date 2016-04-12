@@ -1,0 +1,39 @@
+Athens-Cairo.AthensCairoMatrix>>#copy
+Athens-Cairo.AthensCairoSurface class>>#ffiLibraryName
+Athens-Cairo.CairoFontMetricsProvider>>#applyKerningOn:of:from:to:
+Athens-Cairo.CairoFreetypeFontRenderer>>#applyKerningOn:of:from:to:
+Athens-Cairo.TCairoLibrary class>>#nbLibraryNameOrHandle
+ConfigurationOfAthens.ConfigurationOfAthens>>#stable:
+ConfigurationOfAthens.ConfigurationOfAthens>>#version39:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#pre2_6_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_6_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_6_1:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_6_2:
+QualityAssistant.CompiledMethod>>#spotterQACriticsFor:
+QualityAssistant.GTSpotterExtensionSettings class>>#Behavior_spotterQACriticsFor
+QualityAssistant.GTSpotterExtensionSettings class>>#Behavior_spotterQACriticsFor:
+QualityAssistant.GTSpotterExtensionSettings class>>#CompiledMethod_spotterQACriticsFor
+QualityAssistant.GTSpotterExtensionSettings class>>#CompiledMethod_spotterQACriticsFor:
+QualityAssistant.GTSpotterExtensionSettings class>>#TraitBehavior_spotterQACriticsFor
+QualityAssistant.GTSpotterExtensionSettings class>>#TraitBehavior_spotterQACriticsFor:
+QualityAssistant.QANautilusPluginMorph class>>#cleanUp
+QualityAssistant.QANautilusPluginMorph class>>#wasOpenedBefore
+QualityAssistant.QANautilusPluginMorph class>>#wasOpenedBefore:
+QualityAssistant.QANautilusPluginMorph>>#initialize
+QualityAssistant.QANautilusPluginMorph>>#initializeList
+QualityAssistant.QANautilusPluginMorph>>#initializeProgress
+QualityAssistant.QANautilusPluginMorph>>#privacyMorph
+QualityAssistant.QANautilusPluginMorph>>#updateList
+QualityAssistant.QASettings
+QualityAssistant.QASettings class>>#spotterPlugin
+QualityAssistant.QASettings class>>#spotterPlugin:
+QualityAssistant.QASettings>>#initialize
+QualityAssistant.QASettings>>#spotterPlugin
+QualityAssistant.QASettings>>#spotterPlugin:
+QualityAssistant.TBehavior>>#spotterQACriticsFor:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50670
+ScriptLoader50.ScriptLoader>>#update50670
+ScriptLoader50.ScriptLoader>>#update50671

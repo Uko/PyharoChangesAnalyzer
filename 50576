@@ -1,6 +1,7 @@
 NautilusRefactoring.NautilusRefactoring>>#renameMethodFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50575
+ScriptLoader50.ScriptLoader>>#update50575
 ScriptLoader50.ScriptLoader>>#update50576
 Traits.TClass>>#variableSubclass:instanceVariableNames:classVariableNames:package:
 Traits.TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:package:

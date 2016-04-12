@@ -13,10 +13,64 @@ Alien.Alien class>>#startUp:
 Alien.Alien>>#isPointer
 Alien.Alien>>#storeOn:
 Alien.AlienSunit>>#testLongLong
+ConfigurationOfFFI.ConfigurationOfFFI
+ConfigurationOfFFI.ConfigurationOfFFI class>>#bootstrapPackage:from:
+ConfigurationOfFFI.ConfigurationOfFFI class>>#catalogContactInfo
+ConfigurationOfFFI.ConfigurationOfFFI class>>#catalogDescription
+ConfigurationOfFFI.ConfigurationOfFFI class>>#catalogKeywords
+ConfigurationOfFFI.ConfigurationOfFFI class>>#ensureMetacello
+ConfigurationOfFFI.ConfigurationOfFFI class>>#isMetacelloConfig
+ConfigurationOfFFI.ConfigurationOfFFI class>>#lastMetacelloVersionLoad
+ConfigurationOfFFI.ConfigurationOfFFI class>>#load
+ConfigurationOfFFI.ConfigurationOfFFI class>>#metacelloVersion:loads:
+ConfigurationOfFFI.ConfigurationOfFFI class>>#project
+ConfigurationOfFFI.ConfigurationOfFFI>>#baseline10:
+ConfigurationOfFFI.ConfigurationOfFFI>>#baseline12:
+ConfigurationOfFFI.ConfigurationOfFFI>>#baseline13:
+ConfigurationOfFFI.ConfigurationOfFFI>>#baseline14:
+ConfigurationOfFFI.ConfigurationOfFFI>>#baseline15:
+ConfigurationOfFFI.ConfigurationOfFFI>>#development:
+ConfigurationOfFFI.ConfigurationOfFFI>>#ffiExampleInitialization10
+ConfigurationOfFFI.ConfigurationOfFFI>>#project
+ConfigurationOfFFI.ConfigurationOfFFI>>#stable:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version10:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version11:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version12:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version13:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version14:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version15:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version16:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version17:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version18:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version19:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version1_10:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version1_10_1:
+ConfigurationOfFFI.ConfigurationOfFFI>>#version1_9_1:
+ConfigurationOfOldAlien.ConfigurationOfOldAlien
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#DevelopmentSupport
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#baseConfigurationClassIfAbsent:
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#catalogContactInfo
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#catalogDescription
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#catalogKeywords
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#ensureMetacello
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#ensureMetacelloBaseConfiguration
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#isMetacelloConfig
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#load
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#loadBleedingEdge
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#loadDevelopment
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#project
+ConfigurationOfOldAlien.ConfigurationOfOldAlien class>>#validate
+ConfigurationOfOldAlien.ConfigurationOfOldAlien>>#baseline10:
+ConfigurationOfOldAlien.ConfigurationOfOldAlien>>#project
+ConfigurationOfOldAlien.ConfigurationOfOldAlien>>#stable:
+ConfigurationOfOldAlien.ConfigurationOfOldAlien>>#version10:
+ConfigurationOfOldAlien.ConfigurationOfOldAlien>>#version11:
+ConfigurationOfOldAlien.ConfigurationOfOldAlien>>#version1_2:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#baseline0_11:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#development:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_11_2:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50549
+ScriptLoader50.ScriptLoader>>#update50549
 ScriptLoader50.ScriptLoader>>#update50550

@@ -18,6 +18,7 @@ Nautilus.AbstractNautilusUI class>>#buildRefactoringShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildRemoveShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildRenameShortcutsOn:
 Nautilus.AbstractNautilusUI class>>#buildRunTestKeymappingsOn:
+Nautilus.AbstractNautilusUI>>#registerToMCAnnouncements
 Nautilus.CategoryWidget class>>#buildProtocolShortcutsOn:
 Nautilus.MethodWidget class>>#buildMethodShortcutsOn:
 Nautilus.NautilusUI class>>#buildHistoryShortcutsOn:
@@ -33,6 +34,7 @@ NodeNavigation.NNavDirectionSibling class>>#defaultKeyCombination
 SUnit-UITesting.SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50592
+ScriptLoader50.ScriptLoader>>#update50592
 ScriptLoader50.ScriptLoader>>#update50593
 SmartSuggestions.SugsMenuBuilder class>>#buildSmartActionsShortcuts:
 Spec-Core.NewListModel class>>#exampleWithMenu

@@ -1,0 +1,25 @@
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_5_1:
+Polymorph-Widgets.MorphicUIManager>>#activate
+QualityAssistant.QASettings class>>#spotterPlugin:
+QualityAssistantRecording.QAEventCollector>>#initialize
+QualityAssistantRecording.QAEventCollector>>#recordAnnouncement:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50642
+ScriptLoader50.ScriptLoader>>#update50642
+ScriptLoader50.ScriptLoader>>#update50643
+Text-Core.ManifestTextCore class>>#manuallyResolvedDependencies
+Text-Core.TextAction
+Text-Core.TextAction class>>#actOnClickBlock
+Text-Core.TextAction class>>#actOnClickBlock:
+Text-Core.TextAction class>>#initialize
+Text-Core.TextAction>>#actOnClick:for:in:editor:
+Text-Core.TextAction>>#actOnClickBlock
+Text-Core.TextAction>>#actOnClickBlock:
+Text-Core.TextAction>>#initialize
+Text-Core.TextURL>>#actOnClick:for:in:editor:
+Text-Edition.EditingState>>#addUndoRecord:
+Text-Edition.EditingState>>#secondarySelectionToken
+Text-Edition.EditingState>>#secondarySelectionToken:
+Text-Edition.SmalltalkEditingState>>#querySymbolFrom:
+Text-Edition.SmalltalkEditor>>#referencesToIt

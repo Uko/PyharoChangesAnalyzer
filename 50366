@@ -7,7 +7,9 @@ Rubric.RubSmalltalkCommentMode>>#editorClass
 Rubric.RubTextScrollPane>>#appendText:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50365
+ScriptLoader50.ScriptLoader>>#update50365
 ScriptLoader50.ScriptLoader>>#update50366
+Tool-Transcript.ThreadSafeTranscript>>#codePaneMenu:shifted:
 Tool-Transcript.ThreadSafeTranscript>>#interactionModel
 Tool-Transcript.ThreadSafeTranscript>>#openLabel:
 Transcript.ThreadSafeTranscript>>#menu

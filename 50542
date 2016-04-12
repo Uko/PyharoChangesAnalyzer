@@ -2,6 +2,7 @@ ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#version09:
 Morphic-Widgets-FastTable.FTAllItemsStrategy>>#filter
 Morphic-Widgets-FastTable.FTAllItemsStrategy>>#matchingFilter:
+Morphic-Widgets-FastTable.FTBasicItem>>#asString
 Morphic-Widgets-FastTable.FTBasicItem>>#expandWithoutChange
 Morphic-Widgets-FastTable.FTBasicItem>>#printOn:
 Morphic-Widgets-FastTable.FTColumnResizerMorph
@@ -63,4 +64,5 @@ Morphic-Widgets-FastTable.UITheme>>#fastTableColumnSplitterSelectedColor
 Morphic-Widgets-FastTable.UITheme>>#fastTableHeaderColor
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50541
+ScriptLoader50.ScriptLoader>>#update50541
 ScriptLoader50.ScriptLoader>>#update50542

@@ -1,5 +1,9 @@
+Athens-Cairo.AthensCairoSurface class>>#ffiLibraryName
+Athens-Cairo.TCairoLibrary class>>#nbLibraryNameOrHandle
 Kernel-Tests.ClassTest>>#testAddSlot
 Kernel-Tests.ClassTest>>#testAddSlotAnonymous
+Kernel.Behavior>>#isEphemeronClass
+Kernel.Behavior>>#isImmediateClass
 Kernel.Class>>#addSlot:
 Morphic-Widgets-Basic.PluggableButtonMorph>>#newLabel
 OpalCompiler-Tests.OCCompiledMethodIntegrityTests>>#testBlockTemps
@@ -10,8 +14,12 @@ OpalCompiler-Tests.OCCompiledMethodIntegrityTests>>#testRemoteTempInVector
 Polymorph-Widgets.UITheme>>#buttonLabelFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50626
+ScriptLoader50.ScriptLoader>>#update50626
 ScriptLoader50.ScriptLoader>>#update50627
 Slot.SlotClassBuilder>>#name:
+Spec-Debugger.SpecDebuggerStack>>#currentMessageCategoryName
 Tool-Profilers.MessageTally>>#tally:by:
 Tool-Profilers.MessageTally>>#tally:in:by:
 Tool-Profilers.QSystemTally>>#tally:by:
+Traits.TraitBehavior>>#isEphemeronClass
+Traits.TraitBehavior>>#isImmediateClass

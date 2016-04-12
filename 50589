@@ -6,6 +6,7 @@ ConfigurationOfZincHTTPComponents.ConfigurationOfZincHTTPComponents>>#version270
 NautilusRefactoring.NautilusRefactoring>>#privateInlineTemporaryBetween:from:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50588
+ScriptLoader50.ScriptLoader>>#update50588
 ScriptLoader50.ScriptLoader>>#update50589
 SmartSuggestions.FinderUI>>#sugsContext
 SmartSuggestions.SugsFinderContext
@@ -39,14 +40,24 @@ Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#nextFromStream:
 Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#nextPut:toStream:
 Zinc-Character-Encoding-Core.ZnCharacterEncoder>>#nextPutCodePoint:toStream:
 Zinc-Character-Encoding-Core.ZnCharacterReadStream
+Zinc-Character-Encoding-Core.ZnCharacterReadStream class>>#defaultEncoder
+Zinc-Character-Encoding-Core.ZnCharacterReadStream class>>#on:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream class>>#on:encoding:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#atEnd
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#close
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#contents
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#encoder
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#encoder:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#encoding:
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#isBinary
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#next
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#next:
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#next:into:
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#next:into:startingAt:
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#nextElement
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#nextLine
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#on:
+Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#peek
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#peekFor:
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#readInto:startingAt:count:
 Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#skip:
@@ -56,6 +67,7 @@ Zinc-Character-Encoding-Core.ZnCharacterReadStream>>#wrappedStream
 Zinc-Character-Encoding-Core.ZnCharacterWriteStream
 Zinc-Character-Encoding-Core.ZnCharacterWriteStream class>>#defaultEncoder
 Zinc-Character-Encoding-Core.ZnCharacterWriteStream class>>#on:
+Zinc-Character-Encoding-Core.ZnCharacterWriteStream class>>#on:encoding:
 Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#%3C%3C
 Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#close
 Zinc-Character-Encoding-Core.ZnCharacterWriteStream>>#encoder
@@ -95,12 +107,15 @@ Zinc-Character-Encoding-Core.ZnNullEncoder>>#encodedByteCountForCodePoints:
 Zinc-Character-Encoding-Core.ZnNullEncoder>>#encodedByteCountForString:
 Zinc-Character-Encoding-Core.ZnNullEncoder>>#next:putAll:startingAt:toStream:
 Zinc-Character-Encoding-Core.ZnNullEncoder>>#nextCodePointFromStream:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnNullEncoder>>#nextPut:toStream:
 Zinc-Character-Encoding-Core.ZnNullEncoder>>#nextPutCodePoint:toStream:
 Zinc-Character-Encoding-Core.ZnNullEncoder>>#readInto:startingAt:count:fromStream:
 Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#encodedByteCountFor:
 Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#encodedByteCountForCodePoint:
 Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#nextCodePointFromStream:
 Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#nextPut:toStream:
 Zinc-Character-Encoding-Core.ZnSimplifiedByteEncoder>>#nextPutCodePoint:toStream:
 Zinc-Character-Encoding-Core.ZnUTF16Encoder
 Zinc-Character-Encoding-Core.ZnUTF16Encoder class>>#newForEncoding:
@@ -108,11 +123,14 @@ Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#beBigEndian
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#beLittleEndian
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#byteOrderMark
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#encodeStringWithByteOrderMark:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#encodedByteCountFor:
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#encodedByteCountForCodePoint:
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#initialize
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#isBigEndian
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#isLittleEndian
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#maximumUTF16Code
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#nextPut:toStream:
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#nextPutByteOrderMarkToStream:
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#nextPutCodePoint:toStream:
 Zinc-Character-Encoding-Core.ZnUTF16Encoder>>#printOn:
@@ -131,8 +149,11 @@ Zinc-Character-Encoding-Core.ZnUTF32Encoder>>#writeCodePoint:to:
 Zinc-Character-Encoding-Core.ZnUTF8Encoder
 Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#decodeBytes:
 Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#decodeBytesIntoWideString:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#encodedByteCountFor:
 Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#encodedByteCountForCodePoint:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#maximumUTF8Code
 Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#nextFromStream:
+Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#nextPut:toStream:
 Zinc-Character-Encoding-Core.ZnUTF8Encoder>>#nextPutCodePoint:toStream:
 Zinc-Character-Encoding-Core.ZnUTFEncoder
 Zinc-Character-Encoding-Core.ZnUTFEncoder class>>#handlesEncoding:
@@ -166,6 +187,8 @@ Zinc-HTTP.ZnClient>>#options
 Zinc-HTTP.ZnClient>>#patch
 Zinc-HTTP.ZnClient>>#post
 Zinc-HTTP.ZnClient>>#put
+Zinc-HTTP.ZnConstants class>>#standardHtmlDocType
+Zinc-HTTP.ZnConstants class>>#welcomePageHtml
 Zinc-HTTP.ZnDefaultServerDelegate>>#formTest1:
 Zinc-HTTP.ZnDefaultServerDelegate>>#formTest2:
 Zinc-HTTP.ZnDefaultServerDelegate>>#formTest3:

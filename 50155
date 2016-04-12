@@ -1,5 +1,6 @@
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#version073:
+Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptor class>>#defaultRowHeight
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptor>>#basicUpdateSelectionIndex
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptor>>#searchedElement:
 Morphic-Widgets-FastTable.FTPluggableIconListMorphAdaptor>>#updateList
@@ -28,4 +29,5 @@ Nautilus-Tests.PackageTreeNautilusTest>>#assertMethodWidgetPluggableListMorph
 Nautilus.NautilusUI>>#open
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50154
+ScriptLoader50.ScriptLoader>>#update50154
 ScriptLoader50.ScriptLoader>>#update50155

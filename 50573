@@ -2,5 +2,6 @@ Rubric.RubShoutStylerDecorator>>#recomposeFrom:to:delta:
 Rubric.RubTextComposer>>#recomposeFrom:to:delta:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50572
+ScriptLoader50.ScriptLoader>>#update50572
 ScriptLoader50.ScriptLoader>>#update50573
 System-Sources.ChangesLog>>#registerToAnnouncements

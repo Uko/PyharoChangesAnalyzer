@@ -19,7 +19,9 @@ GT-Spotter.GTSpotter
 GT-Spotter.GTSpotter class>>#on:withProcessors:
 GT-Spotter.GTSpotter class>>#withProcessors:
 GT-Spotter.GTSpotter>>#hasMultipleSteps
+GT-Spotter.GTSpotter>>#hasPreviousStep
 GT-Spotter.GTSpotter>>#initialize
+GT-Spotter.GTSpotter>>#previousStep
 GT-Spotter.GTSpotter>>#processorsFilter
 GT-Spotter.GTSpotter>>#processorsFilter:
 GT-Spotter.GTSpotterMethodListProcessorFilter
@@ -74,6 +76,7 @@ Glamour-Tests-Core.GLMBrowserTest>>#testUpdateRecomputesMatchingPresentations
 Glamour-Tests-Core.GLMCompositePresentationTest>>#testCompositeWithinCompositeOuterPortEvents
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50187
+ScriptLoader50.ScriptLoader>>#update50187
 ScriptLoader50.ScriptLoader>>#update50188
 ShoutTests.SHParserST80Test
 ShoutTests.SHParserST80Test>>#%3E-------%3E
@@ -96,3 +99,4 @@ ShoutTests.SHStyleElementTest
 ShoutTests.SHStyleElementTest>>#setUp
 ShoutTests.SHStyleElementTest>>#testPrintOn
 ShoutTests.SHStyleElementTest>>#testStyleForTable
+Tool-Catalog.CatalogProject>>#spotterPreviewIn:

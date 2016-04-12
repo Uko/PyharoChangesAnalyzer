@@ -5,6 +5,10 @@ ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_3_4:
 FreeType.FreeTypeFontProvider class>>#resetCurrent
 FreeType.FreeTypeSettings class>>#shutDown:
+Kernel.ClassOrganization class>>#importFrom:
+Kernel.ClassOrganization>>#importFrom:
+Kernel.ProtocolOrganizer class>>#importFrom:
+Kernel.ProtocolOrganizer>>#importFrom:
 Morphic-Core.Morph>>#color:
 Morphic-Core.Morph>>#displayExtentChanged
 Morphic-Core.Morph>>#fillStyle:
@@ -73,4 +77,5 @@ Morphic-Widgets-Windows.FullscreenMorph>>#displayExtentChanged
 Renraku.ReEngine>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50216
+ScriptLoader50.ScriptLoader>>#update50216
 ScriptLoader50.ScriptLoader>>#update50217

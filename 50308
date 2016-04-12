@@ -6,5 +6,6 @@ Reflectivity.ReflectiveMethod>>#compileAndInstallCompiledMethod
 Reflectivity.ReflectiveMethod>>#generatePrimitiveWrapper
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50307
+ScriptLoader50.ScriptLoader>>#update50307
 ScriptLoader50.ScriptLoader>>#update50308
 Settings-System.SystemSystemSettings class>>#systemSettingOn:

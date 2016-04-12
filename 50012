@@ -34,6 +34,7 @@ RPackage-Core.RPackage>>#orderedClasses
 RPackage-Core.RPackage>>#selectors
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script620
+ScriptLoader50.ScriptLoader>>#update50011
 ScriptLoader50.ScriptLoader>>#update50012
 System-Platforms.Win32Platform>>#virtualKey:
 System-Support.SmalltalkImage>>#imageFile

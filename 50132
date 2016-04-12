@@ -32,4 +32,5 @@ Rubric.RubSmalltalkEditor>>#format
 Rubric.RubSmalltalkScriptingMode>>#interactive
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50131
+ScriptLoader50.ScriptLoader>>#update50131
 ScriptLoader50.ScriptLoader>>#update50132

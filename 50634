@@ -1,0 +1,107 @@
+BaselineOfQualityAssistant.BaselineOfQualityAssistant>>#baseline:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#development:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#pre2_5_0:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#stable:
+ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_5_0:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
+ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_12_1:
+HelpSystem-Core.HelpBrowser>>#initWindow
+QualityAssistant.CompiledMethod>>#spotterQACriticsFor:
+QualityAssistant.QASettings
+QualityAssistant.QASettings class>>#inspectorPlugginSettingsOn:
+QualityAssistant.QASettings class>>#qaGroupSettingsOn:
+QualityAssistant.QASettings class>>#qaNautilusPlugginSettingOn:
+QualityAssistant.QASettings class>>#resetButtonSettingsOn:
+QualityAssistant.QASettings class>>#spotterExtMethods
+QualityAssistant.QASettings class>>#spotterPlugin
+QualityAssistant.QASettings class>>#spotterPlugin:
+QualityAssistant.QASettings class>>#spotterPluginSettingsOn:
+QualityAssistant.QASettings>>#spotterPlugin
+QualityAssistant.QASettings>>#spotterPlugin:
+QualityAssistant.ReRuleManager class>>#resetWithInform
+QualityAssistant.TBehavior>>#spotterQACriticsFor:
+QualityAssistantRecording.ClassDescription>>#asCollectedRingDefinition
+QualityAssistantRecording.CompiledMethod>>#asCollectedEntity
+QualityAssistantRecording.CompiledMethod>>#asCollectedRingDefinition
+QualityAssistantRecording.CompiledMethod>>#dataForQAR
+QualityAssistantRecording.Interval>>#dataForQAR
+QualityAssistantRecording.Object>>#asCollectedEntity
+QualityAssistantRecording.Object>>#dataForQAR
+QualityAssistantRecording.Object>>#obfuscatedIfNecessary
+QualityAssistantRecording.QACriticClickedOn>>#asQAREvent
+QualityAssistantRecording.QACriticsSeen>>#asQAREvent
+QualityAssistantRecording.QAEventCollector class>>#initialize
+QualityAssistantRecording.QAEventCollector class>>#recordMeta
+QualityAssistantRecording.QAEventCollector class>>#startUp:
+QualityAssistantRecording.QAEventCollector>>#defaultCategory
+QualityAssistantRecording.QAEventCollector>>#initialize
+QualityAssistantRecording.QAEventCollector>>#recordAnnouncement:
+QualityAssistantRecording.QAInitiateCriticBan>>#asQAREvent
+QualityAssistantRecording.QARCriticAutofixedEvent
+QualityAssistantRecording.QARCriticBannedEvent
+QualityAssistantRecording.QARCriticBannedEvent>>#entityBanLevel
+QualityAssistantRecording.QARCriticBannedEvent>>#fromAnnouncement:
+QualityAssistantRecording.QARCriticClickedOn
+QualityAssistantRecording.QARCriticDescriptionViewed
+QualityAssistantRecording.QARCriticEvent
+QualityAssistantRecording.QARCriticEvent class>>#fromAnnouncement:
+QualityAssistantRecording.QARCriticEvent>>#entity
+QualityAssistantRecording.QARCriticEvent>>#fromAnnouncement:
+QualityAssistantRecording.QARCriticEvent>>#initialize
+QualityAssistantRecording.QARCriticEvent>>#timestamp
+QualityAssistantRecording.QARCriticsSeenEvent
+QualityAssistantRecording.QAREntityCriticizedEvent
+QualityAssistantRecording.QARInitiateCriticBanEvent
+QualityAssistantRecording.QARMultipleCriticsEvent
+QualityAssistantRecording.QARMultipleCriticsEvent>>#critics
+QualityAssistantRecording.QARMultipleCriticsEvent>>#fromAnnouncement:
+QualityAssistantRecording.QARSingleCriticEvent
+QualityAssistantRecording.QARSingleCriticEvent>>#critic
+QualityAssistantRecording.QARSingleCriticEvent>>#fromAnnouncement:
+QualityAssistantRecording.QARViewedDiffEvent
+QualityAssistantRecording.QARecordingSettings class>>#qaGroupSettingsOn:
+QualityAssistantRecording.QARecordingSettings>>#inspectorPluggin:
+QualityAssistantRecording.QAViewedDiff>>#asQAREvent
+QualityAssistantRecording.RBLintRule>>#dataForQAR
+QualityAssistantRecording.RBMethodNode>>#asCollectedEntity
+QualityAssistantRecording.RBMethodNode>>#dataForQAR
+QualityAssistantRecording.RBMethodNode>>#methodForQAR
+QualityAssistantRecording.RPackage>>#asCollectedEntity
+QualityAssistantRecording.RPackage>>#asCollectedRingDefinition
+QualityAssistantRecording.RPackage>>#dataForQAR
+QualityAssistantRecording.ReAbstractCritic>>#dataForQAREntityless
+QualityAssistantRecording.ReCriticAutofixed>>#asQAREvent
+QualityAssistantRecording.ReCriticBanned>>#asQAREvent
+QualityAssistantRecording.ReCriticBanned>>#dataForQAR
+QualityAssistantRecording.ReCriticDescriptionViewed>>#asQAREvent
+QualityAssistantRecording.ReCriticEvent>>#dataForQAR
+QualityAssistantRecording.ReEntityCriticized>>#asQAREvent
+QualityAssistantRecording.ReInvocationOrderCritic>>#dataForQAREntityless
+QualityAssistantRecording.ReInvocationSequenceRule>>#dataForQAR
+QualityAssistantRecording.ReInvocationSequenceRuleSequence>>#dataForQAR
+QualityAssistantRecording.ReMissingMethodCritic>>#dataForQAREntityless
+QualityAssistantRecording.ReMultipleCriticsEvent>>#dataForQAR
+QualityAssistantRecording.ReProperty>>#dataForQAR
+QualityAssistantRecording.ReProperty>>#dataForQAREntityless
+QualityAssistantRecording.ReSingleCriticEvent>>#dataForQAR
+QualityAssistantRecording.TClassDescription>>#asCollectedEntity
+QualityAssistantRecording.TClassDescription>>#dataForQAR
+QualityAssistantRecording.TraitDescription>>#asCollectedRingDefinition
+QualityAssistantRecording.UndefinedObject>>#dataForQAR
+Renraku.ReLaterInvocationCritic>>#title
+Renraku.RePriorInvocationCritic>>#title
+Renraku.ReStringBasedCritic
+Ring-Monticello.ChangeRecord>>#asMCMethodDefinition
+Ring-Monticello.RGMethodDefinition>>#asMCMethodDefinition
+Ring-Monticello.RGMethodDefinition>>#asMCMethodDefinitionFromActiveDefinition
+Ring-Monticello.RGMethodDefinition>>#basicAsMCMethodDefinition
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50633
+ScriptLoader50.ScriptLoader>>#update50633
+ScriptLoader50.ScriptLoader>>#update50634
+Tool-Base.SystemNavigation>>#browseAllAccessesTo:from:
+Tool-Base.SystemNavigation>>#browseAllImplementorsOf:
+Tool-Base.SystemNavigation>>#browseMessageList:name:autoSelect:
+Tool-Base.SystemNavigation>>#browseMessageList:name:autoSelect:refreshingBlockSelector:
+Tool-Base.SystemNavigation>>#browseSendersOf:name:autoSelect:
+Tool-Base.SystemNavigation>>#openBrowserFor:withMethods:

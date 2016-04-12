@@ -3,7 +3,9 @@ Debugger-Tests.DebuggerModelTest>>#testCorrectlyCreateDebugSession
 Debugger-Tests.DebuggerModelTest>>#testStepInto
 Debugger-Tests.DebuggerModelTest>>#testStepOver
 Debugger-Tests.FilterTest>>#setUp
+DebuggerModel.DebugSession class>>#process:context:
 Morphic-Widgets-Tabs.SequenceableCollection>>#max:
+Morphic-Widgets-Tabs.Tab>>#handlesMouseUp:
 Morphic-Widgets-Tabs.TabManager>>#addTabContents:at:delta:
 Morphic-Widgets-Tabs.TabWithNoContents>>#tab
 NautilusCommon.AbstractNautilusPlugin class>>#isUsed
@@ -13,13 +15,26 @@ NautilusCommon.NautilusHistoryEntry
 NautilusCommon.NautilusPluginManager>>#addButtonState
 NautilusCommon.NautilusPluginManager>>#removeButtonState
 Polymorph-Widgets.MorphicUIManager>>#interruptName:preemptedProcess:
+Polymorph-Widgets.MorphicUIManager>>#lowSpaceWatcherDefaultAction:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50463
+ScriptLoader50.ScriptLoader>>#update50463
 ScriptLoader50.ScriptLoader>>#update50464
 Settings-Polymorph.PolymorphSystemSettings
 Settings-Polymorph.PolymorphSystemSettings class>>#desktopBackgroundChanged
 Settings-Polymorph.PolymorphSystemSettings class>>#desktopImageLayout
 Settings-Polymorph.PolymorphSystemSettings class>>#desktopImageLayout:
 Settings-Polymorph.PolymorphSystemSettings class>>#desktopSettingsOn:
+Spec-Debugger.SpecDebugger class>>#context:
+Spec-Debugger.SpecDebugger class>>#informExistingDebugger:label:
+Spec-Debugger.SpecDebugger class>>#openInterrupt:onProcess:
+Spec-Debugger.SpecDebugger class>>#openOn:
+Spec-Debugger.SpecDebugger class>>#spanNewSessionForContext:fromProcess:
+Spec-Debugger.SpecDebugger>>#errorWasInUIProcess:
 Spec-Debugger.SpecDebugger>>#lowSpaceChoices
+Spec-Debugger.SpecDebugger>>#openNotifierContents:label:
+Spec-Debugger.SpecDebugger>>#openOn:
+Spec-Debugger.SpecDebugger>>#openWithFullViewAndTitle:
+Spec-Debugger.SpecDebugger>>#proceed:
+Spec-Debugger.SpecDebugger>>#process:context:
 Tools-Test.DebuggerTest>>#testBasic

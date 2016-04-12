@@ -6,6 +6,7 @@ Nautilus.NautilusUI>>#selectedClassWithoutChangingSelection:
 Nautilus.PackageTreeGroupSelection>>#includesClass:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50100
+ScriptLoader50.ScriptLoader>>#update50100
 ScriptLoader50.ScriptLoader>>#update50101
 Spec-Tools.NewVersionBrowser>>#buildBrowser
 Text-Edition.TextEditor>>#handleDownOnUnselectedText:

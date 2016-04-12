@@ -25,6 +25,7 @@ Reflectivity.TemporaryVariable>>#preambles
 Reflectivity.TemporaryVariable>>#removeLink:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50260
+ScriptLoader50.ScriptLoader>>#update50260
 ScriptLoader50.ScriptLoader>>#update50261
 Slot-Tests.TemporaryVariableTest>>#testPropertyAtPut
 Slot.ClassVariable
@@ -56,4 +57,5 @@ Traits.TBehavior>>#thoroughHasSelectorReferringTo:special:byte:
 Traits.TBehavior>>#thoroughWhichSelectorsReferTo:special:byte:
 Traits.TBehavior>>#whichSelectorsAccess:
 Traits.TBehavior>>#whichSelectorsReferTo:
+Traits.TBehavior>>#whichSelectorsReferTo:special:byte:
 Traits.TBehavior>>#whichSelectorsStoreInto:

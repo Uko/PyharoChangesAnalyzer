@@ -2,6 +2,7 @@ AST-Core.NumberParser>>#nextInteger
 ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version113:
 HelpSystem-Core.HelpBrowser
+HelpSystem-Core.HelpBrowser>>#defaultViewerClass
 HelpSystem-Core.HelpBrowser>>#doItContext
 HelpSystem-Core.HelpBrowser>>#doItReceiver
 HelpSystem-Core.HelpBrowser>>#initWindow
@@ -33,19 +34,27 @@ Rubric.RubScrolledTextMorph>>#beForMinimalEditor
 Rubric.RubScrolledTextMorph>>#mouseWheel:
 Rubric.RubShoutStylerDecorator>>#style:
 Rubric.RubSmalltalkCodeMode>>#shoutAboutToStyle:
+Rubric.RubStringMorphContentsEdited
 Rubric.RubStringMorphContentsEdited>>#previousContents
 Rubric.RubStringMorphContentsEdited>>#previousContents:
+Rubric.RubStringMorphEditorProvider
+Rubric.RubStringMorphEditorProvider class>>#exampleEditableStringMorph
 Rubric.RubStringMorphEditorProvider>>#announcer
+Rubric.RubStringMorphEditorProvider>>#buildEditor
 Rubric.RubStringMorphEditorProvider>>#closeEditor
 Rubric.RubStringMorphEditorProvider>>#defaultAnnouncer
 Rubric.RubStringMorphEditorProvider>>#handleListenEvent:
+Rubric.RubStringMorphEditorProvider>>#initialize
+Rubric.RubStringMorphEditorProvider>>#openEditorForStringMorph:
 Rubric.RubStringMorphEditorProvider>>#whenEditorDeleted:
 Rubric.RubStringMorphEditorProvider>>#whenEditorLostFocus:
 Rubric.RubStringMorphEditorProvider>>#whenKeystroke:
 Rubric.RubStringMorphEditorProvider>>#whenReturnEntered:
+Rubric.RubStringMorphEditorProvider>>#whenTextAccepted:
 Rubric.RubTextFieldMorph>>#whenReturnEntered:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50168
+ScriptLoader50.ScriptLoader>>#update50168
 ScriptLoader50.ScriptLoader>>#update50169
 Tool-Finder.FinderUI
 Tool-Finder.FinderUI>>#autoSelection

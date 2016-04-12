@@ -8,12 +8,17 @@ Kernel.UnhandledError>>#defaultAction
 Morphic-Widgets-NewList.NewListExample>>#buildTextMorph
 Polymorph-Widgets.MorphicUIManager>>#debugContext:title:contents:
 Polymorph-Widgets.MorphicUIManager>>#debugProcess:context:title:full:
+Polymorph-Widgets.MorphicUIManager>>#onDebug:context:title:full:
 Polymorph-Widgets.MorphicUIManager>>#unhandledErrorDefaultAction:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50244
+ScriptLoader50.ScriptLoader>>#update50244
 ScriptLoader50.ScriptLoader>>#update50245
 Settings-Polymorph.PolymorphSystemSettings class>>#morphicSettingsOn:
 SmartSuggestions-Tests.SugsMockContext>>#sourceTextArea
+Spec-Core.ComposableModel class>>#apiMethods
+Spec-Core.ComposableModel class>>#apiSelectors
+Spec-Core.ComposableModel>>#apiMethods
 Spec-MorphicAdapters.MorphicTextAdapter
 Spec-MorphicAdapters.MorphicTextAdapter>>#accept
 Spec-MorphicAdapters.MorphicTextAdapter>>#announcer
@@ -32,5 +37,7 @@ UIManager.DummyUIManager>>#debugContext:title:contents:
 UIManager.DummyUIManager>>#debugProcess:context:title:full:
 UIManager.NonInteractiveUIManager>>#debugContext:title:contents:
 UIManager.NonInteractiveUIManager>>#debugProcess:context:title:full:
+UIManager.NonInteractiveUIManager>>#onDebug:context:title:full:
 UIManager.UIManager>>#debugContext:title:contents:
 UIManager.UIManager>>#debugProcess:context:title:full:
+UIManager.UIManager>>#onDebug:context:title:full:

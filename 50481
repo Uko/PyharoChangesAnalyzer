@@ -1,7 +1,9 @@
 Morphic-Base.SelectionMorph>>#goBehind
 Nautilus.AbstractNautilusUI>>#browseMessages
+OpalCompiler-Core.OCBytecodeEncodingError
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50480
+ScriptLoader50.ScriptLoader>>#update50480
 ScriptLoader50.ScriptLoader>>#update50481
 Spec-Core.ComposableModel>>#newDiff
 Spec-Tools.MessageBrowser>>#textModel:

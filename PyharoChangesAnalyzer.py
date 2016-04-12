@@ -6,7 +6,7 @@ import shutil
 import re
 
 
-INTERESTING_CHANGE_TYPES = ["A", "M", "R"]
+INTERESTING_CHANGE_TYPES = ["A", "M", "R", "D"]
 
 def clone_init_repo():
     repo = Repo.clone_from("https://github.com/pharo-project/pharo-core.git","pharo-repo")

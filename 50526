@@ -2,9 +2,11 @@ Collections-Sequenceable.OrderedDictionary>>#=
 Collections-Sequenceable.OrderedDictionary>>#associationsSelect:
 Collections-Sequenceable.OrderedDictionary>>#collect:
 Collections-Sequenceable.OrderedDictionary>>#select:
+Collections-Sequenceable.OrderedDictionary>>#speciesNewFrom:
 Collections-Tests.OrderedDictionaryTest>>#testHash
 MonticelloFileTree-Core.MCFileTreeAbstractReader>>#hasMonticelloMetadata
 Morphic-Base.LayoutFrame>>#hash
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50525
+ScriptLoader50.ScriptLoader>>#update50525
 ScriptLoader50.ScriptLoader>>#update50526

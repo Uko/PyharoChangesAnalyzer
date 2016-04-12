@@ -2,6 +2,10 @@ ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#stable:
 ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version126:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version134:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version135:
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioSelectedForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioSelectedFormContents
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioUnselectedForm
+Glamour-Morphic-Theme.GLMThemeIcons class>>#radioUnselectedFormContents
 Glamour-Rubric-Presentations.GLMSegmentWithHelpAndMouseUpActionExample>>#presentation
 Rubric.RubAbstractTextArea>>#isReadOnly
 Rubric.RubAbstractTextArea>>#mouseDown:
@@ -11,8 +15,11 @@ Rubric.RubAbstractTextArea>>#textFont:
 Rubric.RubAdornmentDisplayer>>#drawOn:
 Rubric.RubCursor>>#actualCursorColor
 Rubric.RubGhostTextDisplayer>>#font:
+Rubric.RubGhostTextDisplayer>>#initialize
 Rubric.RubGhostTextDisplayer>>#noteNewOwner:
 Rubric.RubGhostTextDisplayer>>#showHideGhostText
+Rubric.RubGhostTextDisplayer>>#textAreaGotFocus:
+Rubric.RubGhostTextDisplayer>>#textAreaLostFocus:
 Rubric.RubScrolledTextMorph>>#configureGhostText:
 Rubric.RubScrolledTextMorph>>#defaultGhostTextMorph
 Rubric.RubScrolledTextMorph>>#isReadOnly
@@ -23,6 +30,7 @@ Rubric.RubTextScrollPane>>#drawSubmorphsOn:
 Rubric.RubTextScrollPane>>#drawSubmorphsOnAthensCanvas:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50117
+ScriptLoader50.ScriptLoader>>#update50117
 ScriptLoader50.ScriptLoader>>#update50118
 Spec-Core.LabelModel
 Spec-Core.LabelModel>>#emphasis

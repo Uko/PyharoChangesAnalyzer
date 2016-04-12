@@ -23,6 +23,7 @@ CodeImport.STCommandLineHandler>>#loadSourceFiles:
 Nautilus.PackageTreeNautilusUI>>#showHierarchy:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50271
+ScriptLoader50.ScriptLoader>>#update50271
 ScriptLoader50.ScriptLoader>>#update50272
 Traits.TBehavior>>#thoroughHasSelectorReferringTo:
 Traits.TBehavior>>#thoroughWhichSelectorsReferTo:

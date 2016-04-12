@@ -9,6 +9,7 @@ OpalDecompiler.RBTempVectorNode>>#isFaulty
 OpalDecompiler.RBTempVectorNode>>#stop
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50077
+ScriptLoader50.ScriptLoader>>#update50077
 ScriptLoader50.ScriptLoader>>#update50078
 Spec-Core.OkCancelToolbar>>#initializeWidgets
 Spec-Core.OkToolbar>>#initializeWidgets

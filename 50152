@@ -1,5 +1,7 @@
+Kernel.SharedPool class>>#keysDo:
 Refactoring-Core.RBExpandReferencedPoolsRefactoring>>#poolVariableNamesIn:
 Refactoring-Core.RBRefactoring>>#poolVariableNamesFor:
+Refactoring-Core.SharedPool class>>#keys
 Reflectivity.HookGenerator2
 Reflectivity.HookGenerator2 class>>#node:
 Reflectivity.HookGenerator2>>#afterHooks
@@ -25,6 +27,7 @@ Reflectivity.RBProgramNode>>#removeLink:
 Reflectivity.RFSemanticAnalyzer>>#analyseForLinks:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50151
+ScriptLoader50.ScriptLoader>>#update50151
 ScriptLoader50.ScriptLoader>>#update50152
 Spec-Tools.MessageBrowser>>#selectedMethods
 Tool-Base.SearchFacade class>>#classSearchInEnvironment:

@@ -8,6 +8,7 @@ Reflectivity.Breakpoint>>#initialize
 Reflectivity.Breakpoint>>#level:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50060
+ScriptLoader50.ScriptLoader>>#update50060
 ScriptLoader50.ScriptLoader>>#update50061
 Slot.OldClassBuilderAdapter>>#superclass:variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Slot.OldClassBuilderAdapter>>#superclass:variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

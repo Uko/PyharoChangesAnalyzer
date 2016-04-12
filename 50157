@@ -22,6 +22,7 @@ Reflectivity.RFASTTranslator>>#visitArrayNode:
 Reflectivity.RFASTTranslator>>#visitLiteralNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50156
+ScriptLoader50.ScriptLoader>>#update50156
 ScriptLoader50.ScriptLoader>>#update50157
 Spec-Core.TextModel>>#beForCode
 Spec-Core.TextModel>>#beForText

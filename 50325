@@ -1,5 +1,6 @@
 Monticello-Tests.MCMethodDefinitionTest>>#testRevertOldMethod
 Monticello.MCMethodDefinition>>#overridenMethodOrNil
+Monticello.MCMethodDefinition>>#scanForPreviousVersion
 Monticello.MCMethodDefinition>>#unload
 MonticelloGUI.MCWorkingCopyBrowser>>#addWorkingCopy
 Morphic-Base.MenuMorph>>#addItem
@@ -11,5 +12,6 @@ Reflectivity-Tests.ReflectivityExamples>>#examplePrimitiveMethod
 Reflectivity-Tests.ReflectivityLinkTest>>#testPrimitiveWithLinkExecuteWrapper
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50324
+ScriptLoader50.ScriptLoader>>#update50324
 ScriptLoader50.ScriptLoader>>#update50325
 Spec-Tools.WorkingCopyToolBar>>#createPackage

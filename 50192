@@ -15,10 +15,12 @@ Reflectivity.RFReification>>#genForRBGlobalNode
 Reflectivity.RFReification>>#genForRBInstanceVariableNode
 Rubric.RubAbstractTextArea
 Rubric.RubAbstractTextArea class>>#editorFont
+Rubric.RubAbstractTextArea class>>#editorFont:
 Rubric.RubAbstractTextArea class>>#rubricSettingsOn:
 Rubric.RubScrolledTextMorph>>#configureGhostText:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50191
+ScriptLoader50.ScriptLoader>>#update50191
 ScriptLoader50.ScriptLoader>>#update50192
 SmartSuggestions-Tests.SugsMenuBuilderTest>>#testFindBestNodeForClassItsRBVariable
 SmartSuggestions-Tests.SugsMenuBuilderTest>>#testFindBestNodeForClassVarItsRBVariable

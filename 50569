@@ -3,7 +3,16 @@ ConfigurationOfGTInspectorCore.ConfigurationOfGTInspectorCore>>#version29:
 ConfigurationOfGTSpotter.ConfigurationOfGTSpotter>>#version112:
 ConfigurationOfGToolkitCore.ConfigurationOfGToolkitCore>>#version310:
 ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version40:
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleAllSubclasses
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleClassVariables
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleInstanceVariables
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleSuperclasses
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraitComposition
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraitUsers
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraits
+GT-SpotterExtensions-Core.TClassDescription class>>#gtExamplePackage
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#loadConfiguration:version:
 ScriptLoader50.ScriptLoader>>#script50568
+ScriptLoader50.ScriptLoader>>#update50568
 ScriptLoader50.ScriptLoader>>#update50569

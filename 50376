@@ -2,6 +2,7 @@ ConfigurationOfTxText.ConfigurationOfTxText>>#stable:
 ConfigurationOfTxText.ConfigurationOfTxText>>#version2121:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50375
+ScriptLoader50.ScriptLoader>>#update50375
 ScriptLoader50.ScriptLoader>>#update50376
 TxText-Styler.TxTextStyler>>#visitMessageNode:
 TxText-Styler.TxTextStyler>>#visitSelfNode:

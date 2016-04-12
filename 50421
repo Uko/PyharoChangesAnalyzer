@@ -4,7 +4,9 @@ Rubric.RubAbstractTextArea>>#mouseDown:
 Rubric.RubAbstractTextArea>>#mouseMove:
 Rubric.RubAbstractTextArea>>#selectionChanged
 Rubric.RubPluggableTextMorph
+Rubric.RubPluggableTextMorph>>#formatSourceCode
 Rubric.RubPluggableTextMorph>>#getText
+Rubric.RubPluggableTextMorph>>#selectionInterval:
 Rubric.RubScrolledTextMorph
 Rubric.RubScrolledTextMorph>>#selectFrom:to:
 Rubric.RubScrolledTextMorph>>#selectionChanged
@@ -15,6 +17,7 @@ Rubric.RubScrolledTextMorph>>#setTextAreaSelection:
 Rubric.RubScrolledTextMorph>>#whenPrimarySelectionUpdatedInModel:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50420
+ScriptLoader50.ScriptLoader>>#update50420
 ScriptLoader50.ScriptLoader>>#update50421
 Spec-Core.RadioButtonGroup
 Spec-Core.RadioButtonGroup>>#addRadioButton:
@@ -22,6 +25,7 @@ Spec-Core.RadioButtonGroup>>#canDeselectByClick
 Spec-Core.RadioButtonGroup>>#canDeselectByClick:
 Spec-Core.RadioButtonGroup>>#default:
 Spec-Core.RadioButtonGroup>>#initialize
+Spec-Core.RadioButtonGroup>>#selectedButton
 Spec-Core.RadioButtonGroup>>#whenCanDeselectByClickChanged:
 Spec-Core.RadioButtonModel
 Spec-Core.RadioButtonModel>>#canDeselectByClick

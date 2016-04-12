@@ -21,13 +21,16 @@ Renraku.ReRuleManager>>#classAdded:
 Renraku.ReRuleManager>>#classRemoved:
 Renraku.ReRuleManager>>#classRules
 Renraku.ReRuleManager>>#initialize
+Renraku.ReRuleManager>>#initializeRules
 Renraku.ReRuleManager>>#methodRules
 Renraku.ReRuleManager>>#packageRules
+Renraku.ReRuleManager>>#reset
 Renraku.ReRuleManager>>#resetRules
 Renraku.ReRuleManager>>#subscribe
 Renraku.ReRuleManager>>#unsubscribe
 Renraku.ReSystemAnnouncer>>#notifyCritic:descriptionViewedFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50577
+ScriptLoader50.ScriptLoader>>#update50577
 ScriptLoader50.ScriptLoader>>#update50578
 Tool-Diff.DiffMorph>>#calculateDifference

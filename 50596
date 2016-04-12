@@ -21,6 +21,13 @@ GT-Debugger.GTMoldableDebugger>>#currentContext
 GT-Debugger.GTMoldableDebugger>>#taskbarIcon
 GT-InspectorExtensions-Core.Announcer>>#gtInspectorAnnouncementsIn:context:
 GT-InspectorExtensions-Core.Morph>>#gtInspectorMorphExtensionIn:
+GT-SUnitDebugger.GTSUnitDebugger>>#browser
+GT-SUnitDebugger.GTSUnitDebugger>>#compose
+GT-SUnitDebugger.GTSUnitDebugger>>#debuggerStructureIn:
+GT-SUnitDebugger.GTSUnitDebugger>>#debuggerTransmissionsIn:
+GT-SUnitDebugger.GTSUnitDebugger>>#session
+GT-SUnitDebugger.GTSUnitDebugger>>#session:
+GT-SUnitDebugger.GTSUnitDebugger>>#shouldDisplayExtraCodePane
 GT-SUnitDebugger.GTSUnitDebugger>>#transmitFromStackToCodeIn:
 GT-SUnitDebugger.GTSUnitExampleWithSetUpAndNoTearDownTest
 GT-SUnitDebugger.GTSUnitExampleWithSetUpAndNoTearDownTest class>>#isAbstract
@@ -33,6 +40,7 @@ GT-SUnitDebugger.GTSUnitExampleWithSetUpAndTearDownTest class>>#isUnitTest
 GT-SUnitDebugger.GTSUnitExampleWithSetUpAndTearDownTest>>#setUp
 GT-SUnitDebugger.GTSUnitExampleWithSetUpAndTearDownTest>>#tearDown
 GT-SUnitDebugger.GTSUnitExampleWithSetUpAndTearDownTest>>#testWithErrorInSetup
+GT-Spotter.GTSpotterCandidatesList>>#notifyAmountChanged:in:
 GT-Spotter.GTSpotterCategoryBrick
 GT-Spotter.GTSpotterCategoryBrick>>#addItem:
 GT-Spotter.GTSpotterCategoryBrick>>#initialize
@@ -66,6 +74,7 @@ GT-Spotter.GTSpotterResultsBrick>>#addItem:to:
 GT-Spotter.GTSpotterResultsBrick>>#buildCategoryBrick:
 GT-Spotter.GTSpotterResultsBrick>>#categories
 GT-Spotter.GTSpotterResultsBrick>>#categoryBrickFor:
+GT-Spotter.GTSpotterResultsBrick>>#categoryMorphOf:
 GT-Spotter.GTSpotterResultsBrick>>#initialize
 GT-Spotter.GTSpotterResultsBrick>>#onAllCandidatesAdded:
 GT-Spotter.GTSpotterResultsBrick>>#onAllCandidatesRemoved
@@ -88,4 +97,5 @@ GT-SpotterExtensions-Core.GTSpotter>>#spotterImplementorsFor:
 Glamour-Morphic-Widgets.GLMTreeMorphNodeModel>>#rowMorphForColumn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50595
+ScriptLoader50.ScriptLoader>>#update50595
 ScriptLoader50.ScriptLoader>>#update50596

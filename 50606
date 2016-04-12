@@ -75,5 +75,6 @@ STON-Tests.STONWriterTests>>#testMetaclass
 STON-Tests.STONWriterTests>>#testString
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50605
+ScriptLoader50.ScriptLoader>>#update50605
 ScriptLoader50.ScriptLoader>>#update50606
 System-Settings.SettingsStonWriter>>#store

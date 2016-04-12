@@ -2,6 +2,7 @@ RecentSubmissions.RecentMessageList>>#open
 Refactoring-Critics.RBModifiesCollectionRule>>#modifiesTree:in:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50268
+ScriptLoader50.ScriptLoader>>#update50268
 ScriptLoader50.ScriptLoader>>#update50269
 Slot.TemporaryVariable>>#ensureProperties
 Slot.TemporaryVariable>>#hash

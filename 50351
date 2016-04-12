@@ -1,10 +1,13 @@
 AST-Core.RBScanner>>#scanLiteral
 AST-Tests-Core.RBParserTest>>#testSymbolLiteral
+AST-Tests-Core.RBParserTest>>#testSymbolNumber
 Collections-Tests.KeyedTreeTest>>#testMerge
 Collections-Tests.KeyedTreeTest>>#testSubtrees
 MenuRegistration.FallbackMenu>>#menu
 Morphic-Base.HaloMorph>>#doDebug:with:
 Morphic-Base.MenuMorph class>>#example
+Morphic-Base.MenuMorph>>#addStayUpIcons
+Morphic-Base.MenuMorph>>#addStayUpItem
 Morphic-Base.MenuMorph>>#addTitle:icon:
 Morphic-Base.MenuMorph>>#createTitleMorph
 Morphic-Base.MenuMorph>>#stayUp:
@@ -53,6 +56,7 @@ Reflectivity.RFVariableReification class>>#nodes
 Reflectivity.RFVariableReification>>#genForInstanceVariableSlot
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50350
+ScriptLoader50.ScriptLoader>>#update50350
 ScriptLoader50.ScriptLoader>>#update50351
 System-CachingTests.LRUCacheTests>>#testRemoveAll
 Tool-CriticBrowser.SelectPackageBrowser class>>#defaultSpec

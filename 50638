@@ -1,0 +1,16 @@
+ConfigurationOfVersionner.ConfigurationOfVersionner>>#stable:
+ConfigurationOfVersionner.ConfigurationOfVersionner>>#version2139:
+Morphic-Core.PasteUpMorph>>#popUpContentsMenu:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50637
+ScriptLoader50.ScriptLoader>>#update50637
+ScriptLoader50.ScriptLoader>>#update50638
+System-Settings-Tests.SystemSettingsPersistenceTest>>#testLastInSessionManager
+System-Settings.SystemSettingsPersistence class>>#initialize
+Versionner-Core-Commands.VSSaveProjectCommand
+Versionner-Core-Commands.VSSaveProjectCommand class>>#enableValidateSetting:
+Versionner-Core-Commands.VSSaveProjectCommand class>>#validateBeforeSaving
+Versionner-Core-Commands.VSSaveProjectCommand class>>#validateBeforeSaving:
+Versionner-Core-Commands.VSSaveProjectCommand>>#commit
+Versionner-Core-Commands.VSSaveProjectCommand>>#execute
+Versionner-Spec-Browser.VersionnerSpecBrowser class>>#settingsOn:

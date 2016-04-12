@@ -14,6 +14,7 @@ CodeImport.ClassCommentChunk>>#accept:
 CodeImport.ClassCommentChunk>>#description
 CodeImport.ClassCommentChunk>>#isClassCommentDeclaration
 CodeImport.ClassCommentChunk>>#stamp
+CodeImport.ClassCommentDeclaration
 CodeImport.ClassCommentDeclaration class>>#contents:behaviorName:isMeta:stamp:
 CodeImport.ClassCommentDeclaration>>#import
 CodeImport.ClassCommentDeclaration>>#stamp:
@@ -21,6 +22,7 @@ CodeImport.ClassOrganizationChunk
 CodeImport.ClassOrganizationChunk>>#accept:
 CodeImport.ClassOrganizationChunk>>#description
 CodeImport.ClassOrganizationChunk>>#isClassOrganizationDeclaration
+CodeImport.ClassOrganizationDeclaration
 CodeImport.ClassOrganizationDeclaration class>>#contents:behaviorName:isMeta:
 CodeImport.ClassOrganizationDeclaration class>>#contents:organizer:
 CodeImport.ClassOrganizationDeclaration>>#import
@@ -39,6 +41,7 @@ CodeImport.CodeDeclaration>>#printOn:
 CodeImport.CodeImporter class>>#fileNamed:
 CodeImport.CodeImporter>>#evaluateDeclarations
 CodeImport.CodeImporter>>#parseChunks
+CodeImport.CodeImporter>>#parseDeclarations
 CodeImport.DoItChunk>>#accept:
 CodeImport.DoItChunk>>#description
 CodeImport.DoItChunk>>#isDoItDeclaration
@@ -88,4 +91,5 @@ ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#version100:
 ConfigurationOfCodeImporter.ConfigurationOfCodeImporter>>#version110:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50079
+ScriptLoader50.ScriptLoader>>#update50079
 ScriptLoader50.ScriptLoader>>#update50080

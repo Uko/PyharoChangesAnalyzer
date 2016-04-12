@@ -11,6 +11,7 @@ Reflectivity.RFASTTranslator>>#emitPrepareLinkAfter:
 Reflectivity.Set>>#parseOptions:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50462
+ScriptLoader50.ScriptLoader>>#update50462
 ScriptLoader50.ScriptLoader>>#update50463
 Tools.SyntaxErrorDebugger
 Tools.SyntaxErrorDebugger>>#debug

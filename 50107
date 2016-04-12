@@ -2,11 +2,33 @@ AST-Core.RBConfigurableFormatter>>#needsParenthesisFor:
 AST-Tests-Core.RBFormatterTests>>#testShouldNotParenthesizeDynamicArrayStatements
 ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
 ConfigurationOfCatalog.ConfigurationOfCatalog>>#version051:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits class>>#defaultWarningLimit
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits class>>#defaultWarningLimit:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits class>>#example
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits class>>#getText
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits class>>#ignoredCharacters
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits class>>#resetDefaultWarningLimit
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits class>>#textSizeOf:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#alertLimit
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#alertLimit:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#backgroundColorFor:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#basicColor
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#basicWidth
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#buildRectFrom:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#drawOn:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#innerExtent
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#setBalloonTextFrom:
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#stringColor
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#textSize
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#warningLimit
+Morphic-Widgets-Pluggable.PluggableTextMorphWithLimits>>#warningLimit:
 Nautilus.AbstractNautilusUI>>#buildNewSourceTextArea
 Nautilus.AbstractNautilusUI>>#sourceCode
 Nautilus.AbstractNautilusUI>>#textMorphClass
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50106
+ScriptLoader50.ScriptLoader>>#update50106
 ScriptLoader50.ScriptLoader>>#update50107
 Spec-Tools.ChangeSorterApplication>>#browseVersions
 Spec-Tools.ChangeSorterApplication>>#createRingMethodForRemovedSelector:inClass:

@@ -14,6 +14,7 @@ Monticello.MCDataStream class>>#typeMap
 Monticello.MCDataStream class>>#writeSelectors
 Monticello.MCDataStream>>#next
 Monticello.MCDataStream>>#nextPut:
+Monticello.MCDataStream>>#noteCurrentReference:
 Monticello.MCDataStream>>#readBitmap
 Monticello.MCDataStream>>#readByteArray
 Monticello.MCDataStream>>#readClass
@@ -53,14 +54,20 @@ NativeBoost-Win32.Win32Environment>>#setEnv:value:
 NativeBoost-Win32.Win32Environment>>#unsetEnv:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50256
+ScriptLoader50.ScriptLoader>>#update50256
 ScriptLoader50.ScriptLoader>>#update50257
+System-Changes.ChangeSet>>#checkForUnclassifiedMethods
+System-Changes.ChangeSet>>#checkForUncommentedMethods
+System-Changes.ChangeSet>>#checkForUnsentMessages
 System-Changes.ChangeSet>>#fileOut
+System-Changes.ChangeSet>>#lookForSlips
 System-OSEnvironments.OSEnvironment class>>#current
 System-OSEnvironments.OSEnvironment class>>#default
 System-OSEnvironments.OSEnvironment class>>#initialize
 System-OSEnvironments.OSEnvironment class>>#shutDown:
 System-OSEnvironments.OSPlatform>>#environment
 System-Platforms.OSEnvironment
+System-Platforms.OSEnvironment class>>#default
 System-Platforms.OSEnvironment class>>#environmentFor:
 System-Platforms.OSEnvironment class>>#isAvailable
 System-Platforms.OSEnvironment class>>#isDefaultFor:
@@ -89,6 +96,8 @@ System-Platforms.OSEnvironment>>#unsetEnv:
 System-Platforms.OSEnvironment>>#values
 System-Platforms.OSEnvironment>>#valuesDo:
 System-Platforms.OSPlatform
+System-Platforms.OSPlatform>>#createEnvironment
+System-Platforms.OSPlatform>>#environment
 System-Platforms.PlatformIndependentEnvironment
 System-Platforms.PlatformIndependentEnvironment class>>#isAvailable
 System-Platforms.PlatformIndependentEnvironment class>>#isDefaultFor:
@@ -96,3 +105,5 @@ System-Platforms.PlatformIndependentEnvironment>>#getEnv:
 System-Platforms.PlatformIndependentEnvironment>>#keysAndValuesDo:
 System-Platforms.PlatformIndependentEnvironment>>#setEnv:value:
 System-Platforms.PlatformIndependentEnvironment>>#unsetEnv:
+System-Platforms.Win32Platform>>#environment
+System-Support.SmalltalkImage>>#removeAllLineFeeds

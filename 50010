@@ -1,6 +1,7 @@
 Collections-Sequenceable.OrderedDictionary>>#add:
 Collections-Sequenceable.OrderedDictionary>>#associationAt:ifPresent:
 Collections-Sequenceable.OrderedDictionary>>#at:put:
+Collections-Sequenceable.OrderedDictionary>>#deleteOrderedKey:
 Collections-Sequenceable.OrderedDictionary>>#errorInvalidIndex:
 Collections-Sequenceable.OrderedDictionary>>#identityIndexOfKey:
 Collections-Sequenceable.OrderedDictionary>>#orderedKeysIndexOf:
@@ -28,9 +29,13 @@ CollectionsTests.OrderedDictionaryTest>>#testIndexOfKeyIfAbsent
 CollectionsTests.OrderedDictionaryTest>>#testKeyAtIdentityValue
 CollectionsTests.OrderedDictionaryTest>>#testKeyAtIdentityValueIfAbsent
 CollectionsTests.OrderedDictionaryTest>>#testRemoveKey
+CollectionsTests.OrderedIdentityDictionaryTest>>#absentKey
+CollectionsTests.OrderedIdentityDictionaryTest>>#dictionaryAssociations
+CollectionsTests.OrderedIdentityDictionaryTest>>#internalDictionaryClass
 CollectionsTests.OrderedIdentityDictionaryTest>>#isTestingIdentityDictionary
 Morphic-Core.Morph>>#asText
 MorphicTests.TextAnchorTest>>#testMorphInline
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script618
+ScriptLoader50.ScriptLoader>>#update50009
 ScriptLoader50.ScriptLoader>>#update50010

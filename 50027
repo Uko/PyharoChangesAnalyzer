@@ -7,6 +7,7 @@ Rubric.RubShoutStylerDecorator>>#aboutToBeUnplugged
 Rubric.RubShoutStylerDecorator>>#next:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script635
+ScriptLoader50.ScriptLoader>>#update50026
 ScriptLoader50.ScriptLoader>>#update50027
 Zinc-HTTP.ZnClient>>#prepareRedirect
 Zinc-HTTP.ZnCookie>>#fromString:

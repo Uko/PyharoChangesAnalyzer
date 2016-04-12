@@ -1,0 +1,49 @@
+Alien.Alien class>>#ensureNotifiedAtStartup
+Alien.Alien class>>#ensureNotifiedAtStartupAfter:
+Alien.FFICallbackThunk class>>#ensureNotifiedAtStartup
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_15:
+FFI-Kernel.ByteArray>>#booleanAt:
+FFI-Kernel.ByteArray>>#booleanAt:put:
+FFI-Kernel.ExternalAddress>>#finalize
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50636
+ScriptLoader50.ScriptLoader>>#update50636
+ScriptLoader50.ScriptLoader>>#update50637
+UnifiedFFI-Tests.FFIExternalValueHolderTests
+UnifiedFFI-Tests.FFIExternalValueHolderTests>>#getTime:
+UnifiedFFI-Tests.FFIExternalValueHolderTests>>#testCall
+UnifiedFFI-Tests.FFIExternalValueHolderTests>>#testCreateValueHolder
+UnifiedFFI-Tests.FFITypesTests
+UnifiedFFI-Tests.FFITypesTests>>#signed1ByteNumbers
+UnifiedFFI-Tests.FFITypesTests>>#signed2ByteNumbers
+UnifiedFFI-Tests.FFITypesTests>>#signed4ByteNumbers
+UnifiedFFI-Tests.FFITypesTests>>#signed8ByteNumbers
+UnifiedFFI-Tests.FFITypesTests>>#testSigned1ByteIntegers
+UnifiedFFI-Tests.FFITypesTests>>#testSigned2ByteIntegers
+UnifiedFFI-Tests.FFITypesTests>>#testSigned4ByteIntegers
+UnifiedFFI-Tests.FFITypesTests>>#testSignedLong
+UnifiedFFI-Tests.FFITypesTests>>#testSignedLongLong
+UnifiedFFI-Tests.FFITypesTests>>#testUnsigned1ByteIntegers
+UnifiedFFI-Tests.FFITypesTests>>#testUnsigned2ByteIntegers
+UnifiedFFI-Tests.FFITypesTests>>#testUnsigned4ByteIntegers
+UnifiedFFI-Tests.FFITypesTests>>#testUnsignedLong
+UnifiedFFI-Tests.FFITypesTests>>#testUnsignedLongLong
+UnifiedFFI-Tests.FFITypesTests>>#unsigned1ByteNumbers
+UnifiedFFI-Tests.FFITypesTests>>#unsigned2ByteNumbers
+UnifiedFFI-Tests.FFITypesTests>>#unsigned4ByteNumbers
+UnifiedFFI-Tests.FFITypesTests>>#unsigned8ByteNumbers
+UnifiedFFI.ExternalAddress>>#readString
+UnifiedFFI.ExternalAddress>>#writeString:
+UnifiedFFI.ExternalObject>>#pointer
+UnifiedFFI.FFIExternalValueHolder
+UnifiedFFI.FFIExternalValueHolder class>>#ofType:
+UnifiedFFI.FFIExternalValueHolder class>>#type:
+UnifiedFFI.FFIExternalValueHolder>>#initialize
+UnifiedFFI.FFIExternalValueHolderType>>#needsArityRolling
+UnifiedFFI.FFIExternalValueHolderType>>#readEnumAt:
+UnifiedFFI.FFIExternalValueHolderType>>#readFieldAt:
+UnifiedFFI.FFIExternalValueHolderType>>#writeFieldAt:with:
+UnifiedFFI.FFIMethodRegistry class>>#initialize
+UnifiedFFI.FFIMethodRegistry class>>#initializeStartUpList
+UnifiedFFI.TFFIPointerArity>>#needsArityRolling

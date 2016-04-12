@@ -6,5 +6,6 @@ OpalCompiler-Core.OpalCompiler>>#parseMethod
 OpalCompiler-Tests.OCCompileWithFailureTest>>#testEvalSimpleMethodWithError
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50178
+ScriptLoader50.ScriptLoader>>#update50178
 ScriptLoader50.ScriptLoader>>#update50179
 SmartSuggestions.SugsMenuBuilder class>>#findBestNodeFor:

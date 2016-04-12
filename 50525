@@ -9,7 +9,10 @@ QualityAssistantRecording.QAEventCollector class>>#recordAnnouncement:
 QualityAssistantRecording.QAEventCollector class>>#uniqueInstance
 QualityAssistantRecording.QAEventCollector class>>#unload
 QualityAssistantRecording.QAEventCollector>>#initialize
+QualityAssistantRecording.QAEventCollector>>#linkToReSystemAnnouncer:
+Renraku.ReSystemAnnouncer class>>#cleanUp
 Renraku.ReSystemAnnouncer class>>#uniqueInstance
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50524
+ScriptLoader50.ScriptLoader>>#update50524
 ScriptLoader50.ScriptLoader>>#update50525

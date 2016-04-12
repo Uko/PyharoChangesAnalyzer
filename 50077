@@ -6,4 +6,5 @@ Rubric.RubAbstractTextArea class>>#textColor
 Rubric.RubScrolledTextMorph>>#defaultBackgroundColor
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50076
+ScriptLoader50.ScriptLoader>>#update50076
 ScriptLoader50.ScriptLoader>>#update50077

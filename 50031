@@ -5,26 +5,35 @@ ConfigurationOfTxText.ConfigurationOfTxText>>#version285:
 ConfigurationOfTxText.ConfigurationOfTxText>>#version29:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script639
+ScriptLoader50.ScriptLoader>>#update50030
 ScriptLoader50.ScriptLoader>>#update50031
 TxText-Athens.TxApplicationWithToolbar>>#openWithSpec
 TxText-Athens.TxAthensLayoutView>>#scrollBy:
 TxText-Athens.TxBasicViewMorph class>>#fontFamilyForExamples
 TxText-Athens.TxBasicViewMorph class>>#openInWindowWithString:
+TxText-Athens.TxLayoutViewMorph class>>#openInWindowWithString:
+TxText-Athens.TxLayoutViewMorph class>>#openInWindowWithText:
 TxText-Athens.TxLayoutViewMorph class>>#text:
 TxText-Athens.TxTextEditorMorph class>>#exampleHugeText
 TxText-Athens.TxTextEditorMorph class>>#exampleTextMultiSizeFont
+TxText-Athens.TxTextEditorMorph class>>#exampleTextMultiSizeFont2
 TxText-Athens.TxTextEditorMorph class>>#exampleWithCustomClickAction
 TxText-Athens.TxTextEditorMorph class>>#exampleWithCustomCursor
 TxText-Athens.TxTextEditorMorph class>>#exampleWithEmbeddedObject
 TxText-Athens.TxTextEditorMorph class>>#initialize
+TxText-Athens.TxTextEditorMorph class>>#openInWindowWithString:
 TxText-Athens.TxTextEditorMorph class>>#openInWindowWithText:
+TxText-Athens.TxTextEditorMorph class>>#text:
+TxText-Model.TxBasicSpan>>#printOn:
 TxText-Model.TxBasicSpan>>#style
 TxText-Model.TxCharacterSpan>>#canMerge:
+TxText-Model.TxCharacterSpan>>#doMerge:
 TxText-Model.TxCharacterSpan>>#mergeUpTo:
 TxText-Model.TxEmbeddedObjectSpan>>#printContentsOn:
 TxText-Model.TxEndSpan>>#printOn:
 TxText-Model.TxLineSeparator>>#mergeUpTo:
 TxText-Model.TxLineSeparator>>#printContentsOn:
+TxText-Model.TxLineSeparator>>#printOn:
 TxText-Model.TxModel
 TxText-Model.TxModel class>>#fromString:
 TxText-Model.TxModel>>#mergeFrom:to:

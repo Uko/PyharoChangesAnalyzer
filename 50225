@@ -23,8 +23,10 @@ Kernel.DeepCopier>>#basicCheckClass:
 Kernel.DeepCopier>>#checkAllClasses
 Kernel.DeepCopier>>#checkBasicClasses
 Kernel.DeepCopier>>#checkClass:
+Kernel.DeepCopier>>#checkVariables
 Kernel.DeepCopier>>#doesMethod:writeAllInstanceVariablesOfClass:
 Kernel.DeepCopier>>#raiseWarningsIfAny:
+Kernel.DeepCopier>>#warnInstanceVariableNotCopiedIn:selector:
 Kernel.ManifestKernel class>>#manuallyResolvedDependencies
 Monticello.ManifestMonticello
 Monticello.ManifestMonticello class>>#manuallyResolvedDependencies
@@ -39,6 +41,8 @@ NewValueHolder.ManifestNewValueHolder class>>#manuallyResolvedDependencies
 OpalCompiler-Core.ManifestOpalCompilerCore class>>#manuallyResolvedDependencies
 RPackage-Core.ManifestRPackageCore
 RPackage-Core.ManifestRPackageCore class>>#manuallyResolvedDependencies
+RPackage-Core.RPackageOrganizer class>>#removeMockPackagesFromOldOrganizer
+RPackage-Core.RPackageOrganizer>>#systemTraitDefinitionModifiedActionFrom:
 Regex-Core.ManifestRegexCore
 Regex-Core.ManifestRegexCore class>>#manuallyResolvedDependencies
 Ring-Core-Kernel.RGBehaviorDefinition>>#browse
@@ -46,6 +50,7 @@ Ring-Core-Kernel.RGElementDefinition>>#browse
 Ring-Core-Kernel.RGMethodDefinition>>#browse
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50224
+ScriptLoader50.ScriptLoader>>#update50224
 ScriptLoader50.ScriptLoader>>#update50225
 Slot.ManifestSlot
 Slot.ManifestSlot class>>#manuallyResolvedDependencies

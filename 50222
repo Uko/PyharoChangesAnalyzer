@@ -1,10 +1,15 @@
+Collections-Sequenceable.Array>>#storeOnStream:
 MonticelloGUI.MCTool>>#textMorph:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50221
+ScriptLoader50.ScriptLoader>>#update50221
 ScriptLoader50.ScriptLoader>>#update50222
 Slot-Tests.SlotAnnouncementsTest>>#testCreateAndChangeWithoutCommentDoesNotAnnounce
 Slot-Tests.SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce
 Slot-Tests.SlotAnnouncementsTest>>#testEmptyCommentDoesNotAnnounce
 Slot-Tests.SlotAnnouncementsTest>>#testSameCommentDoesNotAnnounce
 System-CommandLine.VTermOutputDriver
+System-CommandLine.VTermOutputDriver>>#echo
+System-CommandLine.VTermOutputDriver>>#echo:
+System-CommandLine.VTermOutputDriver>>#noEcho
 Traits.TClassDescription>>#classComment:stamp:

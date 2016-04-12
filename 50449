@@ -1,4 +1,5 @@
 Kernel.ClassDescription>>#instanceVariables
+Kernel.ClassDescription>>#instanceVariables:
 Nautilus.AbstractNautilusUI>>#buildNewCodeSourceAreaRubric
 Nautilus.AbstractNautilusUI>>#registerToSystemAnnouncements
 Nautilus.Nautilus>>#addIconStyle
@@ -46,6 +47,10 @@ Reflectivity-Examples.BreakpointIconStyler>>#shouldStyleNode:
 Reflectivity-Examples.CoverageRubricStyler>>#addMetalinkStyle:from:to:
 Reflectivity-Examples.MetalinkIconStyler
 Reflectivity-Examples.MetalinkIconStyler class>>#shouldStyle
+Reflectivity-Examples.MetalinkIconStyler>>#addMetalinkMethodStyle:
+Reflectivity-Examples.MetalinkIconStyler>>#addMetalinkStyle:
+Reflectivity-Examples.MetalinkIconStyler>>#addMetalinkStyle:from:to:
+Reflectivity-Examples.MetalinkIconStyler>>#addMetalinkStyle:from:to:color:
 Reflectivity-Examples.MetalinkIconStyler>>#icon
 Reflectivity-Examples.MetalinkIconStyler>>#iconBlock:
 Reflectivity-Examples.MetalinkIconStyler>>#iconLabel
@@ -53,6 +58,27 @@ Reflectivity-Examples.MetalinkIconStyler>>#iconProvider
 Reflectivity-Examples.MetalinkIconStyler>>#shouldStyleNode:
 Reflectivity-Examples.MetalinkIconStyler>>#textModel
 Reflectivity-Examples.MetalinkIconStyler>>#textModel:
+Reflectivity-Examples.MetalinkIconStyler>>#visitArgumentNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitArrayNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitAssignmentNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitBlockNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitCascadeNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitGlobalNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitInstanceVariableNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitLiteralArrayNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitLiteralNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitMessageNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitMethodNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitParseErrorNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitPragmaNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitReturnNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitSelfNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitSequenceNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitSuperNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitTemporaryNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitThisContextNode:
+Reflectivity-Examples.MetalinkIconStyler>>#visitVariableNode:
+Reflectivity-Examples.MetalinkTextSegmentMorph
 Reflectivity.CompiledMethod>>#hasBreakpoint
 Reflectivity.MetalinkChanged
 Reflectivity.MetalinkChanged>>#link
@@ -61,6 +87,9 @@ Reflectivity.RBProgramNode>>#hasBreakpoint
 Reflectivity.ReflectiveMethod>>#installLink:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50448
+ScriptLoader50.ScriptLoader>>#update50448
 ScriptLoader50.ScriptLoader>>#update50449
 Tool-ExternalBrowser.ExternalBrowser>>#initializePresenter
 Tool-ExternalBrowser.ExternalBrowser>>#initializeWidgets
+Traits.TClassDescription>>#instanceVariables:
+Traits.TraitDescription>>#instanceVariables:

@@ -11,6 +11,7 @@ OpalCompiler-Core.OCUndeclaredVariableWarning>>#defineClass:
 Refactoring-Core.RBTemporaryToInstanceVariableRefactoring>>#transform
 Reflectivity-Tests.ReflectiveMethodTest>>#testUninstallLinkAndRunAfter
 Reflectivity.RFASTTranslator
+Reflectivity.RFASTTranslator>>#emitMetaLinkAfter:
 Reflectivity.RFASTTranslator>>#emitMetaLinkBefore:
 Reflectivity.RFASTTranslator>>#emitMetaLinkInstead:
 Reflectivity.RFASTTranslator>>#hasSeen:
@@ -19,4 +20,5 @@ Reflectivity.RFASTTranslator>>#removeSeen:
 Reflectivity.RFASTTranslator>>#visitNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50140
+ScriptLoader50.ScriptLoader>>#update50140
 ScriptLoader50.ScriptLoader>>#update50141

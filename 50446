@@ -8,6 +8,7 @@ Nautilus.MethodContainsHaltAction>>#isActionHandled
 NautilusCommon.AbstractPackageSelectedPlugin>>#registerTo:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50445
+ScriptLoader50.ScriptLoader>>#update50445
 ScriptLoader50.ScriptLoader>>#update50446
 Traits.TClassDescription>>#instVarNames
 Traits.TraitDescription>>#instVarNames

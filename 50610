@@ -1,5 +1,8 @@
 Refactoring-Critics.RBSentNotImplementedRule
+Refactoring-Critics.RBSentNotImplementedRule>>#checkClass:
+Refactoring-Critics.RBSentNotImplementedRule>>#implementorsCache
 Refactoring-Critics.RBSentNotImplementedRule>>#implementorsExists:
+Refactoring-Critics.RBSentNotImplementedRule>>#resetImplementorsCache
 Rubric.RubEditingArea>>#beForSmalltalkCodeInClass:
 Rubric.RubScrolledTextMorph>>#beForSmalltalkCodeInClass:
 Rubric.RubSmalltalkCodeMode
@@ -8,6 +11,7 @@ Rubric.RubSmalltalkCodeMode>>#updateStyler
 Rubric.RubSmalltalkCodeMode>>#withShoutStyler
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50609
+ScriptLoader50.ScriptLoader>>#update50609
 ScriptLoader50.ScriptLoader>>#update50610
 SmartSuggestions.DiffMorph>>#sugsContext
 SmartSuggestions.ProcessBrowser>>#sugsContext

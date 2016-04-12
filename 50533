@@ -17,6 +17,7 @@ ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#stable:
 ConfigurationOfSessionManager.ConfigurationOfSessionManager>>#version10:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50532
+ScriptLoader50.ScriptLoader>>#update50532
 ScriptLoader50.ScriptLoader>>#update50533
 System-SessionManager-Tests.SessionCreationTest
 System-SessionManager-Tests.SessionCreationTest>>#testNewSession

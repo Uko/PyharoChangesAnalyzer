@@ -4,10 +4,13 @@ Reflectivity-Tests.ReflectivityControlTest>>#testAfterBlockSequence
 Reflectivity.RFASTTranslatorForValue>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50325
+ScriptLoader50.ScriptLoader>>#update50325
 ScriptLoader50.ScriptLoader>>#update50326
 Slot.LayoutAbstractScope>>#extend:as:
+Slot.Slot>>#parentScopeFor:
 Slot.Slot>>#scope:
 Spec-Tools.NewVersionBrowser>>#buildChangeList
+System-Changes.TBehavior>>#changeRecordsAt:
 System-Sources.SourceFileArray>>#changeRecordsFor:
 System-Sources.SourceFileArray>>#changeRecordsFor:do:
 Tool-Finder.MethodFinder>>#initialize

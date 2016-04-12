@@ -2,6 +2,7 @@ ConfigurationOfVersionner.ConfigurationOfVersionner>>#stable:
 ConfigurationOfVersionner.ConfigurationOfVersionner>>#version2134:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50319
+ScriptLoader50.ScriptLoader>>#update50319
 ScriptLoader50.ScriptLoader>>#update50320
 Versionner-Core-Commands.VSBrowseVersionCommand>>#execute
 Versionner-Core-Commands.VSSaveProjectCommand>>#execute

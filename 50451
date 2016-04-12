@@ -1,5 +1,6 @@
 Morphic-Widgets-Basic.ButtonClicked
 Morphic-Widgets-Basic.MultistateButtonMorph>>#activate
+Morphic-Widgets-Basic.MultistateButtonMorph>>#addDownAction:
 Morphic-Widgets-Basic.MultistateButtonMorph>>#addUpAction:
 Morphic-Widgets-Basic.MultistateButtonMorph>>#extent:
 Morphic-Widgets-Basic.MultistateButtonMorph>>#handlesMouseDown:
@@ -13,8 +14,11 @@ Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseLeaveDragging:
 Morphic-Widgets-Basic.MultistateButtonMorph>>#mouseUp:
 Morphic-Widgets-Basic.MultistateButtonMorph>>#passivate
 Morphic-Widgets-Basic.MultistateButtonMorph>>#privateMoveBy:
+Morphic-Widgets-Basic.MultistateButtonMorph>>#removeDownActions
+Morphic-Widgets-Basic.MultistateButtonMorph>>#removeUpActions
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50450
+ScriptLoader50.ScriptLoader>>#update50450
 ScriptLoader50.ScriptLoader>>#update50451
 SmartSuggestions.SugsBreakAlwaysSuggestion
 SmartSuggestions.SugsBreakAlwaysSuggestion>>#execute
@@ -28,8 +32,11 @@ SmartSuggestions.SugsBreakOnceSuggestion>>#execute
 SmartSuggestions.SugsBreakOnceSuggestion>>#isValidForContext
 SmartSuggestions.SugsBreakOnceSuggestion>>#label
 SmartSuggestions.SugsBreakpointSuggestion>>#breakpointForCondition
+SmartSuggestions.SugsBreakpointSuggestion>>#breakpointSelectionMenu
+SmartSuggestions.SugsBreakpointSuggestion>>#execute
 SmartSuggestions.SugsBreakpointSuggestion>>#label
 SmartSuggestions.SugsBreakpointSuggestion>>#selectedNodeHasBreakpoint
+SmartSuggestions.SugsBreakpointSuggestion>>#selectedNodeHasMetalink
 SmartSuggestions.SugsSuggestionFactory class>>#cleanUp
 SmartSuggestions.SugsSuggestionFactory class>>#createBreakAtLineCommand
 SmartSuggestions.SugsSuggestionFactory class>>#createBreakConditionCommand

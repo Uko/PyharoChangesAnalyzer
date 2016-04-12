@@ -1,11 +1,25 @@
 Nautilus-GroupManagerUI.DialogGroupManagerUI>>#buildAddSelectedPackageInSelectedGroupButton
 Nautilus-GroupManagerUI.DialogGroupManagerUI>>#buildRemoveSelectedPackageFromSelectedGroupButton
 Nautilus-Tests.PackageTreeNautilusTest>>#setUp
+Nautilus.AbstractNautilusUI>>#buildSeparator
+Nautilus.AbstractNautilusUI>>#classAdded:
+Nautilus.AbstractNautilusUI>>#popUpTestsResult:
+Nautilus.AbstractNautilusUI>>#renamePackage:
+Nautilus.AbstractNautilusUI>>#selectedGroup:
+Nautilus.AbstractNautilusUI>>#showHierarchySilently:
+Nautilus.AbstractNautilusUI>>#updatePackageView
 Nautilus.NautilusUI
+Nautilus.NautilusUI class>>#initializeCache
+Nautilus.NautilusUI>>#findAllMethod
 Nautilus.NautilusUI>>#fullBrowse
 Nautilus.NautilusUI>>#initialize
 Nautilus.NautilusUI>>#isSelectedPackage:
+Nautilus.NautilusUI>>#methodsForCategoriesInGroup:
+Nautilus.NautilusUI>>#methodsForCategoryInGroup:
+Nautilus.NautilusUI>>#nextButtonState
+Nautilus.NautilusUI>>#previousButtonState
 Nautilus.NautilusUI>>#renameCategory
+Nautilus.NautilusUI>>#selectedMethodWithoutAsking:
 Nautilus.PackageTreeNautilusUI
 Nautilus.PackageTreeNautilusUI class>>#packagesFixMenu:
 Nautilus.PackageTreeNautilusUI>>#addClassCategory
@@ -31,9 +45,12 @@ Nautilus.PackageTreeNautilusUI>>#defaultClassDescriptor
 Nautilus.PackageTreeNautilusUI>>#ensureSafePackagePattern:
 Nautilus.PackageTreeNautilusUI>>#fileOutPackages:
 Nautilus.PackageTreeNautilusUI>>#fixPackagePattern:ex:
+Nautilus.PackageTreeNautilusUI>>#fullBrowse
 Nautilus.PackageTreeNautilusUI>>#fullBrowseFromPackage:
 Nautilus.PackageTreeNautilusUI>>#fullBrowseFromTag:
 Nautilus.PackageTreeNautilusUI>>#groups
+Nautilus.PackageTreeNautilusUI>>#initialize
+Nautilus.PackageTreeNautilusUI>>#isSelectedPackage:
 Nautilus.PackageTreeNautilusUI>>#keyPressedOnList:shifted:
 Nautilus.PackageTreeNautilusUI>>#keyPressedOnTree:target:
 Nautilus.PackageTreeNautilusUI>>#listClearSelection
@@ -53,6 +70,7 @@ Nautilus.PackageTreeNautilusUI>>#removeClassCategory:
 Nautilus.PackageTreeNautilusUI>>#removeGroups
 Nautilus.PackageTreeNautilusUI>>#removePackageCategory:
 Nautilus.PackageTreeNautilusUI>>#removePackages
+Nautilus.PackageTreeNautilusUI>>#renameCategory
 Nautilus.PackageTreeNautilusUI>>#renameClassCategory:
 Nautilus.PackageTreeNautilusUI>>#renamePackage:
 Nautilus.PackageTreeNautilusUI>>#renamePackageCategory:
@@ -73,6 +91,7 @@ Nautilus.PackageTreeNautilusUI>>#useLastPackagePatternString
 Nautilus.PackageTreeNautilusUI>>#useLastPackagePatternStringForClass:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50456
+ScriptLoader50.ScriptLoader>>#update50456
 ScriptLoader50.ScriptLoader>>#update50457
 System-Announcements.ClassParentRenamed
 System-Announcements.ClassParentRenamed class>>#classParentOf:renamedFrom:to:

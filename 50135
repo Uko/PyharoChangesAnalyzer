@@ -2,11 +2,17 @@ OpalCompiler-Core.OCASTTranslator>>#visitMethodNode:
 OpalCompiler-Core.OCASTTranslator>>#visitNode:
 OpalCompiler-Core.OCASTTranslator>>#visitReturnNode:
 OpalCompiler-Core.OCASTTranslator>>#visitVariableNode:
+OpalCompiler-Core.OCASTTranslator>>#visitVariableWrite:
 Reflectivity-Tests.ReflectiveMethodTest>>#testReifyGlobalVariable
+Reflectivity.OCASTTranslator>>#emitMetaLinkAfter:
+Reflectivity.OCASTTranslator>>#emitMetaLinkBefore:
+Reflectivity.OCASTTranslator>>#visitStoreIntoTempNode:
+Reflectivity.OCASTTranslator>>#visitStorePopIntoTempNode:
 Reflectivity.RFASTTranslator>>#visitNode:
 Reflectivity.RFVariableReification>>#genForGlobal
 Reflectivity.RFVariableReification>>#genForRBVariableNode
 Reflectivity.RFVariableReification>>#genForSlot
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50134
+ScriptLoader50.ScriptLoader>>#update50134
 ScriptLoader50.ScriptLoader>>#update50135

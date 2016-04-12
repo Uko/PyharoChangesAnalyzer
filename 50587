@@ -5,4 +5,5 @@ Kernel-Tests.CompiledMethodTest>>#testSelector
 NautilusRefactoring.RBAddMethodChange>>#oldVersionTextToDisplay
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50586
+ScriptLoader50.ScriptLoader>>#update50586
 ScriptLoader50.ScriptLoader>>#update50587

@@ -9,6 +9,7 @@ Morphic-Core.WorldMorph>>#truncatedMenuLabelFor:
 Nautilus.Nautilus class>>#emptyCommentWarning:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50396
+ScriptLoader50.ScriptLoader>>#update50396
 ScriptLoader50.ScriptLoader>>#update50397
 System-Localization.Locale class>>#defaultLocales
 System-Localization.Locale class>>#initKnownLocales

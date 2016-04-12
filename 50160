@@ -6,6 +6,7 @@ Collections-Abstract.CollectionsAssembly class>>#version
 Collections-Abstract.ManifestCollectionsAbstract
 Collections-Abstract.ManifestCollectionsAbstract class>>#dependencies
 Collections-Abstract.ManifestCollectionsAbstract class>>#packageName
+Collections-Arithmetic.CollectionsArithmeticReadme
 Collections-Arithmetic.ManifestCollectionsArithmetic
 Collections-Arithmetic.ManifestCollectionsArithmetic class>>#dependencies
 Collections-Arithmetic.ManifestCollectionsArithmetic class>>#description
@@ -76,4 +77,5 @@ Nautilus.NautilusAnnotationDisplayer>>#noteNewOwner:
 Nautilus.NautilusAnnotationDisplayer>>#toggleFormatAsYouRead
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50159
+ScriptLoader50.ScriptLoader>>#update50159
 ScriptLoader50.ScriptLoader>>#update50160

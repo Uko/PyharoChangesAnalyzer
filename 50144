@@ -4,4 +4,5 @@ OpalCompiler-Core.RBMessageNode>>#isInlineIfNil
 OpalCompiler-Tests.OCOpalExamples>>#exampleIfTrue
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50143
+ScriptLoader50.ScriptLoader>>#update50143
 ScriptLoader50.ScriptLoader>>#update50144

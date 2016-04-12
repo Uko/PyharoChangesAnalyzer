@@ -7,4 +7,5 @@ Refactoring-Critics.RBSentNotImplementedRule>>#implementorsExists:
 Refactoring-Critics.RBSentNotImplementedRule>>#resetImplementorsCache
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50292
+ScriptLoader50.ScriptLoader>>#update50292
 ScriptLoader50.ScriptLoader>>#update50293

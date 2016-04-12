@@ -60,4 +60,5 @@ Rubric.RubScrolledTextMorph>>#notify:at:in:
 Rubric.RubShoutStylerDecorator>>#stylerStyledInBackground:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50045
+ScriptLoader50.ScriptLoader>>#update50045
 ScriptLoader50.ScriptLoader>>#update50046

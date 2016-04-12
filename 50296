@@ -2,9 +2,12 @@ AST-Core.ASTCacheReset
 Balloon.BalloonEngine>>#release
 Deprecated50.Color>>#asHTMLColor
 Deprecated50.Color>>#printHtmlString
+Graphics-Primitives.Color>>#asHTMLColor
+Graphics-Primitives.Color>>#printHtmlString
 Reflectivity-Tests.ReflectivityControlTest>>#testInsteadArray
 Reflectivity.RFASTTranslator>>#visitArrayNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50295
+ScriptLoader50.ScriptLoader>>#update50295
 ScriptLoader50.ScriptLoader>>#update50296
 Tools.SyntaxErrorDebugger>>#release

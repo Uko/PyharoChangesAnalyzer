@@ -1,3 +1,4 @@
+Komitter.Komitter class>>#initialize
 Komitter.Komitter class>>#komitterMenuOn:
 Reflectivity-Tests.HookGeneratorTest>>#testConditionWithArguments
 Reflectivity-Tests.HookGeneratorTest>>#testHookWithArguments
@@ -5,6 +6,7 @@ Reflectivity-Tests.HookGeneratorTest>>#testHookWithVirtualMeta
 Reflectivity.Breakpoint>>#initialize
 Reflectivity.HookGenerator class>>#node:link:
 Reflectivity.HookGenerator>>#initForNode:
+Reflectivity.ManifestReflectivity>>#ruleRBBadMessageRuleV1FalsePositive
 Reflectivity.MetaLink class>>#uninstallAll
 Reflectivity.MetaLink>>#hookOn:
 Reflectivity.RFArgumentsReification
@@ -21,11 +23,13 @@ Reflectivity.RFSenderReification class>>#key
 Reflectivity.RFSenderReification class>>#nodes
 Reflectivity.RFSenderReification>>#genForRBMessageNode
 Reflectivity.RFSenderReification>>#genForRBMethodNode
+Reflectivity.RFTArgumentsReification
 Reflectivity.RFTArgumentsReification class>>#key
 Reflectivity.RFTArgumentsReification class>>#nodes
 Reflectivity.RFTArgumentsReification>>#genForRBProgramNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50068
+ScriptLoader50.ScriptLoader>>#update50068
 ScriptLoader50.ScriptLoader>>#update50069
 System-Caching.DoubleLinkedList>>#add:
 System-Caching.DoubleLinkedList>>#add:afterLink:

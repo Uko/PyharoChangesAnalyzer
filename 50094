@@ -118,6 +118,7 @@ Files.File>>#write:
 Files.File>>#writeAll:
 Files.File>>#writeAmount:from:startingAt:
 Files.FileDoesNotExistException
+Files.FileDoesNotExistException class>>#example
 Files.FileException>>#messageText
 Files.FileExistsException
 Files.FileStream
@@ -126,6 +127,7 @@ Files.FileStreamException class>>#fileName:
 Files.FileStreamException>>#fileName
 Files.FileStreamException>>#fileName:
 Files.FileStreamException>>#isResumable
+Files.FileStreamException>>#messageText
 Files.FileWriteError
 Files.MultiByteFileStream
 Files.PharoChangesCondenser
@@ -230,6 +232,8 @@ Files.SourceFileArray>>#sourcedDataAt:
 Files.SourceFileArray>>#timeStampAt:
 Files.SourceFileArray>>#timeStampAt:for:
 Files.StandardFileStream
+Files.StandardFileStream>>#getFileType
+Files.StandardFileStream>>#setFileTypeToObject
 Files.Stdio
 Files.Stdio class>>#cleanStdioHandles
 Files.Stdio class>>#initialize
@@ -248,4 +252,5 @@ Files.StdioStream>>#position
 Network-UUID.UUIDGenerator>>#makeUnixSeed
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50093
+ScriptLoader50.ScriptLoader>>#update50093
 ScriptLoader50.ScriptLoader>>#update50094

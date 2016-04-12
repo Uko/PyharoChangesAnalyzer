@@ -56,8 +56,11 @@ Reflectivity.RFThisContextReification class>>#nodes
 Reflectivity.RFThisContextReification>>#genForLiteralVariable
 Reflectivity.RFValueReification class>>#nodes
 Reflectivity.RFVariableReification class>>#nodes
+Reflectivity.RFVariableReification>>#genForGlobal
 Reflectivity.RFVariableReification>>#genForLiteralVariable
 Reflectivity.RFVariableReification>>#genForRBVariableNode
+Reflectivity.RFVariableReification>>#genForSlot
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50343
+ScriptLoader50.ScriptLoader>>#update50343
 ScriptLoader50.ScriptLoader>>#update50344

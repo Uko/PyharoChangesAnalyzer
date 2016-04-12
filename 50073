@@ -38,6 +38,7 @@ Morphic-Core.WorldState class>>#quitItemsOn:
 NautilusRefactoring.TClassDescription>>#sourceCodeRefactoringMenu:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50072
+ScriptLoader50.ScriptLoader>>#update50072
 ScriptLoader50.ScriptLoader>>#update50073
 System-Platforms.MacOSPlatform>>#menuShortcutString
 System-Platforms.OSPlatform>>#menuShortcutString

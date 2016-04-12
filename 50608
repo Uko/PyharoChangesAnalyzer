@@ -3,9 +3,14 @@ FreeType.FT2Face>>#newFaceFromExternalMemory:index:
 FreeType.FT2Face>>#newFaceFromFile:index:
 FreeType.FT2Handle>>#isValid
 FreeType.FreeTypeFace
+FreeType.FreeTypeFace>>#beNull
 FreeType.FreeTypeFace>>#create
+FreeType.FreeTypeFace>>#isValid
+FreeType.FreeTypeFace>>#newFaceFromExternalMemory:index:
+FreeType.FreeTypeFace>>#newFaceFromFile:index:
 FreeType.FreeTypeFace>>#primNewFaceFromExternalMemory:size:index:
 FreeType.FreeTypeFace>>#validate
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50607
+ScriptLoader50.ScriptLoader>>#update50607
 ScriptLoader50.ScriptLoader>>#update50608

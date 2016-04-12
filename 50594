@@ -4,6 +4,8 @@ Collections-Weak.WeakSet>>#asArray
 Refactoring-Core.RBNamespace>>#privateImplementorsOf:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50593
+ScriptLoader50.ScriptLoader>>#update50593
 ScriptLoader50.ScriptLoader>>#update50594
 System-OSEnvironments.OSEnvironment class>>#initialize
+System-OSEnvironments.OSEnvironment class>>#shutDown:
 System-OSEnvironments.OSEnvironment class>>#startUp:

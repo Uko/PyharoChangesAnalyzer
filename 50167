@@ -4,4 +4,5 @@ Morphic-Core.PasteUpMorph class>>#shouldSwapMenuOpenerButtons
 Morphic-Core.PasteUpMorph>>#mouseDown:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50166
+ScriptLoader50.ScriptLoader>>#update50166
 ScriptLoader50.ScriptLoader>>#update50167

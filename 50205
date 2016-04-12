@@ -13,9 +13,11 @@ Multilingual-Tests.MultiByteFileStreamTest>>#testPeekFor
 Multilingual-Tests.MultiByteFileStreamTest>>#testReset
 Multilingual-Tests.MultiByteFileStreamTest>>#testUpToAnyOfDo
 Multilingual-Tests.MultiByteFileStreamTest>>#testUpToEnd
+Nautilus.AbstractNautilusUI>>#textMorphClass
 Reflectivity-Tests.ReflectivityControlTest>>#testAfterSequence
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50204
+ScriptLoader50.ScriptLoader>>#update50204
 ScriptLoader50.ScriptLoader>>#update50205
 Shout.SHRBTextStyler
 Shout.SHRBTextStyler>>#style:ast:

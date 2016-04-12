@@ -1,6 +1,8 @@
 Monticello.MCVersionLoader>>#load
+Morphic-Widgets-Windows.SystemWindow>>#titleAndPaneText
 Multilingual-TextConversion.UTF8InvalidText
 Multilingual-TextConversion.UTF8TextConverter>>#errorMalformedInput
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50163
+ScriptLoader50.ScriptLoader>>#update50163
 ScriptLoader50.ScriptLoader>>#update50164

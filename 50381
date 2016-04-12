@@ -7,6 +7,7 @@ Collections-Unordered.Matrix>>#atRandom:
 Collections-Unordered.Set>>#atRandom:
 Kernel-Tests.RandomTest
 Kernel-Tests.RandomTest>>#setUp
+Kernel-Tests.RandomTest>>#testNext
 Kernel.Context class>>#basicNew:
 Kernel.Context>>#debugStack:on:
 Kernel.Context>>#debugStackOn:
@@ -18,10 +19,15 @@ Kernel.Integer>>#atRandom:
 Kernel.Random
 Kernel.Random class>>#bucketTest:
 Kernel.Random class>>#seed:
+Kernel.Random class>>#theItsCompletelyBrokenTest
 Kernel.Random>>#initialize
 Kernel.Random>>#next
 Kernel.Random>>#next:
+Kernel.Random>>#next:into:
 Kernel.Random>>#nextInt:
+Kernel.Random>>#nextValue
+Kernel.Random>>#seed
+Kernel.Random>>#seed:
 Random.Random>>#next:into:
 Random.Random>>#privateNextSeed
 Random.Random>>#privateNextValue
@@ -38,4 +44,5 @@ Random.SharedRandom>>#next:into:
 Random.SharedRandom>>#nextInt:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50380
+ScriptLoader50.ScriptLoader>>#update50380
 ScriptLoader50.ScriptLoader>>#update50381

@@ -11,7 +11,9 @@ ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_9_0:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_9_1:
 Nautilus-Tests.NautilusUITest>>#setUp
+Nautilus.Nautilus>>#defaultUIClass
 Nautilus.Nautilus>>#open
+Nautilus.Nautilus>>#uiClass
 Nautilus.PackageTreeNautilusUI
 OpalCompiler-Core.OCASTTranslator>>#emitToDo:step:
 QualityAssistant.CompiledMethod>>#guidedBan:
@@ -36,9 +38,12 @@ Renraku.CompiledMethod>>#critics
 Renraku.RBSentNotImplementedRule>>#check:forCriticsDo:ifNone:
 Renraku.RBUndeclaredReferenceRule>>#check:forCriticsDo:ifNone:
 Renraku.RBVariableNotDefinedRule>>#check:forCriticsDo:ifNone:
+Renraku.ReEngine
 Renraku.ReEngine class>>#cleanUp
 Renraku.ReEngine class>>#reset
 Renraku.ReEngine class>>#uniqueInstance
+Renraku.ReEngine>>#announce:
+Renraku.ReEngine>>#announcer
 Renraku.ReEngine>>#classAdded:
 Renraku.ReEngine>>#classRemoved:
 Renraku.ReEngine>>#classRules
@@ -57,8 +62,11 @@ Renraku.TBehavior>>#ban:
 Renraku.TBehavior>>#critics
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50461
+ScriptLoader50.ScriptLoader>>#update50461
 ScriptLoader50.ScriptLoader>>#update50462
 SmartSuggestions-Tests.SugsContextTest>>#testContextForNautilusItsANautilusContext
 Tool-DependencyAnalyser-UI.DAPackageAnalyzerWindow>>#buildNautilusWindow
 Tool-Finder.DialogItemsChooser>>#open
+Tool-Finder.DialogItemsChooser>>#uiClass
 Tool-Finder.Finder>>#open
+Tool-Finder.Finder>>#uiClass

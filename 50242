@@ -8,6 +8,7 @@ CodeImport.ChunkWriteStream>>#nextChunkPut:
 CodeImport.ChunkWriteStream>>#nextPut:
 CodeImport.ChunkWriteStream>>#terminatorMark
 Kernel.Categorizer>>#changeFromString:
+Kernel.Categorizer>>#scanFrom:
 Kernel.Categorizer>>#stringForFileOut
 Kernel.Class>>#fileOutOn:initializing:
 Kernel.ClassOrganization>>#changeFromCategorySpecs:
@@ -15,6 +16,7 @@ Kernel.ClassOrganization>>#changeFromString:
 Kernel.ClassOrganization>>#fileOutCommentOn:
 Kernel.ClassOrganization>>#internalChangeFromString:
 Kernel.ClassOrganization>>#putCommentOnFile:forClass:
+Kernel.ClassOrganization>>#scanFrom:
 Kernel.ClassOrganization>>#stringForFileOut
 Kernel.CompiledMethod>>#putSource:class:category:withStamp:priorMethod:
 Kernel.CompiledMethod>>#putSource:withPreamble:
@@ -295,6 +297,7 @@ Reflectivity.ReflectiveMethod>>#destroyTwin
 Reflectivity.ReflectiveMethod>>#reinstallASTInCache
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50241
+ScriptLoader50.ScriptLoader>>#update50241
 ScriptLoader50.ScriptLoader>>#update50242
 System-Support.SystemOrganizer>>#fileOut
 System-Support.SystemOrganizer>>#fileOutCategory:
@@ -313,6 +316,7 @@ Traits.TClass>>#removeFromChanges
 Traits.TClass>>#shouldFileOutPool:
 Traits.TClass>>#shouldFileOutPools
 Traits.TClassDescription>>#commentStamp:
+Traits.TClassDescription>>#commentStamp:prior:
 Traits.TClassDescription>>#fileOutCategory:
 Traits.TClassDescription>>#fileOutCategory:on:
 Traits.TClassDescription>>#fileOutChangedMessages:on:
@@ -321,6 +325,7 @@ Traits.TClassDescription>>#fileOutMethod:on:
 Traits.TClassDescription>>#fileOutOn:
 Traits.TClassDescription>>#fileOutOrganizationOn:
 Traits.TClassDescription>>#logMethodSource:forMethod:inCategory:withStamp:
+Traits.TClassDescription>>#methodsFor:
 Traits.TClassDescription>>#printCategoryChunk:on:withStamp:priorMethod:
 Traits.TClassDescription>>#printMethodChunk:on:
 Traits.TClassDescription>>#selectorsToFileOutCategory:

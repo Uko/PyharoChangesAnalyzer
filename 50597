@@ -3,6 +3,7 @@ HudsonBuildTools20.HDTestReport>>#writeError:andStack:for:
 MonticelloGUI.MCTool>>#textMorph:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50596
+ScriptLoader50.ScriptLoader>>#update50596
 ScriptLoader50.ScriptLoader>>#update50597
 SmartSuggestions.DiffMorph>>#sugsContext
 SmartSuggestions.MCTool>>#sugsContext

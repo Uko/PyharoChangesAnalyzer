@@ -2,5 +2,7 @@ Collections-Strings.String class>>#initialize
 Collections-Tests.StringTest>>#testComparingCaseInsensitiveLatin1
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50566
+ScriptLoader50.ScriptLoader>>#update50566
 ScriptLoader50.ScriptLoader>>#update50567
 Slot-Tests.SlotErrorsTest>>#testDangerousClassesConditions
+System-Support.SystemDictionary>>#growMemoryByAtLeast:

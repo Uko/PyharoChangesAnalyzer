@@ -1,4 +1,6 @@
 AST-Core.BIConfigurableFormatter class>>#announceASettingChange
+AST-Core.BIConfigurableFormatter class>>#basicCommentFormat
+AST-Core.BIConfigurableFormatter class>>#basicCommentFormat:
 AST-Core.BIConfigurableFormatter class>>#cascadedMessageInsideParentheses:
 AST-Core.BIConfigurableFormatter class>>#formatCommentWithStatements:
 AST-Core.BIConfigurableFormatter class>>#indentString:
@@ -31,6 +33,8 @@ AST-Core.BIConfigurableFormatter class>>#traditionalBinaryPrecedence:
 AST-Core.BIConfigurableFormatter class>>#useBasicCommentFormat
 AST-Core.BIConfigurableFormatter class>>#useBasicCommentFormat:
 AST-Core.BIConfigurableFormatter class>>#useTraditionalBinaryPrecedenceForParentheses:
+AST-Core.BIConfigurableFormatter>>#basicCommentFormat
+AST-Core.BIConfigurableFormatter>>#basicCommentFormat:
 AST-Core.BIConfigurableFormatter>>#formatCommentWithStatements:
 AST-Core.BIConfigurableFormatter>>#formatMethodCommentFor:
 AST-Core.BIConfigurableFormatter>>#formatStatementCommentsFor:
@@ -38,6 +42,8 @@ AST-Core.BIConfigurableFormatter>>#indentsForKeywords:
 AST-Core.BIConfigurableFormatter>>#useBasicCommentFormat
 AST-Core.BIConfigurableFormatter>>#useBasicCommentFormat:
 AST-Core.BIPrettyPrinterContext
+AST-Core.BIPrettyPrinterContext>>#basicCommentFormat
+AST-Core.BIPrettyPrinterContext>>#basicCommentFormat:
 AST-Core.BIPrettyPrinterContext>>#initialize
 AST-Core.BIPrettyPrinterContext>>#useBasicCommentFormat
 AST-Core.BIPrettyPrinterContext>>#useBasicCommentFormat:
@@ -71,5 +77,6 @@ BlueInk-Extras.BIInspector>>#whenASettingChanged
 BlueInk-Extras.BIInspector>>#whenSelectorAccepted
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50206
+ScriptLoader50.ScriptLoader>>#update50206
 ScriptLoader50.ScriptLoader>>#update50207
 Spec-Core.TextModel>>#registerEventsForShout

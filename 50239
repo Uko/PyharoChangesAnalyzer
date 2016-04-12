@@ -2400,6 +2400,7 @@ Collections-Tests.WeakValueDictionaryTest
 Collections-Tests.WideCharacterSetTest
 Collections-Tests.WideStringTest
 Collections-Tests.WriteStreamTest
+CollectionsTests.ArrayTest
 CollectionsTests.ArrayTest>>#aValue
 CollectionsTests.ArrayTest>>#accessCollection
 CollectionsTests.ArrayTest>>#anIndex
@@ -2505,11 +2506,13 @@ CollectionsTests.ArrayTest>>#testPrinting
 CollectionsTests.ArrayTest>>#unsortedCollection
 CollectionsTests.ArrayTest>>#valuePutIn
 CollectionsTests.ArrayTest>>#withEqualElements
+CollectionsTests.AssociationTest
 CollectionsTests.AssociationTest>>#setUp
 CollectionsTests.AssociationTest>>#testComparison
 CollectionsTests.AssociationTest>>#testEquality
 CollectionsTests.AssociationTest>>#testHash
 CollectionsTests.AssociationTest>>#testIsSelfEvaluating
+CollectionsTests.BagTest
 CollectionsTests.BagTest>>#anotherElementNotIn
 CollectionsTests.BagTest>>#anotherElementOrAssociationIn
 CollectionsTests.BagTest>>#anotherElementOrAssociationNotIn
@@ -2572,15 +2575,19 @@ CollectionsTests.BagTest>>#testRemoveElementThatExistsTwice
 CollectionsTests.BagTest>>#testSortedCounts
 CollectionsTests.BagTest>>#testSortedElements
 CollectionsTests.BagTest>>#withEqualElements
+CollectionsTests.ByteArrayTest
 CollectionsTests.ByteArrayTest>>#testFourthByteArraysReturnTheCorrectValues
 CollectionsTests.ByteArrayTest>>#testHex
 CollectionsTests.ByteArrayTest>>#testIsLiteral
 CollectionsTests.ByteArrayTest>>#testindexOfStartingAt
+CollectionsTests.ByteSymbolTest
 CollectionsTests.ByteSymbolTest>>#testAs
 CollectionsTests.ByteSymbolTest>>#testNew
 CollectionsTests.ByteSymbolTest>>#testNewFrom
 CollectionsTests.ByteSymbolTest>>#testReadFromString
+CollectionsTests.CharacterSetTest
 CollectionsTests.CharacterSetTest>>#testCopy
+CollectionsTests.CharacterTest
 CollectionsTests.CharacterTest>>#testAsLowercaseBasicAsciiRange
 CollectionsTests.CharacterTest>>#testAsUppercaseBasicAsciiRange
 CollectionsTests.CharacterTest>>#testCharacterSeparators
@@ -2594,6 +2601,7 @@ CollectionsTests.CharacterTest>>#testPrintStringAll
 CollectionsTests.CharacterTest>>#testPrintStringHex
 CollectionsTests.CharacterTest>>#testStoreString
 CollectionsTests.CharacterTest>>#testStoreStringAll
+CollectionsTests.CollectionRootTest
 CollectionsTests.CollectionRootTest class>>#isAbstract
 CollectionsTests.CollectionRootTest>>#collectionClass
 CollectionsTests.CollectionRootTest>>#collectionWithoutNilElements
@@ -2611,6 +2619,7 @@ CollectionsTests.CollectionRootTest>>#testDetectIfFoundWhenNobodyIsFound
 CollectionsTests.CollectionRootTest>>#testDetectIfFoundWhenSomethingIsFound
 CollectionsTests.CollectionRootTest>>#testDetectIfFoundWhenSomethingIsFoundIgnoringTheFoundObject
 CollectionsTests.CollectionRootTest>>#testRejectNoReject
+CollectionsTests.DictionaryTest
 CollectionsTests.DictionaryTest>>#aValue
 CollectionsTests.DictionaryTest>>#anIndex
 CollectionsTests.DictionaryTest>>#anotherElementNotIn
@@ -2679,6 +2688,7 @@ CollectionsTests.DictionaryTest>>#testRemoveAll
 CollectionsTests.DictionaryTest>>#testSelectIsNotShallowCopy
 CollectionsTests.DictionaryTest>>#valueNotIn
 CollectionsTests.DictionaryTest>>#valueNotInNonEmpty
+CollectionsTests.FIFOQueueTests
 CollectionsTests.FIFOQueueTests>>#newQueue
 CollectionsTests.FIFOQueueTests>>#runValidationTest
 CollectionsTests.FIFOQueueTests>>#runValidationTest2
@@ -2691,6 +2701,7 @@ CollectionsTests.FIFOQueueTests>>#testHeavyContention2
 CollectionsTests.FIFOQueueTests>>#testNextOrNilSuchThat
 CollectionsTests.FIFOQueueTests>>#testSize
 CollectionsTests.FIFOQueueTests>>#testSuchThat
+CollectionsTests.FloatArrayTest
 CollectionsTests.FloatArrayTest>>#aValue
 CollectionsTests.FloatArrayTest>>#anIndex
 CollectionsTests.FloatArrayTest>>#anotherElementNotIn
@@ -2744,6 +2755,7 @@ CollectionsTests.FloatArrayTest>>#testFloatArrayPluginPrimitiveAt
 CollectionsTests.FloatArrayTest>>#testFloatArrayPluginPrimitiveAtPut
 CollectionsTests.FloatArrayTest>>#unsortedCollection
 CollectionsTests.FloatArrayTest>>#withEqualElements
+CollectionsTests.GeneratorTest
 CollectionsTests.GeneratorTest class>>#packageNamesUnderTest
 CollectionsTests.GeneratorTest>>#fibonacciSequence
 CollectionsTests.GeneratorTest>>#numbersBetween:and:
@@ -2759,6 +2771,7 @@ CollectionsTests.GeneratorTest>>#testPeek
 CollectionsTests.GeneratorTest>>#testReset
 CollectionsTests.GeneratorTest>>#testResetUnwind
 CollectionsTests.GeneratorTest>>#testSimple
+CollectionsTests.HeapTest
 CollectionsTests.HeapTest>>#aValue
 CollectionsTests.HeapTest>>#accessCollection
 CollectionsTests.HeapTest>>#anotherElementNotIn
@@ -2833,6 +2846,7 @@ CollectionsTests.HeapTest>>#testRemove
 CollectionsTests.HeapTest>>#testSortBlock
 CollectionsTests.HeapTest>>#valuePutIn
 CollectionsTests.HeapTest>>#withEqualElements
+CollectionsTests.IdentityBagTest
 CollectionsTests.IdentityBagTest>>#elementToCopy
 CollectionsTests.IdentityBagTest>>#equalNotIdenticalElement
 CollectionsTests.IdentityBagTest>>#identityCollectionWithElementsCopyNotIdentical
@@ -2840,17 +2854,21 @@ CollectionsTests.IdentityBagTest>>#speciesClass
 CollectionsTests.IdentityBagTest>>#testAsSetWithEqualsElements
 CollectionsTests.IdentityBagTest>>#testIdentity
 CollectionsTests.IdentityBagTest>>#testIdentityAdd
+CollectionsTests.IdentityDictionaryTest
 CollectionsTests.IdentityDictionaryTest class>>#shouldInheritSelectors
 CollectionsTests.IdentityDictionaryTest>>#classToBeTested
 CollectionsTests.IdentityDictionaryTest>>#testIdentity
+CollectionsTests.IdentitySetTest
 CollectionsTests.IdentitySetTest class>>#shouldInheritSelectors
 CollectionsTests.IdentitySetTest>>#classToBeTested
 CollectionsTests.IdentitySetTest>>#identityCollectionWithElementsCopyNotIdentical
 CollectionsTests.IdentitySetTest>>#testGrowWithNil
 CollectionsTests.IdentitySetTest>>#testIdentity
+CollectionsTests.IntegerArrayTest
 CollectionsTests.IntegerArrayTest>>#testAt
 CollectionsTests.IntegerArrayTest>>#testPutAllNegative
 CollectionsTests.IntegerArrayTest>>#testPutNegative
+CollectionsTests.IntervalTest
 CollectionsTests.IntervalTest>>#accessCollection
 CollectionsTests.IntervalTest>>#anotherElementNotIn
 CollectionsTests.IntervalTest>>#collection
@@ -2937,6 +2955,7 @@ CollectionsTests.IntervalTest>>#testReverseDo
 CollectionsTests.IntervalTest>>#testReverseUnevenDo
 CollectionsTests.IntervalTest>>#testUnevenDo
 CollectionsTests.IntervalTest>>#unsortedCollection
+CollectionsTests.KeyedTreeTest
 CollectionsTests.KeyedTreeTest>>#testAtPath
 CollectionsTests.KeyedTreeTest>>#testAtPathIfAbsent
 CollectionsTests.KeyedTreeTest>>#testAtPathIfAbsentPut
@@ -2946,10 +2965,12 @@ CollectionsTests.KeyedTreeTest>>#testMerge
 CollectionsTests.KeyedTreeTest>>#testRemovePath
 CollectionsTests.KeyedTreeTest>>#testRemovePathIfAbsent
 CollectionsTests.KeyedTreeTest>>#testSubtrees
+CollectionsTests.LIFOQueueTests
 CollectionsTests.LIFOQueueTests>>#newQueue
 CollectionsTests.LIFOQueueTests>>#testBasics
 CollectionsTests.LIFOQueueTests>>#testContention1
 CollectionsTests.LIFOQueueTests>>#testHeavyContention
+CollectionsTests.LinkedListTest
 CollectionsTests.LinkedListTest>>#accessCollection
 CollectionsTests.LinkedListTest>>#anotherElementNotIn
 CollectionsTests.LinkedListTest>>#anotherElementOrAssociationIn
@@ -3024,13 +3045,16 @@ CollectionsTests.LinkedListTest>>#testSwapAdjacentStart
 CollectionsTests.LinkedListTest>>#testSwapBasic
 CollectionsTests.LinkedListTest>>#testSwapStartAndEnd
 CollectionsTests.LinkedListTest>>#testTAdd
+CollectionsTests.LiteralDictionaryTest
 CollectionsTests.LiteralDictionaryTest class>>#shouldInheritSelectors
 CollectionsTests.LiteralDictionaryTest>>#classToBeTested
 CollectionsTests.LiteralDictionaryTest>>#testIncludesWithEqualElementFromDifferentClasses
 CollectionsTests.LiteralDictionaryTest>>#testUnCategorizedMethods
+CollectionsTests.ManifestCollectionsTests
 CollectionsTests.ManifestCollectionsTests class>>#dependencies
 CollectionsTests.ManifestCollectionsTests class>>#description
 CollectionsTests.ManifestCollectionsTests class>>#packageName
+CollectionsTests.MatrixTest
 CollectionsTests.MatrixTest>>#setUp
 CollectionsTests.MatrixTest>>#testAtAllPut
 CollectionsTests.MatrixTest>>#testAtAt
@@ -3050,15 +3074,19 @@ CollectionsTests.MatrixTest>>#testSwap
 CollectionsTests.MatrixTest>>#testTabulate
 CollectionsTests.MatrixTest>>#testTabulateEquals
 CollectionsTests.MatrixTest>>#testTransposed
+CollectionsTests.MockExceptionWithPassAction
 CollectionsTests.MockExceptionWithPassAction>>#pass
 CollectionsTests.MockExceptionWithPassAction>>#passAction:
+CollectionsTests.MockFinalizerAction
 CollectionsTests.MockFinalizerAction>>#finalizationAction:
 CollectionsTests.MockFinalizerAction>>#finalize
 CollectionsTests.MockFinalizerAction>>#finalizeValues
+CollectionsTests.NullStreamTest
 CollectionsTests.NullStreamTest>>#setUp
 CollectionsTests.NullStreamTest>>#testCounting
 CollectionsTests.NullStreamTest>>#testNextPutAllEmpty
 CollectionsTests.NullStreamTest>>#testPeekLast
+CollectionsTests.OrderedCollectionTest
 CollectionsTests.OrderedCollectionTest>>#aValue
 CollectionsTests.OrderedCollectionTest>>#accessCollection
 CollectionsTests.OrderedCollectionTest>>#anIndex
@@ -3178,6 +3206,7 @@ CollectionsTests.OrderedCollectionTest>>#testSort
 CollectionsTests.OrderedCollectionTest>>#testWithCollect
 CollectionsTests.OrderedCollectionTest>>#unsortedCollection
 CollectionsTests.OrderedCollectionTest>>#withEqualElements
+CollectionsTests.OrderedDictionaryTest
 CollectionsTests.OrderedDictionaryTest>>#absentKey
 CollectionsTests.OrderedDictionaryTest>>#absentValue
 CollectionsTests.OrderedDictionaryTest>>#assertDictionary:doesNotEqual:
@@ -3264,14 +3293,18 @@ CollectionsTests.OrderedDictionaryTest>>#testSelect
 CollectionsTests.OrderedDictionaryTest>>#testSize
 CollectionsTests.OrderedDictionaryTest>>#testValues
 CollectionsTests.OrderedDictionaryTest>>#testValuesDo
+CollectionsTests.OrderedIdentityDictionaryTest
 CollectionsTests.OrderedIdentityDictionaryTest class>>#shouldInheritSelectors
 CollectionsTests.OrderedIdentityDictionaryTest>>#dictionaryClass
 CollectionsTests.OrderedIdentityDictionaryTest>>#isTestingIdentityDictionary
+CollectionsTests.PluggableDictionaryTest
 CollectionsTests.PluggableDictionaryTest class>>#classToBeTested
 CollectionsTests.PluggableDictionaryTest class>>#shouldInheritSelectors
 CollectionsTests.PluggableDictionaryTest>>#classToBeTested
+CollectionsTests.PluggableSetTest
 CollectionsTests.PluggableSetTest class>>#classToBeTested
 CollectionsTests.PluggableSetTest>>#classToBeTested
+CollectionsTests.ReadStreamTest
 CollectionsTests.ReadStreamTest>>#emptyStream
 CollectionsTests.ReadStreamTest>>#streamOn:upToAll:
 CollectionsTests.ReadStreamTest>>#streamOn:upToAll:upToAll:
@@ -3287,9 +3320,11 @@ CollectionsTests.ReadStreamTest>>#testPeekBack
 CollectionsTests.ReadStreamTest>>#testPositionOfSubCollection
 CollectionsTests.ReadStreamTest>>#testUpTo3
 CollectionsTests.ReadStreamTest>>#testUpToAll
+CollectionsTests.ReadWriteStreamTest
 CollectionsTests.ReadWriteStreamTest>>#testConstructionUsingWith
 CollectionsTests.ReadWriteStreamTest>>#testIsEmpty
 CollectionsTests.ReadWriteStreamTest>>#testNew
+CollectionsTests.ReduceTest
 CollectionsTests.ReduceTest>>#collectionClasses
 CollectionsTests.ReduceTest>>#sequenceableClasses
 CollectionsTests.ReduceTest>>#testReduceCollection2Arguments
@@ -3300,6 +3335,7 @@ CollectionsTests.ReduceTest>>#testReduceLeftSpecial
 CollectionsTests.ReduceTest>>#testReduceRight2Arguments
 CollectionsTests.ReduceTest>>#testReduceRight3Arguments
 CollectionsTests.ReduceTest>>#testReduceRightSpecial
+CollectionsTests.SetTest
 CollectionsTests.SetTest>>#anotherElementNotIn
 CollectionsTests.SetTest>>#anotherElementOrAssociationIn
 CollectionsTests.SetTest>>#anotherElementOrAssociationNotIn
@@ -3365,13 +3401,17 @@ CollectionsTests.SetTest>>#testRemoveAll
 CollectionsTests.SetTest>>#testRemoveIfAbsent
 CollectionsTests.SetTest>>#testSize2
 CollectionsTests.SetTest>>#testUnion
+CollectionsTests.SharedQueueTest
 CollectionsTests.SharedQueueTest>>#testBasics
 CollectionsTests.SharedQueueTest>>#testContention1
 CollectionsTests.SharedQueueTest>>#testNextOrNilSuchThat
+CollectionsTests.SmallDictionaryTest
 CollectionsTests.SmallDictionaryTest class>>#shouldInheritSelectors
 CollectionsTests.SmallDictionaryTest>>#classToBeTested
 CollectionsTests.SmallDictionaryTest>>#testStoreOn
+CollectionsTests.SmallIdentityDictionaryTest
 CollectionsTests.SmallIdentityDictionaryTest>>#classToBeTested
+CollectionsTests.SortedCollectionTest
 CollectionsTests.SortedCollectionTest>>#accessCollection
 CollectionsTests.SortedCollectionTest>>#anotherElementNotIn
 CollectionsTests.SortedCollectionTest>>#anotherElementOrAssociationIn
@@ -3454,6 +3494,7 @@ CollectionsTests.SortedCollectionTest>>#testSort
 CollectionsTests.SortedCollectionTest>>#testSortBlock
 CollectionsTests.SortedCollectionTest>>#testSpeciesLooseSortBlock
 CollectionsTests.SortedCollectionTest>>#withEqualElements
+CollectionsTests.SplitJoinTest
 CollectionsTests.SplitJoinTest class>>#documentation
 CollectionsTests.SplitJoinTest class>>#packageNamesUnderTest
 CollectionsTests.SplitJoinTest>>#assert:equals:
@@ -3484,6 +3525,7 @@ CollectionsTests.SplitJoinTest>>#testSplitStringOnBlock
 CollectionsTests.SplitJoinTest>>#testSplitStringOnChar
 CollectionsTests.SplitJoinTest>>#testSplitStringOnRegex
 CollectionsTests.SplitJoinTest>>#testSplitStringOnSubstring
+CollectionsTests.StackTest
 CollectionsTests.StackTest>>#empty
 CollectionsTests.StackTest>>#nonEmpty
 CollectionsTests.StackTest>>#setUp
@@ -3492,7 +3534,9 @@ CollectionsTests.StackTest>>#testPop
 CollectionsTests.StackTest>>#testPush
 CollectionsTests.StackTest>>#testSize
 CollectionsTests.StackTest>>#testTop
+CollectionsTests.StreamBugsTest
 CollectionsTests.StreamBugsTest>>#testReadWriteStreamNextNBug
+CollectionsTests.StringTest
 CollectionsTests.StringTest>>#aValue
 CollectionsTests.StringTest>>#anIndex
 CollectionsTests.StringTest>>#anotherElementNotIn
@@ -3639,6 +3683,7 @@ CollectionsTests.StringTest>>#testZipped
 CollectionsTests.StringTest>>#testindexOfstartingAt
 CollectionsTests.StringTest>>#unsortedCollection
 CollectionsTests.StringTest>>#withEqualElements
+CollectionsTests.SymbolTest
 CollectionsTests.SymbolTest>>#anotherElementNotIn
 CollectionsTests.SymbolTest>>#anotherElementOrAssociationIn
 CollectionsTests.SymbolTest>>#anotherElementOrAssociationNotIn
@@ -3697,9 +3742,11 @@ CollectionsTests.SymbolTest>>#testReadFrom
 CollectionsTests.SymbolTest>>#testUncapitalized
 CollectionsTests.SymbolTest>>#unsortedCollection
 CollectionsTests.SymbolTest>>#withEqualElements
+CollectionsTests.TAddForIdentityCollectionsTest
 CollectionsTests.TAddForIdentityCollectionsTest>>#identityCollectionWithElementsCopyNotIdentical
 CollectionsTests.TAddForIdentityCollectionsTest>>#test0FixtureAddForIdentityCollectionsTest
 CollectionsTests.TAddForIdentityCollectionsTest>>#testTAddIfNotPresentWithElementCopy
+CollectionsTests.TAddForUniquenessTest
 CollectionsTests.TAddForUniquenessTest>>#collectionWithElement
 CollectionsTests.TAddForUniquenessTest>>#collectionWithoutElement
 CollectionsTests.TAddForUniquenessTest>>#element
@@ -3708,6 +3755,7 @@ CollectionsTests.TAddForUniquenessTest>>#testAddAlreadyThereDoesNotCount
 CollectionsTests.TAddForUniquenessTest>>#testAddNewElementIncrementsSize
 CollectionsTests.TAddForUniquenessTest>>#testTAddIfNotPresentWithElementAlreadyIn
 CollectionsTests.TAddForUniquenessTest>>#testTAddIfNotPresentWithNewElement
+CollectionsTests.TAddTest
 CollectionsTests.TAddTest>>#collectionWithElement
 CollectionsTests.TAddTest>>#element
 CollectionsTests.TAddTest>>#otherCollection
@@ -3720,12 +3768,14 @@ CollectionsTests.TAddTest>>#testTAddTwice
 CollectionsTests.TAddTest>>#testTAddWithOccurences
 CollectionsTests.TAddTest>>#testTWrite
 CollectionsTests.TAddTest>>#testTWriteTwice
+CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsCommaStringMore
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsCommaStringOne
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterLastMore
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterLastOne
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterMore
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterOne
+CollectionsTests.TAsStringCommaAndDelimiterTest
 CollectionsTests.TAsStringCommaAndDelimiterTest>>#empty
 CollectionsTests.TAsStringCommaAndDelimiterTest>>#nonEmpty
 CollectionsTests.TAsStringCommaAndDelimiterTest>>#nonEmpty1Element
@@ -3739,6 +3789,7 @@ CollectionsTests.TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastMor
 CollectionsTests.TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterLastOne
 CollectionsTests.TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterMore
 CollectionsTests.TAsStringCommaAndDelimiterTest>>#testAsStringOnDelimiterOne
+CollectionsTests.TBeginsEndsWith
 CollectionsTests.TBeginsEndsWith>>#empty
 CollectionsTests.TBeginsEndsWith>>#nonEmpty
 CollectionsTests.TBeginsEndsWith>>#test0FixtureBeginsEndsWithTest
@@ -3746,14 +3797,17 @@ CollectionsTests.TBeginsEndsWith>>#testsBeginsWith
 CollectionsTests.TBeginsEndsWith>>#testsBeginsWithEmpty
 CollectionsTests.TBeginsEndsWith>>#testsEndsWith
 CollectionsTests.TBeginsEndsWith>>#testsEndsWithEmpty
+CollectionsTests.TCloneTest
 CollectionsTests.TCloneTest>>#empty
 CollectionsTests.TCloneTest>>#nonEmpty
 CollectionsTests.TCloneTest>>#test0FixtureCloneTest
 CollectionsTests.TCloneTest>>#testCopyCreatesNewObject
 CollectionsTests.TCloneTest>>#testCopyEmpty
 CollectionsTests.TCloneTest>>#testCopyNonEmpty
+CollectionsTests.TConcatenationEqualElementsRemovedTest
 CollectionsTests.TConcatenationEqualElementsRemovedTest>>#testConcatenation
 CollectionsTests.TConcatenationEqualElementsRemovedTest>>#testConcatenationWithDuplicate
+CollectionsTests.TConcatenationTest
 CollectionsTests.TConcatenationTest>>#empty
 CollectionsTests.TConcatenationTest>>#firstCollection
 CollectionsTests.TConcatenationTest>>#secondCollection
@@ -3761,21 +3815,25 @@ CollectionsTests.TConcatenationTest>>#test0FixtureConcatenationTest
 CollectionsTests.TConcatenationTest>>#testConcatenation
 CollectionsTests.TConcatenationTest>>#testConcatenationWithDuplicate
 CollectionsTests.TConcatenationTest>>#testConcatenationWithEmpty
+CollectionsTests.TConvertAsSetForMultiplinessIdentityTest
 CollectionsTests.TConvertAsSetForMultiplinessIdentityTest>>#collectionWithCopy
 CollectionsTests.TConvertAsSetForMultiplinessIdentityTest>>#collectionWithIdentical
 CollectionsTests.TConvertAsSetForMultiplinessIdentityTest>>#elementsCopyNonIdenticalWithoutEqualElements
 CollectionsTests.TConvertAsSetForMultiplinessIdentityTest>>#test0FixtureAsSetForIdentityMultiplinessTest
 CollectionsTests.TConvertAsSetForMultiplinessIdentityTest>>#testAsIdentitySetWithIdentityEqualsElements
 CollectionsTests.TConvertAsSetForMultiplinessIdentityTest>>#testAsIdentitySetWithoutIdentityEqualsElements
+CollectionsTests.TConvertAsSetForMultiplinessTest
 CollectionsTests.TConvertAsSetForMultiplinessTest>>#test0FixtureTConvertAsSetForMultiplinessTest
 CollectionsTests.TConvertAsSetForMultiplinessTest>>#testAsIdentitySetWithEqualsElements
 CollectionsTests.TConvertAsSetForMultiplinessTest>>#testAsSetWithEqualsElements
 CollectionsTests.TConvertAsSetForMultiplinessTest>>#withEqualElements
+CollectionsTests.TConvertAsSortedTest
 CollectionsTests.TConvertAsSortedTest>>#collectionWithSortableElements
 CollectionsTests.TConvertAsSortedTest>>#test0FixtureConverAsSortedTest
 CollectionsTests.TConvertAsSortedTest>>#testAsSortedArray
 CollectionsTests.TConvertAsSortedTest>>#testAsSortedCollection
 CollectionsTests.TConvertAsSortedTest>>#testAsSortedCollectionWithSortBlock
+CollectionsTests.TConvertTest
 CollectionsTests.TConvertTest>>#assertNoDuplicates:whenConvertedTo:
 CollectionsTests.TConvertTest>>#assertNonDuplicatedContents:whenConvertedTo:
 CollectionsTests.TConvertTest>>#assertSameContents:whenConvertedTo:
@@ -3788,6 +3846,7 @@ CollectionsTests.TConvertTest>>#testAsByteArray
 CollectionsTests.TConvertTest>>#testAsIdentitySet
 CollectionsTests.TConvertTest>>#testAsOrderedCollection
 CollectionsTests.TConvertTest>>#testAsSet
+CollectionsTests.TCopyPartOfSequenceable
 CollectionsTests.TCopyPartOfSequenceable>>#collectionWithoutEqualElements
 CollectionsTests.TCopyPartOfSequenceable>>#empty
 CollectionsTests.TCopyPartOfSequenceable>>#indexInForCollectionWithoutDuplicates
@@ -3802,14 +3861,17 @@ CollectionsTests.TCopyPartOfSequenceable>>#testCopyUpTo
 CollectionsTests.TCopyPartOfSequenceable>>#testCopyUpToEmpty
 CollectionsTests.TCopyPartOfSequenceable>>#testCopyUpToLast
 CollectionsTests.TCopyPartOfSequenceable>>#testCopyUpToLastEmpty
+CollectionsTests.TCopyPartOfSequenceableForMultipliness
 CollectionsTests.TCopyPartOfSequenceableForMultipliness>>#collectionWithSameAtEndAndBegining
 CollectionsTests.TCopyPartOfSequenceableForMultipliness>>#test0FixtureCopyPartOfForMultipliness
 CollectionsTests.TCopyPartOfSequenceableForMultipliness>>#testCopyAfterLastWithDuplicate
 CollectionsTests.TCopyPartOfSequenceableForMultipliness>>#testCopyAfterWithDuplicate
 CollectionsTests.TCopyPartOfSequenceableForMultipliness>>#testCopyUpToLastWithDuplicate
 CollectionsTests.TCopyPartOfSequenceableForMultipliness>>#testCopyUpToWithDuplicate
+CollectionsTests.TCopyPreservingIdentityTest
 CollectionsTests.TCopyPreservingIdentityTest>>#nonEmpty
 CollectionsTests.TCopyPreservingIdentityTest>>#testCopyReturnsIdentity
+CollectionsTests.TCopySequenceableSameContents
 CollectionsTests.TCopySequenceableSameContents>>#collectionWithSortableElements
 CollectionsTests.TCopySequenceableSameContents>>#empty
 CollectionsTests.TCopySequenceableSameContents>>#nonEmpty
@@ -3819,6 +3881,7 @@ CollectionsTests.TCopySequenceableSameContents>>#testReversed
 CollectionsTests.TCopySequenceableSameContents>>#testShallowCopy
 CollectionsTests.TCopySequenceableSameContents>>#testShallowCopyEmpty
 CollectionsTests.TCopySequenceableSameContents>>#testShuffled
+CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements
 CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements>>#indexInNonEmpty
 CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements>>#nonEmpty
 CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements>>#test0FixtureCopyWithOrWithoutSpecificElementsTest
@@ -3828,6 +3891,7 @@ CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements>>#testCopyWithou
 CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements>>#testCopyWithoutIndex
 CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements>>#testForceToPaddingStartWith
 CollectionsTests.TCopySequenceableWithOrWithoutSpecificElements>>#testForceToPaddingWith
+CollectionsTests.TCopySequenceableWithReplacement
 CollectionsTests.TCopySequenceableWithReplacement>>#collectionWith1TimeSubcollection
 CollectionsTests.TCopySequenceableWithReplacement>>#collectionWith2TimeSubcollection
 CollectionsTests.TCopySequenceableWithReplacement>>#firstIndexesOf:in:
@@ -3839,12 +3903,14 @@ CollectionsTests.TCopySequenceableWithReplacement>>#testCopyReplaceAllWith1Occur
 CollectionsTests.TCopySequenceableWithReplacement>>#testCopyReplaceAllWithManyOccurence
 CollectionsTests.TCopySequenceableWithReplacement>>#testCopyReplaceFromToWith
 CollectionsTests.TCopySequenceableWithReplacement>>#testCopyReplaceFromToWithInsertion
+CollectionsTests.TCopySequenceableWithReplacementForSorted
 CollectionsTests.TCopySequenceableWithReplacementForSorted>>#collectionOfSize5
 CollectionsTests.TCopySequenceableWithReplacementForSorted>>#empty
 CollectionsTests.TCopySequenceableWithReplacementForSorted>>#replacementCollection
 CollectionsTests.TCopySequenceableWithReplacementForSorted>>#test0FixtureCopyWithReplacementForSorted
 CollectionsTests.TCopySequenceableWithReplacementForSorted>>#testCopyFromToWithForSorted
 CollectionsTests.TCopySequenceableWithReplacementForSorted>>#testCopyReplaceAllWithForSorted
+CollectionsTests.TCopyTest
 CollectionsTests.TCopyTest>>#collectionNotIncluded
 CollectionsTests.TCopyTest>>#collectionWithElementsToRemove
 CollectionsTests.TCopyTest>>#elementToAdd
@@ -3862,6 +3928,7 @@ CollectionsTests.TCopyTest>>#testCopyNonEmptyWithoutAllNotIncluded
 CollectionsTests.TCopyTest>>#testCopyNonEmptyWithoutNotIncluded
 CollectionsTests.TCopyTest>>#testCopyNotSame
 CollectionsTests.TCopyTest>>#testCopySameClass
+CollectionsTests.TCreationWithTest
 CollectionsTests.TCreationWithTest>>#collectionClass
 CollectionsTests.TCreationWithTest>>#collectionMoreThan5Elements
 CollectionsTests.TCreationWithTest>>#test0FixtureCreationWithTest
@@ -3872,6 +3939,7 @@ CollectionsTests.TCreationWithTest>>#testWithWith
 CollectionsTests.TCreationWithTest>>#testWithWithWith
 CollectionsTests.TCreationWithTest>>#testWithWithWithWith
 CollectionsTests.TCreationWithTest>>#testWithWithWithWithWith
+CollectionsTests.TDictionaryAddingTest
 CollectionsTests.TDictionaryAddingTest>>#associationWithKeyAlreadyInToAdd
 CollectionsTests.TDictionaryAddingTest>>#associationWithKeyNotInToAdd
 CollectionsTests.TDictionaryAddingTest>>#nonEmptyDict
@@ -3880,13 +3948,16 @@ CollectionsTests.TDictionaryAddingTest>>#testAddAll
 CollectionsTests.TDictionaryAddingTest>>#testAddWithKeyAlreadyIn
 CollectionsTests.TDictionaryAddingTest>>#testAddWithKeyNotIn
 CollectionsTests.TDictionaryAddingTest>>#testDeclareFrom
+CollectionsTests.TDictionaryAssociationAccessTest
 CollectionsTests.TDictionaryAssociationAccessTest>>#keyNotIn
 CollectionsTests.TDictionaryAssociationAccessTest>>#nonEmpty
 CollectionsTests.TDictionaryAssociationAccessTest>>#test0FixtureDictionaryAssocitionAccess
 CollectionsTests.TDictionaryAssociationAccessTest>>#testAssociationAt
 CollectionsTests.TDictionaryAssociationAccessTest>>#testAssociationAtError
 CollectionsTests.TDictionaryAssociationAccessTest>>#testAssociationAtIfAbsent
+CollectionsTests.TDictionaryComparingTest
 CollectionsTests.TDictionaryComparingTest>>#testEquality
+CollectionsTests.TDictionaryCopyingTest
 CollectionsTests.TDictionaryCopyingTest>>#emptyDict
 CollectionsTests.TDictionaryCopyingTest>>#newEmptyDict
 CollectionsTests.TDictionaryCopyingTest>>#nonEmptyDict
@@ -3895,6 +3966,7 @@ CollectionsTests.TDictionaryCopyingTest>>#test0FixtureDictionaryCopyingTest
 CollectionsTests.TDictionaryCopyingTest>>#testDictionaryConcatenationWithCommonKeys
 CollectionsTests.TDictionaryCopyingTest>>#testDictionaryConcatenationWithCommonKeysDifferentValues
 CollectionsTests.TDictionaryCopyingTest>>#testDictionaryConcatenationWithoutCommonKeys
+CollectionsTests.TDictionaryEnumeratingTest
 CollectionsTests.TDictionaryEnumeratingTest>>#emptyDict
 CollectionsTests.TDictionaryEnumeratingTest>>#newEmptyDict
 CollectionsTests.TDictionaryEnumeratingTest>>#nonEmptyDict
@@ -3908,6 +3980,7 @@ CollectionsTests.TDictionaryEnumeratingTest>>#testKeysDo
 CollectionsTests.TDictionaryEnumeratingTest>>#testReject
 CollectionsTests.TDictionaryEnumeratingTest>>#testSelect
 CollectionsTests.TDictionaryEnumeratingTest>>#testValuesDo
+CollectionsTests.TDictionaryImplementationTest
 CollectionsTests.TDictionaryImplementationTest>>#testAtNil
 CollectionsTests.TDictionaryImplementationTest>>#testFindElementOrNil
 CollectionsTests.TDictionaryImplementationTest>>#testNew
@@ -3915,6 +3988,7 @@ CollectionsTests.TDictionaryImplementationTest>>#testPseudo
 CollectionsTests.TDictionaryImplementationTest>>#testPseudoVariablesAreValidKeys
 CollectionsTests.TDictionaryImplementationTest>>#testScanFor
 CollectionsTests.TDictionaryImplementationTest>>#testSpecies
+CollectionsTests.TDictionaryIncludesTest
 CollectionsTests.TDictionaryIncludesTest>>#keyNotInNonEmpty
 CollectionsTests.TDictionaryIncludesTest>>#nonEmpty
 CollectionsTests.TDictionaryIncludesTest>>#test0FixtureDictionaryIncludes
@@ -3923,9 +3997,11 @@ CollectionsTests.TDictionaryIncludesTest>>#testIncludesComportementForDictionnar
 CollectionsTests.TDictionaryIncludesTest>>#testIncludesIdentityBasicComportement
 CollectionsTests.TDictionaryIncludesTest>>#testIncludesKey
 CollectionsTests.TDictionaryIncludesTest>>#valueNotInNonEmpty
+CollectionsTests.TDictionaryIncludesWithIdentityCheckTest
 CollectionsTests.TDictionaryIncludesWithIdentityCheckTest>>#nonEmptyWithCopyNonIdentical
 CollectionsTests.TDictionaryIncludesWithIdentityCheckTest>>#test0FixtureDictionaryIncludesIdentity
 CollectionsTests.TDictionaryIncludesWithIdentityCheckTest>>#testIncludesIdentitySpecificComportement
+CollectionsTests.TDictionaryKeyAccessTest
 CollectionsTests.TDictionaryKeyAccessTest>>#nonEmptyWithoutEqualsValues
 CollectionsTests.TDictionaryKeyAccessTest>>#test0FixtureDictionaryKeyAccess
 CollectionsTests.TDictionaryKeyAccessTest>>#testKeyAtIdentityValue
@@ -3933,17 +4009,20 @@ CollectionsTests.TDictionaryKeyAccessTest>>#testKeyAtIdentityValueIfAbsent
 CollectionsTests.TDictionaryKeyAccessTest>>#testKeyAtValue
 CollectionsTests.TDictionaryKeyAccessTest>>#testKeyAtValueIfAbsent
 CollectionsTests.TDictionaryKeyAccessTest>>#valueNotIn
+CollectionsTests.TDictionaryKeysValuesAssociationsAccess
 CollectionsTests.TDictionaryKeysValuesAssociationsAccess>>#nonEmpty
 CollectionsTests.TDictionaryKeysValuesAssociationsAccess>>#test0FixtureDictionaryKeysValuesAssociationsAccess
 CollectionsTests.TDictionaryKeysValuesAssociationsAccess>>#testAssociations
 CollectionsTests.TDictionaryKeysValuesAssociationsAccess>>#testKeys
 CollectionsTests.TDictionaryKeysValuesAssociationsAccess>>#testKeysSortedSafely
 CollectionsTests.TDictionaryKeysValuesAssociationsAccess>>#testValues
+CollectionsTests.TDictionaryPrintingTest
 CollectionsTests.TDictionaryPrintingTest>>#emptyDict
 CollectionsTests.TDictionaryPrintingTest>>#newEmptyDict
 CollectionsTests.TDictionaryPrintingTest>>#nonEmptyDict
 CollectionsTests.TDictionaryPrintingTest>>#testPrintElementsOn
 CollectionsTests.TDictionaryPrintingTest>>#testStoreOn
+CollectionsTests.TDictionaryRemovingTest
 CollectionsTests.TDictionaryRemovingTest>>#emptyDict
 CollectionsTests.TDictionaryRemovingTest>>#keyNotInNonEmptyDict
 CollectionsTests.TDictionaryRemovingTest>>#newEmptyDict
@@ -3953,6 +4032,7 @@ CollectionsTests.TDictionaryRemovingTest>>#testKeysAndValuesRemove
 CollectionsTests.TDictionaryRemovingTest>>#testRemove
 CollectionsTests.TDictionaryRemovingTest>>#testRemoveKey
 CollectionsTests.TDictionaryRemovingTest>>#testRemoveKeyIfAbsent
+CollectionsTests.TDictionaryValueAccessTest
 CollectionsTests.TDictionaryValueAccessTest>>#keyNotIn
 CollectionsTests.TDictionaryValueAccessTest>>#nonEmpty
 CollectionsTests.TDictionaryValueAccessTest>>#test0FixtureDictionaryElementAccess
@@ -3963,6 +4043,7 @@ CollectionsTests.TDictionaryValueAccessTest>>#testAtIfAbsentPut
 CollectionsTests.TDictionaryValueAccessTest>>#testAtIfPresent
 CollectionsTests.TDictionaryValueAccessTest>>#testAtPutDict
 CollectionsTests.TDictionaryValueAccessTest>>#testAtPutNil
+CollectionsTests.TEmptySequenceableTest
 CollectionsTests.TEmptySequenceableTest>>#accessValuePutIn
 CollectionsTests.TEmptySequenceableTest>>#accessValuePutInOn:
 CollectionsTests.TEmptySequenceableTest>>#empty
@@ -3972,6 +4053,7 @@ CollectionsTests.TEmptySequenceableTest>>#test0FixtureEmptySequenceableTest
 CollectionsTests.TEmptySequenceableTest>>#testSequenceIfNotEmpty
 CollectionsTests.TEmptySequenceableTest>>#testSequenceIfNotEmptyifEmpty
 CollectionsTests.TEmptySequenceableTest>>#valuePutIn
+CollectionsTests.TEmptyTest
 CollectionsTests.TEmptyTest>>#empty
 CollectionsTests.TEmptyTest>>#nonEmpty
 CollectionsTests.TEmptyTest>>#test0FixtureEmptyTest
@@ -3982,6 +4064,7 @@ CollectionsTests.TEmptyTest>>#testIfNotEmptyifEmpty
 CollectionsTests.TEmptyTest>>#testIsEmpty
 CollectionsTests.TEmptyTest>>#testIsEmptyOrNil
 CollectionsTests.TEmptyTest>>#testNotEmpty
+CollectionsTests.TEnumeratingTest
 CollectionsTests.TEnumeratingTest>>#collectionOfCollectionsOfInts
 CollectionsTests.TEnumeratingTest>>#collectionOfCollectionsOfStrings
 CollectionsTests.TEnumeratingTest>>#collectionWithCharacters
@@ -3991,6 +4074,7 @@ CollectionsTests.TEnumeratingTest>>#testFlatCollectAs
 CollectionsTests.TEnumeratingTest>>#testFlatCollectAsSet
 CollectionsTests.TEnumeratingTest>>#testFlatCollectAsWithEmptyCollection
 CollectionsTests.TEnumeratingTest>>#testFlattened
+CollectionsTests.TGrowableTest
 CollectionsTests.TGrowableTest>>#element
 CollectionsTests.TGrowableTest>>#elementNotIn
 CollectionsTests.TGrowableTest>>#empty
@@ -3998,16 +4082,19 @@ CollectionsTests.TGrowableTest>>#nonEmpty
 CollectionsTests.TGrowableTest>>#test0FixtureRequirementsOfTGrowableTest
 CollectionsTests.TGrowableTest>>#testAddEmptyGrows
 CollectionsTests.TGrowableTest>>#testAddNonEmptyGrowsWhenNewElement
+CollectionsTests.TIdentityAddTest
 CollectionsTests.TIdentityAddTest>>#collection
 CollectionsTests.TIdentityAddTest>>#element
 CollectionsTests.TIdentityAddTest>>#equalNotIdenticalElement
 CollectionsTests.TIdentityAddTest>>#testIdentityAdd
+CollectionsTests.TIncludesForIdentityCollectionsTest
 CollectionsTests.TIncludesForIdentityCollectionsTest>>#identityCollectionWithElementsCopyNotIdentical
 CollectionsTests.TIncludesForIdentityCollectionsTest>>#test0FixtureInludesForIdentityCollectionsTest
 CollectionsTests.TIncludesForIdentityCollectionsTest>>#testIdentityIncludesForIdentityCollections
 CollectionsTests.TIncludesForIdentityCollectionsTest>>#testIncludesAllOfForIdentityCollections
 CollectionsTests.TIncludesForIdentityCollectionsTest>>#testIncludesAnyOfForIdentityCollections
 CollectionsTests.TIncludesForIdentityCollectionsTest>>#testIncludesForIdentityCollections
+CollectionsTests.TIncludesTest
 CollectionsTests.TIncludesTest>>#anotherElementNotIn
 CollectionsTests.TIncludesTest>>#elementNotIn
 CollectionsTests.TIncludesTest>>#empty
@@ -4019,9 +4106,11 @@ CollectionsTests.TIncludesTest>>#testIncludesAnyAllThere
 CollectionsTests.TIncludesTest>>#testIncludesAnyNoneThere
 CollectionsTests.TIncludesTest>>#testIncludesElementIsNotThere
 CollectionsTests.TIncludesTest>>#testIncludesElementIsThere
+CollectionsTests.TIncludesWithIdentityCheckTest
 CollectionsTests.TIncludesWithIdentityCheckTest>>#collectionWithCopyNonIdentical
 CollectionsTests.TIncludesWithIdentityCheckTest>>#test0FixtureIncludeWithIdentityTest
 CollectionsTests.TIncludesWithIdentityCheckTest>>#testIdentityIncludes
+CollectionsTests.TIndexAccess
 CollectionsTests.TIndexAccess>>#collectionMoreThan1NoDuplicates
 CollectionsTests.TIndexAccess>>#elementInForIndexAccessing
 CollectionsTests.TIndexAccess>>#elementNotInForIndexAccessing
@@ -4037,6 +4126,7 @@ CollectionsTests.TIndexAccess>>#testIndexOfSubCollectionStartingAtIfAbsent
 CollectionsTests.TIndexAccess>>#testLastIndexOf
 CollectionsTests.TIndexAccess>>#testLastIndexOfIfAbsent
 CollectionsTests.TIndexAccess>>#testLastIndexOfStartingAt
+CollectionsTests.TIndexAccessForMultipliness
 CollectionsTests.TIndexAccessForMultipliness>>#collectionWithNonIdentitySameAtEndAndBegining
 CollectionsTests.TIndexAccessForMultipliness>>#collectionWithSameAtEndAndBegining
 CollectionsTests.TIndexAccessForMultipliness>>#test0FixtureIndexAccessFotMultipliness
@@ -4048,6 +4138,7 @@ CollectionsTests.TIndexAccessForMultipliness>>#testIndexOfStartingAtDuplicate
 CollectionsTests.TIndexAccessForMultipliness>>#testLastIndexOfDuplicate
 CollectionsTests.TIndexAccessForMultipliness>>#testLastIndexOfIfAbsentDuplicate
 CollectionsTests.TIndexAccessForMultipliness>>#testLastIndexOfStartingAtDuplicate
+CollectionsTests.TIterateSequencedReadableTest
 CollectionsTests.TIterateSequencedReadableTest>>#empty
 CollectionsTests.TIterateSequencedReadableTest>>#nonEmptyMoreThan1Element
 CollectionsTests.TIterateSequencedReadableTest>>#test0FixtureIterateSequencedReadableTest
@@ -4074,6 +4165,7 @@ CollectionsTests.TIterateSequencedReadableTest>>#testWithDo
 CollectionsTests.TIterateSequencedReadableTest>>#testWithDoError
 CollectionsTests.TIterateSequencedReadableTest>>#testWithIndexCollect
 CollectionsTests.TIterateSequencedReadableTest>>#testWithIndexDo
+CollectionsTests.TIterateTest
 CollectionsTests.TIterateTest>>#collectionWithoutNilElements
 CollectionsTests.TIterateTest>>#empty
 CollectionsTests.TIterateTest>>#test0FixtureIterateTest
@@ -4112,13 +4204,16 @@ CollectionsTests.TIterateTest>>#testSelectThenCollectOnEmpty
 CollectionsTests.TIterateTest>>#testSelectThenDo
 CollectionsTests.TIterateTest>>#testSelectThenDoOnEmpty
 CollectionsTests.TIterateTest>>#testSumNumbers
+CollectionsTests.TOccurrencesForIdentityCollectionsTest
 CollectionsTests.TOccurrencesForIdentityCollectionsTest>>#identityCollectionWithElementsCopyNotIdentical
 CollectionsTests.TOccurrencesForIdentityCollectionsTest>>#test0FixtureOccurrencesForIdentityCollectionsTest
 CollectionsTests.TOccurrencesForIdentityCollectionsTest>>#testOccurencesOfForIdentityCollections
+CollectionsTests.TOccurrencesForMultiplinessTest
 CollectionsTests.TOccurrencesForMultiplinessTest>>#collectionWithEqualElements
 CollectionsTests.TOccurrencesForMultiplinessTest>>#elementTwiceInForOccurrences
 CollectionsTests.TOccurrencesForMultiplinessTest>>#test0FixtureOccurrencesForMultiplinessTest
 CollectionsTests.TOccurrencesForMultiplinessTest>>#testOccurrencesOfForMultipliness
+CollectionsTests.TOccurrencesTest
 CollectionsTests.TOccurrencesTest>>#collectionWithoutEqualElements
 CollectionsTests.TOccurrencesTest>>#elementNotInForOccurrences
 CollectionsTests.TOccurrencesTest>>#empty
@@ -4126,12 +4221,14 @@ CollectionsTests.TOccurrencesTest>>#test0FixtureOccurrencesTest
 CollectionsTests.TOccurrencesTest>>#testOccurrencesOf
 CollectionsTests.TOccurrencesTest>>#testOccurrencesOfEmpty
 CollectionsTests.TOccurrencesTest>>#testOccurrencesOfNotIn
+CollectionsTests.TPrintOnSequencedTest
 CollectionsTests.TPrintOnSequencedTest>>#test0FixturePrintTest
 CollectionsTests.TPrintOnSequencedTest>>#testPrintElementsOn
 CollectionsTests.TPrintOnSequencedTest>>#testPrintNameOn
 CollectionsTests.TPrintOnSequencedTest>>#testPrintOn
 CollectionsTests.TPrintOnSequencedTest>>#testPrintOnDelimiter
 CollectionsTests.TPrintOnSequencedTest>>#testPrintOnDelimiterLast
+CollectionsTests.TPrintTest
 CollectionsTests.TPrintTest>>#nonEmpty
 CollectionsTests.TPrintTest>>#test0FixturePrintTest
 CollectionsTests.TPrintTest>>#testPrintElementsOn
@@ -4140,6 +4237,7 @@ CollectionsTests.TPrintTest>>#testPrintOn
 CollectionsTests.TPrintTest>>#testPrintOnDelimiter
 CollectionsTests.TPrintTest>>#testPrintOnDelimiterLast
 CollectionsTests.TPrintTest>>#testStoreOn
+CollectionsTests.TPutBasicTest
 CollectionsTests.TPutBasicTest>>#aValue
 CollectionsTests.TPutBasicTest>>#anIndex
 CollectionsTests.TPutBasicTest>>#anotherValue
@@ -4149,6 +4247,7 @@ CollectionsTests.TPutBasicTest>>#test0FixturePutTest
 CollectionsTests.TPutBasicTest>>#testAtPut
 CollectionsTests.TPutBasicTest>>#testAtPutOutOfBounds
 CollectionsTests.TPutBasicTest>>#testAtPutTwoValues
+CollectionsTests.TPutTest
 CollectionsTests.TPutTest>>#aValue
 CollectionsTests.TPutTest>>#indexArray
 CollectionsTests.TPutTest>>#nonEmpty
@@ -4161,6 +4260,7 @@ CollectionsTests.TPutTest>>#testAtWrapPut
 CollectionsTests.TPutTest>>#testFromToPut
 CollectionsTests.TPutTest>>#testSwapWith
 CollectionsTests.TPutTest>>#valueArray
+CollectionsTests.TRemoveByIndexTest
 CollectionsTests.TRemoveByIndexTest>>#collectionWith5Elements
 CollectionsTests.TRemoveByIndexTest>>#empty
 CollectionsTests.TRemoveByIndexTest>>#test0FixtureRemoveByIndexTest
@@ -4174,8 +4274,10 @@ CollectionsTests.TRemoveByIndexTest>>#testRemoveLast
 CollectionsTests.TRemoveByIndexTest>>#testRemoveLastNElements
 CollectionsTests.TRemoveByIndexTest>>#testRemoveLastNElementsNElements
 CollectionsTests.TRemoveByIndexTest>>#testRemoveLastNotPresent
+CollectionsTests.TRemoveForMultiplenessTest
 CollectionsTests.TRemoveForMultiplenessTest>>#elementTwiceIn
 CollectionsTests.TRemoveForMultiplenessTest>>#testRemoveElementThatExistsTwice
+CollectionsTests.TRemoveTest
 CollectionsTests.TRemoveTest>>#elementNotIn
 CollectionsTests.TRemoveTest>>#empty
 CollectionsTests.TRemoveTest>>#nonEmptyWithoutEqualElements
@@ -4188,6 +4290,7 @@ CollectionsTests.TRemoveTest>>#testRemoveElementFromEmpty
 CollectionsTests.TRemoveTest>>#testRemoveElementReallyRemovesElement
 CollectionsTests.TRemoveTest>>#testRemoveElementThatExists
 CollectionsTests.TRemoveTest>>#testRemoveIfAbsent
+CollectionsTests.TReplacementSequencedTest
 CollectionsTests.TReplacementSequencedTest>>#elementInForReplacement
 CollectionsTests.TReplacementSequencedTest>>#firstIndex
 CollectionsTests.TReplacementSequencedTest>>#newElement
@@ -4199,6 +4302,7 @@ CollectionsTests.TReplacementSequencedTest>>#testOFixtureReplacementSequencedTes
 CollectionsTests.TReplacementSequencedTest>>#testReplaceAllWith
 CollectionsTests.TReplacementSequencedTest>>#testReplaceFromToWith
 CollectionsTests.TReplacementSequencedTest>>#testReplaceFromToWithStartingAt
+CollectionsTests.TSequencedConcatenationTest
 CollectionsTests.TSequencedConcatenationTest>>#empty
 CollectionsTests.TSequencedConcatenationTest>>#firstCollection
 CollectionsTests.TSequencedConcatenationTest>>#secondCollection
@@ -4209,6 +4313,7 @@ CollectionsTests.TSequencedConcatenationTest>>#testNewStreamContentsReturnsColle
 CollectionsTests.TSequencedConcatenationTest>>#testStreamContents
 CollectionsTests.TSequencedConcatenationTest>>#testStreamContentsProtocol
 CollectionsTests.TSequencedConcatenationTest>>#testStreamContentsSized
+CollectionsTests.TSequencedElementAccessTest
 CollectionsTests.TSequencedElementAccessTest>>#elementInForElementAccessing
 CollectionsTests.TSequencedElementAccessTest>>#elementNotInForElementAccessing
 CollectionsTests.TSequencedElementAccessTest>>#moreThan4Elements
@@ -4231,12 +4336,14 @@ CollectionsTests.TSequencedElementAccessTest>>#testBeforeIfAbsent
 CollectionsTests.TSequencedElementAccessTest>>#testFirstSecondThird
 CollectionsTests.TSequencedElementAccessTest>>#testLast
 CollectionsTests.TSequencedElementAccessTest>>#testMiddle
+CollectionsTests.TSequencedStructuralEqualityTest
 CollectionsTests.TSequencedStructuralEqualityTest>>#test0TSequencedStructuralEqualityTest
 CollectionsTests.TSequencedStructuralEqualityTest>>#testEqualSignForSequenceableCollections
 CollectionsTests.TSequencedStructuralEqualityTest>>#testEqualSignIsTrueForEmptyButNonIdenticalCollections
 CollectionsTests.TSequencedStructuralEqualityTest>>#testHasEqualElements
 CollectionsTests.TSequencedStructuralEqualityTest>>#testHasEqualElementsIsTrueForNonIdenticalButEqualCollections
 CollectionsTests.TSequencedStructuralEqualityTest>>#testHasEqualElementsOfIdenticalCollectionObjects
+CollectionsTests.TSetArithmetic
 CollectionsTests.TSetArithmetic>>#anotherElementOrAssociationIn
 CollectionsTests.TSetArithmetic>>#anotherElementOrAssociationNotIn
 CollectionsTests.TSetArithmetic>>#collection
@@ -4254,10 +4361,12 @@ CollectionsTests.TSetArithmetic>>#testIntersectionItself
 CollectionsTests.TSetArithmetic>>#testIntersectionTwoSimilarElementsInIntersection
 CollectionsTests.TSetArithmetic>>#testUnion
 CollectionsTests.TSetArithmetic>>#testUnionOfEmpties
+CollectionsTests.TSizeTest
 CollectionsTests.TSizeTest>>#empty
 CollectionsTests.TSizeTest>>#sizeCollection
 CollectionsTests.TSizeTest>>#test0TSizeTest
 CollectionsTests.TSizeTest>>#testSize
+CollectionsTests.TSortTest
 CollectionsTests.TSortTest>>#sortedInAscendingOrderCollection
 CollectionsTests.TSortTest>>#test0SortingArrayedTest
 CollectionsTests.TSortTest>>#testIsSorted
@@ -4267,12 +4376,14 @@ CollectionsTests.TSortTest>>#testSortUsingSortBlock
 CollectionsTests.TSortTest>>#testSorted
 CollectionsTests.TSortTest>>#testSortedUsingBlock
 CollectionsTests.TSortTest>>#unsortedCollection
+CollectionsTests.TStructuralEqualityTest
 CollectionsTests.TStructuralEqualityTest>>#empty
 CollectionsTests.TStructuralEqualityTest>>#nonEmpty
 CollectionsTests.TStructuralEqualityTest>>#test0TStructuralEqualityTest
 CollectionsTests.TStructuralEqualityTest>>#testEqualSign
 CollectionsTests.TStructuralEqualityTest>>#testEqualSignIsTrueForNonIdenticalButEqualCollections
 CollectionsTests.TStructuralEqualityTest>>#testEqualSignOfIdenticalCollectionObjects
+CollectionsTests.TSubCollectionAccess
 CollectionsTests.TSubCollectionAccess>>#moreThan3Elements
 CollectionsTests.TSubCollectionAccess>>#test0FixtureSubcollectionAccessTest
 CollectionsTests.TSubCollectionAccess>>#testAllButFirst
@@ -4281,14 +4392,18 @@ CollectionsTests.TSubCollectionAccess>>#testAllButLast
 CollectionsTests.TSubCollectionAccess>>#testAllButLastNElements
 CollectionsTests.TSubCollectionAccess>>#testFirstNElements
 CollectionsTests.TSubCollectionAccess>>#testLastNElements
+CollectionsTests.VileFinalizer
 CollectionsTests.VileFinalizer>>#finalize
 CollectionsTests.VileFinalizer>>#initialize:
+CollectionsTests.WeakFinalizersTest
 CollectionsTests.WeakFinalizersTest>>#testNewFinalizationSupported
+CollectionsTests.WeakIdentityKeyDictionaryTest
 CollectionsTests.WeakIdentityKeyDictionaryTest>>#classToBeTested
 CollectionsTests.WeakIdentityKeyDictionaryTest>>#supportsNilKey
 CollectionsTests.WeakIdentityKeyDictionaryTest>>#testAtPutNil
 CollectionsTests.WeakIdentityKeyDictionaryTest>>#testFinalizeValuesWhenLastChainContinuesAtFront
 CollectionsTests.WeakIdentityKeyDictionaryTest>>#testNoNils
+CollectionsTests.WeakKeyDictionaryTest
 CollectionsTests.WeakKeyDictionaryTest class>>#shouldInheritSelectors
 CollectionsTests.WeakKeyDictionaryTest class>>#timingLarge
 CollectionsTests.WeakKeyDictionaryTest class>>#timingMany
@@ -4297,12 +4412,15 @@ CollectionsTests.WeakKeyDictionaryTest>>#setUp
 CollectionsTests.WeakKeyDictionaryTest>>#size
 CollectionsTests.WeakKeyDictionaryTest>>#testClearing
 CollectionsTests.WeakKeyDictionaryTest>>#testGrow
+CollectionsTests.WeakKeyToCollectionDictionaryTest
 CollectionsTests.WeakKeyToCollectionDictionaryTest>>#classToBeTested
 CollectionsTests.WeakKeyToCollectionDictionaryTest>>#testKeysAndValuesRemove
 CollectionsTests.WeakKeyToCollectionDictionaryTest>>#testRemoveKey
 CollectionsTests.WeakKeyToCollectionDictionaryTest>>#testRemoveKeyIfAbsent
+CollectionsTests.WeakOrderedCollectionTest
 CollectionsTests.WeakOrderedCollectionTest>>#testWeakOrderedCollectionAllGarbageCollected
 CollectionsTests.WeakOrderedCollectionTest>>#testWeakOrderedCollectionSomeGarbageCollected
+CollectionsTests.WeakRegistryTest
 CollectionsTests.WeakRegistryTest>>#signalMockException
 CollectionsTests.WeakRegistryTest>>#testFinalization
 CollectionsTests.WeakRegistryTest>>#testFinalizationWithBadFinalizer
@@ -4313,6 +4431,7 @@ CollectionsTests.WeakRegistryTest>>#testGrowingDoesntLeak
 CollectionsTests.WeakRegistryTest>>#testRemovingByAHighPriorityProcessDoesntLeak
 CollectionsTests.WeakRegistryTest>>#testRemovingDoesntLeak
 CollectionsTests.WeakRegistryTest>>#testVileFinalizer
+CollectionsTests.WeakSetTest
 CollectionsTests.WeakSetTest class>>#shouldInheritSelectors
 CollectionsTests.WeakSetTest>>#classToBeTested
 CollectionsTests.WeakSetTest>>#testAddIncludesSizeReclaim
@@ -4324,11 +4443,14 @@ CollectionsTests.WeakSetTest>>#testDontGrowWhenUnecessary
 CollectionsTests.WeakSetTest>>#testGrowWhenNecessary
 CollectionsTests.WeakSetTest>>#testIncludes
 CollectionsTests.WeakSetTest>>#testIncludesNil
+CollectionsTests.WeakValueDictionaryTest
 CollectionsTests.WeakValueDictionaryTest class>>#shouldInheritSelectors
 CollectionsTests.WeakValueDictionaryTest>>#classToBeTested
+CollectionsTests.WideCharacterSetTest
 CollectionsTests.WideCharacterSetTest>>#testAddingToCharacterSet
 CollectionsTests.WideCharacterSetTest>>#testCopy
 CollectionsTests.WideCharacterSetTest>>#testCreation
+CollectionsTests.WideStringTest
 CollectionsTests.WideStringTest>>#testAsInteger
 CollectionsTests.WideStringTest>>#testAtPut
 CollectionsTests.WideStringTest>>#testBeginsWith
@@ -4343,6 +4465,7 @@ CollectionsTests.WideStringTest>>#testRelationOrder
 CollectionsTests.WideStringTest>>#testRelationOrderWithCase
 CollectionsTests.WideStringTest>>#testSameAs
 CollectionsTests.WideStringTest>>#testSubstrings
+CollectionsTests.WriteStreamTest
 CollectionsTests.WriteStreamTest>>#testContentsReturnCollectionOfCorrectSize
 CollectionsTests.WriteStreamTest>>#testContentsReturnCollectionOfCorrectSizeAfterSettingPosition
 CollectionsTests.WriteStreamTest>>#testEnsureASpace
@@ -4354,5 +4477,7 @@ CollectionsTests.WriteStreamTest>>#testSetToEnd
 NECompletion.NECPreferences class>>#defaultPopupShortcut
 NECompletion.NECPreferences class>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50238
 ScriptLoader50.ScriptLoader>>#script50239
+ScriptLoader50.ScriptLoader>>#update50238
 ScriptLoader50.ScriptLoader>>#update50239

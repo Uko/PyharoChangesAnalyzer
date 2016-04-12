@@ -8,4 +8,5 @@ Kernel-Tests.ScaledDecimalTest>>#testInexactNthRoot
 Kernel-Tests.ScaledDecimalTest>>#testInexactSqrt
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50606
+ScriptLoader50.ScriptLoader>>#update50606
 ScriptLoader50.ScriptLoader>>#update50607

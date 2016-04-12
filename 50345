@@ -5,9 +5,11 @@ Refactoring-Critics.RBCompositeLintRule class>>#pharoHardLintRules
 Refactoring-Critics.RBCompositeLintRule class>>#pharoSoftLintRules
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50344
+ScriptLoader50.ScriptLoader>>#update50344
 ScriptLoader50.ScriptLoader>>#update50345
 Tool-CriticBrowser.SelectRuleBrowser
 Tool-CriticBrowser.SelectRuleBrowser class>>#openWithEnvironment:removeTestCase:
+Tool-CriticBrowser.SelectRuleBrowser class>>#pharoIntegrationRules
 Tool-CriticBrowser.SelectRuleBrowser>>#addAllItems
 Tool-CriticBrowser.SelectRuleBrowser>>#addItems
 Tool-CriticBrowser.SelectRuleBrowser>>#initialize

@@ -4,12 +4,17 @@ ConfigurationOfQualityAssistant.ConfigurationOfQualityAssistant>>#v2_2_1:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#stable:
 ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_9_2:
 Nautilus.Class>>#definitionForNautilus
+QualityAssistantRecording.QAEventCollector class>>#initialize
+QualityAssistantRecording.QAEventCollector class>>#uniqueInstance
+QualityAssistantRecording.QAEventCollector class>>#unload
 QualityAssistantRecording.QAEventCollector>>#defaultCategory
+QualityAssistantRecording.QAEventCollector>>#initialize
 QualityAssistantRecording.QAEventCollector>>#linkToReSystemAnnouncer:
 Renraku.ReSystemAnnouncer class>>#cleanUp
 Renraku.ReSystemAnnouncer class>>#uniqueInstance
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50521
+ScriptLoader50.ScriptLoader>>#update50521
 ScriptLoader50.ScriptLoader>>#update50522
 Traits.TClassDescription>>#usesSpecialClassVariables
 Traits.TClassDescription>>#usesSpecialSlot

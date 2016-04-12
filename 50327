@@ -6,6 +6,7 @@ Nautilus.AbstractNautilusUI>>#buildNewCommentText
 Nautilus.NautilusAnnotationDisplayer>>#noteNewOwner:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50326
+ScriptLoader50.ScriptLoader>>#update50326
 ScriptLoader50.ScriptLoader>>#update50327
 Spec-Core.TabManagerModel>>#addTab:
 Spec-Core.TabManagerModel>>#basicRemoveTab:

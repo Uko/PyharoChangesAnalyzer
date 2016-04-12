@@ -4,5 +4,6 @@ Reflectivity.ReflectiveMethod>>#installMethod:
 Reflectivity.ReflectiveMethod>>#installReflectiveMethod
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50434
+ScriptLoader50.ScriptLoader>>#update50434
 ScriptLoader50.ScriptLoader>>#update50435
 Tool-Base.AbstractTool>>#compileANewClassFrom:notifying:startingFrom:

@@ -1,0 +1,118 @@
+Alien.Alien class>>#ensureNotifiedAtStartup
+Alien.FFICallbackThunk class>>#ensureNotifiedAtStartup
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
+ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_16:
+FileSystem-Core.Path>>#segments
+Nautilus.NautilusAnnotationDisplayer>>#backgroundColor
+Nautilus.NautilusAnnotationDisplayer>>#themeChanged
+Nautilus.NautilusCommentAnnotationDisplayer
+Nautilus.NautilusCommentAnnotationDisplayer class>>#key
+Nautilus.NautilusCommentAnnotationDisplayer>>#backgroundColor
+Nautilus.NautilusCommentAnnotationDisplayer>>#changeExtendCommentPolicy
+Nautilus.NautilusCommentAnnotationDisplayer>>#changeLineNumbersDisplay
+Nautilus.NautilusCommentAnnotationDisplayer>>#changeWrappingPolicy
+Nautilus.NautilusCommentAnnotationDisplayer>>#computedHeightFrom:
+Nautilus.NautilusCommentAnnotationDisplayer>>#extendCommentPolicyMorph
+Nautilus.NautilusCommentAnnotationDisplayer>>#fontToUse
+Nautilus.NautilusCommentAnnotationDisplayer>>#initialize
+Nautilus.NautilusCommentAnnotationDisplayer>>#lineNumbersDisplayLabel
+Nautilus.NautilusCommentAnnotationDisplayer>>#lineNumbersDisplayLabelMorph
+Nautilus.NautilusCommentAnnotationDisplayer>>#manageLayoutInBounds:
+Nautilus.NautilusCommentAnnotationDisplayer>>#noteNewOwner:
+Nautilus.NautilusCommentAnnotationDisplayer>>#selectionChanged
+Nautilus.NautilusCommentAnnotationDisplayer>>#spacer:
+Nautilus.NautilusCommentAnnotationDisplayer>>#textColor
+Nautilus.NautilusCommentAnnotationDisplayer>>#textOfCharBlock:
+Nautilus.NautilusCommentAnnotationDisplayer>>#updateContents
+Nautilus.NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabel
+Nautilus.NautilusCommentAnnotationDisplayer>>#wrappingPolicyLabelMorph
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50654
+ScriptLoader50.ScriptLoader>>#update50654
+ScriptLoader50.ScriptLoader>>#update50655
+UnifiedFFI-Tests.FFICallbackTests
+UnifiedFFI-Tests.FFICallbackTests>>#testCqsort
+UnifiedFFI-Tests.FFICallbackTests>>#testCqsortWithByteArray
+UnifiedFFI-Tests.FFICalloutObjectForTest class>>#primCreate:
+UnifiedFFI-Tests.FFIOpaqueObjectTests
+UnifiedFFI-Tests.FFIOpaqueObjectTests>>#ffiBindingOf:
+UnifiedFFI-Tests.FFIOpaqueObjectTests>>#ffiInstVarArgument:generator:
+UnifiedFFI-Tests.FFIOpaqueObjectTests>>#newParser
+UnifiedFFI-Tests.FFIOpaqueObjectTests>>#testDereferencedExternalObjectError
+UnifiedFFI-Tests.FFIOpaqueObjectTests>>#testParseAsBigArityPointer
+UnifiedFFI-Tests.FFIOpaqueObjectTests>>#testParseAsPointer
+UnifiedFFI-Tests.FFITypesTests>>#testSignedAtWithDiferentSizes
+UnifiedFFI.ExternalAddress class>>#loadSymbol:
+UnifiedFFI.ExternalType>>#isExternalType
+UnifiedFFI.FFICallout>>#argName:indirectIndex:type:ptrArity:
+UnifiedFFI.FFICallout>>#directArgName:ptrArity:
+UnifiedFFI.FFICallout>>#integerConstantArgument:
+UnifiedFFI.FFICharacterType
+UnifiedFFI.FFICharacterType>>#needsArityRolling
+UnifiedFFI.FFICharacterType>>#needsArityUnrolling
+UnifiedFFI.FFIDereferencedOpaqueObjectError
+UnifiedFFI.FFIExternalArrayType
+UnifiedFFI.FFIExternalArrayType>>#instanceVariableName
+UnifiedFFI.FFIExternalEnumerationType
+UnifiedFFI.FFIExternalEnumerationType class>>#defaultPointerArity
+UnifiedFFI.FFIExternalEnumerationType class>>#naturalPointerArity
+UnifiedFFI.FFIExternalEnumerationType>>#needsArityRolling
+UnifiedFFI.FFIExternalObject
+UnifiedFFI.FFIExternalObject class>>#finalizeResourceData:
+UnifiedFFI.FFIExternalObject>>#autoRelease
+UnifiedFFI.FFIExternalObject>>#initialize
+UnifiedFFI.FFIExternalObject>>#printOn:
+UnifiedFFI.FFIExternalObject>>#registerAsExternalResource
+UnifiedFFI.FFIExternalObject>>#resourceData
+UnifiedFFI.FFIExternalObjectType
+UnifiedFFI.FFIExternalObjectType class>>#defaultPointerArity
+UnifiedFFI.FFIExternalObjectType class>>#externalType
+UnifiedFFI.FFIExternalObjectType class>>#objectClass:
+UnifiedFFI.FFIExternalObjectType>>#basicEmitArgument:context:
+UnifiedFFI.FFIExternalObjectType>>#emitReturn:resultTempVar:context:
+UnifiedFFI.FFIExternalObjectType>>#emitReturnArgument:context:
+UnifiedFFI.FFIExternalObjectType>>#externalTypeSize
+UnifiedFFI.FFIExternalObjectType>>#initialize
+UnifiedFFI.FFIExternalObjectType>>#objectClass
+UnifiedFFI.FFIExternalObjectType>>#objectClass:
+UnifiedFFI.FFIExternalObjectType>>#printOn:
+UnifiedFFI.FFIExternalReference
+UnifiedFFI.FFIExternalReferenceType
+UnifiedFFI.FFIExternalReferenceType class>>#naturalPointerArity
+UnifiedFFI.FFIExternalReferenceType>>#instanceVariableName
+UnifiedFFI.FFIExternalReferenceType>>#needsArityUnrolling
+UnifiedFFI.FFIExternalReferenceType>>#prepareAsSelfFromCalloutDeclaration
+UnifiedFFI.FFIExternalString
+UnifiedFFI.FFIExternalStructureType
+UnifiedFFI.FFIExternalStructureType class>>#naturalPointerArity
+UnifiedFFI.FFIExternalType class>>#defaultPointerArity
+UnifiedFFI.FFIExternalType>>#initialize
+UnifiedFFI.FFIExternalType>>#needsArityRolling
+UnifiedFFI.FFIExternalType>>#needsArityUnrolling
+UnifiedFFI.FFIExternalType>>#validateAfterParse:
+UnifiedFFI.FFIExternalValueHolderType
+UnifiedFFI.FFIFunctionParser>>#argName:indirectIndex:type:ptrArity:
+UnifiedFFI.FFIFunctionParser>>#parseAnonymousFunction:
+UnifiedFFI.FFIFunctionParser>>#parseArgument
+UnifiedFFI.FFIFunctionParser>>#parseNamedFunction:
+UnifiedFFI.FFIFunctionParser>>#parseReturn
+UnifiedFFI.FFIFunctionParser>>#requestor
+UnifiedFFI.FFIFunctionParser>>#requestor:
+UnifiedFFI.FFIFunctionParser>>#returnType:
+UnifiedFFI.FFIOop
+UnifiedFFI.FFIOop class>>#naturalPointerArity
+UnifiedFFI.FFIOop>>#needsArityUnrolling
+UnifiedFFI.FFIOpaqueObject
+UnifiedFFI.FFIOpaqueObject class>>#asExternalTypeOn:
+UnifiedFFI.FFIOpaqueObjectType
+UnifiedFFI.FFIOpaqueObjectType class>>#naturalPointerArity
+UnifiedFFI.FFIOpaqueObjectType>>#instanceVariableName
+UnifiedFFI.FFIOpaqueObjectType>>#needsArityRolling
+UnifiedFFI.FFIOpaqueObjectType>>#prepareAsSelfFromCalloutDeclaration
+UnifiedFFI.FFIOpaqueObjectType>>#validateAfterParse:
+UnifiedFFI.FFIVoid
+UnifiedFFI.FFIVoid>>#needsArityRolling
+UnifiedFFI.FFIVoid>>#needsArityUnrolling
+UnifiedFFI.TFFIPointerArity
+UnifiedFFI.TFFIPointerArity>>#needsArityRolling
+UnifiedFFI.TFFIPointerArity>>#needsArityUnrolling

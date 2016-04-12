@@ -10,4 +10,5 @@ NECompletion.NECEmptyModel>>#isEmpty
 NECompletion.NECEmptyModel>>#narrowWith:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50465
+ScriptLoader50.ScriptLoader>>#update50465
 ScriptLoader50.ScriptLoader>>#update50466

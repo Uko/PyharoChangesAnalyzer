@@ -77,6 +77,7 @@ Reflectivity.MetalinkIconStyler>>#visitVariableNode:
 Reflectivity.MetalinkTextSegmentMorph
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50352
+ScriptLoader50.ScriptLoader>>#update50352
 ScriptLoader50.ScriptLoader>>#update50353
 Slot.MorphSlot
 Slot.MorphSlot>>#write:to:

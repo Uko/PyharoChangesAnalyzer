@@ -11,6 +11,7 @@ Reflectivity.RFSemanticAnalyzer>>#declareVariableNode:
 Reflectivity.RFSemanticAnalyzer>>#visitVariableNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50346
+ScriptLoader50.ScriptLoader>>#update50346
 ScriptLoader50.ScriptLoader>>#update50347
 Slot.CircularHierarchyError
 Slot.DuplicatedSlotName

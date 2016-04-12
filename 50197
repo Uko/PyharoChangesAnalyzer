@@ -33,6 +33,7 @@ Reflectivity.RFReification>>#genForRBLiteralValueNode
 Reflectivity.RFReification>>#genForRBSelfNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50196
+ScriptLoader50.ScriptLoader>>#update50196
 ScriptLoader50.ScriptLoader>>#update50197
 Spec-MorphicAdapters.MorphicDiffAdapter>>#contextClass:
 Spec-MorphicAdapters.MorphicDiffAdapter>>#leftText:
@@ -55,6 +56,11 @@ Tool-Diff.DiffMorph>>#contextClass
 Tool-Diff.DiffMorph>>#contextClass:
 Tool-Diff.DiffMorph>>#defaultTitle
 Tool-Diff.DiffMorph>>#destTextModel
+Tool-Diff.DiffMorph>>#dstScroll:
+Tool-Diff.DiffMorph>>#dstText
+Tool-Diff.DiffMorph>>#dstText:
+Tool-Diff.DiffMorph>>#extent:
+Tool-Diff.DiffMorph>>#font:
 Tool-Diff.DiffMorph>>#from:to:
 Tool-Diff.DiffMorph>>#from:to:contextClass:
 Tool-Diff.DiffMorph>>#hideOrShowScrollBar
@@ -70,8 +76,14 @@ Tool-Diff.DiffMorph>>#newJoinSectionFrom:to:
 Tool-Diff.DiffMorph>>#newMatchJoinSectionFrom:to:
 Tool-Diff.DiffMorph>>#newScrollbarMorph
 Tool-Diff.DiffMorph>>#newSrcMorph
+Tool-Diff.DiffMorph>>#newText
+Tool-Diff.DiffMorph>>#oldText
 Tool-Diff.DiffMorph>>#selectedClassOrMetaClass
+Tool-Diff.DiffMorph>>#setText
 Tool-Diff.DiffMorph>>#sourceTextModel
+Tool-Diff.DiffMorph>>#srcScroll:
+Tool-Diff.DiffMorph>>#srcText
+Tool-Diff.DiffMorph>>#srcText:
 Tool-Diff.DiffMorph>>#updateJoinOffsets
 Tool-Diff.DiffMorph>>#updateText
 Tool-Diff.DiffMorph>>#vScroll:

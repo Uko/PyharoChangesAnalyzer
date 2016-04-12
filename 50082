@@ -2,6 +2,7 @@ EmbeddedFreeType.EmbeddedFreeTypeFontFontDescription class>>#canBeInstalled
 EmbeddedFreeType.EmbeddedFreeTypeFontFontDescription class>>#installFontsIn:
 EmbeddedFreeType.LucidaGrandeRegular class>>#canBeInstalled
 EmbeddedFreeType.LucidaGrandeRegular class>>#initialize
+EmbeddedFreeType.LucidaGrandeRegular class>>#installFontsIn:
 Keymapping-Pragmas.KMPragmaKeymapBuilder>>#interpretRegistration:
 MenuRegistration.PragmaMenuAndShortcutRegistration>>#handOutItems
 MenuRegistration.PragmaMenuBuilder>>#interpretRegistration:
@@ -19,4 +20,5 @@ Morphic-Base.ToggleMenuItemShortcutWithText class>>#priority
 Refactoring-Core.RBNamespace>>#allReferencesToClass:do:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50081
+ScriptLoader50.ScriptLoader>>#update50081
 ScriptLoader50.ScriptLoader>>#update50082

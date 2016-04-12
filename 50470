@@ -6,6 +6,7 @@ MonticelloFileTree-Core.MCFileTreeAbstractReader>>#hasMonticelloMetadata
 Reflectivity-Tools.WatchpointWindow>>#setupMenu
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50469
+ScriptLoader50.ScriptLoader>>#update50469
 ScriptLoader50.ScriptLoader>>#update50470
 SmartSuggestions-Tests.SugsMockContext>>#message:
 SmartSuggestions.SugsWatchpointSuggestion>>#isValidForContext

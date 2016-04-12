@@ -1,3 +1,5 @@
+Kernel.Object>>#addModelMenuItemsTo:forMorph:hand:
+Morphic-Base.MorphicModel>>#addCustomMenuItems:hand:
 Morphic-Widgets-FastTable.FTSelectionStrategy>>#toggleRowIndex:
 Reflectivity.ReflectiveMethod>>#doesNotUnderstand:
 Reflectivity.ReflectiveMethod>>#flushCache
@@ -6,4 +8,5 @@ Reflectivity.ReflectiveMethod>>#selector
 Reflectivity.ReflectiveMethod>>#selector:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50374
+ScriptLoader50.ScriptLoader>>#update50374
 ScriptLoader50.ScriptLoader>>#update50375

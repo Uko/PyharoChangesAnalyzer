@@ -1,3 +1,5 @@
+Announcements-Core.Announcer>>#on:do:
+Announcements-Core.Announcer>>#on:send:to:
 Deprecated50.Announcer>>#on:do:
 Deprecated50.Announcer>>#on:send:to:
 Kernel-Tests.AdditionalMethodStateTest
@@ -156,12 +158,15 @@ Kernel-Tests.WeakMessageSendTest
 Kernel-Tests.WeekTest
 Kernel-Tests.YearMonthWeekTest
 Kernel-Tests.YearTest
+KernelTests.AdditionalMethodStateTest
 KernelTests.AdditionalMethodStateTest>>#setUp
 KernelTests.AdditionalMethodStateTest>>#testAnalogousCodeTo
 KernelTests.AdditionalMethodStateTest>>#testCopy
+KernelTests.AllocationTest
 KernelTests.AllocationTest>>#testOneGigAllocation
 KernelTests.AllocationTest>>#testOneMegAllocation
 KernelTests.AllocationTest>>#testOutOfMemorySignal
+KernelTests.BasicBehaviorClassMetaclassTest
 KernelTests.BasicBehaviorClassMetaclassTest>>#testBehaviorClassClassDescriptionMetaclassHierarchy
 KernelTests.BasicBehaviorClassMetaclassTest>>#testMetaclass
 KernelTests.BasicBehaviorClassMetaclassTest>>#testMetaclassName
@@ -171,6 +176,7 @@ KernelTests.BasicBehaviorClassMetaclassTest>>#testMetaclassSuperclass
 KernelTests.BasicBehaviorClassMetaclassTest>>#testMetaclassSuperclassHierarchy
 KernelTests.BasicBehaviorClassMetaclassTest>>#testObjectAllSubclasses
 KernelTests.BasicBehaviorClassMetaclassTest>>#testSuperclass
+KernelTests.BehaviorTest
 KernelTests.BehaviorTest>>#sampleMessageWithFirstArgument:andInterleavedCommentBeforeSecondArgument:
 KernelTests.BehaviorTest>>#testAllLocalCallsOn
 KernelTests.BehaviorTest>>#testAllMethods
@@ -196,9 +202,11 @@ KernelTests.BehaviorTest>>#testRemoveProperty
 KernelTests.BehaviorTest>>#testUncompactClassNotAllowed
 KernelTests.BehaviorTest>>#testWhichSelectorsAccess
 KernelTests.BehaviorTest>>#testallSuperclassesIncluding
+KernelTests.BenchmarkResultTest
 KernelTests.BenchmarkResultTest>>#testEmpty
 KernelTests.BenchmarkResultTest>>#testOne
 KernelTests.BenchmarkResultTest>>#testSimple
+KernelTests.BlockClosureTest
 KernelTests.BlockClosureTest>>#setUp
 KernelTests.BlockClosureTest>>#testBenchFor
 KernelTests.BlockClosureTest>>#testCull
@@ -235,6 +243,7 @@ KernelTests.BlockClosureTest>>#testValueWithExitBreak
 KernelTests.BlockClosureTest>>#testValueWithExitContinue
 KernelTests.BlockClosureTest>>#testValueWithPossibleArgs
 KernelTests.BlockClosureTest>>#testValueWithPossibleArgument
+KernelTests.BlockClosuresTestCase
 KernelTests.BlockClosuresTestCase>>#comment
 KernelTests.BlockClosuresTestCase>>#constructCannotReturnBlockInDeadFrame
 KernelTests.BlockClosuresTestCase>>#constructFibonacciBlockInDeadFrame
@@ -261,7 +270,9 @@ KernelTests.BlockClosuresTestCase>>#testReentrantBlock
 KernelTests.BlockClosuresTestCase>>#testReentrantBlockOldEnvironment
 KernelTests.BlockClosuresTestCase>>#testReentrantBlockOldEnvironmentWithBlockArguement
 KernelTests.BlockClosuresTestCase>>#testSharedClosureEnvironment
+KernelTests.BooleanTest
 KernelTests.BooleanTest>>#testNew
+KernelTests.ClassDescriptionTest
 KernelTests.ClassDescriptionTest>>#testAllMethodCategoriesIntegratedThrough
 KernelTests.ClassDescriptionTest>>#testAllSlots
 KernelTests.ClassDescriptionTest>>#testClassDescriptionRespectsPolymorphismWithTraitDescription
@@ -274,13 +285,16 @@ KernelTests.ClassDescriptionTest>>#testOrganization
 KernelTests.ClassDescriptionTest>>#testSlotNamed
 KernelTests.ClassDescriptionTest>>#testSlotNames
 KernelTests.ClassDescriptionTest>>#testSlots
+KernelTests.ClassHierarchyTest
 KernelTests.ClassHierarchyTest class>>#fixSlotScope
 KernelTests.ClassHierarchyTest class>>#fixSubclasses
 KernelTests.ClassHierarchyTest>>#testSubclassInstVar
 KernelTests.ClassHierarchyTest>>#testSubclasses
+KernelTests.ClassMultiplePoolUser
 KernelTests.ClassMultiplePoolUser class>>#author
 KernelTests.ClassMultiplePoolUser class>>#gloups
 KernelTests.ClassMultiplePoolUser class>>#variableInPoolDefiner2
+KernelTests.ClassOrganizationTest
 KernelTests.ClassOrganizationTest>>#organization
 KernelTests.ClassOrganizationTest>>#runCase
 KernelTests.ClassOrganizationTest>>#setUp
@@ -290,6 +304,7 @@ KernelTests.ClassOrganizationTest>>#testCategories
 KernelTests.ClassOrganizationTest>>#testListAtCategoryNamed
 KernelTests.ClassOrganizationTest>>#testRemoveCategory
 KernelTests.ClassOrganizationTest>>#testRemoveNonExistingProtocol
+KernelTests.ClassTest
 KernelTests.ClassTest>>#categoryNameForTemporaryClasses
 KernelTests.ClassTest>>#deleteClass
 KernelTests.ClassTest>>#deleteRenamedClass
@@ -320,6 +335,7 @@ KernelTests.ClassTest>>#testSuperclassOrder
 KernelTests.ClassTest>>#testSuperclassOrderPreservingOrder
 KernelTests.ClassTest>>#testUsesPoolVarNamed
 KernelTests.ClassTest>>#unclassifiedCategory
+KernelTests.CodeSimulationTests
 KernelTests.CodeSimulationTests>>#indexedBasicAt:
 KernelTests.CodeSimulationTests>>#methodWithError
 KernelTests.CodeSimulationTests>>#methodWithHalt
@@ -337,8 +353,10 @@ KernelTests.CodeSimulationTests>>#testHaltWithHaltHandler
 KernelTests.CodeSimulationTests>>#testTranscriptPrinting
 KernelTests.CodeSimulationTests>>#testTranscriptPrintingWithOpenedTranscriptExists
 KernelTests.CodeSimulationTests>>#veryBasicAt:
+KernelTests.CollectionCombinator
 KernelTests.CollectionCombinator>>#combineFromIdx:
 KernelTests.CollectionCombinator>>#forArrays:processWith:
+KernelTests.CompiledMethodTest
 KernelTests.CompiledMethodTest>>#a1:a2:a3:a4:a5:a6:a7:a8:a9:a10:a11:a12:a13:a14:a15:
 KernelTests.CompiledMethodTest>>#abstractMethod
 KernelTests.CompiledMethodTest>>#categoryNameForTemporaryClasses
@@ -377,6 +395,7 @@ KernelTests.CompiledMethodTest>>#testWritesField
 KernelTests.CompiledMethodTest>>#testWritesSlot
 KernelTests.CompiledMethodTest>>#writeX
 KernelTests.CompiledMethodTest>>#writeXandY
+KernelTests.CompiledMethodTrailerTest
 KernelTests.CompiledMethodTrailerTest>>#testEmbeddingSourceCode
 KernelTests.CompiledMethodTrailerTest>>#testEncodingNoTrailer
 KernelTests.CompiledMethodTrailerTest>>#testEncodingSourcePointer
@@ -384,6 +403,7 @@ KernelTests.CompiledMethodTrailerTest>>#testEncodingVarLengthSourcePointer
 KernelTests.CompiledMethodTrailerTest>>#testEncodingZeroSourcePointer
 KernelTests.CompiledMethodTrailerTest>>#testSourceByIdentifierEncoding
 KernelTests.CompiledMethodTrailerTest>>#testSourceBySelectorEncoding
+KernelTests.ContinuationTest
 KernelTests.ContinuationTest>>#callcc:
 KernelTests.ContinuationTest>>#testBlockEscape
 KernelTests.ContinuationTest>>#testBlockTemps
@@ -392,6 +412,7 @@ KernelTests.ContinuationTest>>#testMethodTemps
 KernelTests.ContinuationTest>>#testReentrant
 KernelTests.ContinuationTest>>#testSimpleCallCC
 KernelTests.ContinuationTest>>#testSimplestCallCC
+KernelTests.DateAndTimeDosEpochTest
 KernelTests.DateAndTimeDosEpochTest>>#setUp
 KernelTests.DateAndTimeDosEpochTest>>#tearDown
 KernelTests.DateAndTimeDosEpochTest>>#testAsDate
@@ -457,6 +478,7 @@ KernelTests.DateAndTimeDosEpochTest>>#testYearMonthDay
 KernelTests.DateAndTimeDosEpochTest>>#testYearMonthDayHourMinuteSecond
 KernelTests.DateAndTimeDosEpochTest>>#testYearMonthDayHourMinuteSecondNanosSecondOffset
 KernelTests.DateAndTimeDosEpochTest>>#testYesterday
+KernelTests.DateAndTimeEpochTest
 KernelTests.DateAndTimeEpochTest>>#setUp
 KernelTests.DateAndTimeEpochTest>>#tearDown
 KernelTests.DateAndTimeEpochTest>>#testAsDate
@@ -523,6 +545,7 @@ KernelTests.DateAndTimeEpochTest>>#testYearMonthDay
 KernelTests.DateAndTimeEpochTest>>#testYearMonthDayHourMinuteSecond
 KernelTests.DateAndTimeEpochTest>>#testYearMonthDayHourMinuteSecondNanosSecondOffset
 KernelTests.DateAndTimeEpochTest>>#testYesterday
+KernelTests.DateAndTimeLeapTest
 KernelTests.DateAndTimeLeapTest>>#setUp
 KernelTests.DateAndTimeLeapTest>>#testAsDate
 KernelTests.DateAndTimeLeapTest>>#testAsDuration
@@ -567,6 +590,7 @@ KernelTests.DateAndTimeLeapTest>>#testUtcOffset
 KernelTests.DateAndTimeLeapTest>>#testYear
 KernelTests.DateAndTimeLeapTest>>#testYearDayHourMinuteSecond
 KernelTests.DateAndTimeLeapTest>>#testYearMonthDayHourMinuteSecond
+KernelTests.DateAndTimeTest
 KernelTests.DateAndTimeTest>>#classToBeTested
 KernelTests.DateAndTimeTest>>#selectorsToBeIgnored
 KernelTests.DateAndTimeTest>>#testArithmeticAcrossDateBoundary
@@ -612,6 +636,7 @@ KernelTests.DateAndTimeTest>>#testTimeZoneEquivalence
 KernelTests.DateAndTimeTest>>#testTimeZoneEquivalence2
 KernelTests.DateAndTimeTest>>#testTransitive
 KernelTests.DateAndTimeTest>>#testUnixEpoch
+KernelTests.DateAndTimeUnixEpochTest
 KernelTests.DateAndTimeUnixEpochTest>>#setUp
 KernelTests.DateAndTimeUnixEpochTest>>#tearDown
 KernelTests.DateAndTimeUnixEpochTest>>#testAsDate
@@ -677,6 +702,7 @@ KernelTests.DateAndTimeUnixEpochTest>>#testYearMonthDay
 KernelTests.DateAndTimeUnixEpochTest>>#testYearMonthDayHourMinuteSecond
 KernelTests.DateAndTimeUnixEpochTest>>#testYearMonthDayHourMinuteSecondNanosSecondOffset
 KernelTests.DateAndTimeUnixEpochTest>>#testYesterday
+KernelTests.DateParsingTests
 KernelTests.DateParsingTests>>#assertReading:as:equals:
 KernelTests.DateParsingTests>>#assertReading:as:raise:
 KernelTests.DateParsingTests>>#dateParserClass
@@ -701,6 +727,7 @@ KernelTests.DateParsingTests>>#testParsingYPatternWithTwoDigitsReturnsASecondMil
 KernelTests.DateParsingTests>>#testParsingYYPatternReturnsASecondMillenaryYear
 KernelTests.DateParsingTests>>#testParsingYYPatternWithWrongNumberOrDigitsShouldFails
 KernelTests.DateParsingTests>>#testParsingYYYYPatternWithWrongNumberOrDigitsShouldFails
+KernelTests.DatePrintFormatTester
 KernelTests.DatePrintFormatTester class>>#on:
 KernelTests.DatePrintFormatTester>>#date:
 KernelTests.DatePrintFormatTester>>#dayPosition:monthPosition:yearPosition:delimiter:monthType:yearType:
@@ -711,6 +738,7 @@ KernelTests.DatePrintFormatTester>>#printFormat
 KernelTests.DatePrintFormatTester>>#shouldEqual:
 KernelTests.DatePrintFormatTester>>#tokens
 KernelTests.DatePrintFormatTester>>#yearType:shouldPrintAs:
+KernelTests.DateTest
 KernelTests.DateTest>>#classToBeTested
 KernelTests.DateTest>>#dateClass
 KernelTests.DateTest>>#epoch
@@ -760,12 +788,14 @@ KernelTests.DateTest>>#testWeekday
 KernelTests.DateTest>>#testYesterday
 KernelTests.DateTest>>#testYyyymmdd
 KernelTests.Delay class>>#testCaseSupportTimingSemaphore
+KernelTests.DelayBenchmark
 KernelTests.DelayBenchmark class>>#run
 KernelTests.DelayBenchmark class>>#runAll
 KernelTests.DelayBenchmark>>#bench
 KernelTests.DelayBenchmark>>#bench:
 KernelTests.DelayBenchmark>>#generateDelayProcesses:priority:maxDuration:fromSeed:
 KernelTests.DelayBenchmark>>#trialConcurrent:priority:maxDuration:fromSeed:
+KernelTests.DelayMicrosecondSchedulerTest
 KernelTests.DelayMicrosecondSchedulerTest>>#busyWaitMilliseconds:
 KernelTests.DelayMicrosecondSchedulerTest>>#tearDown
 KernelTests.DelayMicrosecondSchedulerTest>>#testDurationLessThanMaxTicks
@@ -774,6 +804,7 @@ KernelTests.DelayMicrosecondSchedulerTest>>#testForMilliseconds
 KernelTests.DelayMicrosecondSchedulerTest>>#testForSeconds
 KernelTests.DelayMicrosecondSchedulerTest>>#testMillisecondsToGo
 KernelTests.DelayMicrosecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
+KernelTests.DelayMillisecondSchedulerTest
 KernelTests.DelayMillisecondSchedulerTest>>#busyWaitMilliseconds:
 KernelTests.DelayMillisecondSchedulerTest>>#tearDown
 KernelTests.DelayMillisecondSchedulerTest>>#testDurationLessThanMaxTicks
@@ -782,24 +813,30 @@ KernelTests.DelayMillisecondSchedulerTest>>#testForMilliseconds
 KernelTests.DelayMillisecondSchedulerTest>>#testForSeconds
 KernelTests.DelayMillisecondSchedulerTest>>#testMillisecondsToGo
 KernelTests.DelayMillisecondSchedulerTest>>#testTestInterferenceWithSystemTimingSemaphore
+KernelTests.DelayNullSchedulerTest
 KernelTests.DelayNullSchedulerTest>>#testNullDelay
 KernelTests.DelayScheduler>>#testCaseSupportActiveDelay
 KernelTests.DelayScheduler>>#testCaseSupportSetActiveDelayStartTime:
 KernelTests.DelayScheduler>>#testCaseSupportSystemTimingSemaphore
 KernelTests.DelayScheduler>>#testCaseSupportTimingSemaphore
+KernelTests.DelaySchedulerBackgroundWorkerMorph
 KernelTests.DelaySchedulerBackgroundWorkerMorph>>#delete
 KernelTests.DelaySchedulerBackgroundWorkerMorph>>#initialize
 KernelTests.DelaySchedulerBackgroundWorkerMorph>>#step
 KernelTests.DelaySchedulerBackgroundWorkerMorph>>#stepTime
+KernelTests.DelayTest
 KernelTests.DelayTest>>#testBounds
 KernelTests.DelayTest>>#testMultiProcessWaitOnSameDelay
 KernelTests.DelayTest>>#testMultiSchedule
 KernelTests.DelayTest>>#testSemaphoreNoTimeout
 KernelTests.DelayTest>>#testSemaphoreTimeout
+KernelTests.DependentsArrayTest
 KernelTests.DependentsArrayTest>>#testSize
+KernelTests.DosTimestampTest
 KernelTests.DosTimestampTest>>#testAsDateAndTime
 KernelTests.DosTimestampTest>>#testFromDateAndTime
 KernelTests.DosTimestampTest>>#testTimesAreLocal
+KernelTests.DurationTest
 KernelTests.DurationTest>>#classToBeTested
 KernelTests.DurationTest>>#selectorsToBeIgnored
 KernelTests.DurationTest>>#setUp
@@ -865,6 +902,12 @@ KernelTests.DurationTest>>#testWholeMicroseconds
 KernelTests.DurationTest>>#testWholeMilliseconds
 KernelTests.DurationTest>>#testWholeNanoseconds
 KernelTests.DurationTest>>#testZero
+KernelTests.ExampleForTest1
+KernelTests.ExampleForTest11
+KernelTests.ExampleForTest111
+KernelTests.ExampleForTest112
+KernelTests.ExampleForTest12
+KernelTests.ExceptionTester
 KernelTests.ExceptionTester>>#basicANSISignaledExceptionTestSelectors
 KernelTests.ExceptionTester>>#basicTestSelectors
 KernelTests.ExceptionTester>>#clearLog
@@ -935,6 +978,7 @@ KernelTests.ExceptionTester>>#simpleTimeoutWithZeroDurationTestResults
 KernelTests.ExceptionTester>>#suiteLog
 KernelTests.ExceptionTester>>#testString
 KernelTests.ExceptionTester>>#warningTest
+KernelTests.ExceptionTests
 KernelTests.ExceptionTests>>#assertSuccess:
 KernelTests.ExceptionTests>>#testDoubleOuterPass
 KernelTests.ExceptionTests>>#testDoublePassOuter
@@ -967,6 +1011,7 @@ KernelTests.ExceptionTests>>#testSimpleRetry
 KernelTests.ExceptionTests>>#testSimpleRetryUsing
 KernelTests.ExceptionTests>>#testSimpleReturn
 KernelTests.ExceptionTests>>#testTimeoutWithZeroDuration
+KernelTests.FalseTest
 KernelTests.FalseTest>>#testAND
 KernelTests.FalseTest>>#testAnd
 KernelTests.FalseTest>>#testAsBit
@@ -980,6 +1025,7 @@ KernelTests.FalseTest>>#testOR
 KernelTests.FalseTest>>#testOr
 KernelTests.FalseTest>>#testPrintOn
 KernelTests.FalseTest>>#testXor
+KernelTests.FloatTest
 KernelTests.FloatTest>>#test32bitConversion
 KernelTests.FloatTest>>#test32bitGradualUnderflow
 KernelTests.FloatTest>>#test32bitRoundingMode
@@ -1040,6 +1086,7 @@ KernelTests.FloatTest>>#testTruncated
 KernelTests.FloatTest>>#testZero1
 KernelTests.FloatTest>>#testZeroRaisedToNegativePower
 KernelTests.FloatTest>>#testZeroSignificandAsInteger
+KernelTests.FractionTest
 KernelTests.FractionTest>>#assert:classAndValueEquals:
 KernelTests.FractionTest>>#testAsLargerPowerOfTwo
 KernelTests.FractionTest>>#testAsSmallerPowerOfTwo
@@ -1065,17 +1112,21 @@ KernelTests.FractionTest>>#testRounded
 KernelTests.FractionTest>>#testRounding
 KernelTests.FractionTest>>#testSqrtErrorConditions
 KernelTests.FractionTest>>#testTruncated
+KernelTests.IVsAndClassVarNamesConflictTest
 KernelTests.IVsAndClassVarNamesConflictTest>>#setUp
 KernelTests.IVsAndClassVarNamesConflictTest>>#tearDown
 KernelTests.IVsAndClassVarNamesConflictTest>>#testOneCanProceedWhenIntroducingCapitalizedInstanceVariables
 KernelTests.IVsAndClassVarNamesConflictTest>>#testOneCanProceedWhenIntroducingClasseVariablesBeginingWithLowerCaseCharacters
+KernelTests.InstVarRefLocatorTest
 KernelTests.InstVarRefLocatorTest>>#example1
 KernelTests.InstVarRefLocatorTest>>#example2
 KernelTests.InstVarRefLocatorTest>>#hasInstVarRef:
 KernelTests.InstVarRefLocatorTest>>#testExample1
 KernelTests.InstVarRefLocatorTest>>#testExample2
 KernelTests.InstVarRefLocatorTest>>#testInstructions
+KernelTests.InstructionClientTest
 KernelTests.InstructionClientTest>>#testInstructions
+KernelTests.IntegerDigitLogicTest
 KernelTests.IntegerDigitLogicTest>>#testAndSingleBitWithMinusOne
 KernelTests.IntegerDigitLogicTest>>#testLargeShift
 KernelTests.IntegerDigitLogicTest>>#testMixedSignDigitLogic
@@ -1083,6 +1134,7 @@ KernelTests.IntegerDigitLogicTest>>#testNBitAndNNegatedEqualsN
 KernelTests.IntegerDigitLogicTest>>#testNNegatedEqualsNComplementedPlusOne
 KernelTests.IntegerDigitLogicTest>>#testShiftMinusOne1LeftThenRight
 KernelTests.IntegerDigitLogicTest>>#testShiftOneLeftThenRight
+KernelTests.IntegerTest
 KernelTests.IntegerTest>>#assert:classAndValueEquals:
 KernelTests.IntegerTest>>#testAsLargerPowerOfTwo
 KernelTests.IntegerTest>>#testAsSmallerPowerOfTwo
@@ -1154,16 +1206,21 @@ KernelTests.IntegerTest>>#testSqrtFloor
 KernelTests.IntegerTest>>#testStringAsNumber
 KernelTests.IntegerTest>>#testTwoComplementBitLogicWithCarry
 KernelTests.IntegerTest>>#testTwoComplementRightShift
+KernelTests.LargeNegativeIntegerTest
 KernelTests.LargeNegativeIntegerTest>>#testEmptyTemplate
+KernelTests.LargePositiveIntegerTest
 KernelTests.LargePositiveIntegerTest>>#testBitShift
 KernelTests.LargePositiveIntegerTest>>#testEmptyTemplate
 KernelTests.LargePositiveIntegerTest>>#testLargeSqrtFloor
 KernelTests.LargePositiveIntegerTest>>#testMultDicAddSub
 KernelTests.LargePositiveIntegerTest>>#testNormalize
+KernelTests.ManifestKernelTests
 KernelTests.ManifestKernelTests class>>#dependencies
 KernelTests.ManifestKernelTests class>>#description
 KernelTests.ManifestKernelTests class>>#packageName
+KernelTests.MetaclassTest
 KernelTests.MetaclassTest>>#testMetaclassAndTraitClassRespectsPolymorphismRules
+KernelTests.MethodContextTest
 KernelTests.MethodContextTest class>>#contextWithTempForTesting
 KernelTests.MethodContextTest>>#privRestartArgBlockTest
 KernelTests.MethodContextTest>>#privRestartBlockArgsNoRemoteTempsTest
@@ -1180,6 +1237,7 @@ KernelTests.MethodContextTest>>#testSourceNodeExecuted
 KernelTests.MethodContextTest>>#testSourceNodeOptimizedBlock
 KernelTests.MethodContextTest>>#testTempNamed
 KernelTests.MethodContextTest>>#testTempNamedPut
+KernelTests.MethodDictionaryTest
 KernelTests.MethodDictionaryTest>>#aValue
 KernelTests.MethodDictionaryTest>>#anIndex
 KernelTests.MethodDictionaryTest>>#anotherElementNotIn
@@ -1218,6 +1276,7 @@ KernelTests.MethodDictionaryTest>>#testKeyAtValueIfAbsentLocalyDefined
 KernelTests.MethodDictionaryTest>>#testRehashPreservesCapacity
 KernelTests.MethodDictionaryTest>>#testRehashPreservesElements
 KernelTests.MethodDictionaryTest>>#testRemoveAllPreservesCapacity
+KernelTests.MethodPragmaTest
 KernelTests.MethodPragmaTest>>#assertPragma:givesKeyword:arguments:
 KernelTests.MethodPragmaTest>>#compile:selector:
 KernelTests.MethodPragmaTest>>#methodCategory
@@ -1258,9 +1317,11 @@ KernelTests.MethodPragmaTest>>#testPrimitiveNamedErrorCode2
 KernelTests.MethodPragmaTest>>#testSelector
 KernelTests.MethodPragmaTest>>#testSendTo
 KernelTests.MethodPragmaTest>>#testWithArgumentsDo
+KernelTests.MonitorTest
 KernelTests.MonitorTest>>#testExample1
 KernelTests.MonitorTest>>#testExample2
 KernelTests.MonitorTest>>#testWaitMaxMilliseconds
+KernelTests.MonthTest
 KernelTests.MonthTest>>#classToBeTested
 KernelTests.MonthTest>>#selectorsToBeIgnored
 KernelTests.MonthTest>>#setUp
@@ -1274,7 +1335,11 @@ KernelTests.MonthTest>>#testNameOfMonth
 KernelTests.MonthTest>>#testPreviousNext
 KernelTests.MonthTest>>#testPrinting
 KernelTests.MonthTest>>#testReadFrom
+KernelTests.MyResumableTestError
 KernelTests.MyResumableTestError>>#isResumable
+KernelTests.MyTestError
+KernelTests.MyTestNotification
+KernelTests.NumberTest
 KernelTests.NumberTest>>#testFractionPart
 KernelTests.NumberTest>>#testIntegerPart
 KernelTests.NumberTest>>#testOne
@@ -1287,6 +1352,7 @@ KernelTests.NumberTest>>#testRaisedToInteger
 KernelTests.NumberTest>>#testRaisedToIntegerWithFloats
 KernelTests.NumberTest>>#testReadFrom
 KernelTests.NumberTest>>#testReciprocal
+KernelTests.ObjectTest
 KernelTests.ObjectTest>>#a
 KernelTests.ObjectTest>>#a1
 KernelTests.ObjectTest>>#b
@@ -1304,22 +1370,28 @@ KernelTests.ObjectTest>>#testReadSlot
 KernelTests.ObjectTest>>#testReadSlotNamed
 KernelTests.ObjectTest>>#testWriteSlotNamedValue
 KernelTests.ObjectTest>>#testWriteSlotValue
+KernelTests.PoolDefiner
 KernelTests.PoolDefiner class>>#initialize
+KernelTests.PoolDefiner2
 KernelTests.PoolDefiner2 class>>#initialize
+KernelTests.PragmaTest
 KernelTests.PragmaTest>>#setUp
 KernelTests.PragmaTest>>#testCopy
 KernelTests.PragmaTest>>#testEqual
 KernelTests.PragmaTest>>#testHash
+KernelTests.ProcessSpecificTest
 KernelTests.ProcessSpecificTest>>#checkDynamic:
 KernelTests.ProcessSpecificTest>>#checkLocal:
 KernelTests.ProcessSpecificTest>>#testDynamicVariable
 KernelTests.ProcessSpecificTest>>#testDynamicVariableAccessFromDifferentProcess
 KernelTests.ProcessSpecificTest>>#testDynamicVariableBlockReturnValue
 KernelTests.ProcessSpecificTest>>#testLocalVariable
+KernelTests.ProcessTerminateBug
 KernelTests.ProcessTerminateBug>>#testSchedulerTermination
 KernelTests.ProcessTerminateBug>>#testTerminationDuringUnwind
 KernelTests.ProcessTerminateBug>>#testUnwindFromActiveProcess
 KernelTests.ProcessTerminateBug>>#testUnwindFromForeignProcess
+KernelTests.ProcessTest
 KernelTests.ProcessTest>>#testFork
 KernelTests.ProcessTest>>#testForkAtHigherPriority
 KernelTests.ProcessTest>>#testHighPriorityOverridesWaitTime
@@ -1333,6 +1405,7 @@ KernelTests.ProcessTest>>#testSchedulingIsFirstComeFirstServed
 KernelTests.ProcessTest>>#testTerminateActive
 KernelTests.ProcessTest>>#testYield
 KernelTests.ProcessTest>>#waitForProcessTermination:
+KernelTests.ProtoObjectTest
 KernelTests.ProtoObjectTest>>#testFlag
 KernelTests.ProtoObjectTest>>#testIfNil
 KernelTests.ProtoObjectTest>>#testIfNilIfNotNil
@@ -1340,10 +1413,13 @@ KernelTests.ProtoObjectTest>>#testIfNotNil
 KernelTests.ProtoObjectTest>>#testIfNotNilIfNil
 KernelTests.ProtoObjectTest>>#testIsNil
 KernelTests.ProtoObjectTest>>#testNotTheSame
+KernelTests.RandomTest
 KernelTests.RandomTest>>#setUp
 KernelTests.RandomTest>>#testNext
+KernelTests.RootClassPoolUser
 KernelTests.RootClassPoolUser class>>#author
 KernelTests.RootClassPoolUser class>>#gloups
+KernelTests.ScaledDecimalTest
 KernelTests.ScaledDecimalTest>>#testAsNumber
 KernelTests.ScaledDecimalTest>>#testAsNumberNegatedWithoutDecimalPoint
 KernelTests.ScaledDecimalTest>>#testAsNumberNegatedWithoutDecimalPoint2
@@ -1373,6 +1449,7 @@ KernelTests.ScaledDecimalTest>>#testRounded
 KernelTests.ScaledDecimalTest>>#testScaleExtension
 KernelTests.ScaledDecimalTest>>#testStoreOn
 KernelTests.ScaledDecimalTest>>#testZeroRaisedToInteger
+KernelTests.ScheduleTest
 KernelTests.ScheduleTest>>#classToBeTested
 KernelTests.ScheduleTest>>#selectorsToBeIgnored
 KernelTests.ScheduleTest>>#setUp
@@ -1387,9 +1464,11 @@ KernelTests.ScheduleTest>>#testFromDateAndTime
 KernelTests.ScheduleTest>>#testIncludes
 KernelTests.ScheduleTest>>#testMonotonicity
 KernelTests.ScheduleTest>>#testSchedule
+KernelTests.SelfEvaluatingObjectTest
 KernelTests.SelfEvaluatingObjectTest>>#assertCode:print:
 KernelTests.SelfEvaluatingObjectTest>>#testArray
 KernelTests.SelfEvaluatingObjectTest>>#testObjects
+KernelTests.SemaphoreTest
 KernelTests.SemaphoreTest>>#criticalError
 KernelTests.SemaphoreTest>>#testAfterCriticalWait
 KernelTests.SemaphoreTest>>#testCritical
@@ -1402,11 +1481,13 @@ KernelTests.SemaphoreTest>>#testSimpleCommunication
 KernelTests.SemaphoreTest>>#testWaitAndWaitTimeoutTogether
 KernelTests.SemaphoreTest>>#testWaitTimeoutMSecs
 KernelTests.SemaphoreTest>>#testWaitTimeoutSecondsOnCompletionOnTimeout
+KernelTests.SizeInMemoryTest
 KernelTests.SizeInMemoryTest>>#testSizeInMemoryCompactClasses
 KernelTests.SizeInMemoryTest>>#testSizeInMemoryLargeInstances
 KernelTests.SizeInMemoryTest>>#testSizeInMemoryNormalClasses
 KernelTests.SizeInMemoryTest>>#testSizeInMemoryOfByteObjects
 KernelTests.SizeInMemoryTest>>#testSizeInMemorySmallIntegers
+KernelTests.SmallIntegerTest
 KernelTests.SmallIntegerTest>>#testBasicNew
 KernelTests.SmallIntegerTest>>#testCeiling
 KernelTests.SmallIntegerTest>>#testDigitAt
@@ -1416,6 +1497,7 @@ KernelTests.SmallIntegerTest>>#testMinVal
 KernelTests.SmallIntegerTest>>#testNew
 KernelTests.SmallIntegerTest>>#testPrintPaddedWith
 KernelTests.SmallIntegerTest>>#testPrintString
+KernelTests.StopwatchTest
 KernelTests.StopwatchTest class>>#isUnitTest
 KernelTests.StopwatchTest>>#classToBeTested
 KernelTests.StopwatchTest>>#selectorsToBeIgnored
@@ -1429,10 +1511,15 @@ KernelTests.StopwatchTest>>#testReActivate
 KernelTests.StopwatchTest>>#testReset
 KernelTests.StopwatchTest>>#testSingleTiming
 KernelTests.StopwatchTest>>#testStartStop
+KernelTests.SubclassPoolUser
+KernelTests.TDateTimeTest
 KernelTests.TDateTimeTest>>#restoreLocalTimeZoneAfter:
 KernelTests.TDateTimeTest>>#useNonUtcTimeZoneDuring:
 KernelTests.TDateTimeTest>>#useTimeZone:during:
+KernelTests.TestDynamicVariable
+KernelTests.TestLocalVariable
 KernelTests.TestLocalVariable>>#default
+KernelTests.TestValueWithinFix
 KernelTests.TestValueWithinFix>>#testValueWithinNonLocalReturnFixReal
 KernelTests.TestValueWithinFix>>#testValueWithinNonLocalReturnFixSimply
 KernelTests.TestValueWithinFix>>#testValueWithinTimingBasic
@@ -1440,6 +1527,7 @@ KernelTests.TestValueWithinFix>>#testValueWithinTimingNestedInner
 KernelTests.TestValueWithinFix>>#testValueWithinTimingNestedOuter
 KernelTests.TestValueWithinFix>>#testValueWithinTimingRepeat
 KernelTests.TestValueWithinFix>>#valueWithinNonLocalReturn
+KernelTests.TimeTest
 KernelTests.TimeTest>>#classToBeTested
 KernelTests.TimeTest>>#selectorsToBeIgnored
 KernelTests.TimeTest>>#setUp
@@ -1488,11 +1576,13 @@ KernelTests.TimeTest>>#testStoring
 KernelTests.TimeTest>>#testSubtractTime
 KernelTests.TimeTest>>#testTicks
 KernelTests.TimeTest>>#timeClass
+KernelTests.TimespanDoSpanAYearTest
 KernelTests.TimespanDoSpanAYearTest>>#setUp
 KernelTests.TimespanDoSpanAYearTest>>#testMonthsDo
 KernelTests.TimespanDoSpanAYearTest>>#testNext
 KernelTests.TimespanDoSpanAYearTest>>#testWeeksDo
 KernelTests.TimespanDoSpanAYearTest>>#testYearsDo
+KernelTests.TimespanDoTest
 KernelTests.TimespanDoTest>>#setUp
 KernelTests.TimespanDoTest>>#testDatesDo
 KernelTests.TimespanDoTest>>#testDoWith
@@ -1502,6 +1592,7 @@ KernelTests.TimespanDoTest>>#testMonthsDo
 KernelTests.TimespanDoTest>>#testNext
 KernelTests.TimespanDoTest>>#testWeeksDo
 KernelTests.TimespanDoTest>>#testYearsDo
+KernelTests.TimespanTest
 KernelTests.TimespanTest>>#classToBeTested
 KernelTests.TimespanTest>>#setUp
 KernelTests.TimespanTest>>#tearDown
@@ -1561,6 +1652,7 @@ KernelTests.TimespanTest>>#testUnionWithSeparate
 KernelTests.TimespanTest>>#testWorkDatesDo
 KernelTests.TimespanTest>>#testYear
 KernelTests.TimespanTest>>#testZeroDuration
+KernelTests.TrueTest
 KernelTests.TrueTest>>#testAND
 KernelTests.TrueTest>>#testAnd
 KernelTests.TrueTest>>#testAsBit
@@ -1574,6 +1666,7 @@ KernelTests.TrueTest>>#testOR
 KernelTests.TrueTest>>#testOr
 KernelTests.TrueTest>>#testPrintOn
 KernelTests.TrueTest>>#testXor
+KernelTests.UndefinedObjectTest
 KernelTests.UndefinedObjectTest>>#testAllInstances
 KernelTests.UndefinedObjectTest>>#testDeepCopy
 KernelTests.UndefinedObjectTest>>#testHaltIfNil
@@ -1591,11 +1684,13 @@ KernelTests.UndefinedObjectTest>>#testPrintOn
 KernelTests.UndefinedObjectTest>>#testShallowCopy
 KernelTests.UndefinedObjectTest>>#testStoreOn
 KernelTests.UndefinedObjectTest>>#testVeryDeepCopyWith
+KernelTests.WeakMessageSendTest
 KernelTests.WeakMessageSendTest>>#testNoArguments
 KernelTests.WeakMessageSendTest>>#testOneArgument
 KernelTests.WeakMessageSendTest>>#testOneArgumentWithGC
 KernelTests.WeakMessageSendTest>>#testReceiverWithGC
 KernelTests.WeakMessageSendTest>>#testTwoArguments
+KernelTests.WeekTest
 KernelTests.WeekTest>>#classToBeTested
 KernelTests.WeekTest>>#selectorsToBeIgnored
 KernelTests.WeekTest>>#setUp
@@ -1608,6 +1703,7 @@ KernelTests.WeekTest>>#testIndexOfDay
 KernelTests.WeekTest>>#testInquiries
 KernelTests.WeekTest>>#testNameOfDay
 KernelTests.WeekTest>>#testPreviousNext
+KernelTests.YearMonthWeekTest
 KernelTests.YearMonthWeekTest>>#setUp
 KernelTests.YearMonthWeekTest>>#tearDown
 KernelTests.YearMonthWeekTest>>#testDaysInMonth
@@ -1618,12 +1714,16 @@ KernelTests.YearMonthWeekTest>>#testMonthPrintOn
 KernelTests.YearMonthWeekTest>>#testStartDay
 KernelTests.YearMonthWeekTest>>#testWeekPrintOn
 KernelTests.YearMonthWeekTest>>#testYearPrintOn
+KernelTests.YearTest
 KernelTests.YearTest>>#classToBeTested
 KernelTests.YearTest>>#testPreviousInLeapYear
 KernelTests.YearTest>>#testStart
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50302
 ScriptLoader50.ScriptLoader>>#script50303
+ScriptLoader50.ScriptLoader>>#update50302
 ScriptLoader50.ScriptLoader>>#update50303
 Tool-Diff.DiffChangeMorph>>#buildUI
 Tool-Diff.DiffChangeMorph>>#initialize
 Tool-Diff.PSMCPatchMorph>>#buildUI
+Tool-Diff.PSMCPatchMorph>>#initialize

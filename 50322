@@ -1,9 +1,12 @@
 BlueInk-Core.BIConfigurableFormatter>>#formatBlockArgumentsFor:
 Collections-Abstract.RxMatcher>>#split:indicesDo:
 FileSystem-Core.ManifestFileSystemCore class>>#manuallyResolvedDependencies
+FileSystem-Core.Path class>>#absoluteWindowsPathRegex
+FileSystem-Core.Path class>>#cleanUp
 FileSystem-Core.Path class>>#isAbsoluteWindowsPath:
 FileSystem-Tests-Core.PathTest>>#testIsAbsoluteWindowsPathReturnsFalseWhenNoWindowsAbsolutePathProvided
 FileSystem-Tests-Core.PathTest>>#testIsAbsoluteWindowsPathReturnsTrueWhenWindowsAbsolutePathProvided
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50321
+ScriptLoader50.ScriptLoader>>#update50321
 ScriptLoader50.ScriptLoader>>#update50322

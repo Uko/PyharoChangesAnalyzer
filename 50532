@@ -5,6 +5,7 @@ Nautilus.PackageTreePackageSelection>>#packageName
 Rubric.RubSmalltalkCommentMode>>#formatMethodCode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50531
+ScriptLoader50.ScriptLoader>>#update50531
 ScriptLoader50.ScriptLoader>>#update50532
 SmartSuggestions.SugsMenuBuilder class>>#buildSmartActionsShortcuts:
 Spec-Tools.MonticelloRepositoryBrowser class>>#defaultSpec

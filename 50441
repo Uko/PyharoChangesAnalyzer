@@ -9,9 +9,11 @@ Reflectivity.Breakpoint2 class>>#removeAll
 Reflectivity.Breakpoint2 class>>#removeFrom:
 Reflectivity.BreakpointManager
 Reflectivity.CompiledMethod>>#hasBreakpoint
+Reflectivity.CompiledMethod>>#removeLink
 Reflectivity.CompiledMethod>>#removeLink:
 Reflectivity.LiteralVariable>>#removeLink:
 Reflectivity.RBProgramNode>>#removeLink:
+Reflectivity.RGMethodDefinition>>#removeLink
 Reflectivity.RGMethodDefinition>>#removeLink:
 Reflectivity.ReflectiveMethod>>#metaLinkOptions
 Reflectivity.ReflectiveMethod>>#removeLink:
@@ -19,4 +21,5 @@ Reflectivity.Slot>>#removeLink:
 Reflectivity.TemporaryVariable>>#removeLink:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50440
+ScriptLoader50.ScriptLoader>>#update50440
 ScriptLoader50.ScriptLoader>>#update50441

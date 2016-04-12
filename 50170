@@ -1,3 +1,5 @@
+AST-Core.NumberParser>>#makeIntegerOrScaledInteger
+Deprecated50.StartupLoader>>#initialize
 Reflectivity-Tests.MetaLinkTest>>#testLinkOption
 Reflectivity-Tests.MetaLinkTest>>#testLinkOptionsDefault
 Reflectivity.MetaLink
@@ -8,4 +10,5 @@ Reflectivity.MetaLink>>#option:
 Reflectivity.MetaLink>>#parseOptions:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50169
+ScriptLoader50.ScriptLoader>>#update50169
 ScriptLoader50.ScriptLoader>>#update50170

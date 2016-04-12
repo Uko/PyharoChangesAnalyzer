@@ -3,7 +3,12 @@ Monticello.MCDataStream class>>#initializeTypeMap
 Monticello.WideString class>>#newFromStream:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50285
+ScriptLoader50.ScriptLoader>>#update50285
 ScriptLoader50.ScriptLoader>>#update50286
 Spec-Tools.NewVersionBrowser>>#buildChangeList
+Spec-Tools.NewVersionBrowser>>#scanVersionsOf:class:meta:category:selector:
+System-Changes.ChangeSet class>>#scanCategory:
+System-Changes.ChangeSet class>>#scanFile:from:to:
+System-Changes.ChangeSet class>>#scanVersionsOf:class:meta:category:selector:
 System-Changes.TBehavior>>#changeRecordsAt:
 System-Sources.SourceFileArray>>#changeRecordsFrom:className:isMeta:

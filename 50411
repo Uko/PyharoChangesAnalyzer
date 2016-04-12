@@ -1,12 +1,19 @@
 AST-Tests-Core.RBParserTest>>#testBinarySelectors
 Kernel.Metaclass>>#name
 Nautilus.AbstractNautilusUI
+Nautilus.AbstractNautilusUI class>>#classesIconsCache
+Nautilus.AbstractNautilusUI class>>#classesIconsCache:
+Nautilus.AbstractNautilusUI class>>#groupsIconsCache
+Nautilus.AbstractNautilusUI class>>#groupsIconsCache:
 Nautilus.AbstractNautilusUI class>>#initialize
+Nautilus.AbstractNautilusUI class>>#resetClassesIconsCache
 Nautilus.AbstractNautilusUI class>>#resetIconCaches
 Nautilus.AbstractNautilusUI>>#classCommented:
 Nautilus.AbstractNautilusUI>>#classIconFor:
 Nautilus.AbstractNautilusUI>>#groupIconFor:
 Nautilus.AbstractNautilusUI>>#removeClassFromMethodsIconsCache:
+Nautilus.AbstractNautilusUI>>#removeFromClassesIconsCache:
+Nautilus.AbstractNautilusUI>>#removeFromGroupsIconsCache:
 Nautilus.AbstractNautilusUI>>#removeFromMethodsIconsCache:
 Nautilus.AbstractNautilusUI>>#runTestsOfClass:notifying:
 Nautilus.NautilusUI>>#methodModified:
@@ -16,4 +23,5 @@ Refactoring-Core.RBCreateAccessorsForVariableRefactoring>>#defineGetterMethod
 Refactoring-Core.RBCreateAccessorsForVariableRefactoring>>#defineSetterMethod
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50410
+ScriptLoader50.ScriptLoader>>#update50410
 ScriptLoader50.ScriptLoader>>#update50411

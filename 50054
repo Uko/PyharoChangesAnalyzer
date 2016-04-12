@@ -3,6 +3,7 @@ Kernel.ClassOrganization>>#allCategories
 Kernel.ClassOrganization>>#allProtocols
 Kernel.ClassOrganization>>#allProtocolsNames
 Kernel.ClassOrganization>>#categories
+Kernel.ClassOrganization>>#realCategories
 KernelTests.ClassOrganizationTest>>#testRemoveCategory
 Monticello-Tests.MCSnapshotBrowserTest>>#protocolsForClass:
 Nautilus.CategoryWidget>>#loadPackagesCategoriesInSystemEnvironmentFor:
@@ -13,6 +14,7 @@ RPackage-Core.RPackage>>#removeClass:
 Refactoring-Environment.RBBrowserEnvironment>>#protocolsFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50053
+ScriptLoader50.ScriptLoader>>#update50053
 ScriptLoader50.ScriptLoader>>#update50054
 Tool-Base.AbstractTool class>>#protocolSuggestionsFor:
 Tool-Base.AbstractTool>>#categorizeMethods:of:from:

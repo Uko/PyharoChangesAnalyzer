@@ -3,4 +3,5 @@ Collections-Strings.String>>#expandMacrosWithArguments:
 Collections-Tests.StringTest>>#testExpandMacros
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50405
+ScriptLoader50.ScriptLoader>>#update50405
 ScriptLoader50.ScriptLoader>>#update50406

@@ -6,5 +6,6 @@ Network-Kernel.Socket>>#initialize:
 Polymorph-Widgets.Pharo3DarkTheme>>#backgroundColor
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script636
+ScriptLoader50.ScriptLoader>>#update50027
 ScriptLoader50.ScriptLoader>>#update50028
 Tool-Base.AbstractTool>>#mergeGroups:

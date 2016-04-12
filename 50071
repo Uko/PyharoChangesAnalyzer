@@ -2,6 +2,7 @@ Refactoring-Tests-Core.RBRefactoringTest>>#setUp
 Refactoring-Tests-Core.RBRefactoringTest>>#tearDown
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50070
+ScriptLoader50.ScriptLoader>>#update50070
 ScriptLoader50.ScriptLoader>>#update50071
 Spec-Tests.TestAutoFractionComputation>>#initializeWidgets
 Spec-Tests.TestingComposableModel>>#initializeWidgets

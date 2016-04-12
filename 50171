@@ -7,5 +7,6 @@ Reflectivity-Tests.CoverageDemoTest>>#testCoverageAST
 Reflectivity.RFReification>>#genForRBLiteralValueNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50170
+ScriptLoader50.ScriptLoader>>#update50170
 ScriptLoader50.ScriptLoader>>#update50171
 Tool-ExternalBrowser.RingChunkImporter>>#createTraitNamed:

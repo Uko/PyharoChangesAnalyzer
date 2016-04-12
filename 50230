@@ -1,5 +1,20 @@
 Kernel.DeepCopier
+Kernel.ExclusiveWeakMessageSend
+Kernel.ExclusiveWeakMessageSend class>>#newSharedState
+Kernel.ExclusiveWeakMessageSend>>#basicExecuting:
+Kernel.ExclusiveWeakMessageSend>>#executing
+Kernel.ExclusiveWeakMessageSend>>#executing:
+Kernel.ExclusiveWeakMessageSend>>#initialize
 Kernel.MessageSend
+Kernel.NonReentrantWeakMessageSend
+Kernel.NonReentrantWeakMessageSend>>#execute:
+Kernel.NonReentrantWeakMessageSend>>#executing
+Kernel.NonReentrantWeakMessageSend>>#executing:
+Kernel.NonReentrantWeakMessageSend>>#initialize
+Kernel.NonReentrantWeakMessageSend>>#isValid
+Kernel.NonReentrantWeakMessageSend>>#value
+Kernel.NonReentrantWeakMessageSend>>#valueWithArguments:
+Kernel.NonReentrantWeakMessageSend>>#valueWithEnoughArguments:
 Kernel.Object class>>#flushEvents
 Kernel.Object>>#actionForEvent:
 Kernel.Object>>#actionForEvent:ifAbsent:
@@ -24,8 +39,14 @@ Kernel.Object>>#triggerEvent:withArguments:
 Kernel.Object>>#updateableActionMap
 Kernel.Object>>#when:evaluate:
 Kernel.Object>>#when:send:to:
+Kernel.Object>>#when:send:to:exclusive:
 Kernel.Object>>#when:send:to:with:
+Kernel.Object>>#when:send:to:with:exclusive:
 Kernel.Object>>#when:send:to:withArguments:
+Kernel.Object>>#when:send:to:withArguments:exclusive:
+Kernel.Object>>#when:sendOnce:to:
+Kernel.Object>>#when:sendOnce:to:with:
+Kernel.Object>>#when:sendOnce:to:withArguments:
 Kernel.WeakActionSequence
 Kernel.WeakActionSequence>>#asActionSequence
 Kernel.WeakActionSequence>>#asMinimalRepresentation
@@ -36,6 +57,7 @@ Kernel.WeakMessageSend
 Nautilus.MethodWidget>>#selectNextMethod
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50229
+ScriptLoader50.ScriptLoader>>#update50229
 ScriptLoader50.ScriptLoader>>#update50230
 System-FileRegistry.ChangeSet class>>#fileReaderServicesForFile:suffix:
 System-FileRegistry.ChangeSet class>>#serviceFileIntoNewChangeSet

@@ -1,6 +1,8 @@
+Graphics-Canvas.Canvas>>#reset
 Reflectivity.ReflectiveMethod>>#installCompiledMethod
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50376
+ScriptLoader50.ScriptLoader>>#update50376
 ScriptLoader50.ScriptLoader>>#update50377
 Tool-FileList.FileList>>#confirmOverwriteOrCreateNewFileOrAbort
 Tool-FileList.FileList>>#put:

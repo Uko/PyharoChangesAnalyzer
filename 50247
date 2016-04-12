@@ -749,5 +749,6 @@ OSWindow-SDL2.SDL_Window>>#updateWindowSurface
 OSWindow-VM.OSVMWindowHandle>>#setMouseCursor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50246
+ScriptLoader50.ScriptLoader>>#update50246
 ScriptLoader50.ScriptLoader>>#update50247
 Traits.TBehavior>>#thoroughWhichSelectorsReferTo:special:byte:

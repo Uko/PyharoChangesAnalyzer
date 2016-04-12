@@ -12,4 +12,5 @@ Reflectivity.RFReification>>#optimize
 Reflectivity.RFSemanticAnalyzer>>#visitNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50062
+ScriptLoader50.ScriptLoader>>#update50062
 ScriptLoader50.ScriptLoader>>#update50063

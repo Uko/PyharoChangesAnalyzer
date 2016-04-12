@@ -22,4 +22,5 @@ Reflectivity.RFASTTranslatorForEffect>>#visitVariableNode:
 Reflectivity.ReflectiveMethod>>#recompileAST
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50133
+ScriptLoader50.ScriptLoader>>#update50133
 ScriptLoader50.ScriptLoader>>#update50134

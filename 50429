@@ -3,6 +3,7 @@ Reflectivity.ReflectiveMethod>>#flushCache
 Reflectivity.VirtualMachine>>#metaLinkOptions
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50428
+ScriptLoader50.ScriptLoader>>#update50428
 ScriptLoader50.ScriptLoader>>#update50429
 Slot.ByteString>>#asClassVariable
 Slot.ByteString>>#asSlot

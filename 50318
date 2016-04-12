@@ -6,6 +6,7 @@ Reflectivity.RFASTTranslator>>#emitMetaLinkAfter:
 Reflectivity.RFASTTranslatorForEffect>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50317
+ScriptLoader50.ScriptLoader>>#update50317
 ScriptLoader50.ScriptLoader>>#update50318
 System-Sources.CompiledMethod>>#putSource:withPreamble:
 System-Sources.SourceFileArray>>#writeSource:preamble:onSuccess:onFail:

@@ -17,6 +17,7 @@ Reflectivity-Tools.WatchpointWindow>>#setupMenu
 Reflectivity-Tools.WatchpointWindow>>#title
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50467
+ScriptLoader50.ScriptLoader>>#update50467
 ScriptLoader50.ScriptLoader>>#update50468
 SmartSuggestions.SugsMenuBuilder class>>#findSuggestionsFor:
 SmartSuggestions.SugsSuggestionFactory class>>#createWatchpointCommand

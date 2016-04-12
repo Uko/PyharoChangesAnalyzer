@@ -16,5 +16,6 @@ Monticello.MCVersionLoaderStopped>>#versionLoader:
 Morphic-Widgets-Basic.SimpleButtonMorph>>#label
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50508
+ScriptLoader50.ScriptLoader>>#update50508
 ScriptLoader50.ScriptLoader>>#update50509
 Spec-MorphicAdapters.MorphicTextAdapter>>#acceptAllowed

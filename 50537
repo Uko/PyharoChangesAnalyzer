@@ -1,6 +1,7 @@
 ReleaseTests.ReleaseTest>>#testMethodsWithUnboundGlobals
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50536
+ScriptLoader50.ScriptLoader>>#update50536
 ScriptLoader50.ScriptLoader>>#update50537
 Slot-Tests.SlotErrorsTest>>#testDangerousClassesConditions
 Slot-Tests.SlotIntegrationTest>>#testSmallIntegerLayout

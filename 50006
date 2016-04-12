@@ -14,6 +14,7 @@ AST-Tests-Core.RBParseTreeSearcherTest>>#testSearchingComposedSelector
 AST-Tests-Core.RBParseTreeSearcherTest>>#testSearchingComposedSelector2
 AST-Tests-Core.RBParserTest>>#testArray
 AST-Tests-Core.RBParserTest>>#testBestNodeFor
+AST-Tests-Core.RBParserTest>>#testBlockRewrites
 AST-Tests-Core.RBParserTest>>#testCascadeReplacement
 AST-Tests-Core.RBParserTest>>#testComparingTrees
 AST-Tests-Core.RBParserTest>>#testEqualToWithMapping
@@ -49,7 +50,10 @@ Kernel.Metaclass>>#slots:
 Monticello.MCClassDefinition>>#createClass
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script614
+ScriptLoader50.ScriptLoader>>#update50005
 ScriptLoader50.ScriptLoader>>#update50006
+Slot.OldClassBuilderAdapter>>#class:slots:
 Slot.OldClassBuilderAdapter>>#layoutForType:
 Slot.OldClassBuilderAdapter>>#name:inEnvironment:subclassOf:type:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Slot.OldClassBuilderAdapter>>#slotClassInstaller
 Slot.TClass>>#removeSlot:

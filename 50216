@@ -3,8 +3,10 @@ AST-Core.BIConfigurableFormatter class>>#traditionalBinaryPrecedence
 AST-Core.BIConfigurableFormatter>>#formattedSourceFor:
 AST-Core.BIConfigurableFormatter>>#handleLineForSelector:withSeparatorBlock:
 AST-Core.BIConfigurableFormatter>>#precedenceOf:greaterThan:
+AST-Core.BIConfigurableFormatter>>#traditionalBinaryPrecedence
 AST-Core.BIConfigurableFormatter>>#traditionalBinaryPrecedenceArray
 AST-Core.BIConfigurableFormatter>>#visitBlockNode:
+AST-Core.BIPrettyPrinterContext>>#traditionalBinaryPrecedence
 AST-Core.BIPrettyPrinterContext>>#traditionalBinaryPrecedenceArray
 AST-Core.BISimpleFormatter
 AST-Core.BISimpleFormatter class>>#format:
@@ -78,6 +80,7 @@ Nautilus.AbstractNautilusUI>>#showInstance:
 Polymorph-Widgets.MorphicUIManager>>#edit:label:accept:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50215
+ScriptLoader50.ScriptLoader>>#update50215
 ScriptLoader50.ScriptLoader>>#update50216
 Spec-Core.LabelModel>>#emphasis:
 Spec-Core.LabelModel>>#emphasisDepractedFor:

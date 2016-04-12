@@ -17,5 +17,6 @@ Rubric.RubTextMethodLink
 Rubric.RubTextVariableLink
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50253
+ScriptLoader50.ScriptLoader>>#update50253
 ScriptLoader50.ScriptLoader>>#update50254
 Tool-FileList.FileList class>>#initialize

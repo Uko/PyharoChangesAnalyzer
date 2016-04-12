@@ -10,4 +10,5 @@ OpalCompiler-Core.IRBytecodeGenerator>>#hasPrimitive
 OpalCompiler-Core.IRBytecodeGenerator>>#nextPut:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50518
+ScriptLoader50.ScriptLoader>>#update50518
 ScriptLoader50.ScriptLoader>>#update50519

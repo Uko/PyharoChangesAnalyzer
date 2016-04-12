@@ -10,6 +10,7 @@ Refactoring-Critics.RBkeysDoRule class>>#uniqueIdentifierName
 Refactoring-Tests-Critics.RBSmalllintTest>>#testUniqueIdentifierName
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50282
+ScriptLoader50.ScriptLoader>>#update50282
 ScriptLoader50.ScriptLoader>>#update50283
 Tool-Diff.DiffMorph>>#calibrateScrollbar
 Tool-Diff.DiffMorph>>#verticalScroll:

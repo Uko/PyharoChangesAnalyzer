@@ -1,10 +1,52 @@
+ConfigurationOfGofer.ConfigurationOfGofer
+ConfigurationOfGofer.ConfigurationOfGofer class>>#bootstrapPackage:from:
+ConfigurationOfGofer.ConfigurationOfGofer class>>#compareVersions
+ConfigurationOfGofer.ConfigurationOfGofer class>>#createNewDevelopmentVersion
+ConfigurationOfGofer.ConfigurationOfGofer class>>#ensureMetacello
+ConfigurationOfGofer.ConfigurationOfGofer class>>#isMetacelloConfig
+ConfigurationOfGofer.ConfigurationOfGofer class>>#lastMetacelloVersionLoad
+ConfigurationOfGofer.ConfigurationOfGofer class>>#load
+ConfigurationOfGofer.ConfigurationOfGofer class>>#metacelloVersion:loads:
+ConfigurationOfGofer.ConfigurationOfGofer class>>#project
+ConfigurationOfGofer.ConfigurationOfGofer class>>#updateToLatestPackageVersions:
+ConfigurationOfGofer.ConfigurationOfGofer>>#baseline100:
+ConfigurationOfGofer.ConfigurationOfGofer>>#baseline1021:
+ConfigurationOfGofer.ConfigurationOfGofer>>#baseline1051:
+ConfigurationOfGofer.ConfigurationOfGofer>>#baseline1052:
+ConfigurationOfGofer.ConfigurationOfGofer>>#baseline105:
+ConfigurationOfGofer.ConfigurationOfGofer>>#development:
+ConfigurationOfGofer.ConfigurationOfGofer>>#project
+ConfigurationOfGofer.ConfigurationOfGofer>>#stable:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version100:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version101:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version1021:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version1022:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version102:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version103:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version104:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version1051:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version1052:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version1053:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version1054:
+ConfigurationOfGofer.ConfigurationOfGofer>>#version105:
 FileSystem-Disk.DiskStore class>>#initialize
+FileSystem-Disk.DiskStore class>>#release
 FontInfrastructure.LogicalFont class>>#initialize
+FontInfrastructure.LogicalFont class>>#release
 FreeType.FT2Handle class>>#initialize
+FreeType.FT2Handle class>>#release
 FreeType.FreeTypeCache class>>#initialize
+FreeType.FreeTypeCache class>>#release
 FreeType.FreeTypeSettings class>>#initialize
+FreeType.FreeTypeSettings class>>#release
+Graphics-Display Objects.Form class>>#release
+Graphics-Primitives.Color class>>#release
+Kernel-Tests.MethodPragmaTest>>#testPrimitiveNamedErrorCode1
 NECompletion.NOCCompletionTable class>>#initialize
+NECompletion.NOCCompletionTable class>>#release
+Nautilus.Nautilus class>>#release
 Network-Kernel.InternetConfiguration class>>#initialize
+Network-Kernel.InternetConfiguration class>>#release
 Refactoring-Critics.RBSelfSentNotImplementedRule
 Refactoring-Critics.RBSelfSentNotImplementedRule class>>#checksMethod
 Refactoring-Critics.RBSelfSentNotImplementedRule class>>#uniqueIdentifierName
@@ -16,9 +58,11 @@ Refactoring-Critics.RBSelfSentNotImplementedRule>>#rationale
 Refactoring-Critics.RBSelfSentNotImplementedRule>>#severity
 Refactoring-Critics.RBSentNotImplementedRule>>#basicCheck:
 Refactoring-Critics.RBSentNotImplementedRule>>#checkMethod:
+Refactoring-Critics.RBSentNotImplementedRule>>#implementorsExists:
 Refactoring-Critics.RBSentNotImplementedRule>>#rationale
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50616
+ScriptLoader50.ScriptLoader>>#update50616
 ScriptLoader50.ScriptLoader>>#update50617
 SmartSuggestions.SugsAbstractContext class>>#contextFor:
 SmartSuggestions.SugsAbstractContext>>#selectedInterval
@@ -27,6 +71,10 @@ SmartSuggestions.SugsNullContext>>#selectedClass
 SmartSuggestions.SugsNullContext>>#selectedMethod
 SmartSuggestions.SugsNullContext>>#sourceTextArea
 System-OSEnvironments.OSEnvironment class>>#initialize
+System-OSEnvironments.OSEnvironment class>>#release
 System-Platforms.OSPlatform class>>#initialize
+System-Platforms.OSPlatform class>>#release
 System-Support.EndianDetector class>>#initialize
+System-Support.EndianDetector class>>#release
 Tool-Base.PharoCommonTools class>>#initialize
+Tool-Base.PharoCommonTools class>>#release

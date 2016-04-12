@@ -8,8 +8,14 @@ Morphic-Base.Morph>>#exportAsBMP
 Morphic-Base.Morph>>#exportAsGIF
 Morphic-Base.Morph>>#exportAsJPEG
 Morphic-Base.Morph>>#exportAsPNG
+Morphic-Core.Morph>>#abandon
+Morphic-Core.Morph>>#actWhen
+Morphic-Core.Morph>>#actWhen:
 Morphic-Core.Morph>>#displayExtentChanged
+Morphic-Core.Morph>>#doCancel
 Morphic-Core.Morph>>#doFastReframe:
+Morphic-Core.Morph>>#exportAsBMP
+Morphic-Core.Morph>>#exportAsJPEG
 Morphic-Core.Morph>>#mouseStillDownStepRate
 Morphic-Core.Morph>>#renameTo:
 Morphic-Core.Morph>>#simulateKeyStroke:
@@ -23,4 +29,5 @@ Polymorph-Widgets.Morph>>#openInWindowLabeled:inWorld:
 Polymorph-Widgets.Morph>>#window
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50423
+ScriptLoader50.ScriptLoader>>#update50423
 ScriptLoader50.ScriptLoader>>#update50424

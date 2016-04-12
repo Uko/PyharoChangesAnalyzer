@@ -28,10 +28,13 @@ GT-InspectorExtensions-Core.MetacelloVersion>>#gtInspectorActionLoad
 GT-Playground.GTPlayground>>#codeIn:
 GT-SpotterExtensions-Core.GTSpotter>>#spotterForReferencesFor:
 Glamour-Morphic-Widgets.GLMRubricTextModel
+Glamour-Morphic-Widgets.GLMRubricTextModel>>#announcer
+Glamour-Morphic-Widgets.GLMRubricTextModel>>#announcer:
 Glamour-Morphic-Widgets.GLMRubricTextModel>>#clearUserEdits
 Glamour-Morphic-Widgets.GLMRubricTextModel>>#hasUnacceptedEdits
 Glamour-Morphic-Widgets.GLMRubricTextModel>>#hasUnacceptedEdits:
 Glamour-Rubric-Presentations.GLMRubricTextPresentation>>#clearUserEdits
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50529
+ScriptLoader50.ScriptLoader>>#update50529
 ScriptLoader50.ScriptLoader>>#update50530

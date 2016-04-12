@@ -1,4 +1,73 @@
 Fuel.Character>>#serializeOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50094
+ScriptLoader50.ScriptLoader>>#update50094
 ScriptLoader50.ScriptLoader>>#update50095
+Shout.FileContentsBrowser>>#shoutAboutToStyle:
+Tool-FilePackageBrowser.FileContentsBrowser
+Tool-FilePackageBrowser.FileContentsBrowser class>>#browseCompressedCodeStream:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#browseFile:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#browseFiles:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#browseStream:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#browseStream:named:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#fileReaderServicesForDirectory:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#fileReaderServicesForFile:suffix:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#initialize
+Tool-FilePackageBrowser.FileContentsBrowser class>>#selectAndBrowseFile:
+Tool-FilePackageBrowser.FileContentsBrowser class>>#serviceBrowseCode
+Tool-FilePackageBrowser.FileContentsBrowser class>>#serviceBrowseCodeFiles
+Tool-FilePackageBrowser.FileContentsBrowser class>>#serviceBrowseCompressedCode
+Tool-FilePackageBrowser.FileContentsBrowser class>>#services
+Tool-FilePackageBrowser.FileContentsBrowser class>>#unload
+Tool-FilePackageBrowser.FileContentsBrowser>>#addLowerPanesTo:at:with:
+Tool-FilePackageBrowser.FileContentsBrowser>>#browseMethodFull
+Tool-FilePackageBrowser.FileContentsBrowser>>#browseSenders
+Tool-FilePackageBrowser.FileContentsBrowser>>#browseVersions
+Tool-FilePackageBrowser.FileContentsBrowser>>#changeMessageCategories:
+Tool-FilePackageBrowser.FileContentsBrowser>>#classList
+Tool-FilePackageBrowser.FileContentsBrowser>>#classListKey:from:
+Tool-FilePackageBrowser.FileContentsBrowser>>#classListMenu:
+Tool-FilePackageBrowser.FileContentsBrowser>>#classListMenu:shifted:
+Tool-FilePackageBrowser.FileContentsBrowser>>#contents
+Tool-FilePackageBrowser.FileContentsBrowser>>#contents:notifying:
+Tool-FilePackageBrowser.FileContentsBrowser>>#contentsSymbolQuints
+Tool-FilePackageBrowser.FileContentsBrowser>>#createViews
+Tool-FilePackageBrowser.FileContentsBrowser>>#defaultBrowserTitle
+Tool-FilePackageBrowser.FileContentsBrowser>>#didCodeChangeElsewhere
+Tool-FilePackageBrowser.FileContentsBrowser>>#extraInfo
+Tool-FilePackageBrowser.FileContentsBrowser>>#fileInClass
+Tool-FilePackageBrowser.FileContentsBrowser>>#fileInMessage
+Tool-FilePackageBrowser.FileContentsBrowser>>#fileInMessageCategories
+Tool-FilePackageBrowser.FileContentsBrowser>>#fileOutClass
+Tool-FilePackageBrowser.FileContentsBrowser>>#fileOutMessage
+Tool-FilePackageBrowser.FileContentsBrowser>>#fileOutMessageCategories
+Tool-FilePackageBrowser.FileContentsBrowser>>#fileOutPackage
+Tool-FilePackageBrowser.FileContentsBrowser>>#findClass
+Tool-FilePackageBrowser.FileContentsBrowser>>#infoViewContents
+Tool-FilePackageBrowser.FileContentsBrowser>>#labelString
+Tool-FilePackageBrowser.FileContentsBrowser>>#messageCategoryMenu:
+Tool-FilePackageBrowser.FileContentsBrowser>>#messageList
+Tool-FilePackageBrowser.FileContentsBrowser>>#messageListKey:from:
+Tool-FilePackageBrowser.FileContentsBrowser>>#messageListMenu:
+Tool-FilePackageBrowser.FileContentsBrowser>>#methodDiffFor:class:selector:meta:
+Tool-FilePackageBrowser.FileContentsBrowser>>#methodHierarchy
+Tool-FilePackageBrowser.FileContentsBrowser>>#modifiedClassDefinition
+Tool-FilePackageBrowser.FileContentsBrowser>>#open
+Tool-FilePackageBrowser.FileContentsBrowser>>#packageInfo:
+Tool-FilePackageBrowser.FileContentsBrowser>>#packageListKey:from:
+Tool-FilePackageBrowser.FileContentsBrowser>>#packages
+Tool-FilePackageBrowser.FileContentsBrowser>>#packages:
+Tool-FilePackageBrowser.FileContentsBrowser>>#removeClass
+Tool-FilePackageBrowser.FileContentsBrowser>>#removeMessage
+Tool-FilePackageBrowser.FileContentsBrowser>>#removeMessageCategory
+Tool-FilePackageBrowser.FileContentsBrowser>>#removePackage
+Tool-FilePackageBrowser.FileContentsBrowser>>#removeUnmodifiedCategories
+Tool-FilePackageBrowser.FileContentsBrowser>>#removeUnmodifiedMethods
+Tool-FilePackageBrowser.FileContentsBrowser>>#renameClass
+Tool-FilePackageBrowser.FileContentsBrowser>>#selectedBytecodes
+Tool-FilePackageBrowser.FileContentsBrowser>>#selectedClass
+Tool-FilePackageBrowser.FileContentsBrowser>>#selectedClassOrMetaClass
+Tool-FilePackageBrowser.FileContentsBrowser>>#selectedMessage
+Tool-FilePackageBrowser.FileContentsBrowser>>#selectedPackage
+Tool-FilePackageBrowser.FileContentsBrowser>>#setClassOrganizer
+Tool-FilePackageBrowser.FileContentsBrowser>>#updateInfoView

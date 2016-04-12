@@ -2,6 +2,7 @@ ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#stable:
 ConfigurationOfUnifiedFFI.ConfigurationOfUnifiedFFI>>#v0_13:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50578
+ScriptLoader50.ScriptLoader>>#update50578
 ScriptLoader50.ScriptLoader>>#update50579
 Text-Edition.SmalltalkEditor class>>#smalltalkEditorMenuOn:
 UnifiedFFI.ByteArray>>#rollToArity:
@@ -15,6 +16,7 @@ UnifiedFFI.FFIFunctionArgument>>#emitArgument:type:context:
 UnifiedFFI.FFIFunctionArgument>>#emitArgument:type:context:objectClass:instVarName:
 UnifiedFFI.FFIFunctionArgument>>#emitPointerArityUnroll:type:context:
 UnifiedFFI.FFIFunctionArgument>>#emitPointerArityUnroll:type:context:objectClass:instVarName:
+UnifiedFFI.FFIFunctionArgument>>#needsArityRolling:
 UnifiedFFI.FFIOop
 UnifiedFFI.FFIVoid
 UnifiedFFI.Integer>>#pointer

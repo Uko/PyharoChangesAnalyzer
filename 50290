@@ -7,4 +7,5 @@ OpalCompiler-Core.Context>>#sourceNodeExecuted
 Refactoring-Critics.RBUnpackagedCodeRule>>#checkMethod:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50289
+ScriptLoader50.ScriptLoader>>#update50289
 ScriptLoader50.ScriptLoader>>#update50290

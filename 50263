@@ -1,10 +1,18 @@
 HelpSystem-Core.CustomHelp class>>#icon
+Kernel.Context class>>#trace:
+Kernel.Context class>>#trace:onFileNamed:
 Kernel.Halt class>>#ifShiftPressed
 Kernel.Object>>#haltIfShiftPressed
+KernelTests.BlockClosureTest>>#testTrace
 Monticello.MCPatchOperation>>#initialize
+Monticello.MCPatchOperation>>#source
 Monticello.MCPatchOperation>>#sourceText
+MonticelloGUI.MCAddition>>#sourceString
 MonticelloGUI.MCPatchOperation>>#source
+MonticelloGUI.MCPatchOperation>>#sourceString
+MonticelloGUI.MCRemoval>>#sourceString
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50262
+ScriptLoader50.ScriptLoader>>#update50262
 ScriptLoader50.ScriptLoader>>#update50263
 Tool-ExternalBrowser.ExternalBrowser class>>#serviceBrowseCode

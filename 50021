@@ -13,6 +13,10 @@ ConfigurationOfGlamourCore.ConfigurationOfGlamourCore>>#version312:
 GT-Inspector.GTObjectVariablesBrowser>>#stringWithoutInitialCommentFrom:
 GT-InspectorExtensions-Core.MCRepository>>#gtInspectorGoferReferencesIn:
 GT-SpotterExtensions-Core.HelpTopic>>#spotterActDefault
+Glamour-Morphic-Renderer.GLMMorphicRenderer>>#renderInputPresentation:
+Glamour-Presentations.GLMInputPresentation
+Glamour-Presentations.GLMInputPresentation>>#renderGlamorouslyOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script629
+ScriptLoader50.ScriptLoader>>#update50020
 ScriptLoader50.ScriptLoader>>#update50021

@@ -7,6 +7,7 @@ Collections-Strings.String>>#asStringOrText
 Compiler.ParseNode>>#printSingleComment:on:indent:
 Kernel.ClassCategoryReader>>#scanFrom:
 Kernel.ClassCommentReader>>#scanFrom:
+Kernel.CompiledMethod>>#hasReportableSlip
 Kernel.Object>>#asStringOrText
 Monticello.MCAddition>>#sourceString
 Monticello.MCAddition>>#summary
@@ -33,6 +34,7 @@ Ring-Tests-Kernel.RGCommentDefinitionTest>>#testingConversion
 Ring-Tests-Kernel.RGMethodDefinitionTest>>#testAsMethodDefinition2
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50245
+ScriptLoader50.ScriptLoader>>#update50245
 ScriptLoader50.ScriptLoader>>#update50246
 Slot.DangerousClassNotifier class>>#check:
 Slot.LiteralVariable>>#hasProperty:

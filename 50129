@@ -1,9 +1,13 @@
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50128
+ScriptLoader50.ScriptLoader>>#update50128
 ScriptLoader50.ScriptLoader>>#update50129
+System-Sources.SourceFileArray class>>#install
 System-Sources.SourceFileArray class>>#new:
 System-Sources.SourceFileArray>>#changesFileStream:
+System-Sources.SourceFileArray>>#collect:
 System-Sources.SourceFileArray>>#initialize
+System-Sources.SourceFileArray>>#initialize:
 System-Sources.SourceFileArray>>#readOnlyCopy
 System-Sources.SourceFileArray>>#size
 System-Sources.SourceFileArray>>#sourcesFileStream:

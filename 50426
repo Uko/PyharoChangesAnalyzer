@@ -16,10 +16,14 @@ Morphic-Widgets-Windows.SystemWindow>>#mouseDown:
 Morphic-Widgets-Windows.SystemWindow>>#mouseEnterDragging:
 Morphic-Widgets-Windows.SystemWindow>>#mouseLeaveDragging:
 Morphic-Widgets-Windows.SystemWindow>>#navigateFocus
+Morphic-Widgets-Windows.SystemWindow>>#paneTransition:
 Morphic-Widgets-Windows.SystemWindow>>#privateBePassive
+Morphic-Widgets-Windows.SystemWindow>>#secondaryPaneTransition:divider:
 Morphic-Widgets-Windows.SystemWindow>>#toggleClosable
 Morphic-Widgets-Windows.WindowActivated>>#isActivated
 Morphic-Widgets-Windows.WindowAnnouncement
+Morphic-Widgets-Windows.WindowAnnouncement>>#event
+Morphic-Widgets-Windows.WindowAnnouncement>>#event:
 Morphic-Widgets-Windows.WindowAnnouncement>>#isActivated
 Morphic-Widgets-Windows.WindowAnnouncement>>#isDeActivated
 Morphic-Widgets-Windows.WindowDeActivated>>#isDeActivated
@@ -29,7 +33,9 @@ Polymorph-Widgets.SystemWindow>>#initialize
 Polymorph-Widgets.SystemWindow>>#justDroppedInto:event:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50425
+ScriptLoader50.ScriptLoader>>#update50425
 ScriptLoader50.ScriptLoader>>#update50426
+Spec-Tools.NewVersionBrowser
 Spec-Tools.NewVersionBrowser class>>#browseVersionsForClass:selector:
 Spec-Tools.NewVersionBrowser class>>#browseVersionsForMethod:
 Spec-Tools.NewVersionBrowser class>>#registerToolsOn:

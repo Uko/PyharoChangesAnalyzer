@@ -1,3 +1,8 @@
+Nautilus-GroupManager.GroupsAlreadyExist
+Nautilus-GroupManager.GroupsAlreadyExist class>>#groupName:
+Nautilus-GroupManager.GroupsAlreadyExist>>#groupName
+Nautilus-GroupManager.GroupsAlreadyExist>>#groupName:
+Nautilus-GroupManager.OrderedCollection>>#removeDuplicates
 Nautilus.AbstractNautilusUI>>#open
 OpalCompiler-Core.IRBytecodeGenerator>>#label:
 OpalCompiler-Core.IRBytecodeGenerator>>#pushClosureCopyNumCopiedValues:numArgs:to:
@@ -10,8 +15,10 @@ OpalCompiler-Core.IRClosureStackCount>>#numMethodTempVars
 OpalCompiler-Core.IRClosureStackCount>>#numMethodTempVars:
 OpalCompiler-Core.IRStackCount class>>#newOn:
 OpalCompiler-Core.IRStackCount>>#linkTo:
+Reflectivity.Breakpoint>>#break:withArguments:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50453
+ScriptLoader50.ScriptLoader>>#update50453
 ScriptLoader50.ScriptLoader>>#update50454
 SmartSuggestions.SugsBreakAlwaysSuggestion>>#execute
 SmartSuggestions.SugsBreakAlwaysSuggestion>>#label

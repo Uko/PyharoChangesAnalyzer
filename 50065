@@ -40,6 +40,7 @@ Reflectivity.RFValueReification>>#genForRBTempVariableNode
 Reflectivity.RFValueReification>>#genForRBVariableNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50064
+ScriptLoader50.ScriptLoader>>#update50064
 ScriptLoader50.ScriptLoader>>#update50065
 Traits.TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Traits.TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

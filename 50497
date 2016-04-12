@@ -1,3 +1,4 @@
+AST-Core.RBParser>>#basicParsePragma
 AST-FFI-Pharo50Compatibility.IRTranslatorV2>>#visitMethod:
 AST-FFI-Pharo50Compatibility.OCASTTranslator>>#visitPragmaNode:
 AST-FFI-Pharo50Compatibility.RBFFICallPragma
@@ -273,9 +274,11 @@ Announcements-Core.WeakAnnouncementSubscription class>>#new
 Athens-Cairo.AthensCairoCanvas
 Athens-Cairo.AthensCairoCanvas class>>#asExternalTypeOn:
 Athens-Cairo.AthensCairoCanvas class>>#asNBExternalType:
+Athens-Cairo.AthensCairoCanvas class>>#nbLibraryNameOrHandle
 Athens-Cairo.AthensCairoCanvas class>>#on:
 Athens-Cairo.AthensCairoCanvas class>>#primCreate:
 Athens-Cairo.AthensCairoCanvas>>#getCurrentPoint
+Athens-Cairo.AthensCairoCanvas>>#nbLibraryNameOrHandle
 Athens-Cairo.AthensCairoMatrix
 Athens-Cairo.AthensCairoMatrix class>>#fieldsDesc
 Athens-Cairo.AthensCairoMatrix>>#copyFromMatrix:
@@ -333,6 +336,7 @@ Athens-Cairo.AthensCairoSurface>>#initialize
 Athens-Cairo.AthensCairoTransform class>>#for:
 Athens-Cairo.AthensQuartzSurface class>>#finalizeResourceData:
 Athens-Cairo.CairoBackendCache class>>#checkSession
+Athens-Cairo.CairoBackendCache class>>#initialize
 Athens-Cairo.CairoBackendCache class>>#new
 Athens-Cairo.CairoBackendCache class>>#soleInstance
 Athens-Cairo.CairoBackendCache>>#flush
@@ -366,6 +370,7 @@ Athens-Cairo.CairoGlyph>>#y
 Athens-Cairo.CairoGlyph>>#y:
 Athens-Cairo.CairoGlyphsArray
 Athens-Cairo.CairoGlyphsArray class>>#externalNew:
+Athens-Cairo.CairoGlyphsArray class>>#initialize
 Athens-Cairo.CairoGlyphsArray class>>#new
 Athens-Cairo.CairoGlyphsArray class>>#new:
 Athens-Cairo.CairoLibrary
@@ -406,6 +411,7 @@ Athens-Cairo.SQSurfaceDispatch>>#unlockSurfaceFn
 Athens-Cairo.SQSurfaceDispatch>>#unlockSurfaceFn:
 Athens-Cairo.TCairoLibrary class>>#ffiLibraryName
 Athens-Cairo.TCairoLibrary>>#ffiLibraryName
+Athens-Cairo.TCairoLibrary>>#nbLibraryNameOrHandle
 Athens-Morphic.AthensDisplayScanner class>>#for:on:
 Athens-Morphic.AthensDisplayScanner class>>#on:
 Athens-Morphic.AthensSceneView>>#checkSession
@@ -1664,8 +1670,18 @@ Fuel.FLLargeIdentitySet>>#add:
 Fuel.FLLargeIdentitySet>>#addIfNotPresent:ifPresentDo:
 Fuel.FLLargeIdentitySet>>#includes:
 Fuel.FLLargeIdentitySet>>#remove:ifAbsent:
+Fuel.FLLightGeneralMapper>>#clusterClassForCharacter:
+Fuel.FLLightGeneralMapper>>#visitCharacter:
 Fuel.ProtoObject>>#largeIdentityHash
 FuelTests.FLBasicSerializationTest>>#testCharacter
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleAllSubclasses
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleClassVariables
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleInstanceVariables
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleSuperclasses
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraitComposition
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraitUsers
+GT-SpotterExtensions-Core.TBehavior class>>#gtExampleTraits
+GT-SpotterExtensions-Core.TClassDescription class>>#gtExamplePackage
 Kernel.Behavior>>#allInstances
 Kernel.Behavior>>#allInstancesDo:
 Kernel.Behavior>>#allInstancesOrNil
@@ -1780,6 +1796,7 @@ Kernel.Float>>#truncated
 Kernel.Float>>#~=
 Kernel.InstructionClient>>#callPrimitive:
 Kernel.InstructionStream>>#interpretV3ClosuresExtension:in:for:
+Kernel.Integer>>#%7C
 Kernel.LargeNegativeInteger>>#normalize
 Kernel.LargePositiveInteger>>#normalize
 Kernel.Object>>#actAsExecutor
@@ -1823,40 +1840,84 @@ Kernel.SmallInteger
 Kernel.SmallInteger>>#asCharacter
 Kernel.SmallInteger>>#decimalDigitLength
 Kernel.SmallInteger>>#digitLength
+Monticello.Character>>#comeFullyUpOnReload:
 Monticello.MCClassDefinition>>#kindOfSubclass
+NativeBoost-Core.ByteArray>>#nbFloat32AtOffset:
+NativeBoost-Core.ByteArray>>#nbFloat32AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbFloat64AtOffset:
+NativeBoost-Core.ByteArray>>#nbFloat64AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbInt16AtOffset:
+NativeBoost-Core.ByteArray>>#nbInt16AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbInt32AtOffset:
+NativeBoost-Core.ByteArray>>#nbInt32AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbInt64AtOffset:
+NativeBoost-Core.ByteArray>>#nbInt64AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbInt8AtOffset:
+NativeBoost-Core.ByteArray>>#nbInt8AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbLongAt:
+NativeBoost-Core.ByteArray>>#nbLongAt:put:
+NativeBoost-Core.ByteArray>>#nbUInt16AtOffset:
+NativeBoost-Core.ByteArray>>#nbUInt16AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbUInt32AtOffset:
+NativeBoost-Core.ByteArray>>#nbUInt32AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbUInt64AtOffset:
+NativeBoost-Core.ByteArray>>#nbUInt64AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbUInt8AtOffset:
+NativeBoost-Core.ByteArray>>#nbUInt8AtOffset:put:
+NativeBoost-Core.ByteArray>>#nbUlongAt:
+NativeBoost-Core.ByteArray>>#nbUlongAt:put:
+NativeBoost-Core.Object>>#nbCall:
+NativeBoost-Core.Object>>#nbCall:module:
+OpalCompiler-Core.IRTranslatorV2>>#visitMethod:
+OpalCompiler-Core.OCASTTranslator>>#visitPragmaNode:
 OpalCompiler-Core.OpalEncoderForV3PlusClosures class>>#callPrimitiveCode
 OpalCompiler-Core.OpalEncoderForV3PlusClosures>>#genCallPrimitive:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50496
 ScriptLoader50.ScriptLoader>>#script50497
+ScriptLoader50.ScriptLoader>>#update50496
 ScriptLoader50.ScriptLoader>>#update50497
 Slot-Tests.SlotIntegrationTest>>#testBecomeCompactAndUncompact
 Slot.AbstractLayout>>#extendImmediate
 Slot.ByteLayout>>#instanceSpecification
 Slot.ClassModification class>>#modify:extend:withLayoutType:slots:sharedVariables:sharedPools:traitComposition:
+Slot.ClassModification class>>#modify:extend:withLayoutType:slots:sharedVariables:sharedPools:traitComposition:compactClassIndex:
 Slot.ClassModification>>#layoutClass:slots:
+Slot.ClassModification>>#layoutClass:slots:compactClassIndex:
+Slot.CompiledMethodLayout>>#format
 Slot.CompiledMethodLayout>>#instanceSpecification
 Slot.EphemeronLayout
 Slot.EphemeronLayout>>#instanceSpecification
 Slot.FixedLayout>>#instanceSpecification
+Slot.FixedLayout>>#instanceSpecificationBase
 Slot.ImmediateLayout
 Slot.ImmediateLayout class>>#extending:scope:host:
 Slot.ImmediateLayout>>#instanceSpecification
 Slot.LayoutClassScope>>#hash
 Slot.ObjectLayout class>>#layoutForType:
+Slot.ObjectLayout>>#=
+Slot.ObjectLayout>>#compactClassIndex
+Slot.ObjectLayout>>#compactClassIndex:
 Slot.ObjectLayout>>#extendSmallInteger
 Slot.ObjectLayout>>#format
+Slot.ObjectLayout>>#hash
 Slot.ObjectLayout>>#instanceSpecification
 Slot.PharoClassInstaller>>#updateClass:to:
 Slot.PharoClassInstaller>>#updateInstancesFrom:to:
+Slot.PointerLayout>>#instanceSpecification
 Slot.SlotClassBuilder>>#build
 Slot.SlotClassBuilder>>#computeFormat:instSize:forSuper:ccIndex:
 Slot.SlotClassBuilder>>#format:variable:words:pointers:weak:
 Slot.SlotClassBuilder>>#superclass:immediateSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Slot.SlotClassBuilder>>#update:to:
+Slot.SmallIntegerLayout
+Slot.SmallIntegerLayout class>>#extending:scope:host:
 Slot.SmallIntegerLayout>>#extend:
+Slot.SmallIntegerLayout>>#format
 Slot.SmallIntegerLayout>>#initialize
 Slot.VariableLayout>>#extendAgain:with:
 Slot.VariableLayout>>#instanceSpecification
+Slot.VariableLayout>>#instanceSpecificationBase
 Slot.WordLayout>>#instanceSpecification
 System-Finalization.WeakFinalizationList class>>#hasNewFinalization
 System-OSEnvironments.OSEnvironment class>>#isAvailable

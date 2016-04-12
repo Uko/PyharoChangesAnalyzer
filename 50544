@@ -3,6 +3,7 @@ Kernel.ProtocolOrganizer>>#reset
 Morphic-Base.MenuMorph
 Morphic-Base.MenuMorph>>#addCustomMenuItems:hand:
 Morphic-Base.MenuMorph>>#addMenuItem:
+Morphic-Base.MenuMorph>>#addMorphBack:
 Morphic-Base.MenuMorph>>#addToggle:target:selector:getStateSelector:enablementSelector:argumentList:
 Morphic-Base.MenuMorph>>#hasItems
 Morphic-Base.MenuMorph>>#hasSubMenu:
@@ -14,4 +15,5 @@ Morphic-Base.MenuMorph>>#removeStayUpItems
 Morphic-Base.MenuMorph>>#veryDeepInner:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50543
+ScriptLoader50.ScriptLoader>>#update50543
 ScriptLoader50.ScriptLoader>>#update50544

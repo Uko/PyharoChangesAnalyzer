@@ -1,5 +1,13 @@
+Refactoring-Critics.RBAbstractClassRule
+Refactoring-Critics.RBAbstractClassRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBAbstractClassRule>>#checkMethod:
+Refactoring-Critics.RBAbstractClassRule>>#group
+Refactoring-Critics.RBAbstractClassRule>>#name
+Refactoring-Critics.RBAbstractClassRule>>#rationale
+Refactoring-Critics.RBAbstractClassRule>>#severity
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50337
+ScriptLoader50.ScriptLoader>>#update50337
 ScriptLoader50.ScriptLoader>>#update50338
 Spec-MorphicAdapters.MorphicTextAdapter>>#interactionModel
 System-Changes.ChangeSet class>>#fileReaderServicesForFile:suffix:

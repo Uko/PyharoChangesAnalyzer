@@ -13,8 +13,10 @@ Graphics-Primitives.ArrayedCollection>>#restoreEndianness
 Graphics-Primitives.Bitmap>>#asByteArray
 Graphics-Primitives.Bitmap>>#copyFromByteArray:
 Graphics-Transformations.MatrixTransform2x3>>#restoreEndianness
+Monticello-Tests.MCSerializationTest>>#assertClass:providesServices:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50091
+ScriptLoader50.ScriptLoader>>#update50091
 ScriptLoader50.ScriptLoader>>#update50092
 System-Support.DefaultExternalDropHandler
 System-Support.DefaultExternalDropHandler class>>#initialize
@@ -48,7 +50,12 @@ System-Support.ExternalDropHandler>>#matchesTypes:
 System-Support.ExternalDropHandler>>#type
 System-Support.ExternalDropHandler>>#type:extension:action:
 System-Support.SmalltalkImage
+System-Support.SmalltalkImage>>#calcEndianness
 System-Support.SmalltalkImage>>#endianness
+System-Support.SmalltalkImage>>#isBigEndian
+System-Support.SmalltalkImage>>#isLittleEndian
 System-Support.SmalltalkImage>>#processShutDownList:
+Tool-Changes.ChangeList class>>#browseCompressedChangesFile:
 Tool-Changes.ChangeList class>>#fileReaderServicesForFile:suffix:
+Tool-Changes.ChangeList class>>#serviceBrowseCompressedChangeFile
 Tool-Changes.ChangeList class>>#services

@@ -1,9 +1,17 @@
 ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version136:
 Rubric.RubMethodEditingExample>>#textModel
+Rubric.RubSmalltalkEditorModel
+Rubric.RubSmalltalkEditorModel>>#selectedClassOrMetaClass
+Rubric.RubSmalltalkEditorModel>>#shoutAboutToStyle:
+Rubric.RubSmalltalkMethodEditorModel
+Rubric.RubSmalltalkMethodEditorModel>>#newScrolledText
+Rubric.RubSmalltalkScriptEditorModel
 Rubric.RubSmalltalkScriptEditorModel>>#hasBindingOf:
 Rubric.RubSmalltalkScriptEditorModel>>#hasBindingThatBeginsWith:
+Rubric.RubSmalltalkScriptEditorModel>>#newScrolledText
 Rubric.RubWorkspaceExample>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50123
+ScriptLoader50.ScriptLoader>>#update50123
 ScriptLoader50.ScriptLoader>>#update50124

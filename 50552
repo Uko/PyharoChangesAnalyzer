@@ -1,6 +1,12 @@
 HudsonBuildTools20.TestCommandLineHandler>>#inform:
 HudsonBuildTools20.TestCommandLineHandler>>#informResults:
 HudsonBuildTools20.TestCommandLineHandler>>#testRunner
+Morphic-Widgets-Windows.FullscreenMorph>>#edgeToAdhereTo
+Morphic-Widgets-Windows.FullscreenMorph>>#isAdheringToBottom
+Morphic-Widgets-Windows.FullscreenMorph>>#isAdheringToLeft
+Morphic-Widgets-Windows.FullscreenMorph>>#isAdheringToRight
+Morphic-Widgets-Windows.FullscreenMorph>>#isAdheringToTop
+Morphic-Widgets-Windows.FullscreenMorph>>#isDockingBar
 Morphic-Widgets-Windows.FullscreenMorph>>#layoutChanged
 SUnit-UI.CommandLineTestRunner>>#createStderr
 SUnit-UI.CommandLineTestRunner>>#createStdout
@@ -26,4 +32,5 @@ SUnit-UI.VTermTestRunner>>#printPassOf:
 SUnit-UI.VTermTestRunner>>#printTestCase:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50551
+ScriptLoader50.ScriptLoader>>#update50551
 ScriptLoader50.ScriptLoader>>#update50552

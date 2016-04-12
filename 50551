@@ -1,3 +1,239 @@
+FFI-MacOS.MacOSShell
+FFI-MacOS.MacOSShell class>>#escapeFileName:
+FFI-MacOS.MacOSShell>>#getenv:
+FFI-MacOS.MacOSShell>>#system:
+FFI-MacOS.MacPixPatPtr
+FFI-MacOS.MacPixPatPtr class>>#fields
+FFI-MacOS.MacPixPatPtr class>>#newPixPat
+FFI-MacOS.MacPixPatPtr>>#apiDisposePixPat:
+FFI-MacOS.MacPixPatPtr>>#apiMakeRGBPat:with:
+FFI-MacOS.MacPixPatPtr>>#dispose
+FFI-MacOS.MacPixPatPtr>>#makeRGBPattern:
+FFI-MacOS.MacPoint
+FFI-MacOS.MacPoint class>>#apiLineTo:with:
+FFI-MacOS.MacPoint class>>#apiMoveTo:with:
+FFI-MacOS.MacPoint class>>#fields
+FFI-MacOS.MacPoint class>>#lineTo:
+FFI-MacOS.MacPoint class>>#macDraw
+FFI-MacOS.MacPoint class>>#moveTo:
+FFI-MacOS.MacPoint>>#apiGetMousePoint:
+FFI-MacOS.MacPoint>>#getMousePoint
+FFI-MacOS.MacPoint>>#h
+FFI-MacOS.MacPoint>>#h:
+FFI-MacOS.MacPoint>>#v
+FFI-MacOS.MacPoint>>#v:
+FFI-MacOS.MacPoint>>#x
+FFI-MacOS.MacPoint>>#x:
+FFI-MacOS.MacPoint>>#y
+FFI-MacOS.MacPoint>>#y:
+FFI-MacOS.MacRGBColor
+FFI-MacOS.MacRGBColor class>>#fields
+FFI-MacOS.MacRGBColor class>>#fromColor:
+FFI-MacOS.MacRGBColor>>#blue
+FFI-MacOS.MacRGBColor>>#blue:
+FFI-MacOS.MacRGBColor>>#green
+FFI-MacOS.MacRGBColor>>#green:
+FFI-MacOS.MacRGBColor>>#red
+FFI-MacOS.MacRGBColor>>#red:
+FFI-MacOS.MacRect
+FFI-MacOS.MacRect class>>#apiFillCOval:with:
+FFI-MacOS.MacRect class>>#apiFillCRect:with:
+FFI-MacOS.MacRect class>>#apiFrameOval:
+FFI-MacOS.MacRect class>>#apiFrameRect:
+FFI-MacOS.MacRect class>>#coloredEllipses
+FFI-MacOS.MacRect class>>#coloredRectangles
+FFI-MacOS.MacRect class>>#fields
+FFI-MacOS.MacRect class>>#macDraw
+FFI-MacOS.MacRect>>#bottom
+FFI-MacOS.MacRect>>#bottom:
+FFI-MacOS.MacRect>>#left
+FFI-MacOS.MacRect>>#left:
+FFI-MacOS.MacRect>>#right
+FFI-MacOS.MacRect>>#right:
+FFI-MacOS.MacRect>>#top
+FFI-MacOS.MacRect>>#top:
+FFI-Unix.X11Display
+FFI-Unix.X11Display class>>#XOpenDisplay:
+FFI-Unix.X11Display class>>#coloredEllipses
+FFI-Unix.X11Display class>>#coloredRectangles
+FFI-Unix.X11Display class>>#fields
+FFI-Unix.X11Display class>>#new
+FFI-Unix.X11Display class>>#on:
+FFI-Unix.X11Display class>>#x11Draw
+FFI-Unix.X11Display>>#None
+FFI-Unix.X11Display>>#XCloseDisplay:
+FFI-Unix.X11Display>>#XDisplayString:
+FFI-Unix.X11Display>>#XFlush:
+FFI-Unix.X11Display>>#XGetInputFocus:with:with:
+FFI-Unix.X11Display>>#XQueryPointer:window:returnRoot:child:rootX:rootY:winX:winY:mask:
+FFI-Unix.X11Display>>#XSync:
+FFI-Unix.X11Display>>#XWarpPointer:sourceWindow:destWindow:sourceX:sourceY:sourceWidth:sourceHeight:destX:destY:
+FFI-Unix.X11Display>>#closeDisplay
+FFI-Unix.X11Display>>#displayString
+FFI-Unix.X11Display>>#flush
+FFI-Unix.X11Display>>#getInputFocus
+FFI-Unix.X11Display>>#ourWindow
+FFI-Unix.X11Display>>#queryPointer:
+FFI-Unix.X11Display>>#sync
+FFI-Unix.X11Display>>#warpPointerBy:
+FFI-Unix.X11Display>>#warpPointerFrom:in:To:in:
+FFI-Unix.X11Display>>#warpPointerTo:in:
+FFI-Unix.X11Drawable
+FFI-Unix.X11Drawable class>>#display:
+FFI-Unix.X11Drawable class>>#fields
+FFI-Unix.X11Drawable class>>#none
+FFI-Unix.X11Drawable>>#display
+FFI-Unix.X11Drawable>>#display:
+FFI-Unix.X11Drawable>>#printOn:
+FFI-Unix.X11Drawable>>#xid
+FFI-Unix.X11Drawable>>#xid:
+FFI-Unix.X11GC
+FFI-Unix.X11GC class>>#XCreateGC:with:with:with:
+FFI-Unix.X11GC class>>#fields
+FFI-Unix.X11GC class>>#on:
+FFI-Unix.X11GC>>#XDrawArc:with:with:with:with:with:with:with:with:
+FFI-Unix.X11GC>>#XDrawLine:with:with:with:with:with:with:
+FFI-Unix.X11GC>>#XDrawRectangle:with:with:with:with:with:with:
+FFI-Unix.X11GC>>#XFillArc:with:with:with:with:with:with:with:with:
+FFI-Unix.X11GC>>#XFillRectangle:with:with:with:with:with:with:
+FFI-Unix.X11GC>>#XFreeGC:with:
+FFI-Unix.X11GC>>#XSetBackground:with:with:
+FFI-Unix.X11GC>>#XSetForeground:with:with:
+FFI-Unix.X11GC>>#background:
+FFI-Unix.X11GC>>#display
+FFI-Unix.X11GC>>#drawLineFrom:to:
+FFI-Unix.X11GC>>#drawOval:
+FFI-Unix.X11GC>>#drawRectangle:
+FFI-Unix.X11GC>>#drawable
+FFI-Unix.X11GC>>#drawable:
+FFI-Unix.X11GC>>#fillOval:
+FFI-Unix.X11GC>>#fillRectangle:
+FFI-Unix.X11GC>>#foreground:
+FFI-Unix.X11GC>>#free
+FFI-Unix.X11Window
+FFI-Win32.Win32Constants
+FFI-Win32.Win32Constants class>>#initialize
+FFI-Win32.Win32Constants class>>#initializeWindowConstants
+FFI-Win32.Win32Error
+FFI-Win32.Win32Error class>>#initialize
+FFI-Win32.Win32Error class>>#lastError
+FFI-Win32.Win32Error class>>#win32GetLastError
+FFI-Win32.Win32Error>>#errorCode
+FFI-Win32.Win32Error>>#errorMessage
+FFI-Win32.Win32Error>>#errorName
+FFI-Win32.Win32Error>>#initializeWithLastError
+FFI-Win32.Win32File
+FFI-Win32.Win32File class>>#setReadOnly:
+FFI-Win32.Win32File class>>#setReadWrite:
+FFI-Win32.Win32File>>#getFileAttributes:
+FFI-Win32.Win32File>>#setFileAttributes:lpAttrs:
+FFI-Win32.Win32File>>#setReadOnly:
+FFI-Win32.Win32File>>#setReadWrite:
+FFI-Win32.Win32HBrush
+FFI-Win32.Win32HBrush class>>#apiCreateHatchBrush:with:
+FFI-Win32.Win32HBrush class>>#backwardDiagonalWithColor:
+FFI-Win32.Win32HBrush class>>#createHatchBrush:color:
+FFI-Win32.Win32HBrush class>>#createSolidBrush:
+FFI-Win32.Win32HBrush class>>#crossWithColor:
+FFI-Win32.Win32HBrush class>>#diagonalCrossWithColor:
+FFI-Win32.Win32HBrush class>>#forwardDiagonalWithColor:
+FFI-Win32.Win32HBrush class>>#horizontalWithColor:
+FFI-Win32.Win32HBrush class>>#verticalWithColor:
+FFI-Win32.Win32HDC
+FFI-Win32.Win32HDC>>#apiDeleteDC:
+FFI-Win32.Win32HDC>>#apiDrawFocusRect:with:
+FFI-Win32.Win32HDC>>#apiDrawFrameControl:with:with:with:
+FFI-Win32.Win32HDC>>#apiEllipse:with:with:with:with:
+FFI-Win32.Win32HDC>>#apiExtFloodFill:with:with:with:with:
+FFI-Win32.Win32HDC>>#apiFillRect:with:with:
+FFI-Win32.Win32HDC>>#apiFrameRect:with:with:
+FFI-Win32.Win32HDC>>#apiLineTo:with:with:
+FFI-Win32.Win32HDC>>#apiMoveToEx:with:with:with:
+FFI-Win32.Win32HDC>>#apiRectangle:with:with:with:with:
+FFI-Win32.Win32HDC>>#apiRoundRect:with:with:with:with:with:with:
+FFI-Win32.Win32HDC>>#apiSelectObject:with:
+FFI-Win32.Win32HDC>>#delete
+FFI-Win32.Win32HDC>>#drawFocusRectangle:
+FFI-Win32.Win32HDC>>#drawFrameControl:type:style:
+FFI-Win32.Win32HDC>>#ellipse:
+FFI-Win32.Win32HDC>>#fillRectangle:color:
+FFI-Win32.Win32HDC>>#floodFillAt:boundaryColor:fillColor:
+FFI-Win32.Win32HDC>>#frameRectangle:brush:
+FFI-Win32.Win32HDC>>#lineTo:
+FFI-Win32.Win32HDC>>#moveTo:
+FFI-Win32.Win32HDC>>#rectangle:
+FFI-Win32.Win32HDC>>#roundRectangle:width:height:
+FFI-Win32.Win32HDC>>#selectObject:
+FFI-Win32.Win32HGDIObj
+FFI-Win32.Win32HGDIObj>>#apiDeleteObject:
+FFI-Win32.Win32HGDIObj>>#delete
+FFI-Win32.Win32Handle
+FFI-Win32.Win32Handle class>>#fields
+FFI-Win32.Win32Point
+FFI-Win32.Win32Point class>>#apiGetCursorPos:
+FFI-Win32.Win32Point class>>#fields
+FFI-Win32.Win32Point class>>#getCursorPos
+FFI-Win32.Win32Point>>#asPoint
+FFI-Win32.Win32Point>>#x
+FFI-Win32.Win32Point>>#x:
+FFI-Win32.Win32Point>>#y
+FFI-Win32.Win32Point>>#y:
+FFI-Win32.Win32Rectangle
+FFI-Win32.Win32Rectangle class>>#fields
+FFI-Win32.Win32Rectangle class>>#fromRectangle:
+FFI-Win32.Win32Rectangle>>#bottom
+FFI-Win32.Win32Rectangle>>#bottom:
+FFI-Win32.Win32Rectangle>>#left
+FFI-Win32.Win32Rectangle>>#left:
+FFI-Win32.Win32Rectangle>>#left:top:right:bottom:
+FFI-Win32.Win32Rectangle>>#right
+FFI-Win32.Win32Rectangle>>#right:
+FFI-Win32.Win32Rectangle>>#top
+FFI-Win32.Win32Rectangle>>#top:
+FFI-Win32.Win32Shell
+FFI-Win32.Win32Shell>>#shellExecute:lpOperation:lpFile:lpParameters:lpDirectory:nShowCmd:
+FFI-Win32.Win32Shell>>#shellExplore:
+FFI-Win32.Win32Shell>>#shellFind:
+FFI-Win32.Win32Shell>>#shellOpen:
+FFI-Win32.Win32Utils
+FFI-Win32.Win32Utils class>>#apiFreeEnvironmentStrings:
+FFI-Win32.Win32Utils class>>#apiGetEnvironmentStrings
+FFI-Win32.Win32Utils class>>#apiGetEnvironmentVariable:buffer:size:
+FFI-Win32.Win32Utils class>>#apiSetCursorPosX:y:
+FFI-Win32.Win32Utils class>>#getCommonEnvironmentVariables
+FFI-Win32.Win32Utils class>>#getEnvironmentVariable:
+FFI-Win32.Win32Utils class>>#getEnvironmentVariable:buffer:ifAbsent:
+FFI-Win32.Win32Utils class>>#getEnvironmentVariable:ifAbsent:
+FFI-Win32.Win32Utils class>>#getEnvironmentVariables
+FFI-Win32.Win32Window
+FFI-Win32.Win32Window class>>#coloredEllipses
+FFI-Win32.Win32Window class>>#coloredRectangles
+FFI-Win32.Win32Window class>>#getDesktopWindow
+FFI-Win32.Win32Window class>>#getFocus
+FFI-Win32.Win32Window class>>#getMainWindowText:
+FFI-Win32.Win32Window class>>#getWindowLong:index:
+FFI-Win32.Win32Window class>>#getWindowStyle
+FFI-Win32.Win32Window class>>#setMainWindowText:
+FFI-Win32.Win32Window class>>#setNonResizable
+FFI-Win32.Win32Window class>>#setWindowLong:index:value:
+FFI-Win32.Win32Window class>>#win32Draw
+FFI-Win32.Win32Window>>#apiGetDC:
+FFI-Win32.Win32Window>>#apiGetParent:
+FFI-Win32.Win32Window>>#apiGetWindowText:buffer:maxCount:
+FFI-Win32.Win32Window>>#apiMessageBox:text:title:flags:
+FFI-Win32.Win32Window>>#apiReleaseDC:with:
+FFI-Win32.Win32Window>>#apiScreenToClient:with:
+FFI-Win32.Win32Window>>#apiSetWindowPosition:insertAfter:x:y:cx:cy:flags:
+FFI-Win32.Win32Window>>#apiSetWindowText:text:
+FFI-Win32.Win32Window>>#getDC
+FFI-Win32.Win32Window>>#getHDCDuring:
+FFI-Win32.Win32Window>>#getParent
+FFI-Win32.Win32Window>>#getWindowText:
+FFI-Win32.Win32Window>>#messageBox:
+FFI-Win32.Win32Window>>#messageBox:title:
+FFI-Win32.Win32Window>>#messageBox:title:flags:
+FFI-Win32.Win32Window>>#releaseDC:
+FFI-Win32.Win32Window>>#screenToClient:
 HelpSystem-Core.HelpBrowser>>#selectTopicSatisfying:
 HelpSystem-Core.HelpTopic>>#pathToTopicSatisfying:
 Kernel.DateAndTime>>#asFileNameCompatibleString
@@ -7,4 +243,5 @@ Kernel.DateAndTime>>#printHMSWithDashesOn:
 Morphic-Widgets-Windows.SystemWindow>>#beTopWindow
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50550
+ScriptLoader50.ScriptLoader>>#update50550
 ScriptLoader50.ScriptLoader>>#update50551

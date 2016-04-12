@@ -7,6 +7,7 @@ SUnit-Core.ClassFactoryWithOrganization>>#newClassNamed:subclassOf:instanceVaria
 SUnit-Core.ClassFactoryWithOrganization>>#newSubclassOf:instanceVariableNames:classVariableNames:category:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50086
+ScriptLoader50.ScriptLoader>>#update50086
 ScriptLoader50.ScriptLoader>>#update50087
 Slot.TClass>>#removeSlot:
 Spec-Debugger.SpecDebugger>>#initializeWidgets

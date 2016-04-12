@@ -33,9 +33,12 @@ Rubric.RubSmalltalkEditorModel
 Rubric.RubSmalltalkEditorModel>>#interactionModel:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50118
+ScriptLoader50.ScriptLoader>>#update50118
 ScriptLoader50.ScriptLoader>>#update50119
 System-Sources.RemoteString class>>#newString:
+System-Sources.RemoteString class>>#newString:onFileNumber:
 System-Sources.RemoteString>>#string:
+System-Sources.RemoteString>>#string:onFileNumber:
 System-Sources.SourceFileArray>>#changesFileStream
 System-Sources.SourceFileArray>>#changesWriteStreamDo:
 System-Sources.SourceFileArray>>#flushChangesFile

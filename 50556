@@ -22,4 +22,5 @@ NECompletion.NECSymbols class>>#interestingSymbolsDo:
 Rubric.RubSHTextStylerST80>>#visitMessageNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50555
+ScriptLoader50.ScriptLoader>>#update50555
 ScriptLoader50.ScriptLoader>>#update50556

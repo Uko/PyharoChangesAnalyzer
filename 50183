@@ -2,6 +2,8 @@ Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnPrimitive
 Reflectivity-Tests.ReflectivityExamples>>#examplePrimitiveMethod
 Reflectivity.CompiledMethod>>#installLink:
 Reflectivity.RFASTTranslator>>#visitMethodNode:
+Ring-Core-Kernel.RGDefinition>>#isAssociation
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50182
+ScriptLoader50.ScriptLoader>>#update50182
 ScriptLoader50.ScriptLoader>>#update50183

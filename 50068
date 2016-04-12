@@ -1,5 +1,19 @@
+Collections-Abstract.Collection>>#adaptToString:andSend:
+Collections-Arithmetic.String>>#%2A
+Collections-Arithmetic.String>>#%2F
+Collections-Arithmetic.String>>#%2F%2F
+Collections-Arithmetic.String>>#%5C%5C
+Collections-Arithmetic.String>>#+
+Collections-Arithmetic.String>>#-
+Collections-Strings.String>>#adaptToCollection:andSend:
+Collections-Strings.String>>#adaptToNumber:andSend:
+Collections-Strings.String>>#adaptToPoint:andSend:
+Collections-Strings.String>>#adaptToString:andSend:
+Kernel.Number>>#adaptToString:andSend:
+Kernel.Point>>#adaptToString:andSend:
 Morphic-Core.WorldState class>>#mostUsedToolsOn:
 Morphic-Core.WorldState class>>#quitItemsOn:
+Polymorph-Widgets.FillStyle>>#fillRectangle:on:
 Polymorph-Widgets.InfiniteForm>>#fillRectangle:on:
 Polymorph-Widgets.TextMorphForFieldView
 Polymorph-Widgets.TextMorphForFieldView>>#editorClass
@@ -21,6 +35,7 @@ Polymorph-Widgets.TextMorphForFieldView>>#useSecondarySelection
 Polymorph-Widgets.TextMorphForFieldView>>#useSelectionBar
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50067
+ScriptLoader50.ScriptLoader>>#update50067
 ScriptLoader50.ScriptLoader>>#update50068
 Spec-Inspector.Object>>#basicInspect
 Spec-Inspector.Object>>#explore
@@ -29,5 +44,9 @@ Spec-Inspector.Object>>#inspectOnce
 Spec-Inspector.Object>>#inspectWithLabel:
 Spec-Inspector.Object>>#inspector
 Spec-Inspector.Object>>#inspectorClass
+Spec-Tools.Object>>#displaySubObjectAt:
+Spec-Tools.Object>>#subObjectsToInspect
+Spec-Tools.SequenceableCollection>>#displaySubObjectAt:
+Spec-Tools.SequenceableCollection>>#subObjectsToInspect
 System-Settings.SettingBrowser class>>#menuCommandOn:
 Tool-Transcript.ThreadSafeTranscript class>>#menuCommandOn:

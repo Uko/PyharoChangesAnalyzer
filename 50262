@@ -13,6 +13,7 @@ Deprecated50.HelpIcons class>>#iconNamed:
 HelpSystem-Core.HelpIcons
 HelpSystem-Core.HelpIcons class>>#blankIcon
 HelpSystem-Core.HelpIcons class>>#bookIcon
+HelpSystem-Core.HelpIcons class>>#iconNamed:
 HelpSystem-Core.HelpIcons class>>#icons
 HelpSystem-Core.HelpIcons class>>#packageIcon
 HelpSystem-Core.HelpIcons class>>#pageIcon
@@ -57,6 +58,7 @@ QualityAssistant.QualityAssistantPluginMorph>>#entity
 QualityAssistant.QualityAssistantPluginMorph>>#entity:
 QualityAssistant.QualityAssistantPluginMorph>>#fixAutomatically:
 QualityAssistant.QualityAssistantPluginMorph>>#getCritics
+QualityAssistant.QualityAssistantPluginMorph>>#guardedReportUseless:andRemove:
 QualityAssistant.QualityAssistantPluginMorph>>#iconFor:at:
 QualityAssistant.QualityAssistantPluginMorph>>#iconMaxSize
 QualityAssistant.QualityAssistantPluginMorph>>#infoButtonFor:
@@ -67,10 +69,16 @@ QualityAssistant.QualityAssistantPluginMorph>>#initializeUpdateTask
 QualityAssistant.QualityAssistantPluginMorph>>#methodModified:
 QualityAssistant.QualityAssistantPluginMorph>>#pluginDelegate
 QualityAssistant.QualityAssistantPluginMorph>>#pluginDelegate:
+QualityAssistant.QualityAssistantPluginMorph>>#reportUseless:andRemove:
 QualityAssistant.QualityAssistantPluginMorph>>#selected:
 QualityAssistant.QualityAssistantPluginMorph>>#skipButtonFor:
 QualityAssistant.QualityAssistantPluginMorph>>#subscribe
 QualityAssistant.QualityAssistantPluginMorph>>#updateList
+QualityAssistant.QualityAssistantPluginMorph>>#uselessButtonFor:
+QualityAssistant.QualityAssistantSettings
+QualityAssistant.QualityAssistantSettings class>>#reportWithoutAsking
+QualityAssistant.QualityAssistantSettings class>>#reportWithoutAsking:
+QualityAssistant.QualityAssistantSettings class>>#reportWithoutAskingSettingOn:
 QualityAssistant.ThemeIcons>>#thumbsDownIcon
 QualityAssistant.ThemeIcons>>#thumbsUpIcon
 QualityAssistant.ThemeIcons>>#thumbsUpIconContents
@@ -80,8 +88,10 @@ Renraku.ReComplainer class>>#complainAbout:
 Renraku.ReComplainer class>>#uuid
 Renraku.ReCritic>>#provideNegativeFeedback:
 Renraku.ReCritic>>#providePositiveFeedback:
+Renraku.ReCritic>>#reportUselessness
 Renraku.ReFeedbacker class>>#negativeFeedback:About:
 Renraku.ReFeedbacker class>>#positiveFeedback:About:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50261
+ScriptLoader50.ScriptLoader>>#update50261
 ScriptLoader50.ScriptLoader>>#update50262

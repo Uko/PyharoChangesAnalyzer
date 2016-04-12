@@ -1,4 +1,6 @@
 FileSystem-Core.FileLocator class>>#initialize
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50619
+ScriptLoader50.ScriptLoader>>#update50619
 ScriptLoader50.ScriptLoader>>#update50620
+SmartSuggestions-Tests.SugsContextTest>>#testWorkspaceIsNotAValidContext

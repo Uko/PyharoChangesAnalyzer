@@ -653,4 +653,5 @@ Morphic-Widgets-Basic.SimpleButtonMorph>>#themedFillStyle
 Morphic-Widgets-Tree.MorphTreeColumnButton>>#themedFillStyle
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50534
+ScriptLoader50.ScriptLoader>>#update50534
 ScriptLoader50.ScriptLoader>>#update50535

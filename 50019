@@ -1,3 +1,5 @@
+Collections-Strings.String>>#allRangesOfSubString:
+Collections-Strings.String>>#findAnySubStr:startingAt:
 Collections-Strings.String>>#findAnySubstring:startingAt:
 Collections-Strings.String>>#findBetweenSubStrs:
 Collections-Strings.String>>#findLastOccurrenceOfString:startingAt:
@@ -6,7 +8,9 @@ Collections-Strings.String>>#findString:startingAt:
 Collections-Strings.String>>#findTokens:includes:
 Collections-Strings.String>>#includesSubstring:
 Collections-Strings.String>>#skipAnySubStr:startingAt:
+Collections-Strings.String>>#subStrings:
 Collections-Strings.String>>#substrings:
+CollectionsTests.StringTest>>#testSubStrings
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsCommaStringMore
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterLastMore
 CollectionsTests.TAsStringCommaAndDelimiterSequenceableTest>>#testAsStringOnDelimiterMore
@@ -49,9 +53,11 @@ SUnit-Core.TAssertable>>#shouldnt:raise:whoseDescriptionIncludes:description:
 ScriptLoader50.ScriptLoader class>>#latestVersionOf:location:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script627
+ScriptLoader50.ScriptLoader>>#update50018
 ScriptLoader50.ScriptLoader>>#update50019
 Text-Core.Text>>#findString:startingAt:
 Text-Core.Text>>#findString:startingAt:caseSensitive:
+Text-Edition.FindReplaceService>>#findNextSubString:inTextMorph:
 Text-Edition.TextEditor>>#findAgain
 Text-Edition.TextEditor>>#findNextString:startingAt:
 Tool-Finder.MethodFinder>>#initialize2

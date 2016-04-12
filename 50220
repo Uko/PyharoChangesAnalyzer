@@ -7,6 +7,11 @@ HelpSystem-Core.ThemeIcons>>#pageIconContents
 HelpSystem-Core.ThemeIcons>>#refreshIcon
 HelpSystem-Core.ThemeIcons>>#refreshIconContents
 Morphic-Widgets-Windows.StandardWindow>>#withText:label:
+Nautilus.ThemeIcons>>#bookIcon
+Nautilus.ThemeIcons>>#bookIconContents
+Nautilus.ThemeIcons>>#refreshIcon
+Nautilus.ThemeIcons>>#refreshIconContents
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50219
+ScriptLoader50.ScriptLoader>>#update50219
 ScriptLoader50.ScriptLoader>>#update50220

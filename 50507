@@ -1,3 +1,5 @@
+Kernel-Tests.BehaviorTest>>#testUncompactClassNotAllowed
+Kernel.Integer class>>#initialize
 Kernel.Object>>#sizeInMemory
 OpalCompiler-Core.CCompilationContext class>>#initialize
 OpalCompiler-Core.CompilationContext class>>#initialize
@@ -13,4 +15,5 @@ Tool-Finder.MethodFinder>>#initialize
 Traits.TBehavior>>#becomeCompact
 Traits.TBehavior>>#becomeCompactSimplyAt:
 Traits.TBehavior>>#becomeUncompact
+Traits.TBehavior>>#checkCanBeUncompact
 Traits.TBehavior>>#isCompact

@@ -1,5 +1,6 @@
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50330
+ScriptLoader50.ScriptLoader>>#update50330
 ScriptLoader50.ScriptLoader>>#update50331
 System-Changes.ChangeSet class>>#promptForDefaultChangeSetDirectoryIfNecessary
 System-Changes.ManifestSystemChanges class>>#manuallyResolvedDependencies

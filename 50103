@@ -25,9 +25,18 @@ ConfigurationOfCatalog.ConfigurationOfCatalog>>#version031:
 ConfigurationOfCatalog.ConfigurationOfCatalog>>#version03:
 ConfigurationOfCatalog.ConfigurationOfCatalog>>#version04:
 Files.MultiByteFileStream>>#nextPreamble
+Kernel.Time>>#asTimeStamp
+Kernel.Timespan>>#asTimeStamp
 Monticello-Tests.MCAnnouncementTest
 Monticello-Tests.MCAnnouncementTest>>#testMCVersionSaved
 Monticello.MCRepository>>#storeVersion:
+Monticello.MCVersionCreated
+Monticello.MCVersionCreated class>>#name:message:version:
+Monticello.MCVersionCreated class>>#name:nameString:version:
+Monticello.MCVersionCreated>>#nameString
+Monticello.MCVersionCreated>>#nameString:
+Monticello.MCVersionCreated>>#version
+Monticello.MCVersionCreated>>#version:
 Monticello.MCVersionSaved
 Monticello.MCVersionSaved class>>#version:repository:
 Monticello.MCVersionSaved>>#=
@@ -37,6 +46,7 @@ Monticello.MCVersionSaved>>#printOn:
 Monticello.MCVersionSaved>>#repository
 Monticello.MCVersionSaved>>#version
 MonticelloGUI.MCWorkingCopyBrowser>>#registerToAnnouncer
+Nautilus.AbstractNautilusUI>>#newMCVersion:
 Nautilus.AbstractNautilusUI>>#registerToMCAnnouncements
 Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithMetaArg
 Reflectivity-Tests.ReflectiveMethodTest>>#testReifyGlobalName
@@ -51,8 +61,10 @@ Reflectivity-Tests.ReflectivityExamples>>#exampleIvarRead
 Reflectivity-Tests.ReflectivityExamples>>#initialize
 Reflectivity.RFThisContextReification>>#genForRBProgramNode
 Reflectivity.RFValueReification>>#genForRBAssignmentNode
+Reflectivity.RFValueReification>>#genForRBTempVariableNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50102
+ScriptLoader50.ScriptLoader>>#update50102
 ScriptLoader50.ScriptLoader>>#update50103
 System-Changes.PositionableStream>>#nextPreamble
 System-Sources.SourceFileArray>>#changeRecordsFrom:className:isMeta:do:

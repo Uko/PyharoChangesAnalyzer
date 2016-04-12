@@ -8,6 +8,7 @@ Nautilus.Nautilus class>>#openOnMethod:inEnvironment:
 Nautilus.Nautilus class>>#openOnPackage:class:category:method:group:sortHierarchically:showHierarchy:showComment:showInstance:showCategories:inEnvironment:
 Nautilus.Nautilus>>#package:
 Nautilus.Nautilus>>#package:class:
+Nautilus.Nautilus>>#package:class:category:method:
 Nautilus.Nautilus>>#package:class:protocol:
 Nautilus.Nautilus>>#package:class:protocol:method:
 Nautilus.Nautilus>>#selectedCategory:
@@ -25,25 +26,33 @@ Nautilus.NautilusUI>>#unselectClass
 Nautilus.PackageTreeNautilusUI>>#registerSelectionGroup:
 Nautilus.PackageTreeNautilusUI>>#registerSelectionPackage:
 NautilusCommon.NautilusClassSelected
+NautilusCommon.NautilusClassSelected class>>#class:
 NautilusCommon.NautilusClassSelected class>>#package:class:
+NautilusCommon.NautilusClassSelected>>#class:
 NautilusCommon.NautilusClassSelected>>#itemClass
 NautilusCommon.NautilusClassSelected>>#selectedClass
 NautilusCommon.NautilusClassSelected>>#selectedClass:
 NautilusCommon.NautilusMethodSelected
+NautilusCommon.NautilusMethodSelected class>>#method:
 NautilusCommon.NautilusMethodSelected class>>#package:class:protocol:method:
 NautilusCommon.NautilusMethodSelected>>#method
+NautilusCommon.NautilusMethodSelected>>#method:
 NautilusCommon.NautilusMethodSelected>>#selectedMethod
 NautilusCommon.NautilusMethodSelected>>#selectedMethod:
 NautilusCommon.NautilusPackageSelected class>>#package:
 NautilusCommon.NautilusPackageSelected>>#package
+NautilusCommon.NautilusPackageSelected>>#package:
 NautilusCommon.NautilusPackageSelected>>#selectedPackage
 NautilusCommon.NautilusPackageSelected>>#selectedPackage:
 NautilusCommon.NautilusProtocolSelected
+NautilusCommon.NautilusProtocolSelected class>>#category:
 NautilusCommon.NautilusProtocolSelected class>>#package:class:protocol:
 NautilusCommon.NautilusProtocolSelected>>#category
+NautilusCommon.NautilusProtocolSelected>>#category:
 NautilusCommon.NautilusProtocolSelected>>#selectedProtocol
 NautilusCommon.NautilusProtocolSelected>>#selectedProtocol:
 NautilusCommon.PackageTasksPlugin>>#updateMethodSelection:
+Reflectivity-Tests.ReflectivityControlTest>>#tearDown
 Reflectivity-Tests.ReflectivityControlTest>>#testAfterArray
 Reflectivity-Tests.ReflectivityControlTest>>#testAfterAssignment
 Reflectivity-Tests.ReflectivityControlTest>>#testAfterBlock
@@ -83,4 +92,5 @@ Reflectivity.RFASTTranslator>>#visitBlockNode:
 Reflectivity.RFASTTranslatorForValue>>#visitSequenceNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50303
+ScriptLoader50.ScriptLoader>>#update50303
 ScriptLoader50.ScriptLoader>>#update50304

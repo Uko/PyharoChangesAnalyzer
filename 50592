@@ -45,4 +45,5 @@ Keymapping-Tests.KeymapBuilderTest>>#testAddKeymapCreatesShortcut
 Keymapping-Tests.KeymapBuilderTest>>#testAttachKeymapAndExecuteExecutes
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50591
+ScriptLoader50.ScriptLoader>>#update50591
 ScriptLoader50.ScriptLoader>>#update50592

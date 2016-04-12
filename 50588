@@ -6,6 +6,7 @@ ConfigurationOfRenraku.ConfigurationOfRenraku>>#v0_11_5:
 Renraku.ReTransformationCritic>>#change
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50587
+ScriptLoader50.ScriptLoader>>#update50587
 ScriptLoader50.ScriptLoader>>#update50588
 Traits.TClass>>#immediateSubclass:instanceVariableNames:classVariableNames:package:
 Traits.TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:package:

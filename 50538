@@ -7,6 +7,7 @@ Morphic-Widgets-ColorPicker.SVColorSelectorMorph>>#hideLocation
 Morphic-Widgets-ColorPicker.SVColorSelectorMorph>>#showLocation
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50537
+ScriptLoader50.ScriptLoader>>#update50537
 ScriptLoader50.ScriptLoader>>#update50538
 UnifiedFFI.FFIExternalObject>>#resourceData
 UnifiedFFI.FFIExternalType class>>#sizeOf:

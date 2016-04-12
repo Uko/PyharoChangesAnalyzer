@@ -3,6 +3,7 @@ SUnit-UITesting.SimulateKeystrokesSpecification>>#testSimulateCmdKeystroke
 SUnit-UITesting.SimulateMouseSpecification>>#testSimulateRightClick
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50193
+ScriptLoader50.ScriptLoader>>#update50193
 ScriptLoader50.ScriptLoader>>#update50194
 Spec-Examples.DropListExample>>#initializeWidgets
 StartupPreferences.SettingDeclaration>>#displayExportAction

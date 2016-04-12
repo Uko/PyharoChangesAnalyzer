@@ -1,4 +1,7 @@
+CodeImport.ChunkFileFormatParser>>#isChunkEnd
+CodeImport.ChunkFileFormatParser>>#isNextChunkMetaData
 CodeImport.ChunkFileFormatParser>>#isNextStyleChunk
+CodeImport.ChunkFileFormatParser>>#next
 CodeImport.ChunkFileFormatParser>>#nextChunk
 CodeImport.ChunkFileFormatParser>>#parseClassOrganization:
 CodeImport.ChunkFileFormatParser>>#parseCommentDeclaration:
@@ -35,6 +38,9 @@ ConfigurationOfRubric.ConfigurationOfRubric>>#stable:
 ConfigurationOfRubric.ConfigurationOfRubric>>#version132:
 Files.AbstractBinaryFileStream
 Files.AbstractBinaryFileStream class>>#on:
+Files.AbstractBinaryFileStream>>#atEnd
+Files.AbstractBinaryFileStream>>#binary
+Files.AbstractBinaryFileStream>>#isStream
 Files.BinaryFileStream>>#contents
 Files.BinaryFileStream>>#reset
 Files.File>>#openForRead
@@ -47,8 +53,12 @@ HudsonBuildTools20.HDCoverageReport>>#setUp
 Kernel.CompiledMethod>>#fileIndex
 Kernel.CompiledMethod>>#filePosition
 Kernel.CompiledMethod>>#getSourceFromFile
+Kernel.CompiledMethod>>#hasSourceCodeInChangesFile
 Kernel.CompiledMethod>>#sourceCode
+Kernel.CompiledMethod>>#sourceFileStream
+Kernel.CompiledMethod>>#sourceFileStreamIfAbsent:
 Kernel.CompiledMethod>>#timeStamp
+Kernel.CompiledMethod>>#timeStampFromFile:
 Kernel.ProtocolOrganizer>>#allMethods
 Manifest-CriticBrowser.CriticsCache>>#criticsOf:
 Manifest-CriticBrowser.CriticsCache>>#toDosOf:
@@ -75,6 +85,7 @@ Monticello.MCStWriter>>#writeMethodPreamble:
 Monticello.MCStWriter>>#writeMethodSource:
 Monticello.MCStWriter>>#writeScriptDefinition:
 Monticello.MCVersionSorter>>#sortedVersionInfos
+MonticelloFileTree-Core.MCFileTreePackageStructureStWriter>>#writeClassDefinition:
 MonticelloFileTree-Core.MCFileTreePackageStructureStWriter>>#writeMethodPreamble:
 MonticelloGUI.MCSnapshotBrowser>>#visibleCategories
 Morphic-Base.MorphicEventHandler>>#mouseSelectorsInclude:
@@ -96,27 +107,36 @@ NautilusRefactoring.RBRefactoring>>#whatToDisplayIn:
 NautilusRefactoring.RBRenameVariableChange>>#whatToDisplayIn:
 NautilusRefactoring.RBSwapMethodRefactoring>>#whatToDisplayIn:
 Network-Kernel.NetNameResolver class>>#localHostName
+OpalCompiler-Core.TBehavior>>#recompileChanges
 Refactoring-Changes.RBAddClassChange class>>#definitionPatterns
 Refactoring-Core.RBRefactoryTyper>>#processCollectionMessagesFor:in:
 Refactoring-Critics.RBCompositeLintRule>>#changes
 Refactoring-Critics.RBCompositeLintRule>>#leaves
 Refactoring-Environment.RBBrowserEnvironmentWrapper>>#packages
+Ring-Core-Kernel.CompiledMethod>>#getSourceFromFile:
 Ring-Monticello.RGMethodDefinition>>#asMCMethodDefinition
 Ring-Monticello.RGMethodDefinition>>#asMCMethodDefinitionFromFile:
 Ring-Monticello.RGMethodDefinition>>#basicAsMCMethodDefinition
 Rubric.RubAbstractTextArea>>#keyStroke:
+Rubric.RubScrolledTextMorph>>#mouseMove:
 SUnit-Core.ClassTestCase>>#selectorsToBeTested
 SUnit-UI.TestRunner>>#findClassesForPackages:
 SUnit-UI.TestRunner>>#selectSubclasses
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50111
+ScriptLoader50.ScriptLoader>>#update50111
 ScriptLoader50.ScriptLoader>>#update50112
 Shout.SHPreferences class>>#applyStyle
 Spec-Core.ComposableModel class>>#specSelectors
+System-Changes.ChangeRecord>>#fileIndex
 System-Sources.PharoChangesCondenser>>#installNewChangesFile
 System-Sources.PharoChangesCondenser>>#shouldCondenseMethod:
+System-Sources.PharoChangesCondenser>>#sourceCodeOfMethod:
+System-Sources.PharoChangesCondenser>>#sourceStreamOfMethod:
+System-Sources.PharoChangesCondenser>>#stampOfMethod:
 System-Sources.PharoChangesCondenser>>#writeMethodSource:
 System-Sources.ProcessAndSessionLocalSourcesFileArray
+System-Sources.RemoteString>>#fileStream
 System-Sources.RemoteString>>#fileStreamDo:
 System-Sources.RemoteString>>#sourceFileNumber
 System-Sources.RemoteString>>#sourcePointer
@@ -148,6 +168,7 @@ System-Support.ProcessAndSessionLocalVariable>>#value:
 System-Support.SmalltalkImage>>#backupTo:
 System-Support.SmalltalkImage>>#forceChangesToDisk
 System-Support.SmalltalkImage>>#saveAs:
+System-Support.SmalltalkImage>>#verifyChanges
 Tests.ChunkImportTestCase>>#importAClass
 Tests.TraitTest>>#testTraitsMethodClassSanity
 Tool-Base.AbstractTool>>#selectorFromPattern:withCaption:startingFrom:
@@ -244,6 +265,7 @@ Tool-CriticBrowser.CriticsCache>>#cacheChange
 Tool-CriticBrowser.CriticsCache>>#cacheChanged
 Tool-CriticBrowser.CriticsCache>>#cacheNotChanged
 Tool-CriticBrowser.CriticsCache>>#checker:
+Tool-CriticBrowser.CriticsCache>>#criticsOf:
 Tool-CriticBrowser.CriticsCache>>#falsePositiveOf:
 Tool-CriticBrowser.CriticsCache>>#initCache
 Tool-CriticBrowser.CriticsCache>>#initialize
@@ -265,6 +287,7 @@ Tool-CriticBrowser.CriticsCache>>#removeFalsePositiveClass:
 Tool-CriticBrowser.CriticsCache>>#removeFalsePositiveRule:forPackage:
 Tool-CriticBrowser.CriticsCache>>#removeToDo:forRule:
 Tool-CriticBrowser.CriticsCache>>#replaceAll:by:
+Tool-CriticBrowser.CriticsCache>>#toDosOf:
 Tool-CriticBrowser.CriticsCache>>#updateBrowser
 Tool-CriticBrowser.ManifestManifestCriticBrowser
 Tool-CriticBrowser.ManifestManifestCriticBrowser class>>#rejectClasses
@@ -404,4 +427,5 @@ Tool-FileList.FileList>>#viewContentsInWorkspace
 Traits.TClassDescription>>#classComment:stamp:
 Traits.TClassDescription>>#fileOutChangedMessages:on:
 Traits.TClassDescription>>#fileOutChangedMessages:on:moveSource:toFile:
+Traits.TClassDescription>>#moveChangesTo:
 Traits.TraitComposition>>#allTraits

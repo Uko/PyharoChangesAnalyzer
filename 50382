@@ -20,4 +20,5 @@ Morphic-Widgets-Basic.MultistateLabelMorph>>#selectedMouseOverColor:
 Morphic-Widgets-Basic.MultistateLabelMorph>>#selectedPressedColor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50381
+ScriptLoader50.ScriptLoader>>#update50381
 ScriptLoader50.ScriptLoader>>#update50382

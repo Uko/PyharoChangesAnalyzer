@@ -47,5 +47,6 @@ Rubric.TViewModel>>#announcer
 Rubric.TViewModel>>#interactionModel
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50146
+ScriptLoader50.ScriptLoader>>#update50146
 ScriptLoader50.ScriptLoader>>#update50147
 SmartSuggestions.SugsBreakpointSuggestion>>#selectedNodeHasMetalink

@@ -1,7 +1,12 @@
 Jobs.Job class>>#current
+Jobs.Job class>>#example
+Jobs.Job class>>#example2
 Jobs.Job class>>#exampleCurrentValue
 Jobs.Job class>>#exampleProgress
 Jobs.Job>>#announcer
+Jobs.Job>>#basicProgress:
+Jobs.Job>>#handleJobProgress:
+Jobs.Job>>#handleJobStart:
 Jobs.Job>>#lookup:ifNone:
 Jobs.Job>>#parent
 Jobs.Job>>#prepareForRunning
@@ -14,12 +19,28 @@ Jobs.JobAnnouncement>>#progress
 Jobs.JobAnnouncement>>#title
 Jobs.JobChange
 Jobs.JobDetector
+Jobs.JobDetector>>#handle:
 Jobs.JobEnd
+Jobs.JobNotification
+Jobs.JobNotification>>#handle:
+Jobs.JobProgress
+Jobs.JobProgress class>>#progress:
+Jobs.JobProgress class>>#title:
+Jobs.JobProgress class>>#title:progress:
+Jobs.JobProgress>>#handle:
+Jobs.JobProgress>>#progress
+Jobs.JobProgress>>#progress:
+Jobs.JobProgress>>#title
+Jobs.JobProgress>>#title:
 Jobs.JobStart
 Jobs.JobStartNotification
+Jobs.JobStartNotification class>>#on:
+Jobs.JobStartNotification>>#handle:
 Jobs.JobStartNotification>>#job
 Jobs.JobStartNotification>>#job:
 KernelTests.JobTest>>#testJobAnnouncements
+KernelTests.JobTest>>#testProgressNotification
+KernelTests.JobTest>>#testProgressNotificationChildJob
 Reflectivity-Tests.MetaLinkTest>>#testCotrolInstead
 Reflectivity-Tests.ReflectiveMethodTest>>#testReplaceSimple
 Reflectivity.RBProgramNode>>#hasMetalinkInstead
@@ -29,5 +50,6 @@ Reflectivity.RFASTTranslator>>#visitNode:
 Reflectivity.RFSemanticAnalyzer>>#analyseForLinks:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50135
+ScriptLoader50.ScriptLoader>>#update50135
 ScriptLoader50.ScriptLoader>>#update50136
 UIManager.Collection>>#do:displayingProgress:every:

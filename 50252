@@ -1,10 +1,15 @@
 AST-Core.RBParser>>#initializeParserWith:
 Collections-Streams.ManifestCollectionsStreams class>>#manuallyResolvedDependencies
 Collections-Streams.WriteStream>>#nextChunkPut:
+Collections-Streams.WriteStream>>#nextChunkPutWithStyle:
 Collections-Streams.WriteStream>>#timeStamp
 Collections-Strings.ManifestCollectionsStrings class>>#manuallyResolvedDependencies
 Collections-Strings.WideString>>#includesUnifiedCharacter
 Collections-Strings.WideString>>#isUnicodeStringWithCJK
+Compression.Bitmap>>#compressGZip
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50251
+ScriptLoader50.ScriptLoader>>#update50251
 ScriptLoader50.ScriptLoader>>#update50252
+Transcript.ThreadSafeTranscript>>#black
+Transcript.ThreadSafeTranscript>>#white

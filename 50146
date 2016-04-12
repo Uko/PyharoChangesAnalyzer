@@ -18,7 +18,9 @@ SUnit-UI.TestRunner>>#promptForPackages
 SUnit-UI.TestRunner>>#runCoverage
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50145
+ScriptLoader50.ScriptLoader>>#update50145
 ScriptLoader50.ScriptLoader>>#update50146
+Slot.SlotClassBuilder>>#copyTraitCompositionFromExistingClass
 Slot.TClass>>#removeSlot:
 Traits.TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Traits.TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

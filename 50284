@@ -6,10 +6,13 @@ OpalTools.OCClassScope>>#gtInspectorSourceCodeIn:
 OpalTools.OCInstanceScope>>#gtInspectorSourceCodeIn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50283
+ScriptLoader50.ScriptLoader>>#update50283
 ScriptLoader50.ScriptLoader>>#update50284
 Slot.AbstractLayout>>#instVarNames
+Slot.AbstractLayout>>#instanceVariables
 Slot.ClassDescription>>#superclass:layout:
 Slot.PointerLayout>>#instVarNames
+Slot.PointerLayout>>#instanceVariables
 Traits.TClassDescription>>#instVarIndexFor:ifAbsent:
 Traits.TClassDescription>>#instVarNameForIndex:
 Traits.TClassDescription>>#instVarNamesAndOffsetsDo:

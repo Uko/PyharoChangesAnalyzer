@@ -2,4 +2,9 @@ Morphic-Base.TextMorph>>#mouseDown:
 Rubric.RubExtraSelectionDecorator>>#computeSecondarySelectionShapesFrom:to:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50487
+ScriptLoader50.ScriptLoader>>#update50487
 ScriptLoader50.ScriptLoader>>#update50488
+Watchpoints.CircularCollection
+Watchpoints.CircularCollection class>>#new:
+Watchpoints.CircularCollection>>#initialize
+Watchpoints.CircularCollection>>#initialize:

@@ -16,6 +16,8 @@ Morphic-Widgets-FastTable.FTBasicItem>>#expandedButton
 Morphic-Widgets-FastTable.FTBasicItem>>#generateButton
 Morphic-Widgets-FastTable.FTBasicItem>>#initialize
 Morphic-Widgets-FastTable.FTBasicItem>>#recentlyChanged
+Morphic-Widgets-FastTable.FTBasicItem>>#unexpand
+Morphic-Widgets-FastTable.FTBasicItem>>#unexpandAndRefresh
 Morphic-Widgets-FastTable.FTBasicItem>>#unexpandedButton
 Morphic-Widgets-FastTable.FTCellMorph>>#drawOn:
 Morphic-Widgets-FastTable.FTCellMorph>>#seperatorColor
@@ -45,7 +47,10 @@ Morphic-Widgets-FastTable.FTTableContainerMorph>>#canRefreshValues
 Morphic-Widgets-FastTable.FTTableContainerMorph>>#drawOn:
 Morphic-Widgets-FastTable.FTTableContainerMorph>>#exposedRows
 Morphic-Widgets-FastTable.FTTableMorph
+Morphic-Widgets-FastTable.FTTableMorph class>>#with:
 Morphic-Widgets-FastTable.FTTableMorph>>#autoScrollHeightLimit
+Morphic-Widgets-FastTable.FTTableMorph>>#backgroundColor
+Morphic-Widgets-FastTable.FTTableMorph>>#backgroundColor:
 Morphic-Widgets-FastTable.FTTableMorph>>#dataSource:
 Morphic-Widgets-FastTable.FTTableMorph>>#defaultColor
 Morphic-Widgets-FastTable.FTTableMorph>>#handleMouseMove:
@@ -73,4 +78,5 @@ Morphic-Widgets-FastTable.FTTreeItem>>#recentlyChanged
 Morphic-Widgets-FastTable.FTTreeItem>>#selectedRowsIndexesFrom:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50489
+ScriptLoader50.ScriptLoader>>#update50489
 ScriptLoader50.ScriptLoader>>#update50490

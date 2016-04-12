@@ -1,15 +1,29 @@
 ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
 ConfigurationOfCatalog.ConfigurationOfCatalog>>#version_0_10:
+Nautilus.AbstractCategoryWidget
+Nautilus.AbstractCategoryWidget>>#buildCategoriesList
 Nautilus.AbstractCategoryWidget>>#categoriesMenu:shifted:
+Nautilus.AbstractCategoryWidget>>#categoriesSelection
 Nautilus.AbstractCategoryWidget>>#categoryIconFor:
 Nautilus.AbstractCategoryWidget>>#dragPassengersFor:inMorph:
 Nautilus.AbstractCategoryWidget>>#dropMethod:inARow:
+Nautilus.AbstractCategoryWidget>>#keyPressedOnCategory:
+Nautilus.AbstractCategoryWidget>>#label:
 Nautilus.AbstractCategoryWidget>>#okToChange
+Nautilus.AbstractCategoryWidget>>#resetCategoryList
+Nautilus.AbstractCategoryWidget>>#resetCategorySelection
+Nautilus.AbstractCategoryWidget>>#searchedElement:
+Nautilus.AbstractCategoryWidget>>#selectedCategories
 Nautilus.AbstractCategoryWidget>>#selectedCategory
 Nautilus.AbstractCategoryWidget>>#showInstance
+Nautilus.AbstractCategoryWidget>>#takeKeyboardFocus
 Nautilus.AbstractCategoryWidget>>#updateCategoryList
+Nautilus.AbstractCategoryWidget>>#vScrollValue
+Nautilus.AbstractCategoryWidget>>#vScrollValue:
 Nautilus.AbstractCategoryWidget>>#wantsDroppedMorph:event:inMorph:
 Nautilus.CategoryWidget
+Nautilus.CategoryWidget class>>#buildProtocolShortcutsOn:
+Nautilus.CategoryWidget class>>#categoriesMenu:
 Nautilus.MethodWidget>>#initialize
 Nautilus.MethodWidget>>#methodSelectionAt:
 Nautilus.MethodWidget>>#methodSelectionAt:put:
@@ -20,5 +34,6 @@ Nautilus.MethodWidget>>#selectedMethods
 NautilusCommon.PackageTasksPlugin>>#updateMethodSelection:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50431
+ScriptLoader50.ScriptLoader>>#update50431
 ScriptLoader50.ScriptLoader>>#update50432
 Tool-Catalog.GTSpotter>>#spotterCatalogProjectsFor:

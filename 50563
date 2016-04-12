@@ -1,10 +1,12 @@
 Deprecated50.Morph>>#submorphNamed:
 Flashback-Decompiler.FBDDecompiler>>#interpretMethod:
 Flashback-Decompiler.FBDDecompiler>>#maybeSkipCallPrimitiveBytecode:
+Morphic-Core.Morph>>#submorphNamed:
 Morphic-Core.Morph>>#submorphNamed:ifNone:
 OpalCompiler-Core.OCClassScope>>#class:
 OpalCompiler-Core.OCClassScope>>#getClass
 OpalCompiler-Core.OCLiteralVariable>>#isFromSharedPool
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50562
+ScriptLoader50.ScriptLoader>>#update50562
 ScriptLoader50.ScriptLoader>>#update50563

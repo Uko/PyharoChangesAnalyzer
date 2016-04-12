@@ -3,4 +3,5 @@ OpalCompiler-Core.OCASTTranslator>>#emitCaseOf:otherwiseBlock:
 OpalCompiler-Core.OCASTTranslator>>#emitCaseOfOtherwise:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50066
+ScriptLoader50.ScriptLoader>>#update50066
 ScriptLoader50.ScriptLoader>>#update50067

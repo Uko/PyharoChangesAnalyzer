@@ -37,4 +37,5 @@ Ring-Core-Kernel.RGMethodDefinition>>#protocol
 Ring-Monticello.MCMethodDefinition>>#asRingDefinition
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50087
+ScriptLoader50.ScriptLoader>>#update50087
 ScriptLoader50.ScriptLoader>>#update50088

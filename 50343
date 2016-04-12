@@ -1,3 +1,4 @@
+AST-Core.RBParser>>#parseNegatedNumber
 AST-Core.RBParser>>#parsePrimitiveObject
 AST-Tests-Core.RBParserTest>>#testNegativeNumberError
 Reflectivity-Tests.MetaLinkTest>>#testAvailableReifications
@@ -8,4 +9,5 @@ Reflectivity.RFASTTranslator>>#emitPrepareLinkAfter:
 Reflectivity.Slot>>#availableReifications
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50342
+ScriptLoader50.ScriptLoader>>#update50342
 ScriptLoader50.ScriptLoader>>#update50343

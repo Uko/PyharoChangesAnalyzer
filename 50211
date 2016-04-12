@@ -20,6 +20,7 @@ Nautilus.AbstractNautilusUI
 Polymorph-Widgets.SystemWindow>>#mouseMove:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50210
+ScriptLoader50.ScriptLoader>>#update50210
 ScriptLoader50.ScriptLoader>>#update50211
 Shout.SHRBTextStyler>>#styleCloseParenthese:
 Shout.SHRBTextStyler>>#visitSequenceNode:

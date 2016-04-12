@@ -1,6 +1,11 @@
 DebuggerModel.DebugSession>>#terminate
 Morphic-Base.DropFilesEvent>>#sentTo:
 Morphic-Core.DropEvent>>#sentTo:
+NautilusCommon.AnnotationRequest>>#documentation
+NautilusCommon.AnnotationRequest>>#firstComment
+NautilusCommon.AnnotationRequest>>#masterComment
+NautilusCommon.AnnotationRequest>>#priorVersionsCount
+NautilusCommon.AnnotationRequest>>#recentChangeSet
 Reflectivity-Examples.BreakpointIconStyler
 Reflectivity-Examples.BreakpointIconStyler>>#highlightColor
 Reflectivity-Examples.BreakpointIconStyler>>#icon
@@ -57,5 +62,6 @@ Reflectivity.Breakpoint>>#once
 Reflectivity.Breakpoint>>#remove
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50466
+ScriptLoader50.ScriptLoader>>#update50466
 ScriptLoader50.ScriptLoader>>#update50467
 Tools.SyntaxErrorDebugger>>#release

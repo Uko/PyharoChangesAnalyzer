@@ -8,10 +8,12 @@ Manifest-Core.TheManifestBuilder>>#removeRejectClass:
 Manifest-Core.TheManifestBuilder>>#unwrap:
 Reflectivity.CompiledMethod>>#metaLinkOptions
 Reflectivity.RBMethodNode>>#metaLinkOptions
+Reflectivity.RFSemanticAnalyzer>>#declareVariableNode:
 Reflectivity.RFSemanticAnalyzer>>#visitStorePopIntoTempNode:
 Reflectivity.Set>>#metaLinkOptions
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50426
+ScriptLoader50.ScriptLoader>>#update50426
 ScriptLoader50.ScriptLoader>>#update50427
 Spec-Tools.VersionBrowser>>#showSourceWithConverter:
 Tool-Base.AbstractTool>>#compileANewClassFrom:notifying:startingFrom:

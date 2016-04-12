@@ -17,4 +17,5 @@ MonticelloGUI.MCWorkingCopyBrowser>>#updateRepositoryList
 Ring-Core-Kernel.ChangeRecord>>#createMethodDefinition
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50418
+ScriptLoader50.ScriptLoader>>#update50418
 ScriptLoader50.ScriptLoader>>#update50419

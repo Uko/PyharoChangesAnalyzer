@@ -1,5 +1,6 @@
 Nautilus.AbstractNautilusUI>>#browseVariableReferences
 Nautilus.AbstractNautilusUI>>#buildVariableMenuFor:variablesFrom:menuItemBy:
+Nautilus.AbstractNautilusUI>>#buildVariableReferencesMenuFrom:withIcon:contentBy:
 Reflectivity-Tests.ReflectiveMethodTest>>#testSetLinkOnInstanceVariableAndUninstall
 Reflectivity-Tests.ReflectivityControlTest>>#testAfterClassVariable
 Reflectivity-Tests.ReflectivityControlTest>>#testLinkoptionInlineCondition
@@ -27,4 +28,5 @@ Reflectivity.RFVariableReification class>>#nodes
 Reflectivity.Slot>>#removeLink:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50348
+ScriptLoader50.ScriptLoader>>#update50348
 ScriptLoader50.ScriptLoader>>#update50349

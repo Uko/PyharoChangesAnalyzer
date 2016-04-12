@@ -1,6 +1,14 @@
 Refactoring-Critics.ClassTestCase>>#testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses
 Refactoring-Critics.RBEquivalentSuperclassMethodsRule>>#checkMethod:
 Refactoring-Critics.RBEquivalentSuperclassMethodsRule>>#ignoredSelectors
+Refactoring-Critics.RBEquivalentSuperclassMethodsRule>>#severity
+Refactoring-Critics.RBRepeteadMethodsInTheSuperclassRule
+Refactoring-Critics.RBRepeteadMethodsInTheSuperclassRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBRepeteadMethodsInTheSuperclassRule>>#category
+Refactoring-Critics.RBRepeteadMethodsInTheSuperclassRule>>#checkClass:
+Refactoring-Critics.RBRepeteadMethodsInTheSuperclassRule>>#find:inSuperclassesOf:do:
+Refactoring-Critics.RBRepeteadMethodsInTheSuperclassRule>>#name
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script619
+ScriptLoader50.ScriptLoader>>#update50010
 ScriptLoader50.ScriptLoader>>#update50011

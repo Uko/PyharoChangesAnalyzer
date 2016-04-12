@@ -1,0 +1,19 @@
+Keymapping-Core.KMBuffer>>#partialMatch
+Keymapping-Core.KMCategoryBinding>>#completeMatch:buffer:
+Keymapping-Core.KMCategoryTarget>>#completeMatch:buffer:
+Keymapping-Core.KMDispatcher>>#completeMatch:buffer:
+Keymapping-Core.KMDispatcher>>#dispatchKeystroke:
+Keymapping-Core.KMLog class>>#log:
+Keymapping-Core.KMLog class>>#logCompleteMatch:
+Keymapping-Core.KMLog class>>#logCompleteMatchBetween:and:
+Keymapping-Core.KMLog class>>#logPartialMatch:
+Keymapping-Core.KMLog class>>#logger
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50675
+ScriptLoader50.ScriptLoader>>#update50675
+ScriptLoader50.ScriptLoader>>#update50676
+Slot-Tests.GlobalVariableTest>>#testSmalltalkNotDoubleSymbol
+Slot.GlobalVariable>>#literalEqual:
+Tool-Diff.PSMCPatchMorph>>#changeTreeKey:
+Tool-Diff.PSMCPatchMorph>>#changesMenu:
+Tool-Diff.PSMCPatchMorph>>#selectionHasAcutalClass

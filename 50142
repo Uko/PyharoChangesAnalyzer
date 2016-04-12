@@ -22,4 +22,5 @@ Rubric.RubStringMorphEditorProvider>>#whenEditorDeleted:
 Rubric.RubStringMorphEditorProvider>>#whenTextAccepted:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50141
+ScriptLoader50.ScriptLoader>>#update50141
 ScriptLoader50.ScriptLoader>>#update50142

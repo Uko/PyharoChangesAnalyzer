@@ -10,8 +10,11 @@ Morphic-Widgets-Basic.PluggableButtonMorph>>#label:
 Morphic-Widgets-Basic.PluggableButtonMorph>>#newLabel
 Morphic-Widgets-Basic.PluggableButtonMorph>>#update:
 Network-Kernel.NetworkSystemSettings class>>#isAnExceptionFor:
+OpalCompiler-Tests.OCPragmaTest>>#methodApicall
+OpalCompiler-Tests.OCPragmaTest>>#testApicall
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50615
+ScriptLoader50.ScriptLoader>>#update50615
 ScriptLoader50.ScriptLoader>>#update50616
 Spec-Core.ButtonModel
 Spec-Core.ButtonModel>>#font

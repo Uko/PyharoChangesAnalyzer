@@ -1,3 +1,4 @@
+AST-Core.RBScanner>>#flush
 Kernel.CompiledMethod>>#readsSlot:
 Kernel.Timespan>>#includesAll:
 Kernel.Timespan>>#includesAny:
@@ -8,4 +9,5 @@ Reflectivity.Breakpoint>>#haltLinkOneShot
 Reflectivity.RFMetaContext>>#shiftLevelUp
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50186
+ScriptLoader50.ScriptLoader>>#update50186
 ScriptLoader50.ScriptLoader>>#update50187

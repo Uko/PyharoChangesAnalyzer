@@ -2,13 +2,17 @@ CodeExport.ChunkWriteStream>>#nextPut:
 CodeImport.ChunkFileFormatParser>>#parseMethodDeclarations:
 CodeImport.ChunkReadStream>>#basicNextChunk
 CodeImport.ChunkReadStream>>#decodeString:andRuns:
+CodeImport.ChunkReadStream>>#isChunkEnd
 CodeImport.ChunkReadStream>>#next
 CodeImport.ChunkReadStream>>#parseLangTagFor:
 Collections-Unordered.Dictionary>>#unreferencedKeys
+Collections-Unordered.SmallDictionary>>#removeUnreferencedKeys
+Collections-Unordered.SmallDictionary>>#unreferencedKeys
 Graphics-Primitives.Color>>#asHexString
 Graphics-Tests.ColorTest>>#testAsHexString
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50288
+ScriptLoader50.ScriptLoader>>#update50288
 ScriptLoader50.ScriptLoader>>#update50289
 Tests.ChunkImportTestCase>>#testExportAMethodWithLangTag
 Tests.ChunkImportTestCase>>#testImportAMethodWithLangTag

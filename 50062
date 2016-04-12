@@ -5,7 +5,10 @@ Reflectivity.RFSemanticAnalyzer>>#visitNode:
 Reflectivity.ReflectiveMethod>>#recompileAST
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50061
+ScriptLoader50.ScriptLoader>>#update50061
 ScriptLoader50.ScriptLoader>>#update50062
+Slot.OldClassBuilderAdapter>>#superclass:variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Slot.OldClassBuilderAdapter>>#superclass:variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Slot.TClass>>#removeSlot:
 Traits.TClass>>#variableByteSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Traits.TClass>>#variableWordSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

@@ -7,5 +7,6 @@ SUnit-UI.TestRunner>>#buildCategorySearch
 SUnit-UI.TestRunner>>#buildClassesSearch
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script640
+ScriptLoader50.ScriptLoader>>#update50031
 ScriptLoader50.ScriptLoader>>#update50032
 Spec-Core.WindowModel>>#aboutTitle

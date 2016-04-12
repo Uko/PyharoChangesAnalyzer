@@ -1,0 +1,8 @@
+AST-Core.BISimpleFormatter>>#formatArray:
+AST-Tests-Core.RBFormatterTest>>#testLiteralDynamicArray
+BlueInk-Core.BIConfigurableFormatter>>#formatArray:
+ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
+ScriptLoader50.ScriptLoader>>#script50641
+ScriptLoader50.ScriptLoader>>#update50641
+ScriptLoader50.ScriptLoader>>#update50642
+Settings-Polymorph.PolymorphSystemSettings class>>#desktopBackgroundChanged

@@ -13,6 +13,7 @@ Nautilus.NautilusUI>>#unselectClass
 Nautilus.NautilusUI>>#updateOnClassSelection
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50074
+ScriptLoader50.ScriptLoader>>#update50074
 ScriptLoader50.ScriptLoader>>#update50075
 Text-Edition.SimpleEditor class>>#initializeCmdKeyShortcuts
 Text-Edition.SimpleEditor class>>#initializeShiftCmdKeyShortcuts

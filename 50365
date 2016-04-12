@@ -6,6 +6,7 @@ MonticelloGUI.MCTool>>#summary:
 MonticelloGUI.MCTool>>#textMorph:
 Rubric.RubAbstractTextArea>>#acceptContents
 Rubric.RubAbstractTextArea>>#lookupMenu
+Rubric.RubEditingArea>>#beForMinimalEditor
 Rubric.RubEditingMode
 Rubric.RubEditingMode class>>#menuKeyword
 Rubric.RubEditingMode>>#acceptAllowed
@@ -13,14 +14,21 @@ Rubric.RubEditingMode>>#acceptAllowed:
 Rubric.RubEditingMode>>#initialize
 Rubric.RubEditingMode>>#isCodeCompletionAllowed
 Rubric.RubFloatingEditorBuilder>>#buildEditor
+Rubric.RubMinimalEditorMode
+Rubric.RubMinimalEditorMode class>>#menuKeyword
+Rubric.RubNullGetMenuPolicy
+Rubric.RubNullGetMenuPolicy>>#lookupMenu
+Rubric.RubNullGetMenuPolicy>>#lookupShiftMenu
 Rubric.RubPlainTextMode class>>#menuOn:
 Rubric.RubScrolledTextMorph>>#allowMenu
+Rubric.RubScrolledTextMorph>>#beForMinimalEditor
 Rubric.RubScrolledTextMorph>>#forbidMenu
 Rubric.RubScrolledTextMorph>>#menuAllowed:
 Rubric.RubScrolledTextMorph>>#on:text:accept:readSelection:menu:
 Rubric.RubTextEditor>>#dispatchCommandOn:return:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50364
+ScriptLoader50.ScriptLoader>>#update50364
 ScriptLoader50.ScriptLoader>>#update50365
 Tools.SyntaxErrorDebugger class>>#buildMorphicViewOn:
 Tools.SyntaxErrorDebugger>>#contents:notifying:

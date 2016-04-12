@@ -6,4 +6,6 @@ Reflectivity.MetaLink>>#installOn:
 Reflectivity.MetaLink>>#metaLinkOptions:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50183
+ScriptLoader50.ScriptLoader>>#update50183
 ScriptLoader50.ScriptLoader>>#update50184
+Tool-Base.AbstractTool>>#renamePackages:

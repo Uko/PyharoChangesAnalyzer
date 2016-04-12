@@ -1,9 +1,13 @@
+Graphics-Resources.ThemeIcons>>#paintTabIconContents
+Polymorph-Widgets.ThemeIcons>>#paintTabIcon
 Reflectivity-Tests.ReflectiveMethodTest>>#tagExec
 Reflectivity-Tests.ReflectiveMethodTest>>#testLinkWithCondition
 Reflectivity-Tests.ReflectivityExamples>>#exampleMethod
+Reflectivity.MetaLink>>#asLiteralNode
 Reflectivity.MetaLink>>#hook
 Reflectivity.Object>>#asLiteralNode
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script625
+ScriptLoader50.ScriptLoader>>#update50016
 ScriptLoader50.ScriptLoader>>#update50017
 Shout.SHTextStylerST80 class>>#attributesFor:pixelHeight:

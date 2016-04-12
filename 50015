@@ -3,5 +3,6 @@ SUnit-UI.TestRunner>>#buttons
 SUnit-UI.TestRunner>>#collectCoverageFor:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script623
+ScriptLoader50.ScriptLoader>>#update50014
 ScriptLoader50.ScriptLoader>>#update50015
 Traits.TClass>>#removeInstVarNamed:

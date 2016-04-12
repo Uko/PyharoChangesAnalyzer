@@ -5,9 +5,13 @@ ConfigurationOfCatalog.ConfigurationOfCatalog>>#stable:
 ConfigurationOfCatalog.ConfigurationOfCatalog>>#version05:
 NautilusRefactoring.ChangesBrowser
 NautilusRefactoring.ChangesBrowser>>#buildDiffFor:
+NautilusRefactoring.ChangesBrowser>>#change:
 NautilusRefactoring.ChangesBrowser>>#changes:
 NautilusRefactoring.ChangesBrowser>>#pickedChanges
 NautilusRefactoring.ChangesBrowser>>#updateChanges
+RPackage-Core.RPackage>>#includesMethodReference:
+RPackage-Core.RPackage>>#removeDefinedMethod:forClass:
+RPackage-Core.RPackageSet>>#includesMethodReference:
 RPackage-SystemIntegration.ClassRepackaged
 RPackage-SystemIntegration.ClassRepackaged class>>#classRepackaged:oldPackage:newPackage:
 RPackage-SystemIntegration.ClassRepackaged>>#classRepackaged
@@ -38,4 +42,5 @@ RPackage-SystemIntegration.SystemAnnouncer>>#classRepackaged:from:to:
 RPackage-SystemIntegration.SystemAnnouncer>>#methodRepackaged:from:to:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50104
+ScriptLoader50.ScriptLoader>>#update50104
 ScriptLoader50.ScriptLoader>>#update50105

@@ -10,5 +10,6 @@ Reflectivity.MetaLink>>#methods
 Rubric.RubSmalltalkEditor class>>#menuOn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50449
+ScriptLoader50.ScriptLoader>>#update50449
 ScriptLoader50.ScriptLoader>>#update50450
 SmartSuggestions.SugsMenuBuilder class>>#buildContextMenuOn:

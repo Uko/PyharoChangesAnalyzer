@@ -1,7 +1,12 @@
 AST-Core.RBParser>>#parseCascadeMessage
 AST-Tests-Core.RBParserTest>>#testCascade
+Deprecated50.HelpIconsTest
+Deprecated50.HelpIconsTest>>#defaultTestClass
+Deprecated50.HelpIconsTest>>#testIconCaching
 Morphic-Core.Morph>>#flash
+Morphic-Core.Morph>>#flashDone:
 Morphic-Core.Morph>>#flashFinished:original:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50582
+ScriptLoader50.ScriptLoader>>#update50582
 ScriptLoader50.ScriptLoader>>#update50583

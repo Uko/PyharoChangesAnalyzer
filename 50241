@@ -9,6 +9,20 @@ Nautilus.AbstractNautilusUI>>#buildBrowseVariablesButton
 Nautilus.AbstractNautilusUI>>#buildCommentButton
 Nautilus.AbstractNautilusUI>>#buildHierarchyButton
 Nautilus.AbstractNautilusUI>>#buildInstanceButton
+Refactoring-Critics.RBFutureDeprecationWarningRule
+Refactoring-Critics.RBFutureDeprecationWarningRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBFutureDeprecationWarningRule>>#checkMethod:
+Refactoring-Critics.RBFutureDeprecationWarningRule>>#group
+Refactoring-Critics.RBFutureDeprecationWarningRule>>#name
+Refactoring-Critics.RBFutureDeprecationWarningRule>>#oldSelectors
+Refactoring-Critics.RBFutureDeprecationWarningRule>>#plannedSelectorRenames
+Refactoring-Critics.RBMissingYourselfRule
+Refactoring-Critics.RBMissingYourselfRule class>>#uniqueIdentifierName
+Refactoring-Critics.RBMissingYourselfRule>>#group
+Refactoring-Critics.RBMissingYourselfRule>>#initialize
+Refactoring-Critics.RBMissingYourselfRule>>#name
+Refactoring-Critics.RBMissingYourselfRule>>#rationale
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50240
+ScriptLoader50.ScriptLoader>>#update50240
 ScriptLoader50.ScriptLoader>>#update50241

@@ -11,6 +11,7 @@ Reflectivity.HookGenerator>>#link:
 Reflectivity.HookGenerator>>#selectorForNode
 Reflectivity.HookGenerator>>#setupTable
 Reflectivity.MetaLink>>#encloseInBlock:
+Reflectivity.MetaLink>>#hook
 Reflectivity.MetaLink>>#hookOn:
 Reflectivity.MetaLink>>#valueInContext:
 Reflectivity.MetaLink>>#wrapCondition:
@@ -20,5 +21,8 @@ Reflectivity.RFReification>>#link:
 Reflectivity.RFReification>>#node:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50055
+ScriptLoader50.ScriptLoader>>#update50055
 ScriptLoader50.ScriptLoader>>#update50056
+Slot.OldClassBuilderAdapter>>#superclass:subclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
+Slot.OldClassBuilderAdapter>>#superclass:variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:
 Traits.TClass>>#variableSubclass:instanceVariableNames:classVariableNames:poolDictionaries:category:

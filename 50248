@@ -1,11 +1,40 @@
 Kernel.Rectangle>>#intersect:ifNone:
+Komitter.BigCogInitialState
+Komitter.BigCogInitialState class>>#imageData
+Komitter.BigCogInitialState class>>#size
+Komitter.BigCogInitialState>>#nextState
+Komitter.BigCogInitialState>>#stepTime
+Komitter.BigCogState2
+Komitter.BigCogState2 class>>#imageData
+Komitter.BigCogState2 class>>#size
+Komitter.BigCogState2>>#nextState
+Komitter.BigCogState2>>#stepTime
+Komitter.BigCogState3
+Komitter.BigCogState3 class>>#imageData
+Komitter.BigCogState3 class>>#size
+Komitter.BigCogState3>>#nextState
+Komitter.BigCogState3>>#stepTime
 Komitter.KomitterUI>>#initializeWidgets
 Komitter.KomitterUI>>#populateTreeFor:
+Komitter.TreeWithLoading
+Komitter.TreeWithLoading class>>#defaultSpec
+Komitter.TreeWithLoading>>#doesNotUnderstand:
+Komitter.TreeWithLoading>>#initialize
+Komitter.TreeWithLoading>>#initializeWidgets
+Komitter.TreeWithLoading>>#loading
+Komitter.TreeWithLoading>>#loading:
+Komitter.TreeWithLoading>>#loadingAnimation
+Komitter.TreeWithLoading>>#loadingSpec
+Komitter.TreeWithLoading>>#showLoading
+Komitter.TreeWithLoading>>#showTree
+Komitter.TreeWithLoading>>#tree
+Komitter.TreeWithLoading>>#treeSpec
 Manifest-Core.TheManifestBuilder>>#packageNameOf:
 MonticelloGUI.MCWorkingCopyBrowser>>#defaultExtent
 Nautilus.Nautilus class>>#parentOfClass:
 Refactoring-Critics.RBRefersToClassRule>>#checkClass:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50247
+ScriptLoader50.ScriptLoader>>#update50247
 ScriptLoader50.ScriptLoader>>#update50248
 System-Support.TBehavior>>#allCallsOn

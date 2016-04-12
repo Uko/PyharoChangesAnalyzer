@@ -9,6 +9,10 @@ MonticelloGUI.MCWorkingCopyBrowserTest>>#testRepositories
 MonticelloGUI.MCWorkingCopyBrowserTest>>#testRepositoriesIncludeCache
 MonticelloGUI.MCWorkingCopyBrowserTest>>#testRepositoryList
 OpalCompiler-Core.OCASTSemanticAnalyzer>>#unusedVariable:
+OpalCompiler-Core.OCUnusedVariableWarning
+OpalCompiler-Core.OCUnusedVariableWarning>>#defaultAction
+OpalCompiler-Core.OCUnusedVariableWarning>>#node:
+OpalCompiler-Tests.OCCompilerExceptionsTest>>#testUnusedVariable
 Reflectivity-Tools.SemanticWarningIconStyler
 Reflectivity-Tools.SemanticWarningIconStyler>>#highlightColor
 Reflectivity-Tools.SemanticWarningIconStyler>>#iconFor:
@@ -16,6 +20,8 @@ Reflectivity-Tools.SemanticWarningIconStyler>>#iconLabel:
 Reflectivity-Tools.SemanticWarningIconStyler>>#shouldStyleNode:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50475
+ScriptLoader50.ScriptLoader>>#update50475
 ScriptLoader50.ScriptLoader>>#update50476
 Spec-Debugger.SpecDebugger
 Spec-Debugger.SpecDebugger>>#initialize
+Spec-Debugger.SpecDebugger>>#onWidgetBuilt

@@ -29,6 +29,7 @@ QualityAssistant.QANautilusPlugin>>#currentEntity
 QualityAssistant.QANautilusPlugin>>#methodSelected:
 QualityAssistant.QANautilusPlugin>>#otherSelected:
 QualityAssistant.QANautilusPlugin>>#registerTo:
+QualityAssistant.QANautilusPlugin>>#selectionChanged:
 QualityAssistant.QANautilusPluginMorph>>#displayCritic:
 QualityAssistant.QANautilusPluginMorph>>#fixAutomatically:
 QualityAssistant.QASettings
@@ -50,6 +51,8 @@ QualityAssistant.RBRefactoryChange>>#diffedText
 QualityAssistant.ReAbstractCritic>>#gtInspectorSourceCodeIn:
 QualityAssistant.ReAbstractCritic>>#guidedSkip
 QualityAssistant.ReCritic>>#gtInspectorDescriptionIn:
+QualityAssistant.ReCritic>>#gtInspectorSourceCodeIn:
+QualityAssistant.ReCritic>>#guidedSkip
 QualityAssistant.ReCritic>>#icon
 QualityAssistant.ReCritic>>#popDescriptionUp
 QualityAssistant.ReCritic>>#spotterPreviewCodeIn:
@@ -57,6 +60,7 @@ QualityAssistant.ReCritic>>#spotterPreviewRationaleIn:
 QualityAssistant.TBehavior>>#gtInspectorCriticsIn:
 QualityAssistant.TBehavior>>#spotterQACriticsFor:
 Renraku-Test.ReCriticTest>>#testDescription
+Renraku-Test.ReCriticTest>>#testIsAutoFixable
 Renraku-Test.ReCriticTest>>#testRule
 Renraku-Test.ReCriticTest>>#testTarget
 Renraku-Test.ReCriticTest>>#testTitle
@@ -76,13 +80,21 @@ Renraku.ReAbstractCritic>>#change
 Renraku.ReAbstractCritic>>#providesChange
 Renraku.ReAbstractCritic>>#providesSelection
 Renraku.ReAbstractCritic>>#selection
+Renraku.ReCritic
 Renraku.ReCritic class>>#for:by:
+Renraku.ReCritic class>>#for:by:at:
 Renraku.ReCritic>>#ban
 Renraku.ReCritic>>#description
+Renraku.ReCritic>>#fixAutomatically
+Renraku.ReCritic>>#hasSelection
 Renraku.ReCritic>>#initializeRule:target:
+Renraku.ReCritic>>#initializeRule:target:selection:
+Renraku.ReCritic>>#isAutofixable
 Renraku.ReCritic>>#provideNegativeFeedback:
 Renraku.ReCritic>>#providePositiveFeedback:
 Renraku.ReCritic>>#rule
+Renraku.ReCritic>>#selection
+Renraku.ReCritic>>#suggestedCode
 Renraku.ReCritic>>#target
 Renraku.ReCritic>>#title
 Renraku.ReEngine
@@ -96,6 +108,7 @@ Renraku.ReEngine>>#initializeRules
 Renraku.ReEngine>>#methodRules
 Renraku.ReEngine>>#notifyCritic:AutoFixedFor:
 Renraku.ReEngine>>#reset
+Renraku.ReEngine>>#rules
 Renraku.ReEngine>>#subscribe
 Renraku.ReMissingMethodCritic
 Renraku.ReMissingMethodCritic class>>#for:by:class:selector:
@@ -131,4 +144,5 @@ Renraku.ReTrivialCritic>>#selection
 Renraku.TBehavior>>#critics
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50443
+ScriptLoader50.ScriptLoader>>#update50443
 ScriptLoader50.ScriptLoader>>#update50444

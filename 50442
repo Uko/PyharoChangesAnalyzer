@@ -7,10 +7,18 @@ Reflectivity.Breakpoint class>>#inNode:
 Reflectivity.Breakpoint class>>#removeFrom:
 Reflectivity.Breakpoint2
 Reflectivity.Breakpoint2 class>>#break
+Reflectivity.Breakpoint2 class>>#installOn:
+Reflectivity.Breakpoint2 class>>#removeAll
+Reflectivity.Breakpoint2 class>>#removeFrom:
 Reflectivity.Breakpoint>>#condition:
+Reflectivity.Breakpoint>>#disable
+Reflectivity.Breakpoint>>#enable
 Reflectivity.Breakpoint>>#haltLink
 Reflectivity.Breakpoint>>#haltLinkOneShot
+Reflectivity.Breakpoint>>#haltNow
 Reflectivity.Breakpoint>>#initialize
+Reflectivity.Breakpoint>>#now
+Reflectivity.BreakpointManager
 Reflectivity.CompiledMethod>>#hasBreakpoint
 Rubric.RubWorkspaceExample class>>#exampleWindowWithScrolledText
 Rubric.RubWorkspaceExample class>>#exampleWithCustomShortcut
@@ -20,6 +28,7 @@ Rubric.RubWorkspaceExample class>>#title
 Rubric.RubWorkspaceExample class>>#windowWithScrolledText:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50441
+ScriptLoader50.ScriptLoader>>#update50441
 ScriptLoader50.ScriptLoader>>#update50442
 SmartSuggestions.SugsBreakpointSuggestion>>#breakpointForCondition
 SmartSuggestions.SugsBreakpointSuggestion>>#execute

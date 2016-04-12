@@ -1,5 +1,14 @@
+Kernel.ClassCategoryReader
+Kernel.ClassCategoryReader>>#scanFrom:
+Kernel.ClassCategoryReader>>#setClass:category:
+Kernel.ClassCategoryReader>>#setClass:category:changeStamp:
+Kernel.ClassCategoryReader>>#theClass
+Kernel.ClassCommentReader
+Kernel.ClassCommentReader class>>#forClass:
+Kernel.ClassCommentReader>>#scanFrom:
 Monticello.MCRepository>>#retryOnCredentialRequest:
 Monticello.MCRepository>>#storeVersion:
+MonticelloGUI.MCWorkingCopyBrowser>>#retryOnCredentialRequest:
 MonticelloGUI.MCWorkingCopyBrowser>>#storeDependencies:in:
 MonticelloGUI.MCWorkingCopyBrowser>>#storeVersion:in:
 MonticelloRemoteRepositories.MCHttpRepository>>#storeVersion:
@@ -7,5 +16,6 @@ Refactoring-Critics.RBLintRule class>>#isUsed
 SUnit-Core.TestCase class>>#isUsed
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50290
+ScriptLoader50.ScriptLoader>>#update50290
 ScriptLoader50.ScriptLoader>>#update50291
 System-Support.TBehavior>>#isUsed

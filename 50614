@@ -13,8 +13,10 @@ Kernel-Tests.DateAndTimeTest>>#testReadTimeZoneOffsetRFC822WithOtherCharactersAf
 Kernel-Tests.DateAndTimeTest>>#testReflexive
 Kernel-Tests.DateAndTimeTest>>#testSymmetric
 Kernel.DateAndTime class>>#readOptionalSeparatorFrom:
+Refactoring-Critics.SystemNavigation>>#implementorsExistOf:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50613
+ScriptLoader50.ScriptLoader>>#update50613
 ScriptLoader50.ScriptLoader>>#update50614
 SmartSuggestions.SugsWorkspaceContext
 SmartSuggestions.SugsWorkspaceContext>>#selectedClass

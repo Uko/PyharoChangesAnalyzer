@@ -50,6 +50,7 @@ ScriptLoader40.ScriptLoader>>#buildConfigurationMapFor:
 ScriptLoader40.ScriptLoader>>#checkImageIsUptodate
 ScriptLoader40.ScriptLoader>>#checkImageIsUptodateSilently
 ScriptLoader40.ScriptLoader>>#cleanRepositories
+ScriptLoader40.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader40.ScriptLoader>>#commentForIssues:
 ScriptLoader40.ScriptLoader>>#compileNewUpdateMethod
 ScriptLoader40.ScriptLoader>>#compileNewUpdateMethodSilentlyConfigurations:preLoad:postLoad:
@@ -78,8 +79,10 @@ ScriptLoader40.ScriptLoader>>#getLatestScriptNumber
 ScriptLoader40.ScriptLoader>>#getLatestUpdateNumber
 ScriptLoader40.ScriptLoader>>#getSliceIssuesNumbers
 ScriptLoader40.ScriptLoader>>#gofer
+ScriptLoader40.ScriptLoader>>#homeRepositoryUrlString
 ScriptLoader40.ScriptLoader>>#inboxRepository
 ScriptLoader40.ScriptLoader>>#inboxRepositoryDefault
+ScriptLoader40.ScriptLoader>>#inboxRepositoryUrlString
 ScriptLoader40.ScriptLoader>>#installRepository:for:
 ScriptLoader40.ScriptLoader>>#installVersionInfo
 ScriptLoader40.ScriptLoader>>#latestScriptLoaderPackageIdentificationString
@@ -131,6 +134,7 @@ ScriptLoader40.ScriptLoader>>#taskForcesRepositoryUrlString
 ScriptLoader40.ScriptLoader>>#unloadPackage:
 ScriptLoader40.ScriptLoader>>#unloadPackageNamed:
 ScriptLoader40.ScriptLoader>>#unregisterPackage:
+ScriptLoader40.ScriptLoader>>#update40609
 ScriptLoader40.ScriptLoader>>#updateStageList:
 ScriptLoader40.ScriptLoader>>#updateUpdatesList:
 ScriptLoader40.ScriptLoader>>#updatesListFile

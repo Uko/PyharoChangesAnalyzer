@@ -1,8 +1,10 @@
 Growl.GrowlMorph class>>#growlSettingsOn:
+NautilusCommon.RGClassDefinition>>#definition
 Ring-Core-Kernel.RGBehaviorDefinition>>#definition
 Rubric.RubTextAreaExamples class>>#profileSourcesFileViewing
 Rubric.RubTextAreaExamples class>>#show:while:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50540
+ScriptLoader50.ScriptLoader>>#update50540
 ScriptLoader50.ScriptLoader>>#update50541
 Tool-ExternalBrowser.ExternalBrowser>>#showClassDefinition

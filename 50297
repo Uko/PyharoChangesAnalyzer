@@ -29,4 +29,5 @@ Glamour-Core.GLMPresentation>>#hasTransformation
 Glamour-Morphic-Renderer.GLMMorphicListingRenderer>>#textInputFor:withHelpMessage:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50296
+ScriptLoader50.ScriptLoader>>#update50296
 ScriptLoader50.ScriptLoader>>#update50297

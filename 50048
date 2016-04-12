@@ -1,8 +1,13 @@
 DebuggerModel.DebugContext>>#confirmOnTraitOverwrite:inClass:
+FileSystem-Zip.ZipFileSystemDirectory>>#ensureCreateDirectory:
 Graphics-Files.ImageReadWriter class>>#formFromStream:
 Graphics-Files.ImageReadWriter class>>#readerClassFromStream:
+Kernel.DelayNullScheduler>>#schedulingProcess
+Morphic-Base.UpdatingMenuItemMorph>>#balloonText:
 Refactoring-Critics.RBFutureDeprecationWarningRule>>#checkMethod:
 Refactoring-Critics.RBFutureDeprecationWarningRule>>#oldSelectors
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50047
+ScriptLoader50.ScriptLoader>>#update50047
 ScriptLoader50.ScriptLoader>>#update50048
+UIManager.StartupUIManager>>#deactivate

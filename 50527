@@ -1,6 +1,7 @@
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#stable:
 ConfigurationOfFastTable.ConfigurationOfFastTable>>#version083:
 Morphic-Widgets-FastTable.FTTableContainerMorph>>#drawOn:
+Morphic-Widgets-FastTable.FTTableContainerMorph>>#toSelectionRow:primary:
 Morphic-Widgets-FastTable.FTTableContainerMorph>>#updateExposedRows
 Morphic-Widgets-FastTable.FTTableMorph>>#colorForSelection:
 Morphic-Widgets-FastTable.FTTableMorph>>#selectRowIndex:event:
@@ -11,7 +12,12 @@ Morphic-Widgets-FastTable.FTTableRowMorph>>#mouseEnter:
 Morphic-Widgets-FastTable.FTTableRowMorph>>#mouseLeave:
 Morphic-Widgets-FastTable.FTTableRowMorph>>#selectionColor
 Morphic-Widgets-FastTable.FTTableRowMorph>>#selectionColor:
+Morphic-Widgets-FastTable.FTTableSelectionMorph
+Morphic-Widgets-FastTable.FTTableSelectionMorph class>>#new
+Morphic-Widgets-FastTable.FTTableSelectionMorph class>>#table:row:primary:
+Morphic-Widgets-FastTable.FTTableSelectionMorph>>#initializeTable:row:primary:
 Nautilus.AbstractNautilusUI>>#runTestsOfClass:notifying:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50526
+ScriptLoader50.ScriptLoader>>#update50526
 ScriptLoader50.ScriptLoader>>#update50527

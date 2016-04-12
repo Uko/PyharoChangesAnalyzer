@@ -13,6 +13,7 @@ NonInteractiveTranscript.ManifestNonInteractiveTranscript
 NonInteractiveTranscript.ManifestNonInteractiveTranscript class>>#manuallyResolvedDependencies
 Polymorph-Widgets.EclipseUIThemeIcons>>#hierarchyIcon
 Polymorph-Widgets.EclipseUIThemeIcons>>#smallHiararchyBrowserIconContents
+Polymorph-Widgets.EclipseUIThemeIcons>>#smallHierarchyBrowserIconContents
 Polymorph-Widgets.ThemeIcons>>#commentsIcon
 Polymorph-Widgets.ThemeIcons>>#hierarchyIcon
 Ring-Core-Kernel.ManifestRingCoreKernel
@@ -22,6 +23,7 @@ Ring-Monticello.ManifestRingMonticello class>>#manuallyResolvedDependencies
 SUnit-Core.ManifestSUnitCore
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50225
+ScriptLoader50.ScriptLoader>>#update50225
 ScriptLoader50.ScriptLoader>>#update50226
 Slot-Tests.SlotAnnouncementsTest>>#testCreateAndChangeWithCommentDoesAnnounceBoth
 Slot-Tests.SlotAnnouncementsTest>>#testCreateWithCommentDoesAnnounce

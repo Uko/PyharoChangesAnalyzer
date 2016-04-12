@@ -3,4 +3,5 @@ FFI-NB.FFIMethodRegistry class>>#initializeStartUpList
 FFI-NB.FFIMethodRegistry>>#checkPlatform
 FFI-NB.FFIMethodRegistry>>#reset
 ScriptLoader50.ScriptLoader>>#script50498
+ScriptLoader50.ScriptLoader>>#update50498
 ScriptLoader50.ScriptLoader>>#update50499

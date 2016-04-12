@@ -1,9 +1,20 @@
 ConfigurationOfRubric.ConfigurationOfRubric>>#version133:
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioSelectedForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioSelectedFormContents
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioUnselectedForm
+Polymorph-Widgets.Pharo3UIThemeIcons class>>#radioUnselectedFormContents
+Polymorph-Widgets.PharoUIThemeIcons class>>#radioSelectedForm
+Polymorph-Widgets.PharoUIThemeIcons class>>#radioUnselectedForm
+Polymorph-Widgets.PharoUIThemeIcons>>#radioSelectedForm
+Polymorph-Widgets.PharoUIThemeIcons>>#radioSelectedFormContents
+Polymorph-Widgets.PharoUIThemeIcons>>#radioUnselectedForm
+Polymorph-Widgets.PharoUIThemeIcons>>#radioUnselectedFormContents
 Rubric.RubFindReplaceDialogWindow
 Rubric.RubFindReplaceDialogWindow>>#findTextFieldMorph
 Rubric.RubFindReplaceDialogWindow>>#newFindTextEntryMorph
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50112
+ScriptLoader50.ScriptLoader>>#update50112
 ScriptLoader50.ScriptLoader>>#update50113
 Text-Edition.EditorFindReplaceDialogWindow
 Text-Edition.EditorFindReplaceDialogWindow>>#findTextFieldMorph

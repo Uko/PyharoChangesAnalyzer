@@ -1,8 +1,10 @@
 FontInfrastructure.LogicalFont>>#lineGrid
 FreeType.FreeTypeFont>>#familyName
 NECompletion.NECPreferences class>>#overrideModel:
+Reflectivity-Tools.BreakpointIconStyler>>#iconLabel
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50476
+ScriptLoader50.ScriptLoader>>#update50476
 ScriptLoader50.ScriptLoader>>#update50477
 Spec-Examples.DynamicWidgetChange>>#change
 Spec-Examples.TabsExample>>#dynamicTab

@@ -2,6 +2,7 @@ Refactoring-Core.RBAbstractClass>>#existingMethodsThatReferTo:
 Refactoring-Environment.RBSelectorEnvironment class>>#referencesTo:in:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50257
+ScriptLoader50.ScriptLoader>>#update50257
 ScriptLoader50.ScriptLoader>>#update50258
 System-Support.SystemNavigation>>#allCallsOn:from:
 System-Support.SystemNavigation>>#allLocalCallsOn:ofClass:

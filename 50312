@@ -6,6 +6,7 @@ Nautilus.AbstractNautilusUI>>#runTestsOfClass:notifying:
 Polymorph-Widgets.TEasilyThemed>>#fileSave:initialAnswer:extensions:path:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50311
+ScriptLoader50.ScriptLoader>>#update50311
 ScriptLoader50.ScriptLoader>>#update50312
 Tool-Catalog.CatalogBrowser>>#availableRepositoryURLStrings
 Tool-Catalog.CatalogBrowser>>#buildContextMenuOn:
@@ -19,11 +20,14 @@ Tool-Catalog.CatalogBrowser>>#loadConfigurationButton:
 Tool-Catalog.CatalogBrowser>>#loadConfigurationMenuItem:
 Tool-Catalog.CatalogBrowser>>#repositoryObjectFromURLString:
 Tool-Catalog.CatalogProject class>>#availableRepositoryURLStrings
+Tool-Catalog.CatalogProject class>>#createRepositoryNames
 Tool-Catalog.CatalogProject class>>#createRepositoryURLtoNameMappings
 Tool-Catalog.CatalogProject class>>#pharoCurrentDottedName
 Tool-Catalog.CatalogProject class>>#pharoCurrentMajorName
 Tool-Catalog.CatalogProject class>>#pharoDistributionRepository
+Tool-Catalog.CatalogProject class>>#repositoryNames
 Tool-Catalog.CatalogProject class>>#repositoryURLToNameMappings
 Tool-Catalog.CatalogProject>>#allKeywords
 Tool-Catalog.CatalogProject>>#isAvailableForCurrentPharo
+Tool-Catalog.CatalogProject>>#repository
 Tool-Catalog.CatalogProject>>#repositoryName

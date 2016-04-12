@@ -54,6 +54,7 @@ Polymorph-Widgets.IdentifierChooserMorph>>#selectPreviousItem
 Polymorph-Widgets.IdentifierChooserMorph>>#switchToOtherColumn:
 ScriptLoader50.ScriptLoader>>#commentForCurrentUpdate
 ScriptLoader50.ScriptLoader>>#script50306
+ScriptLoader50.ScriptLoader>>#update50306
 ScriptLoader50.ScriptLoader>>#update50307
 Spec-MorphicAdapters.MorphicMenuAdapter>>#buildWidgetPopup
 Tool-FileList.MenuMorph>>#addServices:for:extraLines:
